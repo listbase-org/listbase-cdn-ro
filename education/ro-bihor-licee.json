@@ -1,0 +1,358 @@
+{
+  "id": "ro-bihor-licee",
+  "name": "Licee si colegii din judetul Bihor",
+  "title": "Licee si colegii din judetul Bihor",
+  "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Bihor (52 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 52,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "COLEGIUL AGRICOL NR. 1 VALEA LUI MIHAI",
+      "slug": "colegiul-agricol-nr-1-valea-lui-mihai",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "COLEGIUL ECONOMIC \"PARTENIE COSMA\" ORADEA",
+      "slug": "colegiul-economic-partenie-cosma-oradea",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"AVRAM IANCU\" ȘTEI",
+      "slug": "colegiul-national-avram-iancu-stei",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"EMANUIL GOJDU\" ORADEA",
+      "slug": "colegiul-national-emanuil-gojdu-oradea",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"IOSIF VULCAN\" ORADEA",
+      "slug": "colegiul-national-iosif-vulcan-oradea",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"MIHAI EMINESCU\" ORADEA",
+      "slug": "colegiul-national-mihai-eminescu-oradea",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"OCTAVIAN GOGA\" MARGHITA",
+      "slug": "colegiul-national-octavian-goga-marghita",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"SAMUIL VULCAN\" BEIUȘ",
+      "slug": "colegiul-national-samuil-vulcan-beius",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"TEODOR NEȘ\" SALONTA",
+      "slug": "colegiul-national-teodor-nes-salonta",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC NR. 1 VADU CRIŞULUI",
+      "slug": "colegiul-tehnic-nr-1-vadu-crisului",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"ALEXANDRU ROMAN\" ALEȘD",
+      "slug": "colegiul-tehnic-alexandru-roman-alesd",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"CONSTANTIN BRÂNCUȘI\" ORADEA",
+      "slug": "colegiul-tehnic-constantin-brancusi-oradea",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"IOAN CIORDAȘ\" BEIUȘ",
+      "slug": "colegiul-tehnic-ioan-ciordas-beius",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"MIHAI VITEAZUL\" ORADEA",
+      "slug": "colegiul-tehnic-mihai-viteazul-oradea",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"TRAIAN VUIA\" ORADEA",
+      "slug": "colegiul-tehnic-traian-vuia-oradea",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"TRANSILVANIA\" ORADEA",
+      "slug": "colegiul-tehnic-transilvania-oradea",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"UNIREA\" ȘTEI",
+      "slug": "colegiul-tehnic-unirea-stei",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "LICEUL CU PROGRAM SPORTIV \"BIHORUL\" ORADEA",
+      "slug": "liceul-cu-program-sportiv-bihorul-oradea",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "LICEUL DE ARTE ORADEA",
+      "slug": "liceul-de-arte-oradea",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "LICEUL GRECO-CATOLIC \"IULIU MANIU\" ORADEA",
+      "slug": "liceul-greco-catolic-iuliu-maniu-oradea",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "LICEUL ORTODOX \"EPISCOP ROMAN CIOROGARIU\" ORADEA",
+      "slug": "liceul-ortodox-episcop-roman-ciorogariu-oradea",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "LICEUL PARTICULAR \"HENRI COANDĂ\" ORADEA",
+      "slug": "liceul-particular-henri-coanda-oradea",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "LICEUL REFORMAT \"LORANTFFY ZSUZSANNA\" ORADEA",
+      "slug": "liceul-reformat-lorantffy-zsuzsanna-oradea",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC AGROINDUSTRIAL \"TAMASI ARON\" BORȘ",
+      "slug": "liceul-tehnologic-agroindustrial-tamasi-aron-bors",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC NR. 1 CADEA",
+      "slug": "liceul-tehnologic-nr-1-cadea",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC NR. 1 DOBREŞTI",
+      "slug": "liceul-tehnologic-nr-1-dobresti",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC NR. 1 POPEȘTI",
+      "slug": "liceul-tehnologic-nr-1-popesti",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC NR. 1 SALONTA",
+      "slug": "liceul-tehnologic-nr-1-salonta",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC NR. 1 SUPLACU DE BARCĂU",
+      "slug": "liceul-tehnologic-nr-1-suplacu-de-barcau",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC NR. 1 ŞUNCUIUŞ",
+      "slug": "liceul-tehnologic-nr-1-suncuius",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC SANITAR \"VASILE VOICULESCU\" ORADEA",
+      "slug": "liceul-tehnologic-sanitar-vasile-voiculescu-oradea",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC SPECIAL NR.1 ORADEA",
+      "slug": "liceul-tehnologic-special-nr-1-oradea",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"GEORGIANA\" ORADEA",
+      "slug": "liceul-tehnologic-georgiana-oradea",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"HOREA\" MARGHITA",
+      "slug": "liceul-tehnologic-horea-marghita",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "LICEUL TEOLOGIC BAPTIST \"EMANUEL\" ORADEA",
+      "slug": "liceul-teologic-baptist-emanuel-oradea",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "LICEUL TEOLOGIC PENTICOSTAL \"BETEL\" ORADEA",
+      "slug": "liceul-teologic-penticostal-betel-oradea",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "LICEUL TEOLOGIC ROMANO-CATOLIC \"SZENT LASZLO\" ORADEA",
+      "slug": "liceul-teologic-romano-catolic-szent-laszlo-oradea",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "LICEUL TEORETIC GERMAN \"FRIEDRICH SCHILLER\" ORADEA",
+      "slug": "liceul-teoretic-german-friedrich-schiller-oradea",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "LICEUL TEORETIC NR. 1 BRATCA",
+      "slug": "liceul-teoretic-nr-1-bratca",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"ADY ENDRE\" ORADEA",
+      "slug": "liceul-teoretic-ady-endre-oradea",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"ARANY JANOS\" SALONTA",
+      "slug": "liceul-teoretic-arany-janos-salonta",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"AUREL LAZĂR\" ORADEA",
+      "slug": "liceul-teoretic-aurel-lazar-oradea",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"CONSTANTIN ȘERBAN\" ALEȘD",
+      "slug": "liceul-teoretic-constantin-serban-alesd",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"GABRIEL ŢEPELEA\" BOROD",
+      "slug": "liceul-teoretic-gabriel-tepelea-borod",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"HORVATH JANOS\" MARGHITA",
+      "slug": "liceul-teoretic-horvath-janos-marghita",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"JOZEF KOZACEK\" BUDOI",
+      "slug": "liceul-teoretic-jozef-kozacek-budoi",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"LUCIAN BLAGA\" ORADEA",
+      "slug": "liceul-teoretic-lucian-blaga-oradea",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"NICOLAE JIGA\" TINCA",
+      "slug": "liceul-teoretic-nicolae-jiga-tinca",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"ONISIFOR GHIBU\" ORADEA",
+      "slug": "liceul-teoretic-onisifor-ghibu-oradea",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"PETOFI SANDOR\" SĂCUENI",
+      "slug": "liceul-teoretic-petofi-sandor-sacueni",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "LICEUL VOCAȚIONAL PEDAGOGIC \"NICOLAE BOLCAȘ\" BEIUȘ",
+      "slug": "liceul-vocational-pedagogic-nicolae-bolcas-beius",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    },
+    {
+      "nume": "LICEUL \"DON ORIONE\" ORADEA",
+      "slug": "liceul-don-orione-oradea",
+      "judet": "BIHOR",
+      "judet_slug": "bihor"
+    }
+  ],
+  "meta": {
+    "title": "Licee si colegii din judetul Bihor - Descărcare gratuită",
+    "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Bihor (52 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor. Conține 52 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Licee si colegii din judetul Bihor | ListBase",
+    "seo_description": "Descarcă Licee si colegii din judetul Bihor — 52 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 52 înregistrări / 4 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

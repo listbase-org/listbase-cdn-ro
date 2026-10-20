@@ -1,0 +1,211 @@
+{
+  "id": "ro-patrimoniul-mondial-unesco",
+  "name": "Patrimoniul mondial UNESCO în România",
+  "title": "Patrimoniul mondial UNESCO în România",
+  "description": "Lista siturilor din patrimoniul mondial UNESCO aflate în România",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "states",
+      "label": "States",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    },
+    {
+      "key": "danger",
+      "label": "Danger",
+      "type": "boolean"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "short_description",
+      "label": "Short Description",
+      "type": "string"
+    },
+    {
+      "key": "id_number",
+      "label": "Id Number",
+      "type": "number"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Danube Delta",
+      "category": "Natural",
+      "date_inscribed": 1991,
+      "criteria": "(vii)(x)",
+      "region": "Europe and North America",
+      "states": "Romania",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 45.08333,
+      "longitude": 29.5,
+      "short_description": "The waters of the Danube, which flow into the Black Sea, form the largest and best preserved of Europe's deltas. The Danube delta hosts over 300 species of birds as well as 45 freshwater fish species in its numerous lakes and marshes.",
+      "id_number": 588,
+      "url": "https://whc.unesco.org/en/list/588"
+    },
+    {
+      "name": "Churches of Moldavia",
+      "category": "Cultural",
+      "date_inscribed": 1993,
+      "criteria": "(i)(iv)",
+      "region": "Europe and North America",
+      "states": "Romania",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 47.778333,
+      "longitude": 25.712778,
+      "short_description": "These eight churches of northern Moldavia, built from the late 15th century to the late 16th century, their external walls covered in fresco paintings, are masterpieces inspired by Byzantine art. They are authentic and particularly well preserved. Far from being mere wall decorations, the paintings form a systematic covering on all the facades and represent complete cycles of religious themes.Their exceptional composition, the elegance of the characters, and the harmony of the colors blend perfectly with the surrounding countryside. The interior and exterior walls of the Church of the Suceviţa Monastery are entirely decorated with mural paintings of the 16th century, and this church is the only one to show a representation of the ladder of St John Climacus.",
+      "id_number": 598,
+      "url": "https://whc.unesco.org/en/list/598"
+    },
+    {
+      "name": "Monastery of Horezu",
+      "category": "Cultural",
+      "date_inscribed": 1993,
+      "criteria": "(ii)",
+      "region": "Europe and North America",
+      "states": "Romania",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 45.183333,
+      "longitude": 24.016667,
+      "short_description": "Founded in 1690 by Prince Constantine Brancovan, the monastery of Horezu, in Walachia, is a masterpiece of the 'Brancovan' style. It is known for its architectural purity and balance, the richness of its sculptural detail, the treatment of its religious compositions, its votive portraits and its painted decorative works. The school of mural and icon painting established at the monastery in the 18th century was famous throughout the Balkan region.",
+      "id_number": 597,
+      "url": "https://whc.unesco.org/en/list/597"
+    },
+    {
+      "name": "Villages with Fortified Churches in Transylvania",
+      "category": "Cultural",
+      "date_inscribed": 1993,
+      "criteria": "(iv)",
+      "region": "Europe and North America",
+      "states": "Romania",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 46.135833,
+      "longitude": 24.773056,
+      "short_description": "These Transylvanian villages with their fortified churches provide a vivid picture of the cultural landscape of southern Transylvania. The seven villages inscribed, founded by the Transylvanian Saxons, are characterized by a specific land-use system, settlement pattern and organization of the family farmstead that have been preserved since the late Middle Ages. They are dominated by their fortified churches, which illustrate building styles from the 13th to the 16th century.",
+      "id_number": 596,
+      "url": "https://whc.unesco.org/en/list/596"
+    },
+    {
+      "name": "Dacian Fortresses of the Orastie Mountains",
+      "category": "Cultural",
+      "date_inscribed": 1999,
+      "criteria": "(ii)(iii)(iv)",
+      "region": "Europe and North America",
+      "states": "Romania",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 45.623056,
+      "longitude": 23.311944,
+      "short_description": "Built in the 1st centuries B.C. and A.D. under Dacian rule, these fortresses show an unusual fusion of military and religious architectural techniques and concepts from the classical world and the late European Iron Age. The six defensive works, the nucleus of the Dacian Kingdom, were conquered by the Romans at the beginning of the 2nd century A.D.; their extensive and well-preserved remains stand in spectacular natural surroundings and give a dramatic picture of a vigorous and innovative civilization.",
+      "id_number": 906,
+      "url": "https://whc.unesco.org/en/list/906"
+    },
+    {
+      "name": "Historic Centre of Sighişoara",
+      "category": "Cultural",
+      "date_inscribed": 1999,
+      "criteria": "(iii)(v)",
+      "region": "Europe and North America",
+      "states": "Romania",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 46.217778,
+      "longitude": 24.792222,
+      "short_description": "Founded by German craftsmen and merchants known as the Saxons of Transylvania, Sighişoara is a fine example of a small, fortified medieval town which played an important strategic and commercial role on the fringes of central Europe for several centuries.",
+      "id_number": 902,
+      "url": "https://whc.unesco.org/en/list/902"
+    },
+    {
+      "name": "Wooden Churches of Maramureş",
+      "category": "Cultural",
+      "date_inscribed": 1999,
+      "criteria": "(iv)",
+      "region": "Europe and North America",
+      "states": "Romania",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 47.820833,
+      "longitude": 24.055833,
+      "short_description": "These eight churches are outstanding examples of a range of architectural solutions from different periods and areas. They show the variety of designs and craftsmanship adopted in these narrow, high, timber constructions with their characteristic tall, slim clock towers at the western end of the building, either single- or double-roofed and covered by shingles. As such, they are a particular vernacular expression of the cultural landscape of this mountainous area of northern Romania.",
+      "id_number": 904,
+      "url": "https://whc.unesco.org/en/list/904"
+    },
+    {
+      "name": "Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe",
+      "category": "Natural",
+      "date_inscribed": 2007,
+      "criteria": "(ix)",
+      "region": "Europe and North America",
+      "states": "Albania, Austria, Belgium, Bulgaria, Croatia, Germany, Italy, Romania, Slovakia, Slovenia, Spain, Ukraine",
+      "transboundary": true,
+      "danger": false,
+      "latitude": 49.009722,
+      "longitude": 22.338889,
+      "short_description": "This transboundary property stretches over 12 countries. Since the end of the last Ice Age, European Beech spread from a few isolated refuge areas in the Alps, Carpathians , Dinarides , Mediterranean and Pyrenees over a short period of a few thousand years in a process that is still ongoing. The successful expansion across a whole continent is related to the tree’s adaptability and tolerance of different climatic, geographical and physical conditions.",
+      "id_number": 1133,
+      "url": "https://whc.unesco.org/en/list/1133"
+    }
+  ],
+  "meta": {
+    "title": "Patrimoniul mondial UNESCO în România - Descărcare gratuită",
+    "description": "Lista siturilor din patrimoniul mondial UNESCO aflate în România Conține 8 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Patrimoniul mondial UNESCO în România | ListBase",
+    "seo_description": "Descarcă Patrimoniul mondial UNESCO în România — 8 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 8 înregistrări / 13 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

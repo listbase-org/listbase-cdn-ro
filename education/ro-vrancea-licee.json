@@ -1,0 +1,178 @@
+{
+  "id": "ro-vrancea-licee",
+  "name": "Licee si colegii din judetul Vrancea",
+  "title": "Licee si colegii din judetul Vrancea",
+  "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Vrancea (22 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "CENTRUL DE EDUCATIE INCLUSIVĂ \"ELENA DOAMNA\" FOCȘANI",
+      "slug": "centrul-de-educatie-inclusiva-elena-doamna-focsani",
+      "judet": "VRANCEA",
+      "judet_slug": "vrancea"
+    },
+    {
+      "nume": "COLEGIUL AUTO \"TRAIAN VUIA\" FOCȘANI",
+      "slug": "colegiul-auto-traian-vuia-focsani",
+      "judet": "VRANCEA",
+      "judet_slug": "vrancea"
+    },
+    {
+      "nume": "COLEGIUL ECONOMIC \"MIHAIL KOGĂLNICEANU\" FOCȘANI",
+      "slug": "colegiul-economic-mihail-kogalniceanu-focsani",
+      "judet": "VRANCEA",
+      "judet_slug": "vrancea"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"AL. I. CUZA\" FOCȘANI",
+      "slug": "colegiul-national-al-i-cuza-focsani",
+      "judet": "VRANCEA",
+      "judet_slug": "vrancea"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"EMIL BOTTA\" ADJUD",
+      "slug": "colegiul-national-emil-botta-adjud",
+      "judet": "VRANCEA",
+      "judet_slug": "vrancea"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"UNIREA\" FOCȘANI",
+      "slug": "colegiul-national-unirea-focsani",
+      "judet": "VRANCEA",
+      "judet_slug": "vrancea"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"EDMOND NICOLAU\" FOCȘANI",
+      "slug": "colegiul-tehnic-edmond-nicolau-focsani",
+      "judet": "VRANCEA",
+      "judet_slug": "vrancea"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"GHEORGHE ASACHI\" FOCȘANI",
+      "slug": "colegiul-tehnic-gheorghe-asachi-focsani",
+      "judet": "VRANCEA",
+      "judet_slug": "vrancea"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"GHEORGHE BALȘ\" ADJUD",
+      "slug": "colegiul-tehnic-gheorghe-bals-adjud",
+      "judet": "VRANCEA",
+      "judet_slug": "vrancea"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"ION MINCU\" FOCȘANI",
+      "slug": "colegiul-tehnic-ion-mincu-focsani",
+      "judet": "VRANCEA",
+      "judet_slug": "vrancea"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"VALERIU D.COTEA\" FOCȘANI",
+      "slug": "colegiul-tehnic-valeriu-d-cotea-focsani",
+      "judet": "VRANCEA",
+      "judet_slug": "vrancea"
+    },
+    {
+      "nume": "GRUP ȘCOLAR \"GRIGORE GHEBA\" DUMITREȘTI",
+      "slug": "grup-scolar-grigore-gheba-dumitresti",
+      "judet": "VRANCEA",
+      "judet_slug": "vrancea"
+    },
+    {
+      "nume": "GRUP ȘCOLAR \"SIMION MEHEDINȚI\" VIDRA",
+      "slug": "grup-scolar-simion-mehedinti-vidra",
+      "judet": "VRANCEA",
+      "judet_slug": "vrancea"
+    },
+    {
+      "nume": "LICEUL CU PROGRAM SPORTIV FOCȘANI",
+      "slug": "liceul-cu-program-sportiv-focsani",
+      "judet": "VRANCEA",
+      "judet_slug": "vrancea"
+    },
+    {
+      "nume": "LICEUL DE ARTE \"GH. TĂTTĂRESCU\" FOCȘANI",
+      "slug": "liceul-de-arte-gh-tattarescu-focsani",
+      "judet": "VRANCEA",
+      "judet_slug": "vrancea"
+    },
+    {
+      "nume": "LICEUL PEDAGOGIC \"SPIRU HARET\" FOCȘANI",
+      "slug": "liceul-pedagogic-spiru-haret-focsani",
+      "judet": "VRANCEA",
+      "judet_slug": "vrancea"
+    },
+    {
+      "nume": "LICEUL TEHNIC \"G. G. LONGINESCU\" FOCȘANI",
+      "slug": "liceul-tehnic-g-g-longinescu-focsani",
+      "judet": "VRANCEA",
+      "judet_slug": "vrancea"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC ODOBEȘTI",
+      "slug": "liceul-tehnologic-odobesti",
+      "judet": "VRANCEA",
+      "judet_slug": "vrancea"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"AL. I. CUZA\" PANCIU",
+      "slug": "liceul-tehnologic-al-i-cuza-panciu",
+      "judet": "VRANCEA",
+      "judet_slug": "vrancea"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"EREMIA GRIGORESCU\" MĂRĂȘEȘTI",
+      "slug": "liceul-tehnologic-eremia-grigorescu-marasesti",
+      "judet": "VRANCEA",
+      "judet_slug": "vrancea"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"DUILIU ZAMFIRESCU\" ODOBEȘTI",
+      "slug": "liceul-teoretic-duiliu-zamfirescu-odobesti",
+      "judet": "VRANCEA",
+      "judet_slug": "vrancea"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"IOAN SLAVICI\" PANCIU",
+      "slug": "liceul-teoretic-ioan-slavici-panciu",
+      "judet": "VRANCEA",
+      "judet_slug": "vrancea"
+    }
+  ],
+  "meta": {
+    "title": "Licee si colegii din judetul Vrancea - Descărcare gratuită",
+    "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Vrancea (22 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor. Conține 22 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Licee si colegii din judetul Vrancea | ListBase",
+    "seo_description": "Descarcă Licee si colegii din judetul Vrancea — 22 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 22 înregistrări / 4 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

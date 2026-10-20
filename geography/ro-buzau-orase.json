@@ -1,0 +1,166 @@
+{
+  "id": "ro-buzau-orase",
+  "name": "Orașele și municipiile județului Buzău",
+  "title": "Orașele și municipiile județului Buzău",
+  "description": "Lista celor 5 de orașe, municipii din județul Buzău (BZ) — unități administrativ-teritoriale urbane de nivel 2 conform SIRUTA. Reședința de județ este marcată cu is_resedinta_judet=true.",
+  "category": "geography",
+  "source": "https://github.com/ionelmc/django-siruta",
+  "source_url": "https://github.com/ionelmc/django-siruta",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "siruta_code",
+      "label": "Siruta Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_official",
+      "label": "Name Official",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet_id",
+      "label": "Judet Id",
+      "type": "number"
+    },
+    {
+      "key": "judet_name",
+      "label": "Judet Name",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "tip_code",
+      "label": "Tip Code",
+      "type": "number"
+    },
+    {
+      "key": "tip_name",
+      "label": "Tip Name",
+      "type": "string"
+    },
+    {
+      "key": "is_resedinta_judet",
+      "label": "Is Resedinta Judet",
+      "type": "boolean"
+    },
+    {
+      "key": "regiune_id",
+      "label": "Regiune Id",
+      "type": "number"
+    },
+    {
+      "key": "nuts3",
+      "label": "Nuts3",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "siruta_code": 44818,
+      "name": "Buzău",
+      "name_official": "MUNICIPIUL BUZĂU",
+      "slug": "buzau",
+      "judet_id": 10,
+      "judet_name": "Buzău",
+      "judet_slug": "buzau",
+      "iso_3166_2": "RO-BZ",
+      "tip_code": 1,
+      "tip_name": "municipiu reședință de județ",
+      "is_resedinta_judet": true,
+      "regiune_id": 2,
+      "nuts3": "RO222"
+    },
+    {
+      "siruta_code": 47916,
+      "name": "Nehoiu",
+      "name_official": "ORAȘ NEHOIU",
+      "slug": "nehoiu",
+      "judet_id": 10,
+      "judet_name": "Buzău",
+      "judet_slug": "buzau",
+      "iso_3166_2": "RO-BZ",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 2,
+      "nuts3": "RO222"
+    },
+    {
+      "siruta_code": 48744,
+      "name": "Pogoanele",
+      "name_official": "ORAȘ POGOANELE",
+      "slug": "pogoanele",
+      "judet_id": 10,
+      "judet_name": "Buzău",
+      "judet_slug": "buzau",
+      "iso_3166_2": "RO-BZ",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 2,
+      "nuts3": "RO222"
+    },
+    {
+      "siruta_code": 48325,
+      "name": "Pătârlagele",
+      "name_official": "ORAȘ PĂTÂRLAGELE",
+      "slug": "patarlagele",
+      "judet_id": 10,
+      "judet_name": "Buzău",
+      "judet_slug": "buzau",
+      "iso_3166_2": "RO-BZ",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 2,
+      "nuts3": "RO222"
+    },
+    {
+      "siruta_code": 44845,
+      "name": "Râmnicu Sărat",
+      "name_official": "MUNICIPIUL RÂMNICU SĂRAT",
+      "slug": "ramnicu-sarat",
+      "judet_id": 10,
+      "judet_name": "Buzău",
+      "judet_slug": "buzau",
+      "iso_3166_2": "RO-BZ",
+      "tip_code": 4,
+      "tip_name": "municipiu",
+      "is_resedinta_judet": false,
+      "regiune_id": 2,
+      "nuts3": "RO222"
+    }
+  ],
+  "meta": {
+    "title": "Orașele și municipiile județului Buzău - Descărcare gratuită",
+    "description": "Lista celor 5 de orașe, municipii din județul Buzău (BZ) — unități administrativ-teritoriale urbane de nivel 2 conform SIRUTA. Reședința de județ este marcată cu is_resedinta_judet=true. Conține 5 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Orașele și municipiile județului Buzău | ListBase",
+    "seo_description": "Descarcă Orașele și municipiile județului Buzău — 5 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 5 înregistrări / 13 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: https://github.com/ionelmc/django-siruta"
+    ]
+  }
+}

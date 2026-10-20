@@ -1,0 +1,241 @@
+{
+  "id": "ro-arad-orase",
+  "name": "Orașele și municipiile județului Arad",
+  "title": "Orașele și municipiile județului Arad",
+  "description": "Lista celor 10 de orașe, municipii din județul Arad (AR) — unități administrativ-teritoriale urbane de nivel 2 conform SIRUTA. Reședința de județ este marcată cu is_resedinta_judet=true.",
+  "category": "geography",
+  "source": "https://github.com/ionelmc/django-siruta",
+  "source_url": "https://github.com/ionelmc/django-siruta",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "siruta_code",
+      "label": "Siruta Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_official",
+      "label": "Name Official",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet_id",
+      "label": "Judet Id",
+      "type": "number"
+    },
+    {
+      "key": "judet_name",
+      "label": "Judet Name",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "tip_code",
+      "label": "Tip Code",
+      "type": "number"
+    },
+    {
+      "key": "tip_name",
+      "label": "Tip Name",
+      "type": "string"
+    },
+    {
+      "key": "is_resedinta_judet",
+      "label": "Is Resedinta Judet",
+      "type": "boolean"
+    },
+    {
+      "key": "regiune_id",
+      "label": "Regiune Id",
+      "type": "number"
+    },
+    {
+      "key": "nuts3",
+      "label": "Nuts3",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "siruta_code": 9262,
+      "name": "Arad",
+      "name_official": "MUNICIPIUL ARAD",
+      "slug": "arad",
+      "judet_id": 2,
+      "judet_name": "Arad",
+      "judet_slug": "arad",
+      "iso_3166_2": "RO-AR",
+      "tip_code": 1,
+      "tip_name": "municipiu reședință de județ",
+      "is_resedinta_judet": true,
+      "regiune_id": 5,
+      "nuts3": "RO421"
+    },
+    {
+      "siruta_code": 9459,
+      "name": "Chișineu-Criș",
+      "name_official": "ORAȘ CHIȘINEU-CRIȘ",
+      "slug": "chisineu-cris",
+      "judet_id": 2,
+      "judet_name": "Arad",
+      "judet_slug": "arad",
+      "iso_3166_2": "RO-AR",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 5,
+      "nuts3": "RO421"
+    },
+    {
+      "siruta_code": 9495,
+      "name": "Curtici",
+      "name_official": "ORAȘ CURTICI",
+      "slug": "curtici",
+      "judet_id": 2,
+      "judet_name": "Arad",
+      "judet_slug": "arad",
+      "iso_3166_2": "RO-AR",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 5,
+      "nuts3": "RO421"
+    },
+    {
+      "siruta_code": 9538,
+      "name": "Ineu",
+      "name_official": "ORAȘ INEU",
+      "slug": "ineu",
+      "judet_id": 2,
+      "judet_name": "Arad",
+      "judet_slug": "arad",
+      "iso_3166_2": "RO-AR",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 5,
+      "nuts3": "RO421"
+    },
+    {
+      "siruta_code": 9574,
+      "name": "Lipova",
+      "name_official": "ORAȘ LIPOVA",
+      "slug": "lipova",
+      "judet_id": 2,
+      "judet_name": "Arad",
+      "judet_slug": "arad",
+      "iso_3166_2": "RO-AR",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 5,
+      "nuts3": "RO421"
+    },
+    {
+      "siruta_code": 9627,
+      "name": "Nădlac",
+      "name_official": "ORAȘ NĂDLAC",
+      "slug": "nadlac",
+      "judet_id": 2,
+      "judet_name": "Arad",
+      "judet_slug": "arad",
+      "iso_3166_2": "RO-AR",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 5,
+      "nuts3": "RO421"
+    },
+    {
+      "siruta_code": 11584,
+      "name": "Pecica",
+      "name_official": "ORAȘ PECICA",
+      "slug": "pecica",
+      "judet_id": 2,
+      "judet_name": "Arad",
+      "judet_slug": "arad",
+      "iso_3166_2": "RO-AR",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 5,
+      "nuts3": "RO421"
+    },
+    {
+      "siruta_code": 9654,
+      "name": "Pâncota",
+      "name_official": "ORAȘ PÂNCOTA",
+      "slug": "pancota",
+      "judet_id": 2,
+      "judet_name": "Arad",
+      "judet_slug": "arad",
+      "iso_3166_2": "RO-AR",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 5,
+      "nuts3": "RO421"
+    },
+    {
+      "siruta_code": 9690,
+      "name": "Sebiș",
+      "name_official": "ORAȘ SEBIȘ",
+      "slug": "sebis",
+      "judet_id": 2,
+      "judet_name": "Arad",
+      "judet_slug": "arad",
+      "iso_3166_2": "RO-AR",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 5,
+      "nuts3": "RO421"
+    },
+    {
+      "siruta_code": 12091,
+      "name": "Sântana",
+      "name_official": "ORAȘ SÂNTANA",
+      "slug": "santana",
+      "judet_id": 2,
+      "judet_name": "Arad",
+      "judet_slug": "arad",
+      "iso_3166_2": "RO-AR",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 5,
+      "nuts3": "RO421"
+    }
+  ],
+  "meta": {
+    "title": "Orașele și municipiile județului Arad - Descărcare gratuită",
+    "description": "Lista celor 10 de orașe, municipii din județul Arad (AR) — unități administrativ-teritoriale urbane de nivel 2 conform SIRUTA. Reședința de județ este marcată cu is_resedinta_judet=true. Conține 10 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Orașele și municipiile județului Arad | ListBase",
+    "seo_description": "Descarcă Orașele și municipiile județului Arad — 10 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 10 înregistrări / 13 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: https://github.com/ionelmc/django-siruta"
+    ]
+  }
+}

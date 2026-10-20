@@ -1,0 +1,256 @@
+{
+  "id": "ro-alba-orase",
+  "name": "Orașele și municipiile județului Alba",
+  "title": "Orașele și municipiile județului Alba",
+  "description": "Lista celor 11 de orașe, municipii din județul Alba (AB) — unități administrativ-teritoriale urbane de nivel 2 conform SIRUTA. Reședința de județ este marcată cu is_resedinta_judet=true.",
+  "category": "geography",
+  "source": "https://github.com/ionelmc/django-siruta",
+  "source_url": "https://github.com/ionelmc/django-siruta",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "siruta_code",
+      "label": "Siruta Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_official",
+      "label": "Name Official",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet_id",
+      "label": "Judet Id",
+      "type": "number"
+    },
+    {
+      "key": "judet_name",
+      "label": "Judet Name",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "tip_code",
+      "label": "Tip Code",
+      "type": "number"
+    },
+    {
+      "key": "tip_name",
+      "label": "Tip Name",
+      "type": "string"
+    },
+    {
+      "key": "is_resedinta_judet",
+      "label": "Is Resedinta Judet",
+      "type": "boolean"
+    },
+    {
+      "key": "regiune_id",
+      "label": "Regiune Id",
+      "type": "number"
+    },
+    {
+      "key": "nuts3",
+      "label": "Nuts3",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "siruta_code": 1017,
+      "name": "Alba Iulia",
+      "name_official": "MUNICIPIUL ALBA IULIA",
+      "slug": "alba-iulia",
+      "judet_id": 1,
+      "judet_name": "Alba",
+      "judet_slug": "alba",
+      "iso_3166_2": "RO-AB",
+      "tip_code": 1,
+      "tip_name": "municipiu reședință de județ",
+      "is_resedinta_judet": true,
+      "regiune_id": 7,
+      "nuts3": "RO121"
+    },
+    {
+      "siruta_code": 1151,
+      "name": "Abrud",
+      "name_official": "ORAȘ ABRUD",
+      "slug": "abrud",
+      "judet_id": 1,
+      "judet_name": "Alba",
+      "judet_slug": "alba",
+      "iso_3166_2": "RO-AB",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 7,
+      "nuts3": "RO121"
+    },
+    {
+      "siruta_code": 1213,
+      "name": "Aiud",
+      "name_official": "MUNICIPIUL AIUD",
+      "slug": "aiud",
+      "judet_id": 1,
+      "judet_name": "Alba",
+      "judet_slug": "alba",
+      "iso_3166_2": "RO-AB",
+      "tip_code": 4,
+      "tip_name": "municipiu",
+      "is_resedinta_judet": false,
+      "regiune_id": 7,
+      "nuts3": "RO121"
+    },
+    {
+      "siruta_code": 2915,
+      "name": "Baia De Arieș",
+      "name_official": "ORAȘ BAIA DE ARIEȘ",
+      "slug": "baia-de-aries",
+      "judet_id": 1,
+      "judet_name": "Alba",
+      "judet_slug": "alba",
+      "iso_3166_2": "RO-AB",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 7,
+      "nuts3": "RO121"
+    },
+    {
+      "siruta_code": 1348,
+      "name": "Blaj",
+      "name_official": "MUNICIPIUL BLAJ",
+      "slug": "blaj",
+      "judet_id": 1,
+      "judet_name": "Alba",
+      "judet_slug": "alba",
+      "iso_3166_2": "RO-AB",
+      "tip_code": 4,
+      "tip_name": "municipiu",
+      "is_resedinta_judet": false,
+      "regiune_id": 7,
+      "nuts3": "RO121"
+    },
+    {
+      "siruta_code": 1696,
+      "name": "Cugir",
+      "name_official": "ORAȘ CUGIR",
+      "slug": "cugir",
+      "judet_id": 1,
+      "judet_name": "Alba",
+      "judet_slug": "alba",
+      "iso_3166_2": "RO-AB",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 7,
+      "nuts3": "RO121"
+    },
+    {
+      "siruta_code": 1455,
+      "name": "Câmpeni",
+      "name_official": "ORAȘ CÂMPENI",
+      "slug": "campeni",
+      "judet_id": 1,
+      "judet_name": "Alba",
+      "judet_slug": "alba",
+      "iso_3166_2": "RO-AB",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 7,
+      "nuts3": "RO121"
+    },
+    {
+      "siruta_code": 1794,
+      "name": "Ocna Mureș",
+      "name_official": "ORAȘ OCNA MUREȘ",
+      "slug": "ocna-mures",
+      "judet_id": 1,
+      "judet_name": "Alba",
+      "judet_slug": "alba",
+      "iso_3166_2": "RO-AB",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 7,
+      "nuts3": "RO121"
+    },
+    {
+      "siruta_code": 1874,
+      "name": "Sebeș",
+      "name_official": "MUNICIPIUL SEBEȘ",
+      "slug": "sebes",
+      "judet_id": 1,
+      "judet_name": "Alba",
+      "judet_slug": "alba",
+      "iso_3166_2": "RO-AB",
+      "tip_code": 4,
+      "tip_name": "municipiu",
+      "is_resedinta_judet": false,
+      "regiune_id": 7,
+      "nuts3": "RO121"
+    },
+    {
+      "siruta_code": 8096,
+      "name": "Teiuș",
+      "name_official": "ORAȘ TEIUȘ",
+      "slug": "teius",
+      "judet_id": 1,
+      "judet_name": "Alba",
+      "judet_slug": "alba",
+      "iso_3166_2": "RO-AB",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 7,
+      "nuts3": "RO121"
+    },
+    {
+      "siruta_code": 1936,
+      "name": "Zlatna",
+      "name_official": "ORAȘ ZLATNA",
+      "slug": "zlatna",
+      "judet_id": 1,
+      "judet_name": "Alba",
+      "judet_slug": "alba",
+      "iso_3166_2": "RO-AB",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 7,
+      "nuts3": "RO121"
+    }
+  ],
+  "meta": {
+    "title": "Orașele și municipiile județului Alba - Descărcare gratuită",
+    "description": "Lista celor 11 de orașe, municipii din județul Alba (AB) — unități administrativ-teritoriale urbane de nivel 2 conform SIRUTA. Reședința de județ este marcată cu is_resedinta_judet=true. Conține 11 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Orașele și municipiile județului Alba | ListBase",
+    "seo_description": "Descarcă Orașele și municipiile județului Alba — 11 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 11 înregistrări / 13 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: https://github.com/ionelmc/django-siruta"
+    ]
+  }
+}

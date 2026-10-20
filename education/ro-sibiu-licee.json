@@ -1,0 +1,244 @@
+{
+  "id": "ro-sibiu-licee",
+  "name": "Licee si colegii din judetul Sibiu",
+  "title": "Licee si colegii din judetul Sibiu",
+  "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Sibiu (33 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "COLEGIUL AGRICOL \"D. P. BARCIANU \"",
+      "slug": "colegiul-agricol-d-p-barcianu",
+      "judet": "SIBIU",
+      "judet_slug": "sibiu"
+    },
+    {
+      "nume": "COLEGIUL ECONOMIC \"GEORGE BARIȚIU\" SIBIU",
+      "slug": "colegiul-economic-george-baritiu-sibiu",
+      "judet": "SIBIU",
+      "judet_slug": "sibiu"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL PEDAGOGIC \"ANDREI ȘAGUNA\" SIBIU",
+      "slug": "colegiul-national-pedagogic-andrei-saguna-sibiu",
+      "judet": "SIBIU",
+      "judet_slug": "sibiu"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"GH. LAZĂR\" SIBIU",
+      "slug": "colegiul-national-gh-lazar-sibiu",
+      "judet": "SIBIU",
+      "judet_slug": "sibiu"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"OCTAVIAN GOGA\" SIBIU",
+      "slug": "colegiul-national-octavian-goga-sibiu",
+      "judet": "SIBIU",
+      "judet_slug": "sibiu"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"SAMUEL VON BRUKENTHAL\" SIBIU",
+      "slug": "colegiul-national-samuel-von-brukenthal-sibiu",
+      "judet": "SIBIU",
+      "judet_slug": "sibiu"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC DE INDUSTRIE ALIMENTARĂ \"TEREZIANUM\" SIBIU",
+      "slug": "colegiul-tehnic-de-industrie-alimentara-terezianum-sibiu",
+      "judet": "SIBIU",
+      "judet_slug": "sibiu"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC ENERGETIC SIBIU",
+      "slug": "colegiul-tehnic-energetic-sibiu",
+      "judet": "SIBIU",
+      "judet_slug": "sibiu"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"AUGUST TREBONIU LAURIAN\" AGNITA",
+      "slug": "colegiul-tehnic-august-treboniu-laurian-agnita",
+      "judet": "SIBIU",
+      "judet_slug": "sibiu"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"CIBINIUM\" SIBIU",
+      "slug": "colegiul-tehnic-cibinium-sibiu",
+      "judet": "SIBIU",
+      "judet_slug": "sibiu"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"INDEPENDENȚA\" SIBIU",
+      "slug": "colegiul-tehnic-independenta-sibiu",
+      "judet": "SIBIU",
+      "judet_slug": "sibiu"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"MEDIENSIS\" MEDIAȘ",
+      "slug": "colegiul-tehnic-mediensis-medias",
+      "judet": "SIBIU",
+      "judet_slug": "sibiu"
+    },
+    {
+      "nume": "LICEUL DE ARTĂ",
+      "slug": "liceul-de-arta",
+      "judet": "SIBIU",
+      "judet_slug": "sibiu"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC AUTOMECANICĂ",
+      "slug": "liceul-tehnologic-automecanica",
+      "judet": "SIBIU",
+      "judet_slug": "sibiu"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC CISNĂDIE",
+      "slug": "liceul-tehnologic-cisnadie",
+      "judet": "SIBIU",
+      "judet_slug": "sibiu"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC DE CONSTRUCŢII ŞI ARHITECTURĂ \"CAROL I\" SIBIU",
+      "slug": "liceul-tehnologic-de-constructii-si-arhitectura-carol-i-sibiu",
+      "judet": "SIBIU",
+      "judet_slug": "sibiu"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC IACOBENI",
+      "slug": "liceul-tehnologic-iacobeni",
+      "judet": "SIBIU",
+      "judet_slug": "sibiu"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC TRANSCOM",
+      "slug": "liceul-tehnologic-transcom",
+      "judet": "SIBIU",
+      "judet_slug": "sibiu"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"AVRAM IANCU \"",
+      "slug": "liceul-tehnologic-avram-iancu",
+      "judet": "SIBIU",
+      "judet_slug": "sibiu"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"HENRI COANDĂ\" SIBIU",
+      "slug": "liceul-tehnologic-henri-coanda-sibiu",
+      "judet": "SIBIU",
+      "judet_slug": "sibiu"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"ILIE MACELARIU\"",
+      "slug": "liceul-tehnologic-ilie-macelariu",
+      "judet": "SIBIU",
+      "judet_slug": "sibiu"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"IOAN LUPAȘ\" ȘĂLIȘTE",
+      "slug": "liceul-tehnologic-ioan-lupas-saliste",
+      "judet": "SIBIU",
+      "judet_slug": "sibiu"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"J. LEBEL\"",
+      "slug": "liceul-tehnologic-j-lebel",
+      "judet": "SIBIU",
+      "judet_slug": "sibiu"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"NICOLAE TECLU\" COPȘA MICĂ",
+      "slug": "liceul-tehnologic-nicolae-teclu-copsa-mica",
+      "judet": "SIBIU",
+      "judet_slug": "sibiu"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"STĂNESCU VALERIAN\" TÎRNAVA",
+      "slug": "liceul-tehnologic-stanescu-valerian-tirnava",
+      "judet": "SIBIU",
+      "judet_slug": "sibiu"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"ŞCOALA NAȚIONALĂ DE GAZ\"",
+      "slug": "liceul-tehnologic-scoala-nationala-de-gaz",
+      "judet": "SIBIU",
+      "judet_slug": "sibiu"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"AXENTE SEVER\" MEDIAȘ",
+      "slug": "liceul-teoretic-axente-sever-medias",
+      "judet": "SIBIU",
+      "judet_slug": "sibiu"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"CONSTANTIN NOICA\"",
+      "slug": "liceul-teoretic-constantin-noica",
+      "judet": "SIBIU",
+      "judet_slug": "sibiu"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"G. GUNDISCH\" CISNĂDIE",
+      "slug": "liceul-teoretic-g-gundisch-cisnadie",
+      "judet": "SIBIU",
+      "judet_slug": "sibiu"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"GH. LAZĂR\" AVRIG",
+      "slug": "liceul-teoretic-gh-lazar-avrig",
+      "judet": "SIBIU",
+      "judet_slug": "sibiu"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"ONISIFOR GHIBU\"",
+      "slug": "liceul-teoretic-onisifor-ghibu",
+      "judet": "SIBIU",
+      "judet_slug": "sibiu"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"ST. L. ROTH\" MEDIAȘ",
+      "slug": "liceul-teoretic-st-l-roth-medias",
+      "judet": "SIBIU",
+      "judet_slug": "sibiu"
+    },
+    {
+      "nume": "LICEUL \"TIMOTEI CIPARIU\" DUMBRĂVENI",
+      "slug": "liceul-timotei-cipariu-dumbraveni",
+      "judet": "SIBIU",
+      "judet_slug": "sibiu"
+    }
+  ],
+  "meta": {
+    "title": "Licee si colegii din judetul Sibiu - Descărcare gratuită",
+    "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Sibiu (33 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor. Conține 33 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Licee si colegii din judetul Sibiu | ListBase",
+    "seo_description": "Descarcă Licee si colegii din judetul Sibiu — 33 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 33 înregistrări / 4 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

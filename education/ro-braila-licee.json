@@ -1,0 +1,178 @@
+{
+  "id": "ro-braila-licee",
+  "name": "Licee si colegii din judetul Brăila",
+  "title": "Licee si colegii din judetul Brăila",
+  "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Brăila (22 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "COLEGIUL ECONOMIC \"ION GHICA\" BRĂILA",
+      "slug": "colegiul-economic-ion-ghica-braila",
+      "judet": "BRĂILA",
+      "judet_slug": "braila"
+    },
+    {
+      "nume": "COLEGIUL NAŢIONAL \"ANA ASLAN\" BRĂILA",
+      "slug": "colegiul-national-ana-aslan-braila",
+      "judet": "BRĂILA",
+      "judet_slug": "braila"
+    },
+    {
+      "nume": "COLEGIUL NAŢIONAL \"GH. M. MURGOCI\" BRĂILA",
+      "slug": "colegiul-national-gh-m-murgoci-braila",
+      "judet": "BRĂILA",
+      "judet_slug": "braila"
+    },
+    {
+      "nume": "COLEGIUL NAŢIONAL \"N. BĂLCESCU\" BRĂILA",
+      "slug": "colegiul-national-n-balcescu-braila",
+      "judet": "BRĂILA",
+      "judet_slug": "braila"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"C. D. NENITESCU\" BRĂILA",
+      "slug": "colegiul-tehnic-c-d-nenitescu-braila",
+      "judet": "BRĂILA",
+      "judet_slug": "braila"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"EDMOND NICOLAU\" BRĂILA",
+      "slug": "colegiul-tehnic-edmond-nicolau-braila",
+      "judet": "BRĂILA",
+      "judet_slug": "braila"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"PANAIT ISTRATI\" BRĂILA",
+      "slug": "colegiul-tehnic-panait-istrati-braila",
+      "judet": "BRĂILA",
+      "judet_slug": "braila"
+    },
+    {
+      "nume": "LICEUL CU PROGRAM SPORTIV BRĂILA",
+      "slug": "liceul-cu-program-sportiv-braila",
+      "judet": "BRĂILA",
+      "judet_slug": "braila"
+    },
+    {
+      "nume": "LICEUL DE ARTE \"HARICLEA DARCLEE\" BRĂILA",
+      "slug": "liceul-de-arte-hariclea-darclee-braila",
+      "judet": "BRĂILA",
+      "judet_slug": "braila"
+    },
+    {
+      "nume": "LICEUL PEDAGOGIC \"D. P. PERPESSICIUS\" BRĂILA",
+      "slug": "liceul-pedagogic-d-p-perpessicius-braila",
+      "judet": "BRĂILA",
+      "judet_slug": "braila"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC  \"N. TITULESCU\" ÎNSURĂȚEI",
+      "slug": "liceul-tehnologic-n-titulescu-insuratei",
+      "judet": "BRĂILA",
+      "judet_slug": "braila"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"ANGHEL SALIGNY\" BRĂILA",
+      "slug": "liceul-tehnologic-anghel-saligny-braila",
+      "judet": "BRĂILA",
+      "judet_slug": "braila"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"GH. K. CONSTANTINESCU\" BRĂILA",
+      "slug": "liceul-tehnologic-gh-k-constantinescu-braila",
+      "judet": "BRĂILA",
+      "judet_slug": "braila"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"GRIGORE MOISIL\" BRĂILA",
+      "slug": "liceul-tehnologic-grigore-moisil-braila",
+      "judet": "BRĂILA",
+      "judet_slug": "braila"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"MATEI BASARAB\" MĂXINENI",
+      "slug": "liceul-tehnologic-matei-basarab-maxineni",
+      "judet": "BRĂILA",
+      "judet_slug": "braila"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"N. ONCESCU\" IANCA",
+      "slug": "liceul-tehnologic-n-oncescu-ianca",
+      "judet": "BRĂILA",
+      "judet_slug": "braila"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"C. ANGELESCU\" IANCA",
+      "slug": "liceul-teoretic-c-angelescu-ianca",
+      "judet": "BRĂILA",
+      "judet_slug": "braila"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"G. VÂLSAN\" FĂUREI",
+      "slug": "liceul-teoretic-g-valsan-faurei",
+      "judet": "BRĂILA",
+      "judet_slug": "braila"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"MIHAIL SEBASTIAN\" BRĂILA",
+      "slug": "liceul-teoretic-mihail-sebastian-braila",
+      "judet": "BRĂILA",
+      "judet_slug": "braila"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"NICOLAE IORGA\" BRĂILA",
+      "slug": "liceul-teoretic-nicolae-iorga-braila",
+      "judet": "BRĂILA",
+      "judet_slug": "braila"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"PANAIT CERNA\" BRĂILA",
+      "slug": "liceul-teoretic-panait-cerna-braila",
+      "judet": "BRĂILA",
+      "judet_slug": "braila"
+    },
+    {
+      "nume": "LICEUL UCECOM \"SPIRU HARET\" BRĂILA",
+      "slug": "liceul-ucecom-spiru-haret-braila",
+      "judet": "BRĂILA",
+      "judet_slug": "braila"
+    }
+  ],
+  "meta": {
+    "title": "Licee si colegii din judetul Brăila - Descărcare gratuită",
+    "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Brăila (22 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor. Conține 22 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Licee si colegii din judetul Brăila | ListBase",
+    "seo_description": "Descarcă Licee si colegii din judetul Brăila — 22 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 22 înregistrări / 4 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

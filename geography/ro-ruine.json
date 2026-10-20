@@ -1,0 +1,2887 @@
+{
+  "id": "ro-ruine",
+  "name": "Ruine istorice din România",
+  "title": "Ruine istorice din România",
+  "description": "Ruine istorice din România — 314 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `historic=ruins`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 314,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "latitudine",
+      "label": "Latitudine",
+      "type": "number"
+    },
+    {
+      "key": "longitudine",
+      "label": "Longitudine",
+      "type": "number"
+    },
+    {
+      "key": "cheie_osm",
+      "label": "Cheie Osm",
+      "type": "string"
+    },
+    {
+      "key": "valoare_osm",
+      "label": "Valoare Osm",
+      "type": "string"
+    },
+    {
+      "key": "categorie_osm",
+      "label": "Categorie Osm",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nume": "3rd enclosure",
+      "latitudine": 45.79345,
+      "longitudine": 24.151611,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 2,
+      "nume": "3rd enclosure",
+      "latitudine": 45.793725,
+      "longitudine": 24.15216,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 3,
+      "nume": "A hajdani vasúti híd pillére",
+      "latitudine": 46.149066,
+      "longitudine": 20.599913,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 4,
+      "nume": "Abandoned church",
+      "latitudine": 44.989322,
+      "longitudine": 26.185757,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 5,
+      "nume": "Abandoned Industry",
+      "latitudine": 47.356229,
+      "longitudine": 25.715122,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 6,
+      "nume": "Ada-Kaleh",
+      "latitudine": 44.716666,
+      "longitudine": 22.45,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 7,
+      "nume": "Aglomeratorul nr. 1",
+      "latitudine": 45.755086,
+      "longitudine": 22.885638,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 8,
+      "nume": "Aglomeratorul nr. 2.",
+      "latitudine": 45.770933,
+      "longitudine": 22.899804,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 9,
+      "nume": "Amfiteatru",
+      "latitudine": 45.855281,
+      "longitudine": 22.894641,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 10,
+      "nume": "Amfiteatrul de la Sarmizegetusa Ulpia Traiana",
+      "latitudine": 45.516694,
+      "longitudine": 22.785875,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 11,
+      "nume": "Amfiteatrul Roman",
+      "latitudine": 47.177586,
+      "longitudine": 23.154027,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 12,
+      "nume": "Amphiteater of Micia",
+      "latitudine": 45.914998,
+      "longitudine": 22.817291,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 13,
+      "nume": "Amplasament Fost Restaurant Elysée",
+      "latitudine": 45.104747,
+      "longitudine": 24.363707,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 14,
+      "nume": "Anexă - fostă proprietate a familiei Cantacuzino",
+      "latitudine": 44.762475,
+      "longitudine": 26.532881,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 15,
+      "nume": "Atelierul de sticlărie",
+      "latitudine": 45.516135,
+      "longitudine": 22.787686,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 16,
+      "nume": "Attila vára",
+      "latitudine": 46.100445,
+      "longitudine": 25.491512,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 17,
+      "nume": "Basilica de templu",
+      "latitudine": 45.518018,
+      "longitudine": 22.78832,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 18,
+      "nume": "Basilica Episcopala",
+      "latitudine": 44.547362,
+      "longitudine": 28.774656,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 19,
+      "nume": "Bastion mânăstire Apața",
+      "latitudine": 45.958756,
+      "longitudine": 25.53559,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 20,
+      "nume": "Bazilica",
+      "latitudine": 44.8556,
+      "longitudine": 28.591695,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 21,
+      "nume": "Bazilica romanică din Gârbova",
+      "latitudine": 45.861415,
+      "longitudine": 23.727483,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 22,
+      "nume": "Bazilica Romană",
+      "latitudine": 46.155613,
+      "longitudine": 21.398246,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 23,
+      "nume": "Beciuri",
+      "latitudine": 47.697754,
+      "longitudine": 25.825088,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 24,
+      "nume": "Beciurile Palatului Domnesc",
+      "latitudine": 44.6209,
+      "longitudine": 23.192101,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 25,
+      "nume": "Bis Săn Nicoară",
+      "latitudine": 45.14101,
+      "longitudine": 24.67763,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 26,
+      "nume": "Biserica de deal",
+      "latitudine": 46.293677,
+      "longitudine": 23.620898,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 27,
+      "nume": "Biserica de lemn „Sfinții Îngeri”",
+      "latitudine": 45.106203,
+      "longitudine": 23.808514,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 28,
+      "nume": "Biserica lui Cujbă",
+      "latitudine": 46.990891,
+      "longitudine": 27.601395,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 29,
+      "nume": "Biserica Nr. 1",
+      "latitudine": 44.692527,
+      "longitudine": 27.829041,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 30,
+      "nume": "Biserica Nr. 2",
+      "latitudine": 44.692908,
+      "longitudine": 27.826464,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 31,
+      "nume": "Biserica Rotondă din Geoagiu",
+      "latitudine": 45.919996,
+      "longitudine": 23.203193,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 32,
+      "nume": "Biserica rupestră Templul Ursitelor",
+      "latitudine": 45.755924,
+      "longitudine": 25.166637,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 33,
+      "nume": "Biserica Trăsnită",
+      "latitudine": 45.972408,
+      "longitudine": 23.040905,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 34,
+      "nume": "Biserica Veche",
+      "latitudine": 43.790404,
+      "longitudine": 25.143611,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 35,
+      "nume": "Biserica „Adormirea Maicii Domnului\"",
+      "latitudine": 44.392408,
+      "longitudine": 26.35115,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 36,
+      "nume": "Biserica „Buna Vestire”",
+      "latitudine": 45.041698,
+      "longitudine": 26.383771,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 37,
+      "nume": "Biserica „Schimbarea la față”",
+      "latitudine": 44.387326,
+      "longitudine": 26.649786,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 38,
+      "nume": "Biserica „Sfinții Apostoli Petru și Pavel\"",
+      "latitudine": 44.022288,
+      "longitudine": 27.781151,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 39,
+      "nume": "Biserica „Sfinții Voievozi” (conservare)",
+      "latitudine": 44.934334,
+      "longitudine": 24.21747,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 40,
+      "nume": "Biserica „Sfântul Nicolae”",
+      "latitudine": 44.568098,
+      "longitudine": 27.105001,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 41,
+      "nume": "Biserica „Sfântul Nicolae” (ruine)",
+      "latitudine": 44.363647,
+      "longitudine": 26.342899,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 42,
+      "nume": "Biserică",
+      "latitudine": 43.843416,
+      "longitudine": 24.763622,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 43,
+      "nume": "Buridava",
+      "latitudine": 45.079327,
+      "longitudine": 24.287729,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 44,
+      "nume": "Báthory-vár",
+      "latitudine": 47.230893,
+      "longitudine": 22.799325,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 45,
+      "nume": "Băile sărate vechi",
+      "latitudine": 46.824201,
+      "longitudine": 24.75901,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 46,
+      "nume": "Canton",
+      "latitudine": 44.210755,
+      "longitudine": 28.612452,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 47,
+      "nume": "Capela de jos",
+      "latitudine": 45.590754,
+      "longitudine": 25.470608,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 48,
+      "nume": "Capela tătară",
+      "latitudine": 46.224123,
+      "longitudine": 25.544956,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 49,
+      "nume": "Casa Carol Benisch",
+      "latitudine": 44.445864,
+      "longitudine": 26.094329,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 50,
+      "nume": "Casa Dinulescu",
+      "latitudine": 45.269656,
+      "longitudine": 25.045419,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 51,
+      "nume": "Casa Stoicescu",
+      "latitudine": 45.270317,
+      "longitudine": 25.045794,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 52,
+      "nume": "Castelul Buia",
+      "latitudine": 45.977883,
+      "longitudine": 24.278684,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 53,
+      "nume": "Castelul Haller",
+      "latitudine": 47.195629,
+      "longitudine": 23.825812,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 54,
+      "nume": "Castrul roman de la Slăveni",
+      "latitudine": 44.082182,
+      "longitudine": 24.52912,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 55,
+      "nume": "Casă boierească",
+      "latitudine": 44.361199,
+      "longitudine": 26.852237,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 56,
+      "nume": "Cazemata",
+      "latitudine": 43.818976,
+      "longitudine": 28.588899,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 57,
+      "nume": "Cazemata",
+      "latitudine": 43.828996,
+      "longitudine": 28.592426,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 58,
+      "nume": "Cazemata",
+      "latitudine": 43.994445,
+      "longitudine": 28.664306,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 59,
+      "nume": "Cazemata",
+      "latitudine": 44.054497,
+      "longitudine": 28.642127,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 60,
+      "nume": "Cazemata de pe Dealul Galata",
+      "latitudine": 47.156014,
+      "longitudine": 27.554109,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 61,
+      "nume": "Centrala Termo-Electrică nr. 2.",
+      "latitudine": 45.753942,
+      "longitudine": 22.893264,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 62,
+      "nume": "Centrala Termo-Electrică nr. 3.",
+      "latitudine": 45.762736,
+      "longitudine": 22.897716,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 63,
+      "nume": "Cetate Medievala",
+      "latitudine": 45.803203,
+      "longitudine": 23.837547,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 64,
+      "nume": "Cetatea Albești",
+      "latitudine": 43.79701,
+      "longitudine": 28.410252,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 65,
+      "nume": "Cetatea Almașului",
+      "latitudine": 46.936113,
+      "longitudine": 23.147295,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 66,
+      "nume": "Cetatea Aurită",
+      "latitudine": 47.41142,
+      "longitudine": 23.328169,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 67,
+      "nume": "Cetatea Barabaș",
+      "latitudine": 45.753337,
+      "longitudine": 25.916206,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 68,
+      "nume": "Cetatea Bologa",
+      "latitudine": 46.88045,
+      "longitudine": 22.878099,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 69,
+      "nume": "Cetatea Caraș (Turcului)",
+      "latitudine": 45.210092,
+      "longitudine": 21.891015,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 70,
+      "nume": "Cetatea Chioarului",
+      "latitudine": 47.476005,
+      "longitudine": 23.578857,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 71,
+      "nume": "Cetatea Ciceului",
+      "latitudine": 47.251004,
+      "longitudine": 23.967171,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 72,
+      "nume": "Cetatea Cinceaș",
+      "latitudine": 45.986039,
+      "longitudine": 25.895481,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 73,
+      "nume": "Cetatea Comăna",
+      "latitudine": 45.865407,
+      "longitudine": 25.355109,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 74,
+      "nume": "Cetatea Crizbav",
+      "latitudine": 45.857087,
+      "longitudine": 25.448504,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 75,
+      "nume": "Cetatea Cuiești",
+      "latitudine": 45.386683,
+      "longitudine": 21.744694,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 76,
+      "nume": "Cetatea Dezna",
+      "latitudine": 46.408895,
+      "longitudine": 22.252883,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 77,
+      "nume": "Cetatea din Seini",
+      "latitudine": 47.760921,
+      "longitudine": 23.311907,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 78,
+      "nume": "Cetatea Dinogeția",
+      "latitudine": 45.378968,
+      "longitudine": 28.138794,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 79,
+      "nume": "Cetatea Dăbâca",
+      "latitudine": 46.976676,
+      "longitudine": 23.671376,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 80,
+      "nume": "Cetatea Fetei",
+      "latitudine": 45.979235,
+      "longitudine": 25.85664,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 81,
+      "nume": "Cetatea Fetei",
+      "latitudine": 46.731654,
+      "longitudine": 23.503351,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 82,
+      "nume": "Cetatea Fetele Albe",
+      "latitudine": 45.626127,
+      "longitudine": 23.279031,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 83,
+      "nume": "Cetatea Făget",
+      "latitudine": 45.866105,
+      "longitudine": 22.17427,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 84,
+      "nume": "Cetatea Ghurghiu",
+      "latitudine": 46.773696,
+      "longitudine": 24.865805,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 85,
+      "nume": "Cetatea Hereț",
+      "latitudine": 45.994254,
+      "longitudine": 25.850125,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 86,
+      "nume": "Cetatea Ilidia",
+      "latitudine": 44.935944,
+      "longitudine": 21.774277,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 87,
+      "nume": "Cetatea Jimbor",
+      "latitudine": 46.110551,
+      "longitudine": 25.382319,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 88,
+      "nume": "Cetatea Liteni",
+      "latitudine": 46.608533,
+      "longitudine": 23.42706,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 89,
+      "nume": "Cetatea Medievală Turnu",
+      "latitudine": 43.718965,
+      "longitudine": 24.861592,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 90,
+      "nume": "Cetatea Melcului",
+      "latitudine": 45.755936,
+      "longitudine": 25.896441,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 91,
+      "nume": "Cetatea Neagră",
+      "latitudine": 45.693385,
+      "longitudine": 25.400715,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 92,
+      "nume": "Cetatea Piatra Șoimului",
+      "latitudine": 47.110618,
+      "longitudine": 22.384795,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 93,
+      "nume": "Cetatea Piatra Șoimului - bastion",
+      "latitudine": 47.110186,
+      "longitudine": 22.387656,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 94,
+      "nume": "Cetatea Piatra Șoimului - capelă",
+      "latitudine": 47.111115,
+      "longitudine": 22.387166,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 95,
+      "nume": "Cetatea Saciova",
+      "latitudine": 45.762991,
+      "longitudine": 25.959506,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 96,
+      "nume": "Cetatea Scheii",
+      "latitudine": 47.661395,
+      "longitudine": 26.241204,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 97,
+      "nume": "Cetatea Sibielului (Cetatea Salgo)",
+      "latitudine": 45.748618,
+      "longitudine": 23.885716,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 98,
+      "nume": "Cetatea Tabla Buții",
+      "latitudine": 45.472767,
+      "longitudine": 26.053276,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 99,
+      "nume": "Cetatea Tălmaciu",
+      "latitudine": 45.653078,
+      "longitudine": 24.271977,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 100,
+      "nume": "Cetatea Tăuți",
+      "latitudine": 46.082071,
+      "longitudine": 23.446071,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 101,
+      "nume": "Cetatea Vápa",
+      "latitudine": 46.091657,
+      "longitudine": 25.839265,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 102,
+      "nume": "Cetatea Xántusz",
+      "latitudine": 46.353938,
+      "longitudine": 25.887078,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 103,
+      "nume": "Cetatea Zebernicului",
+      "latitudine": 46.021033,
+      "longitudine": 23.44943,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 104,
+      "nume": "Cetatea Șoimoș",
+      "latitudine": 46.108821,
+      "longitudine": 21.723173,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 105,
+      "nume": "Cetățuia (amplasament cetate dacică)",
+      "latitudine": 45.04761,
+      "longitudine": 25.671248,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 106,
+      "nume": "Complexul Monastic Marienheim",
+      "latitudine": 45.788057,
+      "longitudine": 21.224907,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 107,
+      "nume": "Conac Liiceni",
+      "latitudine": 44.124705,
+      "longitudine": 24.286065,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 108,
+      "nume": "Conacul Antonescu (Ruină)",
+      "latitudine": 45.248974,
+      "longitudine": 26.707217,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 109,
+      "nume": "Conacul Atanasievici",
+      "latitudine": 45.491928,
+      "longitudine": 21.720033,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 110,
+      "nume": "Conacul Buzescu-Darvari",
+      "latitudine": 44.549903,
+      "longitudine": 24.221076,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 111,
+      "nume": "Conacul Cantacuzino-Pașcanu",
+      "latitudine": 47.376104,
+      "longitudine": 26.95848,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 112,
+      "nume": "Conacul D. Hariton",
+      "latitudine": 45.037007,
+      "longitudine": 26.527717,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 113,
+      "nume": "Conacul dr. Angelescu",
+      "latitudine": 45.082812,
+      "longitudine": 26.709105,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 114,
+      "nume": "Conacul Drăghici Cantacuzino",
+      "latitudine": 45.04418,
+      "longitudine": 25.749195,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 115,
+      "nume": "Conacul Fintescu",
+      "latitudine": 45.063807,
+      "longitudine": 26.494656,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 116,
+      "nume": "Conacul Gabroveanu",
+      "latitudine": 43.913367,
+      "longitudine": 23.360861,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 117,
+      "nume": "Conacul Hatfaludy din Hida",
+      "latitudine": 47.062469,
+      "longitudine": 23.303776,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 118,
+      "nume": "Conacul Manciulescu",
+      "latitudine": 44.99019,
+      "longitudine": 26.717608,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 119,
+      "nume": "Crama Domnească",
+      "latitudine": 46.933491,
+      "longitudine": 26.369426,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 120,
+      "nume": "Cruce",
+      "latitudine": 45.414875,
+      "longitudine": 26.428266,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 121,
+      "nume": "Cuptorul de Topit Fier",
+      "latitudine": 46.466073,
+      "longitudine": 22.271055,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 122,
+      "nume": "Curte Nobiliară Sălașu de Sus",
+      "latitudine": 45.512562,
+      "longitudine": 22.955918,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 123,
+      "nume": "Curtea Domnească",
+      "latitudine": 44.932108,
+      "longitudine": 25.458656,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 124,
+      "nume": "Curtea Domnească",
+      "latitudine": 47.425914,
+      "longitudine": 26.897782,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 125,
+      "nume": "Curtea familiei Zappa",
+      "latitudine": 44.667749,
+      "longitudine": 26.745365,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 126,
+      "nume": "Dacidava",
+      "latitudine": 47.236445,
+      "longitudine": 22.800751,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 127,
+      "nume": "Depozitele Medievale de Cereale",
+      "latitudine": 45.796368,
+      "longitudine": 24.15123,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 128,
+      "nume": "Domeniul Coroanei",
+      "latitudine": 47.050525,
+      "longitudine": 27.71092,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 129,
+      "nume": "Domus",
+      "latitudine": 44.547165,
+      "longitudine": 28.775315,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 130,
+      "nume": "Edificiul cu contraforturi",
+      "latitudine": 44.693438,
+      "longitudine": 27.829025,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 131,
+      "nume": "Edificiul Roman cu Mozaic",
+      "latitudine": 44.173087,
+      "longitudine": 28.658539,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 132,
+      "nume": "Fabrica de Zahăr",
+      "latitudine": 45.721224,
+      "longitudine": 21.157043,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 133,
+      "nume": "Fortress Walls",
+      "latitudine": 47.05097,
+      "longitudine": 21.943584,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 134,
+      "nume": "Forum of Ulpia Traiana Sarmizegetusa",
+      "latitudine": 45.513346,
+      "longitudine": 22.787642,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 135,
+      "nume": "Fosta Cabană Bunloc",
+      "latitudine": 45.592507,
+      "longitudine": 25.655243,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 136,
+      "nume": "Fosta Cabană Vârful cu Dor",
+      "latitudine": 45.354201,
+      "longitudine": 25.49542,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 137,
+      "nume": "Fosta centrală telefonică",
+      "latitudine": 45.162246,
+      "longitudine": 24.116447,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 138,
+      "nume": "Fosta fermă de stat",
+      "latitudine": 46.75921,
+      "longitudine": 22.358862,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 139,
+      "nume": "Fosta Gară Burdea",
+      "latitudine": 44.550285,
+      "longitudine": 24.882745,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 140,
+      "nume": "Fosta Mănăstire Cătălui",
+      "latitudine": 44.123917,
+      "longitudine": 26.484075,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 141,
+      "nume": "Fosta Oțelărie Siemens-Martin nr. 1.",
+      "latitudine": 45.758179,
+      "longitudine": 22.891088,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 142,
+      "nume": "Fosta Primărie a comunei Putreda",
+      "latitudine": 45.380812,
+      "longitudine": 26.945608,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 143,
+      "nume": "Fosta stație de epurare",
+      "latitudine": 46.197686,
+      "longitudine": 21.238011,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 144,
+      "nume": "Fostul Castel",
+      "latitudine": 45.754211,
+      "longitudine": 21.427159,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 145,
+      "nume": "Fostul Sanatoriu",
+      "latitudine": 47.694467,
+      "longitudine": 25.833826,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 146,
+      "nume": "Fostul strand Soimus",
+      "latitudine": 45.913931,
+      "longitudine": 22.87268,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 147,
+      "nume": "Fragment zid de incintă",
+      "latitudine": 44.668402,
+      "longitudine": 26.7452,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 148,
+      "nume": "Fundația Castel Peleș inițial",
+      "latitudine": 45.494396,
+      "longitudine": 26.621699,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 149,
+      "nume": "Furnalul nr. 4",
+      "latitudine": 45.753303,
+      "longitudine": 22.888271,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 150,
+      "nume": "Furnalul nr. 5.",
+      "latitudine": 45.754291,
+      "longitudine": 22.887835,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 151,
+      "nume": "Furnalul nr. 6.",
+      "latitudine": 45.755054,
+      "longitudine": 22.887355,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 152,
+      "nume": "Furnalul nr. 7.",
+      "latitudine": 45.767652,
+      "longitudine": 22.898537,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 153,
+      "nume": "Furnalul nr. 8.",
+      "latitudine": 45.766466,
+      "longitudine": 22.897993,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 154,
+      "nume": "Furnalul nr. 9.",
+      "latitudine": 45.765328,
+      "longitudine": 22.897531,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 155,
+      "nume": "Fântâna lui Ferdinand",
+      "latitudine": 46.029637,
+      "longitudine": 26.530871,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 156,
+      "nume": "Gara Beuca",
+      "latitudine": 44.271131,
+      "longitudine": 24.968453,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 157,
+      "nume": "German coastal battery Tirpitz",
+      "latitudine": 44.119785,
+      "longitudine": 28.630613,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 158,
+      "nume": "Gruiu Darii",
+      "latitudine": 45.117854,
+      "longitudine": 26.579807,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 159,
+      "nume": "Grădiniță Bărbătești",
+      "latitudine": 45.162465,
+      "longitudine": 24.116463,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 160,
+      "nume": "Hanul de la Gura Orbicului",
+      "latitudine": 46.722821,
+      "longitudine": 26.685961,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 161,
+      "nume": "Hanul de la Șerbești",
+      "latitudine": 46.985064,
+      "longitudine": 26.510503,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 162,
+      "nume": "Harom Vára",
+      "latitudine": 46.316876,
+      "longitudine": 25.785344,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 163,
+      "nume": "Horrerum (depozit)",
+      "latitudine": 45.515101,
+      "longitudine": 22.78764,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 164,
+      "nume": "Hotel Marincu",
+      "latitudine": 43.995337,
+      "longitudine": 22.932711,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 165,
+      "nume": "IMNH",
+      "latitudine": 45.449701,
+      "longitudine": 28.036018,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 166,
+      "nume": "Incinta Acropolei Arhaice",
+      "latitudine": 44.546827,
+      "longitudine": 28.773207,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 167,
+      "nume": "Jósika kripta",
+      "latitudine": 47.249845,
+      "longitudine": 23.341754,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 168,
+      "nume": "La Cazemata",
+      "latitudine": 46.763925,
+      "longitudine": 25.863562,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 169,
+      "nume": "La Stâna Roșca",
+      "latitudine": 45.389599,
+      "longitudine": 23.791667,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 170,
+      "nume": "Laminor 800.",
+      "latitudine": 45.757817,
+      "longitudine": 22.88985,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 171,
+      "nume": "Magazin Electra",
+      "latitudine": 45.165121,
+      "longitudine": 24.11787,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 172,
+      "nume": "Mecanica 1.",
+      "latitudine": 45.756113,
+      "longitudine": 22.889691,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 173,
+      "nume": "Melanjorul nr. 1.",
+      "latitudine": 45.756611,
+      "longitudine": 22.892653,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 174,
+      "nume": "Melanjorul nr. 2.",
+      "latitudine": 45.762595,
+      "longitudine": 22.895194,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 175,
+      "nume": "Mircea cel Bătrân fortress",
+      "latitudine": 45.103519,
+      "longitudine": 24.366616,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 176,
+      "nume": "Moara de Apă(fundația)",
+      "latitudine": 46.227984,
+      "longitudine": 23.968211,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 177,
+      "nume": "Moara lui Assan (1853)",
+      "latitudine": 44.453,
+      "longitudine": 26.122376,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 178,
+      "nume": "Moară de apă",
+      "latitudine": 45.293869,
+      "longitudine": 26.24568,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 179,
+      "nume": "Mânăstirea Benedictină",
+      "latitudine": 47.405957,
+      "longitudine": 23.317558,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 180,
+      "nume": "Mănăstirea Tutana",
+      "latitudine": 45.046167,
+      "longitudine": 24.638324,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 181,
+      "nume": "Old greek-catholic church \"Sf. Nicolae\"",
+      "latitudine": 45.833312,
+      "longitudine": 23.200543,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 182,
+      "nume": "Oțelăria Electrică nr. 1.",
+      "latitudine": 45.759451,
+      "longitudine": 22.89166,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 183,
+      "nume": "Oțelăria Siemens-Martin nr. 2",
+      "latitudine": 45.759099,
+      "longitudine": 22.893462,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 184,
+      "nume": "Palatul Cnejilor",
+      "latitudine": 47.033173,
+      "longitudine": 25.941053,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 185,
+      "nume": "palisada",
+      "latitudine": 45.992655,
+      "longitudine": 21.4619,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 186,
+      "nume": "Petrodava",
+      "latitudine": 46.930827,
+      "longitudine": 26.323145,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 187,
+      "nume": "Pivnițele boltite ale conacului\tManu",
+      "latitudine": 44.384715,
+      "longitudine": 26.21237,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 188,
+      "nume": "Pivniță - fosta proprietate a familiei Cantacuzino",
+      "latitudine": 44.763317,
+      "longitudine": 26.533262,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 189,
+      "nume": "Platforme artileriști",
+      "latitudine": 45.889158,
+      "longitudine": 22.896301,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 190,
+      "nume": "Poarta 1",
+      "latitudine": 45.888561,
+      "longitudine": 22.894827,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 191,
+      "nume": "Poartă de han turcesc",
+      "latitudine": 45.434524,
+      "longitudine": 28.058016,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 192,
+      "nume": "Podul Izbiceni",
+      "latitudine": 43.821873,
+      "longitudine": 24.682553,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 193,
+      "nume": "Podul turcesc",
+      "latitudine": 45.116504,
+      "longitudine": 21.604571,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 194,
+      "nume": "Podul Vechi",
+      "latitudine": 47.786763,
+      "longitudine": 22.877062,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 195,
+      "nume": "Poiana cu schit",
+      "latitudine": 46.986192,
+      "longitudine": 27.584972,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 196,
+      "nume": "Principia",
+      "latitudine": 46.570385,
+      "longitudine": 23.772767,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 197,
+      "nume": "Puțul Francisc",
+      "latitudine": 47.672764,
+      "longitudine": 23.69324,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 198,
+      "nume": "Quadriburgium",
+      "latitudine": 44.959585,
+      "longitudine": 28.642686,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 199,
+      "nume": "Restul Capelei Sf. Ladislau - Casa Lutsch",
+      "latitudine": 45.796941,
+      "longitudine": 24.152927,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 200,
+      "nume": "Resturi de zid \"Murus Dacicus\"",
+      "latitudine": 45.452066,
+      "longitudine": 23.31428,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 201,
+      "nume": "Ruina Castelului Haller",
+      "latitudine": 46.462914,
+      "longitudine": 24.345599,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 202,
+      "nume": "Ruina Hotelului Bauer",
+      "latitudine": 44.81089,
+      "longitudine": 21.39077,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 203,
+      "nume": "Ruina Palatului Postelnicului Cantacuzino",
+      "latitudine": 44.978083,
+      "longitudine": 25.791236,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 204,
+      "nume": "Ruina Porții Bürger (Ocnei)",
+      "latitudine": 45.801841,
+      "longitudine": 24.150425,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 205,
+      "nume": "Ruina vechii cabane",
+      "latitudine": 45.55426,
+      "longitudine": 25.652456,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 206,
+      "nume": "Ruina vechii Mânăstiri Vodița",
+      "latitudine": 44.72405,
+      "longitudine": 22.487136,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 207,
+      "nume": "ruine",
+      "latitudine": 45.184866,
+      "longitudine": 26.550275,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 208,
+      "nume": "ruine",
+      "latitudine": 46.930146,
+      "longitudine": 26.377918,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 209,
+      "nume": "Ruine Barajul Morii",
+      "latitudine": 46.224601,
+      "longitudine": 23.971551,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 210,
+      "nume": "Ruine beci",
+      "latitudine": 44.173584,
+      "longitudine": 25.943664,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 211,
+      "nume": "Ruine casă epoca romană",
+      "latitudine": 46.064925,
+      "longitudine": 23.572379,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 212,
+      "nume": "Ruine chilii",
+      "latitudine": 45.379821,
+      "longitudine": 27.04294,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 213,
+      "nume": "Ruine chilii",
+      "latitudine": 47.697586,
+      "longitudine": 25.825205,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 214,
+      "nume": "Ruine concasor",
+      "latitudine": 45.142325,
+      "longitudine": 28.195232,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 215,
+      "nume": "Ruine Mănăstirea Crișan",
+      "latitudine": 46.169076,
+      "longitudine": 22.780426,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 216,
+      "nume": "ruine schit",
+      "latitudine": 46.985929,
+      "longitudine": 27.585538,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 217,
+      "nume": "Ruine zona Hala Centrală",
+      "latitudine": 47.160461,
+      "longitudine": 27.59127,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 218,
+      "nume": "Ruinele Bisericii Greco-Catolice din Bobâlna",
+      "latitudine": 47.142831,
+      "longitudine": 23.63678,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 219,
+      "nume": "Ruinele Bisericii Greco-Catolice Ocnișoara",
+      "latitudine": 46.254582,
+      "longitudine": 23.873605,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 220,
+      "nume": "Ruinele Bisericii Luterane",
+      "latitudine": 46.94599,
+      "longitudine": 24.459637,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 221,
+      "nume": "Ruinele Bisericii Reformate Benic",
+      "latitudine": 46.216424,
+      "longitudine": 23.58873,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 222,
+      "nume": "Ruinele Bisericii Reformate Păuca",
+      "latitudine": 46.005982,
+      "longitudine": 23.887995,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 223,
+      "nume": "Ruinele Bisericii Romano-Catolice Sfânta Fecioară",
+      "latitudine": 47.421945,
+      "longitudine": 26.213581,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 224,
+      "nume": "Ruinele bisericii vechi Sfântul Nicolae",
+      "latitudine": 46.569269,
+      "longitudine": 26.912534,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 225,
+      "nume": "Ruinele bisericii „Sfântul Grigore Teologul”",
+      "latitudine": 45.048113,
+      "longitudine": 23.37438,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 226,
+      "nume": "Ruinele bisericii „Sfântul Nicolae”",
+      "latitudine": 45.017296,
+      "longitudine": 23.597124,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 227,
+      "nume": "Ruinele bisericii „Sfântul Visarion”",
+      "latitudine": 44.975374,
+      "longitudine": 26.026565,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 228,
+      "nume": "Ruinele Capelei Ladislau",
+      "latitudine": 45.797281,
+      "longitudine": 24.150178,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 229,
+      "nume": "Ruinele capelei Sf. Leonard",
+      "latitudine": 45.632447,
+      "longitudine": 25.59261,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 230,
+      "nume": "Ruinele caselor lui Radu și Constantin Șerban",
+      "latitudine": 44.253928,
+      "longitudine": 26.219119,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 231,
+      "nume": "Ruinele CEAP-ului Din Plopi",
+      "latitudine": 44.28116,
+      "longitudine": 24.983243,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 232,
+      "nume": "Ruinele CEAP-ului Din Plopi",
+      "latitudine": 44.282173,
+      "longitudine": 24.982234,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 233,
+      "nume": "Ruinele CEAP-ului Din Plopi",
+      "latitudine": 44.282367,
+      "longitudine": 24.983344,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 234,
+      "nume": "Ruinele Cetății Severinului",
+      "latitudine": 44.622598,
+      "longitudine": 22.656146,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 235,
+      "nume": "Ruinele cetății Tămășeni",
+      "latitudine": 48.021956,
+      "longitudine": 23.145902,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 236,
+      "nume": "Ruinele conaculcui Brâncoveanu-Mavrocordat",
+      "latitudine": 44.898435,
+      "longitudine": 26.03345,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 237,
+      "nume": "Ruinele conacului brâncovenesc de vie din Valea Mare-Podgoria",
+      "latitudine": 44.87459,
+      "longitudine": 24.905511,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 238,
+      "nume": "Ruinele conacului Catargiu",
+      "latitudine": 44.741177,
+      "longitudine": 26.410374,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 239,
+      "nume": "Ruinele conacului contesei Leopoldina Sztojánovics-Bogdanovich",
+      "latitudine": 45.788217,
+      "longitudine": 22.477696,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 240,
+      "nume": "Ruinele Conacului Zappa",
+      "latitudine": 44.66775,
+      "longitudine": 26.744619,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 241,
+      "nume": "Ruinele Curţii lui Constantin Bălăceanu",
+      "latitudine": 44.343273,
+      "longitudine": 24.924663,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 242,
+      "nume": "Ruinele Curții Boierilor Dudești",
+      "latitudine": 44.429288,
+      "longitudine": 26.093483,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 243,
+      "nume": "Ruinele curții brâncovenești de la Obilești",
+      "latitudine": 44.362239,
+      "longitudine": 26.751032,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 244,
+      "nume": "Ruinele Curții Domnești",
+      "latitudine": 46.563143,
+      "longitudine": 26.917291,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 245,
+      "nume": "Ruinele Curții Domnești",
+      "latitudine": 46.632655,
+      "longitudine": 27.731425,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 246,
+      "nume": "Ruinele Curții Domnești de la Brâncoveni",
+      "latitudine": 44.315368,
+      "longitudine": 24.310752,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 247,
+      "nume": "Ruinele curții nobiliare",
+      "latitudine": 45.859312,
+      "longitudine": 23.036142,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 248,
+      "nume": "Ruinele Furnalului Toplița",
+      "latitudine": 45.684581,
+      "longitudine": 22.780598,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 249,
+      "nume": "Ruinele Hanului Greci",
+      "latitudine": 44.432031,
+      "longitudine": 26.099621,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 250,
+      "nume": "Ruinele Hanului Șerban Vodă",
+      "latitudine": 44.432214,
+      "longitudine": 26.099412,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 251,
+      "nume": "Ruinele Mănăstirii Moldovița",
+      "latitudine": 47.661684,
+      "longitudine": 25.577447,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 252,
+      "nume": "Ruinele Mănăstirii Taița",
+      "latitudine": 45.166064,
+      "longitudine": 28.3624,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 253,
+      "nume": "Ruinele Podului Roman",
+      "latitudine": 43.763394,
+      "longitudine": 24.456926,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 254,
+      "nume": "Ruinele podului rutier Soimus",
+      "latitudine": 45.911953,
+      "longitudine": 22.872557,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 255,
+      "nume": "Ruinele Turnului Fierarilor",
+      "latitudine": 46.087101,
+      "longitudine": 24.107436,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 256,
+      "nume": "Ruinele Turnului Tâmplarilor",
+      "latitudine": 45.792819,
+      "longitudine": 24.150359,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 257,
+      "nume": "Rămășițele Curții Boierești Ghika Agăș (sec. XX)",
+      "latitudine": 46.50282,
+      "longitudine": 26.249696,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 258,
+      "nume": "Sanctuar",
+      "latitudine": 45.679769,
+      "longitudine": 23.154543,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 259,
+      "nume": "Sanctuar de andezit",
+      "latitudine": 45.623121,
+      "longitudine": 23.310592,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 260,
+      "nume": "Sanctuar mare circular",
+      "latitudine": 45.622746,
+      "longitudine": 23.310729,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 261,
+      "nume": "Sanctuar mic circular",
+      "latitudine": 45.623062,
+      "longitudine": 23.31084,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 262,
+      "nume": "Sanctuarul mare de calcar",
+      "latitudine": 45.621999,
+      "longitudine": 23.310241,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 263,
+      "nume": "Sanctuarul mic de calcar",
+      "latitudine": 45.622154,
+      "longitudine": 23.310049,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 264,
+      "nume": "Sanctuarul zeilor Aesculap și Hygia",
+      "latitudine": 45.517572,
+      "longitudine": 22.788254,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 265,
+      "nume": "Schitul Codreni",
+      "latitudine": 44.387373,
+      "longitudine": 26.649705,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 266,
+      "nume": "Schitul Roaba",
+      "latitudine": 43.947682,
+      "longitudine": 23.945153,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 267,
+      "nume": "Schola gladiatorum",
+      "latitudine": 45.51717,
+      "longitudine": 22.78654,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 268,
+      "nume": "Secția Cocso-Chimică.",
+      "latitudine": 45.759105,
+      "longitudine": 22.887161,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 269,
+      "nume": "Sediul procuratorului financiar;therme",
+      "latitudine": 45.514823,
+      "longitudine": 22.788197,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 270,
+      "nume": "Sikló alsó állomása",
+      "latitudine": 45.835367,
+      "longitudine": 26.230193,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 271,
+      "nume": "Sikló felső állomása",
+      "latitudine": 45.825831,
+      "longitudine": 26.237123,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 272,
+      "nume": "Soarele de andezit",
+      "latitudine": 45.622908,
+      "longitudine": 23.310477,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 273,
+      "nume": "Stana abandonata",
+      "latitudine": 45.430836,
+      "longitudine": 25.607174,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 274,
+      "nume": "Stana Rotunda",
+      "latitudine": 45.318631,
+      "longitudine": 24.322261,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 275,
+      "nume": "Stana Turneanu",
+      "latitudine": 45.309126,
+      "longitudine": 24.314678,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 276,
+      "nume": "Székelybánja vár romjai",
+      "latitudine": 45.843745,
+      "longitudine": 26.017154,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 277,
+      "nume": "Tabernae-le romane",
+      "latitudine": 44.547313,
+      "longitudine": 28.773626,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 278,
+      "nume": "Templul lui Liber Pater",
+      "latitudine": 45.517824,
+      "longitudine": 22.787354,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 279,
+      "nume": "Templul mare",
+      "latitudine": 45.516354,
+      "longitudine": 22.788356,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 280,
+      "nume": "Templul zeiței Nemesis",
+      "latitudine": 45.516593,
+      "longitudine": 22.786665,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 281,
+      "nume": "Templul zeului Silvanus",
+      "latitudine": 45.516249,
+      "longitudine": 22.78794,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 282,
+      "nume": "The Old Rotunda",
+      "latitudine": 45.837056,
+      "longitudine": 23.196276,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 283,
+      "nume": "Thermae of Micia",
+      "latitudine": 45.915402,
+      "longitudine": 22.816432,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 284,
+      "nume": "Thermae-Palaestra",
+      "latitudine": 46.569446,
+      "longitudine": 23.774167,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 285,
+      "nume": "Thermele Romane (sec. II-V)",
+      "latitudine": 44.54683,
+      "longitudine": 28.773038,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 286,
+      "nume": "Troiță distrusă",
+      "latitudine": 45.157763,
+      "longitudine": 24.114949,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 287,
+      "nume": "tumulus",
+      "latitudine": 44.135928,
+      "longitudine": 27.87648,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 288,
+      "nume": "tumulus",
+      "latitudine": 44.138067,
+      "longitudine": 27.87441,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 289,
+      "nume": "Turn clopotniță",
+      "latitudine": 44.387374,
+      "longitudine": 26.649597,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 290,
+      "nume": "Turn de apă",
+      "latitudine": 45.018481,
+      "longitudine": 25.779645,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 291,
+      "nume": "Turn de apărare",
+      "latitudine": 44.174797,
+      "longitudine": 28.653144,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 292,
+      "nume": "Turn Locuinta",
+      "latitudine": 45.679506,
+      "longitudine": 23.153674,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 293,
+      "nume": "Turn Locuinta",
+      "latitudine": 45.680558,
+      "longitudine": 23.154307,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 294,
+      "nume": "Turnul Bisericii de Piatră - Băcăinți",
+      "latitudine": 45.938578,
+      "longitudine": 23.283197,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 295,
+      "nume": "Turnul de pe deal din Grădinari",
+      "latitudine": 45.120277,
+      "longitudine": 21.586982,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 296,
+      "nume": "Turnul Spart",
+      "latitudine": 45.588814,
+      "longitudine": 24.25948,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 297,
+      "nume": "Turnătoria",
+      "latitudine": 45.754169,
+      "longitudine": 22.889702,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 298,
+      "nume": "Urme de constructii",
+      "latitudine": 45.45178,
+      "longitudine": 23.314322,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 299,
+      "nume": "Urmele Cetății Vársarka",
+      "latitudine": 46.628707,
+      "longitudine": 25.794317,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 300,
+      "nume": "Vechea Școală",
+      "latitudine": 44.278856,
+      "longitudine": 24.993381,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 301,
+      "nume": "Vicus of Micia",
+      "latitudine": 45.914418,
+      "longitudine": 22.814585,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 302,
+      "nume": "Villa rustica",
+      "latitudine": 44.660643,
+      "longitudine": 21.853309,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 303,
+      "nume": "Világosi Mindszentek-kápolnája",
+      "latitudine": 46.260581,
+      "longitudine": 21.635687,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 304,
+      "nume": "Zidul Curții Domnești a lui Radu de la Afumați",
+      "latitudine": 44.521382,
+      "longitudine": 26.247279,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 305,
+      "nume": "Zidurile bisericii vechi Nădășelu",
+      "latitudine": 46.827315,
+      "longitudine": 23.410275,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 306,
+      "nume": "Închisoarea Doftana",
+      "latitudine": 45.136868,
+      "longitudine": 25.772804,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 307,
+      "nume": "Școala veche",
+      "latitudine": 44.079294,
+      "longitudine": 25.731791,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 308,
+      "nume": "Șura Pitorească",
+      "latitudine": 46.299296,
+      "longitudine": 23.454587,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 309,
+      "nume": "Кляуза Маріїн",
+      "latitudine": 47.901302,
+      "longitudine": 24.947863,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 310,
+      "nume": "Луцернария бургон",
+      "latitudine": 43.693611,
+      "longitudine": 24.78,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 311,
+      "nume": "Махмуд-пашин хамам",
+      "latitudine": 44.660082,
+      "longitudine": 21.675212,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 312,
+      "nume": "Османски хамам",
+      "latitudine": 43.742174,
+      "longitudine": 23.952816,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 313,
+      "nume": "Римска кућа",
+      "latitudine": 44.659941,
+      "longitudine": 21.675088,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    },
+    {
+      "id": 314,
+      "nume": "Средњевековна кречана",
+      "latitudine": 44.660245,
+      "longitudine": 21.675557,
+      "cheie_osm": "historic",
+      "valoare_osm": "ruins",
+      "categorie_osm": "historic=ruins"
+    }
+  ],
+  "meta": {
+    "title": "Ruine istorice din România - Descărcare gratuită",
+    "description": "Ruine istorice din România — 314 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `historic=ruins`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează. Conține 314 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Ruine istorice din România | ListBase",
+    "seo_description": "Descarcă Ruine istorice din România — 314 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 314 înregistrări / 7 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

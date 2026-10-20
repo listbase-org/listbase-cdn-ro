@@ -1,0 +1,151 @@
+{
+  "id": "ro-braila-orase",
+  "name": "Orașele și municipiile județului Brăila",
+  "title": "Orașele și municipiile județului Brăila",
+  "description": "Lista celor 4 de orașe, municipii din județul Brăila (BR) — unități administrativ-teritoriale urbane de nivel 2 conform SIRUTA. Reședința de județ este marcată cu is_resedinta_judet=true.",
+  "category": "geography",
+  "source": "https://github.com/ionelmc/django-siruta",
+  "source_url": "https://github.com/ionelmc/django-siruta",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "siruta_code",
+      "label": "Siruta Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_official",
+      "label": "Name Official",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet_id",
+      "label": "Judet Id",
+      "type": "number"
+    },
+    {
+      "key": "judet_name",
+      "label": "Judet Name",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "tip_code",
+      "label": "Tip Code",
+      "type": "number"
+    },
+    {
+      "key": "tip_name",
+      "label": "Tip Name",
+      "type": "string"
+    },
+    {
+      "key": "is_resedinta_judet",
+      "label": "Is Resedinta Judet",
+      "type": "boolean"
+    },
+    {
+      "key": "regiune_id",
+      "label": "Regiune Id",
+      "type": "number"
+    },
+    {
+      "key": "nuts3",
+      "label": "Nuts3",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "siruta_code": 42682,
+      "name": "Brăila",
+      "name_official": "MUNICIPIUL BRĂILA",
+      "slug": "braila",
+      "judet_id": 9,
+      "judet_name": "Brăila",
+      "judet_slug": "braila",
+      "iso_3166_2": "RO-BR",
+      "tip_code": 1,
+      "tip_name": "municipiu reședință de județ",
+      "is_resedinta_judet": true,
+      "regiune_id": 2,
+      "nuts3": "RO221"
+    },
+    {
+      "siruta_code": 42753,
+      "name": "Făurei",
+      "name_official": "ORAȘ FĂUREI",
+      "slug": "faurei",
+      "judet_id": 9,
+      "judet_name": "Brăila",
+      "judet_slug": "braila",
+      "iso_3166_2": "RO-BR",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 2,
+      "nuts3": "RO221"
+    },
+    {
+      "siruta_code": 43331,
+      "name": "Ianca",
+      "name_official": "ORAȘ IANCA",
+      "slug": "ianca",
+      "judet_id": 9,
+      "judet_name": "Brăila",
+      "judet_slug": "braila",
+      "iso_3166_2": "RO-BR",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 2,
+      "nuts3": "RO221"
+    },
+    {
+      "siruta_code": 43411,
+      "name": "Însurăței",
+      "name_official": "ORAȘ ÎNSURĂȚEI",
+      "slug": "insuratei",
+      "judet_id": 9,
+      "judet_name": "Brăila",
+      "judet_slug": "braila",
+      "iso_3166_2": "RO-BR",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 2,
+      "nuts3": "RO221"
+    }
+  ],
+  "meta": {
+    "title": "Orașele și municipiile județului Brăila - Descărcare gratuită",
+    "description": "Lista celor 4 de orașe, municipii din județul Brăila (BR) — unități administrativ-teritoriale urbane de nivel 2 conform SIRUTA. Reședința de județ este marcată cu is_resedinta_judet=true. Conține 4 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Orașele și municipiile județului Brăila | ListBase",
+    "seo_description": "Descarcă Orașele și municipiile județului Brăila — 4 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 4 înregistrări / 13 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: https://github.com/ionelmc/django-siruta"
+    ]
+  }
+}

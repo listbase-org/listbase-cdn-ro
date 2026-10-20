@@ -1,0 +1,79 @@
+{
+  "id": "ro-iasi-banci",
+  "name": "Bănci în Iasi — coduri SWIFT/BIC",
+  "title": "Bănci în Iasi — coduri SWIFT/BIC",
+  "description": "Instituții bancare și financiare înregistrate SWIFT/BIC cu sediul în Iasi, România (4 înregistrări). Subset al listei naționale `ro-banci` (263 înregistrări), grupat după câmpul `city` din sursă. Șirul literal din sursă este \"IASI\" — păstrat verbatim, fără diacritice și cu majuscule, exact așa cum este livrat de sursă; nu a fost tradus, normalizat sau completat cu diacritice. Câmpuri: id, bank, city, branch, swift_code.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 7,
+      "bank": "ARCELORMITTAL TUBULAR PRODUCTS ROMAN SA",
+      "city": "IASI",
+      "branch": "",
+      "swift_code": "USINRO21IAS"
+    },
+    {
+      "id": 81,
+      "bank": "BANCA TRANSILVANIA S.A.",
+      "city": "IASI",
+      "branch": "(IASI BRANCH)",
+      "swift_code": "BTRLRO22ISA"
+    },
+    {
+      "id": 198,
+      "bank": "KIRA CREDITO AND CAUZIONI IFN S.A",
+      "city": "IASI",
+      "branch": "",
+      "swift_code": "KCCFRO21"
+    },
+    {
+      "id": 246,
+      "bank": "T.G.H. INVESTMENT S.A.",
+      "city": "IASI",
+      "branch": "",
+      "swift_code": "TGINRO21"
+    }
+  ],
+  "meta": {
+    "title": "Bănci în Iasi — coduri SWIFT/BIC - Descărcare gratuită",
+    "description": "Instituții bancare și financiare înregistrate SWIFT/BIC cu sediul în Iasi, România (4 înregistrări). Subset al listei naționale `ro-banci` (263 înregistrări), grupat după câmpul `city` din sursă. Șirul literal din sursă este \"IASI\" — păstrat verbatim, fără diacritice și cu majuscule, exact așa cum este livrat de sursă; nu a fost tradus, normalizat sau completat cu diacritice. Câmpuri: id, bank, city, branch, swift_code. Conține 4 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Bănci în Iasi — coduri SWIFT/BIC | ListBase",
+    "seo_description": "Descarcă Bănci în Iasi — coduri SWIFT/BIC — 4 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 4 înregistrări / 5 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "id": "ro-vaslui-municipii",
+  "name": "Municipiile din județul Vaslui",
+  "title": "Municipiile din județul Vaslui",
+  "description": "Lista municipiilor din județul Vaslui, România (3 municipii), conform clasificatorului SIRUTA (INS), vintage S1-2025. Include municipiul reședință de județ și celelalte municipii ale județului.",
+  "category": "reference",
+  "source": "https://github.com/ionelmc/django-siruta",
+  "source_url": "https://github.com/ionelmc/django-siruta",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "siruta_code",
+      "label": "Siruta Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_official",
+      "label": "Name Official",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet_id",
+      "label": "Judet Id",
+      "type": "number"
+    },
+    {
+      "key": "judet_name",
+      "label": "Judet Name",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "tip_code",
+      "label": "Tip Code",
+      "type": "number"
+    },
+    {
+      "key": "tip_name",
+      "label": "Tip Name",
+      "type": "string"
+    },
+    {
+      "key": "is_resedinta_judet",
+      "label": "Is Resedinta Judet",
+      "type": "boolean"
+    },
+    {
+      "key": "regiune_id",
+      "label": "Regiune Id",
+      "type": "number"
+    },
+    {
+      "key": "nuts3",
+      "label": "Nuts3",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "siruta_code": 161794,
+      "name": "Bârlad",
+      "name_official": "MUNICIPIUL BÂRLAD",
+      "slug": "barlad",
+      "judet_id": 37,
+      "judet_name": "Vaslui",
+      "judet_slug": "vaslui",
+      "iso_3166_2": "RO-VS",
+      "tip_code": 4,
+      "tip_name": "municipiu",
+      "is_resedinta_judet": false,
+      "regiune_id": 1,
+      "nuts3": "RO216"
+    },
+    {
+      "siruta_code": 161829,
+      "name": "Huși",
+      "name_official": "MUNICIPIUL HUȘI",
+      "slug": "husi",
+      "judet_id": 37,
+      "judet_name": "Vaslui",
+      "judet_slug": "vaslui",
+      "iso_3166_2": "RO-VS",
+      "tip_code": 4,
+      "tip_name": "municipiu",
+      "is_resedinta_judet": false,
+      "regiune_id": 1,
+      "nuts3": "RO216"
+    },
+    {
+      "siruta_code": 161945,
+      "name": "Vaslui",
+      "name_official": "MUNICIPIUL VASLUI",
+      "slug": "vaslui",
+      "judet_id": 37,
+      "judet_name": "Vaslui",
+      "judet_slug": "vaslui",
+      "iso_3166_2": "RO-VS",
+      "tip_code": 1,
+      "tip_name": "municipiu reședință de județ",
+      "is_resedinta_judet": true,
+      "regiune_id": 1,
+      "nuts3": "RO216"
+    }
+  ],
+  "meta": {
+    "title": "Municipiile din județul Vaslui - Descărcare gratuită",
+    "description": "Lista municipiilor din județul Vaslui, România (3 municipii), conform clasificatorului SIRUTA (INS), vintage S1-2025. Include municipiul reședință de județ și celelalte municipii ale județului. Conține 3 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Municipiile din județul Vaslui | ListBase",
+    "seo_description": "Descarcă Municipiile din județul Vaslui — 3 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 3 înregistrări / 13 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: https://github.com/ionelmc/django-siruta"
+    ]
+  }
+}

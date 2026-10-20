@@ -1,0 +1,181 @@
+{
+  "id": "ro-canale-tv-lifestyle",
+  "name": "Canale TV de lifestyle din România (Lifestyle TV channels)",
+  "title": "Canale TV de lifestyle din România (Lifestyle TV channels)",
+  "description": "Canalele de televiziune din România din categoria „lifestyle” (de lifestyle) — 6 canale din registrul deschis iptv-org/database. Include numele canalului, denumiri alternative, rețeaua, proprietarii, categoriile, data lansării și a închiderii, precum și site-ul oficial.",
+  "category": "entertainment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "string"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "AntenaMonden.ro",
+      "name": "Antena Monden",
+      "alt_names": "",
+      "network": "Antena Group",
+      "owners": "Intact Media Group",
+      "country": "RO",
+      "categories": "lifestyle",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://antenaplay.ro/"
+    },
+    {
+      "id": 2,
+      "channel_id": "CaTine.ro",
+      "name": "CaTine",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "RO",
+      "categories": "lifestyle",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://catine.ro/"
+    },
+    {
+      "id": 3,
+      "channel_id": "CardioTVSRC.ro",
+      "name": "Cardio TV SRC",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "RO",
+      "categories": "lifestyle",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.cardiotvsrc.ro/"
+    },
+    {
+      "id": 4,
+      "channel_id": "MediCOOLTV.ro",
+      "name": "MediCOOL TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "Digital Antena Group",
+      "country": "RO",
+      "categories": "lifestyle",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://antenaplay.ro/live/medicool-tv"
+    },
+    {
+      "id": 5,
+      "channel_id": "TLC.ro",
+      "name": "TLC",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "RO",
+      "categories": "lifestyle",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.tlcchannel.ro/"
+    },
+    {
+      "id": 6,
+      "channel_id": "TVPaprika.ro",
+      "name": "TV Paprika",
+      "alt_names": "",
+      "network": "",
+      "owners": "AMC Networks Inc.",
+      "country": "RO",
+      "categories": "lifestyle, travel",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.tvpaprika.ro/"
+    }
+  ],
+  "meta": {
+    "title": "Canale TV de lifestyle din România (Lifestyle TV channels) - Descărcare gratuită",
+    "description": "Canalele de televiziune din România din categoria „lifestyle” (de lifestyle) — 6 canale din registrul deschis iptv-org/database. Include numele canalului, denumiri alternative, rețeaua, proprietarii, categoriile, data lansării și a închiderii, precum și site-ul oficial. Conține 6 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Canale TV de lifestyle din România (Lifestyle TV channels) | ListBase",
+    "seo_description": "Descarcă Canale TV de lifestyle din România (Lifestyle TV channels) — 6 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 6 înregistrări / 13 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

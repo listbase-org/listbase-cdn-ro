@@ -1,0 +1,256 @@
+{
+  "id": "ro-constanta-orase",
+  "name": "Orașele și municipiile județului Constanța",
+  "title": "Orașele și municipiile județului Constanța",
+  "description": "Lista celor 11 de orașe, municipii din județul Constanța (CT) — unități administrativ-teritoriale urbane de nivel 2 conform SIRUTA. Reședința de județ este marcată cu is_resedinta_judet=true.",
+  "category": "geography",
+  "source": "https://github.com/ionelmc/django-siruta",
+  "source_url": "https://github.com/ionelmc/django-siruta",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "siruta_code",
+      "label": "Siruta Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_official",
+      "label": "Name Official",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet_id",
+      "label": "Judet Id",
+      "type": "number"
+    },
+    {
+      "key": "judet_name",
+      "label": "Judet Name",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "tip_code",
+      "label": "Tip Code",
+      "type": "number"
+    },
+    {
+      "key": "tip_name",
+      "label": "Tip Name",
+      "type": "string"
+    },
+    {
+      "key": "is_resedinta_judet",
+      "label": "Is Resedinta Judet",
+      "type": "boolean"
+    },
+    {
+      "key": "regiune_id",
+      "label": "Regiune Id",
+      "type": "number"
+    },
+    {
+      "key": "nuts3",
+      "label": "Nuts3",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "siruta_code": 60419,
+      "name": "Constanța",
+      "name_official": "MUNICIPIUL CONSTANȚA",
+      "slug": "constanta",
+      "judet_id": 13,
+      "judet_name": "Constanța",
+      "judet_slug": "constanta",
+      "iso_3166_2": "RO-CT",
+      "tip_code": 1,
+      "tip_name": "municipiu reședință de județ",
+      "is_resedinta_judet": true,
+      "regiune_id": 2,
+      "nuts3": "RO223"
+    },
+    {
+      "siruta_code": 60776,
+      "name": "Cernavodă",
+      "name_official": "ORAȘ CERNAVODĂ",
+      "slug": "cernavoda",
+      "judet_id": 13,
+      "judet_name": "Constanța",
+      "judet_slug": "constanta",
+      "iso_3166_2": "RO-CT",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 2,
+      "nuts3": "RO223"
+    },
+    {
+      "siruta_code": 60455,
+      "name": "Eforie",
+      "name_official": "ORAȘ EFORIE",
+      "slug": "eforie",
+      "judet_id": 13,
+      "judet_name": "Constanța",
+      "judet_slug": "constanta",
+      "iso_3166_2": "RO-CT",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 2,
+      "nuts3": "RO223"
+    },
+    {
+      "siruta_code": 60801,
+      "name": "Hârșova",
+      "name_official": "ORAȘ HÂRȘOVA",
+      "slug": "harsova",
+      "judet_id": 13,
+      "judet_name": "Constanța",
+      "judet_slug": "constanta",
+      "iso_3166_2": "RO-CT",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 2,
+      "nuts3": "RO223"
+    },
+    {
+      "siruta_code": 60482,
+      "name": "Mangalia",
+      "name_official": "MUNICIPIUL MANGALIA",
+      "slug": "mangalia",
+      "judet_id": 13,
+      "judet_name": "Constanța",
+      "judet_slug": "constanta",
+      "iso_3166_2": "RO-CT",
+      "tip_code": 4,
+      "tip_name": "municipiu",
+      "is_resedinta_judet": false,
+      "regiune_id": 2,
+      "nuts3": "RO223"
+    },
+    {
+      "siruta_code": 60847,
+      "name": "Medgidia",
+      "name_official": "MUNICIPIUL MEDGIDIA",
+      "slug": "medgidia",
+      "judet_id": 13,
+      "judet_name": "Constanța",
+      "judet_slug": "constanta",
+      "iso_3166_2": "RO-CT",
+      "tip_code": 4,
+      "tip_name": "municipiu",
+      "is_resedinta_judet": false,
+      "regiune_id": 2,
+      "nuts3": "RO223"
+    },
+    {
+      "siruta_code": 62360,
+      "name": "Murfatlar",
+      "name_official": "ORAȘ MURFATLAR",
+      "slug": "murfatlar",
+      "judet_id": 13,
+      "judet_name": "Constanța",
+      "judet_slug": "constanta",
+      "iso_3166_2": "RO-CT",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 2,
+      "nuts3": "RO223"
+    },
+    {
+      "siruta_code": 62397,
+      "name": "Negru Vodă",
+      "name_official": "ORAȘ NEGRU VODĂ",
+      "slug": "negru-voda",
+      "judet_id": 13,
+      "judet_name": "Constanța",
+      "judet_slug": "constanta",
+      "iso_3166_2": "RO-CT",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 2,
+      "nuts3": "RO223"
+    },
+    {
+      "siruta_code": 60507,
+      "name": "Năvodari",
+      "name_official": "ORAȘ NĂVODARI",
+      "slug": "navodari",
+      "judet_id": 13,
+      "judet_name": "Constanța",
+      "judet_slug": "constanta",
+      "iso_3166_2": "RO-CT",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 2,
+      "nuts3": "RO223"
+    },
+    {
+      "siruta_code": 60687,
+      "name": "Ovidiu",
+      "name_official": "ORAȘ OVIDIU",
+      "slug": "ovidiu",
+      "judet_id": 13,
+      "judet_name": "Constanța",
+      "judet_slug": "constanta",
+      "iso_3166_2": "RO-CT",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 2,
+      "nuts3": "RO223"
+    },
+    {
+      "siruta_code": 60534,
+      "name": "Techirghiol",
+      "name_official": "ORAȘ TECHIRGHIOL",
+      "slug": "techirghiol",
+      "judet_id": 13,
+      "judet_name": "Constanța",
+      "judet_slug": "constanta",
+      "iso_3166_2": "RO-CT",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 2,
+      "nuts3": "RO223"
+    }
+  ],
+  "meta": {
+    "title": "Orașele și municipiile județului Constanța - Descărcare gratuită",
+    "description": "Lista celor 11 de orașe, municipii din județul Constanța (CT) — unități administrativ-teritoriale urbane de nivel 2 conform SIRUTA. Reședința de județ este marcată cu is_resedinta_judet=true. Conține 11 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Orașele și municipiile județului Constanța | ListBase",
+    "seo_description": "Descarcă Orașele și municipiile județului Constanța — 11 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 11 înregistrări / 13 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: https://github.com/ionelmc/django-siruta"
+    ]
+  }
+}

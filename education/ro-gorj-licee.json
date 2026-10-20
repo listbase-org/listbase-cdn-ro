@@ -1,0 +1,244 @@
+{
+  "id": "ro-gorj-licee",
+  "name": "Licee si colegii din judetul Gorj",
+  "title": "Licee si colegii din judetul Gorj",
+  "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Gorj (33 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "COLEGIUL AUTO \"TRAIAN VUIA\" TÂRGU-JIU",
+      "slug": "colegiul-auto-traian-vuia-targu-jiu",
+      "judet": "GORJ",
+      "judet_slug": "gorj"
+    },
+    {
+      "nume": "COLEGIUL ECONOMIC \"VIRGIL MADGEARU\" TÂRGU-JIU",
+      "slug": "colegiul-economic-virgil-madgearu-targu-jiu",
+      "judet": "GORJ",
+      "judet_slug": "gorj"
+    },
+    {
+      "nume": "COLEGIUL NATIONAL \"ECATERINA TEODOROIU\" TÂRGU-JIU",
+      "slug": "colegiul-national-ecaterina-teodoroiu-targu-jiu",
+      "judet": "GORJ",
+      "judet_slug": "gorj"
+    },
+    {
+      "nume": "COLEGIUL NATIONAL \"GEORGE COSBUC\" MOTRU",
+      "slug": "colegiul-national-george-cosbuc-motru",
+      "judet": "GORJ",
+      "judet_slug": "gorj"
+    },
+    {
+      "nume": "COLEGIUL NATIONAL \"SPIRU HARET\" TÂRGU-JIU",
+      "slug": "colegiul-national-spiru-haret-targu-jiu",
+      "judet": "GORJ",
+      "judet_slug": "gorj"
+    },
+    {
+      "nume": "COLEGIUL NATIONAL \"TUDOR ARGHEZI\" TÂRGU CARBUNESTI",
+      "slug": "colegiul-national-tudor-arghezi-targu-carbunesti",
+      "judet": "GORJ",
+      "judet_slug": "gorj"
+    },
+    {
+      "nume": "COLEGIUL NATIONAL \"TUDOR VLADIMIRESCU\" TÂRGU-JIU",
+      "slug": "colegiul-national-tudor-vladimirescu-targu-jiu",
+      "judet": "GORJ",
+      "judet_slug": "gorj"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC MATASARI",
+      "slug": "colegiul-tehnic-matasari",
+      "judet": "GORJ",
+      "judet_slug": "gorj"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC MOTRU",
+      "slug": "colegiul-tehnic-motru",
+      "judet": "GORJ",
+      "judet_slug": "gorj"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC NR. 2 TÂRGU-JIU",
+      "slug": "colegiul-tehnic-nr-2-targu-jiu",
+      "judet": "GORJ",
+      "judet_slug": "gorj"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"G-RAL GHEORGHE MAGHERU\" TÂRGU-JIU",
+      "slug": "colegiul-tehnic-g-ral-gheorghe-magheru-targu-jiu",
+      "judet": "GORJ",
+      "judet_slug": "gorj"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"HENRI COANDA\" TÂRGU-JIU",
+      "slug": "colegiul-tehnic-henri-coanda-targu-jiu",
+      "judet": "GORJ",
+      "judet_slug": "gorj"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"ION MINCU\" TÂRGU-JIU",
+      "slug": "colegiul-tehnic-ion-mincu-targu-jiu",
+      "judet": "GORJ",
+      "judet_slug": "gorj"
+    },
+    {
+      "nume": "COLEGIUL \"GHEORGHE TATARESCU\" ROVINARI",
+      "slug": "colegiul-gheorghe-tatarescu-rovinari",
+      "judet": "GORJ",
+      "judet_slug": "gorj"
+    },
+    {
+      "nume": "COLEGIUL \"MIHAI VITEAZUL\" BUMBESTI-JIU",
+      "slug": "colegiul-mihai-viteazul-bumbesti-jiu",
+      "judet": "GORJ",
+      "judet_slug": "gorj"
+    },
+    {
+      "nume": "LICEUL CU PROGRAM SPORTIV TÂRGU-JIU",
+      "slug": "liceul-cu-program-sportiv-targu-jiu",
+      "judet": "GORJ",
+      "judet_slug": "gorj"
+    },
+    {
+      "nume": "LICEUL DE ARTE \"CONSTANTIN BRAILOIU\" TÂRGU-JIU",
+      "slug": "liceul-de-arte-constantin-brailoiu-targu-jiu",
+      "judet": "GORJ",
+      "judet_slug": "gorj"
+    },
+    {
+      "nume": "LICEUL ENERGETIC TÂRGU-JIU",
+      "slug": "liceul-energetic-targu-jiu",
+      "judet": "GORJ",
+      "judet_slug": "gorj"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC BAIA DE FIER",
+      "slug": "liceul-tehnologic-baia-de-fier",
+      "judet": "GORJ",
+      "judet_slug": "gorj"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC BILTENI",
+      "slug": "liceul-tehnologic-bilteni",
+      "judet": "GORJ",
+      "judet_slug": "gorj"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC BIRSESTI",
+      "slug": "liceul-tehnologic-birsesti",
+      "judet": "GORJ",
+      "judet_slug": "gorj"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC BUSTUCHIN",
+      "slug": "liceul-tehnologic-bustuchin",
+      "judet": "GORJ",
+      "judet_slug": "gorj"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC ROSIA DE AMARADIA",
+      "slug": "liceul-tehnologic-rosia-de-amaradia",
+      "judet": "GORJ",
+      "judet_slug": "gorj"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC ROSIA JIU, FARCASESTI",
+      "slug": "liceul-tehnologic-rosia-jiu-farcasesti",
+      "judet": "GORJ",
+      "judet_slug": "gorj"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC STOINA",
+      "slug": "liceul-tehnologic-stoina",
+      "judet": "GORJ",
+      "judet_slug": "gorj"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC TICLENI",
+      "slug": "liceul-tehnologic-ticleni",
+      "judet": "GORJ",
+      "judet_slug": "gorj"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC TISMANA",
+      "slug": "liceul-tehnologic-tismana",
+      "judet": "GORJ",
+      "judet_slug": "gorj"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC TURBUREA",
+      "slug": "liceul-tehnologic-turburea",
+      "judet": "GORJ",
+      "judet_slug": "gorj"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC TURCENI",
+      "slug": "liceul-tehnologic-turceni",
+      "judet": "GORJ",
+      "judet_slug": "gorj"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"CONSTANTIN BRANCUSI\" PESTISANI",
+      "slug": "liceul-tehnologic-constantin-brancusi-pestisani",
+      "judet": "GORJ",
+      "judet_slug": "gorj"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"G-RAL CONSTANTIN SANDRU\" BILTA, RUNCU",
+      "slug": "liceul-tehnologic-g-ral-constantin-sandru-bilta-runcu",
+      "judet": "GORJ",
+      "judet_slug": "gorj"
+    },
+    {
+      "nume": "LICEUL TEOLOGIC TÂRGU-JIU",
+      "slug": "liceul-teologic-targu-jiu",
+      "judet": "GORJ",
+      "judet_slug": "gorj"
+    },
+    {
+      "nume": "LICEUL TEORETIC NOVACI",
+      "slug": "liceul-teoretic-novaci",
+      "judet": "GORJ",
+      "judet_slug": "gorj"
+    }
+  ],
+  "meta": {
+    "title": "Licee si colegii din judetul Gorj - Descărcare gratuită",
+    "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Gorj (33 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor. Conține 33 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Licee si colegii din judetul Gorj | ListBase",
+    "seo_description": "Descarcă Licee si colegii din judetul Gorj — 33 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 33 înregistrări / 4 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

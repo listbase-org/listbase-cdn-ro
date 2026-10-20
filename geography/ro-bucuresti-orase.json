@@ -1,0 +1,181 @@
+{
+  "id": "ro-bucuresti-orase",
+  "name": "Orașele și municipiile județului București",
+  "title": "Orașele și municipiile județului București",
+  "description": "Lista celor 6 de orașe, municipii și sectoare din județul București (B) — unități administrativ-teritoriale urbane de nivel 2 conform SIRUTA. Reședința de județ este marcată cu is_resedinta_judet=true.",
+  "category": "geography",
+  "source": "https://github.com/ionelmc/django-siruta",
+  "source_url": "https://github.com/ionelmc/django-siruta",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "siruta_code",
+      "label": "Siruta Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_official",
+      "label": "Name Official",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet_id",
+      "label": "Judet Id",
+      "type": "number"
+    },
+    {
+      "key": "judet_name",
+      "label": "Judet Name",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "tip_code",
+      "label": "Tip Code",
+      "type": "number"
+    },
+    {
+      "key": "tip_name",
+      "label": "Tip Name",
+      "type": "string"
+    },
+    {
+      "key": "is_resedinta_judet",
+      "label": "Is Resedinta Judet",
+      "type": "boolean"
+    },
+    {
+      "key": "regiune_id",
+      "label": "Regiune Id",
+      "type": "number"
+    },
+    {
+      "key": "nuts3",
+      "label": "Nuts3",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "siruta_code": 179141,
+      "name": "București Sectorul 1",
+      "name_official": "BUCUREȘTI SECTORUL 1",
+      "slug": "bucuresti-sectorul-1",
+      "judet_id": 40,
+      "judet_name": "București",
+      "judet_slug": "bucuresti",
+      "iso_3166_2": "RO-B",
+      "tip_code": 6,
+      "tip_name": "sector al municipiului București",
+      "is_resedinta_judet": false,
+      "regiune_id": 8,
+      "nuts3": "RO321"
+    },
+    {
+      "siruta_code": 179150,
+      "name": "București Sectorul 2",
+      "name_official": "BUCUREȘTI SECTORUL 2",
+      "slug": "bucuresti-sectorul-2",
+      "judet_id": 40,
+      "judet_name": "București",
+      "judet_slug": "bucuresti",
+      "iso_3166_2": "RO-B",
+      "tip_code": 6,
+      "tip_name": "sector al municipiului București",
+      "is_resedinta_judet": false,
+      "regiune_id": 8,
+      "nuts3": "RO321"
+    },
+    {
+      "siruta_code": 179169,
+      "name": "București Sectorul 3",
+      "name_official": "BUCUREȘTI SECTORUL 3",
+      "slug": "bucuresti-sectorul-3",
+      "judet_id": 40,
+      "judet_name": "București",
+      "judet_slug": "bucuresti",
+      "iso_3166_2": "RO-B",
+      "tip_code": 6,
+      "tip_name": "sector al municipiului București",
+      "is_resedinta_judet": false,
+      "regiune_id": 8,
+      "nuts3": "RO321"
+    },
+    {
+      "siruta_code": 179178,
+      "name": "București Sectorul 4",
+      "name_official": "BUCUREȘTI SECTORUL 4",
+      "slug": "bucuresti-sectorul-4",
+      "judet_id": 40,
+      "judet_name": "București",
+      "judet_slug": "bucuresti",
+      "iso_3166_2": "RO-B",
+      "tip_code": 6,
+      "tip_name": "sector al municipiului București",
+      "is_resedinta_judet": false,
+      "regiune_id": 8,
+      "nuts3": "RO321"
+    },
+    {
+      "siruta_code": 179187,
+      "name": "București Sectorul 5",
+      "name_official": "BUCUREȘTI SECTORUL 5",
+      "slug": "bucuresti-sectorul-5",
+      "judet_id": 40,
+      "judet_name": "București",
+      "judet_slug": "bucuresti",
+      "iso_3166_2": "RO-B",
+      "tip_code": 6,
+      "tip_name": "sector al municipiului București",
+      "is_resedinta_judet": false,
+      "regiune_id": 8,
+      "nuts3": "RO321"
+    },
+    {
+      "siruta_code": 179196,
+      "name": "București Sectorul 6",
+      "name_official": "BUCUREȘTI SECTORUL 6",
+      "slug": "bucuresti-sectorul-6",
+      "judet_id": 40,
+      "judet_name": "București",
+      "judet_slug": "bucuresti",
+      "iso_3166_2": "RO-B",
+      "tip_code": 6,
+      "tip_name": "sector al municipiului București",
+      "is_resedinta_judet": false,
+      "regiune_id": 8,
+      "nuts3": "RO321"
+    }
+  ],
+  "meta": {
+    "title": "Orașele și municipiile județului București - Descărcare gratuită",
+    "description": "Lista celor 6 de orașe, municipii și sectoare din județul București (B) — unități administrativ-teritoriale urbane de nivel 2 conform SIRUTA. Reședința de județ este marcată cu is_resedinta_judet=true. Conține 6 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Orașele și municipiile județului București | ListBase",
+    "seo_description": "Descarcă Orașele și municipiile județului București — 6 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 6 înregistrări / 13 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: https://github.com/ionelmc/django-siruta"
+    ]
+  }
+}

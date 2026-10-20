@@ -1,0 +1,1556 @@
+{
+  "id": "ro-romania-la-campionatul-mondial-loturi",
+  "name": "Loturile României la Campionatul Mondial de Fotbal 1930–1998 (149)",
+  "title": "Loturile României la Campionatul Mondial de Fotbal 1930–1998 (149)",
+  "description": "Jucătorii convocați (și antrenorul) României la turneele finale ale Campionatului Mondial, 1930, 1934, 1938, 1970, 1990, 1994, 1998: număr, nume, post, data nașterii. Numele sunt exact ca în sursă (fără diacritice, nume de familie cu majuscule). post_cod = GK/DF/MF/FW/MG din sursă; post = echivalentul în română. Sursa: more/AAAA_squads.txt din openfootball/worldcup (CC0). Numărul de jucători pe echipă verificat cu antetul \"# N Players\" din sursă.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 149,
+  "columns": [
+    {
+      "key": "editie",
+      "label": "Editie",
+      "type": "number"
+    },
+    {
+      "key": "echipa",
+      "label": "Echipa",
+      "type": "string"
+    },
+    {
+      "key": "numar_tricou",
+      "label": "Numar Tricou",
+      "type": "string"
+    },
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "post_cod",
+      "label": "Post Cod",
+      "type": "string"
+    },
+    {
+      "key": "post",
+      "label": "Post",
+      "type": "string"
+    },
+    {
+      "key": "data_nasterii",
+      "label": "Data Nasterii",
+      "type": "date"
+    },
+    {
+      "key": "nationalitate_antrenor",
+      "label": "Nationalitate Antrenor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "editie": 1930,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Ion LAPUSNEANU",
+      "post_cod": "GK",
+      "post": "portar",
+      "data_nasterii": "1908-12-08",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1930,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Samuel ZAUBER",
+      "post_cod": "GK",
+      "post": "portar",
+      "data_nasterii": "1901-01-01",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1930,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Adalbert STEINER",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "data_nasterii": "1907-01-24",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1930,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Emerich VOGL",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "data_nasterii": "1905-08-12",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1930,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Iosif CZAKO",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "data_nasterii": "1906-06-11",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1930,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Rudolf BUERGER",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "data_nasterii": "1908-10-31",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1930,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Ladislau RAFFINSKY",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "data_nasterii": "1905-04-23",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1930,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Alfred EISENBEISSER",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "data_nasterii": "1908-04-07",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1930,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Corneliu ROBE",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "data_nasterii": "1908-05-23",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1930,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Nicolae KOVACS",
+      "post_cod": "FW",
+      "post": "atacant",
+      "data_nasterii": "1911-12-29",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1930,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Rudolf WETZER",
+      "post_cod": "FW",
+      "post": "atacant",
+      "data_nasterii": "1901-03-17",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1930,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Stefan BARBU",
+      "post_cod": "FW",
+      "post": "atacant",
+      "data_nasterii": "1908-03-02",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1930,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Adalbert DESU",
+      "post_cod": "FW",
+      "post": "atacant",
+      "data_nasterii": "1909-03-24",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1930,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Ilile SUBASEANU",
+      "post_cod": "FW",
+      "post": "atacant",
+      "data_nasterii": "1906-01-01",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1930,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Constantin STANCIU",
+      "post_cod": "FW",
+      "post": "atacant",
+      "data_nasterii": "1911-01-01",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1930,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Octav LUCHIDE",
+      "post_cod": "MG",
+      "post": "antrenor",
+      "data_nasterii": "1901-02-10",
+      "nationalitate_antrenor": "ROU"
+    },
+    {
+      "editie": 1930,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Constantin RADULESCU",
+      "post_cod": "MG",
+      "post": "antrenor",
+      "data_nasterii": "1896-10-05",
+      "nationalitate_antrenor": "ROU"
+    },
+    {
+      "editie": 1934,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "William ZOMBORY",
+      "post_cod": "GK",
+      "post": "portar",
+      "data_nasterii": "1906-01-11",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1934,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Adalbert PULLOCK",
+      "post_cod": "GK",
+      "post": "portar",
+      "data_nasterii": "1907-04-06",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1934,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Lazar SFERA",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "data_nasterii": "1909-04-29",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1934,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Alexandru CUEDAN",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "data_nasterii": "1910-09-26",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1934,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Gheorghe ALBU",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "data_nasterii": "1909-11-18",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1934,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Rudolf KOTORMANY",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "data_nasterii": "1911-01-23",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1934,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Josif MORAVETZ",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "data_nasterii": "1911-01-14",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1934,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Vasile DEHELEANU",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "data_nasterii": "1910-08-12",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1934,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Emerich VOGL",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "data_nasterii": "1905-08-12",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1934,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Nicolae KOVACS",
+      "post_cod": "FW",
+      "post": "atacant",
+      "data_nasterii": "1911-12-29",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1934,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Iuliu BODOLA",
+      "post_cod": "FW",
+      "post": "atacant",
+      "data_nasterii": "1912-02-26",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1934,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Silviu BINDEA",
+      "post_cod": "FW",
+      "post": "atacant",
+      "data_nasterii": "1912-10-24",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1934,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Gheorghe CIOLAC",
+      "post_cod": "FW",
+      "post": "atacant",
+      "data_nasterii": "1908-08-10",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1934,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Stefan DOBAY",
+      "post_cod": "FW",
+      "post": "atacant",
+      "data_nasterii": "1909-09-26",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1934,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Gratian SEPI",
+      "post_cod": "FW",
+      "post": "atacant",
+      "data_nasterii": "1910-12-30",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1934,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Constantin RADULESCU",
+      "post_cod": "MG",
+      "post": "antrenor",
+      "data_nasterii": "1896-10-05",
+      "nationalitate_antrenor": "ROU"
+    },
+    {
+      "editie": 1934,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Josef URIDIL",
+      "post_cod": "MG",
+      "post": "antrenor",
+      "data_nasterii": "1895-12-24",
+      "nationalitate_antrenor": "AUT"
+    },
+    {
+      "editie": 1938,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Dumitru PAVLOVICI",
+      "post_cod": "GK",
+      "post": "portar",
+      "data_nasterii": "1912-04-26",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1938,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Robert SADOWSKY",
+      "post_cod": "GK",
+      "post": "portar",
+      "data_nasterii": "1914-08-16",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1938,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Mircea DAVID",
+      "post_cod": "GK",
+      "post": "portar",
+      "data_nasterii": "1914-10-16",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1938,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Lazar SFERA",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "data_nasterii": "1909-04-29",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1938,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Iacob FELECAN",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "data_nasterii": "1914-01-01",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1938,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Rudolf BUERGER",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "data_nasterii": "1908-10-31",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1938,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Vasile CHIROIU",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "data_nasterii": "1910-08-13",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1938,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Vintila COSSINI",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "data_nasterii": "1913-11-21",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1938,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Ladislau RAFFINSKY",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "data_nasterii": "1905-04-23",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1938,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Gheorghe RASINARU",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "data_nasterii": "1915-02-10",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1938,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Andrei BARBULESCU",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "data_nasterii": "1917-03-25",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1938,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Nicolae KOVACS",
+      "post_cod": "FW",
+      "post": "atacant",
+      "data_nasterii": "1911-12-29",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1938,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Iuliu PRASSLER",
+      "post_cod": "FW",
+      "post": "atacant",
+      "data_nasterii": "1916-01-01",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1938,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Ionica BOGDAN",
+      "post_cod": "FW",
+      "post": "atacant",
+      "data_nasterii": "1915-03-06",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1938,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Stefan DOBAY",
+      "post_cod": "FW",
+      "post": "atacant",
+      "data_nasterii": "1909-09-26",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1938,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Silviu BINDEA",
+      "post_cod": "FW",
+      "post": "atacant",
+      "data_nasterii": "1912-10-24",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1938,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Iuliu BODOLA",
+      "post_cod": "FW",
+      "post": "atacant",
+      "data_nasterii": "1912-02-26",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1938,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Ioachim MOLDOVEANU",
+      "post_cod": "FW",
+      "post": "atacant",
+      "data_nasterii": "1913-01-01",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1938,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Iuliu BARATKY",
+      "post_cod": "FW",
+      "post": "atacant",
+      "data_nasterii": "1910-05-14",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1938,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Joszef NAGY",
+      "post_cod": "FW",
+      "post": "atacant",
+      "data_nasterii": "1918-01-12",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1938,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Coloman BRAUN",
+      "post_cod": "MG",
+      "post": "antrenor",
+      "data_nasterii": "1905-10-13",
+      "nationalitate_antrenor": "ROU"
+    },
+    {
+      "editie": 1938,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Constantin RADULESCU",
+      "post_cod": "MG",
+      "post": "antrenor",
+      "data_nasterii": "1896-10-05",
+      "nationalitate_antrenor": "ROU"
+    },
+    {
+      "editie": 1938,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Alexandru SAVULESCU",
+      "post_cod": "MG",
+      "post": "antrenor",
+      "data_nasterii": "1898-01-08",
+      "nationalitate_antrenor": "ROU"
+    },
+    {
+      "editie": 1970,
+      "echipa": "Romania",
+      "numar_tricou": 1,
+      "nume": "Necula RADUCANU",
+      "post_cod": "GK",
+      "post": "portar",
+      "data_nasterii": "1946-05-10",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1970,
+      "echipa": "Romania",
+      "numar_tricou": 21,
+      "nume": "Stere ADAMACHE",
+      "post_cod": "GK",
+      "post": "portar",
+      "data_nasterii": "1941-08-17",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1970,
+      "echipa": "Romania",
+      "numar_tricou": 22,
+      "nume": "Gheorghe GORNEA",
+      "post_cod": "GK",
+      "post": "portar",
+      "data_nasterii": "1944-08-02",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1970,
+      "echipa": "Romania",
+      "numar_tricou": 2,
+      "nume": "Ludovic SATMAREANU",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "data_nasterii": "1944-02-21",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1970,
+      "echipa": "Romania",
+      "numar_tricou": 3,
+      "nume": "Nicolae LUPESCU",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "data_nasterii": "1940-12-17",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1970,
+      "echipa": "Romania",
+      "numar_tricou": 4,
+      "nume": "Mihai MOCANU",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "data_nasterii": "1942-02-24",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1970,
+      "echipa": "Romania",
+      "numar_tricou": 5,
+      "nume": "Cornel DINU",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "data_nasterii": "1948-08-02",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1970,
+      "echipa": "Romania",
+      "numar_tricou": 6,
+      "nume": "Dan COE",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "data_nasterii": "1941-09-08",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1970,
+      "echipa": "Romania",
+      "numar_tricou": 12,
+      "nume": "Mihai IVANCESCU",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "data_nasterii": "1942-03-22",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1970,
+      "echipa": "Romania",
+      "numar_tricou": 13,
+      "nume": "Augustin DELEANU",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "data_nasterii": "1944-08-23",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1970,
+      "echipa": "Romania",
+      "numar_tricou": 20,
+      "nume": "Niculae PESCARU",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "data_nasterii": "1943-03-27",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1970,
+      "echipa": "Romania",
+      "numar_tricou": 7,
+      "nume": "Emerich DEMBROVSCHI",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "data_nasterii": "1945-10-06",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1970,
+      "echipa": "Romania",
+      "numar_tricou": 8,
+      "nume": "Nicolae DOBRIN",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "data_nasterii": "1947-08-26",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1970,
+      "echipa": "Romania",
+      "numar_tricou": 10,
+      "nume": "Radu NUNWEILLER",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "data_nasterii": "1944-11-16",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1970,
+      "echipa": "Romania",
+      "numar_tricou": 14,
+      "nume": "Vasile GERGELI",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "data_nasterii": "1941-10-28",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1970,
+      "echipa": "Romania",
+      "numar_tricou": 15,
+      "nume": "Ion DUMITRU",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "data_nasterii": "1950-01-02",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1970,
+      "echipa": "Romania",
+      "numar_tricou": 16,
+      "nume": "Alexandru NEAGU",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "data_nasterii": "1948-07-19",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1970,
+      "echipa": "Romania",
+      "numar_tricou": 9,
+      "nume": "Florea DUMITRACHE",
+      "post_cod": "FW",
+      "post": "atacant",
+      "data_nasterii": "1948-05-22",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1970,
+      "echipa": "Romania",
+      "numar_tricou": 11,
+      "nume": "Mircea LUCESCU",
+      "post_cod": "FW",
+      "post": "atacant",
+      "data_nasterii": "1945-07-29",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1970,
+      "echipa": "Romania",
+      "numar_tricou": 17,
+      "nume": "Gheorghe TATARU",
+      "post_cod": "FW",
+      "post": "atacant",
+      "data_nasterii": "1948-05-05",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1970,
+      "echipa": "Romania",
+      "numar_tricou": 18,
+      "nume": "Marin TUFAN",
+      "post_cod": "FW",
+      "post": "atacant",
+      "data_nasterii": "1942-10-14",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1970,
+      "echipa": "Romania",
+      "numar_tricou": 19,
+      "nume": "Flavius DOMIDE",
+      "post_cod": "FW",
+      "post": "atacant",
+      "data_nasterii": "1946-05-11",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1970,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Angelo NICULESCU",
+      "post_cod": "MG",
+      "post": "antrenor",
+      "data_nasterii": "1921-10-01",
+      "nationalitate_antrenor": "ROU"
+    },
+    {
+      "editie": 1990,
+      "echipa": "Romania",
+      "numar_tricou": 1,
+      "nume": "Silviu LUNG",
+      "post_cod": "GK",
+      "post": "portar",
+      "data_nasterii": "1956-09-09",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1990,
+      "echipa": "Romania",
+      "numar_tricou": 12,
+      "nume": "Bogdan STELEA",
+      "post_cod": "GK",
+      "post": "portar",
+      "data_nasterii": "1967-12-05",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1990,
+      "echipa": "Romania",
+      "numar_tricou": 22,
+      "nume": "Gheorghe LILIAC",
+      "post_cod": "GK",
+      "post": "portar",
+      "data_nasterii": "1959-04-22",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1990,
+      "echipa": "Romania",
+      "numar_tricou": 2,
+      "nume": "Mircea REDNIC",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "data_nasterii": "1962-04-09",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1990,
+      "echipa": "Romania",
+      "numar_tricou": 3,
+      "nume": "Michael KLEIN",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "data_nasterii": "1959-10-10",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1990,
+      "echipa": "Romania",
+      "numar_tricou": 4,
+      "nume": "Ioan ANDONE",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "data_nasterii": "1960-03-15",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1990,
+      "echipa": "Romania",
+      "numar_tricou": 5,
+      "nume": "Iosif ROTARIU",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "data_nasterii": "1962-09-27",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1990,
+      "echipa": "Romania",
+      "numar_tricou": 13,
+      "nume": "Adrian POPESCU",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "data_nasterii": "1960-07-26",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1990,
+      "echipa": "Romania",
+      "numar_tricou": 19,
+      "nume": "Emil SANDOI",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "data_nasterii": "1965-03-01",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1990,
+      "echipa": "Romania",
+      "numar_tricou": 6,
+      "nume": "Gheorghe POPESCU",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "data_nasterii": "1967-10-09",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1990,
+      "echipa": "Romania",
+      "numar_tricou": 8,
+      "nume": "Ioan SABAU",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "data_nasterii": "1968-02-12",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1990,
+      "echipa": "Romania",
+      "numar_tricou": 10,
+      "nume": "Gheorghe HAGI",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "data_nasterii": "1965-02-05",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1990,
+      "echipa": "Romania",
+      "numar_tricou": 11,
+      "nume": "Danut LUPU",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "data_nasterii": "1967-02-27",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1990,
+      "echipa": "Romania",
+      "numar_tricou": 15,
+      "nume": "Dorin MATEUT",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "data_nasterii": "1965-08-05",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1990,
+      "echipa": "Romania",
+      "numar_tricou": 20,
+      "nume": "Zsolt MUZSNAI",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "data_nasterii": "1965-06-20",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1990,
+      "echipa": "Romania",
+      "numar_tricou": 21,
+      "nume": "Ioan LUPESCU",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "data_nasterii": "1968-12-09",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1990,
+      "echipa": "Romania",
+      "numar_tricou": 7,
+      "nume": "Marius LACATUS",
+      "post_cod": "FW",
+      "post": "atacant",
+      "data_nasterii": "1964-04-05",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1990,
+      "echipa": "Romania",
+      "numar_tricou": 9,
+      "nume": "Rodion CAMATARU",
+      "post_cod": "FW",
+      "post": "atacant",
+      "data_nasterii": "1958-06-22",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1990,
+      "echipa": "Romania",
+      "numar_tricou": 14,
+      "nume": "Florin RADUCIOIU",
+      "post_cod": "FW",
+      "post": "atacant",
+      "data_nasterii": "1970-03-17",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1990,
+      "echipa": "Romania",
+      "numar_tricou": 16,
+      "nume": "Daniel TIMOFTE",
+      "post_cod": "FW",
+      "post": "atacant",
+      "data_nasterii": "1967-10-01",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1990,
+      "echipa": "Romania",
+      "numar_tricou": 17,
+      "nume": "Ilie DUMITRESCU",
+      "post_cod": "FW",
+      "post": "atacant",
+      "data_nasterii": "1969-01-06",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1990,
+      "echipa": "Romania",
+      "numar_tricou": 18,
+      "nume": "Gavril BALINT",
+      "post_cod": "FW",
+      "post": "atacant",
+      "data_nasterii": "1963-01-03",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1990,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Emerich JENEI",
+      "post_cod": "MG",
+      "post": "antrenor",
+      "data_nasterii": "1937-03-22",
+      "nationalitate_antrenor": "ROU"
+    },
+    {
+      "editie": 1994,
+      "echipa": "Romania",
+      "numar_tricou": 1,
+      "nume": "Florin PRUNEA",
+      "post_cod": "GK",
+      "post": "portar",
+      "data_nasterii": "1968-08-08",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1994,
+      "echipa": "Romania",
+      "numar_tricou": 12,
+      "nume": "Bogdan STELEA",
+      "post_cod": "GK",
+      "post": "portar",
+      "data_nasterii": "1967-12-05",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1994,
+      "echipa": "Romania",
+      "numar_tricou": 22,
+      "nume": "Stefan PREDA",
+      "post_cod": "GK",
+      "post": "portar",
+      "data_nasterii": "1970-06-18",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1994,
+      "echipa": "Romania",
+      "numar_tricou": 2,
+      "nume": "Dan PETRESCU",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "data_nasterii": "1967-12-22",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1994,
+      "echipa": "Romania",
+      "numar_tricou": 3,
+      "nume": "Daniel PRODAN",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "data_nasterii": "1972-03-23",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1994,
+      "echipa": "Romania",
+      "numar_tricou": 4,
+      "nume": "Miodrag BELODEDICI",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "data_nasterii": "1964-05-20",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1994,
+      "echipa": "Romania",
+      "numar_tricou": 6,
+      "nume": "Gheorghe POPESCU",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "data_nasterii": "1967-10-09",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1994,
+      "echipa": "Romania",
+      "numar_tricou": 13,
+      "nume": "Tibor SELYMES",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "data_nasterii": "1970-05-14",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1994,
+      "echipa": "Romania",
+      "numar_tricou": 14,
+      "nume": "Gheorghe MIHALI",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "data_nasterii": "1965-12-09",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1994,
+      "echipa": "Romania",
+      "numar_tricou": 19,
+      "nume": "Corneliu PAPURA",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "data_nasterii": "1973-09-05",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1994,
+      "echipa": "Romania",
+      "numar_tricou": 5,
+      "nume": "Ioan LUPESCU",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "data_nasterii": "1968-12-09",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1994,
+      "echipa": "Romania",
+      "numar_tricou": 7,
+      "nume": "Dorinel MUNTEANU",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "data_nasterii": "1968-06-25",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1994,
+      "echipa": "Romania",
+      "numar_tricou": 8,
+      "nume": "Iulian CHIRITA",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "data_nasterii": "1967-02-02",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1994,
+      "echipa": "Romania",
+      "numar_tricou": 10,
+      "nume": "Gheorghe HAGI",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "data_nasterii": "1965-02-05",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1994,
+      "echipa": "Romania",
+      "numar_tricou": 15,
+      "nume": "Nica PANDURU",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "data_nasterii": "1970-07-11",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1994,
+      "echipa": "Romania",
+      "numar_tricou": 18,
+      "nume": "Constantin GALCA",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "data_nasterii": "1972-03-08",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1994,
+      "echipa": "Romania",
+      "numar_tricou": 20,
+      "nume": "Ovidiu STANGA",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "data_nasterii": "1972-12-05",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1994,
+      "echipa": "Romania",
+      "numar_tricou": 9,
+      "nume": "Florin RADUCIOIU",
+      "post_cod": "FW",
+      "post": "atacant",
+      "data_nasterii": "1970-03-17",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1994,
+      "echipa": "Romania",
+      "numar_tricou": 11,
+      "nume": "Ilie DUMITRESCU",
+      "post_cod": "FW",
+      "post": "atacant",
+      "data_nasterii": "1969-01-06",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1994,
+      "echipa": "Romania",
+      "numar_tricou": 16,
+      "nume": "Ion VLADOIU",
+      "post_cod": "FW",
+      "post": "atacant",
+      "data_nasterii": "1968-11-05",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1994,
+      "echipa": "Romania",
+      "numar_tricou": 17,
+      "nume": "Viorel MOLDOVAN",
+      "post_cod": "FW",
+      "post": "atacant",
+      "data_nasterii": "1972-08-08",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1994,
+      "echipa": "Romania",
+      "numar_tricou": 21,
+      "nume": "Marian IVAN",
+      "post_cod": "FW",
+      "post": "atacant",
+      "data_nasterii": "1969-06-01",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1994,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Anghel IORDANESCU",
+      "post_cod": "MG",
+      "post": "antrenor",
+      "data_nasterii": "1950-05-04",
+      "nationalitate_antrenor": "ROU"
+    },
+    {
+      "editie": 1998,
+      "echipa": "Romania",
+      "numar_tricou": 1,
+      "nume": "Dumitru STANGACIU",
+      "post_cod": "GK",
+      "post": "portar",
+      "data_nasterii": "1964-08-09",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1998,
+      "echipa": "Romania",
+      "numar_tricou": 12,
+      "nume": "Bogdan STELEA",
+      "post_cod": "GK",
+      "post": "portar",
+      "data_nasterii": "1967-12-05",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1998,
+      "echipa": "Romania",
+      "numar_tricou": 22,
+      "nume": "Florin PRUNEA",
+      "post_cod": "GK",
+      "post": "portar",
+      "data_nasterii": "1968-08-08",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1998,
+      "echipa": "Romania",
+      "numar_tricou": 2,
+      "nume": "Dan PETRESCU",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "data_nasterii": "1967-12-22",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1998,
+      "echipa": "Romania",
+      "numar_tricou": 3,
+      "nume": "Christian DULCA",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "data_nasterii": "1972-10-25",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1998,
+      "echipa": "Romania",
+      "numar_tricou": 4,
+      "nume": "Anton DOBOS",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "data_nasterii": "1965-10-13",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1998,
+      "echipa": "Romania",
+      "numar_tricou": 6,
+      "nume": "Gheorghe POPESCU",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "data_nasterii": "1967-10-09",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1998,
+      "echipa": "Romania",
+      "numar_tricou": 13,
+      "nume": "Liviu CIOBOTARIU",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "data_nasterii": "1971-03-26",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1998,
+      "echipa": "Romania",
+      "numar_tricou": 18,
+      "nume": "Iulian FILIPESCU",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "data_nasterii": "1974-03-29",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1998,
+      "echipa": "Romania",
+      "numar_tricou": 20,
+      "nume": "Tibor SELYMES",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "data_nasterii": "1970-05-14",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1998,
+      "echipa": "Romania",
+      "numar_tricou": 5,
+      "nume": "Constantin GALCA",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "data_nasterii": "1972-03-08",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1998,
+      "echipa": "Romania",
+      "numar_tricou": 8,
+      "nume": "Dorinel MUNTEANU",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "data_nasterii": "1968-06-25",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1998,
+      "echipa": "Romania",
+      "numar_tricou": 10,
+      "nume": "Gheorghe HAGI",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "data_nasterii": "1965-02-05",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1998,
+      "echipa": "Romania",
+      "numar_tricou": 14,
+      "nume": "Radu NICULESCU",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "data_nasterii": "1975-03-02",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1998,
+      "echipa": "Romania",
+      "numar_tricou": 15,
+      "nume": "Lucian MARINESCU",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "data_nasterii": "1972-06-24",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1998,
+      "echipa": "Romania",
+      "numar_tricou": 16,
+      "nume": "Gabriel POPESCU",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "data_nasterii": "1973-12-25",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1998,
+      "echipa": "Romania",
+      "numar_tricou": 19,
+      "nume": "Ovidiu STANGA",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "data_nasterii": "1972-12-05",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1998,
+      "echipa": "Romania",
+      "numar_tricou": 7,
+      "nume": "Marius LACATUS",
+      "post_cod": "FW",
+      "post": "atacant",
+      "data_nasterii": "1964-04-05",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1998,
+      "echipa": "Romania",
+      "numar_tricou": 9,
+      "nume": "Viorel MOLDOVAN",
+      "post_cod": "FW",
+      "post": "atacant",
+      "data_nasterii": "1972-08-08",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1998,
+      "echipa": "Romania",
+      "numar_tricou": 11,
+      "nume": "Adrian ILIE",
+      "post_cod": "FW",
+      "post": "atacant",
+      "data_nasterii": "1974-04-20",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1998,
+      "echipa": "Romania",
+      "numar_tricou": 17,
+      "nume": "Ilie DUMITRESCU",
+      "post_cod": "FW",
+      "post": "atacant",
+      "data_nasterii": "1969-01-06",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1998,
+      "echipa": "Romania",
+      "numar_tricou": 21,
+      "nume": "Gheorghe CRAIOVEANU",
+      "post_cod": "FW",
+      "post": "atacant",
+      "data_nasterii": "1968-02-14",
+      "nationalitate_antrenor": ""
+    },
+    {
+      "editie": 1998,
+      "echipa": "Romania",
+      "numar_tricou": "",
+      "nume": "Anghel IORDANESCU",
+      "post_cod": "MG",
+      "post": "antrenor",
+      "data_nasterii": "1950-05-04",
+      "nationalitate_antrenor": "ROU"
+    }
+  ],
+  "meta": {
+    "title": "Loturile României la Campionatul Mondial de Fotbal 1930–1998 (149) - Descărcare gratuită",
+    "description": "Jucătorii convocați (și antrenorul) României la turneele finale ale Campionatului Mondial, 1930, 1934, 1938, 1970, 1990, 1994, 1998: număr, nume, post, data nașterii. Numele sunt exact ca în sursă (fără diacritice, nume de familie cu majuscule). post_cod = GK/DF/MF/FW/MG din sursă; post = echivalentul în română. Sursa: more/AAAA_squads.txt din openfootball/worldcup (CC0). Numărul de jucători pe echipă verificat cu antetul \"# N Players\" din sursă. Conține 149 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Loturile României la Campionatul Mondial de Fotbal 1930–1998 (149) | ListBase",
+    "seo_description": "Descarcă Loturile României la Campionatul Mondial de Fotbal 1930–1998 (149) — 149 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 149 înregistrări / 8 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

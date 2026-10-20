@@ -1,0 +1,250 @@
+{
+  "id": "ro-galati-licee",
+  "name": "Licee si colegii din judetul Galați",
+  "title": "Licee si colegii din judetul Galați",
+  "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Galați (34 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "COLEGIUL DE INDUSTRIE ALIMENTARĂ \"ELENA DOAMNA\"",
+      "slug": "colegiul-de-industrie-alimentara-elena-doamna",
+      "judet": "GALAȚI",
+      "judet_slug": "galati"
+    },
+    {
+      "nume": "COLEGIUL ECONOMIC \"VIRGIL MADGEARU\"",
+      "slug": "colegiul-economic-virgil-madgearu",
+      "judet": "GALAȚI",
+      "judet_slug": "galati"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL DE AGRICULTURĂ ȘI ECONOMIE",
+      "slug": "colegiul-national-de-agricultura-si-economie",
+      "judet": "GALAȚI",
+      "judet_slug": "galati"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"ALEXANDRU IOAN CUZA\"",
+      "slug": "colegiul-national-alexandru-ioan-cuza",
+      "judet": "GALAȚI",
+      "judet_slug": "galati"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"CALISTRAT HOGAȘ\"",
+      "slug": "colegiul-national-calistrat-hogas",
+      "judet": "GALAȚI",
+      "judet_slug": "galati"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"COSTACHE NEGRI\"",
+      "slug": "colegiul-national-costache-negri",
+      "judet": "GALAȚI",
+      "judet_slug": "galati"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"MIHAIL KOGĂLNICEANU\"",
+      "slug": "colegiul-national-mihail-kogalniceanu",
+      "judet": "GALAȚI",
+      "judet_slug": "galati"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"SPIRU HARET\"",
+      "slug": "colegiul-national-spiru-haret",
+      "judet": "GALAȚI",
+      "judet_slug": "galati"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"VASILE ALECSANDRI\"",
+      "slug": "colegiul-national-vasile-alecsandri",
+      "judet": "GALAȚI",
+      "judet_slug": "galati"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC DE ALIMENTAȚIE ȘI TURISM \"DUMITRU MOȚOC\"",
+      "slug": "colegiul-tehnic-de-alimentatie-si-turism-dumitru-motoc",
+      "judet": "GALAȚI",
+      "judet_slug": "galati"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"AUREL VLAICU\"",
+      "slug": "colegiul-tehnic-aurel-vlaicu",
+      "judet": "GALAȚI",
+      "judet_slug": "galati"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"PAUL DIMO\"",
+      "slug": "colegiul-tehnic-paul-dimo",
+      "judet": "GALAȚI",
+      "judet_slug": "galati"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"RADU NEGRU\"",
+      "slug": "colegiul-tehnic-radu-negru",
+      "judet": "GALAȚI",
+      "judet_slug": "galati"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"TRAIAN VUIA\"",
+      "slug": "colegiul-tehnic-traian-vuia",
+      "judet": "GALAȚI",
+      "judet_slug": "galati"
+    },
+    {
+      "nume": "GRUPUL ȘCOLAR \"EREMIA GRIGORESCU\"",
+      "slug": "grupul-scolar-eremia-grigorescu",
+      "judet": "GALAȚI",
+      "judet_slug": "galati"
+    },
+    {
+      "nume": "LICEUL CU PROGRAM SPORTIV",
+      "slug": "liceul-cu-program-sportiv",
+      "judet": "GALAȚI",
+      "judet_slug": "galati"
+    },
+    {
+      "nume": "LICEUL DE ARTĂ \"DIMITRIE CUCLIN\"",
+      "slug": "liceul-de-arta-dimitrie-cuclin",
+      "judet": "GALAȚI",
+      "judet_slug": "galati"
+    },
+    {
+      "nume": "LICEUL TEHNIC \"COSTACHE CONACHI\"",
+      "slug": "liceul-tehnic-costache-conachi",
+      "judet": "GALAȚI",
+      "judet_slug": "galati"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC DE MARINĂ",
+      "slug": "liceul-tehnologic-de-marina",
+      "judet": "GALAȚI",
+      "judet_slug": "galati"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC DE TRANSPORTURI CĂI FERATE",
+      "slug": "liceul-tehnologic-de-transporturi-cai-ferate",
+      "judet": "GALAȚI",
+      "judet_slug": "galati"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC NR. 1",
+      "slug": "liceul-tehnologic-nr-1",
+      "judet": "GALAȚI",
+      "judet_slug": "galati"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC NR. 1",
+      "slug": "liceul-tehnologic-nr-1-2",
+      "judet": "GALAȚI",
+      "judet_slug": "galati"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"ANGHEL SALIGNY\"",
+      "slug": "liceul-tehnologic-anghel-saligny",
+      "judet": "GALAȚI",
+      "judet_slug": "galati"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"ELENA CARAGIANI\"",
+      "slug": "liceul-tehnologic-elena-caragiani",
+      "judet": "GALAȚI",
+      "judet_slug": "galati"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"HORTENSIA PAPADAT BENGESCU\"",
+      "slug": "liceul-tehnologic-hortensia-papadat-bengescu",
+      "judet": "GALAȚI",
+      "judet_slug": "galati"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"OVID CALEDONIU\"",
+      "slug": "liceul-tehnologic-ovid-caledoniu",
+      "judet": "GALAȚI",
+      "judet_slug": "galati"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"PAUL BUJOR\"",
+      "slug": "liceul-tehnologic-paul-bujor",
+      "judet": "GALAȚI",
+      "judet_slug": "galati"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"SIMION MEHEDINȚI\"",
+      "slug": "liceul-tehnologic-simion-mehedinti",
+      "judet": "GALAȚI",
+      "judet_slug": "galati"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"TUDOR VLADIMIRESCU\"",
+      "slug": "liceul-tehnologic-tudor-vladimirescu",
+      "judet": "GALAȚI",
+      "judet_slug": "galati"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"DUNĂREA\"",
+      "slug": "liceul-teoretic-dunarea",
+      "judet": "GALAȚI",
+      "judet_slug": "galati"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"EMIL RACOVIȚĂ\"",
+      "slug": "liceul-teoretic-emil-racovita",
+      "judet": "GALAȚI",
+      "judet_slug": "galati"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"MIRCEA ELIADE\"",
+      "slug": "liceul-teoretic-mircea-eliade",
+      "judet": "GALAȚI",
+      "judet_slug": "galati"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"SFÂNTA MARIA\"",
+      "slug": "liceul-teoretic-sfanta-maria",
+      "judet": "GALAȚI",
+      "judet_slug": "galati"
+    },
+    {
+      "nume": "SEMINARUL TEOLOGIC ORTODOX \"SF. ANDREI\"",
+      "slug": "seminarul-teologic-ortodox-sf-andrei",
+      "judet": "GALAȚI",
+      "judet_slug": "galati"
+    }
+  ],
+  "meta": {
+    "title": "Licee si colegii din judetul Galați - Descărcare gratuită",
+    "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Galați (34 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor. Conține 34 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Licee si colegii din judetul Galați | ListBase",
+    "seo_description": "Descarcă Licee si colegii din judetul Galați — 34 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 34 înregistrări / 4 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

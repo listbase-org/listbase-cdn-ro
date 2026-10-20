@@ -1,0 +1,196 @@
+{
+  "id": "ro-hunedoara-municipii",
+  "name": "Municipiile din județul Hunedoara",
+  "title": "Municipiile din județul Hunedoara",
+  "description": "Lista municipiilor din județul Hunedoara, România (7 municipii), conform clasificatorului SIRUTA (INS), vintage S1-2025. Include municipiul reședință de județ și celelalte municipii ale județului.",
+  "category": "reference",
+  "source": "https://github.com/ionelmc/django-siruta",
+  "source_url": "https://github.com/ionelmc/django-siruta",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "siruta_code",
+      "label": "Siruta Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_official",
+      "label": "Name Official",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet_id",
+      "label": "Judet Id",
+      "type": "number"
+    },
+    {
+      "key": "judet_name",
+      "label": "Judet Name",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "tip_code",
+      "label": "Tip Code",
+      "type": "number"
+    },
+    {
+      "key": "tip_name",
+      "label": "Tip Name",
+      "type": "string"
+    },
+    {
+      "key": "is_resedinta_judet",
+      "label": "Is Resedinta Judet",
+      "type": "boolean"
+    },
+    {
+      "key": "regiune_id",
+      "label": "Regiune Id",
+      "type": "number"
+    },
+    {
+      "key": "nuts3",
+      "label": "Nuts3",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "siruta_code": 86687,
+      "name": "Deva",
+      "name_official": "MUNICIPIUL DEVA",
+      "slug": "deva",
+      "judet_id": 20,
+      "judet_name": "Hunedoara",
+      "judet_slug": "hunedoara",
+      "iso_3166_2": "RO-HD",
+      "tip_code": 1,
+      "tip_name": "municipiu reședință de județ",
+      "is_resedinta_judet": true,
+      "regiune_id": 5,
+      "nuts3": ""
+    },
+    {
+      "siruta_code": 86810,
+      "name": "Hunedoara",
+      "name_official": "MUNICIPIUL HUNEDOARA",
+      "slug": "hunedoara",
+      "judet_id": 20,
+      "judet_name": "Hunedoara",
+      "judet_slug": "hunedoara",
+      "iso_3166_2": "RO-HD",
+      "tip_code": 4,
+      "tip_name": "municipiu",
+      "is_resedinta_judet": false,
+      "regiune_id": 5,
+      "nuts3": "RO423"
+    },
+    {
+      "siruta_code": 86990,
+      "name": "Petroșani",
+      "name_official": "MUNICIPIUL PETROȘANI",
+      "slug": "petrosani",
+      "judet_id": 20,
+      "judet_name": "Hunedoara",
+      "judet_slug": "hunedoara",
+      "iso_3166_2": "RO-HD",
+      "tip_code": 4,
+      "tip_name": "municipiu",
+      "is_resedinta_judet": false,
+      "regiune_id": 5,
+      "nuts3": "RO423"
+    },
+    {
+      "siruta_code": 87059,
+      "name": " Lupeni",
+      "name_official": "MUNICIPIUL  LUPENI",
+      "slug": "lupeni",
+      "judet_id": 20,
+      "judet_name": "Hunedoara",
+      "judet_slug": "hunedoara",
+      "iso_3166_2": "RO-HD",
+      "tip_code": 4,
+      "tip_name": "municipiu",
+      "is_resedinta_judet": false,
+      "regiune_id": 5,
+      "nuts3": "RO423"
+    },
+    {
+      "siruta_code": 87175,
+      "name": " Vulcan",
+      "name_official": "MUNICIPIUL  VULCAN",
+      "slug": "vulcan",
+      "judet_id": 20,
+      "judet_name": "Hunedoara",
+      "judet_slug": "hunedoara",
+      "iso_3166_2": "RO-HD",
+      "tip_code": 4,
+      "tip_name": "municipiu",
+      "is_resedinta_judet": false,
+      "regiune_id": 5,
+      "nuts3": "RO423"
+    },
+    {
+      "siruta_code": 87291,
+      "name": "Brad",
+      "name_official": "MUNICIPIUL BRAD",
+      "slug": "brad",
+      "judet_id": 20,
+      "judet_name": "Hunedoara",
+      "judet_slug": "hunedoara",
+      "iso_3166_2": "RO-HD",
+      "tip_code": 4,
+      "tip_name": "municipiu",
+      "is_resedinta_judet": false,
+      "regiune_id": 5,
+      "nuts3": "RO423"
+    },
+    {
+      "siruta_code": 87638,
+      "name": "Orăștie",
+      "name_official": "MUNICIPIUL ORĂȘTIE",
+      "slug": "orastie",
+      "judet_id": 20,
+      "judet_name": "Hunedoara",
+      "judet_slug": "hunedoara",
+      "iso_3166_2": "RO-HD",
+      "tip_code": 4,
+      "tip_name": "municipiu",
+      "is_resedinta_judet": false,
+      "regiune_id": 5,
+      "nuts3": "RO423"
+    }
+  ],
+  "meta": {
+    "title": "Municipiile din județul Hunedoara - Descărcare gratuită",
+    "description": "Lista municipiilor din județul Hunedoara, România (7 municipii), conform clasificatorului SIRUTA (INS), vintage S1-2025. Include municipiul reședință de județ și celelalte municipii ale județului. Conține 7 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Municipiile din județul Hunedoara | ListBase",
+    "seo_description": "Descarcă Municipiile din județul Hunedoara — 7 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 7 înregistrări / 13 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: https://github.com/ionelmc/django-siruta"
+    ]
+  }
+}

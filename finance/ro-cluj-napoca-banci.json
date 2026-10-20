@@ -1,0 +1,170 @@
+{
+  "id": "ro-cluj-napoca-banci",
+  "name": "Bănci în Cluj-Napoca — coduri SWIFT/BIC",
+  "title": "Bănci în Cluj-Napoca — coduri SWIFT/BIC",
+  "description": "Instituții bancare și financiare înregistrate SWIFT/BIC cu sediul în Cluj-Napoca, România (17 înregistrări). Subset al listei naționale `ro-banci` (263 înregistrări), grupat după câmpul `city` din sursă. Șirul literal din sursă este \"CLUJ-NAPOCA\" — păstrat verbatim, fără diacritice și cu majuscule, exact așa cum este livrat de sursă; nu a fost tradus, normalizat sau completat cu diacritice. Câmpuri: id, bank, city, branch, swift_code.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 55,
+      "bank": "BANCA TRANSILVANIA S.A.",
+      "city": "CLUJ-NAPOCA",
+      "branch": "(AG BARITIU)",
+      "swift_code": "BTRLRO21CJ3"
+    },
+    {
+      "id": 56,
+      "bank": "BANCA TRANSILVANIA S.A.",
+      "city": "CLUJ-NAPOCA",
+      "branch": "(AG MANASTUR)",
+      "swift_code": "BTRLRO21CJ2"
+    },
+    {
+      "id": 57,
+      "bank": "BANCA TRANSILVANIA S.A.",
+      "city": "CLUJ-NAPOCA",
+      "branch": "(AG. BILLA)",
+      "swift_code": "BTRLRO22CJ8"
+    },
+    {
+      "id": 58,
+      "bank": "BANCA TRANSILVANIA S.A.",
+      "city": "CLUJ-NAPOCA",
+      "branch": "(AG. DOROBANTILOR)",
+      "swift_code": "BTRLRO21CJ1"
+    },
+    {
+      "id": 59,
+      "bank": "BANCA TRANSILVANIA S.A.",
+      "city": "CLUJ-NAPOCA",
+      "branch": "(BT SECURITIES)",
+      "swift_code": "BTRLRO22BTS"
+    },
+    {
+      "id": 60,
+      "bank": "BANCA TRANSILVANIA S.A.",
+      "city": "CLUJ-NAPOCA",
+      "branch": "(CLUJ-NAPOCA BRANCH)",
+      "swift_code": "BTRLRO22CJA"
+    },
+    {
+      "id": 61,
+      "bank": "BANCA TRANSILVANIA S.A.",
+      "city": "CLUJ-NAPOCA",
+      "branch": "(GRIGORESCU BRANCH)",
+      "swift_code": "BTRLRO21CJ5"
+    },
+    {
+      "id": 62,
+      "bank": "BANCA TRANSILVANIA S.A.",
+      "city": "CLUJ-NAPOCA",
+      "branch": "(MARASTI BRANCH)",
+      "swift_code": "BTRLRO21CJ6"
+    },
+    {
+      "id": 63,
+      "bank": "BANCA TRANSILVANIA S.A.",
+      "city": "CLUJ-NAPOCA",
+      "branch": "(MARASTI)",
+      "swift_code": "BTRLRO22CJM"
+    },
+    {
+      "id": 64,
+      "bank": "BANCA TRANSILVANIA S.A.",
+      "city": "CLUJ-NAPOCA",
+      "branch": "(ZORILOR BRANCH)",
+      "swift_code": "BTRLRO21CJ4"
+    },
+    {
+      "id": 65,
+      "bank": "BANCA TRANSILVANIA S.A.",
+      "city": "CLUJ-NAPOCA",
+      "branch": "(ZORILOR)",
+      "swift_code": "BTRLRO22CJZ"
+    },
+    {
+      "id": 66,
+      "bank": "BANCA TRANSILVANIA S.A.",
+      "city": "CLUJ-NAPOCA",
+      "branch": "",
+      "swift_code": "BTRLRO22"
+    },
+    {
+      "id": 130,
+      "bank": "BANK LEUMI ROMANIA S.A.",
+      "city": "CLUJ-NAPOCA",
+      "branch": "",
+      "swift_code": "DAFBRO22CLU"
+    },
+    {
+      "id": 144,
+      "bank": "BT SECURITIES S.A.",
+      "city": "CLUJ-NAPOCA",
+      "branch": "",
+      "swift_code": "SEEERO21"
+    },
+    {
+      "id": 192,
+      "bank": "INTERDEALER CAPITAL INVEST S.A.",
+      "city": "CLUJ-NAPOCA",
+      "branch": "",
+      "swift_code": "INLNRO21"
+    },
+    {
+      "id": 239,
+      "bank": "SOCIETATE DE INVESTITII FINANCIARE BROKER S.A.",
+      "city": "CLUJ-NAPOCA",
+      "branch": "",
+      "swift_code": "SIFKRO21"
+    },
+    {
+      "id": 247,
+      "bank": "TARGET CAPITAL S.A.",
+      "city": "CLUJ-NAPOCA",
+      "branch": "",
+      "swift_code": "TACIRO21"
+    }
+  ],
+  "meta": {
+    "title": "Bănci în Cluj-Napoca — coduri SWIFT/BIC - Descărcare gratuită",
+    "description": "Instituții bancare și financiare înregistrate SWIFT/BIC cu sediul în Cluj-Napoca, România (17 înregistrări). Subset al listei naționale `ro-banci` (263 înregistrări), grupat după câmpul `city` din sursă. Șirul literal din sursă este \"CLUJ-NAPOCA\" — păstrat verbatim, fără diacritice și cu majuscule, exact așa cum este livrat de sursă; nu a fost tradus, normalizat sau completat cu diacritice. Câmpuri: id, bank, city, branch, swift_code. Conține 17 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Bănci în Cluj-Napoca — coduri SWIFT/BIC | ListBase",
+    "seo_description": "Descarcă Bănci în Cluj-Napoca — coduri SWIFT/BIC — 17 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 17 înregistrări / 5 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

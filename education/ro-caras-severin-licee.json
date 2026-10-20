@@ -1,0 +1,220 @@
+{
+  "id": "ro-caras-severin-licee",
+  "name": "Licee si colegii din judetul Caraș-Severin",
+  "title": "Licee si colegii din judetul Caraș-Severin",
+  "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Caraș-Severin (29 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "COLEGIUL ECONOMIC AL BANATULUI MONTAN RESITA",
+      "slug": "colegiul-economic-al-banatului-montan-resita",
+      "judet": "CARAȘ-SEVERIN",
+      "judet_slug": "caras-severin"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"C. D. LOGA\" CARANSEBES",
+      "slug": "colegiul-national-c-d-loga-caransebes",
+      "judet": "CARAȘ-SEVERIN",
+      "judet_slug": "caras-severin"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"MIRCEA ELIADE\" RESITA",
+      "slug": "colegiul-national-mircea-eliade-resita",
+      "judet": "CARAȘ-SEVERIN",
+      "judet_slug": "caras-severin"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"TRAIAN DODA\" CRANSEBES",
+      "slug": "colegiul-national-traian-doda-cransebes",
+      "judet": "CARAȘ-SEVERIN",
+      "judet_slug": "caras-severin"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"TRAIAN LALESCU\" RESITA",
+      "slug": "colegiul-national-traian-lalescu-resita",
+      "judet": "CARAȘ-SEVERIN",
+      "judet_slug": "caras-severin"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC CARASAN RESITA",
+      "slug": "colegiul-tehnic-carasan-resita",
+      "judet": "CARAȘ-SEVERIN",
+      "judet_slug": "caras-severin"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC RESITA",
+      "slug": "colegiul-tehnic-resita",
+      "judet": "CARAȘ-SEVERIN",
+      "judet_slug": "caras-severin"
+    },
+    {
+      "nume": "COLEGIUL TEHNOLOGIC \"NICOLAE STOICA DE HATEG\", MEHADIA",
+      "slug": "colegiul-tehnologic-nicolae-stoica-de-hateg-mehadia",
+      "judet": "CARAȘ-SEVERIN",
+      "judet_slug": "caras-severin"
+    },
+    {
+      "nume": "COLEGIUL TEOLOGIC BABTIST RESITA",
+      "slug": "colegiul-teologic-babtist-resita",
+      "judet": "CARAȘ-SEVERIN",
+      "judet_slug": "caras-severin"
+    },
+    {
+      "nume": "LICEUL BANATEAN OTELUL ROSU",
+      "slug": "liceul-banatean-otelul-rosu",
+      "judet": "CARAȘ-SEVERIN",
+      "judet_slug": "caras-severin"
+    },
+    {
+      "nume": "LICEUL DE ARTE \"SABIN PAUTA\" RESITA",
+      "slug": "liceul-de-arte-sabin-pauta-resita",
+      "judet": "CARAȘ-SEVERIN",
+      "judet_slug": "caras-severin"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGI \"IOSIF BURACU\", PRIGOR",
+      "slug": "liceul-tehnologi-iosif-buracu-prigor",
+      "judet": "CARAȘ-SEVERIN",
+      "judet_slug": "caras-severin"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC BERZOVIA",
+      "slug": "liceul-tehnologic-berzovia",
+      "judet": "CARAȘ-SEVERIN",
+      "judet_slug": "caras-severin"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"CF. DIMITRIE\" TEREGOVA",
+      "slug": "liceul-tehnologic-cf-dimitrie-teregova",
+      "judet": "CARAȘ-SEVERIN",
+      "judet_slug": "caras-severin"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"CLISURA DUNARII\" MOLDOVA NOUA",
+      "slug": "liceul-tehnologic-clisura-dunarii-moldova-noua",
+      "judet": "CARAȘ-SEVERIN",
+      "judet_slug": "caras-severin"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"CONSTANTIN LUCACI\" BOCSA",
+      "slug": "liceul-tehnologic-constantin-lucaci-bocsa",
+      "judet": "CARAȘ-SEVERIN",
+      "judet_slug": "caras-severin"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"DACIA\" CARANSEBES",
+      "slug": "liceul-tehnologic-dacia-caransebes",
+      "judet": "CARAȘ-SEVERIN",
+      "judet_slug": "caras-severin"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"DECEBAL\" CARANSEBES",
+      "slug": "liceul-tehnologic-decebal-caransebes",
+      "judet": "CARAȘ-SEVERIN",
+      "judet_slug": "caras-severin"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"MIHAI NOVAC\" ORAVITA",
+      "slug": "liceul-tehnologic-mihai-novac-oravita",
+      "judet": "CARAȘ-SEVERIN",
+      "judet_slug": "caras-severin"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"TRANDAFIR COCÂRLA\" CARANSEBES",
+      "slug": "liceul-tehnologic-trandafir-cocarla-caransebes",
+      "judet": "CARAȘ-SEVERIN",
+      "judet_slug": "caras-severin"
+    },
+    {
+      "nume": "LICEUL TEORETIC BILINGV ROMAN-CROAT, CARASOVA",
+      "slug": "liceul-teoretic-bilingv-roman-croat-carasova",
+      "judet": "CARAȘ-SEVERIN",
+      "judet_slug": "caras-severin"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"DIACONOVICI TIETZ RESITA",
+      "slug": "liceul-teoretic-diaconovici-tietz-resita",
+      "judet": "CARAȘ-SEVERIN",
+      "judet_slug": "caras-severin"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"EFTIMIE MURGU\" BOZOVICI",
+      "slug": "liceul-teoretic-eftimie-murgu-bozovici",
+      "judet": "CARAȘ-SEVERIN",
+      "judet_slug": "caras-severin"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"GENERAL DRAGALINA\" ORAVITA",
+      "slug": "liceul-teoretic-general-dragalina-oravita",
+      "judet": "CARAȘ-SEVERIN",
+      "judet_slug": "caras-severin"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"TATA OANCEA\" BOCSA",
+      "slug": "liceul-teoretic-tata-oancea-bocsa",
+      "judet": "CARAȘ-SEVERIN",
+      "judet_slug": "caras-severin"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"TRAIAN VUIA\" RESITA",
+      "slug": "liceul-teoretic-traian-vuia-resita",
+      "judet": "CARAȘ-SEVERIN",
+      "judet_slug": "caras-severin"
+    },
+    {
+      "nume": "LICEUL \"HERCULES\" BAILE HERCULANE",
+      "slug": "liceul-hercules-baile-herculane",
+      "judet": "CARAȘ-SEVERIN",
+      "judet_slug": "caras-severin"
+    },
+    {
+      "nume": "LICEUL \"MATHIAS HAMMER\" ANINA",
+      "slug": "liceul-mathias-hammer-anina",
+      "judet": "CARAȘ-SEVERIN",
+      "judet_slug": "caras-severin"
+    },
+    {
+      "nume": "SEMINARUL TEOLOGIC ORTODOX \"EPISCOP IOAN POPASU\" CARANSEBES",
+      "slug": "seminarul-teologic-ortodox-episcop-ioan-popasu-caransebes",
+      "judet": "CARAȘ-SEVERIN",
+      "judet_slug": "caras-severin"
+    }
+  ],
+  "meta": {
+    "title": "Licee si colegii din judetul Caraș-Severin - Descărcare gratuită",
+    "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Caraș-Severin (29 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor. Conține 29 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Licee si colegii din judetul Caraș-Severin | ListBase",
+    "seo_description": "Descarcă Licee si colegii din judetul Caraș-Severin — 29 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 29 înregistrări / 4 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

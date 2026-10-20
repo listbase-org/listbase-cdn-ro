@@ -1,0 +1,202 @@
+{
+  "id": "ro-botosani-licee",
+  "name": "Licee si colegii din judetul Botoșani",
+  "title": "Licee si colegii din judetul Botoșani",
+  "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Botoșani (26 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "COLEGIUL ECONOMIC OCTAV ONICESCU BOTOSANI",
+      "slug": "colegiul-economic-octav-onicescu-botosani",
+      "judet": "BOTOȘANI",
+      "judet_slug": "botosani"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL A. T. LAURIAN BOTOSANI",
+      "slug": "colegiul-national-a-t-laurian-botosani",
+      "judet": "BOTOȘANI",
+      "judet_slug": "botosani"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL GRIGORE GHICA DOROHOI",
+      "slug": "colegiul-national-grigore-ghica-dorohoi",
+      "judet": "BOTOȘANI",
+      "judet_slug": "botosani"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL MIHAI EMINESCU BOTOSANI",
+      "slug": "colegiul-national-mihai-eminescu-botosani",
+      "judet": "BOTOȘANI",
+      "judet_slug": "botosani"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC GHEORGHE ASACHI BOTOSANI",
+      "slug": "colegiul-tehnic-gheorghe-asachi-botosani",
+      "judet": "BOTOȘANI",
+      "judet_slug": "botosani"
+    },
+    {
+      "nume": "LICEUL ALEXANDRU CEL BUN’’ BOTOSANI",
+      "slug": "liceul-alexandru-cel-bun-botosani",
+      "judet": "BOTOȘANI",
+      "judet_slug": "botosani"
+    },
+    {
+      "nume": "LICEUL DEMOSTENE BOTEZ TRUŞEŞTI",
+      "slug": "liceul-demostene-botez-trusesti",
+      "judet": "BOTOȘANI",
+      "judet_slug": "botosani"
+    },
+    {
+      "nume": "LICEUL DIMITRIE CANTEMIR DARABANI",
+      "slug": "liceul-dimitrie-cantemir-darabani",
+      "judet": "BOTOȘANI",
+      "judet_slug": "botosani"
+    },
+    {
+      "nume": "LICEUL DIMITRIE NEGREANU BOTOSANI",
+      "slug": "liceul-dimitrie-negreanu-botosani",
+      "judet": "BOTOȘANI",
+      "judet_slug": "botosani"
+    },
+    {
+      "nume": "LICEUL PEDAGOGIC NICOLAE IORGA BOTOSANI",
+      "slug": "liceul-pedagogic-nicolae-iorga-botosani",
+      "judet": "BOTOȘANI",
+      "judet_slug": "botosani"
+    },
+    {
+      "nume": "LICEUL REGINA MARIA DOROHOI",
+      "slug": "liceul-regina-maria-dorohoi",
+      "judet": "BOTOȘANI",
+      "judet_slug": "botosani"
+    },
+    {
+      "nume": "LICEUL STEFAN D. LUCHIAN STEFANESTI",
+      "slug": "liceul-stefan-d-luchian-stefanesti",
+      "judet": "BOTOȘANI",
+      "judet_slug": "botosani"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC AL. VLAHUTA SENDRICENI",
+      "slug": "liceul-tehnologic-al-vlahuta-sendriceni",
+      "judet": "BOTOȘANI",
+      "judet_slug": "botosani"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC BUCECEA",
+      "slug": "liceul-tehnologic-bucecea",
+      "judet": "BOTOȘANI",
+      "judet_slug": "botosani"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC COŢUŞCA",
+      "slug": "liceul-tehnologic-cotusca",
+      "judet": "BOTOȘANI",
+      "judet_slug": "botosani"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC ELIE RADU BOTOSANI",
+      "slug": "liceul-tehnologic-elie-radu-botosani",
+      "judet": "BOTOȘANI",
+      "judet_slug": "botosani"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC NICOLAE BALCESCU FLAMINZI",
+      "slug": "liceul-tehnologic-nicolae-balcescu-flaminzi",
+      "judet": "BOTOȘANI",
+      "judet_slug": "botosani"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC PETRU RAREŞ’’ BOTOSANI",
+      "slug": "liceul-tehnologic-petru-rares-botosani",
+      "judet": "BOTOȘANI",
+      "judet_slug": "botosani"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC PLOPENII MARI",
+      "slug": "liceul-tehnologic-plopenii-mari",
+      "judet": "BOTOȘANI",
+      "judet_slug": "botosani"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC STEFAN CEL MARE SI SFANT VORONA",
+      "slug": "liceul-tehnologic-stefan-cel-mare-si-sfant-vorona",
+      "judet": "BOTOȘANI",
+      "judet_slug": "botosani"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC TODIRENI",
+      "slug": "liceul-tehnologic-todireni",
+      "judet": "BOTOȘANI",
+      "judet_slug": "botosani"
+    },
+    {
+      "nume": "LICEUL TEORETIC ANASTASIE BASOTA POMIRLA",
+      "slug": "liceul-teoretic-anastasie-basota-pomirla",
+      "judet": "BOTOȘANI",
+      "judet_slug": "botosani"
+    },
+    {
+      "nume": "LICEUL TEORETIC DR. MIHAI CIUCA SAVENI",
+      "slug": "liceul-teoretic-dr-mihai-ciuca-saveni",
+      "judet": "BOTOȘANI",
+      "judet_slug": "botosani"
+    },
+    {
+      "nume": "LICEUL TEORETIC GRIGORE ANTIPA BOTOSANI",
+      "slug": "liceul-teoretic-grigore-antipa-botosani",
+      "judet": "BOTOȘANI",
+      "judet_slug": "botosani"
+    },
+    {
+      "nume": "SEMINARUL TEOLOGIC LICEAL ORTODOX SF. GHEORGE BOTOSANI",
+      "slug": "seminarul-teologic-liceal-ortodox-sf-gheorge-botosani",
+      "judet": "BOTOȘANI",
+      "judet_slug": "botosani"
+    },
+    {
+      "nume": "SEMINARUL TEOLOGIC LICEAL ORTODOX SF. IOAN IACOB DOROHOI",
+      "slug": "seminarul-teologic-liceal-ortodox-sf-ioan-iacob-dorohoi",
+      "judet": "BOTOȘANI",
+      "judet_slug": "botosani"
+    }
+  ],
+  "meta": {
+    "title": "Licee si colegii din judetul Botoșani - Descărcare gratuită",
+    "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Botoșani (26 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor. Conține 26 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Licee si colegii din judetul Botoșani | ListBase",
+    "seo_description": "Descarcă Licee si colegii din judetul Botoșani — 26 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 26 înregistrări / 4 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

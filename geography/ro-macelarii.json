@@ -1,0 +1,4408 @@
+{
+  "id": "ro-macelarii",
+  "name": "Măcelării din România",
+  "title": "Măcelării din România",
+  "description": "Măcelării din România — 483 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `shop=butcher`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 483,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "latitudine",
+      "label": "Latitudine",
+      "type": "number"
+    },
+    {
+      "key": "longitudine",
+      "label": "Longitudine",
+      "type": "number"
+    },
+    {
+      "key": "cheie_osm",
+      "label": "Cheie Osm",
+      "type": "string"
+    },
+    {
+      "key": "valoare_osm",
+      "label": "Valoare Osm",
+      "type": "string"
+    },
+    {
+      "key": "categorie_osm",
+      "label": "Categorie Osm",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nume": "\"La Vasile\"",
+      "latitudine": 45.785126,
+      "longitudine": 24.132901,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 2,
+      "nume": "AAylex One - Punct de lucru Buzau",
+      "latitudine": 45.127755,
+      "longitudine": 26.866933,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 3,
+      "nume": "Abator Agricover Periș",
+      "latitudine": 44.678742,
+      "longitudine": 25.943697,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 4,
+      "nume": "Abator Costescu",
+      "latitudine": 44.638426,
+      "longitudine": 22.657861,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 5,
+      "nume": "Abatorul Periș",
+      "latitudine": 44.43466,
+      "longitudine": 26.02968,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 6,
+      "nume": "Agil",
+      "latitudine": 45.732009,
+      "longitudine": 21.260385,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 7,
+      "nume": "Agil",
+      "latitudine": 45.734152,
+      "longitudine": 21.237993,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 8,
+      "nume": "Agil",
+      "latitudine": 45.740268,
+      "longitudine": 21.196147,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 9,
+      "nume": "Agil",
+      "latitudine": 45.741234,
+      "longitudine": 21.225241,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 10,
+      "nume": "Agil",
+      "latitudine": 45.745697,
+      "longitudine": 21.208474,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 11,
+      "nume": "Agil",
+      "latitudine": 45.756502,
+      "longitudine": 21.222683,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 12,
+      "nume": "Agil",
+      "latitudine": 45.76065,
+      "longitudine": 21.216512,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 13,
+      "nume": "Agil",
+      "latitudine": 45.764338,
+      "longitudine": 21.205297,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 14,
+      "nume": "Agil",
+      "latitudine": 45.774565,
+      "longitudine": 21.22216,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 15,
+      "nume": "Agil",
+      "latitudine": 46.571266,
+      "longitudine": 23.785926,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 16,
+      "nume": "Agricola International Ferma de pasari",
+      "latitudine": 46.65981,
+      "longitudine": 26.791568,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 17,
+      "nume": "Agro Prod Com Dosa",
+      "latitudine": 46.537683,
+      "longitudine": 24.573774,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 18,
+      "nume": "Agro-Ardeal",
+      "latitudine": 46.783555,
+      "longitudine": 23.587312,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 19,
+      "nume": "Aldis",
+      "latitudine": 47.165301,
+      "longitudine": 27.560559,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 20,
+      "nume": "Ana si Cornel",
+      "latitudine": 44.916625,
+      "longitudine": 26.99093,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 21,
+      "nume": "Ana si Cornel",
+      "latitudine": 45.093076,
+      "longitudine": 26.578425,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 22,
+      "nume": "Ana si Cornel",
+      "latitudine": 45.417141,
+      "longitudine": 26.301081,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 23,
+      "nume": "Ana şi Cornel",
+      "latitudine": 43.812724,
+      "longitudine": 28.584198,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 24,
+      "nume": "Ana Și Cornel",
+      "latitudine": 43.749297,
+      "longitudine": 24.869282,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 25,
+      "nume": "Ana și Cornel",
+      "latitudine": 45.244105,
+      "longitudine": 28.13269,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 26,
+      "nume": "Anas",
+      "latitudine": 44.446933,
+      "longitudine": 26.126774,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 27,
+      "nume": "Andromi",
+      "latitudine": 45.765506,
+      "longitudine": 21.218955,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 28,
+      "nume": "Andu Măcelărie",
+      "latitudine": 44.413156,
+      "longitudine": 26.10949,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 29,
+      "nume": "Angst",
+      "latitudine": 44.472283,
+      "longitudine": 26.049719,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 30,
+      "nume": "Aurora",
+      "latitudine": 46.933053,
+      "longitudine": 26.359919,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 31,
+      "nume": "Avicola Crevedia Express",
+      "latitudine": 44.382296,
+      "longitudine": 26.116917,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 32,
+      "nume": "AYT",
+      "latitudine": 44.369598,
+      "longitudine": 26.183333,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 33,
+      "nume": "Bacania Saseasca",
+      "latitudine": 47.062194,
+      "longitudine": 21.9425,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 34,
+      "nume": "Basu",
+      "latitudine": 46.176449,
+      "longitudine": 23.923701,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 35,
+      "nume": "Bell Gusto",
+      "latitudine": 47.116999,
+      "longitudine": 27.561693,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 36,
+      "nume": "Benedek",
+      "latitudine": 46.53176,
+      "longitudine": 24.557237,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 37,
+      "nume": "Benedek",
+      "latitudine": 46.556471,
+      "longitudine": 24.572417,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 38,
+      "nume": "Benedek",
+      "latitudine": 46.721149,
+      "longitudine": 25.589267,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 39,
+      "nume": "Benedek",
+      "latitudine": 46.923201,
+      "longitudine": 25.352137,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 40,
+      "nume": "Black Angus Beefcarm",
+      "latitudine": 45.033047,
+      "longitudine": 23.269568,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 41,
+      "nume": "Brio",
+      "latitudine": 46.540114,
+      "longitudine": 23.742919,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 42,
+      "nume": "Brio",
+      "latitudine": 46.54765,
+      "longitudine": 23.886579,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 43,
+      "nume": "Brio",
+      "latitudine": 46.571517,
+      "longitudine": 23.787454,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 44,
+      "nume": "Bulbucani",
+      "latitudine": 45.806326,
+      "longitudine": 22.928277,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 45,
+      "nume": "BUNghez Măcelăria Onești",
+      "latitudine": 46.245033,
+      "longitudine": 26.766634,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 46,
+      "nume": "Bunătăți Ardelenești",
+      "latitudine": 44.212946,
+      "longitudine": 28.605469,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 47,
+      "nume": "Bușilă D&S",
+      "latitudine": 46.75672,
+      "longitudine": 23.55569,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 48,
+      "nume": "Băcănia Ferma Vîșcu",
+      "latitudine": 45.73396,
+      "longitudine": 21.237985,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 49,
+      "nume": "Băcănia lu' Nea Ticu - Cârnați de Pleșcoi",
+      "latitudine": 45.274709,
+      "longitudine": 26.715167,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 50,
+      "nume": "Băcănia lui Nea Ticu",
+      "latitudine": 45.279052,
+      "longitudine": 26.668601,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 51,
+      "nume": "Băcănia Lui Petrică",
+      "latitudine": 45.101889,
+      "longitudine": 24.364993,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 52,
+      "nume": "Băcănia Lui Petrică",
+      "latitudine": 45.115181,
+      "longitudine": 24.364743,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 53,
+      "nume": "CAI Curtici",
+      "latitudine": 46.167841,
+      "longitudine": 21.319446,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 54,
+      "nume": "Capa",
+      "latitudine": 45.794133,
+      "longitudine": 24.121294,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 55,
+      "nume": "Carmangeria Bonțida",
+      "latitudine": 46.781737,
+      "longitudine": 23.626925,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 56,
+      "nume": "Carmangeria Coana Chirița",
+      "latitudine": 44.380909,
+      "longitudine": 26.107024,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 57,
+      "nume": "Carmangeria Dobrogea",
+      "latitudine": 44.19929,
+      "longitudine": 28.64998,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 58,
+      "nume": "Carmangeria Florești",
+      "latitudine": 46.743442,
+      "longitudine": 23.483766,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 59,
+      "nume": "Carmangeria Florești",
+      "latitudine": 46.743772,
+      "longitudine": 23.496004,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 60,
+      "nume": "Carmangeria Florești",
+      "latitudine": 46.754157,
+      "longitudine": 23.550526,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 61,
+      "nume": "Carmangeria Făgăraș",
+      "latitudine": 44.46561,
+      "longitudine": 26.067258,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 62,
+      "nume": "Carmangeria Făgăraș",
+      "latitudine": 45.102855,
+      "longitudine": 24.365997,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 63,
+      "nume": "Carmangeria La Vâlceleanu",
+      "latitudine": 44.431232,
+      "longitudine": 24.374941,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 64,
+      "nume": "Carmangeria Mayra",
+      "latitudine": 44.319462,
+      "longitudine": 23.821703,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 65,
+      "nume": "Carmangeria Moldovan",
+      "latitudine": 46.744355,
+      "longitudine": 23.585245,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 66,
+      "nume": "Carmangeria Moldovan",
+      "latitudine": 46.754933,
+      "longitudine": 23.577279,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 67,
+      "nume": "Carmangeria Moldovan",
+      "latitudine": 46.756027,
+      "longitudine": 23.55911,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 68,
+      "nume": "Carmangeria Moldovan",
+      "latitudine": 46.76737,
+      "longitudine": 23.549135,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 69,
+      "nume": "Carmangeria Moldovan",
+      "latitudine": 46.776387,
+      "longitudine": 23.629686,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 70,
+      "nume": "Carmangeria Moldovan",
+      "latitudine": 46.777299,
+      "longitudine": 23.611784,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 71,
+      "nume": "Carmangeria Moldovan",
+      "latitudine": 46.78332,
+      "longitudine": 23.587308,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 72,
+      "nume": "Carmangeria Moldovan",
+      "latitudine": 46.858453,
+      "longitudine": 23.793719,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 73,
+      "nume": "Carmangeria Purcelușul Vesel",
+      "latitudine": 46.244901,
+      "longitudine": 26.766918,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 74,
+      "nume": "Carmangeria Silvania",
+      "latitudine": 46.753964,
+      "longitudine": 23.554911,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 75,
+      "nume": "Carmangeria TGB",
+      "latitudine": 45.743902,
+      "longitudine": 21.208649,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 76,
+      "nume": "Carmangeria Târnăvioara",
+      "latitudine": 46.225427,
+      "longitudine": 24.574845,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 77,
+      "nume": "Carmangeria Vasluianu",
+      "latitudine": 45.689528,
+      "longitudine": 21.909305,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 78,
+      "nume": "Carmangerie",
+      "latitudine": 44.933067,
+      "longitudine": 25.454455,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 79,
+      "nume": "Carmangerie",
+      "latitudine": 45.778647,
+      "longitudine": 24.146466,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 80,
+      "nume": "Carmangerie \"La Bogatan\"",
+      "latitudine": 45.994881,
+      "longitudine": 23.486577,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 81,
+      "nume": "Carmangerie Italiana",
+      "latitudine": 47.123704,
+      "longitudine": 27.560061,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 82,
+      "nume": "Carmangerie La Rusu",
+      "latitudine": 45.243423,
+      "longitudine": 26.715902,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 83,
+      "nume": "Carmangerie Safir",
+      "latitudine": 46.218641,
+      "longitudine": 27.665002,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 84,
+      "nume": "Carmangerie Transeuro",
+      "latitudine": 46.380508,
+      "longitudine": 23.859192,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 85,
+      "nume": "Carmangerie Vama Buzăului",
+      "latitudine": 45.643388,
+      "longitudine": 25.632486,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 86,
+      "nume": "Carmangerie și alimentară mixt",
+      "latitudine": 44.112521,
+      "longitudine": 28.552113,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 87,
+      "nume": "Carmangerie/Măcelărie",
+      "latitudine": 46.83443,
+      "longitudine": 27.454877,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 88,
+      "nume": "Carmasilv",
+      "latitudine": 47.854796,
+      "longitudine": 23.410179,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 89,
+      "nume": "Carmic",
+      "latitudine": 46.781768,
+      "longitudine": 23.62604,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 90,
+      "nume": "CarmOlimp",
+      "latitudine": 45.761124,
+      "longitudine": 25.543439,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 91,
+      "nume": "Carmolimp",
+      "latitudine": 45.781813,
+      "longitudine": 24.148739,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 92,
+      "nume": "Carmolimp",
+      "latitudine": 45.788843,
+      "longitudine": 24.149775,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 93,
+      "nume": "Carne Mântuleasa",
+      "latitudine": 44.432775,
+      "longitudine": 26.111474,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 94,
+      "nume": "Carne si preparate din carne Agro Prod Com Dosa",
+      "latitudine": 46.534102,
+      "longitudine": 24.798371,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 95,
+      "nume": "Carne Unguresc",
+      "latitudine": 45.810453,
+      "longitudine": 24.147371,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 96,
+      "nume": "Carne Vită din Muntenia",
+      "latitudine": 44.955931,
+      "longitudine": 25.992922,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 97,
+      "nume": "Carne și Sare",
+      "latitudine": 44.403168,
+      "longitudine": 25.952488,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 98,
+      "nume": "Carnicomp",
+      "latitudine": 45.694586,
+      "longitudine": 25.4479,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 99,
+      "nume": "Carnicomp",
+      "latitudine": 46.217944,
+      "longitudine": 24.795659,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 100,
+      "nume": "Carnicomp",
+      "latitudine": 46.225018,
+      "longitudine": 24.574993,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 101,
+      "nume": "Carnicomp",
+      "latitudine": 46.227231,
+      "longitudine": 24.812099,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 102,
+      "nume": "Carnicomp",
+      "latitudine": 46.236539,
+      "longitudine": 24.825474,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 103,
+      "nume": "Carniprod",
+      "latitudine": 44.1787,
+      "longitudine": 28.635826,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 104,
+      "nume": "Caroli",
+      "latitudine": 44.682658,
+      "longitudine": 26.382027,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 105,
+      "nume": "Carpi",
+      "latitudine": 45.805545,
+      "longitudine": 24.151492,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 106,
+      "nume": "Casa Angus",
+      "latitudine": 44.437672,
+      "longitudine": 26.113447,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 107,
+      "nume": "Casa Caroli",
+      "latitudine": 45.047021,
+      "longitudine": 23.270695,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 108,
+      "nume": "Casa Muscă",
+      "latitudine": 46.186814,
+      "longitudine": 21.325324,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 109,
+      "nume": "Casalco",
+      "latitudine": 45.862733,
+      "longitudine": 25.808096,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 110,
+      "nume": "Ceragrim",
+      "latitudine": 46.52268,
+      "longitudine": 24.53265,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 111,
+      "nume": "CIA Aboliv",
+      "latitudine": 46.744075,
+      "longitudine": 23.483733,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 112,
+      "nume": "Cina",
+      "latitudine": 46.753947,
+      "longitudine": 23.555533,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 113,
+      "nume": "Cina Carmangerie",
+      "latitudine": 46.763606,
+      "longitudine": 23.614787,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 114,
+      "nume": "Cina Carmangerie",
+      "latitudine": 46.775439,
+      "longitudine": 23.589977,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 115,
+      "nume": "Cina Carmangerie Flora",
+      "latitudine": 46.757731,
+      "longitudine": 23.550968,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 116,
+      "nume": "Claudiu & Camelia",
+      "latitudine": 44.435716,
+      "longitudine": 26.027754,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 117,
+      "nume": "Comtim",
+      "latitudine": 44.434686,
+      "longitudine": 25.991865,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 118,
+      "nume": "Cosm-Fan",
+      "latitudine": 46.57153,
+      "longitudine": 23.786347,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 119,
+      "nume": "Cosm-Fan (magazin de prezentare)",
+      "latitudine": 46.791876,
+      "longitudine": 23.724199,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 120,
+      "nume": "Craex Comimpex - carne si preparate din carne",
+      "latitudine": 45.597728,
+      "longitudine": 25.46359,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 121,
+      "nume": "Crevedia express",
+      "latitudine": 44.322112,
+      "longitudine": 25.905541,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 122,
+      "nume": "Crevedia Express",
+      "latitudine": 44.461181,
+      "longitudine": 26.132285,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 123,
+      "nume": "Cris Tim",
+      "latitudine": 44.444345,
+      "longitudine": 26.080647,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 124,
+      "nume": "Cris-Tim",
+      "latitudine": 44.38269,
+      "longitudine": 26.117037,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 125,
+      "nume": "Cris-Tim",
+      "latitudine": 44.41566,
+      "longitudine": 26.047795,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 126,
+      "nume": "Cris-Tim",
+      "latitudine": 44.430784,
+      "longitudine": 26.138625,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 127,
+      "nume": "Cris-Tim",
+      "latitudine": 44.46642,
+      "longitudine": 26.138574,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 128,
+      "nume": "Cristim",
+      "latitudine": 44.41366,
+      "longitudine": 26.165133,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 129,
+      "nume": "Cristim",
+      "latitudine": 44.45536,
+      "longitudine": 26.128466,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 130,
+      "nume": "Curtici",
+      "latitudine": 45.699179,
+      "longitudine": 21.234571,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 131,
+      "nume": "Curtici",
+      "latitudine": 45.730379,
+      "longitudine": 21.237111,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 132,
+      "nume": "Curtici",
+      "latitudine": 45.761372,
+      "longitudine": 21.215651,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 133,
+      "nume": "Curtici",
+      "latitudine": 45.761837,
+      "longitudine": 21.248834,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 134,
+      "nume": "Curtici",
+      "latitudine": 45.764466,
+      "longitudine": 21.259433,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 135,
+      "nume": "Curtici",
+      "latitudine": 45.773731,
+      "longitudine": 21.24348,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 136,
+      "nume": "Curtici",
+      "latitudine": 45.79143,
+      "longitudine": 21.239071,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 137,
+      "nume": "Curtici",
+      "latitudine": 46.191932,
+      "longitudine": 21.331026,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 138,
+      "nume": "Căpraru",
+      "latitudine": 46.926289,
+      "longitudine": 26.93743,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 139,
+      "nume": "D'ale lui Vesa",
+      "latitudine": 46.748389,
+      "longitudine": 23.598052,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 140,
+      "nume": "daco",
+      "latitudine": 44.378353,
+      "longitudine": 25.995157,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 141,
+      "nume": "Danilevici",
+      "latitudine": 47.553175,
+      "longitudine": 25.900656,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 142,
+      "nume": "Danilevici",
+      "latitudine": 47.554112,
+      "longitudine": 25.892767,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 143,
+      "nume": "Domidene",
+      "latitudine": 45.248129,
+      "longitudine": 28.128041,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 144,
+      "nume": "Dor de Bistrița",
+      "latitudine": 46.536175,
+      "longitudine": 23.885925,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 145,
+      "nume": "Doripesco magazin pește viu",
+      "latitudine": 45.904686,
+      "longitudine": 25.470771,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 146,
+      "nume": "Doruk Măcelărie Carne Turcească - Helal",
+      "latitudine": 44.469708,
+      "longitudine": 26.14553,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 147,
+      "nume": "Duofast Carm",
+      "latitudine": 46.938323,
+      "longitudine": 26.37799,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 148,
+      "nume": "Dósa",
+      "latitudine": 46.537555,
+      "longitudine": 24.574047,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 149,
+      "nume": "Dósa",
+      "latitudine": 46.593803,
+      "longitudine": 25.072344,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 150,
+      "nume": "Eco - Prod Tradițional Măcelărie Ștrand",
+      "latitudine": 45.788281,
+      "longitudine": 24.135746,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 151,
+      "nume": "Elit",
+      "latitudine": 46.129733,
+      "longitudine": 22.791237,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 152,
+      "nume": "Elit",
+      "latitudine": 46.571346,
+      "longitudine": 23.78648,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 153,
+      "nume": "Elso",
+      "latitudine": 46.769292,
+      "longitudine": 23.616379,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 154,
+      "nume": "ExpoCarm",
+      "latitudine": 46.928112,
+      "longitudine": 26.36205,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 155,
+      "nume": "Fabrica de Fum",
+      "latitudine": 47.122602,
+      "longitudine": 27.562656,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 156,
+      "nume": "Fabrica de preparate naturale din carne",
+      "latitudine": 44.66841,
+      "longitudine": 26.032952,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 157,
+      "nume": "Facos",
+      "latitudine": 47.665535,
+      "longitudine": 26.433513,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 158,
+      "nume": "Fazakas",
+      "latitudine": 46.545993,
+      "longitudine": 24.564783,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 159,
+      "nume": "Femadar",
+      "latitudine": 45.73154,
+      "longitudine": 21.234311,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 160,
+      "nume": "Femadar",
+      "latitudine": 45.765814,
+      "longitudine": 21.218789,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 161,
+      "nume": "Femadar",
+      "latitudine": 45.774435,
+      "longitudine": 21.241859,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 162,
+      "nume": "Ferma 2 Cocoși Hoboca",
+      "latitudine": 47.166914,
+      "longitudine": 27.551351,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 163,
+      "nume": "Ferma Angus Bășulescu",
+      "latitudine": 45.761466,
+      "longitudine": 21.139538,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 164,
+      "nume": "Ferma Baciu",
+      "latitudine": 44.466184,
+      "longitudine": 26.067918,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 165,
+      "nume": "Ferma de pasari Agricola Racova",
+      "latitudine": 46.723304,
+      "longitudine": 26.76723,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 166,
+      "nume": "Ferma din Sat",
+      "latitudine": 44.601346,
+      "longitudine": 26.070482,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 167,
+      "nume": "Ferma Vîșcu",
+      "latitudine": 45.69852,
+      "longitudine": 21.234394,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 168,
+      "nume": "Ferma Zootehnica Baia Mare",
+      "latitudine": 46.755001,
+      "longitudine": 23.577745,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 169,
+      "nume": "Ferma Zootehnică Nr. 9",
+      "latitudine": 47.649853,
+      "longitudine": 23.560623,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 170,
+      "nume": "Fermador",
+      "latitudine": 46.924431,
+      "longitudine": 26.369484,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 171,
+      "nume": "Fermador",
+      "latitudine": 47.142674,
+      "longitudine": 27.578886,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 172,
+      "nume": "Fermele",
+      "latitudine": 46.768979,
+      "longitudine": 23.608358,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 173,
+      "nume": "Fil Sam Câmpina",
+      "latitudine": 45.395378,
+      "longitudine": 25.53793,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 174,
+      "nume": "FiLIP",
+      "latitudine": 46.188057,
+      "longitudine": 21.321664,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 175,
+      "nume": "Filip Prod Carn",
+      "latitudine": 44.421786,
+      "longitudine": 24.383748,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 176,
+      "nume": "Filsam",
+      "latitudine": 45.177686,
+      "longitudine": 25.956327,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 177,
+      "nume": "Fit beed",
+      "latitudine": 47.173654,
+      "longitudine": 27.559674,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 178,
+      "nume": "Fortius Market",
+      "latitudine": 44.915528,
+      "longitudine": 26.990285,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 179,
+      "nume": "Fox Mezeluri",
+      "latitudine": 44.395134,
+      "longitudine": 26.151899,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 180,
+      "nume": "Frații Kocsis Lactate și Măcelărie",
+      "latitudine": 46.799288,
+      "longitudine": 21.662956,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 181,
+      "nume": "Făbricuța din Tomești",
+      "latitudine": 47.146796,
+      "longitudine": 27.591554,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 182,
+      "nume": "Genial Meatcom",
+      "latitudine": 45.286296,
+      "longitudine": 27.970689,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 183,
+      "nume": "Gepeto",
+      "latitudine": 44.204216,
+      "longitudine": 28.625288,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 184,
+      "nume": "Gizel Carn",
+      "latitudine": 44.66038,
+      "longitudine": 24.260735,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 185,
+      "nume": "Godac",
+      "latitudine": 44.416307,
+      "longitudine": 26.021302,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 186,
+      "nume": "Godac",
+      "latitudine": 44.438293,
+      "longitudine": 26.014325,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 187,
+      "nume": "Godac",
+      "latitudine": 44.462832,
+      "longitudine": 26.042101,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 188,
+      "nume": "Godac",
+      "latitudine": 44.503365,
+      "longitudine": 25.990082,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 189,
+      "nume": "Gospodarul din Ardeal",
+      "latitudine": 46.783769,
+      "longitudine": 23.587316,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 190,
+      "nume": "Gustaro",
+      "latitudine": 46.268214,
+      "longitudine": 23.077427,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 191,
+      "nume": "Gustaro",
+      "latitudine": 46.450154,
+      "longitudine": 24.229543,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 192,
+      "nume": "Hala Centrală",
+      "latitudine": 45.102183,
+      "longitudine": 24.364229,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 193,
+      "nume": "Halloween",
+      "latitudine": 45.515824,
+      "longitudine": 25.369657,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 194,
+      "nume": "Harald",
+      "latitudine": 47.553956,
+      "longitudine": 25.893169,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 195,
+      "nume": "I.F. Tius",
+      "latitudine": 45.731932,
+      "longitudine": 21.22832,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 196,
+      "nume": "Ioneda",
+      "latitudine": 45.772885,
+      "longitudine": 24.148124,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 197,
+      "nume": "Izabel",
+      "latitudine": 45.799642,
+      "longitudine": 24.145956,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 198,
+      "nume": "Jasmin Al Sham",
+      "latitudine": 44.456877,
+      "longitudine": 26.128707,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 199,
+      "nume": "Johnie's Meats",
+      "latitudine": 47.857098,
+      "longitudine": 26.311102,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 200,
+      "nume": "Karne.ro",
+      "latitudine": 45.733435,
+      "longitudine": 21.238968,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 201,
+      "nume": "Killer",
+      "latitudine": 47.747556,
+      "longitudine": 26.66573,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 202,
+      "nume": "Killer SRL",
+      "latitudine": 47.836027,
+      "longitudine": 25.924435,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 203,
+      "nume": "KOSAROM",
+      "latitudine": 46.924505,
+      "longitudine": 26.36977,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 204,
+      "nume": "Kosarom",
+      "latitudine": 47.131294,
+      "longitudine": 27.61254,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 205,
+      "nume": "Kosarom",
+      "latitudine": 47.145906,
+      "longitudine": 27.528345,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 206,
+      "nume": "Kosarom",
+      "latitudine": 47.161857,
+      "longitudine": 27.563589,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 207,
+      "nume": "Kosarom",
+      "latitudine": 47.162398,
+      "longitudine": 27.605147,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 208,
+      "nume": "Kosarom",
+      "latitudine": 47.167033,
+      "longitudine": 27.511899,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 209,
+      "nume": "Kosarom",
+      "latitudine": 47.173117,
+      "longitudine": 27.545273,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 210,
+      "nume": "Kral et Macelarie - Helal",
+      "latitudine": 44.472516,
+      "longitudine": 26.153349,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 211,
+      "nume": "La Baciu",
+      "latitudine": 47.530445,
+      "longitudine": 25.555808,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 212,
+      "nume": "La Butuc",
+      "latitudine": 44.318644,
+      "longitudine": 23.808964,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 213,
+      "nume": "La Costica",
+      "latitudine": 44.916806,
+      "longitudine": 25.472242,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 214,
+      "nume": "La Călin",
+      "latitudine": 47.92808,
+      "longitudine": 23.886115,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 215,
+      "nume": "La Drăgan",
+      "latitudine": 44.321252,
+      "longitudine": 26.179434,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 216,
+      "nume": "La Iosca",
+      "latitudine": 46.568894,
+      "longitudine": 26.913916,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 217,
+      "nume": "La Marin",
+      "latitudine": 46.343148,
+      "longitudine": 21.305915,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 218,
+      "nume": "La Mircea Macelaru",
+      "latitudine": 44.503847,
+      "longitudine": 25.988393,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 219,
+      "nume": "La Nea Costica SIbianu",
+      "latitudine": 44.922769,
+      "longitudine": 25.44201,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 220,
+      "nume": "La Pompey",
+      "latitudine": 46.202323,
+      "longitudine": 27.385413,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 221,
+      "nume": "La Provincia",
+      "latitudine": 44.807831,
+      "longitudine": 25.083492,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 222,
+      "nume": "La Provincia",
+      "latitudine": 45.115207,
+      "longitudine": 24.365137,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 223,
+      "nume": "La Provincia",
+      "latitudine": 45.153045,
+      "longitudine": 24.675308,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 224,
+      "nume": "La Provincia - magazin carne",
+      "latitudine": 45.145897,
+      "longitudine": 23.991132,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 225,
+      "nume": "La Săndel",
+      "latitudine": 45.516743,
+      "longitudine": 25.370674,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 226,
+      "nume": "La Valy",
+      "latitudine": 44.419326,
+      "longitudine": 26.136831,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 227,
+      "nume": "Larger",
+      "latitudine": 46.932776,
+      "longitudine": 26.360411,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 228,
+      "nume": "M&R",
+      "latitudine": 47.161424,
+      "longitudine": 27.569852,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 229,
+      "nume": "Macelaria Abu Bacri",
+      "latitudine": 44.441797,
+      "longitudine": 26.081099,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 230,
+      "nume": "Macelaria Cutitul de Aur",
+      "latitudine": 44.44438,
+      "longitudine": 26.132538,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 231,
+      "nume": "Macelaria Istanbul",
+      "latitudine": 44.469605,
+      "longitudine": 26.144269,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 232,
+      "nume": "Macelaria Naser",
+      "latitudine": 44.464567,
+      "longitudine": 26.068227,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 233,
+      "nume": "Macelaria Tineretului",
+      "latitudine": 44.41093,
+      "longitudine": 26.112437,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 234,
+      "nume": "Macelarie Kasap - Helal",
+      "latitudine": 44.445389,
+      "longitudine": 26.136402,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 235,
+      "nume": "Macelarie Orientala - Halal",
+      "latitudine": 47.167096,
+      "longitudine": 27.586499,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 236,
+      "nume": "Macelleria",
+      "latitudine": 45.787343,
+      "longitudine": 21.237637,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 237,
+      "nume": "Magazin Carne",
+      "latitudine": 44.441565,
+      "longitudine": 26.17851,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 238,
+      "nume": "Magazin Carne Proaspătă",
+      "latitudine": 45.957008,
+      "longitudine": 23.568129,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 239,
+      "nume": "Magazin carne si mezeluri",
+      "latitudine": 44.38276,
+      "longitudine": 26.11699,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 240,
+      "nume": "Magazin Curtici - vanzari carne",
+      "latitudine": 46.170126,
+      "longitudine": 21.312206,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 241,
+      "nume": "Magazin de catne",
+      "latitudine": 46.20119,
+      "longitudine": 21.296246,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 242,
+      "nume": "Magazin de pui",
+      "latitudine": 45.033947,
+      "longitudine": 25.873634,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 243,
+      "nume": "Magazin Mixt",
+      "latitudine": 46.547627,
+      "longitudine": 23.882708,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 244,
+      "nume": "Malina",
+      "latitudine": 44.337001,
+      "longitudine": 23.776252,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 245,
+      "nume": "Marcel",
+      "latitudine": 46.924444,
+      "longitudine": 26.369539,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 246,
+      "nume": "Marcel",
+      "latitudine": 47.161468,
+      "longitudine": 27.569792,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 247,
+      "nume": "Marcel",
+      "latitudine": 47.162454,
+      "longitudine": 27.604669,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 248,
+      "nume": "Marcel",
+      "latitudine": 47.205083,
+      "longitudine": 26.358823,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 249,
+      "nume": "Marele Alb",
+      "latitudine": 46.547753,
+      "longitudine": 23.888349,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 250,
+      "nume": "Marele Alb",
+      "latitudine": 46.569575,
+      "longitudine": 23.78507,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 251,
+      "nume": "Marele Alb",
+      "latitudine": 46.571917,
+      "longitudine": 23.78604,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 252,
+      "nume": "Marhaba Carmangerie Halal",
+      "latitudine": 46.757916,
+      "longitudine": 23.550281,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 253,
+      "nume": "Maribo Prod Carn",
+      "latitudine": 44.379085,
+      "longitudine": 26.11469,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 254,
+      "nume": "Maricarn",
+      "latitudine": 46.755178,
+      "longitudine": 23.558811,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 255,
+      "nume": "Maricarn",
+      "latitudine": 46.774577,
+      "longitudine": 23.592295,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 256,
+      "nume": "Marifior",
+      "latitudine": 46.781671,
+      "longitudine": 23.626545,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 257,
+      "nume": "Mariflor",
+      "latitudine": 46.753779,
+      "longitudine": 23.554354,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 258,
+      "nume": "Mariflor",
+      "latitudine": 46.772173,
+      "longitudine": 23.557949,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 259,
+      "nume": "Mariflor",
+      "latitudine": 46.773935,
+      "longitudine": 23.593678,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 260,
+      "nume": "Mariflor",
+      "latitudine": 46.818281,
+      "longitudine": 23.599806,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 261,
+      "nume": "Mariflor",
+      "latitudine": 46.864221,
+      "longitudine": 23.028538,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 262,
+      "nume": "Mariflor",
+      "latitudine": 47.024719,
+      "longitudine": 23.900631,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 263,
+      "nume": "Marisan",
+      "latitudine": 44.326743,
+      "longitudine": 26.259235,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 264,
+      "nume": "Marisan",
+      "latitudine": 44.378711,
+      "longitudine": 26.0919,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 265,
+      "nume": "Marisan",
+      "latitudine": 44.379736,
+      "longitudine": 26.168403,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 266,
+      "nume": "Marisan",
+      "latitudine": 44.385515,
+      "longitudine": 26.140018,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 267,
+      "nume": "Marisan",
+      "latitudine": 44.391816,
+      "longitudine": 26.12142,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 268,
+      "nume": "Marisan",
+      "latitudine": 44.714089,
+      "longitudine": 26.642009,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 269,
+      "nume": "Marisan",
+      "latitudine": 44.720569,
+      "longitudine": 25.318161,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 270,
+      "nume": "Marisan",
+      "latitudine": 45.077112,
+      "longitudine": 25.434253,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 271,
+      "nume": "Marisan",
+      "latitudine": 45.242075,
+      "longitudine": 25.634206,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 272,
+      "nume": "Marisan",
+      "latitudine": 45.410279,
+      "longitudine": 25.534446,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 273,
+      "nume": "Marisan",
+      "latitudine": 45.593135,
+      "longitudine": 25.461532,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 274,
+      "nume": "Marisan",
+      "latitudine": 45.639335,
+      "longitudine": 25.622747,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 275,
+      "nume": "Matis",
+      "latitudine": 44.191209,
+      "longitudine": 25.781494,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 276,
+      "nume": "Matis",
+      "latitudine": 44.303614,
+      "longitudine": 26.061925,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 277,
+      "nume": "Matyi Bácsi Húsboltja",
+      "latitudine": 46.722157,
+      "longitudine": 25.593975,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 278,
+      "nume": "Meat Shop TGB",
+      "latitudine": 45.765342,
+      "longitudine": 21.230037,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 279,
+      "nume": "Meda",
+      "latitudine": 44.382352,
+      "longitudine": 26.116859,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 280,
+      "nume": "mega ferma",
+      "latitudine": 44.455129,
+      "longitudine": 26.186338,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 281,
+      "nume": "Mercenerie",
+      "latitudine": 44.452911,
+      "longitudine": 26.049305,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 282,
+      "nume": "Merve",
+      "latitudine": 44.453,
+      "longitudine": 26.049287,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 283,
+      "nume": "Meszaros",
+      "latitudine": 47.077414,
+      "longitudine": 21.918695,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 284,
+      "nume": "Mezelar",
+      "latitudine": 44.441858,
+      "longitudine": 26.137625,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 285,
+      "nume": "Mezeluri Comnilis",
+      "latitudine": 46.754805,
+      "longitudine": 23.576629,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 286,
+      "nume": "Mezeluri de Drăgănești",
+      "latitudine": 44.102436,
+      "longitudine": 25.598614,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 287,
+      "nume": "Mezeluri GoPa",
+      "latitudine": 44.943397,
+      "longitudine": 26.020934,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 288,
+      "nume": "Mezeluri Malina",
+      "latitudine": 44.169212,
+      "longitudine": 24.519633,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 289,
+      "nume": "Mezeluri Marcel",
+      "latitudine": 46.911975,
+      "longitudine": 26.087621,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 290,
+      "nume": "Mezeluri Marisan",
+      "latitudine": 44.142963,
+      "longitudine": 28.631954,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 291,
+      "nume": "Mezeluri Prestigio",
+      "latitudine": 45.232302,
+      "longitudine": 25.938599,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 292,
+      "nume": "Mezelăria Marcu",
+      "latitudine": 44.315188,
+      "longitudine": 23.795751,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 293,
+      "nume": "Micul Măcelar",
+      "latitudine": 47.186345,
+      "longitudine": 23.057265,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 294,
+      "nume": "Mititei de Someșeni",
+      "latitudine": 46.755899,
+      "longitudine": 23.559137,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 295,
+      "nume": "Moară",
+      "latitudine": 44.162471,
+      "longitudine": 25.757704,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 296,
+      "nume": "Moldovan",
+      "latitudine": 46.759775,
+      "longitudine": 23.614612,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 297,
+      "nume": "Moldovan",
+      "latitudine": 46.763419,
+      "longitudine": 23.614771,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 298,
+      "nume": "Moldovan",
+      "latitudine": 46.797329,
+      "longitudine": 24.032843,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 299,
+      "nume": "Moldovan - Carmangeria Sânnicoara",
+      "latitudine": 46.749657,
+      "longitudine": 23.603309,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 300,
+      "nume": "Moldovan - Carmangeria Sânnicoara",
+      "latitudine": 46.773396,
+      "longitudine": 23.59064,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 301,
+      "nume": "Moldovan Carmangerie",
+      "latitudine": 46.766727,
+      "longitudine": 23.624559,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 302,
+      "nume": "Mânzat Prod",
+      "latitudine": 45.790564,
+      "longitudine": 24.134271,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 303,
+      "nume": "Măcelaria Bibarț",
+      "latitudine": 45.789755,
+      "longitudine": 21.237805,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 304,
+      "nume": "Măcelaria de la Țară",
+      "latitudine": 45.088636,
+      "longitudine": 25.931034,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 305,
+      "nume": "Măcelaria H&G",
+      "latitudine": 44.452669,
+      "longitudine": 26.112242,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 306,
+      "nume": "Măcelăria Al-Nour, specific arăbesc",
+      "latitudine": 44.419328,
+      "longitudine": 26.138811,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 307,
+      "nume": "Măcelăria Al-Nour, specific arăbesc",
+      "latitudine": 44.441452,
+      "longitudine": 26.157007,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 308,
+      "nume": "Măcelăria ClauStar",
+      "latitudine": 45.242061,
+      "longitudine": 25.634287,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 309,
+      "nume": "Măcelăria Comsoradi",
+      "latitudine": 45.150513,
+      "longitudine": 26.819618,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 310,
+      "nume": "Măcelăria Damian",
+      "latitudine": 44.391931,
+      "longitudine": 26.121479,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 311,
+      "nume": "Măcelăria de lângă tine",
+      "latitudine": 45.561167,
+      "longitudine": 25.31598,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 312,
+      "nume": "Măcelăria Fil Sam",
+      "latitudine": 45.442619,
+      "longitudine": 25.570735,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 313,
+      "nume": "Măcelăria Făgăraș",
+      "latitudine": 45.092694,
+      "longitudine": 24.37215,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 314,
+      "nume": "Măcelăria Gheorgheni",
+      "latitudine": 46.7108,
+      "longitudine": 25.557748,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 315,
+      "nume": "Măcelăria Ghiţă",
+      "latitudine": 44.442557,
+      "longitudine": 26.169594,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 316,
+      "nume": "Măcelăria Halal",
+      "latitudine": 44.413743,
+      "longitudine": 26.109444,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 317,
+      "nume": "Măcelăria Halal",
+      "latitudine": 45.732194,
+      "longitudine": 21.228444,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 318,
+      "nume": "Măcelăria Iancu",
+      "latitudine": 45.845847,
+      "longitudine": 26.164962,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 319,
+      "nume": "Măcelăria la Gogoșaru",
+      "latitudine": 47.460149,
+      "longitudine": 26.299389,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 320,
+      "nume": "Măcelăria la Roica",
+      "latitudine": 44.870283,
+      "longitudine": 26.059991,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 321,
+      "nume": "Măcelăria Laida",
+      "latitudine": 44.379769,
+      "longitudine": 26.16772,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 322,
+      "nume": "Măcelăria Minerva",
+      "latitudine": 44.315919,
+      "longitudine": 23.796235,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 323,
+      "nume": "Măcelăria Moni-Cos",
+      "latitudine": 45.114879,
+      "longitudine": 24.364683,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 324,
+      "nume": "Măcelăria Poporului",
+      "latitudine": 46.198557,
+      "longitudine": 21.29587,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 325,
+      "nume": "Măcelăria Premium Meat",
+      "latitudine": 44.389187,
+      "longitudine": 26.297628,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 326,
+      "nume": "Măcelăria Priceputu'",
+      "latitudine": 44.412278,
+      "longitudine": 26.073607,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 327,
+      "nume": "Măcelăria Sergentu'",
+      "latitudine": 44.462313,
+      "longitudine": 26.329073,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 328,
+      "nume": "Măcelăria Tradiționale Rusu",
+      "latitudine": 45.246135,
+      "longitudine": 26.707996,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 329,
+      "nume": "Măcelăria Yasi",
+      "latitudine": 44.441723,
+      "longitudine": 26.136319,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 330,
+      "nume": "Măcelărie",
+      "latitudine": 44.096508,
+      "longitudine": 23.745557,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 331,
+      "nume": "Măcelărie",
+      "latitudine": 44.193533,
+      "longitudine": 28.63566,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 332,
+      "nume": "Măcelărie",
+      "latitudine": 44.371713,
+      "longitudine": 26.089687,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 333,
+      "nume": "Măcelărie",
+      "latitudine": 44.390934,
+      "longitudine": 26.086968,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 334,
+      "nume": "Măcelărie",
+      "latitudine": 44.412061,
+      "longitudine": 26.11433,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 335,
+      "nume": "Măcelărie",
+      "latitudine": 44.413593,
+      "longitudine": 26.072279,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 336,
+      "nume": "Măcelărie",
+      "latitudine": 44.415009,
+      "longitudine": 26.154279,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 337,
+      "nume": "Măcelărie",
+      "latitudine": 44.415693,
+      "longitudine": 26.01718,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 338,
+      "nume": "Măcelărie",
+      "latitudine": 44.416581,
+      "longitudine": 26.103994,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 339,
+      "nume": "Măcelărie",
+      "latitudine": 44.426627,
+      "longitudine": 26.150665,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 340,
+      "nume": "Măcelărie",
+      "latitudine": 44.428986,
+      "longitudine": 26.169865,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 341,
+      "nume": "Măcelărie",
+      "latitudine": 44.443176,
+      "longitudine": 26.160319,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 342,
+      "nume": "Măcelărie",
+      "latitudine": 44.457069,
+      "longitudine": 26.076909,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 343,
+      "nume": "Măcelărie",
+      "latitudine": 44.484457,
+      "longitudine": 26.033742,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 344,
+      "nume": "Măcelărie",
+      "latitudine": 44.610366,
+      "longitudine": 26.074575,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 345,
+      "nume": "Măcelărie",
+      "latitudine": 44.68961,
+      "longitudine": 26.144609,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 346,
+      "nume": "Măcelărie",
+      "latitudine": 44.86522,
+      "longitudine": 24.868031,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 347,
+      "nume": "Măcelărie",
+      "latitudine": 45.128993,
+      "longitudine": 24.67437,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 348,
+      "nume": "Măcelărie",
+      "latitudine": 45.134282,
+      "longitudine": 27.476945,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 349,
+      "nume": "Măcelărie",
+      "latitudine": 45.153429,
+      "longitudine": 26.791736,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 350,
+      "nume": "Măcelărie",
+      "latitudine": 45.158888,
+      "longitudine": 26.821545,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 351,
+      "nume": "Măcelărie",
+      "latitudine": 45.760595,
+      "longitudine": 21.111835,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 352,
+      "nume": "Măcelărie",
+      "latitudine": 45.782154,
+      "longitudine": 24.158613,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 353,
+      "nume": "Măcelărie",
+      "latitudine": 47.162884,
+      "longitudine": 27.604904,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 354,
+      "nume": "Măcelărie  La Nea Paul",
+      "latitudine": 44.462686,
+      "longitudine": 26.328757,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 355,
+      "nume": "Măcelărie \"La Tăicu\"",
+      "latitudine": 44.369131,
+      "longitudine": 25.973696,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 356,
+      "nume": "Măcelărie - Carmangerie",
+      "latitudine": 44.428943,
+      "longitudine": 26.170122,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 357,
+      "nume": "Măcelărie Arăbească",
+      "latitudine": 45.731647,
+      "longitudine": 21.235354,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 358,
+      "nume": "Măcelărie Atelierul de pastramă",
+      "latitudine": 44.416514,
+      "longitudine": 26.130075,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 359,
+      "nume": "Măcelărie Cetina",
+      "latitudine": 47.164409,
+      "longitudine": 22.87018,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 360,
+      "nume": "Măcelărie Halal",
+      "latitudine": 44.414657,
+      "longitudine": 26.133513,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 361,
+      "nume": "Măcelărie La Cosmin",
+      "latitudine": 44.384381,
+      "longitudine": 26.110244,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 362,
+      "nume": "Măcelărie tradițională",
+      "latitudine": 47.161529,
+      "longitudine": 27.563022,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 363,
+      "nume": "Măcelăriile Cazacu",
+      "latitudine": 44.16931,
+      "longitudine": 24.521023,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 364,
+      "nume": "Măcerăria Monico",
+      "latitudine": 44.109675,
+      "longitudine": 25.592771,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 365,
+      "nume": "Nagy Géza Húsfeldolgozó",
+      "latitudine": 46.327535,
+      "longitudine": 25.893851,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 366,
+      "nume": "Nea Popa - Cârnați de Pleșcoi",
+      "latitudine": 45.240621,
+      "longitudine": 26.740203,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 367,
+      "nume": "Nica",
+      "latitudine": 44.11177,
+      "longitudine": 24.349311,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 368,
+      "nume": "Nora",
+      "latitudine": 45.774269,
+      "longitudine": 21.239374,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 369,
+      "nume": "Nora Carmangerie",
+      "latitudine": 45.830562,
+      "longitudine": 21.105494,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 370,
+      "nume": "Oltina",
+      "latitudine": 44.168993,
+      "longitudine": 24.520829,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 371,
+      "nume": "Oncos",
+      "latitudine": 46.572544,
+      "longitudine": 23.784873,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 372,
+      "nume": "Oncos",
+      "latitudine": 46.756311,
+      "longitudine": 23.558846,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 373,
+      "nume": "Oncos",
+      "latitudine": 47.161556,
+      "longitudine": 22.876889,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 374,
+      "nume": "Opcarne",
+      "latitudine": 44.142666,
+      "longitudine": 26.714098,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 375,
+      "nume": "Opcarne Stănculeasa",
+      "latitudine": 44.234543,
+      "longitudine": 26.464415,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 376,
+      "nume": "Partener Agil",
+      "latitudine": 45.774339,
+      "longitudine": 21.238958,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 377,
+      "nume": "Peneș",
+      "latitudine": 45.84248,
+      "longitudine": 24.97842,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 378,
+      "nume": "Peneș",
+      "latitudine": 47.151122,
+      "longitudine": 27.586098,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 379,
+      "nume": "Peneș",
+      "latitudine": 47.161409,
+      "longitudine": 27.569881,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 380,
+      "nume": "Peneș Curcanul",
+      "latitudine": 46.534251,
+      "longitudine": 24.584857,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 381,
+      "nume": "Periș",
+      "latitudine": 44.38763,
+      "longitudine": 26.108468,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 382,
+      "nume": "Periș",
+      "latitudine": 44.503438,
+      "longitudine": 25.989972,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 383,
+      "nume": "Petry",
+      "latitudine": 46.502462,
+      "longitudine": 24.491826,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 384,
+      "nume": "Petry",
+      "latitudine": 46.531817,
+      "longitudine": 24.558275,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 385,
+      "nume": "Petry",
+      "latitudine": 46.535201,
+      "longitudine": 24.58386,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 386,
+      "nume": "Petry",
+      "latitudine": 46.542973,
+      "longitudine": 24.558853,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 387,
+      "nume": "Petry",
+      "latitudine": 46.548436,
+      "longitudine": 24.56459,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 388,
+      "nume": "Petry",
+      "latitudine": 46.556518,
+      "longitudine": 24.572371,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 389,
+      "nume": "Petry",
+      "latitudine": 46.562599,
+      "longitudine": 24.547551,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 390,
+      "nume": "Petry",
+      "latitudine": 46.762893,
+      "longitudine": 23.613784,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 391,
+      "nume": "Petry",
+      "latitudine": 46.768401,
+      "longitudine": 23.599602,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 392,
+      "nume": "Petry",
+      "latitudine": 46.769484,
+      "longitudine": 23.591094,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 393,
+      "nume": "Petry",
+      "latitudine": 46.92325,
+      "longitudine": 25.351056,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 394,
+      "nume": "PION",
+      "latitudine": 44.933884,
+      "longitudine": 26.032075,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 395,
+      "nume": "Piu Piu",
+      "latitudine": 44.414471,
+      "longitudine": 26.164888,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 396,
+      "nume": "Piu-Piu Prod",
+      "latitudine": 44.383784,
+      "longitudine": 26.102278,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 397,
+      "nume": "Ponderosa",
+      "latitudine": 46.527221,
+      "longitudine": 24.560521,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 398,
+      "nume": "Porexim",
+      "latitudine": 44.638418,
+      "longitudine": 22.657634,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 399,
+      "nume": "Pravalia Lu' Gabioti",
+      "latitudine": 45.162936,
+      "longitudine": 26.815424,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 400,
+      "nume": "Preparate de la Moinești",
+      "latitudine": 46.57385,
+      "longitudine": 26.908253,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 401,
+      "nume": "Prestigio",
+      "latitudine": 44.94397,
+      "longitudine": 26.021373,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 402,
+      "nume": "Priceputu",
+      "latitudine": 44.387506,
+      "longitudine": 26.109001,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 403,
+      "nume": "Priceputu",
+      "latitudine": 44.391708,
+      "longitudine": 26.121251,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 404,
+      "nume": "Produse din Apahida",
+      "latitudine": 46.763436,
+      "longitudine": 23.615,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 405,
+      "nume": "Pui și curcan",
+      "latitudine": 44.382681,
+      "longitudine": 26.117663,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 406,
+      "nume": "Puiul de Crăiești",
+      "latitudine": 45.7685,
+      "longitudine": 24.126486,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 407,
+      "nume": "Puiul de Crăiești",
+      "latitudine": 46.523019,
+      "longitudine": 24.533308,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 408,
+      "nume": "Puiul de Crăiești",
+      "latitudine": 46.532319,
+      "longitudine": 24.558882,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 409,
+      "nume": "Puiul de Crăiești",
+      "latitudine": 46.561134,
+      "longitudine": 24.547708,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 410,
+      "nume": "Puiul de Crăiești",
+      "latitudine": 46.736062,
+      "longitudine": 23.486494,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 411,
+      "nume": "Puiul de Crăiești",
+      "latitudine": 46.767112,
+      "longitudine": 23.624594,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 412,
+      "nume": "Puiul de Crăiești",
+      "latitudine": 46.923377,
+      "longitudine": 25.351317,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 413,
+      "nume": "Raimar",
+      "latitudine": 47.160043,
+      "longitudine": 27.570172,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 414,
+      "nume": "Raionul de Carne",
+      "latitudine": 44.434825,
+      "longitudine": 26.027993,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 415,
+      "nume": "Raitar",
+      "latitudine": 47.143369,
+      "longitudine": 27.577813,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 416,
+      "nume": "Raitar",
+      "latitudine": 47.1533,
+      "longitudine": 27.569404,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 417,
+      "nume": "Raitar",
+      "latitudine": 47.167046,
+      "longitudine": 27.547009,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 418,
+      "nume": "Raitar",
+      "latitudine": 47.346672,
+      "longitudine": 26.33873,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 419,
+      "nume": "Raitar",
+      "latitudine": 47.740553,
+      "longitudine": 26.657222,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 420,
+      "nume": "Rodinioară",
+      "latitudine": 47.211799,
+      "longitudine": 27.272344,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 421,
+      "nume": "Roger & Bunghez",
+      "latitudine": 46.28007,
+      "longitudine": 26.609991,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 422,
+      "nume": "Safari Expres",
+      "latitudine": 44.146174,
+      "longitudine": 28.619802,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 423,
+      "nume": "Sagrod",
+      "latitudine": 47.92178,
+      "longitudine": 25.675702,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 424,
+      "nume": "Sagrod Botoșani",
+      "latitudine": 47.142846,
+      "longitudine": 27.579024,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 425,
+      "nume": "Saltempo",
+      "latitudine": 45.260082,
+      "longitudine": 27.96443,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 426,
+      "nume": "Saltempo",
+      "latitudine": 45.271716,
+      "longitudine": 27.966804,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 427,
+      "nume": "Saltempo",
+      "latitudine": 45.271802,
+      "longitudine": 27.957564,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 428,
+      "nume": "Saltempo",
+      "latitudine": 45.304548,
+      "longitudine": 27.964123,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 429,
+      "nume": "Saltempo",
+      "latitudine": 45.414758,
+      "longitudine": 28.009051,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 430,
+      "nume": "Saltempo",
+      "latitudine": 45.430183,
+      "longitudine": 28.045955,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 431,
+      "nume": "Saltempo",
+      "latitudine": 45.444694,
+      "longitudine": 28.022734,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 432,
+      "nume": "Sanicoara",
+      "latitudine": 47.02713,
+      "longitudine": 23.901771,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 433,
+      "nume": "Sanicoara",
+      "latitudine": 47.028056,
+      "longitudine": 23.910695,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 434,
+      "nume": "Sasha&Vlad Company",
+      "latitudine": 44.415651,
+      "longitudine": 26.14071,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 435,
+      "nume": "SC Supercarn SRL",
+      "latitudine": 47.926264,
+      "longitudine": 23.879121,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 436,
+      "nume": "SC Vigheci și Bontea SRL",
+      "latitudine": 45.629873,
+      "longitudine": 25.484749,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 437,
+      "nume": "Scandia",
+      "latitudine": 45.79534,
+      "longitudine": 24.140101,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 438,
+      "nume": "Semar Trading",
+      "latitudine": 45.0339,
+      "longitudine": 25.874672,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 439,
+      "nume": "Sergiana",
+      "latitudine": 45.59294,
+      "longitudine": 25.462251,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 440,
+      "nume": "Sergiana",
+      "latitudine": 45.632219,
+      "longitudine": 25.634376,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 441,
+      "nume": "Sergiana",
+      "latitudine": 45.658469,
+      "longitudine": 25.589599,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 442,
+      "nume": "Sergiana",
+      "latitudine": 45.663669,
+      "longitudine": 25.56427,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 443,
+      "nume": "Sergiana",
+      "latitudine": 45.665112,
+      "longitudine": 25.589255,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 444,
+      "nume": "Sergiana",
+      "latitudine": 45.808577,
+      "longitudine": 24.149461,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 445,
+      "nume": "Sergiana Prodimpex",
+      "latitudine": 45.614518,
+      "longitudine": 25.320439,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 446,
+      "nume": "Sergiana Prăvălie",
+      "latitudine": 45.640534,
+      "longitudine": 25.616523,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 447,
+      "nume": "Sergiana Prăvălie",
+      "latitudine": 45.663059,
+      "longitudine": 25.630358,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 448,
+      "nume": "SOCIETATEA COMERCIALĂ KLE-MEL S.R.L.",
+      "latitudine": 45.874225,
+      "longitudine": 25.776481,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 449,
+      "nume": "Specialități ardelenești",
+      "latitudine": 45.740899,
+      "longitudine": 21.259032,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 450,
+      "nume": "Star Kervan",
+      "latitudine": 45.78682,
+      "longitudine": 21.236924,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 451,
+      "nume": "Stâna de Vaideeni - mezeluri",
+      "latitudine": 45.144279,
+      "longitudine": 24.002834,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 452,
+      "nume": "Supercarne",
+      "latitudine": 44.110905,
+      "longitudine": 24.353422,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 453,
+      "nume": "SuperStar",
+      "latitudine": 47.1746,
+      "longitudine": 27.543962,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 454,
+      "nume": "Superstar",
+      "latitudine": 47.836087,
+      "longitudine": 25.924689,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 455,
+      "nume": "Székely Falat",
+      "latitudine": 46.560609,
+      "longitudine": 24.547682,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 456,
+      "nume": "Székely Falat",
+      "latitudine": 46.721802,
+      "longitudine": 25.599697,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 457,
+      "nume": "TAVI MACELARU",
+      "latitudine": 44.404485,
+      "longitudine": 26.062546,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 458,
+      "nume": "Tejgheaua de carne",
+      "latitudine": 45.734251,
+      "longitudine": 21.238414,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 459,
+      "nume": "The Butcher",
+      "latitudine": 44.203244,
+      "longitudine": 28.648776,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 460,
+      "nume": "Tixi Măcelaru'",
+      "latitudine": 45.713615,
+      "longitudine": 25.684653,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 461,
+      "nume": "Top",
+      "latitudine": 45.437688,
+      "longitudine": 28.022531,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 462,
+      "nume": "Tordai",
+      "latitudine": 46.535316,
+      "longitudine": 24.595402,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 463,
+      "nume": "Transeuro",
+      "latitudine": 46.082716,
+      "longitudine": 23.583108,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 464,
+      "nume": "Transeuro",
+      "latitudine": 46.737396,
+      "longitudine": 23.482713,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 465,
+      "nume": "Transilvania - Carmangerie",
+      "latitudine": 45.570919,
+      "longitudine": 25.341889,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 466,
+      "nume": "Társak Boltja",
+      "latitudine": 46.718532,
+      "longitudine": 25.602485,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 467,
+      "nume": "Társak Boltja",
+      "latitudine": 46.725181,
+      "longitudine": 25.606505,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 468,
+      "nume": "Unchiul și nepoții",
+      "latitudine": 44.382423,
+      "longitudine": 26.117737,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 469,
+      "nume": "Urcarn",
+      "latitudine": 46.547566,
+      "longitudine": 23.886591,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 470,
+      "nume": "Urcarn",
+      "latitudine": 46.557108,
+      "longitudine": 23.806963,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 471,
+      "nume": "Urcarn",
+      "latitudine": 46.573094,
+      "longitudine": 23.78528,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 472,
+      "nume": "Vanbet",
+      "latitudine": 47.167606,
+      "longitudine": 27.548443,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 473,
+      "nume": "Vascar",
+      "latitudine": 47.138495,
+      "longitudine": 27.578219,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 474,
+      "nume": "Vascar",
+      "latitudine": 47.143074,
+      "longitudine": 27.579403,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 475,
+      "nume": "Vascar",
+      "latitudine": 47.146409,
+      "longitudine": 27.591184,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 476,
+      "nume": "Vechea Măcelărie",
+      "latitudine": 44.313428,
+      "longitudine": 23.828758,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 477,
+      "nume": "Venturelli PIG Farm",
+      "latitudine": 45.738937,
+      "longitudine": 24.408718,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 478,
+      "nume": "Y&Y",
+      "latitudine": 46.925658,
+      "longitudine": 26.39388,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 479,
+      "nume": "Árterimpex",
+      "latitudine": 46.721792,
+      "longitudine": 25.599803,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 480,
+      "nume": "Дегустаційний зал родини Тізеш",
+      "latitudine": 48.030162,
+      "longitudine": 22.963848,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 481,
+      "nume": "Матијевић",
+      "latitudine": 44.762656,
+      "longitudine": 21.516252,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 482,
+      "nume": "Наша Ряба",
+      "latitudine": 48.01123,
+      "longitudine": 23.001463,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    },
+    {
+      "id": 483,
+      "nume": "Јухор",
+      "latitudine": 44.76169,
+      "longitudine": 21.514165,
+      "cheie_osm": "shop",
+      "valoare_osm": "butcher",
+      "categorie_osm": "shop=butcher"
+    }
+  ],
+  "meta": {
+    "title": "Măcelării din România - Descărcare gratuită",
+    "description": "Măcelării din România — 483 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `shop=butcher`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează. Conține 483 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Măcelării din România | ListBase",
+    "seo_description": "Descarcă Măcelării din România — 483 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 483 înregistrări / 7 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

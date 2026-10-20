@@ -1,0 +1,6172 @@
+{
+  "id": "ro-piete",
+  "name": "Piețe din România",
+  "title": "Piețe din România",
+  "description": "Piețe din România — 679 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `amenity=marketplace`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 679,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "latitudine",
+      "label": "Latitudine",
+      "type": "number"
+    },
+    {
+      "key": "longitudine",
+      "label": "Longitudine",
+      "type": "number"
+    },
+    {
+      "key": "cheie_osm",
+      "label": "Cheie Osm",
+      "type": "string"
+    },
+    {
+      "key": "valoare_osm",
+      "label": "Valoare Osm",
+      "type": "string"
+    },
+    {
+      "key": "categorie_osm",
+      "label": "Categorie Osm",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nume": ",,Iancu''",
+      "latitudine": 45.376904,
+      "longitudine": 21.721081,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 2,
+      "nume": "ABC...",
+      "latitudine": 44.114188,
+      "longitudine": 28.545971,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 3,
+      "nume": "ACA Market Pike Place",
+      "latitudine": 46.181438,
+      "longitudine": 21.320037,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 4,
+      "nume": "Actuala Piața Ruși",
+      "latitudine": 44.922793,
+      "longitudine": 25.442883,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 5,
+      "nume": "ADA SOR COM TOURS SRL",
+      "latitudine": 44.446796,
+      "longitudine": 25.751501,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 6,
+      "nume": "Agache București",
+      "latitudine": 44.450592,
+      "longitudine": 26.048198,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 7,
+      "nume": "Agricol",
+      "latitudine": 44.349307,
+      "longitudine": 26.03139,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 8,
+      "nume": "Agro Legume",
+      "latitudine": 44.928002,
+      "longitudine": 25.479546,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 9,
+      "nume": "Agroalimentare Piața Vulcan",
+      "latitudine": 45.376444,
+      "longitudine": 23.295442,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 10,
+      "nume": "Agroland Mega Remuș",
+      "latitudine": 43.941842,
+      "longitudine": 25.978886,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 11,
+      "nume": "Agroland Podu Turcului",
+      "latitudine": 46.20625,
+      "longitudine": 27.386629,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 12,
+      "nume": "Alafi",
+      "latitudine": 45.69343,
+      "longitudine": 21.892566,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 13,
+      "nume": "Alfalvi piac",
+      "latitudine": 46.705845,
+      "longitudine": 25.505991,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 14,
+      "nume": "Alimentara",
+      "latitudine": 45.656719,
+      "longitudine": 25.599647,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 15,
+      "nume": "ANGEL PAN - MAGAZIN MIXT",
+      "latitudine": 44.344817,
+      "longitudine": 24.85527,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 16,
+      "nume": "Angrosistul S.R.L. Depozit 2",
+      "latitudine": 45.120795,
+      "longitudine": 26.802185,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 17,
+      "nume": "Ariana",
+      "latitudine": 45.914076,
+      "longitudine": 22.88277,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 18,
+      "nume": "Bar Vadu Pașii",
+      "latitudine": 45.160712,
+      "longitudine": 26.881166,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 19,
+      "nume": "Baronul Pro Market",
+      "latitudine": 44.592388,
+      "longitudine": 24.928289,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 20,
+      "nume": "Bazar",
+      "latitudine": 43.843541,
+      "longitudine": 28.594241,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 21,
+      "nume": "Bazar",
+      "latitudine": 44.202396,
+      "longitudine": 27.311671,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 22,
+      "nume": "Bazar",
+      "latitudine": 45.844986,
+      "longitudine": 24.971635,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 23,
+      "nume": "Bazar",
+      "latitudine": 46.171129,
+      "longitudine": 21.310799,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 24,
+      "nume": "Bazar",
+      "latitudine": 47.660847,
+      "longitudine": 26.263291,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 25,
+      "nume": "Bazar Milcov",
+      "latitudine": 46.547395,
+      "longitudine": 26.921734,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 26,
+      "nume": "Bazarul Dunărea",
+      "latitudine": 44.63688,
+      "longitudine": 22.648982,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 27,
+      "nume": "Bian Market",
+      "latitudine": 45.146522,
+      "longitudine": 26.804853,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 28,
+      "nume": "BJ Market SRL",
+      "latitudine": 43.934061,
+      "longitudine": 25.977269,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 29,
+      "nume": "Bloc Mambo",
+      "latitudine": 44.850026,
+      "longitudine": 24.852554,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 30,
+      "nume": "Burneci",
+      "latitudine": 45.34928,
+      "longitudine": 21.832426,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 31,
+      "nume": "Cafe Bar",
+      "latitudine": 45.285935,
+      "longitudine": 26.683376,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 32,
+      "nume": "Carrefour Market",
+      "latitudine": 45.168901,
+      "longitudine": 28.796676,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 33,
+      "nume": "CBA",
+      "latitudine": 47.637209,
+      "longitudine": 22.323375,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 34,
+      "nume": "Chivu COM",
+      "latitudine": 45.337934,
+      "longitudine": 24.778779,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 35,
+      "nume": "Collini Com",
+      "latitudine": 45.376871,
+      "longitudine": 21.72093,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 36,
+      "nume": "Complex 1 Trivale",
+      "latitudine": 44.850068,
+      "longitudine": 24.854578,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 37,
+      "nume": "Complex agroalimentar Piața Reșița",
+      "latitudine": 44.379902,
+      "longitudine": 26.099429,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 38,
+      "nume": "Complex Comercial 2 Cocoși",
+      "latitudine": 44.170497,
+      "longitudine": 28.598633,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 39,
+      "nume": "Complex magazinul de la colt",
+      "latitudine": 44.917555,
+      "longitudine": 25.465123,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 40,
+      "nume": "Complex Micro 40",
+      "latitudine": 45.45038,
+      "longitudine": 28.025323,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 41,
+      "nume": "Comservice SRL",
+      "latitudine": 43.789214,
+      "longitudine": 25.141399,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 42,
+      "nume": "Constalaris",
+      "latitudine": 44.412373,
+      "longitudine": 26.138041,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 43,
+      "nume": "Contour",
+      "latitudine": 45.75921,
+      "longitudine": 21.026595,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 44,
+      "nume": "Cooperativa de consum Ungheni",
+      "latitudine": 44.497007,
+      "longitudine": 24.961626,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 45,
+      "nume": "Cronos",
+      "latitudine": 45.176179,
+      "longitudine": 28.801875,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 46,
+      "nume": "D.R. - PIAȚA AGROALIMENTARĂ",
+      "latitudine": 46.211123,
+      "longitudine": 26.443339,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 47,
+      "nume": "Dina Market",
+      "latitudine": 44.112135,
+      "longitudine": 28.552555,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 48,
+      "nume": "Dodo Market",
+      "latitudine": 45.217611,
+      "longitudine": 26.652037,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 49,
+      "nume": "Electroprecizia market",
+      "latitudine": 45.61558,
+      "longitudine": 25.720094,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 50,
+      "nume": "Eleki Piac",
+      "latitudine": 46.528518,
+      "longitudine": 21.25025,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 51,
+      "nume": "EnGros Microhala",
+      "latitudine": 45.26387,
+      "longitudine": 27.954382,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 52,
+      "nume": "Eurovenus Târg Auto și Bazar",
+      "latitudine": 45.787919,
+      "longitudine": 22.914109,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 53,
+      "nume": "Expo Market Jackson",
+      "latitudine": 46.184302,
+      "longitudine": 21.306401,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 54,
+      "nume": "Expo Market Jakson",
+      "latitudine": 46.184697,
+      "longitudine": 21.306732,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 55,
+      "nume": "Fel De Fel",
+      "latitudine": 44.112153,
+      "longitudine": 28.557726,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 56,
+      "nume": "Festivalul Cașcavelei Valea Doftanei",
+      "latitudine": 45.337753,
+      "longitudine": 25.72423,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 57,
+      "nume": "Fier Vechi",
+      "latitudine": 47.779669,
+      "longitudine": 22.877352,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 58,
+      "nume": "First hand",
+      "latitudine": 45.917314,
+      "longitudine": 22.884905,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 59,
+      "nume": "Florex",
+      "latitudine": 47.245514,
+      "longitudine": 24.017059,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 60,
+      "nume": "Florărie",
+      "latitudine": 45.353244,
+      "longitudine": 26.040282,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 61,
+      "nume": "Fortuna - Market",
+      "latitudine": 45.163951,
+      "longitudine": 26.78747,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 62,
+      "nume": "Fraher",
+      "latitudine": 45.087789,
+      "longitudine": 29.086669,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 63,
+      "nume": "Gino Market",
+      "latitudine": 45.935242,
+      "longitudine": 27.046958,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 64,
+      "nume": "Grădiniță",
+      "latitudine": 44.742484,
+      "longitudine": 28.72472,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 65,
+      "nume": "Habermann Market",
+      "latitudine": 45.790748,
+      "longitudine": 24.150976,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 66,
+      "nume": "Hala Agroalimentară Hermes",
+      "latitudine": 46.763473,
+      "longitudine": 23.614922,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 67,
+      "nume": "Hala de carne",
+      "latitudine": 44.320642,
+      "longitudine": 23.806615,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 68,
+      "nume": "Hala de legume",
+      "latitudine": 47.742917,
+      "longitudine": 26.667897,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 69,
+      "nume": "Hala de pește",
+      "latitudine": 47.743049,
+      "longitudine": 26.667505,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 70,
+      "nume": "Hala Nouă",
+      "latitudine": 47.743639,
+      "longitudine": 26.667608,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 71,
+      "nume": "Hala Obor",
+      "latitudine": 44.449193,
+      "longitudine": 26.129372,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 72,
+      "nume": "Hala Obor",
+      "latitudine": 45.750718,
+      "longitudine": 22.901375,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 73,
+      "nume": "Hala Piața",
+      "latitudine": 46.921039,
+      "longitudine": 25.350375,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 74,
+      "nume": "Halele Centrale",
+      "latitudine": 44.943556,
+      "longitudine": 26.021585,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 75,
+      "nume": "Han Arena Srl",
+      "latitudine": 45.946771,
+      "longitudine": 27.036713,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 76,
+      "nume": "Harmony Decor",
+      "latitudine": 44.353753,
+      "longitudine": 23.807113,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 77,
+      "nume": "Interdax SRL",
+      "latitudine": 46.24762,
+      "longitudine": 24.053654,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 78,
+      "nume": "Kligor",
+      "latitudine": 45.838485,
+      "longitudine": 27.434584,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 79,
+      "nume": "La Berze",
+      "latitudine": 45.843614,
+      "longitudine": 23.198001,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 80,
+      "nume": "La Doi Pași",
+      "latitudine": 45.322042,
+      "longitudine": 26.184829,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 81,
+      "nume": "La Marga",
+      "latitudine": 44.147643,
+      "longitudine": 28.622858,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 82,
+      "nume": "La polar",
+      "latitudine": 44.143362,
+      "longitudine": 28.631647,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 83,
+      "nume": "La Zarzaulea",
+      "latitudine": 45.236958,
+      "longitudine": 26.744286,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 84,
+      "nume": "LIDER DISTRICONS",
+      "latitudine": 45.158988,
+      "longitudine": 26.806277,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 85,
+      "nume": "Magazin Alimentar",
+      "latitudine": 44.118393,
+      "longitudine": 28.566676,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 86,
+      "nume": "Magazin Alimentar",
+      "latitudine": 45.143346,
+      "longitudine": 26.824514,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 87,
+      "nume": "Magazin alimentar",
+      "latitudine": 45.317081,
+      "longitudine": 26.38587,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 88,
+      "nume": "Magazin alimentar",
+      "latitudine": 45.317337,
+      "longitudine": 26.375431,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 89,
+      "nume": "Magazin Alimentar",
+      "latitudine": 45.490702,
+      "longitudine": 26.640122,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 90,
+      "nume": "Magazin Alimentar",
+      "latitudine": 47.674067,
+      "longitudine": 26.285066,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 91,
+      "nume": "Magazin Alimentar - Mini Market",
+      "latitudine": 45.16154,
+      "longitudine": 26.794093,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 92,
+      "nume": "Magazin alimentar Gara",
+      "latitudine": 45.143145,
+      "longitudine": 26.827053,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 93,
+      "nume": "Magazin Alimentar la Sturzu",
+      "latitudine": 45.282725,
+      "longitudine": 26.551288,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 94,
+      "nume": "Magazin Bar",
+      "latitudine": 45.329516,
+      "longitudine": 26.490499,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 95,
+      "nume": "Magazin materiale de construcție",
+      "latitudine": 45.251382,
+      "longitudine": 26.705082,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 96,
+      "nume": "Magazin Mixt",
+      "latitudine": 44.679954,
+      "longitudine": 26.404778,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 97,
+      "nume": "Magazin Mixt",
+      "latitudine": 45.158384,
+      "longitudine": 26.824227,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 98,
+      "nume": "Magazin mixt",
+      "latitudine": 45.253141,
+      "longitudine": 26.704282,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 99,
+      "nume": "Magazin Mixt",
+      "latitudine": 45.322719,
+      "longitudine": 26.040063,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 100,
+      "nume": "Magazin mixt",
+      "latitudine": 46.85556,
+      "longitudine": 24.652394,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 101,
+      "nume": "Magazin Mixt",
+      "latitudine": 47.537512,
+      "longitudine": 25.396119,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 102,
+      "nume": "Magazin Mixt - Dobre",
+      "latitudine": 45.250592,
+      "longitudine": 26.704165,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 103,
+      "nume": "Magazin Mixt Carmen Cereal",
+      "latitudine": 45.258595,
+      "longitudine": 26.360771,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 104,
+      "nume": "Magazin Universal - La Seby",
+      "latitudine": 45.237547,
+      "longitudine": 26.744679,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 105,
+      "nume": "Magazinul lui Rusu",
+      "latitudine": 45.249896,
+      "longitudine": 26.700726,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 106,
+      "nume": "Mariano",
+      "latitudine": 43.941593,
+      "longitudine": 25.976109,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 107,
+      "nume": "Market Absolut",
+      "latitudine": 44.437966,
+      "longitudine": 26.197058,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 108,
+      "nume": "Market Denisa",
+      "latitudine": 46.465852,
+      "longitudine": 26.534547,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 109,
+      "nume": "Market Juunior",
+      "latitudine": 45.158307,
+      "longitudine": 26.793536,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 110,
+      "nume": "Market La Jon",
+      "latitudine": 43.942747,
+      "longitudine": 25.978463,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 111,
+      "nume": "Mega Image",
+      "latitudine": 44.430347,
+      "longitudine": 26.166121,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 112,
+      "nume": "Mega Image",
+      "latitudine": 45.905837,
+      "longitudine": 27.090226,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 113,
+      "nume": "Micropiața CEAIR",
+      "latitudine": 44.860139,
+      "longitudine": 24.873142,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 114,
+      "nume": "Mini Market",
+      "latitudine": 44.113371,
+      "longitudine": 28.565617,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 115,
+      "nume": "Mini Market",
+      "latitudine": 44.113841,
+      "longitudine": 28.557697,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 116,
+      "nume": "mini market",
+      "latitudine": 44.392249,
+      "longitudine": 26.047697,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 117,
+      "nume": "mini market",
+      "latitudine": 44.498896,
+      "longitudine": 26.20341,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 118,
+      "nume": "Mini Market Dobrica",
+      "latitudine": 45.248284,
+      "longitudine": 26.696376,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 119,
+      "nume": "Mini Market Gura Văii",
+      "latitudine": 45.374549,
+      "longitudine": 26.666599,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 120,
+      "nume": "Mini Market Primordial",
+      "latitudine": 44.111945,
+      "longitudine": 28.563875,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 121,
+      "nume": "Mini Piața Foișorului",
+      "latitudine": 44.420565,
+      "longitudine": 26.121516,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 122,
+      "nume": "Mini-Market",
+      "latitudine": 44.680014,
+      "longitudine": 26.392293,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 123,
+      "nume": "Mini-Market",
+      "latitudine": 45.152585,
+      "longitudine": 26.819356,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 124,
+      "nume": "MINI_MARKET",
+      "latitudine": 44.454628,
+      "longitudine": 26.125892,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 125,
+      "nume": "Minimarket",
+      "latitudine": 45.635011,
+      "longitudine": 25.624306,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 126,
+      "nume": "Minimarket - Produse Alimentare și de uz caznic",
+      "latitudine": 45.135546,
+      "longitudine": 27.482749,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 127,
+      "nume": "Minimarket AF Steclaru",
+      "latitudine": 45.924503,
+      "longitudine": 27.04907,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 128,
+      "nume": "Minimarket BFM",
+      "latitudine": 45.931351,
+      "longitudine": 27.05216,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 129,
+      "nume": "Minimarket La Parc",
+      "latitudine": 45.149932,
+      "longitudine": 26.810888,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 130,
+      "nume": "Minimarket Mihai Constantin",
+      "latitudine": 45.249731,
+      "longitudine": 26.333102,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 131,
+      "nume": "Minimarket Muncelu",
+      "latitudine": 45.950692,
+      "longitudine": 27.031378,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 132,
+      "nume": "Minimarket PGM",
+      "latitudine": 45.950602,
+      "longitudine": 27.031486,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 133,
+      "nume": "Mocanasu",
+      "latitudine": 46.469231,
+      "longitudine": 26.484625,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 134,
+      "nume": "Mya Market",
+      "latitudine": 47.257736,
+      "longitudine": 26.670397,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 135,
+      "nume": "Non Stop Tache Lucia",
+      "latitudine": 45.143346,
+      "longitudine": 26.824646,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 136,
+      "nume": "NonFood market",
+      "latitudine": 46.972008,
+      "longitudine": 25.559566,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 137,
+      "nume": "Obor",
+      "latitudine": 44.202899,
+      "longitudine": 28.609656,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 138,
+      "nume": "Obor",
+      "latitudine": 44.946333,
+      "longitudine": 26.040798,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 139,
+      "nume": "Obor",
+      "latitudine": 45.841855,
+      "longitudine": 27.446897,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 140,
+      "nume": "Obor",
+      "latitudine": 47.19934,
+      "longitudine": 26.35833,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 141,
+      "nume": "Obor animale",
+      "latitudine": 46.20439,
+      "longitudine": 27.381982,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 142,
+      "nume": "Orizont",
+      "latitudine": 44.339345,
+      "longitudine": 23.781959,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 143,
+      "nume": "Piac",
+      "latitudine": 46.31247,
+      "longitudine": 25.309963,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 144,
+      "nume": "Piata",
+      "latitudine": 45.092296,
+      "longitudine": 26.576089,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 145,
+      "nume": "Piata - Iarmaroc",
+      "latitudine": 47.600259,
+      "longitudine": 27.152921,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 146,
+      "nume": "Piata 1 Decembrie 1918",
+      "latitudine": 44.416694,
+      "longitudine": 26.176665,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 147,
+      "nume": "Piata Agro-Alimentara Corabia",
+      "latitudine": 43.779695,
+      "longitudine": 24.501279,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 148,
+      "nume": "Piata Agroalimentara",
+      "latitudine": 44.820144,
+      "longitudine": 26.40961,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 149,
+      "nume": "Piata Agroalimentara",
+      "latitudine": 45.316953,
+      "longitudine": 26.359672,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 150,
+      "nume": "Piata Agroalimentara",
+      "latitudine": 45.500668,
+      "longitudine": 25.573902,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 151,
+      "nume": "Piata Agroalimentara",
+      "latitudine": 47.057199,
+      "longitudine": 22.399303,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 152,
+      "nume": "Piata Agroalimentara",
+      "latitudine": 47.345903,
+      "longitudine": 25.359337,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 153,
+      "nume": "Piata Agroalimentara Alesd",
+      "latitudine": 47.056689,
+      "longitudine": 22.399331,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 154,
+      "nume": "Piata agroalimentara Iara",
+      "latitudine": 46.556178,
+      "longitudine": 23.509915,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 155,
+      "nume": "Piata Agroalimentara Posada",
+      "latitudine": 45.151657,
+      "longitudine": 24.678501,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 156,
+      "nume": "Piata agroalimentară",
+      "latitudine": 46.385535,
+      "longitudine": 21.309555,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 157,
+      "nume": "Piata Agroalimentară Ivancea",
+      "latitudine": 45.162626,
+      "longitudine": 24.671857,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 158,
+      "nume": "Piata Centrala",
+      "latitudine": 44.918321,
+      "longitudine": 26.986447,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 159,
+      "nume": "Piata Centrala - Hale",
+      "latitudine": 45.437099,
+      "longitudine": 28.048206,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 160,
+      "nume": "Piata Centrala Motru",
+      "latitudine": 44.801994,
+      "longitudine": 22.970047,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 161,
+      "nume": "Piata Centrală",
+      "latitudine": 44.065599,
+      "longitudine": 28.229443,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 162,
+      "nume": "Piata Cibin",
+      "latitudine": 45.799255,
+      "longitudine": 24.144675,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 163,
+      "nume": "Piata Copălău",
+      "latitudine": 47.614122,
+      "longitudine": 26.843475,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 164,
+      "nume": "Piata Costana",
+      "latitudine": 47.69472,
+      "longitudine": 26.105269,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 165,
+      "nume": "Piata de fructe",
+      "latitudine": 47.683284,
+      "longitudine": 22.471592,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 166,
+      "nume": "Piata de vechituri",
+      "latitudine": 46.532828,
+      "longitudine": 22.45489,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 167,
+      "nume": "Piata de vechituri",
+      "latitudine": 47.805261,
+      "longitudine": 22.875381,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 168,
+      "nume": "Piata Desa",
+      "latitudine": 43.877542,
+      "longitudine": 23.030406,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 169,
+      "nume": "Piata Deta",
+      "latitudine": 45.386377,
+      "longitudine": 21.229091,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 170,
+      "nume": "Piata en-gros Schei",
+      "latitudine": 45.276602,
+      "longitudine": 25.051192,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 171,
+      "nume": "Piata Grui",
+      "latitudine": 45.28747,
+      "longitudine": 25.047558,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 172,
+      "nume": "Piata Gruia",
+      "latitudine": 44.273133,
+      "longitudine": 22.705493,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 173,
+      "nume": "Piata Imaia",
+      "latitudine": 44.345235,
+      "longitudine": 24.124421,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 174,
+      "nume": "Piata Mare",
+      "latitudine": 47.049799,
+      "longitudine": 21.940003,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 175,
+      "nume": "Piata Nasaud",
+      "latitudine": 47.283213,
+      "longitudine": 24.40611,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 176,
+      "nume": "Piata Obor",
+      "latitudine": 44.449952,
+      "longitudine": 26.130115,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 177,
+      "nume": "Piata sezoniera",
+      "latitudine": 47.473563,
+      "longitudine": 22.565403,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 178,
+      "nume": "Piata Stejarul",
+      "latitudine": 45.046743,
+      "longitudine": 25.95486,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 179,
+      "nume": "Piata Sud",
+      "latitudine": 46.552411,
+      "longitudine": 26.911765,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 180,
+      "nume": "Piata Unirii",
+      "latitudine": 44.337729,
+      "longitudine": 28.034613,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 181,
+      "nume": "Piata Unirii",
+      "latitudine": 46.547249,
+      "longitudine": 23.888934,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 182,
+      "nume": "Piata Vale Pascani",
+      "latitudine": 47.256545,
+      "longitudine": 26.720985,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 183,
+      "nume": "Piata Veche",
+      "latitudine": 44.189703,
+      "longitudine": 27.336822,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 184,
+      "nume": "Piata Veresti",
+      "latitudine": 47.60157,
+      "longitudine": 26.437846,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 185,
+      "nume": "Piata volanta",
+      "latitudine": 46.681854,
+      "longitudine": 23.029665,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 186,
+      "nume": "Piata Volanta Dumbravita",
+      "latitudine": 45.79956,
+      "longitudine": 21.250817,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 187,
+      "nume": "PIATA ZAHANA",
+      "latitudine": 44.43218,
+      "longitudine": 24.374332,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 188,
+      "nume": "Piaţa Agroalimentară Mediaş",
+      "latitudine": 46.165512,
+      "longitudine": 24.347951,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 189,
+      "nume": "Piața",
+      "latitudine": 43.748949,
+      "longitudine": 24.867707,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 190,
+      "nume": "Piața",
+      "latitudine": 44.034888,
+      "longitudine": 24.563205,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 191,
+      "nume": "Piața",
+      "latitudine": 45.13418,
+      "longitudine": 27.476202,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 192,
+      "nume": "Piața",
+      "latitudine": 45.415688,
+      "longitudine": 23.368238,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 193,
+      "nume": "Piața",
+      "latitudine": 46.597776,
+      "longitudine": 25.081775,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 194,
+      "nume": "Piața 1 Mai",
+      "latitudine": 44.307154,
+      "longitudine": 23.792682,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 195,
+      "nume": "Piața 1 Mai",
+      "latitudine": 44.458495,
+      "longitudine": 26.07798,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 196,
+      "nume": "Piața 1 Mai",
+      "latitudine": 46.786239,
+      "longitudine": 23.605354,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 197,
+      "nume": "Piața 1 Mai - Lactate",
+      "latitudine": 44.92196,
+      "longitudine": 25.465351,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 198,
+      "nume": "Piața 100 Obor",
+      "latitudine": 47.039703,
+      "longitudine": 21.909061,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 199,
+      "nume": "Piața 16 Februarie",
+      "latitudine": 44.484776,
+      "longitudine": 26.033234,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 200,
+      "nume": "Piața 23 August",
+      "latitudine": 44.433255,
+      "longitudine": 26.200049,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 201,
+      "nume": "Piața 9 Mai",
+      "latitudine": 44.928683,
+      "longitudine": 25.996768,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 202,
+      "nume": "Piața Agro Târg Praid",
+      "latitudine": 46.553783,
+      "longitudine": 25.123066,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 203,
+      "nume": "Piața Agro-alimentara",
+      "latitudine": 46.174895,
+      "longitudine": 23.925463,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 204,
+      "nume": "Piața agro-alimentară",
+      "latitudine": 46.471391,
+      "longitudine": 22.47527,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 205,
+      "nume": "Piața Agro-Alimentară Apateu",
+      "latitudine": 46.622181,
+      "longitudine": 21.775324,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 206,
+      "nume": "Piața Agro-Alimentară Tălmaciu",
+      "latitudine": 45.668397,
+      "longitudine": 24.25971,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 207,
+      "nume": "Piața Agroalimentara",
+      "latitudine": 44.189324,
+      "longitudine": 27.337332,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 208,
+      "nume": "Piața Agroalimentara",
+      "latitudine": 45.973506,
+      "longitudine": 24.627895,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 209,
+      "nume": "Piața Agroalimentara",
+      "latitudine": 46.520536,
+      "longitudine": 21.517315,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 210,
+      "nume": "Piața Agroalimentara Pârscov",
+      "latitudine": 45.288407,
+      "longitudine": 26.555218,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 211,
+      "nume": "Piața Agroalimentară",
+      "latitudine": 43.894656,
+      "longitudine": 25.956146,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 212,
+      "nume": "Piața Agroalimentară",
+      "latitudine": 44.112671,
+      "longitudine": 28.556554,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 213,
+      "nume": "Piața agroalimentară",
+      "latitudine": 44.184577,
+      "longitudine": 24.639606,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 214,
+      "nume": "Piața Agroalimentară",
+      "latitudine": 44.729797,
+      "longitudine": 22.401316,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 215,
+      "nume": "Piața Agroalimentară",
+      "latitudine": 44.864422,
+      "longitudine": 24.924137,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 216,
+      "nume": "Piața Agroalimentară",
+      "latitudine": 45.726903,
+      "longitudine": 24.37881,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 217,
+      "nume": "Piața agroalimentară",
+      "latitudine": 45.847849,
+      "longitudine": 27.432245,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 218,
+      "nume": "Piața Agroalimentară",
+      "latitudine": 45.875103,
+      "longitudine": 27.220327,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 219,
+      "nume": "Piața Agroalimentară",
+      "latitudine": 46.069722,
+      "longitudine": 20.628671,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 220,
+      "nume": "Piața agroalimentară",
+      "latitudine": 46.132371,
+      "longitudine": 22.789685,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 221,
+      "nume": "Piața Agroalimentară",
+      "latitudine": 46.20441,
+      "longitudine": 27.38441,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 222,
+      "nume": "Piața Agroalimentară",
+      "latitudine": 46.204429,
+      "longitudine": 27.383691,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 223,
+      "nume": "Piața Agroalimentară",
+      "latitudine": 46.211141,
+      "longitudine": 26.651024,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 224,
+      "nume": "Piața Agroalimentară",
+      "latitudine": 46.77276,
+      "longitudine": 21.929767,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 225,
+      "nume": "Piața Agroalimentară",
+      "latitudine": 46.777811,
+      "longitudine": 24.705808,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 226,
+      "nume": "Piața Agroalimentară",
+      "latitudine": 46.803931,
+      "longitudine": 21.664832,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 227,
+      "nume": "Piața Agroalimentară",
+      "latitudine": 46.836571,
+      "longitudine": 27.456118,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 228,
+      "nume": "Piața agroalimentară",
+      "latitudine": 47.026355,
+      "longitudine": 23.909873,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 229,
+      "nume": "Piața Agroalimentară",
+      "latitudine": 47.096411,
+      "longitudine": 27.561449,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 230,
+      "nume": "Piața Agroalimentară",
+      "latitudine": 47.161157,
+      "longitudine": 22.873576,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 231,
+      "nume": "Piața Agroalimentară",
+      "latitudine": 47.182639,
+      "longitudine": 24.177068,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 232,
+      "nume": "Piața Agroalimentară",
+      "latitudine": 47.207051,
+      "longitudine": 27.010371,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 233,
+      "nume": "Piața Agroalimentară",
+      "latitudine": 47.454892,
+      "longitudine": 23.859925,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 234,
+      "nume": "Piața Agroalimentară",
+      "latitudine": 47.554957,
+      "longitudine": 25.887726,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 235,
+      "nume": "Piața Agroalimentară",
+      "latitudine": 47.78997,
+      "longitudine": 27.200769,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 236,
+      "nume": "Piața Agroalimentară Adjud",
+      "latitudine": 46.099757,
+      "longitudine": 27.179487,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 237,
+      "nume": "Piața Agroalimentară Balș",
+      "latitudine": 44.350178,
+      "longitudine": 24.097397,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 238,
+      "nume": "Piața Agroalimentară Buftea",
+      "latitudine": 44.563241,
+      "longitudine": 25.945195,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 239,
+      "nume": "Piața Agroalimentară Bușteni",
+      "latitudine": 45.413783,
+      "longitudine": 25.534275,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 240,
+      "nume": "Piața Agroalimentară Caracal",
+      "latitudine": 44.111938,
+      "longitudine": 24.349686,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 241,
+      "nume": "Piața Agroalimentară Centrală",
+      "latitudine": 45.13942,
+      "longitudine": 24.674413,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 242,
+      "nume": "Piața Agroalimentară Centrală",
+      "latitudine": 47.179191,
+      "longitudine": 23.053069,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 243,
+      "nume": "Piața agroalimentară Costești",
+      "latitudine": 44.666431,
+      "longitudine": 24.8793,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 244,
+      "nume": "Piața Agroalimentară Danubiu",
+      "latitudine": 44.412752,
+      "longitudine": 26.141743,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 245,
+      "nume": "Piața Agroalimentară Decebal",
+      "latitudine": 47.138087,
+      "longitudine": 24.493703,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 246,
+      "nume": "Piața agroalimentară Dej",
+      "latitudine": 47.144373,
+      "longitudine": 23.872911,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 247,
+      "nume": "Piața agroalimentară Flora",
+      "latitudine": 46.757503,
+      "longitudine": 23.550877,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 248,
+      "nume": "Piața Agroalimentară Florești",
+      "latitudine": 46.737719,
+      "longitudine": 23.483129,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 249,
+      "nume": "Piața Agroalimentară Făgăraș",
+      "latitudine": 45.842631,
+      "longitudine": 24.973173,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 250,
+      "nume": "Piața Agroalimentară Gheată",
+      "latitudine": 44.487777,
+      "longitudine": 26.183369,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 251,
+      "nume": "Piața Agroalimentară Greci",
+      "latitudine": 45.190389,
+      "longitudine": 28.234642,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 252,
+      "nume": "Piața Agroalimentară Grigorescu",
+      "latitudine": 46.76606,
+      "longitudine": 23.549718,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 253,
+      "nume": "Piața agroalimentară Horezu",
+      "latitudine": 45.147832,
+      "longitudine": 23.991444,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 254,
+      "nume": "Piața Agroalimentară Huși",
+      "latitudine": 46.674612,
+      "longitudine": 28.063003,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 255,
+      "nume": "Piața agroalimentară Micro III",
+      "latitudine": 46.557817,
+      "longitudine": 23.817078,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 256,
+      "nume": "Piața Agroalimentară Mică",
+      "latitudine": 47.800269,
+      "longitudine": 22.880616,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 257,
+      "nume": "Piața Agroalimentară Măcin",
+      "latitudine": 45.24644,
+      "longitudine": 28.129065,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 258,
+      "nume": "Piața Agroalimentară Măneciu",
+      "latitudine": 45.313629,
+      "longitudine": 25.997001,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 259,
+      "nume": "Piața agroalimentară Mănăștur-Ion Meșter",
+      "latitudine": 46.75612,
+      "longitudine": 23.558921,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 260,
+      "nume": "Piața agroalimentară Mărăști",
+      "latitudine": 46.777135,
+      "longitudine": 23.611168,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 261,
+      "nume": "Piața Agroalimentară Neptun",
+      "latitudine": 44.39837,
+      "longitudine": 26.048126,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 262,
+      "nume": "Piața agroalimentară Nădrag",
+      "latitudine": 45.64835,
+      "longitudine": 22.191475,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 263,
+      "nume": "Piața Agroalimentară Onești",
+      "latitudine": 46.244966,
+      "longitudine": 26.766684,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 264,
+      "nume": "Piața Agroalimentară Pietrari",
+      "latitudine": 45.114363,
+      "longitudine": 24.111681,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 265,
+      "nume": "Piața Agroalimentară Pipera",
+      "latitudine": 44.499436,
+      "longitudine": 26.134965,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 266,
+      "nume": "Piața Agroalimentară Sadova",
+      "latitudine": 43.89708,
+      "longitudine": 23.938437,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 267,
+      "nume": "Piața Agroalimentară Segarcea",
+      "latitudine": 44.094628,
+      "longitudine": 23.743626,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 268,
+      "nume": "Piața Agroalimentară Sticla",
+      "latitudine": 45.723815,
+      "longitudine": 24.393832,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 269,
+      "nume": "Piața Agroalimentară Stupini",
+      "latitudine": 45.691672,
+      "longitudine": 25.584938,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 270,
+      "nume": "Piața agroalimentară Sânmihaiu Român",
+      "latitudine": 45.706319,
+      "longitudine": 21.091133,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 271,
+      "nume": "Piața Agroalimentară Săptămânală",
+      "latitudine": 46.516466,
+      "longitudine": 26.183476,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 272,
+      "nume": "Piața Agroalimentară Săptămânală Agăș",
+      "latitudine": 46.490625,
+      "longitudine": 26.215757,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 273,
+      "nume": "Piața Agroalimentară Tulnici",
+      "latitudine": 45.918833,
+      "longitudine": 26.673027,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 274,
+      "nume": "Piața agroalimentară Valu lui Traian",
+      "latitudine": 44.164268,
+      "longitudine": 28.473644,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 275,
+      "nume": "Piața agroalimentară Vașcău",
+      "latitudine": 46.471138,
+      "longitudine": 22.475398,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 276,
+      "nume": "Piața Agroalimentară Zimnicea",
+      "latitudine": 43.654733,
+      "longitudine": 25.361639,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 277,
+      "nume": "Piața agroalimentară „Timișul” Lugoj",
+      "latitudine": 45.68359,
+      "longitudine": 21.908832,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 278,
+      "nume": "Piața Agroalimetară",
+      "latitudine": 46.533531,
+      "longitudine": 22.454311,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 279,
+      "nume": "Piața agroindustrială Peciu Nou",
+      "latitudine": 45.6023,
+      "longitudine": 21.054262,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 280,
+      "nume": "Piața Aiud",
+      "latitudine": 46.310828,
+      "longitudine": 23.727273,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 281,
+      "nume": "Piața Alexandru cel Bun",
+      "latitudine": 47.161543,
+      "longitudine": 27.570437,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 282,
+      "nume": "Piața alimentară Independenței",
+      "latitudine": 47.168782,
+      "longitudine": 27.579641,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 283,
+      "nume": "Piața Amzei",
+      "latitudine": 44.444442,
+      "longitudine": 26.095067,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 284,
+      "nume": "Piața Apahida",
+      "latitudine": 46.798315,
+      "longitudine": 23.752954,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 285,
+      "nume": "Piața Apahida",
+      "latitudine": 46.798655,
+      "longitudine": 23.753431,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 286,
+      "nume": "Piața Apusului",
+      "latitudine": 44.438262,
+      "longitudine": 26.01444,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 287,
+      "nume": "Piața Armatei",
+      "latitudine": 46.538857,
+      "longitudine": 24.549101,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 288,
+      "nume": "Piața Artizante",
+      "latitudine": 44.989686,
+      "longitudine": 25.981288,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 289,
+      "nume": "Piața Astra",
+      "latitudine": 45.64188,
+      "longitudine": 25.630896,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 290,
+      "nume": "Piața Asău",
+      "latitudine": 46.436803,
+      "longitudine": 26.39957,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 291,
+      "nume": "Piața Aurora",
+      "latitudine": 45.733049,
+      "longitudine": 21.199563,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 292,
+      "nume": "Piața Aurora Vest",
+      "latitudine": 44.934427,
+      "longitudine": 25.987069,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 293,
+      "nume": "Piața Badea Cârțan",
+      "latitudine": 45.761448,
+      "longitudine": 21.248453,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 294,
+      "nume": "Piața Baia de Arieș",
+      "latitudine": 46.381267,
+      "longitudine": 23.282827,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 295,
+      "nume": "Piața Baia Sprie",
+      "latitudine": 47.661508,
+      "longitudine": 23.700577,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 296,
+      "nume": "Piața Balada",
+      "latitudine": 44.178153,
+      "longitudine": 28.637388,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 297,
+      "nume": "Piața Berceni - Olteniței",
+      "latitudine": 44.38553,
+      "longitudine": 26.129887,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 298,
+      "nume": "Piața Bilașcu",
+      "latitudine": 47.656808,
+      "longitudine": 23.563138,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 299,
+      "nume": "Piața Bistrița",
+      "latitudine": 46.931521,
+      "longitudine": 26.357329,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 300,
+      "nume": "Piața Bobocica",
+      "latitudine": 44.408808,
+      "longitudine": 26.140726,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 301,
+      "nume": "Piața Botoșani",
+      "latitudine": 47.739567,
+      "longitudine": 26.666694,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 302,
+      "nume": "Piața Bragadiru",
+      "latitudine": 44.372474,
+      "longitudine": 25.979139,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 303,
+      "nume": "Piața Brazda lui Novac",
+      "latitudine": 44.329113,
+      "longitudine": 23.804698,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 304,
+      "nume": "Piața Brotăcei",
+      "latitudine": 44.204373,
+      "longitudine": 28.625032,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 305,
+      "nume": "Piața Brădeanu",
+      "latitudine": 44.925833,
+      "longitudine": 26.860568,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 306,
+      "nume": "Piața Bulgarilor",
+      "latitudine": 43.990994,
+      "longitudine": 22.931694,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 307,
+      "nume": "Piața Buziaș",
+      "latitudine": 45.649407,
+      "longitudine": 21.599506,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 308,
+      "nume": "Piața Băbeni",
+      "latitudine": 44.973022,
+      "longitudine": 24.239369,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 309,
+      "nume": "Piața Băile Olănești",
+      "latitudine": 45.203756,
+      "longitudine": 24.242948,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 310,
+      "nume": "Piața Băneasa",
+      "latitudine": 44.494396,
+      "longitudine": 26.083975,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 311,
+      "nume": "Piața Calafatului",
+      "latitudine": 43.991074,
+      "longitudine": 22.932909,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 312,
+      "nume": "Piața Cartier Izvor",
+      "latitudine": 45.330466,
+      "longitudine": 25.558045,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 313,
+      "nume": "Piața CEAIR",
+      "latitudine": 44.86136,
+      "longitudine": 24.875601,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 314,
+      "nume": "Piața centrală",
+      "latitudine": 43.891482,
+      "longitudine": 25.968153,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 315,
+      "nume": "Piața Centrală",
+      "latitudine": 44.320284,
+      "longitudine": 23.8062,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 316,
+      "nume": "Piața Centrală",
+      "latitudine": 45.037272,
+      "longitudine": 23.26705,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 317,
+      "nume": "Piața Centrală",
+      "latitudine": 45.102178,
+      "longitudine": 24.364928,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 318,
+      "nume": "Piața Centrală",
+      "latitudine": 45.438299,
+      "longitudine": 28.048015,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 319,
+      "nume": "Piața Centrală",
+      "latitudine": 45.847673,
+      "longitudine": 27.432682,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 320,
+      "nume": "Piața Centrală",
+      "latitudine": 46.381597,
+      "longitudine": 23.857024,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 321,
+      "nume": "Piața Centrală",
+      "latitudine": 46.640893,
+      "longitudine": 27.732909,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 322,
+      "nume": "Piața Centrală",
+      "latitudine": 46.66574,
+      "longitudine": 22.34911,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 323,
+      "nume": "Piața Centrală",
+      "latitudine": 46.923846,
+      "longitudine": 26.369768,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 324,
+      "nume": "Piața Centrală",
+      "latitudine": 47.844388,
+      "longitudine": 25.913186,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 325,
+      "nume": "Piața Centrală",
+      "latitudine": 48.185641,
+      "longitudine": 26.595027,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 326,
+      "nume": "Piața Centrală (Hale)",
+      "latitudine": 44.944502,
+      "longitudine": 26.022194,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 327,
+      "nume": "Piața Centrală Agro-alimentară",
+      "latitudine": 45.860342,
+      "longitudine": 25.788387,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 328,
+      "nume": "Piața Centrală Agroalimentară",
+      "latitudine": 43.891465,
+      "longitudine": 25.968702,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 329,
+      "nume": "Piața centrală agroalimentară",
+      "latitudine": 46.571708,
+      "longitudine": 23.786933,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 330,
+      "nume": "Piața Centrală Bacău",
+      "latitudine": 46.5681,
+      "longitudine": 26.91429,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 331,
+      "nume": "Piața Centrală Câmpina",
+      "latitudine": 45.124838,
+      "longitudine": 25.73624,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 332,
+      "nume": "Piața Centrală Câmpulung",
+      "latitudine": 45.268399,
+      "longitudine": 25.040874,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 333,
+      "nume": "Piața centrală Sinaia",
+      "latitudine": 45.348315,
+      "longitudine": 25.549412,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 334,
+      "nume": "Piața Cernăuți",
+      "latitudine": 44.436991,
+      "longitudine": 26.161814,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 335,
+      "nume": "Piața Cetății",
+      "latitudine": 45.888441,
+      "longitudine": 22.901817,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 336,
+      "nume": "Piața Chiriac",
+      "latitudine": 44.309154,
+      "longitudine": 23.8057,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 337,
+      "nume": "Piața Chirilă",
+      "latitudine": 47.162929,
+      "longitudine": 27.604944,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 338,
+      "nume": "Piața Cina",
+      "latitudine": 44.951861,
+      "longitudine": 26.010573,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 339,
+      "nume": "Piața CIOCLOVINA ( fosta Micro 15 )",
+      "latitudine": 45.86308,
+      "longitudine": 22.906769,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 340,
+      "nume": "Piața Cireșica",
+      "latitudine": 44.211357,
+      "longitudine": 28.624215,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 341,
+      "nume": "Piața Civică 9 Mai",
+      "latitudine": 46.224511,
+      "longitudine": 27.671798,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 342,
+      "nume": "Piața Cocoș",
+      "latitudine": 44.942474,
+      "longitudine": 25.99024,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 343,
+      "nume": "Piața Codlea",
+      "latitudine": 45.701586,
+      "longitudine": 25.444502,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 344,
+      "nume": "Piața Colentina",
+      "latitudine": 44.464349,
+      "longitudine": 26.137255,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 345,
+      "nume": "Piața Comercială Târgu Mureș",
+      "latitudine": 46.527917,
+      "longitudine": 24.555161,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 346,
+      "nume": "Piața Complex 2",
+      "latitudine": 44.849876,
+      "longitudine": 24.848864,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 347,
+      "nume": "Piața comunală",
+      "latitudine": 43.728383,
+      "longitudine": 24.756654,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 348,
+      "nume": "Piața Comunală",
+      "latitudine": 45.233007,
+      "longitudine": 25.859772,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 349,
+      "nume": "Piața Concordiei",
+      "latitudine": 45.261758,
+      "longitudine": 27.964372,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 350,
+      "nume": "Piața Corund",
+      "latitudine": 46.471034,
+      "longitudine": 25.190171,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 351,
+      "nume": "Piața Cotroceni",
+      "latitudine": 44.432377,
+      "longitudine": 26.071826,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 352,
+      "nume": "Piața Covasna",
+      "latitudine": 44.378961,
+      "longitudine": 26.114473,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 353,
+      "nume": "Piața Coțușca",
+      "latitudine": 48.125673,
+      "longitudine": 26.856691,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 354,
+      "nume": "Piața Craiovei",
+      "latitudine": 44.844376,
+      "longitudine": 24.881392,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 355,
+      "nume": "Piața Crihala",
+      "latitudine": 44.63883,
+      "longitudine": 22.658248,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 356,
+      "nume": "Piața Crângași",
+      "latitudine": 44.452773,
+      "longitudine": 26.0486,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 357,
+      "nume": "Piața Curtici",
+      "latitudine": 46.341289,
+      "longitudine": 21.309217,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 358,
+      "nume": "Piața Cuza-Voda",
+      "latitudine": 44.562624,
+      "longitudine": 27.368028,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 359,
+      "nume": "Piața Câmpeni",
+      "latitudine": 46.363138,
+      "longitudine": 23.054138,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 360,
+      "nume": "Piața Căciulata",
+      "latitudine": 45.259802,
+      "longitudine": 24.321985,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 361,
+      "nume": "Piața Cărpiniș",
+      "latitudine": 45.792834,
+      "longitudine": 20.904197,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 362,
+      "nume": "Piața Dacia",
+      "latitudine": 45.658274,
+      "longitudine": 25.610978,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 363,
+      "nume": "Piața Dacia",
+      "latitudine": 45.765017,
+      "longitudine": 21.219507,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 364,
+      "nume": "Piața Dacia",
+      "latitudine": 46.537332,
+      "longitudine": 24.573584,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 365,
+      "nume": "Piața Dacia",
+      "latitudine": 47.169181,
+      "longitudine": 27.550139,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 366,
+      "nume": "Piața de Animale și Cereale",
+      "latitudine": 46.671926,
+      "longitudine": 22.363971,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 367,
+      "nume": "Piața de animale și flori Nicolae Bălcescu",
+      "latitudine": 45.740787,
+      "longitudine": 21.226381,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 368,
+      "nume": "Piața de Gros",
+      "latitudine": 45.766826,
+      "longitudine": 21.192239,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 369,
+      "nume": "Piața de haine",
+      "latitudine": 45.150374,
+      "longitudine": 26.820821,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 370,
+      "nume": "Piața de Legume",
+      "latitudine": 43.812902,
+      "longitudine": 28.583827,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 371,
+      "nume": "Piața de legume",
+      "latitudine": 45.113487,
+      "longitudine": 24.110466,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 372,
+      "nume": "Piața de legume",
+      "latitudine": 46.361063,
+      "longitudine": 25.799831,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 373,
+      "nume": "Piața de Legume Fructe",
+      "latitudine": 43.808191,
+      "longitudine": 28.57984,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 374,
+      "nume": "Piața de legume Trivale",
+      "latitudine": 44.849553,
+      "longitudine": 24.854678,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 375,
+      "nume": "Piața de legume și fructe",
+      "latitudine": 46.450262,
+      "longitudine": 24.226361,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 376,
+      "nume": "Piața de legume-fructe \"Nu mă uita\"",
+      "latitudine": 44.320559,
+      "longitudine": 26.179931,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 377,
+      "nume": "Piața de mașini Mehala",
+      "latitudine": 45.767868,
+      "longitudine": 21.194129,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 378,
+      "nume": "Piața de produse industriale",
+      "latitudine": 45.847162,
+      "longitudine": 27.433197,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 379,
+      "nume": "Piața de vechituri",
+      "latitudine": 45.407997,
+      "longitudine": 22.215896,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 380,
+      "nume": "Piața de vechituri",
+      "latitudine": 46.55231,
+      "longitudine": 24.550973,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 381,
+      "nume": "Piața de Zi",
+      "latitudine": 46.450005,
+      "longitudine": 24.226007,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 382,
+      "nume": "Piața de zi",
+      "latitudine": 46.471825,
+      "longitudine": 24.093688,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 383,
+      "nume": "Piața de zi \"Cuza Vodă\"",
+      "latitudine": 46.546754,
+      "longitudine": 24.552954,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 384,
+      "nume": "Piața Deal",
+      "latitudine": 47.245732,
+      "longitudine": 26.721195,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 385,
+      "nume": "Piața Decebal",
+      "latitudine": 47.065329,
+      "longitudine": 21.924577,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 386,
+      "nume": "Piața Decebal (Piața de Gros)",
+      "latitudine": 44.945721,
+      "longitudine": 26.022087,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 387,
+      "nume": "Piața Delfinului",
+      "latitudine": 44.444903,
+      "longitudine": 26.159265,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 388,
+      "nume": "Piața Desa",
+      "latitudine": 43.877424,
+      "longitudine": 23.030519,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 389,
+      "nume": "Piața Deva",
+      "latitudine": 45.881417,
+      "longitudine": 22.906499,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 390,
+      "nume": "Piața Diamant",
+      "latitudine": 46.53558,
+      "longitudine": 24.592261,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 391,
+      "nume": "Piața din Cochirleanca",
+      "latitudine": 45.211362,
+      "longitudine": 27.035282,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 392,
+      "nume": "Piața Ditrău",
+      "latitudine": 46.804295,
+      "longitudine": 25.494193,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 393,
+      "nume": "Piața Doina",
+      "latitudine": 45.73077,
+      "longitudine": 21.20939,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 394,
+      "nume": "Piața Domenii",
+      "latitudine": 44.465997,
+      "longitudine": 26.066816,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 395,
+      "nume": "Piața Dorobanți",
+      "latitudine": 44.461035,
+      "longitudine": 26.09418,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 396,
+      "nume": "Piața Dorohoi",
+      "latitudine": 47.952266,
+      "longitudine": 26.401237,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 397,
+      "nume": "Piața drepți între popoare",
+      "latitudine": 47.167485,
+      "longitudine": 27.574084,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 398,
+      "nume": "Piața Drumul Taberei",
+      "latitudine": 44.422975,
+      "longitudine": 26.036026,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 399,
+      "nume": "Piața Drumul Taberei II",
+      "latitudine": 44.423633,
+      "longitudine": 26.037458,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 400,
+      "nume": "Piața Drăgășani",
+      "latitudine": 44.659638,
+      "longitudine": 24.266148,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 401,
+      "nume": "Piața Dumbrava",
+      "latitudine": 47.19959,
+      "longitudine": 23.048518,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 402,
+      "nume": "Piața Dărmănești",
+      "latitudine": 46.940075,
+      "longitudine": 26.386041,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 403,
+      "nume": "Piața Eforie Nord",
+      "latitudine": 44.065682,
+      "longitudine": 28.632643,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 404,
+      "nume": "Piața En Gros",
+      "latitudine": 46.912689,
+      "longitudine": 26.391197,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 405,
+      "nume": "Piața En-Gros Antrefrig",
+      "latitudine": 44.446975,
+      "longitudine": 26.15095,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 406,
+      "nume": "Piața Eroilor",
+      "latitudine": 44.92911,
+      "longitudine": 25.43901,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 407,
+      "nume": "Piața Faleză",
+      "latitudine": 44.340066,
+      "longitudine": 28.029665,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 408,
+      "nume": "Piața Ferentari",
+      "latitudine": 44.398374,
+      "longitudine": 26.083509,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 409,
+      "nume": "Piața Flavia",
+      "latitudine": 45.731601,
+      "longitudine": 21.19886,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 410,
+      "nume": "Piața Floreasca",
+      "latitudine": 44.460519,
+      "longitudine": 26.100345,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 411,
+      "nume": "Piața Fortuna",
+      "latitudine": 46.200199,
+      "longitudine": 21.295023,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 412,
+      "nume": "Piața Franciselor",
+      "latitudine": 46.417236,
+      "longitudine": 26.453422,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 413,
+      "nume": "Piața Frații Buzești",
+      "latitudine": 44.430384,
+      "longitudine": 24.354873,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 414,
+      "nume": "Piața Fălticeni",
+      "latitudine": 47.460062,
+      "longitudine": 26.299153,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 415,
+      "nume": "Piața Gara",
+      "latitudine": 46.174866,
+      "longitudine": 23.908468,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 416,
+      "nume": "Piața Gemeni",
+      "latitudine": 44.445305,
+      "longitudine": 26.110685,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 417,
+      "nume": "Piața Giroc",
+      "latitudine": 45.73393,
+      "longitudine": 21.238513,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 418,
+      "nume": "Piața Giulești",
+      "latitudine": 44.466225,
+      "longitudine": 26.034875,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 419,
+      "nume": "Piața Gorjului",
+      "latitudine": 44.435269,
+      "longitudine": 26.019817,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 420,
+      "nume": "Piața Grădinari",
+      "latitudine": 45.123717,
+      "longitudine": 21.597454,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 421,
+      "nume": "Piața Grădiște",
+      "latitudine": 46.19138,
+      "longitudine": 21.330889,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 422,
+      "nume": "Piața Gugulanilor",
+      "latitudine": 45.408333,
+      "longitudine": 22.218037,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 423,
+      "nume": "Piața Gugulanilor",
+      "latitudine": 45.408392,
+      "longitudine": 22.217085,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 424,
+      "nume": "Piața Gării",
+      "latitudine": 44.327065,
+      "longitudine": 23.817659,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 425,
+      "nume": "Piața Gării",
+      "latitudine": 47.649912,
+      "longitudine": 23.553866,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 426,
+      "nume": "Piața Găvana",
+      "latitudine": 44.871083,
+      "longitudine": 24.844905,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 427,
+      "nume": "Piața Găzărie",
+      "latitudine": 46.48949,
+      "longitudine": 26.517933,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 428,
+      "nume": "Piața Hala Centrală",
+      "latitudine": 47.161048,
+      "longitudine": 27.590687,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 429,
+      "nume": "Piața Halelor (Mare)",
+      "latitudine": 45.272054,
+      "longitudine": 27.958823,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 430,
+      "nume": "Piața Huedin",
+      "latitudine": 46.862385,
+      "longitudine": 23.022543,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 431,
+      "nume": "Piața Huși",
+      "latitudine": 46.674509,
+      "longitudine": 28.063144,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 432,
+      "nume": "Piața Hârlău",
+      "latitudine": 47.428667,
+      "longitudine": 26.904791,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 433,
+      "nume": "Piața I.L. Caragiale",
+      "latitudine": 44.175438,
+      "longitudine": 28.620628,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 434,
+      "nume": "Piața Iara",
+      "latitudine": 46.556168,
+      "longitudine": 23.50984,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 435,
+      "nume": "Piața Ideal",
+      "latitudine": 44.961578,
+      "longitudine": 26.006665,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 436,
+      "nume": "Piața Ilie Verdeț",
+      "latitudine": 46.421857,
+      "longitudine": 26.44677,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 437,
+      "nume": "Piața Ion Ionescu de la Brad",
+      "latitudine": 45.777337,
+      "longitudine": 21.23521,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 438,
+      "nume": "Piața Iosefin",
+      "latitudine": 45.744825,
+      "longitudine": 21.207877,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 439,
+      "nume": "Piața Izbiceni",
+      "latitudine": 43.821837,
+      "longitudine": 24.662548,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 440,
+      "nume": "Piața Izvoarelor",
+      "latitudine": 47.655413,
+      "longitudine": 23.582268,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 441,
+      "nume": "Piața La Tănase",
+      "latitudine": 44.170463,
+      "longitudine": 28.598022,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 442,
+      "nume": "Piața Lehliu-Gară",
+      "latitudine": 44.439389,
+      "longitudine": 26.851983,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 443,
+      "nume": "Piața Libertății",
+      "latitudine": 45.852988,
+      "longitudine": 22.17201,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 444,
+      "nume": "Piața Libertății",
+      "latitudine": 46.537894,
+      "longitudine": 24.540846,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 445,
+      "nume": "Piața Locală",
+      "latitudine": 45.58473,
+      "longitudine": 27.76923,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 446,
+      "nume": "Piața Lovrin",
+      "latitudine": 45.970247,
+      "longitudine": 20.756565,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 447,
+      "nume": "Piața Lupeni",
+      "latitudine": 45.352851,
+      "longitudine": 23.208674,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 448,
+      "nume": "Piața Lupeni",
+      "latitudine": 46.376138,
+      "longitudine": 25.219425,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 449,
+      "nume": "Piața Malu Roșu",
+      "latitudine": 44.942838,
+      "longitudine": 25.997828,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 450,
+      "nume": "Piața Mare",
+      "latitudine": 44.320319,
+      "longitudine": 23.805871,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 451,
+      "nume": "Piața Mare",
+      "latitudine": 44.559692,
+      "longitudine": 27.356023,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 452,
+      "nume": "Piața Mare",
+      "latitudine": 46.169681,
+      "longitudine": 21.308663,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 453,
+      "nume": "Piața Mare",
+      "latitudine": 46.772161,
+      "longitudine": 24.693329,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 454,
+      "nume": "Piața Mare nr. 1",
+      "latitudine": 47.79261,
+      "longitudine": 22.868759,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 455,
+      "nume": "Piața Maria",
+      "latitudine": 46.665736,
+      "longitudine": 22.356487,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 456,
+      "nume": "Piața Matache",
+      "latitudine": 44.444792,
+      "longitudine": 26.080246,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 457,
+      "nume": "Piața Matache - hala 1",
+      "latitudine": 44.44487,
+      "longitudine": 26.080382,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 458,
+      "nume": "Piața Matache - hala 2",
+      "latitudine": 44.444454,
+      "longitudine": 26.080092,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 459,
+      "nume": "Piața Matei Ambrozie",
+      "latitudine": 44.415221,
+      "longitudine": 26.154356,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 460,
+      "nume": "Piața Mehala",
+      "latitudine": 45.768746,
+      "longitudine": 21.195116,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 461,
+      "nume": "Piața Mehala 2",
+      "latitudine": 45.770674,
+      "longitudine": 21.196068,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 462,
+      "nume": "Piața Meva",
+      "latitudine": 44.637092,
+      "longitudine": 22.666577,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 463,
+      "nume": "Piața Micro 14",
+      "latitudine": 45.15358,
+      "longitudine": 26.796035,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 464,
+      "nume": "Piața Micro 17",
+      "latitudine": 47.780983,
+      "longitudine": 22.892616,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 465,
+      "nume": "Piața Micro 19",
+      "latitudine": 45.41501,
+      "longitudine": 28.015172,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 466,
+      "nume": "Piața Micro 5",
+      "latitudine": 45.146653,
+      "longitudine": 26.837789,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 467,
+      "nume": "Piața Mică",
+      "latitudine": 45.296421,
+      "longitudine": 21.87982,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 468,
+      "nume": "Piața Mică",
+      "latitudine": 46.237935,
+      "longitudine": 27.670141,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 469,
+      "nume": "Piața Mihai Bravu",
+      "latitudine": 44.939109,
+      "longitudine": 26.046883,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 470,
+      "nume": "Piața Mihai Viteazul",
+      "latitudine": 46.17933,
+      "longitudine": 21.316535,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 471,
+      "nume": "Piața Miorița",
+      "latitudine": 46.177548,
+      "longitudine": 21.347729,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 472,
+      "nume": "Piața Mioveni",
+      "latitudine": 44.960564,
+      "longitudine": 24.943049,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 473,
+      "nume": "Piața Mircea",
+      "latitudine": 44.628102,
+      "longitudine": 22.655294,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 474,
+      "nume": "Piața Mircea",
+      "latitudine": 44.628393,
+      "longitudine": 22.654706,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 475,
+      "nume": "Piața Mircea Eliade",
+      "latitudine": 46.075978,
+      "longitudine": 23.557954,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 476,
+      "nume": "Piața Mizil",
+      "latitudine": 45.000484,
+      "longitudine": 26.44593,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 477,
+      "nume": "Piața Moinești",
+      "latitudine": 46.473547,
+      "longitudine": 26.487369,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 478,
+      "nume": "Piața Moldovei",
+      "latitudine": 45.702181,
+      "longitudine": 27.184644,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 479,
+      "nume": "Piața Morarilor",
+      "latitudine": 44.437475,
+      "longitudine": 26.167408,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 480,
+      "nume": "Piața Moreni",
+      "latitudine": 44.985567,
+      "longitudine": 25.642294,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 481,
+      "nume": "Piața Mureșului",
+      "latitudine": 46.537213,
+      "longitudine": 23.888051,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 482,
+      "nume": "Piața Nehoiu",
+      "latitudine": 45.415816,
+      "longitudine": 26.302343,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 483,
+      "nume": "Piața Nicolina",
+      "latitudine": 47.145415,
+      "longitudine": 27.5901,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 484,
+      "nume": "Piața Nord",
+      "latitudine": 44.260807,
+      "longitudine": 28.263782,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 485,
+      "nume": "Piața Nord",
+      "latitudine": 44.953928,
+      "longitudine": 26.000253,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 486,
+      "nume": "Piața Nord",
+      "latitudine": 45.114722,
+      "longitudine": 24.364685,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 487,
+      "nume": "Piața Norilor",
+      "latitudine": 44.414734,
+      "longitudine": 26.107769,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 488,
+      "nume": "Piața Nouă",
+      "latitudine": 45.775008,
+      "longitudine": 21.238325,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 489,
+      "nume": "Piața Nădlac",
+      "latitudine": 46.168177,
+      "longitudine": 20.751506,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 490,
+      "nume": "Piața Obor",
+      "latitudine": 44.1786,
+      "longitudine": 28.63531,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 491,
+      "nume": "Piața Obor",
+      "latitudine": 45.750528,
+      "longitudine": 22.901389,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 492,
+      "nume": "Piața Obor",
+      "latitudine": 46.171689,
+      "longitudine": 21.291109,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 493,
+      "nume": "Piața Obor",
+      "latitudine": 46.173003,
+      "longitudine": 21.290689,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 494,
+      "nume": "Piața Odobești",
+      "latitudine": 45.759827,
+      "longitudine": 27.064697,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 495,
+      "nume": "Piața Orașului",
+      "latitudine": 47.559071,
+      "longitudine": 26.900804,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 496,
+      "nume": "Piața Orizont",
+      "latitudine": 44.204206,
+      "longitudine": 27.315066,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 497,
+      "nume": "Piața Orizont",
+      "latitudine": 44.425807,
+      "longitudine": 26.05159,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 498,
+      "nume": "Piața Oser",
+      "latitudine": 46.790918,
+      "longitudine": 23.624911,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 499,
+      "nume": "Piața Ostroveni",
+      "latitudine": 45.094663,
+      "longitudine": 24.373337,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 500,
+      "nume": "Piața Otopeni",
+      "latitudine": 44.55164,
+      "longitudine": 26.072981,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 501,
+      "nume": "Piața Pajura",
+      "latitudine": 44.482658,
+      "longitudine": 26.047571,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 502,
+      "nume": "Piața Panciu 1",
+      "latitudine": 45.905846,
+      "longitudine": 27.088099,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 503,
+      "nume": "Piața Panciu 2",
+      "latitudine": 45.905035,
+      "longitudine": 27.088067,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 504,
+      "nume": "Piața Pescăruș",
+      "latitudine": 44.199285,
+      "longitudine": 28.650546,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 505,
+      "nume": "Piața Petrila",
+      "latitudine": 45.444539,
+      "longitudine": 23.378912,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 506,
+      "nume": "Piața Piatra",
+      "latitudine": 43.80142,
+      "longitudine": 25.166753,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 507,
+      "nume": "Piața Plenița",
+      "latitudine": 44.224396,
+      "longitudine": 23.185594,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 508,
+      "nume": "Piața Poiana Mare",
+      "latitudine": 43.918267,
+      "longitudine": 23.069181,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 509,
+      "nume": "Piața produse Nealimentare",
+      "latitudine": 45.672963,
+      "longitudine": 26.034548,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 510,
+      "nume": "Piața Progresul",
+      "latitudine": 44.392276,
+      "longitudine": 26.094032,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 511,
+      "nume": "Piața Progresului",
+      "latitudine": 46.919572,
+      "longitudine": 26.383366,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 512,
+      "nume": "Piața publică - public marketplace",
+      "latitudine": 44.140428,
+      "longitudine": 22.930031,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 513,
+      "nume": "Piața Păcurari",
+      "latitudine": 47.17562,
+      "longitudine": 27.551833,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 514,
+      "nume": "Piața Radu Negru",
+      "latitudine": 45.242759,
+      "longitudine": 27.941958,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 515,
+      "nume": "Piața Rahova",
+      "latitudine": 44.404579,
+      "longitudine": 26.062515,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 516,
+      "nume": "Piața Rahovei",
+      "latitudine": 45.776878,
+      "longitudine": 24.157516,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 517,
+      "nume": "Piața Reșița Nord",
+      "latitudine": 45.323683,
+      "longitudine": 21.871784,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 518,
+      "nume": "Piața Reșița Sud",
+      "latitudine": 45.291293,
+      "longitudine": 21.888664,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 519,
+      "nume": "Piața Rociu",
+      "latitudine": 44.664698,
+      "longitudine": 25.035976,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 520,
+      "nume": "Piața Rogerius",
+      "latitudine": 47.076804,
+      "longitudine": 21.917998,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 521,
+      "nume": "Piața Rovine",
+      "latitudine": 44.320464,
+      "longitudine": 23.825039,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 522,
+      "nume": "Piața Râmnicu Sărat",
+      "latitudine": 44.418557,
+      "longitudine": 26.146102,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 523,
+      "nume": "Piața Răducăneni",
+      "latitudine": 46.956781,
+      "longitudine": 27.942791,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 524,
+      "nume": "Piața satului Colibași",
+      "latitudine": 45.716502,
+      "longitudine": 28.173429,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 525,
+      "nume": "Piața Sebeș",
+      "latitudine": 45.961,
+      "longitudine": 23.568835,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 526,
+      "nume": "Piața Sf. Gheorghe",
+      "latitudine": 45.17404,
+      "longitudine": 28.805245,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 527,
+      "nume": "Piața Sighișoara",
+      "latitudine": 46.222906,
+      "longitudine": 24.789253,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 528,
+      "nume": "Piața Sighișoara-Est",
+      "latitudine": 46.226455,
+      "longitudine": 24.811456,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 529,
+      "nume": "Piața Smirodava",
+      "latitudine": 46.926718,
+      "longitudine": 26.937478,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 530,
+      "nume": "Piața Smârdan",
+      "latitudine": 44.845061,
+      "longitudine": 24.886138,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 531,
+      "nume": "Piața Soarelui",
+      "latitudine": 45.733089,
+      "longitudine": 21.248913,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 532,
+      "nume": "Piața Someș",
+      "latitudine": 47.782062,
+      "longitudine": 22.864844,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 533,
+      "nume": "Piața Star",
+      "latitudine": 45.644101,
+      "longitudine": 25.598208,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 534,
+      "nume": "Piața Stejarul",
+      "latitudine": 45.046774,
+      "longitudine": 25.954942,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 535,
+      "nume": "Piața Străduinței",
+      "latitudine": 44.382431,
+      "longitudine": 26.117231,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 536,
+      "nume": "Piața Studioului",
+      "latitudine": 44.572846,
+      "longitudine": 25.937543,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 537,
+      "nume": "Piața Stâlpeni",
+      "latitudine": 45.038345,
+      "longitudine": 24.975846,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 538,
+      "nume": "Piața Sud",
+      "latitudine": 44.926118,
+      "longitudine": 26.030691,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 539,
+      "nume": "Piața Sud",
+      "latitudine": 45.680129,
+      "longitudine": 27.181265,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 540,
+      "nume": "Piața Sudului",
+      "latitudine": 44.391964,
+      "longitudine": 26.121078,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 541,
+      "nume": "Piața Sudului",
+      "latitudine": 47.134733,
+      "longitudine": 27.576636,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 542,
+      "nume": "Piața Sulița",
+      "latitudine": 47.641891,
+      "longitudine": 26.93305,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 543,
+      "nume": "Piața săptămânală agroalimentară",
+      "latitudine": 46.475947,
+      "longitudine": 24.091973,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 544,
+      "nume": "Piața Săracă",
+      "latitudine": 45.284289,
+      "longitudine": 27.970007,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 545,
+      "nume": "Piața Tic-Tac",
+      "latitudine": 44.207978,
+      "longitudine": 28.623023,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 546,
+      "nume": "Piața Timișoara 700",
+      "latitudine": 45.757168,
+      "longitudine": 21.223048,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 547,
+      "nume": "Piața Timken",
+      "latitudine": 44.921078,
+      "longitudine": 26.03566,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 548,
+      "nume": "Piața Timpuri Noi",
+      "latitudine": 44.413059,
+      "longitudine": 26.114762,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 549,
+      "nume": "Piața Titan - Complex Agroalimentar Titan 1",
+      "latitudine": 44.414131,
+      "longitudine": 26.164872,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 550,
+      "nume": "Piața Tomis 3",
+      "latitudine": 44.200935,
+      "longitudine": 28.628523,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 551,
+      "nume": "Piața Tordai Sándor András",
+      "latitudine": 45.88058,
+      "longitudine": 22.897599,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 552,
+      "nume": "Piața Tormac",
+      "latitudine": 45.521238,
+      "longitudine": 21.492822,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 553,
+      "nume": "Piața Tractorul",
+      "latitudine": 45.665794,
+      "longitudine": 25.603985,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 554,
+      "nume": "Piața Traian",
+      "latitudine": 44.432805,
+      "longitudine": 26.120041,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 555,
+      "nume": "Piața Traian",
+      "latitudine": 44.850996,
+      "longitudine": 24.870627,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 556,
+      "nume": "Piața Traian",
+      "latitudine": 45.647576,
+      "longitudine": 25.623711,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 557,
+      "nume": "Piața Traian",
+      "latitudine": 46.636615,
+      "longitudine": 27.72497,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 558,
+      "nume": "Piața Trapezului",
+      "latitudine": 44.410433,
+      "longitudine": 26.17285,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 559,
+      "nume": "Piața Trivale",
+      "latitudine": 44.849908,
+      "longitudine": 24.854638,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 560,
+      "nume": "Piața Târnăveni",
+      "latitudine": 46.327984,
+      "longitudine": 24.283078,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 561,
+      "nume": "Piața Unirii",
+      "latitudine": 46.561494,
+      "longitudine": 24.547984,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 562,
+      "nume": "Piața Unu",
+      "latitudine": 44.42343,
+      "longitudine": 26.134065,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 563,
+      "nume": "Piața Valea Ialomiței",
+      "latitudine": 44.420427,
+      "longitudine": 26.018078,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 564,
+      "nume": "Piața Valea Mare",
+      "latitudine": 44.93633,
+      "longitudine": 24.237633,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 565,
+      "nume": "Piața Valea Roșie",
+      "latitudine": 44.309015,
+      "longitudine": 23.820083,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 566,
+      "nume": "Piața Veche",
+      "latitudine": 44.315664,
+      "longitudine": 23.792578,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 567,
+      "nume": "Piața Verde",
+      "latitudine": 45.774687,
+      "longitudine": 21.220442,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 568,
+      "nume": "PIAȚA VEST",
+      "latitudine": 45.179622,
+      "longitudine": 28.782057,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 569,
+      "nume": "Piața Veteranilor",
+      "latitudine": 44.435093,
+      "longitudine": 26.028918,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 570,
+      "nume": "Piața Vicovu de Sus",
+      "latitudine": 47.92169,
+      "longitudine": 25.672775,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 571,
+      "nume": "Piața Videle",
+      "latitudine": 44.27738,
+      "longitudine": 25.52915,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 572,
+      "nume": "Piața Vidin",
+      "latitudine": 45.303895,
+      "longitudine": 27.964135,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 573,
+      "nume": "Piața Vitan",
+      "latitudine": 44.423192,
+      "longitudine": 26.124424,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 574,
+      "nume": "Piața Viziru",
+      "latitudine": 45.24503,
+      "longitudine": 27.947084,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 575,
+      "nume": "Piața Vlad Țepeș",
+      "latitudine": 44.916198,
+      "longitudine": 25.478955,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 576,
+      "nume": "Piața volantă Dumbrăvița",
+      "latitudine": 45.799777,
+      "longitudine": 21.250383,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 577,
+      "nume": "Piața volantă Stadion",
+      "latitudine": 46.769457,
+      "longitudine": 23.573696,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 578,
+      "nume": "Piața Vălenii de Munte",
+      "latitudine": 45.188953,
+      "longitudine": 26.03986,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 579,
+      "nume": "Piața Zorilor",
+      "latitudine": 46.754654,
+      "longitudine": 23.578069,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 580,
+      "nume": "Piața Întorsura Buzăului",
+      "latitudine": 45.672932,
+      "longitudine": 26.032726,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 581,
+      "nume": "Piața Șimleul Silvaniei",
+      "latitudine": 47.229589,
+      "longitudine": 22.800236,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 582,
+      "nume": "Piața țărănească Rășinari",
+      "latitudine": 45.702712,
+      "longitudine": 24.06733,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 583,
+      "nume": "Piața1 CET",
+      "latitudine": 44.160447,
+      "longitudine": 28.610981,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 584,
+      "nume": "Piață",
+      "latitudine": 43.754594,
+      "longitudine": 24.870325,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 585,
+      "nume": "Piață",
+      "latitudine": 44.102328,
+      "longitudine": 25.59817,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 586,
+      "nume": "Piață",
+      "latitudine": 45.000547,
+      "longitudine": 26.445917,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 587,
+      "nume": "Piață",
+      "latitudine": 45.156169,
+      "longitudine": 29.650489,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 588,
+      "nume": "Piață",
+      "latitudine": 45.169295,
+      "longitudine": 28.789263,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 589,
+      "nume": "Piață",
+      "latitudine": 45.176495,
+      "longitudine": 25.669455,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 590,
+      "nume": "Piață",
+      "latitudine": 45.593558,
+      "longitudine": 25.461427,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 591,
+      "nume": "Piață",
+      "latitudine": 45.641374,
+      "longitudine": 24.299306,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 592,
+      "nume": "Piață",
+      "latitudine": 46.385249,
+      "longitudine": 21.309602,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 593,
+      "nume": "Piață",
+      "latitudine": 46.451578,
+      "longitudine": 23.567323,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 594,
+      "nume": "Piață",
+      "latitudine": 47.14376,
+      "longitudine": 24.50867,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 595,
+      "nume": "Piață",
+      "latitudine": 47.205284,
+      "longitudine": 26.362902,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 596,
+      "nume": "Piață Agro-Alimentară",
+      "latitudine": 45.888591,
+      "longitudine": 23.793354,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 597,
+      "nume": "Piață agro-alimentară",
+      "latitudine": 47.643213,
+      "longitudine": 22.889069,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 598,
+      "nume": "Piață Agroalimentară",
+      "latitudine": 46.211025,
+      "longitudine": 26.443267,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 599,
+      "nume": "Piață agroalimentară",
+      "latitudine": 47.02487,
+      "longitudine": 23.901698,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 600,
+      "nume": "Piață Agroalimentară de Cartier",
+      "latitudine": 44.020919,
+      "longitudine": 23.34039,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 601,
+      "nume": "Piață agroalimentară Leul",
+      "latitudine": 46.774716,
+      "longitudine": 23.593347,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 602,
+      "nume": "Piață agroalimentară Turda",
+      "latitudine": 46.571473,
+      "longitudine": 23.787081,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 603,
+      "nume": "Piață Apollo (Ruși)",
+      "latitudine": 45.285337,
+      "longitudine": 27.957703,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 604,
+      "nume": "Piață engros",
+      "latitudine": 45.658083,
+      "longitudine": 25.557694,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 605,
+      "nume": "Piață industrială",
+      "latitudine": 45.864762,
+      "longitudine": 25.801326,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 606,
+      "nume": "Piață industrială",
+      "latitudine": 45.86535,
+      "longitudine": 25.801983,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 607,
+      "nume": "Piață(Piac)",
+      "latitudine": 47.517116,
+      "longitudine": 22.131886,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 608,
+      "nume": "Piețe24",
+      "latitudine": 45.784795,
+      "longitudine": 21.218123,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 609,
+      "nume": "Profi",
+      "latitudine": 44.458783,
+      "longitudine": 26.210191,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 610,
+      "nume": "Pâncota",
+      "latitudine": 46.3224,
+      "longitudine": 21.691444,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 611,
+      "nume": "Roxana",
+      "latitudine": 47.244786,
+      "longitudine": 24.016329,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 612,
+      "nume": "San Market",
+      "latitudine": 44.498051,
+      "longitudine": 24.963537,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 613,
+      "nume": "SC Elim Star Com MiniMarket",
+      "latitudine": 45.934297,
+      "longitudine": 27.048626,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 614,
+      "nume": "SC Ginomar Srl Magazin Mixt",
+      "latitudine": 45.938684,
+      "longitudine": 27.043441,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 615,
+      "nume": "SC Radical",
+      "latitudine": 45.930427,
+      "longitudine": 27.054355,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 616,
+      "nume": "Second Hand Market",
+      "latitudine": 44.495363,
+      "longitudine": 26.198483,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 617,
+      "nume": "Sf. Ilie Market",
+      "latitudine": 44.718643,
+      "longitudine": 25.32482,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 618,
+      "nume": "Simigeria Pavel",
+      "latitudine": 44.146883,
+      "longitudine": 28.624029,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 619,
+      "nume": "Slik Impex SRL",
+      "latitudine": 45.160434,
+      "longitudine": 26.790267,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 620,
+      "nume": "Smart Expo Flora SRL",
+      "latitudine": 44.491516,
+      "longitudine": 26.190498,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 621,
+      "nume": "Spațiu comercial",
+      "latitudine": 46.477347,
+      "longitudine": 22.053188,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 622,
+      "nume": "Stomi 2-Market",
+      "latitudine": 46.042887,
+      "longitudine": 20.474886,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 623,
+      "nume": "Talcioc",
+      "latitudine": 46.21331,
+      "longitudine": 27.665761,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 624,
+      "nume": "Talcioc Galați",
+      "latitudine": 45.454083,
+      "longitudine": 28.013858,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 625,
+      "nume": "Tarabe",
+      "latitudine": 45.168784,
+      "longitudine": 24.118118,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 626,
+      "nume": "Tarabe piață",
+      "latitudine": 44.751908,
+      "longitudine": 24.016901,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 627,
+      "nume": "TARG AUTO",
+      "latitudine": 47.576716,
+      "longitudine": 26.271283,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 628,
+      "nume": "Targ saptamanal Gaesti",
+      "latitudine": 44.710009,
+      "longitudine": 25.307482,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 629,
+      "nume": "Targ saptamanal Tufeni",
+      "latitudine": 44.370844,
+      "longitudine": 24.794197,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 630,
+      "nume": "Targul Carcinov",
+      "latitudine": 44.807729,
+      "longitudine": 25.074581,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 631,
+      "nume": "Targul Corabia",
+      "latitudine": 43.782021,
+      "longitudine": 24.498335,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 632,
+      "nume": "Telena Piața Veche",
+      "latitudine": 45.178969,
+      "longitudine": 28.797396,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 633,
+      "nume": "The Bridge",
+      "latitudine": 47.637443,
+      "longitudine": 22.323368,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 634,
+      "nume": "Tiger",
+      "latitudine": 47.050311,
+      "longitudine": 21.887095,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 635,
+      "nume": "Trianon",
+      "latitudine": 45.191377,
+      "longitudine": 25.759957,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 636,
+      "nume": "Târg",
+      "latitudine": 45.163993,
+      "longitudine": 25.203226,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 637,
+      "nume": "Târg",
+      "latitudine": 45.511964,
+      "longitudine": 25.361174,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 638,
+      "nume": "Târg",
+      "latitudine": 46.996788,
+      "longitudine": 24.620841,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 639,
+      "nume": "Târg Auto",
+      "latitudine": 46.201342,
+      "longitudine": 21.261422,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 640,
+      "nume": "Târg Auto",
+      "latitudine": 46.20312,
+      "longitudine": 21.261326,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 641,
+      "nume": "Târg Băicoi",
+      "latitudine": 45.039149,
+      "longitudine": 25.830082,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 642,
+      "nume": "Târg Ciolănești",
+      "latitudine": 44.297924,
+      "longitudine": 25.08465,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 643,
+      "nume": "Târg Comunal",
+      "latitudine": 45.001856,
+      "longitudine": 26.85207,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 644,
+      "nume": "Târg Câmpia Turzii",
+      "latitudine": 46.549251,
+      "longitudine": 23.892067,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 645,
+      "nume": "Târg de legume",
+      "latitudine": 43.895008,
+      "longitudine": 24.622498,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 646,
+      "nume": "Târg de vechituri Goranu",
+      "latitudine": 45.10378,
+      "longitudine": 24.381664,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 647,
+      "nume": "Târg Gârdeşti",
+      "latitudine": 44.262011,
+      "longitudine": 25.128897,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 648,
+      "nume": "Târg saptamanal",
+      "latitudine": 44.347839,
+      "longitudine": 25.188944,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 649,
+      "nume": "Târg Săptămânal",
+      "latitudine": 46.964365,
+      "longitudine": 25.762553,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 650,
+      "nume": "Târg săptămânal Traian",
+      "latitudine": 44.022186,
+      "longitudine": 24.46917,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 651,
+      "nume": "Târgul Aluniș",
+      "latitudine": 45.20157,
+      "longitudine": 25.897483,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 652,
+      "nume": "Târgul Bonțida",
+      "latitudine": 46.919896,
+      "longitudine": 23.808474,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 653,
+      "nume": "Târgul Bucinișu",
+      "latitudine": 43.941375,
+      "longitudine": 24.25376,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 654,
+      "nume": "Târgul comercial Vărbilău",
+      "latitudine": 45.181355,
+      "longitudine": 25.958489,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 655,
+      "nume": "Târgul Comunal Sătuc",
+      "latitudine": 45.282659,
+      "longitudine": 26.672899,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 656,
+      "nume": "Târgul de Animale Crasna",
+      "latitudine": 47.157137,
+      "longitudine": 22.866324,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 657,
+      "nume": "Târgul de Crăciun",
+      "latitudine": 45.79658,
+      "longitudine": 24.151941,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 658,
+      "nume": "Târgul de la Bradu",
+      "latitudine": 44.833003,
+      "longitudine": 24.887043,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 659,
+      "nume": "Târgul de la Negreni",
+      "latitudine": 46.953283,
+      "longitudine": 22.755957,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 660,
+      "nume": "Târgul de Mașini",
+      "latitudine": 46.750357,
+      "longitudine": 23.428163,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 661,
+      "nume": "Târgul de vară",
+      "latitudine": 44.215015,
+      "longitudine": 28.629267,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 662,
+      "nume": "Târgul de vechituri",
+      "latitudine": 45.632875,
+      "longitudine": 25.628581,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 663,
+      "nume": "Târgul de vechituri Giurgiu",
+      "latitudine": 43.8989,
+      "longitudine": 25.981332,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 664,
+      "nume": "Târgul Drăgaica",
+      "latitudine": 45.138295,
+      "longitudine": 26.813916,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 665,
+      "nume": "Târgul Municipal Zilnic",
+      "latitudine": 44.299559,
+      "longitudine": 23.788863,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 666,
+      "nume": "Târgul Pucheni",
+      "latitudine": 44.383856,
+      "longitudine": 26.059142,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 667,
+      "nume": "Târgul Săptămânal",
+      "latitudine": 43.793804,
+      "longitudine": 24.095218,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 668,
+      "nume": "Târgul Săptămânal",
+      "latitudine": 43.844209,
+      "longitudine": 23.829505,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 669,
+      "nume": "Târgul Săptămânal",
+      "latitudine": 44.741589,
+      "longitudine": 23.624294,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 670,
+      "nume": "Târgul săptămânal Hârsești",
+      "latitudine": 44.523851,
+      "longitudine": 24.783495,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 671,
+      "nume": "Târgul Valea Cascadelor - Bazarul cu Amintiri",
+      "latitudine": 44.422796,
+      "longitudine": 25.998887,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 672,
+      "nume": "Târgul Vitan",
+      "latitudine": 44.401582,
+      "longitudine": 26.146252,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 673,
+      "nume": "Universul Curățeniei",
+      "latitudine": 45.143529,
+      "longitudine": 26.827845,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 674,
+      "nume": "Viosand Market",
+      "latitudine": 47.256581,
+      "longitudine": 26.721463,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 675,
+      "nume": "Zebra",
+      "latitudine": 44.514449,
+      "longitudine": 25.977949,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 676,
+      "nume": "Zöldségpiac",
+      "latitudine": 46.71876,
+      "longitudine": 25.596839,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 677,
+      "nume": "Ócska piac",
+      "latitudine": 47.517939,
+      "longitudine": 22.136086,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 678,
+      "nume": "Șolea Activ (Legume-Fructe) Autoservire",
+      "latitudine": 45.152902,
+      "longitudine": 26.796178,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    },
+    {
+      "id": 679,
+      "nume": "ȚINTANA",
+      "latitudine": 46.592525,
+      "longitudine": 22.401745,
+      "cheie_osm": "amenity",
+      "valoare_osm": "marketplace",
+      "categorie_osm": "amenity=marketplace"
+    }
+  ],
+  "meta": {
+    "title": "Piețe din România - Descărcare gratuită",
+    "description": "Piețe din România — 679 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `amenity=marketplace`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează. Conține 679 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Piețe din România | ListBase",
+    "seo_description": "Descarcă Piețe din România — 679 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 679 înregistrări / 7 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

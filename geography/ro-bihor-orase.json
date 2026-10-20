@@ -1,0 +1,241 @@
+{
+  "id": "ro-bihor-orase",
+  "name": "Orașele și municipiile județului Bihor",
+  "title": "Orașele și municipiile județului Bihor",
+  "description": "Lista celor 10 de orașe, municipii din județul Bihor (BH) — unități administrativ-teritoriale urbane de nivel 2 conform SIRUTA. Reședința de județ este marcată cu is_resedinta_judet=true.",
+  "category": "geography",
+  "source": "https://github.com/ionelmc/django-siruta",
+  "source_url": "https://github.com/ionelmc/django-siruta",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "siruta_code",
+      "label": "Siruta Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_official",
+      "label": "Name Official",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet_id",
+      "label": "Judet Id",
+      "type": "number"
+    },
+    {
+      "key": "judet_name",
+      "label": "Judet Name",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "tip_code",
+      "label": "Tip Code",
+      "type": "number"
+    },
+    {
+      "key": "tip_name",
+      "label": "Tip Name",
+      "type": "string"
+    },
+    {
+      "key": "is_resedinta_judet",
+      "label": "Is Resedinta Judet",
+      "type": "boolean"
+    },
+    {
+      "key": "regiune_id",
+      "label": "Regiune Id",
+      "type": "number"
+    },
+    {
+      "key": "nuts3",
+      "label": "Nuts3",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "siruta_code": 26564,
+      "name": "Oradea",
+      "name_official": "MUNICIPIUL ORADEA",
+      "slug": "oradea",
+      "judet_id": 5,
+      "judet_name": "Bihor",
+      "judet_slug": "bihor",
+      "iso_3166_2": "RO-BH",
+      "tip_code": 1,
+      "tip_name": "municipiu reședință de județ",
+      "is_resedinta_judet": true,
+      "regiune_id": 6,
+      "nuts3": "RO111"
+    },
+    {
+      "siruta_code": 26877,
+      "name": " Marghita",
+      "name_official": "MUNICIPIUL  MARGHITA",
+      "slug": "marghita",
+      "judet_id": 5,
+      "judet_name": "Bihor",
+      "judet_slug": "bihor",
+      "iso_3166_2": "RO-BH",
+      "tip_code": 4,
+      "tip_name": "municipiu",
+      "is_resedinta_judet": false,
+      "regiune_id": 6,
+      "nuts3": "RO111"
+    },
+    {
+      "siruta_code": 26699,
+      "name": "Aleșd",
+      "name_official": "ORAȘ ALEȘD",
+      "slug": "alesd",
+      "judet_id": 5,
+      "judet_name": "Bihor",
+      "judet_slug": "bihor",
+      "iso_3166_2": "RO-BH",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 6,
+      "nuts3": "RO111"
+    },
+    {
+      "siruta_code": 26804,
+      "name": "Beiuș",
+      "name_official": "MUNICIPIUL BEIUȘ",
+      "slug": "beius",
+      "judet_id": 5,
+      "judet_name": "Bihor",
+      "judet_slug": "bihor",
+      "iso_3166_2": "RO-BH",
+      "tip_code": 4,
+      "tip_name": "municipiu",
+      "is_resedinta_judet": false,
+      "regiune_id": 6,
+      "nuts3": "RO111"
+    },
+    {
+      "siruta_code": 26920,
+      "name": "Nucet",
+      "name_official": "ORAȘ NUCET",
+      "slug": "nucet",
+      "judet_id": 5,
+      "judet_name": "Bihor",
+      "judet_slug": "bihor",
+      "iso_3166_2": "RO-BH",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 6,
+      "nuts3": "RO111"
+    },
+    {
+      "siruta_code": 26975,
+      "name": "Salonta",
+      "name_official": "MUNICIPIUL SALONTA",
+      "slug": "salonta",
+      "judet_id": 5,
+      "judet_name": "Bihor",
+      "judet_slug": "bihor",
+      "iso_3166_2": "RO-BH",
+      "tip_code": 4,
+      "tip_name": "municipiu",
+      "is_resedinta_judet": false,
+      "regiune_id": 6,
+      "nuts3": "RO111"
+    },
+    {
+      "siruta_code": 30915,
+      "name": "Săcueni",
+      "name_official": "ORAȘ SĂCUENI",
+      "slug": "sacueni",
+      "judet_id": 5,
+      "judet_name": "Bihor",
+      "judet_slug": "bihor",
+      "iso_3166_2": "RO-BH",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 6,
+      "nuts3": "RO111"
+    },
+    {
+      "siruta_code": 32027,
+      "name": "Valea Lui Mihai",
+      "name_official": "ORAȘ VALEA LUI MIHAI",
+      "slug": "valea-lui-mihai",
+      "judet_id": 5,
+      "judet_name": "Bihor",
+      "judet_slug": "bihor",
+      "iso_3166_2": "RO-BH",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 6,
+      "nuts3": "RO111"
+    },
+    {
+      "siruta_code": 27007,
+      "name": "Vașcău",
+      "name_official": "ORAȘ VAȘCĂU",
+      "slug": "vascau",
+      "judet_id": 5,
+      "judet_name": "Bihor",
+      "judet_slug": "bihor",
+      "iso_3166_2": "RO-BH",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 6,
+      "nuts3": "RO111"
+    },
+    {
+      "siruta_code": 26840,
+      "name": "Ștei",
+      "name_official": "ORAȘ ȘTEI",
+      "slug": "stei",
+      "judet_id": 5,
+      "judet_name": "Bihor",
+      "judet_slug": "bihor",
+      "iso_3166_2": "RO-BH",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 6,
+      "nuts3": "RO111"
+    }
+  ],
+  "meta": {
+    "title": "Orașele și municipiile județului Bihor - Descărcare gratuită",
+    "description": "Lista celor 10 de orașe, municipii din județul Bihor (BH) — unități administrativ-teritoriale urbane de nivel 2 conform SIRUTA. Reședința de județ este marcată cu is_resedinta_judet=true. Conține 10 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Orașele și municipiile județului Bihor | ListBase",
+    "seo_description": "Descarcă Orașele și municipiile județului Bihor — 10 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 10 înregistrări / 13 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: https://github.com/ionelmc/django-siruta"
+    ]
+  }
+}

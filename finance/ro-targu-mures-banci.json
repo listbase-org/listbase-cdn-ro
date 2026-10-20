@@ -1,0 +1,86 @@
+{
+  "id": "ro-targu-mures-banci",
+  "name": "Bănci în Targu Mures — coduri SWIFT/BIC",
+  "title": "Bănci în Targu Mures — coduri SWIFT/BIC",
+  "description": "Instituții bancare și financiare înregistrate SWIFT/BIC cu sediul în Targu Mures, România (5 înregistrări). Subset al listei naționale `ro-banci` (263 înregistrări), grupat după câmpul `city` din sursă. Șirul literal din sursă este \"TARGU MURES\" — păstrat verbatim, fără diacritice și cu majuscule, exact așa cum este livrat de sursă; nu a fost tradus, normalizat sau completat cu diacritice. Câmpuri: id, bank, city, branch, swift_code.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 116,
+      "bank": "BANCA TRANSILVANIA S.A.",
+      "city": "TARGU MURES",
+      "branch": "(MURES BRANCH)",
+      "swift_code": "BTRLRO22MSA"
+    },
+    {
+      "id": 117,
+      "bank": "BANCA TRANSILVANIA S.A.",
+      "city": "TARGU MURES",
+      "branch": "(TARGU MURES BRANCH)",
+      "swift_code": "BTRLRO21MS1"
+    },
+    {
+      "id": 183,
+      "bank": "GOLDRING S.A.",
+      "city": "TARGU MURES",
+      "branch": "",
+      "swift_code": "GOLIRO21"
+    },
+    {
+      "id": 229,
+      "bank": "ROMEXTERRA FINANCE S.A",
+      "city": "TARGU MURES",
+      "branch": "",
+      "swift_code": "FNCCRO21"
+    },
+    {
+      "id": 261,
+      "bank": "VENTRUST INVESTMENT S.A.",
+      "city": "TARGU MURES",
+      "branch": "",
+      "swift_code": "VEIVRO21"
+    }
+  ],
+  "meta": {
+    "title": "Bănci în Targu Mures — coduri SWIFT/BIC - Descărcare gratuită",
+    "description": "Instituții bancare și financiare înregistrate SWIFT/BIC cu sediul în Targu Mures, România (5 înregistrări). Subset al listei naționale `ro-banci` (263 înregistrări), grupat după câmpul `city` din sursă. Șirul literal din sursă este \"TARGU MURES\" — păstrat verbatim, fără diacritice și cu majuscule, exact așa cum este livrat de sursă; nu a fost tradus, normalizat sau completat cu diacritice. Câmpuri: id, bank, city, branch, swift_code. Conține 5 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Bănci în Targu Mures — coduri SWIFT/BIC | ListBase",
+    "seo_description": "Descarcă Bănci în Targu Mures — coduri SWIFT/BIC — 5 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 5 înregistrări / 5 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "id": "ro-regiuni",
+  "name": "Regiunile de dezvoltare ale României",
+  "title": "Regiunile de dezvoltare ale României",
+  "description": "Cele 8 regiuni de dezvoltare ale României (NUTS 2) — Nord-Est, Sud-Est, Sud-Muntenia, Sud-Vest Oltenia, Vest, Nord-Vest, Centru și București-Ilfov — cu codurile NUTS și județele componente.",
+  "category": "geography",
+  "source": "https://github.com/ionelmc/django-siruta",
+  "source_url": "https://github.com/ionelmc/django-siruta",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "nuts2",
+      "label": "Nuts2",
+      "type": "string"
+    },
+    {
+      "key": "judete_slugs",
+      "label": "Judete Slugs",
+      "type": "string"
+    },
+    {
+      "key": "num_judete",
+      "label": "Num Judete",
+      "type": "number"
+    },
+    {
+      "key": "num_localitati",
+      "label": "Num Localitati",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "Nord-Est",
+      "name_en": "North-East",
+      "slug": "nord-est",
+      "nuts2": "RO21",
+      "judete_slugs": "bacau, botosani, iasi, neamt, suceava, vaslui",
+      "num_judete": 6,
+      "num_localitati": 2526
+    },
+    {
+      "id": 2,
+      "name": "Sud-Est",
+      "name_en": "South-East",
+      "slug": "sud-est",
+      "nuts2": "RO22",
+      "judete_slugs": "braila, buzau, constanta, galati, tulcea, vrancea",
+      "num_judete": 6,
+      "num_localitati": 1517
+    },
+    {
+      "id": 3,
+      "name": "Sud-Muntenia",
+      "name_en": "South-Muntenia",
+      "slug": "sud-muntenia",
+      "nuts2": "RO31",
+      "judete_slugs": "arges, calarasi, dambovita, giurgiu, ialomita, prahova, teleorman",
+      "num_judete": 7,
+      "num_localitati": 2127
+    },
+    {
+      "id": 4,
+      "name": "Sud-Vest Oltenia",
+      "name_en": "South-West Oltenia",
+      "slug": "sud-vest-oltenia",
+      "nuts2": "RO41",
+      "judete_slugs": "dolj, gorj, mehedinti, olt, valcea",
+      "num_judete": 5,
+      "num_localitati": 2181
+    },
+    {
+      "id": 5,
+      "name": "Vest",
+      "name_en": "West",
+      "slug": "vest",
+      "nuts2": "RO42",
+      "judete_slugs": "arad, caras-severin, hunedoara, timis",
+      "num_judete": 4,
+      "num_localitati": 1404
+    },
+    {
+      "id": 6,
+      "name": "Nord-Vest",
+      "name_en": "North-West",
+      "slug": "nord-vest",
+      "nuts2": "RO11",
+      "judete_slugs": "bihor, bistrita-nasaud, cluj, maramures, salaj, satu-mare",
+      "num_judete": 6,
+      "num_localitati": 1911
+    },
+    {
+      "id": 7,
+      "name": "Centru",
+      "name_en": "Centre",
+      "slug": "centru",
+      "nuts2": "RO12",
+      "judete_slugs": "alba, brasov, covasna, harghita, mures, sibiu",
+      "num_judete": 6,
+      "num_localitati": 1979
+    },
+    {
+      "id": 8,
+      "name": "București-Ilfov",
+      "name_en": "Bucharest-Ilfov",
+      "slug": "bucuresti-ilfov",
+      "nuts2": "RO32",
+      "judete_slugs": "bucuresti, ilfov",
+      "num_judete": 2,
+      "num_localitati": 110
+    }
+  ],
+  "meta": {
+    "title": "Regiunile de dezvoltare ale României - Descărcare gratuită",
+    "description": "Cele 8 regiuni de dezvoltare ale României (NUTS 2) — Nord-Est, Sud-Est, Sud-Muntenia, Sud-Vest Oltenia, Vest, Nord-Vest, Centru și București-Ilfov — cu codurile NUTS și județele componente. Conține 8 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Regiunile de dezvoltare ale României | ListBase",
+    "seo_description": "Descarcă Regiunile de dezvoltare ale României — 8 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 8 înregistrări / 8 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: https://github.com/ionelmc/django-siruta"
+    ]
+  }
+}

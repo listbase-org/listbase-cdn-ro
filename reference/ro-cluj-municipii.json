@@ -1,0 +1,166 @@
+{
+  "id": "ro-cluj-municipii",
+  "name": "Municipiile din județul Cluj",
+  "title": "Municipiile din județul Cluj",
+  "description": "Lista municipiilor din județul Cluj, România (5 municipii), conform clasificatorului SIRUTA (INS), vintage S1-2025. Include municipiul reședință de județ și celelalte municipii ale județului.",
+  "category": "reference",
+  "source": "https://github.com/ionelmc/django-siruta",
+  "source_url": "https://github.com/ionelmc/django-siruta",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "siruta_code",
+      "label": "Siruta Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_official",
+      "label": "Name Official",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet_id",
+      "label": "Judet Id",
+      "type": "number"
+    },
+    {
+      "key": "judet_name",
+      "label": "Judet Name",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "tip_code",
+      "label": "Tip Code",
+      "type": "number"
+    },
+    {
+      "key": "tip_name",
+      "label": "Tip Name",
+      "type": "string"
+    },
+    {
+      "key": "is_resedinta_judet",
+      "label": "Is Resedinta Judet",
+      "type": "boolean"
+    },
+    {
+      "key": "regiune_id",
+      "label": "Regiune Id",
+      "type": "number"
+    },
+    {
+      "key": "nuts3",
+      "label": "Nuts3",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "siruta_code": 54975,
+      "name": "Cluj-Napoca",
+      "name_official": "MUNICIPIUL CLUJ-NAPOCA",
+      "slug": "cluj-napoca",
+      "judet_id": 12,
+      "judet_name": "Cluj",
+      "judet_slug": "cluj",
+      "iso_3166_2": "RO-CJ",
+      "tip_code": 1,
+      "tip_name": "municipiu reședință de județ",
+      "is_resedinta_judet": true,
+      "regiune_id": 6,
+      "nuts3": "RO113"
+    },
+    {
+      "siruta_code": 55008,
+      "name": "Dej",
+      "name_official": "MUNICIPIUL DEJ",
+      "slug": "dej",
+      "judet_id": 12,
+      "judet_name": "Cluj",
+      "judet_slug": "cluj",
+      "iso_3166_2": "RO-CJ",
+      "tip_code": 4,
+      "tip_name": "municipiu",
+      "is_resedinta_judet": false,
+      "regiune_id": 6,
+      "nuts3": "RO113"
+    },
+    {
+      "siruta_code": 55259,
+      "name": "Turda",
+      "name_official": "MUNICIPIUL TURDA",
+      "slug": "turda",
+      "judet_id": 12,
+      "judet_name": "Cluj",
+      "judet_slug": "cluj",
+      "iso_3166_2": "RO-CJ",
+      "tip_code": 4,
+      "tip_name": "municipiu",
+      "is_resedinta_judet": false,
+      "regiune_id": 6,
+      "nuts3": "RO113"
+    },
+    {
+      "siruta_code": 55357,
+      "name": "Câmpia Turzii",
+      "name_official": "MUNICIPIUL CÂMPIA TURZII",
+      "slug": "campia-turzii",
+      "judet_id": 12,
+      "judet_name": "Cluj",
+      "judet_slug": "cluj",
+      "iso_3166_2": "RO-CJ",
+      "tip_code": 4,
+      "tip_name": "municipiu",
+      "is_resedinta_judet": false,
+      "regiune_id": 6,
+      "nuts3": "RO113"
+    },
+    {
+      "siruta_code": 55384,
+      "name": "Gherla",
+      "name_official": "MUNICIPIUL GHERLA",
+      "slug": "gherla",
+      "judet_id": 12,
+      "judet_name": "Cluj",
+      "judet_slug": "cluj",
+      "iso_3166_2": "RO-CJ",
+      "tip_code": 4,
+      "tip_name": "municipiu",
+      "is_resedinta_judet": false,
+      "regiune_id": 6,
+      "nuts3": "RO113"
+    }
+  ],
+  "meta": {
+    "title": "Municipiile din județul Cluj - Descărcare gratuită",
+    "description": "Lista municipiilor din județul Cluj, România (5 municipii), conform clasificatorului SIRUTA (INS), vintage S1-2025. Include municipiul reședință de județ și celelalte municipii ale județului. Conține 5 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Municipiile din județul Cluj | ListBase",
+    "seo_description": "Descarcă Municipiile din județul Cluj — 5 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 5 înregistrări / 13 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: https://github.com/ionelmc/django-siruta"
+    ]
+  }
+}

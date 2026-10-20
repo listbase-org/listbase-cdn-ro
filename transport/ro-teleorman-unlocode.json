@@ -1,0 +1,366 @@
+{
+  "id": "ro-teleorman-unlocode",
+  "name": "Coduri UN/LOCODE — judeţul Teleorman (porturi, aeroporturi, terminale)",
+  "title": "Coduri UN/LOCODE — judeţul Teleorman (porturi, aeroporturi, terminale)",
+  "description": "Cele 9 locaţii UN/LOCODE din judeţul Teleorman, România — cod LOCODE, denumire, funcţii de transport, status şi coordonate.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "locode",
+      "label": "Locode",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_wo_diacritics",
+      "label": "Name Wo Diacritics",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_code",
+      "label": "Subdivision Code",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_name",
+      "label": "Subdivision Name",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_type",
+      "label": "Subdivision Type",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "status_description",
+      "label": "Status Description",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function",
+      "type": "string"
+    },
+    {
+      "key": "functions",
+      "label": "Functions",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "date_updated",
+      "label": "Date Updated",
+      "type": "string"
+    },
+    {
+      "key": "remarks",
+      "label": "Remarks",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet_name",
+      "label": "Judet Name",
+      "type": "string"
+    },
+    {
+      "key": "judet_source",
+      "label": "Judet Source",
+      "type": "string"
+    },
+    {
+      "key": "judet_alternativ_siruta",
+      "label": "Judet Alternativ Siruta",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "locode": "ROALX",
+      "country": "RO",
+      "location": "ALX",
+      "name": "Alexandria",
+      "name_wo_diacritics": "Alexandria",
+      "subdivision_code": "TR",
+      "subdivision_name": "Teleorman",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-23-----",
+      "functions": "Rail transport, Road transport",
+      "iata": "",
+      "coordinates": "4359N 02520E",
+      "latitude": 43.9833,
+      "longitude": 25.3333,
+      "date_updated": "2003-07",
+      "remarks": "",
+      "judet_slug": "teleorman",
+      "judet_name": "Teleorman",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 2,
+      "locode": "ROBJE",
+      "country": "RO",
+      "location": "BJE",
+      "name": "Blejesti",
+      "name_wo_diacritics": "Blejesti",
+      "subdivision_code": "TR",
+      "subdivision_name": "Teleorman",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4417N 02528E",
+      "latitude": 44.2833,
+      "longitude": 25.4667,
+      "date_updated": "2013-01",
+      "remarks": "",
+      "judet_slug": "teleorman",
+      "judet_name": "Teleorman",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 3,
+      "locode": "ROCFI",
+      "country": "RO",
+      "location": "CFI",
+      "name": "Calomfiresti",
+      "name_wo_diacritics": "Calomfiresti",
+      "subdivision_code": "TR",
+      "subdivision_name": "Teleorman",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-----6--",
+      "functions": "Multimodal transport facility",
+      "iata": "",
+      "coordinates": "4355N 02521E",
+      "latitude": 43.9167,
+      "longitude": 25.35,
+      "date_updated": "2010-07",
+      "remarks": "",
+      "judet_slug": "teleorman",
+      "judet_name": "Teleorman",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 4,
+      "locode": "ROROS",
+      "country": "RO",
+      "location": "ROS",
+      "name": "Rosiorii de Vede",
+      "name_wo_diacritics": "Rosiorii de Vede",
+      "subdivision_code": "TR",
+      "subdivision_name": "Teleorman",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-----6--",
+      "functions": "Multimodal transport facility",
+      "iata": "",
+      "coordinates": "4406N 02459E",
+      "latitude": 44.1,
+      "longitude": 24.9833,
+      "date_updated": "2014-07",
+      "remarks": "",
+      "judet_slug": "teleorman",
+      "judet_name": "Teleorman",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 5,
+      "locode": "ROSOC",
+      "country": "RO",
+      "location": "SOC",
+      "name": "Socetu",
+      "name_wo_diacritics": "Socetu",
+      "subdivision_code": "",
+      "subdivision_name": "",
+      "subdivision_type": "",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4412N 02451E",
+      "latitude": 44.2,
+      "longitude": 24.85,
+      "date_updated": "2006-07",
+      "remarks": "",
+      "judet_slug": "teleorman",
+      "judet_name": "Teleorman",
+      "judet_source": "derived_name_join",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 6,
+      "locode": "ROTON",
+      "country": "RO",
+      "location": "TON",
+      "name": "Teleorman",
+      "name_wo_diacritics": "Teleorman",
+      "subdivision_code": "TR",
+      "subdivision_name": "Teleorman",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4404N 02509E",
+      "latitude": 44.0667,
+      "longitude": 25.15,
+      "date_updated": "2002-07",
+      "remarks": "",
+      "judet_slug": "teleorman",
+      "judet_name": "Teleorman",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 7,
+      "locode": "ROTUM",
+      "country": "RO",
+      "location": "TUM",
+      "name": "Turnu Magurele",
+      "name_wo_diacritics": "Turnu Magurele",
+      "subdivision_code": "TR",
+      "subdivision_name": "Teleorman",
+      "subdivision_type": "Departments",
+      "status": "AC",
+      "status_description": "Approved by Customs Authority",
+      "function": "1------B",
+      "functions": "Maritime transport (sea port), Cross border (former code)",
+      "iata": "",
+      "coordinates": "4345N 02453E",
+      "latitude": 43.75,
+      "longitude": 24.8833,
+      "date_updated": "2011-01",
+      "remarks": "",
+      "judet_slug": "teleorman",
+      "judet_name": "Teleorman",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 8,
+      "locode": "ROVDE",
+      "country": "RO",
+      "location": "VDE",
+      "name": "Videle",
+      "name_wo_diacritics": "Videle",
+      "subdivision_code": "",
+      "subdivision_name": "",
+      "subdivision_type": "",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-23-----",
+      "functions": "Rail transport, Road transport",
+      "iata": "",
+      "coordinates": "4417N 02532E",
+      "latitude": 44.2833,
+      "longitude": 25.5333,
+      "date_updated": "2006-01",
+      "remarks": "",
+      "judet_slug": "teleorman",
+      "judet_name": "Teleorman",
+      "judet_source": "derived_name_join",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 9,
+      "locode": "ROZIC",
+      "country": "RO",
+      "location": "ZIC",
+      "name": "Zimnicea",
+      "name_wo_diacritics": "Zimnicea",
+      "subdivision_code": "TR",
+      "subdivision_name": "Teleorman",
+      "subdivision_type": "Departments",
+      "status": "AC",
+      "status_description": "Approved by Customs Authority",
+      "function": "1------B",
+      "functions": "Maritime transport (sea port), Cross border (former code)",
+      "iata": "",
+      "coordinates": "4339N 02521E",
+      "latitude": 43.65,
+      "longitude": 25.35,
+      "date_updated": "2011-01",
+      "remarks": "",
+      "judet_slug": "teleorman",
+      "judet_name": "Teleorman",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    }
+  ],
+  "meta": {
+    "title": "Coduri UN/LOCODE — judeţul Teleorman (porturi, aeroporturi, terminale) - Descărcare gratuită",
+    "description": "Cele 9 locaţii UN/LOCODE din judeţul Teleorman, România — cod LOCODE, denumire, funcţii de transport, status şi coordonate. Conține 9 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Coduri UN/LOCODE — judeţul Teleorman (porturi, aeroporturi, terminale) | ListBase",
+    "seo_description": "Descarcă Coduri UN/LOCODE — judeţul Teleorman (porturi, aeroporturi, terminale) — 9 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 9 înregistrări / 23 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

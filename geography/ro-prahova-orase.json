@@ -1,0 +1,301 @@
+{
+  "id": "ro-prahova-orase",
+  "name": "Orașele și municipiile județului Prahova",
+  "title": "Orașele și municipiile județului Prahova",
+  "description": "Lista celor 14 de orașe, municipii din județul Prahova (PH) — unități administrativ-teritoriale urbane de nivel 2 conform SIRUTA. Reședința de județ este marcată cu is_resedinta_judet=true.",
+  "category": "geography",
+  "source": "https://github.com/ionelmc/django-siruta",
+  "source_url": "https://github.com/ionelmc/django-siruta",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "siruta_code",
+      "label": "Siruta Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_official",
+      "label": "Name Official",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet_id",
+      "label": "Judet Id",
+      "type": "number"
+    },
+    {
+      "key": "judet_name",
+      "label": "Judet Name",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "tip_code",
+      "label": "Tip Code",
+      "type": "number"
+    },
+    {
+      "key": "tip_name",
+      "label": "Tip Name",
+      "type": "string"
+    },
+    {
+      "key": "is_resedinta_judet",
+      "label": "Is Resedinta Judet",
+      "type": "boolean"
+    },
+    {
+      "key": "regiune_id",
+      "label": "Regiune Id",
+      "type": "number"
+    },
+    {
+      "key": "nuts3",
+      "label": "Nuts3",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "siruta_code": 130534,
+      "name": "Ploiești",
+      "name_official": "MUNICIPIUL PLOIEȘTI",
+      "slug": "ploiesti",
+      "judet_id": 29,
+      "judet_name": "Prahova",
+      "judet_slug": "prahova",
+      "iso_3166_2": "RO-PH",
+      "tip_code": 1,
+      "tip_name": "municipiu reședință de județ",
+      "is_resedinta_judet": true,
+      "regiune_id": 3,
+      "nuts3": "RO316"
+    },
+    {
+      "siruta_code": 130954,
+      "name": "Azuga",
+      "name_official": "ORAȘ AZUGA",
+      "slug": "azuga",
+      "judet_id": 29,
+      "judet_name": "Prahova",
+      "judet_slug": "prahova",
+      "iso_3166_2": "RO-PH",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 3,
+      "nuts3": "RO316"
+    },
+    {
+      "siruta_code": 131069,
+      "name": "Boldești-Scăeni",
+      "name_official": "ORAȘ BOLDEȘTI-SCĂENI",
+      "slug": "boldesti-scaeni",
+      "judet_id": 29,
+      "judet_name": "Prahova",
+      "judet_slug": "prahova",
+      "iso_3166_2": "RO-PH",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 3,
+      "nuts3": "RO316"
+    },
+    {
+      "siruta_code": 131103,
+      "name": "Breaza",
+      "name_official": "ORAȘ BREAZA",
+      "slug": "breaza",
+      "judet_id": 29,
+      "judet_name": "Prahova",
+      "judet_slug": "prahova",
+      "iso_3166_2": "RO-PH",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 3,
+      "nuts3": "RO316"
+    },
+    {
+      "siruta_code": 131210,
+      "name": "Bușteni",
+      "name_official": "ORAȘ BUȘTENI",
+      "slug": "busteni",
+      "judet_id": 29,
+      "judet_name": "Prahova",
+      "judet_slug": "prahova",
+      "iso_3166_2": "RO-PH",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 3,
+      "nuts3": "RO316"
+    },
+    {
+      "siruta_code": 130981,
+      "name": "Băicoi",
+      "name_official": "ORAȘ BĂICOI",
+      "slug": "baicoi",
+      "judet_id": 29,
+      "judet_name": "Prahova",
+      "judet_slug": "prahova",
+      "iso_3166_2": "RO-PH",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 3,
+      "nuts3": "RO316"
+    },
+    {
+      "siruta_code": 131336,
+      "name": "Comarnic",
+      "name_official": "ORAȘ COMARNIC",
+      "slug": "comarnic",
+      "judet_id": 29,
+      "judet_name": "Prahova",
+      "judet_slug": "prahova",
+      "iso_3166_2": "RO-PH",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 3,
+      "nuts3": "RO316"
+    },
+    {
+      "siruta_code": 131256,
+      "name": "Câmpina",
+      "name_official": "MUNICIPIUL CÂMPINA",
+      "slug": "campina",
+      "judet_id": 29,
+      "judet_name": "Prahova",
+      "judet_slug": "prahova",
+      "iso_3166_2": "RO-PH",
+      "tip_code": 4,
+      "tip_name": "municipiu",
+      "is_resedinta_judet": false,
+      "regiune_id": 3,
+      "nuts3": "RO316"
+    },
+    {
+      "siruta_code": 131407,
+      "name": "Mizil",
+      "name_official": "ORAȘ MIZIL",
+      "slug": "mizil",
+      "judet_id": 29,
+      "judet_name": "Prahova",
+      "judet_slug": "prahova",
+      "iso_3166_2": "RO-PH",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 3,
+      "nuts3": "RO316"
+    },
+    {
+      "siruta_code": 131443,
+      "name": "Plopeni",
+      "name_official": "ORAȘ PLOPENI",
+      "slug": "plopeni",
+      "judet_id": 29,
+      "judet_name": "Prahova",
+      "judet_slug": "prahova",
+      "iso_3166_2": "RO-PH",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 3,
+      "nuts3": "RO316"
+    },
+    {
+      "siruta_code": 131540,
+      "name": "Sinaia",
+      "name_official": "ORAȘ SINAIA",
+      "slug": "sinaia",
+      "judet_id": 29,
+      "judet_name": "Prahova",
+      "judet_slug": "prahova",
+      "iso_3166_2": "RO-PH",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 3,
+      "nuts3": "RO316"
+    },
+    {
+      "siruta_code": 131577,
+      "name": "Slănic",
+      "name_official": "ORAȘ SLĂNIC",
+      "slug": "slanic",
+      "judet_id": 29,
+      "judet_name": "Prahova",
+      "judet_slug": "prahova",
+      "iso_3166_2": "RO-PH",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 3,
+      "nuts3": "RO316"
+    },
+    {
+      "siruta_code": 131620,
+      "name": "Urlați",
+      "name_official": "ORAȘ URLAȚI",
+      "slug": "urlati",
+      "judet_id": 29,
+      "judet_name": "Prahova",
+      "judet_slug": "prahova",
+      "iso_3166_2": "RO-PH",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 3,
+      "nuts3": "RO316"
+    },
+    {
+      "siruta_code": 131817,
+      "name": "Vălenii De Munte",
+      "name_official": "ORAȘ VĂLENII DE MUNTE",
+      "slug": "valenii-de-munte",
+      "judet_id": 29,
+      "judet_name": "Prahova",
+      "judet_slug": "prahova",
+      "iso_3166_2": "RO-PH",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 3,
+      "nuts3": "RO316"
+    }
+  ],
+  "meta": {
+    "title": "Orașele și municipiile județului Prahova - Descărcare gratuită",
+    "description": "Lista celor 14 de orașe, municipii din județul Prahova (PH) — unități administrativ-teritoriale urbane de nivel 2 conform SIRUTA. Reședința de județ este marcată cu is_resedinta_judet=true. Conține 14 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Orașele și municipiile județului Prahova | ListBase",
+    "seo_description": "Descarcă Orașele și municipiile județului Prahova — 14 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 14 înregistrări / 13 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: https://github.com/ionelmc/django-siruta"
+    ]
+  }
+}

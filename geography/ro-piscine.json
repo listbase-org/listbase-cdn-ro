@@ -1,0 +1,1996 @@
+{
+  "id": "ro-piscine",
+  "name": "Piscine din România",
+  "title": "Piscine din România",
+  "description": "Piscine din România — 215 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `leisure=swimming_pool`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 215,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "latitudine",
+      "label": "Latitudine",
+      "type": "number"
+    },
+    {
+      "key": "longitudine",
+      "label": "Longitudine",
+      "type": "number"
+    },
+    {
+      "key": "cheie_osm",
+      "label": "Cheie Osm",
+      "type": "string"
+    },
+    {
+      "key": "valoare_osm",
+      "label": "Valoare Osm",
+      "type": "string"
+    },
+    {
+      "key": "categorie_osm",
+      "label": "Categorie Osm",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nume": "3 stalpi",
+      "latitudine": 44.962017,
+      "longitudine": 26.384456,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 2,
+      "nume": "Adulți",
+      "latitudine": 45.080361,
+      "longitudine": 24.181058,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 3,
+      "nume": "After Sauna Cold water",
+      "latitudine": 45.673603,
+      "longitudine": 25.585451,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 4,
+      "nume": "Aqua Center Dealu Frumos",
+      "latitudine": 45.98522,
+      "longitudine": 24.684073,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 5,
+      "nume": "Aqua Park Cleopatra",
+      "latitudine": 43.826081,
+      "longitudine": 28.588905,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 6,
+      "nume": "Aquaris",
+      "latitudine": 46.223267,
+      "longitudine": 24.796813,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 7,
+      "nume": "Aria Magura - Spa & Bazin de Inot - Cisnadie",
+      "latitudine": 45.707918,
+      "longitudine": 24.135544,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 8,
+      "nume": "Banffy Baths",
+      "latitudine": 46.915362,
+      "longitudine": 25.347872,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 9,
+      "nume": "Bazin 2m",
+      "latitudine": 45.753587,
+      "longitudine": 23.003045,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 10,
+      "nume": "Bazin adulți",
+      "latitudine": 46.540919,
+      "longitudine": 23.894554,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 11,
+      "nume": "Bazin copii",
+      "latitudine": 46.54068,
+      "longitudine": 23.894216,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 12,
+      "nume": "Bazin de inot",
+      "latitudine": 45.18496,
+      "longitudine": 28.7812,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 13,
+      "nume": "Bazin de inot",
+      "latitudine": 47.471667,
+      "longitudine": 22.568457,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 14,
+      "nume": "Bazin de înot",
+      "latitudine": 44.454327,
+      "longitudine": 26.134788,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 15,
+      "nume": "Bazin de înot",
+      "latitudine": 44.556819,
+      "longitudine": 27.355927,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 16,
+      "nume": "Bazin de Înot",
+      "latitudine": 44.636137,
+      "longitudine": 22.649714,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 17,
+      "nume": "Bazin de înot",
+      "latitudine": 45.786839,
+      "longitudine": 23.889462,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 18,
+      "nume": "Bazin de Înot Dante Aligheri",
+      "latitudine": 44.417755,
+      "longitudine": 26.159534,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 19,
+      "nume": "Bazin de înot dezafectat",
+      "latitudine": 45.729064,
+      "longitudine": 21.263778,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 20,
+      "nume": "Bazin de înot exterior",
+      "latitudine": 45.742971,
+      "longitudine": 21.249079,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 21,
+      "nume": "Bazin de Înot M 3",
+      "latitudine": 44.931011,
+      "longitudine": 25.441496,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 22,
+      "nume": "Bazin exterior",
+      "latitudine": 46.765493,
+      "longitudine": 23.563619,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 23,
+      "nume": "Bazin interior",
+      "latitudine": 46.766124,
+      "longitudine": 23.563749,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 24,
+      "nume": "Bazin Olimpic",
+      "latitudine": 44.435476,
+      "longitudine": 26.146662,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 25,
+      "nume": "Bazin Termal La Feredee",
+      "latitudine": 45.906551,
+      "longitudine": 23.110942,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 26,
+      "nume": "Bazin înot",
+      "latitudine": 46.934323,
+      "longitudine": 26.928472,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 27,
+      "nume": "Bazin înot - adulți",
+      "latitudine": 46.539204,
+      "longitudine": 22.455332,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 28,
+      "nume": "Bazin înot copii",
+      "latitudine": 46.539139,
+      "longitudine": 22.455129,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 29,
+      "nume": "Bazin înot olimpic",
+      "latitudine": 44.924443,
+      "longitudine": 25.486449,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 30,
+      "nume": "Bazin înot în aer liber pt adulți",
+      "latitudine": 47.544279,
+      "longitudine": 25.888057,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 31,
+      "nume": "Bazin înot în aer liber pt copii",
+      "latitudine": 47.544209,
+      "longitudine": 25.887625,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 32,
+      "nume": "Bazine Termale 1,50m",
+      "latitudine": 45.753912,
+      "longitudine": 23.003375,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 33,
+      "nume": "Bazine Termale, Hotel Roman",
+      "latitudine": 44.89642,
+      "longitudine": 22.429167,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 34,
+      "nume": "Bazinul Copiilor 1m",
+      "latitudine": 45.753736,
+      "longitudine": 23.003087,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 35,
+      "nume": "Bazinul de Inot Didactic",
+      "latitudine": 46.476071,
+      "longitudine": 24.091164,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 36,
+      "nume": "Bazinul de înot Câmpulung",
+      "latitudine": 45.289341,
+      "longitudine": 25.04903,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 37,
+      "nume": "Bazinul Mare",
+      "latitudine": 45.872766,
+      "longitudine": 22.916976,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 38,
+      "nume": "Bazinul mare",
+      "latitudine": 46.253553,
+      "longitudine": 27.67947,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 39,
+      "nume": "Bazinul Mic",
+      "latitudine": 45.8731,
+      "longitudine": 22.916944,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 40,
+      "nume": "Bazinul mic",
+      "latitudine": 46.254181,
+      "longitudine": 27.679766,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 41,
+      "nume": "Bazinul Mijlociu",
+      "latitudine": 45.873025,
+      "longitudine": 22.916552,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 42,
+      "nume": "Bazinul mijlociu",
+      "latitudine": 46.253874,
+      "longitudine": 27.679608,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 43,
+      "nume": "Bazinul Olimpic",
+      "latitudine": 45.418973,
+      "longitudine": 28.023414,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 44,
+      "nume": "Bazinul Olimpic",
+      "latitudine": 47.053974,
+      "longitudine": 21.950164,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 45,
+      "nume": "Bazinul Olimpic de Înot",
+      "latitudine": 46.557865,
+      "longitudine": 26.918617,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 46,
+      "nume": "Bazinul Termal Copii Feredee",
+      "latitudine": 45.906635,
+      "longitudine": 23.110775,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 47,
+      "nume": "Bazinul Termal La Feredee",
+      "latitudine": 45.903867,
+      "longitudine": 23.111831,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 48,
+      "nume": "Bonton",
+      "latitudine": 44.477096,
+      "longitudine": 26.088004,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 49,
+      "nume": "Băile Acâș",
+      "latitudine": 47.547265,
+      "longitudine": 22.79378,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 50,
+      "nume": "Băile Boghiș",
+      "latitudine": 47.16403,
+      "longitudine": 22.722962,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 51,
+      "nume": "Băile Jabenița",
+      "latitudine": 46.782389,
+      "longitudine": 24.788694,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 52,
+      "nume": "Băile Lipova",
+      "latitudine": 46.066653,
+      "longitudine": 21.705002,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 53,
+      "nume": "Băile termale GAI",
+      "latitudine": 46.202212,
+      "longitudine": 21.28339,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 54,
+      "nume": "Băile Valea Stelii",
+      "latitudine": 45.036024,
+      "longitudine": 25.892798,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 55,
+      "nume": "Băile Venera",
+      "latitudine": 44.885738,
+      "longitudine": 22.419779,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 56,
+      "nume": "California",
+      "latitudine": 43.851203,
+      "longitudine": 28.606715,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 57,
+      "nume": "Capitol",
+      "latitudine": 43.853709,
+      "longitudine": 28.607505,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 58,
+      "nume": "Cherry vintage home",
+      "latitudine": 44.964181,
+      "longitudine": 25.462985,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 59,
+      "nume": "Club Nova Elite",
+      "latitudine": 45.816738,
+      "longitudine": 24.970534,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 60,
+      "nume": "Clubul \"RaAy\"",
+      "latitudine": 45.258676,
+      "longitudine": 27.968126,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 61,
+      "nume": "Complex turistic Valea Iazurilor",
+      "latitudine": 44.490804,
+      "longitudine": 26.452086,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 62,
+      "nume": "Copii",
+      "latitudine": 45.080385,
+      "longitudine": 24.181224,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 63,
+      "nume": "Crazy Pool",
+      "latitudine": 44.431511,
+      "longitudine": 25.987569,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 64,
+      "nume": "Csokoládés",
+      "latitudine": 46.105956,
+      "longitudine": 25.950898,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 65,
+      "nume": "Cărpiniș Bagar piscina / Swimming pool",
+      "latitudine": 45.796946,
+      "longitudine": 20.884609,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 66,
+      "nume": "Dacii Liberi",
+      "latitudine": 47.829792,
+      "longitudine": 24.216,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 67,
+      "nume": "Dom",
+      "latitudine": 44.928475,
+      "longitudine": 25.479684,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 68,
+      "nume": "Ensana Spa Centre",
+      "latitudine": 46.602458,
+      "longitudine": 25.087473,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 69,
+      "nume": "Faleza",
+      "latitudine": 43.771653,
+      "longitudine": 24.507617,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 70,
+      "nume": "G-Club",
+      "latitudine": 45.171637,
+      "longitudine": 25.673112,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 71,
+      "nume": "Green Pool",
+      "latitudine": 44.387527,
+      "longitudine": 26.025881,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 72,
+      "nume": "Gyöngyvér;Iker",
+      "latitudine": 46.106336,
+      "longitudine": 25.951465,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 73,
+      "nume": "Hot water",
+      "latitudine": 45.673478,
+      "longitudine": 25.58561,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 74,
+      "nume": "In curba",
+      "latitudine": 44.969237,
+      "longitudine": 26.411112,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 75,
+      "nume": "Izvorul Scorilo",
+      "latitudine": 44.917744,
+      "longitudine": 22.436794,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 76,
+      "nume": "Jacuzzi",
+      "latitudine": 44.892755,
+      "longitudine": 29.5985,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 77,
+      "nume": "Keops",
+      "latitudine": 45.409026,
+      "longitudine": 23.376643,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 78,
+      "nume": "La dig",
+      "latitudine": 44.973535,
+      "longitudine": 26.410476,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 79,
+      "nume": "Lagoona Pool Dăești",
+      "latitudine": 45.17645,
+      "longitudine": 24.372486,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 80,
+      "nume": "Laguna Albastră",
+      "latitudine": 44.312892,
+      "longitudine": 23.79203,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 81,
+      "nume": "LaPlaya Pool",
+      "latitudine": 47.136265,
+      "longitudine": 27.609667,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 82,
+      "nume": "Magic",
+      "latitudine": 44.848692,
+      "longitudine": 24.837995,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 83,
+      "nume": "Malnas Bath",
+      "latitudine": 46.030897,
+      "longitudine": 25.82272,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 84,
+      "nume": "Maximus Aqua Summer Club",
+      "latitudine": 45.004704,
+      "longitudine": 26.453466,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 85,
+      "nume": "Meliss Events",
+      "latitudine": 44.33039,
+      "longitudine": 23.844134,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 86,
+      "nume": "mofetta",
+      "latitudine": 46.106071,
+      "longitudine": 25.95112,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 87,
+      "nume": "OASIS*** pool",
+      "latitudine": 43.941231,
+      "longitudine": 28.619042,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 88,
+      "nume": "Oscar SPA",
+      "latitudine": 47.171004,
+      "longitudine": 27.579615,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 89,
+      "nume": "Padiș",
+      "latitudine": 46.986988,
+      "longitudine": 21.980039,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 90,
+      "nume": "Palatul Copiilor - piscină",
+      "latitudine": 46.764589,
+      "longitudine": 23.588566,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 91,
+      "nume": "Piscina",
+      "latitudine": 44.446984,
+      "longitudine": 23.681849,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 92,
+      "nume": "Piscina - Baza Sportivă C.E.T. Arad",
+      "latitudine": 46.166933,
+      "longitudine": 21.343065,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 93,
+      "nume": "Piscina 3",
+      "latitudine": 45.520842,
+      "longitudine": 25.375916,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 94,
+      "nume": "Piscina acoperită Hotel Imperial",
+      "latitudine": 45.203574,
+      "longitudine": 24.238544,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 95,
+      "nume": "Piscina Aqua Club Bacău",
+      "latitudine": 46.609498,
+      "longitudine": 26.898904,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 96,
+      "nume": "Piscina Astoria",
+      "latitudine": 45.75295,
+      "longitudine": 22.897133,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 97,
+      "nume": "Piscina Casa Albă",
+      "latitudine": 45.687538,
+      "longitudine": 22.858131,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 98,
+      "nume": "Piscina Casa Don Pedro",
+      "latitudine": 44.489197,
+      "longitudine": 25.562225,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 99,
+      "nume": "Piscina Clubului Diplomatic",
+      "latitudine": 44.484983,
+      "longitudine": 26.078352,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 100,
+      "nume": "Piscina Complexului ASTORIA Snagov",
+      "latitudine": 44.723232,
+      "longitudine": 26.189492,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 101,
+      "nume": "Piscina Copii",
+      "latitudine": 47.47338,
+      "longitudine": 22.567923,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 102,
+      "nume": "Piscina Denis",
+      "latitudine": 46.224563,
+      "longitudine": 24.700485,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 103,
+      "nume": "Piscina Dorobanțul",
+      "latitudine": 44.935995,
+      "longitudine": 26.050369,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 104,
+      "nume": "Piscina Dragomirești",
+      "latitudine": 44.909257,
+      "longitudine": 25.337726,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 105,
+      "nume": "Piscina Duet",
+      "latitudine": 45.14777,
+      "longitudine": 26.639583,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 106,
+      "nume": "Piscina Enigma",
+      "latitudine": 45.096788,
+      "longitudine": 24.375691,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 107,
+      "nume": "Piscina Extaz",
+      "latitudine": 45.756691,
+      "longitudine": 24.199896,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 108,
+      "nume": "Piscina exterioară",
+      "latitudine": 45.521428,
+      "longitudine": 25.374621,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 109,
+      "nume": "Piscina exterioară Paradisul Acvatic",
+      "latitudine": 45.673829,
+      "longitudine": 25.584679,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 110,
+      "nume": "Piscina Green Heaven",
+      "latitudine": 45.074634,
+      "longitudine": 25.428633,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 111,
+      "nume": "Piscina GreenField",
+      "latitudine": 46.211813,
+      "longitudine": 27.671139,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 112,
+      "nume": "Piscina Imperia",
+      "latitudine": 47.792885,
+      "longitudine": 26.541868,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 113,
+      "nume": "Piscina ing. Mircea Birău",
+      "latitudine": 46.536487,
+      "longitudine": 24.554443,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 114,
+      "nume": "Piscina Interioară",
+      "latitudine": 45.75378,
+      "longitudine": 23.002824,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 115,
+      "nume": "Piscina Laguna",
+      "latitudine": 44.942592,
+      "longitudine": 26.049433,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 116,
+      "nume": "Piscina Lido",
+      "latitudine": 44.44129,
+      "longitudine": 26.098597,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 117,
+      "nume": "Piscina Măcin",
+      "latitudine": 45.226032,
+      "longitudine": 28.178927,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 118,
+      "nume": "Piscina NOA",
+      "latitudine": 44.316073,
+      "longitudine": 23.863529,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 119,
+      "nume": "Piscina olimpica",
+      "latitudine": 47.552045,
+      "longitudine": 25.895192,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 120,
+      "nume": "Piscina OXXO",
+      "latitudine": 44.812249,
+      "longitudine": 22.963977,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 121,
+      "nume": "Piscina PABO",
+      "latitudine": 47.261043,
+      "longitudine": 26.719767,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 122,
+      "nume": "Piscina Paradis",
+      "latitudine": 46.229801,
+      "longitudine": 27.668669,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 123,
+      "nume": "Piscina Paradiso",
+      "latitudine": 43.815936,
+      "longitudine": 28.585766,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 124,
+      "nume": "Piscina Plaja Olt",
+      "latitudine": 44.418856,
+      "longitudine": 24.350516,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 125,
+      "nume": "Piscina Poarta Raiului",
+      "latitudine": 45.803428,
+      "longitudine": 23.420775,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 126,
+      "nume": "Piscina Relax",
+      "latitudine": 45.201478,
+      "longitudine": 28.245411,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 127,
+      "nume": "Piscina Sunquest",
+      "latitudine": 43.848733,
+      "longitudine": 28.599062,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 128,
+      "nume": "Piscine cu hidromasaj",
+      "latitudine": 47.472289,
+      "longitudine": 22.56926,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 129,
+      "nume": "piscină",
+      "latitudine": 45.084775,
+      "longitudine": 26.411611,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 130,
+      "nume": "Piscină",
+      "latitudine": 45.168386,
+      "longitudine": 26.818531,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 131,
+      "nume": "Piscină acoperită",
+      "latitudine": 47.544286,
+      "longitudine": 25.888214,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 132,
+      "nume": "Piscină adulți",
+      "latitudine": 45.145737,
+      "longitudine": 25.694334,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 133,
+      "nume": "Piscină adulți",
+      "latitudine": 47.166357,
+      "longitudine": 27.61602,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 134,
+      "nume": "Piscină apă sărată",
+      "latitudine": 47.640071,
+      "longitudine": 25.921773,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 135,
+      "nume": "Piscină Complex La Nicole",
+      "latitudine": 44.974978,
+      "longitudine": 26.027799,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 136,
+      "nume": "Piscină copii",
+      "latitudine": 45.145794,
+      "longitudine": 25.694522,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 137,
+      "nume": "Piscină copii",
+      "latitudine": 47.166241,
+      "longitudine": 27.616156,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 138,
+      "nume": "Piscină cu apă sulfuroasă",
+      "latitudine": 45.202665,
+      "longitudine": 24.242406,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 139,
+      "nume": "Piscină cu apă sărată",
+      "latitudine": 47.638745,
+      "longitudine": 25.896401,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 140,
+      "nume": "Piscină interioară",
+      "latitudine": 46.721336,
+      "longitudine": 23.590562,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 141,
+      "nume": "Piscină interioară, saună, biliard, ping-pong, gym",
+      "latitudine": 45.039254,
+      "longitudine": 29.181474,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 142,
+      "nume": "Pișcina Aurora",
+      "latitudine": 44.223757,
+      "longitudine": 28.631879,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 143,
+      "nume": "Pișcina de bărbați",
+      "latitudine": 46.33232,
+      "longitudine": 24.300016,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 144,
+      "nume": "Pișcina Hanul Sfântul Gheorghe",
+      "latitudine": 46.145501,
+      "longitudine": 23.517056,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 145,
+      "nume": "Pișcină (denumită din anul 2016)",
+      "latitudine": 46.381128,
+      "longitudine": 23.273773,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 146,
+      "nume": "Pișcină Casa Alămor",
+      "latitudine": 45.926902,
+      "longitudine": 23.993932,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 147,
+      "nume": "Pișcină de Adulți",
+      "latitudine": 46.189718,
+      "longitudine": 24.284643,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 148,
+      "nume": "Pișcină de Adulți și Copiii",
+      "latitudine": 45.248968,
+      "longitudine": 24.338239,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 149,
+      "nume": "Pișcină de Brigadier",
+      "latitudine": 45.265579,
+      "longitudine": 24.320743,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 150,
+      "nume": "Pișcină de Copii",
+      "latitudine": 46.189417,
+      "longitudine": 24.284186,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 151,
+      "nume": "Pișcină Spa",
+      "latitudine": 46.222498,
+      "longitudine": 23.637712,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 152,
+      "nume": "Pișcină Sărata",
+      "latitudine": 45.843343,
+      "longitudine": 24.1447,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 153,
+      "nume": "Plus Aqua Wellness and Spa",
+      "latitudine": 44.311689,
+      "longitudine": 23.869458,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 154,
+      "nume": "Poienita",
+      "latitudine": 46.992837,
+      "longitudine": 21.982349,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 155,
+      "nume": "Pool",
+      "latitudine": 44.075267,
+      "longitudine": 28.638025,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 156,
+      "nume": "Pyramia (apă sărată)",
+      "latitudine": 47.554362,
+      "longitudine": 25.87726,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 157,
+      "nume": "Sideco",
+      "latitudine": 44.932309,
+      "longitudine": 25.474355,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 158,
+      "nume": "Standul Iosia Nord",
+      "latitudine": 47.068772,
+      "longitudine": 21.904914,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 159,
+      "nume": "Strand",
+      "latitudine": 45.495651,
+      "longitudine": 22.52688,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 160,
+      "nume": "STRAND ITCANI",
+      "latitudine": 47.651669,
+      "longitudine": 26.20284,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 161,
+      "nume": "Strand Mare",
+      "latitudine": 46.635295,
+      "longitudine": 27.733786,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 162,
+      "nume": "Strand Mic",
+      "latitudine": 46.635835,
+      "longitudine": 27.734001,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 163,
+      "nume": "Strand Silvia",
+      "latitudine": 45.255383,
+      "longitudine": 22.294072,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 164,
+      "nume": "Strand Tenis peste Apa Anca",
+      "latitudine": 46.115383,
+      "longitudine": 22.788618,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 165,
+      "nume": "Strand Termal Versay",
+      "latitudine": 44.877332,
+      "longitudine": 22.412654,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 166,
+      "nume": "Strand „Cetina”",
+      "latitudine": 46.118601,
+      "longitudine": 22.788798,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 167,
+      "nume": "Strandul Comexim R Lupeni",
+      "latitudine": 45.358841,
+      "longitudine": 23.212463,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 168,
+      "nume": "Sunshine",
+      "latitudine": 45.708019,
+      "longitudine": 24.122,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 169,
+      "nume": "Szejke Uszoda",
+      "latitudine": 46.33169,
+      "longitudine": 25.274817,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 170,
+      "nume": "Szentegyháza Gyöngye",
+      "latitudine": 46.337666,
+      "longitudine": 25.54701,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 171,
+      "nume": "Sânmihaiu German piscina",
+      "latitudine": 45.70937,
+      "longitudine": 21.038783,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 172,
+      "nume": "Terasa ATC",
+      "latitudine": 45.733958,
+      "longitudine": 21.172759,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 173,
+      "nume": "Timsós",
+      "latitudine": 46.106168,
+      "longitudine": 25.950593,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 174,
+      "nume": "Titanic",
+      "latitudine": 45.298802,
+      "longitudine": 21.869467,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 175,
+      "nume": "UNDA Pool",
+      "latitudine": 44.487014,
+      "longitudine": 26.06812,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 176,
+      "nume": "Urban Oasis Pool",
+      "latitudine": 44.321408,
+      "longitudine": 23.796867,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 177,
+      "nume": "Valurile Dunării",
+      "latitudine": 45.412307,
+      "longitudine": 28.027512,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 178,
+      "nume": "Valurile Dunării",
+      "latitudine": 45.413073,
+      "longitudine": 28.028313,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 179,
+      "nume": "VIP San Gym",
+      "latitudine": 46.925242,
+      "longitudine": 26.370236,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 180,
+      "nume": "Șapte Izvoare",
+      "latitudine": 44.921836,
+      "longitudine": 22.444177,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 181,
+      "nume": "Școala de înot Gheorghe Oancea",
+      "latitudine": 44.203219,
+      "longitudine": 28.635863,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 182,
+      "nume": "Ștrand",
+      "latitudine": 43.759806,
+      "longitudine": 24.878866,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 183,
+      "nume": "Ștrand",
+      "latitudine": 45.249063,
+      "longitudine": 24.338186,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 184,
+      "nume": "Ștrand",
+      "latitudine": 46.067965,
+      "longitudine": 20.623517,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 185,
+      "nume": "Ștrand Aiud",
+      "latitudine": 46.309514,
+      "longitudine": 23.721719,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 186,
+      "nume": "Ștrand Amana Inn",
+      "latitudine": 45.12901,
+      "longitudine": 25.728531,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 187,
+      "nume": "Ștrand Batca",
+      "latitudine": 44.658775,
+      "longitudine": 24.268157,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 188,
+      "nume": "Ștrand Brăila",
+      "latitudine": 45.26283,
+      "longitudine": 27.971002,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 189,
+      "nume": "Ștrand Băile Călacea",
+      "latitudine": 45.942216,
+      "longitudine": 21.106475,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 190,
+      "nume": "Ștrand Camelot",
+      "latitudine": 45.260233,
+      "longitudine": 24.322088,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 191,
+      "nume": "Ștrand Casa Tineretului",
+      "latitudine": 45.118328,
+      "longitudine": 25.741831,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 192,
+      "nume": "Ștrand Complexe",
+      "latitudine": 45.266505,
+      "longitudine": 24.320717,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 193,
+      "nume": "Ștrand cu valuri 1 Mai",
+      "latitudine": 46.995219,
+      "longitudine": 22.004368,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 194,
+      "nume": "Ștrand Curtea de Argeș",
+      "latitudine": 45.143202,
+      "longitudine": 24.672394,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 195,
+      "nume": "Ștrand Căciulata",
+      "latitudine": 45.257578,
+      "longitudine": 24.316669,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 196,
+      "nume": "Ștrand Expro",
+      "latitudine": 46.189363,
+      "longitudine": 24.284651,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 197,
+      "nume": "Ștrand Gulești",
+      "latitudine": 44.468697,
+      "longitudine": 26.03005,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 198,
+      "nume": "Ștrand Paradis",
+      "latitudine": 45.149655,
+      "longitudine": 26.635918,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 199,
+      "nume": "Ștrand Pașcani",
+      "latitudine": 47.249441,
+      "longitudine": 26.71242,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 200,
+      "nume": "Ștrand termal Gai",
+      "latitudine": 46.202831,
+      "longitudine": 21.283508,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 201,
+      "nume": "Ștrand Terminal Cerbu Arini",
+      "latitudine": 46.012849,
+      "longitudine": 23.554004,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 202,
+      "nume": "Ștrand Terminal Veștem",
+      "latitudine": 45.718095,
+      "longitudine": 24.236486,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 203,
+      "nume": "Ștrand Trivale",
+      "latitudine": 44.852928,
+      "longitudine": 24.856496,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 204,
+      "nume": "Ștrandul Banffy",
+      "latitudine": 46.915014,
+      "longitudine": 25.347511,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 205,
+      "nume": "Ștrandul Hanul Doctorului",
+      "latitudine": 44.312783,
+      "longitudine": 23.865649,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 206,
+      "nume": "Ștrandul Ișalnița",
+      "latitudine": 44.376483,
+      "longitudine": 23.738848,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 207,
+      "nume": "Ștrandul Mare",
+      "latitudine": 46.225951,
+      "longitudine": 24.804371,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 208,
+      "nume": "Ștrandul Municipal",
+      "latitudine": 45.865079,
+      "longitudine": 25.800296,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 209,
+      "nume": "Ștrandul Municipal",
+      "latitudine": 46.255487,
+      "longitudine": 26.767864,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 210,
+      "nume": "Ștrandul orășenesc Rovinari",
+      "latitudine": 44.898955,
+      "longitudine": 23.158247,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 211,
+      "nume": "Ștrandul Parcul Tineretului",
+      "latitudine": 45.163727,
+      "longitudine": 26.834352,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 212,
+      "nume": "Ștrandul Salinei",
+      "latitudine": 46.283714,
+      "longitudine": 26.603664,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 213,
+      "nume": "Ștrandul Săcelu",
+      "latitudine": 45.106581,
+      "longitudine": 23.54187,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 214,
+      "nume": "Ștrandul Termal Ring",
+      "latitudine": 45.074703,
+      "longitudine": 21.630071,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    },
+    {
+      "id": 215,
+      "nume": "Ștrandul Urmánczy",
+      "latitudine": 46.923754,
+      "longitudine": 25.346738,
+      "cheie_osm": "leisure",
+      "valoare_osm": "swimming_pool",
+      "categorie_osm": "leisure=swimming_pool"
+    }
+  ],
+  "meta": {
+    "title": "Piscine din România - Descărcare gratuită",
+    "description": "Piscine din România — 215 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `leisure=swimming_pool`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează. Conține 215 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Piscine din România | ListBase",
+    "seo_description": "Descarcă Piscine din România — 215 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 215 înregistrări / 7 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

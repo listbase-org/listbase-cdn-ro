@@ -1,0 +1,2221 @@
+{
+  "id": "ro-stadioane",
+  "name": "Stadioane din România",
+  "title": "Stadioane din România",
+  "description": "Stadioane din România — 240 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `leisure=stadium`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 240,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "latitudine",
+      "label": "Latitudine",
+      "type": "number"
+    },
+    {
+      "key": "longitudine",
+      "label": "Longitudine",
+      "type": "number"
+    },
+    {
+      "key": "cheie_osm",
+      "label": "Cheie Osm",
+      "type": "string"
+    },
+    {
+      "key": "valoare_osm",
+      "label": "Valoare Osm",
+      "type": "string"
+    },
+    {
+      "key": "categorie_osm",
+      "label": "Categorie Osm",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nume": "10 Mai",
+      "latitudine": 47.920091,
+      "longitudine": 26.077121,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 2,
+      "nume": "A.S. Biharea Vașcău",
+      "latitudine": 46.468879,
+      "longitudine": 22.474007,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 3,
+      "nume": "A.S. Mureșul Vințu de Jos",
+      "latitudine": 45.997148,
+      "longitudine": 23.487923,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 4,
+      "nume": "Arena Centrală",
+      "latitudine": 44.430829,
+      "longitudine": 26.07662,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 5,
+      "nume": "Arena Națională",
+      "latitudine": 44.437211,
+      "longitudine": 26.152465,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 6,
+      "nume": "Arena Sepsi OSK",
+      "latitudine": 45.883514,
+      "longitudine": 25.806602,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 7,
+      "nume": "Arena Sepsi OSK",
+      "latitudine": 45.883904,
+      "longitudine": 25.806051,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 8,
+      "nume": "Arena Targoviste",
+      "latitudine": 44.913897,
+      "longitudine": 25.464214,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 9,
+      "nume": "Baza sportivă nr. 1 Politehnica",
+      "latitudine": 45.746136,
+      "longitudine": 21.228371,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 10,
+      "nume": "Chimia Brazi",
+      "latitudine": 44.883045,
+      "longitudine": 26.014494,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 11,
+      "nume": "Clubul Sportiv",
+      "latitudine": 44.843209,
+      "longitudine": 24.885302,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 12,
+      "nume": "Cluj Arena",
+      "latitudine": 46.768505,
+      "longitudine": 23.57234,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 13,
+      "nume": "FC Dunărea Călărași",
+      "latitudine": 44.200598,
+      "longitudine": 27.327572,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 14,
+      "nume": "Football Stadium",
+      "latitudine": 47.163976,
+      "longitudine": 22.879093,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 15,
+      "nume": "Gloria",
+      "latitudine": 46.166748,
+      "longitudine": 21.32336,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 16,
+      "nume": "Herneacova",
+      "latitudine": 45.884324,
+      "longitudine": 21.517426,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 17,
+      "nume": "Inter Voluntari",
+      "latitudine": 44.486432,
+      "longitudine": 26.173546,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 18,
+      "nume": "Jucu Arena",
+      "latitudine": 46.860304,
+      "longitudine": 23.793107,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 19,
+      "nume": "Magic Stadium",
+      "latitudine": 47.157687,
+      "longitudine": 27.604797,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 20,
+      "nume": "MSC stadion",
+      "latitudine": 45.863366,
+      "longitudine": 25.777464,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 21,
+      "nume": "Park Arena",
+      "latitudine": 45.832137,
+      "longitudine": 24.968405,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 22,
+      "nume": "Peluza Catalin Hildan",
+      "latitudine": 44.455876,
+      "longitudine": 26.10222,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 23,
+      "nume": "Pistă atletism",
+      "latitudine": 45.257153,
+      "longitudine": 27.944855,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 24,
+      "nume": "Sala Polivalentă",
+      "latitudine": 44.405336,
+      "longitudine": 26.110052,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 25,
+      "nume": "Soimii",
+      "latitudine": 46.330875,
+      "longitudine": 21.683808,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 26,
+      "nume": "Stadion",
+      "latitudine": 44.207743,
+      "longitudine": 26.903219,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 27,
+      "nume": "Stadion",
+      "latitudine": 44.221877,
+      "longitudine": 26.14855,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 28,
+      "nume": "Stadion",
+      "latitudine": 44.71107,
+      "longitudine": 22.403918,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 29,
+      "nume": "Stadion",
+      "latitudine": 44.895242,
+      "longitudine": 28.722308,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 30,
+      "nume": "Stadion",
+      "latitudine": 45.212785,
+      "longitudine": 21.913024,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 31,
+      "nume": "Stadion",
+      "latitudine": 45.495893,
+      "longitudine": 22.52608,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 32,
+      "nume": "Stadion",
+      "latitudine": 46.369552,
+      "longitudine": 22.127049,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 33,
+      "nume": "Stadion",
+      "latitudine": 46.91946,
+      "longitudine": 25.355635,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 34,
+      "nume": "Stadion",
+      "latitudine": 46.998512,
+      "longitudine": 24.620002,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 35,
+      "nume": "Stadion",
+      "latitudine": 47.841928,
+      "longitudine": 25.90353,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 36,
+      "nume": "Stadion \"Bihoreana\"",
+      "latitudine": 47.351433,
+      "longitudine": 22.336338,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 37,
+      "nume": "Stadion \"Electro\"",
+      "latitudine": 45.854626,
+      "longitudine": 25.804644,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 38,
+      "nume": "Stadion - Hoceni",
+      "latitudine": 46.535363,
+      "longitudine": 28.011177,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 39,
+      "nume": "Stadion Afumați",
+      "latitudine": 44.533014,
+      "longitudine": 26.25968,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 40,
+      "nume": "Stadion Aninoasa",
+      "latitudine": 44.968889,
+      "longitudine": 25.445206,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 41,
+      "nume": "Stadion Areni",
+      "latitudine": 47.639299,
+      "longitudine": 26.246044,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 42,
+      "nume": "Stadion Aurul Brad",
+      "latitudine": 46.136238,
+      "longitudine": 22.789735,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 43,
+      "nume": "Stadion Berevoesti",
+      "latitudine": 45.227726,
+      "longitudine": 24.93505,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 44,
+      "nume": "Stadion Bididia",
+      "latitudine": 45.164072,
+      "longitudine": 28.825464,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 45,
+      "nume": "Stadion Bonțida",
+      "latitudine": 46.908224,
+      "longitudine": 23.810306,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 46,
+      "nume": "Stadion Brusturi",
+      "latitudine": 47.1531,
+      "longitudine": 22.236991,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 47,
+      "nume": "Stadion Bălan",
+      "latitudine": 46.644331,
+      "longitudine": 25.81893,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 48,
+      "nume": "Stadion Bănești",
+      "latitudine": 45.097271,
+      "longitudine": 25.765426,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 49,
+      "nume": "Stadion Ceramica Marginea",
+      "latitudine": 47.798677,
+      "longitudine": 25.829426,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 50,
+      "nume": "Stadion Cetate Deva",
+      "latitudine": 45.890108,
+      "longitudine": 22.901639,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 51,
+      "nume": "Stadion Cetatea",
+      "latitudine": 47.209983,
+      "longitudine": 26.342854,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 52,
+      "nume": "Stadion Concefa (Șoimii)",
+      "latitudine": 45.796405,
+      "longitudine": 24.182368,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 53,
+      "nume": "Stadion Crișcior",
+      "latitudine": 46.11983,
+      "longitudine": 22.852582,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 54,
+      "nume": "Stadion CSM Onești",
+      "latitudine": 46.251929,
+      "longitudine": 26.775465,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 55,
+      "nume": "Stadion Dej",
+      "latitudine": 47.147266,
+      "longitudine": 23.871997,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 56,
+      "nume": "Stadion Domnești",
+      "latitudine": 45.209843,
+      "longitudine": 24.846042,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 57,
+      "nume": "Stadion Electrica",
+      "latitudine": 45.769311,
+      "longitudine": 21.254479,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 58,
+      "nume": "Stadion Fortuna",
+      "latitudine": 45.130212,
+      "longitudine": 25.715925,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 59,
+      "nume": "Stadion fotbal",
+      "latitudine": 46.792606,
+      "longitudine": 21.774141,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 60,
+      "nume": "Stadion Gheorghe Răscanu",
+      "latitudine": 45.756253,
+      "longitudine": 21.184064,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 61,
+      "nume": "Stadion Godeni",
+      "latitudine": 45.216542,
+      "longitudine": 24.979103,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 62,
+      "nume": "Stadion ICIM",
+      "latitudine": 45.636174,
+      "longitudine": 25.62938,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 63,
+      "nume": "Stadion Lunca Cetățuii",
+      "latitudine": 47.099247,
+      "longitudine": 27.562236,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 64,
+      "nume": "Stadion Progresul",
+      "latitudine": 44.347752,
+      "longitudine": 24.099714,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 65,
+      "nume": "Stadion Putna",
+      "latitudine": 47.872588,
+      "longitudine": 25.615263,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 66,
+      "nume": "Stadion Roman",
+      "latitudine": 46.935207,
+      "longitudine": 26.929364,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 67,
+      "nume": "Stadion Tineretului Ing. Gheorghe Costache",
+      "latitudine": 47.431339,
+      "longitudine": 26.903507,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 68,
+      "nume": "Stadion Unio",
+      "latitudine": 47.767083,
+      "longitudine": 22.881249,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 69,
+      "nume": "Stadion Unirea",
+      "latitudine": 46.068877,
+      "longitudine": 20.626891,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 70,
+      "nume": "stadion Urzica",
+      "latitudine": 43.857277,
+      "longitudine": 24.291211,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 71,
+      "nume": "Stadion Vladesti de Jos",
+      "latitudine": 45.152909,
+      "longitudine": 24.923635,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 72,
+      "nume": "Stadion Vladesti de Sus",
+      "latitudine": 45.175019,
+      "longitudine": 24.916196,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 73,
+      "nume": "Stadionul \"Milcovul\"",
+      "latitudine": 45.675409,
+      "longitudine": 27.177872,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 74,
+      "nume": "Stadionul 1 Mai",
+      "latitudine": 44.423119,
+      "longitudine": 24.350431,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 75,
+      "nume": "Stadionul 1 Mai",
+      "latitudine": 47.948792,
+      "longitudine": 26.383708,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 76,
+      "nume": "Stadionul AC Stremț",
+      "latitudine": 46.226172,
+      "longitudine": 23.63585,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 77,
+      "nume": "Stadionul Albești",
+      "latitudine": 46.236583,
+      "longitudine": 24.818613,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 78,
+      "nume": "Stadionul Angelescu",
+      "latitudine": 44.634927,
+      "longitudine": 22.649174,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 79,
+      "nume": "Stadionul Arcul de Triumf",
+      "latitudine": 44.468539,
+      "longitudine": 26.075039,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 80,
+      "nume": "Stadionul Arieșul",
+      "latitudine": 46.381402,
+      "longitudine": 23.274758,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 81,
+      "nume": "Stadionul Astra",
+      "latitudine": 44.9286,
+      "longitudine": 26.004301,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 82,
+      "nume": "Stadionul Bihorul Beiuș",
+      "latitudine": 46.670874,
+      "longitudine": 22.358926,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 83,
+      "nume": "Stadionul Bucu",
+      "latitudine": 44.603538,
+      "longitudine": 27.49219,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 84,
+      "nume": "Stadionul Bâlta Filiași",
+      "latitudine": 44.534137,
+      "longitudine": 23.471009,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 85,
+      "nume": "Stadionul C.F.R. Marmosim",
+      "latitudine": 45.845537,
+      "longitudine": 23.010775,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 86,
+      "nume": "Stadionul Ceahlăul",
+      "latitudine": 46.938641,
+      "longitudine": 26.354488,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 87,
+      "nume": "Stadionul Cetate",
+      "latitudine": 46.078955,
+      "longitudine": 23.566597,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 88,
+      "nume": "Stadionul Chitila",
+      "latitudine": 44.505578,
+      "longitudine": 25.993785,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 89,
+      "nume": "Stadionul Colentina",
+      "latitudine": 44.466129,
+      "longitudine": 26.14503,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 90,
+      "nume": "Stadionul Comunal",
+      "latitudine": 46.747801,
+      "longitudine": 23.499009,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 91,
+      "nume": "Stadionul Comunal Agăș",
+      "latitudine": 46.489012,
+      "longitudine": 26.215062,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 92,
+      "nume": "Stadionul comunal Bârnova",
+      "latitudine": 47.083511,
+      "longitudine": 27.622371,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 93,
+      "nume": "Stadionul CONCAS",
+      "latitudine": 45.157194,
+      "longitudine": 26.798843,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 94,
+      "nume": "Stadionul Concordia",
+      "latitudine": 44.462813,
+      "longitudine": 25.975606,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 95,
+      "nume": "Stadionul Constructorul",
+      "latitudine": 45.752592,
+      "longitudine": 22.903484,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 96,
+      "nume": "Stadionul Copșa Mică",
+      "latitudine": 46.109051,
+      "longitudine": 24.222734,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 97,
+      "nume": "Stadionul Cotroceni",
+      "latitudine": 44.42774,
+      "longitudine": 26.074917,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 98,
+      "nume": "Stadionul CSM",
+      "latitudine": 45.862887,
+      "longitudine": 25.776137,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 99,
+      "nume": "Stadionul CSM Adjud",
+      "latitudine": 46.094866,
+      "longitudine": 27.188368,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 100,
+      "nume": "Stadionul Cătălin Hildan",
+      "latitudine": 44.464301,
+      "longitudine": 26.332704,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 101,
+      "nume": "Stadionul de Atletism Nicolae Mărășescu",
+      "latitudine": 44.313524,
+      "longitudine": 23.781179,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 102,
+      "nume": "Stadionul de forbal ,,Vointa Cochirleanca\"",
+      "latitudine": 45.208657,
+      "longitudine": 27.058558,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 103,
+      "nume": "Stadionul Delta",
+      "latitudine": 45.182525,
+      "longitudine": 28.779692,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 104,
+      "nume": "Stadionul Dinamo",
+      "latitudine": 44.455128,
+      "longitudine": 26.102301,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 105,
+      "nume": "Stadionul Dr. Constantin Rădulescu",
+      "latitudine": 46.779366,
+      "longitudine": 23.577884,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 106,
+      "nume": "Stadionul Dunărea",
+      "latitudine": 43.662887,
+      "longitudine": 25.366223,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 107,
+      "nume": "Stadionul Dunărea",
+      "latitudine": 43.992547,
+      "longitudine": 22.941096,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 108,
+      "nume": "Stadionul Dunărea",
+      "latitudine": 45.420568,
+      "longitudine": 28.023365,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 109,
+      "nume": "Stadionul Electromagnetica",
+      "latitudine": 44.406014,
+      "longitudine": 26.084994,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 110,
+      "nume": "Stadionul Emil Alexandrescu",
+      "latitudine": 47.184538,
+      "longitudine": 27.561141,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 111,
+      "nume": "Stadionul Extensiv",
+      "latitudine": 44.294615,
+      "longitudine": 23.807683,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 112,
+      "nume": "Stadionul F.C. Internațional",
+      "latitudine": 44.858845,
+      "longitudine": 24.884652,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 113,
+      "nume": "Stadionul Faur",
+      "latitudine": 44.442582,
+      "longitudine": 26.193832,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 114,
+      "nume": "Stadionul FC Onești",
+      "latitudine": 46.252238,
+      "longitudine": 26.778876,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 115,
+      "nume": "Stadionul FC Viitorul",
+      "latitudine": 44.403397,
+      "longitudine": 25.911179,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 116,
+      "nume": "Stadionul FCB Zagon",
+      "latitudine": 45.77033,
+      "longitudine": 26.109034,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 117,
+      "nume": "Stadionul Francisc von Neumann",
+      "latitudine": 46.192614,
+      "longitudine": 21.311954,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 118,
+      "nume": "Stadionul Frontiera Curtici",
+      "latitudine": 46.336706,
+      "longitudine": 21.299039,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 119,
+      "nume": "Stadionul Galda de Jos",
+      "latitudine": 46.178561,
+      "longitudine": 23.62349,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 120,
+      "nume": "Stadionul Gaz Metan",
+      "latitudine": 46.172576,
+      "longitudine": 24.352671,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 121,
+      "nume": "Stadionul Gheorghe Silaev",
+      "latitudine": 45.047407,
+      "longitudine": 25.947722,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 122,
+      "nume": "Stadionul Girueta (abandonat)",
+      "latitudine": 44.386333,
+      "longitudine": 26.097624,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 123,
+      "nume": "Stadionul Gloria",
+      "latitudine": 45.145898,
+      "longitudine": 26.803297,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 124,
+      "nume": "Stadionul Gloria Reșița",
+      "latitudine": 45.324245,
+      "longitudine": 21.883246,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 125,
+      "nume": "Stadionul Ighiu",
+      "latitudine": 46.147592,
+      "longitudine": 23.515143,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 126,
+      "nume": "Stadionul Ilie Oană",
+      "latitudine": 44.940618,
+      "longitudine": 26.034308,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 127,
+      "nume": "Stadionul Independența",
+      "latitudine": 45.814919,
+      "longitudine": 24.153284,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 128,
+      "nume": "Stadionul Ineu",
+      "latitudine": 46.424812,
+      "longitudine": 21.832772,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 129,
+      "nume": "Stadionul Iolanda Balaș-Söter",
+      "latitudine": 44.470363,
+      "longitudine": 26.074141,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 130,
+      "nume": "Stadionul Ion Oblemenco",
+      "latitudine": 44.314068,
+      "longitudine": 23.784236,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 131,
+      "nume": "Stadionul IPA Slatina",
+      "latitudine": 44.417542,
+      "longitudine": 24.388212,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 132,
+      "nume": "Stadionul Iuliu Bodola",
+      "latitudine": 47.072105,
+      "longitudine": 21.929907,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 133,
+      "nume": "Stadionul Jean Pădureanu",
+      "latitudine": 47.130774,
+      "longitudine": 24.502835,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 134,
+      "nume": "Stadionul Ladislau Bölöni",
+      "latitudine": 46.54996,
+      "longitudine": 24.548823,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 135,
+      "nume": "Stadionul Lascăr Ghineț",
+      "latitudine": 47.647921,
+      "longitudine": 23.569673,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 136,
+      "nume": "Stadionul Marin Anastasovici",
+      "latitudine": 43.89628,
+      "longitudine": 25.981293,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 137,
+      "nume": "Stadionul Matei Ștefan",
+      "latitudine": 44.100793,
+      "longitudine": 23.741824,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 138,
+      "nume": "Stadionul MEdC Rocar",
+      "latitudine": 44.390153,
+      "longitudine": 26.103432,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 139,
+      "nume": "Stadionul Metaloglobus",
+      "latitudine": 44.442123,
+      "longitudine": 26.185422,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 140,
+      "nume": "Stadionul Metalul Aiud",
+      "latitudine": 46.312357,
+      "longitudine": 23.729881,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 141,
+      "nume": "Stadionul Michael Klein",
+      "latitudine": 45.761681,
+      "longitudine": 22.912977,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 142,
+      "nume": "Stadionul Mihai Adam",
+      "latitudine": 46.540782,
+      "longitudine": 23.884135,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 143,
+      "nume": "Stadionul Minerul",
+      "latitudine": 45.014019,
+      "longitudine": 25.750343,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 144,
+      "nume": "Stadionul Minerul Ghelari",
+      "latitudine": 45.704638,
+      "longitudine": 22.780597,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 145,
+      "nume": "Stadionul Minerul Ștei",
+      "latitudine": 46.540388,
+      "longitudine": 22.46164,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 146,
+      "nume": "Stadionul Mioveni",
+      "latitudine": 44.960062,
+      "longitudine": 24.940595,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 147,
+      "nume": "Stadionul Mircea Chivu",
+      "latitudine": 45.281878,
+      "longitudine": 21.889332,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 148,
+      "nume": "Stadionul Moldova",
+      "latitudine": 46.913374,
+      "longitudine": 26.929674,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 149,
+      "nume": "Stadionul Municipal",
+      "latitudine": 44.638714,
+      "longitudine": 22.667199,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 150,
+      "nume": "Stadionul Municipal",
+      "latitudine": 44.662081,
+      "longitudine": 24.270501,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 151,
+      "nume": "Stadionul Municipal",
+      "latitudine": 45.258101,
+      "longitudine": 27.947023,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 152,
+      "nume": "Stadionul Municipal",
+      "latitudine": 45.376799,
+      "longitudine": 27.031322,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 153,
+      "nume": "Stadionul Municipal",
+      "latitudine": 46.557369,
+      "longitudine": 26.913366,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 154,
+      "nume": "Stadionul Municipal",
+      "latitudine": 47.172881,
+      "longitudine": 23.0596,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 155,
+      "nume": "Stadionul Municipal Alexandria",
+      "latitudine": 43.974981,
+      "longitudine": 25.336765,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 156,
+      "nume": "Stadionul Municipal Avântul Reghin",
+      "latitudine": 46.780851,
+      "longitudine": 24.710722,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 157,
+      "nume": "Stadionul Municipal Botoșani",
+      "latitudine": 47.7483,
+      "longitudine": 26.652041,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 158,
+      "nume": "Stadionul Municipal Dunărea",
+      "latitudine": 43.991981,
+      "longitudine": 22.941059,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 159,
+      "nume": "Stadionul Municipal Eugen Popescu",
+      "latitudine": 44.931601,
+      "longitudine": 25.46227,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 160,
+      "nume": "Stadionul Municipal Gheorgheni",
+      "latitudine": 46.724904,
+      "longitudine": 25.592168,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 161,
+      "nume": "Stadionul Municipal Motru",
+      "latitudine": 44.808036,
+      "longitudine": 22.961958,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 162,
+      "nume": "Stadionul municipal Pașcani",
+      "latitudine": 47.250052,
+      "longitudine": 26.710896,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 163,
+      "nume": "Stadionul Municipal Sibiu",
+      "latitudine": 45.78334,
+      "longitudine": 24.143782,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 164,
+      "nume": "Stadionul Municipal Turda",
+      "latitudine": 46.563233,
+      "longitudine": 23.823949,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 165,
+      "nume": "Stadionul Municipal Vaslui",
+      "latitudine": 46.633566,
+      "longitudine": 27.733091,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 166,
+      "nume": "Stadionul Măcin",
+      "latitudine": 45.24812,
+      "longitudine": 28.128834,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 167,
+      "nume": "Stadionul Național de Atletism",
+      "latitudine": 44.434426,
+      "longitudine": 26.152141,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 168,
+      "nume": "Stadionul Nicolae Dobrin",
+      "latitudine": 44.846603,
+      "longitudine": 24.86641,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 169,
+      "nume": "Stadionul Olimpia",
+      "latitudine": 45.78593,
+      "longitudine": 24.141627,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 170,
+      "nume": "Stadionul Olimpia Gherla",
+      "latitudine": 47.033274,
+      "longitudine": 23.904487,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 171,
+      "nume": "Stadionul Orasenesc Darabani",
+      "latitudine": 48.189741,
+      "longitudine": 26.581386,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 172,
+      "nume": "Stadionul Orășenesc (Ovidiu)",
+      "latitudine": 44.2642,
+      "longitudine": 28.556243,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 173,
+      "nume": "Stadionul orășenesc Huedin",
+      "latitudine": 46.858632,
+      "longitudine": 23.026986,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 174,
+      "nume": "Stadionul Oțelul",
+      "latitudine": 45.430277,
+      "longitudine": 28.02212,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 175,
+      "nume": "Stadionul Oțelul Ștei",
+      "latitudine": 46.537462,
+      "longitudine": 22.467758,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 176,
+      "nume": "Stadionul Padureni",
+      "latitudine": 47.974444,
+      "longitudine": 26.314243,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 177,
+      "nume": "Stadionul Panciu",
+      "latitudine": 45.90857,
+      "longitudine": 27.099134,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 178,
+      "nume": "Stadionul Parangul",
+      "latitudine": 45.440504,
+      "longitudine": 23.413402,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 179,
+      "nume": "Stadionul Parc",
+      "latitudine": 45.841201,
+      "longitudine": 23.35506,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 180,
+      "nume": "Stadionul Petroliștilor",
+      "latitudine": 44.981764,
+      "longitudine": 25.649568,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 181,
+      "nume": "Stadionul Petrolul",
+      "latitudine": 45.03104,
+      "longitudine": 25.837022,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 182,
+      "nume": "Stadionul Phoenix",
+      "latitudine": 47.655625,
+      "longitudine": 23.592441,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 183,
+      "nume": "Stadionul Piatra Olt",
+      "latitudine": 44.366195,
+      "longitudine": 24.260379,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 184,
+      "nume": "Stadionul Portul",
+      "latitudine": 44.164211,
+      "longitudine": 28.634304,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 185,
+      "nume": "Stadionul Portul Roșu",
+      "latitudine": 45.452004,
+      "longitudine": 28.049734,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 186,
+      "nume": "Stadionul Premium Wellness Institute (IMGB)",
+      "latitudine": 44.367505,
+      "longitudine": 26.135585,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 187,
+      "nume": "Stadionul Progresul",
+      "latitudine": 44.032291,
+      "longitudine": 23.350524,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 188,
+      "nume": "Stadionul Progresul",
+      "latitudine": 45.304867,
+      "longitudine": 27.966077,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 189,
+      "nume": "Stadionul Romprim",
+      "latitudine": 44.388984,
+      "longitudine": 26.135741,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 190,
+      "nume": "Stadionul Rova Roșiori",
+      "latitudine": 44.111599,
+      "longitudine": 24.985185,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 191,
+      "nume": "Stadionul San Siro",
+      "latitudine": 43.772049,
+      "longitudine": 24.500183,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 192,
+      "nume": "Stadionul Sculeni",
+      "latitudine": 47.32867,
+      "longitudine": 27.622512,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 193,
+      "nume": "Stadionul Siderurgistul",
+      "latitudine": 45.420676,
+      "longitudine": 28.026862,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 194,
+      "nume": "Stadionul Sinkovits",
+      "latitudine": 45.998112,
+      "longitudine": 26.125338,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 195,
+      "nume": "Stadionul Soldanu",
+      "latitudine": 44.225729,
+      "longitudine": 26.51192,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 196,
+      "nume": "Stadionul Steaua",
+      "latitudine": 44.413055,
+      "longitudine": 26.040285,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 197,
+      "nume": "Stadionul Steaua Română",
+      "latitudine": 45.11758,
+      "longitudine": 25.743373,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 198,
+      "nume": "Stadionul Studențesc",
+      "latitudine": 44.471065,
+      "longitudine": 26.114192,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 199,
+      "nume": "Stadionul Săgeata Năvodari",
+      "latitudine": 44.325008,
+      "longitudine": 28.618352,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 200,
+      "nume": "Stadionul Teiuș",
+      "latitudine": 46.207216,
+      "longitudine": 23.690283,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 201,
+      "nume": "Stadionul TEPRO",
+      "latitudine": 47.165274,
+      "longitudine": 27.613594,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 202,
+      "nume": "Stadionul Textila",
+      "latitudine": 44.11514,
+      "longitudine": 25.003195,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 203,
+      "nume": "Stadionul Tineretului",
+      "latitudine": 44.712657,
+      "longitudine": 26.655897,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 204,
+      "nume": "Stadionul Tineretului",
+      "latitudine": 44.99704,
+      "longitudine": 26.436119,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 205,
+      "nume": "Stadionul Tineretului",
+      "latitudine": 45.664767,
+      "longitudine": 25.585511,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 206,
+      "nume": "Stadionul Tineretului",
+      "latitudine": 45.674407,
+      "longitudine": 21.910752,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 207,
+      "nume": "Stadionul Tomești",
+      "latitudine": 47.134669,
+      "longitudine": 27.687969,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 208,
+      "nume": "Stadionul TreiColine",
+      "latitudine": 47.7273,
+      "longitudine": 26.676746,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 209,
+      "nume": "Stadionul Tudor Vladimirescu",
+      "latitudine": 45.043601,
+      "longitudine": 23.269886,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 210,
+      "nume": "Stadionul Târnavele",
+      "latitudine": 46.174081,
+      "longitudine": 23.919117,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 211,
+      "nume": "Stadionul Unirea",
+      "latitudine": 45.741841,
+      "longitudine": 27.118812,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 212,
+      "nume": "Stadionul Unirea Săveni",
+      "latitudine": 47.954965,
+      "longitudine": 26.855515,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 213,
+      "nume": "Stadionul Viorel Mateianu",
+      "latitudine": 47.664738,
+      "longitudine": 23.579103,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 214,
+      "nume": "Stadionul Voința",
+      "latitudine": 45.791234,
+      "longitudine": 24.132552,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 215,
+      "nume": "Stadionul Voluntari Anghel Iordanescu",
+      "latitudine": 44.499973,
+      "longitudine": 26.144294,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 216,
+      "nume": "Stadionul Voluntari Anghel Iordănescu",
+      "latitudine": 44.499533,
+      "longitudine": 26.145825,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 217,
+      "nume": "Stadionul Zlatna",
+      "latitudine": 46.115273,
+      "longitudine": 23.211682,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 218,
+      "nume": "Stadionul Zăvoi",
+      "latitudine": 45.103229,
+      "longitudine": 24.352388,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 219,
+      "nume": "Stadionul Șoimii Șimand",
+      "latitudine": 46.42284,
+      "longitudine": 21.451085,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 220,
+      "nume": "Stadionul „Sportul Studențesc”",
+      "latitudine": 44.448112,
+      "longitudine": 26.05271,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 221,
+      "nume": "Stadionul „Ștefan Dobay”",
+      "latitudine": 45.799071,
+      "longitudine": 21.249782,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 222,
+      "nume": "Superbet Arena - Giulești",
+      "latitudine": 44.455822,
+      "longitudine": 26.056676,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 223,
+      "nume": "Tennis Stadium",
+      "latitudine": 47.156293,
+      "longitudine": 27.563721,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 224,
+      "nume": "Teren Boholt",
+      "latitudine": 45.93222,
+      "longitudine": 22.90767,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 225,
+      "nume": "Teren de Fotbal",
+      "latitudine": 45.173802,
+      "longitudine": 25.694834,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 226,
+      "nume": "Teren de fotbal",
+      "latitudine": 45.888161,
+      "longitudine": 23.796856,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 227,
+      "nume": "Teren de Fotbal",
+      "latitudine": 46.077814,
+      "longitudine": 27.270993,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 228,
+      "nume": "Teren de Fotbal",
+      "latitudine": 46.521901,
+      "longitudine": 26.178106,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 229,
+      "nume": "Teren de fotbal Grădiștea",
+      "latitudine": 44.885959,
+      "longitudine": 26.50852,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 230,
+      "nume": "Teren de sport",
+      "latitudine": 44.461096,
+      "longitudine": 26.342855,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 231,
+      "nume": "Teren de sport",
+      "latitudine": 48.116598,
+      "longitudine": 26.433313,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 232,
+      "nume": "Teren Rugby CSM Galati - ( fost Gloria )",
+      "latitudine": 45.440497,
+      "longitudine": 28.061574,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 233,
+      "nume": "Teren Sport Liceu Șaguna",
+      "latitudine": 45.638682,
+      "longitudine": 25.584698,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 234,
+      "nume": "terenul de fotbal Nanov",
+      "latitudine": 43.985208,
+      "longitudine": 25.300829,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 235,
+      "nume": "Tribuna",
+      "latitudine": 44.710998,
+      "longitudine": 22.40332,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 236,
+      "nume": "Știința Petroșani",
+      "latitudine": 45.420148,
+      "longitudine": 23.37954,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 237,
+      "nume": "Міський стадіон імені Л.Бийреша",
+      "latitudine": 48.020103,
+      "longitudine": 23.557541,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 238,
+      "nume": "Стадион \"Олд Трафорд\"",
+      "latitudine": 44.132454,
+      "longitudine": 22.857047,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 239,
+      "nume": "Стадион \"Славия\"",
+      "latitudine": 44.153415,
+      "longitudine": 22.799246,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    },
+    {
+      "id": 240,
+      "nume": "Фудбалски клуб БАК",
+      "latitudine": 44.894806,
+      "longitudine": 21.418866,
+      "cheie_osm": "leisure",
+      "valoare_osm": "stadium",
+      "categorie_osm": "leisure=stadium"
+    }
+  ],
+  "meta": {
+    "title": "Stadioane din România - Descărcare gratuită",
+    "description": "Stadioane din România — 240 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `leisure=stadium`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează. Conține 240 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Stadioane din România | ListBase",
+    "seo_description": "Descarcă Stadioane din România — 240 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 240 înregistrări / 7 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

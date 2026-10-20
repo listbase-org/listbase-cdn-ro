@@ -1,0 +1,211 @@
+{
+  "id": "ro-ilfov-orase",
+  "name": "Orașele și municipiile județului Ilfov",
+  "title": "Orașele și municipiile județului Ilfov",
+  "description": "Lista celor 8 de orașe, municipii din județul Ilfov (IF) — unități administrativ-teritoriale urbane de nivel 2 conform SIRUTA. Reședința de județ este marcată cu is_resedinta_judet=true.",
+  "category": "geography",
+  "source": "https://github.com/ionelmc/django-siruta",
+  "source_url": "https://github.com/ionelmc/django-siruta",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "siruta_code",
+      "label": "Siruta Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_official",
+      "label": "Name Official",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet_id",
+      "label": "Judet Id",
+      "type": "number"
+    },
+    {
+      "key": "judet_name",
+      "label": "Judet Name",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "tip_code",
+      "label": "Tip Code",
+      "type": "number"
+    },
+    {
+      "key": "tip_name",
+      "label": "Tip Name",
+      "type": "string"
+    },
+    {
+      "key": "is_resedinta_judet",
+      "label": "Is Resedinta Judet",
+      "type": "boolean"
+    },
+    {
+      "key": "regiune_id",
+      "label": "Regiune Id",
+      "type": "number"
+    },
+    {
+      "key": "nuts3",
+      "label": "Nuts3",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "siruta_code": 179221,
+      "name": "Bragadiru",
+      "name_official": "ORAȘ BRAGADIRU",
+      "slug": "bragadiru",
+      "judet_id": 23,
+      "judet_name": "Ilfov",
+      "judet_slug": "ilfov",
+      "iso_3166_2": "RO-IF",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 8,
+      "nuts3": "RO322"
+    },
+    {
+      "siruta_code": 100576,
+      "name": "Buftea",
+      "name_official": "ORAȘ BUFTEA",
+      "slug": "buftea",
+      "judet_id": 23,
+      "judet_name": "Ilfov",
+      "judet_slug": "ilfov",
+      "iso_3166_2": "RO-IF",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 8,
+      "nuts3": "RO322"
+    },
+    {
+      "siruta_code": 179285,
+      "name": "Chitila",
+      "name_official": "ORAȘ CHITILA",
+      "slug": "chitila",
+      "judet_id": 23,
+      "judet_name": "Ilfov",
+      "judet_slug": "ilfov",
+      "iso_3166_2": "RO-IF",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 8,
+      "nuts3": "RO322"
+    },
+    {
+      "siruta_code": 179409,
+      "name": "Măgurele",
+      "name_official": "ORAȘ MĂGURELE",
+      "slug": "magurele",
+      "judet_id": 23,
+      "judet_name": "Ilfov",
+      "judet_slug": "ilfov",
+      "iso_3166_2": "RO-IF",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 8,
+      "nuts3": "RO322"
+    },
+    {
+      "siruta_code": 179481,
+      "name": "Otopeni",
+      "name_official": "ORAȘ OTOPENI",
+      "slug": "otopeni",
+      "judet_id": 23,
+      "judet_name": "Ilfov",
+      "judet_slug": "ilfov",
+      "iso_3166_2": "RO-IF",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 8,
+      "nuts3": "RO322"
+    },
+    {
+      "siruta_code": 179515,
+      "name": "Pantelimon",
+      "name_official": "ORAȘ PANTELIMON",
+      "slug": "pantelimon",
+      "judet_id": 23,
+      "judet_name": "Ilfov",
+      "judet_slug": "ilfov",
+      "iso_3166_2": "RO-IF",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 8,
+      "nuts3": "RO322"
+    },
+    {
+      "siruta_code": 179533,
+      "name": "Popești-Leordeni",
+      "name_official": "ORAȘ POPEȘTI-LEORDENI",
+      "slug": "popesti-leordeni",
+      "judet_id": 23,
+      "judet_name": "Ilfov",
+      "judet_slug": "ilfov",
+      "iso_3166_2": "RO-IF",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 8,
+      "nuts3": "RO322"
+    },
+    {
+      "siruta_code": 179551,
+      "name": "Voluntari",
+      "name_official": "ORAȘ VOLUNTARI",
+      "slug": "voluntari",
+      "judet_id": 23,
+      "judet_name": "Ilfov",
+      "judet_slug": "ilfov",
+      "iso_3166_2": "RO-IF",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 8,
+      "nuts3": "RO322"
+    }
+  ],
+  "meta": {
+    "title": "Orașele și municipiile județului Ilfov - Descărcare gratuită",
+    "description": "Lista celor 8 de orașe, municipii din județul Ilfov (IF) — unități administrativ-teritoriale urbane de nivel 2 conform SIRUTA. Reședința de județ este marcată cu is_resedinta_judet=true. Conține 8 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Orașele și municipiile județului Ilfov | ListBase",
+    "seo_description": "Descarcă Orașele și municipiile județului Ilfov — 8 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 8 înregistrări / 13 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: https://github.com/ionelmc/django-siruta"
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "id": "ro-canale-tv-divertisment",
+  "name": "Canale TV de divertisment din România (Entertainment TV channels)",
+  "title": "Canale TV de divertisment din România (Entertainment TV channels)",
+  "description": "Canalele de televiziune din România din categoria „entertainment” (de divertisment) — 9 canale din registrul deschis iptv-org/database. Include numele canalului, denumiri alternative, rețeaua, proprietarii, categoriile, data lansării și a închiderii, precum și site-ul oficial.",
+  "category": "entertainment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "date"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "date"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "Acasa.ro",
+      "name": "Acasa",
+      "alt_names": "Acasă, Pro 2, Acasă TV",
+      "network": "",
+      "owners": "Central European Media Enterprises",
+      "country": "RO",
+      "categories": "entertainment",
+      "is_nsfw": false,
+      "launched": "1998-02-02",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://acasatv.ro/"
+    },
+    {
+      "id": 2,
+      "channel_id": "AcasaGold.ro",
+      "name": "Acasa Gold",
+      "alt_names": "Acasă Gold, Pro Gold, Acasă Clasic, Acasă 2",
+      "network": "",
+      "owners": "Central European Media Enterprises",
+      "country": "RO",
+      "categories": "entertainment",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.acasagold.ro/"
+    },
+    {
+      "id": 3,
+      "channel_id": "AntenaStars.ro",
+      "name": "Antena Stars",
+      "alt_names": "Antena 2",
+      "network": "Antena Group",
+      "owners": "Antena TV Group",
+      "country": "RO",
+      "categories": "entertainment",
+      "is_nsfw": false,
+      "launched": "2013-12-16",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://antenastars.ro/"
+    },
+    {
+      "id": 4,
+      "channel_id": "CBSReality.ro",
+      "name": "CBS Reality",
+      "alt_names": "",
+      "network": "",
+      "owners": "AMC Networks Inc., Paramount Global",
+      "country": "RO",
+      "categories": "entertainment",
+      "is_nsfw": false,
+      "launched": "1999-12-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.cbsreality.tv/eu/"
+    },
+    {
+      "id": 5,
+      "channel_id": "DiscoveryChannel.ro",
+      "name": "Discovery Channel",
+      "alt_names": "",
+      "network": "",
+      "owners": "Discovery Networks CEEMEA",
+      "country": "RO",
+      "categories": "entertainment",
+      "is_nsfw": false,
+      "launched": "2024-01-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.discovery.ro/"
+    },
+    {
+      "id": 6,
+      "channel_id": "Diva.ro",
+      "name": "Diva",
+      "alt_names": "Diva România",
+      "network": "",
+      "owners": "NBCUniversal International Networks",
+      "country": "RO",
+      "categories": "entertainment",
+      "is_nsfw": false,
+      "launched": "2010-10-03",
+      "closed": "2024-09-30",
+      "replaced_by": "",
+      "website": "http://www.divaromania.tv/"
+    },
+    {
+      "id": 7,
+      "channel_id": "E.ro",
+      "name": "E!",
+      "alt_names": "",
+      "network": "",
+      "owners": "NBCUniversal, Sky Group",
+      "country": "RO",
+      "categories": "entertainment",
+      "is_nsfw": false,
+      "launched": "2011-12-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.eonline.com/"
+    },
+    {
+      "id": 8,
+      "channel_id": "HappyChannel.ro",
+      "name": "Happy Channel",
+      "alt_names": "",
+      "network": "",
+      "owners": "Antena TV Group",
+      "country": "RO",
+      "categories": "entertainment",
+      "is_nsfw": false,
+      "launched": "2016-03-07",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://tvhappy.ro/"
+    },
+    {
+      "id": 9,
+      "channel_id": "MireasaPlus.ro",
+      "name": "Mireasa+",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "RO",
+      "categories": "entertainment",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://antenaplay.ro/live/mireasa-plus"
+    }
+  ],
+  "meta": {
+    "title": "Canale TV de divertisment din România (Entertainment TV channels) - Descărcare gratuită",
+    "description": "Canalele de televiziune din România din categoria „entertainment” (de divertisment) — 9 canale din registrul deschis iptv-org/database. Include numele canalului, denumiri alternative, rețeaua, proprietarii, categoriile, data lansării și a închiderii, precum și site-ul oficial. Conține 9 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Canale TV de divertisment din România (Entertainment TV channels) | ListBase",
+    "seo_description": "Descarcă Canale TV de divertisment din România (Entertainment TV channels) — 9 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 9 înregistrări / 13 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

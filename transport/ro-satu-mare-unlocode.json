@@ -1,0 +1,341 @@
+{
+  "id": "ro-satu-mare-unlocode",
+  "name": "Coduri UN/LOCODE — judeţul Satu Mare (porturi, aeroporturi, terminale)",
+  "title": "Coduri UN/LOCODE — judeţul Satu Mare (porturi, aeroporturi, terminale)",
+  "description": "Cele 8 locaţii UN/LOCODE din judeţul Satu Mare, România — cod LOCODE, denumire, funcţii de transport, status şi coordonate.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "locode",
+      "label": "Locode",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_wo_diacritics",
+      "label": "Name Wo Diacritics",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_code",
+      "label": "Subdivision Code",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_name",
+      "label": "Subdivision Name",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_type",
+      "label": "Subdivision Type",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "status_description",
+      "label": "Status Description",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function",
+      "type": "string"
+    },
+    {
+      "key": "functions",
+      "label": "Functions",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "date_updated",
+      "label": "Date Updated",
+      "type": "string"
+    },
+    {
+      "key": "remarks",
+      "label": "Remarks",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet_name",
+      "label": "Judet Name",
+      "type": "string"
+    },
+    {
+      "key": "judet_source",
+      "label": "Judet Source",
+      "type": "string"
+    },
+    {
+      "key": "judet_alternativ_siruta",
+      "label": "Judet Alternativ Siruta",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "locode": "ROBTZ",
+      "country": "RO",
+      "location": "BTZ",
+      "name": "Botiz",
+      "name_wo_diacritics": "Botiz",
+      "subdivision_code": "SM",
+      "subdivision_name": "Satu Mare",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4750N 02257E",
+      "latitude": 47.8333,
+      "longitude": 22.95,
+      "date_updated": "2016-01",
+      "remarks": "",
+      "judet_slug": "satu-mare",
+      "judet_name": "Satu Mare",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 2,
+      "locode": "ROCAR",
+      "country": "RO",
+      "location": "CAR",
+      "name": "Carei",
+      "name_wo_diacritics": "Carei",
+      "subdivision_code": "",
+      "subdivision_name": "",
+      "subdivision_type": "",
+      "status": "AC",
+      "status_description": "Approved by Customs Authority",
+      "function": "-2------",
+      "functions": "Rail transport",
+      "iata": "",
+      "coordinates": "",
+      "latitude": "",
+      "longitude": "",
+      "date_updated": "1983-09",
+      "remarks": "",
+      "judet_slug": "satu-mare",
+      "judet_name": "Satu Mare",
+      "judet_source": "derived_name_join",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 3,
+      "locode": "ROGHM",
+      "country": "RO",
+      "location": "GHM",
+      "name": "Gherta Mare",
+      "name_wo_diacritics": "Gherta Mare",
+      "subdivision_code": "",
+      "subdivision_name": "",
+      "subdivision_type": "",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4758N 02313E",
+      "latitude": 47.9667,
+      "longitude": 23.2167,
+      "date_updated": "2006-01",
+      "remarks": "",
+      "judet_slug": "satu-mare",
+      "judet_name": "Satu Mare",
+      "judet_source": "derived_name_join",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 4,
+      "locode": "ROHAL",
+      "country": "RO",
+      "location": "HAL",
+      "name": "Halmeu",
+      "name_wo_diacritics": "Halmeu",
+      "subdivision_code": "",
+      "subdivision_name": "",
+      "subdivision_type": "",
+      "status": "AC",
+      "status_description": "Approved by Customs Authority",
+      "function": "-23-----",
+      "functions": "Rail transport, Road transport",
+      "iata": "",
+      "coordinates": "",
+      "latitude": "",
+      "longitude": "",
+      "date_updated": "1983-09",
+      "remarks": "",
+      "judet_slug": "satu-mare",
+      "judet_name": "Satu Mare",
+      "judet_source": "derived_name_join",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 5,
+      "locode": "ROMAU",
+      "country": "RO",
+      "location": "MAU",
+      "name": "Mediesu Aurit",
+      "name_wo_diacritics": "Mediesu Aurit",
+      "subdivision_code": "",
+      "subdivision_name": "",
+      "subdivision_type": "",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4746N 02308E",
+      "latitude": 47.7667,
+      "longitude": 23.1333,
+      "date_updated": "2006-07",
+      "remarks": "",
+      "judet_slug": "satu-mare",
+      "judet_name": "Satu Mare",
+      "judet_source": "derived_name_join",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 6,
+      "locode": "ROMOI",
+      "country": "RO",
+      "location": "MOI",
+      "name": "Moiseni",
+      "name_wo_diacritics": "Moiseni",
+      "subdivision_code": "SM",
+      "subdivision_name": "Satu Mare",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4756N 02328E",
+      "latitude": 47.9333,
+      "longitude": 23.4667,
+      "date_updated": "2007-01",
+      "remarks": "",
+      "judet_slug": "satu-mare",
+      "judet_name": "Satu Mare",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 7,
+      "locode": "ROSOM",
+      "country": "RO",
+      "location": "SOM",
+      "name": "Someseni",
+      "name_wo_diacritics": "Someseni",
+      "subdivision_code": "",
+      "subdivision_name": "",
+      "subdivision_type": "",
+      "status": "AC",
+      "status_description": "Approved by Customs Authority",
+      "function": "-2------",
+      "functions": "Rail transport",
+      "iata": "",
+      "coordinates": "",
+      "latitude": "",
+      "longitude": "",
+      "date_updated": "1983-09",
+      "remarks": "",
+      "judet_slug": "satu-mare",
+      "judet_name": "Satu Mare",
+      "judet_source": "derived_name_join",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 8,
+      "locode": "ROTAS",
+      "country": "RO",
+      "location": "TAS",
+      "name": "Tasnad",
+      "name_wo_diacritics": "Tasnad",
+      "subdivision_code": "SM",
+      "subdivision_name": "Satu Mare",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4729N 02235E",
+      "latitude": 47.4833,
+      "longitude": 22.5833,
+      "date_updated": "2016-01",
+      "remarks": "",
+      "judet_slug": "satu-mare",
+      "judet_name": "Satu Mare",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    }
+  ],
+  "meta": {
+    "title": "Coduri UN/LOCODE — judeţul Satu Mare (porturi, aeroporturi, terminale) - Descărcare gratuită",
+    "description": "Cele 8 locaţii UN/LOCODE din judeţul Satu Mare, România — cod LOCODE, denumire, funcţii de transport, status şi coordonate. Conține 8 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Coduri UN/LOCODE — judeţul Satu Mare (porturi, aeroporturi, terminale) | ListBase",
+    "seo_description": "Descarcă Coduri UN/LOCODE — judeţul Satu Mare (porturi, aeroporturi, terminale) — 8 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 8 înregistrări / 23 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

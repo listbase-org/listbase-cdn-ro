@@ -1,0 +1,142 @@
+{
+  "id": "ro-calarasi-licee",
+  "name": "Licee si colegii din judetul Călărași",
+  "title": "Licee si colegii din judetul Călărași",
+  "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Călărași (16 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "COLEGIUL AGRICOL \"SANDU ALDEA\" CĂLĂRAȘI",
+      "slug": "colegiul-agricol-sandu-aldea-calarasi",
+      "judet": "CĂLĂRAȘI",
+      "judet_slug": "calarasi"
+    },
+    {
+      "nume": "COLEGIUL ECONOMIC CĂLĂRAȘI",
+      "slug": "colegiul-economic-calarasi",
+      "judet": "CĂLĂRAȘI",
+      "judet_slug": "calarasi"
+    },
+    {
+      "nume": "COLEGIUL NATIONAL \"BARBU STIRBEI\" CĂLĂRAȘI",
+      "slug": "colegiul-national-barbu-stirbei-calarasi",
+      "judet": "CĂLĂRAȘI",
+      "judet_slug": "calarasi"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"STEFAN BANULESCU\" CĂLĂRAȘI",
+      "slug": "colegiul-tehnic-stefan-banulescu-calarasi",
+      "judet": "CĂLĂRAȘI",
+      "judet_slug": "calarasi"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC DE TRANSPORTURI AUTO CĂLĂRAȘI",
+      "slug": "liceul-tehnologic-de-transporturi-auto-calarasi",
+      "judet": "CĂLĂRAȘI",
+      "judet_slug": "calarasi"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC NR.1 BORCEA",
+      "slug": "liceul-tehnologic-nr-1-borcea",
+      "judet": "CĂLĂRAȘI",
+      "judet_slug": "calarasi"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC NR.1 FUNDULEA",
+      "slug": "liceul-tehnologic-nr-1-fundulea",
+      "judet": "CĂLĂRAȘI",
+      "judet_slug": "calarasi"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"CONSTANTIN GEORGE CALINESCU\" GRADISTEA",
+      "slug": "liceul-tehnologic-constantin-george-calinescu-gradistea",
+      "judet": "CĂLĂRAȘI",
+      "judet_slug": "calarasi"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"DAN MATEESCU\" CĂLĂRAȘI",
+      "slug": "liceul-tehnologic-dan-mateescu-calarasi",
+      "judet": "CĂLĂRAȘI",
+      "judet_slug": "calarasi"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"DUILIU ZAMFIRESCU\" DRAGALINA",
+      "slug": "liceul-tehnologic-duiliu-zamfirescu-dragalina",
+      "judet": "CĂLĂRAȘI",
+      "judet_slug": "calarasi"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"MATEI BASARAB\" MANASTIREA",
+      "slug": "liceul-tehnologic-matei-basarab-manastirea",
+      "judet": "CĂLĂRAȘI",
+      "judet_slug": "calarasi"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"NICOLAE BALCESCU\" OLTENITA",
+      "slug": "liceul-tehnologic-nicolae-balcescu-oltenita",
+      "judet": "CĂLĂRAȘI",
+      "judet_slug": "calarasi"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"MIHAI EMINESCU\" CĂLĂRAȘI",
+      "slug": "liceul-teoretic-mihai-eminescu-calarasi",
+      "judet": "CĂLĂRAȘI",
+      "judet_slug": "calarasi"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"NEAGOE BASARAB\" OLTENITA",
+      "slug": "liceul-teoretic-neagoe-basarab-oltenita",
+      "judet": "CĂLĂRAȘI",
+      "judet_slug": "calarasi"
+    },
+    {
+      "nume": "LICEUL \"ALEXANDRU ODOBESCU\" LEHLIU GARA",
+      "slug": "liceul-alexandru-odobescu-lehliu-gara",
+      "judet": "CĂLĂRAȘI",
+      "judet_slug": "calarasi"
+    },
+    {
+      "nume": "LICEUL \"DANUBIUS\" CĂLĂRAȘI",
+      "slug": "liceul-danubius-calarasi",
+      "judet": "CĂLĂRAȘI",
+      "judet_slug": "calarasi"
+    }
+  ],
+  "meta": {
+    "title": "Licee si colegii din judetul Călărași - Descărcare gratuită",
+    "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Călărași (16 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor. Conține 16 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Licee si colegii din judetul Călărași | ListBase",
+    "seo_description": "Descarcă Licee si colegii din judetul Călărași — 16 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 16 înregistrări / 4 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

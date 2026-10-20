@@ -1,0 +1,4084 @@
+{
+  "id": "ro-autogari",
+  "name": "Autogări din România",
+  "title": "Autogări din România",
+  "description": "Autogări din România — 447 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `amenity=bus_station`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 447,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "latitudine",
+      "label": "Latitudine",
+      "type": "number"
+    },
+    {
+      "key": "longitudine",
+      "label": "Longitudine",
+      "type": "number"
+    },
+    {
+      "key": "cheie_osm",
+      "label": "Cheie Osm",
+      "type": "string"
+    },
+    {
+      "key": "valoare_osm",
+      "label": "Valoare Osm",
+      "type": "string"
+    },
+    {
+      "key": "categorie_osm",
+      "label": "Categorie Osm",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nume": "1 MAI",
+      "latitudine": 46.924999,
+      "longitudine": 26.921367,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 2,
+      "nume": "A",
+      "latitudine": 44.631275,
+      "longitudine": 22.673144,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 3,
+      "nume": "Adunații-Copăceni (Blocuri)",
+      "latitudine": 44.245916,
+      "longitudine": 26.042614,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 4,
+      "nume": "AFC M6 (Kaufland)",
+      "latitudine": 44.926187,
+      "longitudine": 25.439595,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 5,
+      "nume": "Alexandru Vlahuță",
+      "latitudine": 45.346387,
+      "longitudine": 25.547301,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 6,
+      "nume": "ANL Brăilița",
+      "latitudine": 45.297859,
+      "longitudine": 27.979108,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 7,
+      "nume": "Anl M3",
+      "latitudine": 44.928995,
+      "longitudine": 25.442237,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 8,
+      "nume": "Apicola",
+      "latitudine": 46.92564,
+      "longitudine": 26.372306,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 9,
+      "nume": "Arta Populara",
+      "latitudine": 44.923458,
+      "longitudine": 25.472436,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 10,
+      "nume": "Arta Populara",
+      "latitudine": 44.923696,
+      "longitudine": 25.471836,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 11,
+      "nume": "Atlassib",
+      "latitudine": 45.768629,
+      "longitudine": 21.263786,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 12,
+      "nume": "Atlassib",
+      "latitudine": 45.79441,
+      "longitudine": 24.130661,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 13,
+      "nume": "Atyc",
+      "latitudine": 44.928793,
+      "longitudine": 25.438026,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 14,
+      "nume": "Auchan",
+      "latitudine": 45.403917,
+      "longitudine": 28.02007,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 15,
+      "nume": "Autobaza Giurgiului",
+      "latitudine": 44.369167,
+      "longitudine": 26.0999,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 16,
+      "nume": "Autobaza Sudului",
+      "latitudine": 44.382155,
+      "longitudine": 26.084752,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 17,
+      "nume": "Autobaza Sudului",
+      "latitudine": 44.382604,
+      "longitudine": 26.084025,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 18,
+      "nume": "Autogara",
+      "latitudine": 43.756336,
+      "longitudine": 24.877113,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 19,
+      "nume": "Autogara",
+      "latitudine": 44.929802,
+      "longitudine": 25.439437,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 20,
+      "nume": "Autogara",
+      "latitudine": 44.956552,
+      "longitudine": 26.03786,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 21,
+      "nume": "Autogara",
+      "latitudine": 45.030066,
+      "longitudine": 23.28066,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 22,
+      "nume": "Autogara",
+      "latitudine": 45.181009,
+      "longitudine": 28.792462,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 23,
+      "nume": "Autogara",
+      "latitudine": 45.844507,
+      "longitudine": 24.975863,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 24,
+      "nume": "Autogara",
+      "latitudine": 45.883413,
+      "longitudine": 22.910285,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 25,
+      "nume": "Autogara",
+      "latitudine": 45.992172,
+      "longitudine": 26.137146,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 26,
+      "nume": "Autogara",
+      "latitudine": 46.058121,
+      "longitudine": 23.576371,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 27,
+      "nume": "Autogara",
+      "latitudine": 46.13146,
+      "longitudine": 22.789343,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 28,
+      "nume": "Autogara",
+      "latitudine": 46.31026,
+      "longitudine": 25.297222,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 29,
+      "nume": "Autogara",
+      "latitudine": 46.374951,
+      "longitudine": 22.13323,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 30,
+      "nume": "Autogara",
+      "latitudine": 47.460469,
+      "longitudine": 26.304663,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 31,
+      "nume": "autogara",
+      "latitudine": 47.648186,
+      "longitudine": 23.551476,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 32,
+      "nume": "Autogara",
+      "latitudine": 47.752752,
+      "longitudine": 26.643327,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 33,
+      "nume": "Autogara",
+      "latitudine": 47.796202,
+      "longitudine": 22.8928,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 34,
+      "nume": "Autogara 13 Septembrie (Millenium Trans Impex SRL)",
+      "latitudine": 44.418278,
+      "longitudine": 26.05967,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 35,
+      "nume": "Autogara 2",
+      "latitudine": 45.663864,
+      "longitudine": 25.583599,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 36,
+      "nume": "Autogara 3",
+      "latitudine": 45.66343,
+      "longitudine": 25.629296,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 37,
+      "nume": "Autogara Alfastar",
+      "latitudine": 45.746982,
+      "longitudine": 21.206443,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 38,
+      "nume": "Autogara Amic",
+      "latitudine": 45.278062,
+      "longitudine": 25.05555,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 39,
+      "nume": "Autogara Apetrans",
+      "latitudine": 47.752546,
+      "longitudine": 26.643987,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 40,
+      "nume": "Autogara Atlassib",
+      "latitudine": 44.173432,
+      "longitudine": 28.596444,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 41,
+      "nume": "Autogara Atlassib",
+      "latitudine": 45.684932,
+      "longitudine": 21.914087,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 42,
+      "nume": "Autogara Atlassib-Transdara",
+      "latitudine": 46.190916,
+      "longitudine": 21.319728,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 43,
+      "nume": "Autogara Augustina",
+      "latitudine": 44.44765,
+      "longitudine": 26.064921,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 44,
+      "nume": "Autogara Autogenn",
+      "latitudine": 45.749086,
+      "longitudine": 21.208123,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 45,
+      "nume": "Autogara Autotim",
+      "latitudine": 45.745739,
+      "longitudine": 21.207209,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 46,
+      "nume": "Autogara Baldovin Pârcălabul",
+      "latitudine": 44.442819,
+      "longitudine": 26.079498,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 47,
+      "nume": "Autogara Balint Trans",
+      "latitudine": 46.523849,
+      "longitudine": 24.541779,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 48,
+      "nume": "Autogara Beiuș",
+      "latitudine": 46.661794,
+      "longitudine": 22.361635,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 49,
+      "nume": "Autogara BETA",
+      "latitudine": 46.785959,
+      "longitudine": 23.58079,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 50,
+      "nume": "Autogara Bistrița",
+      "latitudine": 47.132884,
+      "longitudine": 24.485592,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 51,
+      "nume": "Autogara Brăila",
+      "latitudine": 45.284112,
+      "longitudine": 27.957318,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 52,
+      "nume": "Autogara București",
+      "latitudine": 44.661502,
+      "longitudine": 24.259784,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 53,
+      "nume": "Autogara Buzău Sud (Piața Săracă)",
+      "latitudine": 45.143748,
+      "longitudine": 26.829808,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 54,
+      "nume": "Autogara Băile Govora (ruină)",
+      "latitudine": 45.079715,
+      "longitudine": 24.178386,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 55,
+      "nume": "Autogara Calafat",
+      "latitudine": 43.990564,
+      "longitudine": 22.941636,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 56,
+      "nume": "Autogara Caracal",
+      "latitudine": 44.116692,
+      "longitudine": 24.364509,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 57,
+      "nume": "Autogara CDI Ritmului",
+      "latitudine": 44.445013,
+      "longitudine": 26.134664,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 58,
+      "nume": "Autogara Cento Trans",
+      "latitudine": 47.191988,
+      "longitudine": 23.061574,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 59,
+      "nume": "Autogara Codreanu",
+      "latitudine": 45.661,
+      "longitudine": 25.614259,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 60,
+      "nume": "Autogara Codreanu",
+      "latitudine": 45.845941,
+      "longitudine": 26.163546,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 61,
+      "nume": "Autogara Codreanu",
+      "latitudine": 47.166899,
+      "longitudine": 27.570529,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 62,
+      "nume": "Autogara CONPASTRU",
+      "latitudine": 46.917614,
+      "longitudine": 26.390724,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 63,
+      "nume": "Autogara Costesti",
+      "latitudine": 44.66332,
+      "longitudine": 24.876438,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 64,
+      "nume": "Autogara CTP",
+      "latitudine": 46.185397,
+      "longitudine": 21.316971,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 65,
+      "nume": "Autogara Câmpina",
+      "latitudine": 45.119002,
+      "longitudine": 25.743228,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 66,
+      "nume": "Autogara Dacos",
+      "latitudine": 45.111534,
+      "longitudine": 24.377983,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 67,
+      "nume": "Autogara Darabani",
+      "latitudine": 48.185552,
+      "longitudine": 26.598045,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 68,
+      "nume": "Autogara David Romică",
+      "latitudine": 47.203344,
+      "longitudine": 26.363027,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 69,
+      "nume": "Autogara de Nord Buzău",
+      "latitudine": 45.162507,
+      "longitudine": 26.81472,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 70,
+      "nume": "Autogara Dej",
+      "latitudine": 47.154449,
+      "longitudine": 23.877419,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 71,
+      "nume": "Autogara Demaraj Trans",
+      "latitudine": 46.772765,
+      "longitudine": 24.706561,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 72,
+      "nume": "Autogara DLS",
+      "latitudine": 44.44403,
+      "longitudine": 26.080756,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 73,
+      "nume": "Autogara Dorohoi",
+      "latitudine": 47.955597,
+      "longitudine": 26.399306,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 74,
+      "nume": "Autogara Drobeta Turism",
+      "latitudine": 45.744944,
+      "longitudine": 21.216515,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 75,
+      "nume": "Autogara Duda Trans",
+      "latitudine": 46.532692,
+      "longitudine": 24.548975,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 76,
+      "nume": "Autogara Dunărea 2",
+      "latitudine": 45.414236,
+      "longitudine": 28.004931,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 77,
+      "nume": "Autogara Eroii Revoluției",
+      "latitudine": 44.40357,
+      "longitudine": 26.095618,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 78,
+      "nume": "Autogara Fany",
+      "latitudine": 46.786317,
+      "longitudine": 23.580676,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 79,
+      "nume": "Autogara Fany",
+      "latitudine": 47.64572,
+      "longitudine": 23.533733,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 80,
+      "nume": "Autogara Filaret",
+      "latitudine": 44.415088,
+      "longitudine": 26.091003,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 81,
+      "nume": "Autogara Filaret",
+      "latitudine": 44.415411,
+      "longitudine": 26.091852,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 82,
+      "nume": "Autogara Flozampet",
+      "latitudine": 47.203014,
+      "longitudine": 26.35772,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 83,
+      "nume": "Autogara Focșani",
+      "latitudine": 45.711468,
+      "longitudine": 27.177905,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 84,
+      "nume": "Autogara Făget",
+      "latitudine": 45.849615,
+      "longitudine": 22.167112,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 85,
+      "nume": "Autogara Făgăraș",
+      "latitudine": 45.841167,
+      "longitudine": 24.97151,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 86,
+      "nume": "Autogara GEGI",
+      "latitudine": 45.840401,
+      "longitudine": 27.431116,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 87,
+      "nume": "Autogara Gherla",
+      "latitudine": 47.032271,
+      "longitudine": 23.911942,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 88,
+      "nume": "Autogara Gura Humorului",
+      "latitudine": 47.551991,
+      "longitudine": 25.883871,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 89,
+      "nume": "Autogara Hunedoara",
+      "latitudine": 45.760854,
+      "longitudine": 22.901295,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 90,
+      "nume": "Autogara Iași Vest",
+      "latitudine": 47.173676,
+      "longitudine": 27.553885,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 91,
+      "nume": "Autogara IDM Basarab",
+      "latitudine": 44.449576,
+      "longitudine": 26.066463,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 92,
+      "nume": "Autogara Imperativ",
+      "latitudine": 47.648477,
+      "longitudine": 23.551161,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 93,
+      "nume": "Autogara Internationala Brasov - Bartolomeu",
+      "latitudine": 45.659715,
+      "longitudine": 25.569984,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 94,
+      "nume": "Autogara Intrans",
+      "latitudine": 47.043069,
+      "longitudine": 21.958294,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 95,
+      "nume": "Autogara Jan",
+      "latitudine": 47.936267,
+      "longitudine": 23.889409,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 96,
+      "nume": "Autogara Lil Trans",
+      "latitudine": 44.122409,
+      "longitudine": 24.979182,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 97,
+      "nume": "Autogara Livio Dario",
+      "latitudine": 46.057652,
+      "longitudine": 23.577228,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 98,
+      "nume": "Autogara M3",
+      "latitudine": 44.929851,
+      "longitudine": 25.439563,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 99,
+      "nume": "Autogara Medias",
+      "latitudine": 46.160766,
+      "longitudine": 24.351245,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 100,
+      "nume": "Autogara Metropoli Galați",
+      "latitudine": 45.442164,
+      "longitudine": 28.059363,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 101,
+      "nume": "Autogara Milenium",
+      "latitudine": 44.917788,
+      "longitudine": 25.451683,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 102,
+      "nume": "Autogara Militari",
+      "latitudine": 44.43259,
+      "longitudine": 26.006226,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 103,
+      "nume": "Autogara Mondotrans",
+      "latitudine": 44.929646,
+      "longitudine": 25.438242,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 104,
+      "nume": "Autogara Mondotur",
+      "latitudine": 47.205203,
+      "longitudine": 26.36214,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 105,
+      "nume": "Autogara MultiPower Tour",
+      "latitudine": 47.953835,
+      "longitudine": 26.399122,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 106,
+      "nume": "Autogara Nadina",
+      "latitudine": 45.40826,
+      "longitudine": 22.2227,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 107,
+      "nume": "Autogara Nord",
+      "latitudine": 44.876365,
+      "longitudine": 24.847707,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 108,
+      "nume": "Autogara Normandia",
+      "latitudine": 45.744872,
+      "longitudine": 21.254104,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 109,
+      "nume": "Autogara Normandia Horezu",
+      "latitudine": 45.145436,
+      "longitudine": 23.993583,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 110,
+      "nume": "Autogara Noua 2",
+      "latitudine": 44.898969,
+      "longitudine": 25.445402,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 111,
+      "nume": "Autogara Noua 3",
+      "latitudine": 44.924079,
+      "longitudine": 25.441433,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 112,
+      "nume": "Autogara Nouă 1",
+      "latitudine": 44.927648,
+      "longitudine": 25.482994,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 113,
+      "nume": "Autogara Năvodari",
+      "latitudine": 44.324719,
+      "longitudine": 28.616501,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 114,
+      "nume": "Autogara Obada",
+      "latitudine": 45.107767,
+      "longitudine": 24.378958,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 115,
+      "nume": "Autogara Obor",
+      "latitudine": 44.448215,
+      "longitudine": 26.141485,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 116,
+      "nume": "Autogara Oltenita",
+      "latitudine": 44.0845,
+      "longitudine": 26.644722,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 117,
+      "nume": "Autogara OMNITRANS Ștei",
+      "latitudine": 46.53872,
+      "longitudine": 22.465367,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 118,
+      "nume": "Autogara PatruPlusTrans",
+      "latitudine": 46.927023,
+      "longitudine": 26.361392,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 119,
+      "nume": "Autogara Perla Trans",
+      "latitudine": 44.410905,
+      "longitudine": 26.088719,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 120,
+      "nume": "Autogara Piatra Neamț",
+      "latitudine": 46.928108,
+      "longitudine": 26.360121,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 121,
+      "nume": "Autogara Pitești",
+      "latitudine": 44.851693,
+      "longitudine": 24.883843,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 122,
+      "nume": "Autogara Pletl",
+      "latitudine": 46.203192,
+      "longitudine": 21.249009,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 123,
+      "nume": "AutoGara Ploiești Nord",
+      "latitudine": 44.958661,
+      "longitudine": 26.012943,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 124,
+      "nume": "Autogara Ploiești Sud",
+      "latitudine": 44.926243,
+      "longitudine": 26.029939,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 125,
+      "nume": "Autogara Plopeni",
+      "latitudine": 45.051215,
+      "longitudine": 25.953327,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 126,
+      "nume": "Autogara Plus Com",
+      "latitudine": 45.884368,
+      "longitudine": 22.90924,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 127,
+      "nume": "Autogara Priscom",
+      "latitudine": 47.740097,
+      "longitudine": 26.66621,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 128,
+      "nume": "Autogara Q7",
+      "latitudine": 45.784276,
+      "longitudine": 24.144731,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 129,
+      "nume": "Autogara Reghin",
+      "latitudine": 46.780218,
+      "longitudine": 24.718165,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 130,
+      "nume": "Autogara Reșița",
+      "latitudine": 45.292758,
+      "longitudine": 21.89686,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 131,
+      "nume": "Autogara Roman - Uledric Iosif",
+      "latitudine": 46.93571,
+      "longitudine": 26.922154,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 132,
+      "nume": "Autogara SC Anta'95 SRL",
+      "latitudine": 46.674886,
+      "longitudine": 28.044765,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 133,
+      "nume": "Autogara SC Autobuzul SA",
+      "latitudine": 46.676776,
+      "longitudine": 28.043779,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 134,
+      "nume": "Autogara Sebeș",
+      "latitudine": 45.957493,
+      "longitudine": 23.57924,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 135,
+      "nume": "Autogara Sens Vest",
+      "latitudine": 46.565743,
+      "longitudine": 23.779827,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 136,
+      "nume": "Autogara Sens Vest",
+      "latitudine": 46.785764,
+      "longitudine": 23.59584,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 137,
+      "nume": "Autogara Siva Trans Horezu",
+      "latitudine": 45.145359,
+      "longitudine": 23.9936,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 138,
+      "nume": "Autogara Slobozia",
+      "latitudine": 44.563994,
+      "longitudine": 27.350968,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 139,
+      "nume": "Autogara Smaranda",
+      "latitudine": 43.894644,
+      "longitudine": 25.961639,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 140,
+      "nume": "Autogara Suceava",
+      "latitudine": 47.661456,
+      "longitudine": 26.252561,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 141,
+      "nume": "Autogara Sud",
+      "latitudine": 44.29573,
+      "longitudine": 23.795899,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 142,
+      "nume": "Autogara Sud",
+      "latitudine": 44.925249,
+      "longitudine": 26.026572,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 143,
+      "nume": "Autogara Sud Herli-Sof",
+      "latitudine": 44.17052,
+      "longitudine": 28.632057,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 144,
+      "nume": "Autogara Super Imposer",
+      "latitudine": 45.749768,
+      "longitudine": 21.201799,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 145,
+      "nume": "Autogara Tabaci",
+      "latitudine": 45.264495,
+      "longitudine": 25.042745,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 146,
+      "nume": "Autogara Teliucu Inferior",
+      "latitudine": 45.718349,
+      "longitudine": 22.886508,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 147,
+      "nume": "Autogara TraceTrans",
+      "latitudine": 44.201658,
+      "longitudine": 28.629649,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 148,
+      "nume": "Autogara Trans Dor",
+      "latitudine": 47.741284,
+      "longitudine": 26.665727,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 149,
+      "nume": "Autogara Trans-dor",
+      "latitudine": 47.741362,
+      "longitudine": 26.665999,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 150,
+      "nume": "Autogara Transmixt. Gara CFR Sibiu",
+      "latitudine": 45.800767,
+      "longitudine": 24.16036,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 151,
+      "nume": "Autogara Transport Auto Marfă (TAM)",
+      "latitudine": 46.52412,
+      "longitudine": 24.548278,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 152,
+      "nume": "Autogara Transport Local / Siletina",
+      "latitudine": 46.523442,
+      "longitudine": 24.543454,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 153,
+      "nume": "Autogara Tulcea",
+      "latitudine": 45.181219,
+      "longitudine": 28.792373,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 154,
+      "nume": "Autogara Tur",
+      "latitudine": 47.935227,
+      "longitudine": 23.886485,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 155,
+      "nume": "Autogara Vatra Dornei",
+      "latitudine": 47.346081,
+      "longitudine": 25.360366,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 156,
+      "nume": "Autogara Vest",
+      "latitudine": 45.662291,
+      "longitudine": 25.577144,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 157,
+      "nume": "Autogara Victoria",
+      "latitudine": 45.72438,
+      "longitudine": 24.69853,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 158,
+      "nume": "Autogara Voiajor",
+      "latitudine": 46.527222,
+      "longitudine": 24.545012,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 159,
+      "nume": "Autogară",
+      "latitudine": 44.42945,
+      "longitudine": 24.387958,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 160,
+      "nume": "Autogară",
+      "latitudine": 45.179324,
+      "longitudine": 26.035041,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 161,
+      "nume": "Autogară",
+      "latitudine": 47.192371,
+      "longitudine": 23.061444,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 162,
+      "nume": "Autogară",
+      "latitudine": 47.552475,
+      "longitudine": 25.884127,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 163,
+      "nume": "Autogară Miercurea-Ciuc",
+      "latitudine": 46.362222,
+      "longitudine": 25.792685,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 164,
+      "nume": "Autóbuszállomás",
+      "latitudine": 46.07742,
+      "longitudine": 25.601389,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 165,
+      "nume": "B Carol ( --> Centru )",
+      "latitudine": 44.920982,
+      "longitudine": 25.456793,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 166,
+      "nume": "B Carol (--> Gara )",
+      "latitudine": 44.920161,
+      "longitudine": 25.456318,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 167,
+      "nume": "BD Eroilor (Regata)",
+      "latitudine": 44.93689,
+      "longitudine": 25.441813,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 168,
+      "nume": "BD Eroilor (Spalatorie)",
+      "latitudine": 44.936934,
+      "longitudine": 25.441687,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 169,
+      "nume": "Beiuș - Roșia",
+      "latitudine": 46.75429,
+      "longitudine": 22.354193,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 170,
+      "nume": "Bejan",
+      "latitudine": 45.933775,
+      "longitudine": 22.855063,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 171,
+      "nume": "Biserica Mera (plecare)",
+      "latitudine": 46.815197,
+      "longitudine": 23.452777,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 172,
+      "nume": "Bloc S200",
+      "latitudine": 44.317539,
+      "longitudine": 23.808714,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 173,
+      "nume": "Borșa",
+      "latitudine": 47.654749,
+      "longitudine": 24.666843,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 174,
+      "nume": "Bozovici",
+      "latitudine": 44.925614,
+      "longitudine": 22.00388,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 175,
+      "nume": "Bus Stop",
+      "latitudine": 46.148251,
+      "longitudine": 21.339411,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 176,
+      "nume": "Bus Stop",
+      "latitudine": 46.183235,
+      "longitudine": 21.325154,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 177,
+      "nume": "Bus Stop",
+      "latitudine": 46.183246,
+      "longitudine": 21.322724,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 178,
+      "nume": "Bálint Trans",
+      "latitudine": 46.718221,
+      "longitudine": 25.574932,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 179,
+      "nume": "Calea Campulung (Non Stop)",
+      "latitudine": 44.927414,
+      "longitudine": 25.443487,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 180,
+      "nume": "Calea Campulung (Socar)",
+      "latitudine": 44.927592,
+      "longitudine": 25.442094,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 181,
+      "nume": "Campus Barieră",
+      "latitudine": 44.94292,
+      "longitudine": 25.457002,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 182,
+      "nume": "Campus Cămine",
+      "latitudine": 44.942419,
+      "longitudine": 25.452534,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 183,
+      "nume": "Campus Sherif",
+      "latitudine": 44.942792,
+      "longitudine": 25.457716,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 184,
+      "nume": "Cap linie Gheorghe Doja",
+      "latitudine": 44.842087,
+      "longitudine": 24.887651,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 185,
+      "nume": "Cap Linie Găvana",
+      "latitudine": 44.86928,
+      "longitudine": 24.841927,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 186,
+      "nume": "Cap linie Războieni",
+      "latitudine": 44.841079,
+      "longitudine": 24.876509,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 187,
+      "nume": "Caraiman M9",
+      "latitudine": 44.919682,
+      "longitudine": 25.468378,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 188,
+      "nume": "Caraiman M9 Garsoniere",
+      "latitudine": 44.919545,
+      "longitudine": 25.468202,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 189,
+      "nume": "Cartier Confort Urban",
+      "latitudine": 44.385696,
+      "longitudine": 26.059692,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 190,
+      "nume": "Catedrala M11",
+      "latitudine": 44.917217,
+      "longitudine": 25.47003,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 191,
+      "nume": "Catedrala M12",
+      "latitudine": 44.916995,
+      "longitudine": 25.470313,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 192,
+      "nume": "Cento Trans",
+      "latitudine": 47.225072,
+      "longitudine": 23.018044,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 193,
+      "nume": "Cisnădie-Fabrică",
+      "latitudine": 45.717411,
+      "longitudine": 24.156107,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 194,
+      "nume": "Codreanu",
+      "latitudine": 45.868336,
+      "longitudine": 25.793197,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 195,
+      "nume": "Col Baltaretu  Regal",
+      "latitudine": 44.921518,
+      "longitudine": 25.455879,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 196,
+      "nume": "Col Baltaretu Funerare",
+      "latitudine": 44.92135,
+      "longitudine": 25.455841,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 197,
+      "nume": "Combinat OE 2 / 0",
+      "latitudine": 44.909826,
+      "longitudine": 25.459003,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 198,
+      "nume": "Combinat OE 2 / 1",
+      "latitudine": 44.910042,
+      "longitudine": 25.459007,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 199,
+      "nume": "Complex Natatie",
+      "latitudine": 44.924374,
+      "longitudine": 25.485005,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 200,
+      "nume": "Complex Natatitie",
+      "latitudine": 44.924136,
+      "longitudine": 25.484346,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 201,
+      "nume": "Cromstil 1/0",
+      "latitudine": 44.917251,
+      "longitudine": 25.439154,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 202,
+      "nume": "Cromstil 1/1",
+      "latitudine": 44.917531,
+      "longitudine": 25.43856,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 203,
+      "nume": "Csavargó",
+      "latitudine": 46.310565,
+      "longitudine": 25.297206,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 204,
+      "nume": "Curse Speciale Ford",
+      "latitudine": 44.294851,
+      "longitudine": 23.84387,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 205,
+      "nume": "Dasocado 0/1",
+      "latitudine": 44.925019,
+      "longitudine": 25.408557,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 206,
+      "nume": "Dasocado 1/1",
+      "latitudine": 44.925039,
+      "longitudine": 25.408178,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 207,
+      "nume": "Dealu Mare ( Lukoyl )",
+      "latitudine": 44.919612,
+      "longitudine": 25.458954,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 208,
+      "nume": "Dealu Mare ( Scoala Coresi )",
+      "latitudine": 44.919279,
+      "longitudine": 25.45939,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 209,
+      "nume": "Debarcader",
+      "latitudine": 45.407195,
+      "longitudine": 29.547007,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 210,
+      "nume": "Dedeman",
+      "latitudine": 44.945712,
+      "longitudine": 25.456488,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 211,
+      "nume": "DIANA",
+      "latitudine": 44.930445,
+      "longitudine": 25.447297,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 212,
+      "nume": "Diana M 5",
+      "latitudine": 44.930627,
+      "longitudine": 25.448488,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 213,
+      "nume": "Dispecerat Troleibuzul",
+      "latitudine": 46.92709,
+      "longitudine": 26.361241,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 214,
+      "nume": "DLS Bus Corabia",
+      "latitudine": 43.772346,
+      "longitudine": 24.503736,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 215,
+      "nume": "Doi  Brazi Finante ( Piata)",
+      "latitudine": 44.933753,
+      "longitudine": 25.454263,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 216,
+      "nume": "Doi Brazi ( Spalatorie )",
+      "latitudine": 44.932356,
+      "longitudine": 25.454379,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 217,
+      "nume": "Doi Brazi (Biserica)",
+      "latitudine": 44.932182,
+      "longitudine": 25.4543,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 218,
+      "nume": "Doi Brazi Finante",
+      "latitudine": 44.933672,
+      "longitudine": 25.454615,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 219,
+      "nume": "Drumul Taberei 35",
+      "latitudine": 44.423012,
+      "longitudine": 26.041903,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 220,
+      "nume": "Dudeștii Vechi",
+      "latitudine": 46.042119,
+      "longitudine": 20.476699,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 221,
+      "nume": "Erdemir",
+      "latitudine": 44.906827,
+      "longitudine": 25.44833,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 222,
+      "nume": "Eurovoyage (coach rental)",
+      "latitudine": 47.145687,
+      "longitudine": 27.605093,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 223,
+      "nume": "Expo Transilvania",
+      "latitudine": 46.78142,
+      "longitudine": 23.628401,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 224,
+      "nume": "Fibis",
+      "latitudine": 45.978543,
+      "longitudine": 21.425928,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 225,
+      "nume": "Fostu Peco 7 Noiembrie",
+      "latitudine": 44.93705,
+      "longitudine": 25.448659,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 226,
+      "nume": "Gagu",
+      "latitudine": 44.60268,
+      "longitudine": 26.243668,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 227,
+      "nume": "Gara",
+      "latitudine": 44.916588,
+      "longitudine": 25.454389,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 228,
+      "nume": "GARA",
+      "latitudine": 44.916802,
+      "longitudine": 25.454225,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 229,
+      "nume": "Gara 2",
+      "latitudine": 44.91587,
+      "longitudine": 25.45659,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 230,
+      "nume": "Gara Auto",
+      "latitudine": 46.282503,
+      "longitudine": 26.605542,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 231,
+      "nume": "Gara CFR",
+      "latitudine": 45.281584,
+      "longitudine": 27.95621,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 232,
+      "nume": "Gară",
+      "latitudine": 44.328563,
+      "longitudine": 23.815767,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 233,
+      "nume": "Gas Tours",
+      "latitudine": 46.308814,
+      "longitudine": 25.296082,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 234,
+      "nume": "Giratoriu",
+      "latitudine": 43.81519,
+      "longitudine": 28.582617,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 235,
+      "nume": "Gopo  1/1",
+      "latitudine": 44.927634,
+      "longitudine": 25.43233,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 236,
+      "nume": "Gopo 0/1",
+      "latitudine": 44.92771,
+      "longitudine": 25.432115,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 237,
+      "nume": "Gpl M3",
+      "latitudine": 44.929388,
+      "longitudine": 25.444002,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 238,
+      "nume": "Grigoresti",
+      "latitudine": 47.718098,
+      "longitudine": 26.387361,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 239,
+      "nume": "Hala",
+      "latitudine": 44.91587,
+      "longitudine": 25.478553,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 240,
+      "nume": "Halta Teis ( Patiserie)",
+      "latitudine": 44.939928,
+      "longitudine": 25.443335,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 241,
+      "nume": "Halta Teis (Vis-a-Vis)",
+      "latitudine": 44.939871,
+      "longitudine": 25.443455,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 242,
+      "nume": "Ialomita",
+      "latitudine": 44.917846,
+      "longitudine": 25.465815,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 243,
+      "nume": "Ialomita ( Fostul vip 3 D )",
+      "latitudine": 44.917862,
+      "longitudine": 25.466522,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 244,
+      "nume": "Iapa",
+      "latitudine": 47.927213,
+      "longitudine": 23.82533,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 245,
+      "nume": "Iapa",
+      "latitudine": 47.934874,
+      "longitudine": 23.850121,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 246,
+      "nume": "Ienachita Vacarescu",
+      "latitudine": 44.925976,
+      "longitudine": 25.468647,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 247,
+      "nume": "Ienachita Vacarescu",
+      "latitudine": 44.926868,
+      "longitudine": 25.467512,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 248,
+      "nume": "IJTL M6 (Borcan)",
+      "latitudine": 44.924065,
+      "longitudine": 25.441645,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 249,
+      "nume": "Intrare Priseaca Padure",
+      "latitudine": 44.922123,
+      "longitudine": 25.392187,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 250,
+      "nume": "Kaufland Aleea Mânăstirea Dealu",
+      "latitudine": 44.942169,
+      "longitudine": 25.4597,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 251,
+      "nume": "Kaufland Centru",
+      "latitudine": 44.923146,
+      "longitudine": 25.464157,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 252,
+      "nume": "Kaufland Centru ( Sinsay )",
+      "latitudine": 44.923003,
+      "longitudine": 25.464318,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 253,
+      "nume": "Kirvad Transfer Aeroport Otopeni",
+      "latitudine": 45.179242,
+      "longitudine": 28.787913,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 254,
+      "nume": "Leroy Merlin",
+      "latitudine": 44.923048,
+      "longitudine": 25.433,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 255,
+      "nume": "Leroy Merlin 0/1",
+      "latitudine": 44.923154,
+      "longitudine": 25.432824,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 256,
+      "nume": "Liceul 3 M6",
+      "latitudine": 44.921054,
+      "longitudine": 25.448433,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 257,
+      "nume": "Liceul 3 M6 (Patiserie Rebeca)",
+      "latitudine": 44.92098,
+      "longitudine": 25.449108,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 258,
+      "nume": "Liceul Agricol",
+      "latitudine": 43.809354,
+      "longitudine": 25.165261,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 259,
+      "nume": "Livada Poștei",
+      "latitudine": 45.645634,
+      "longitudine": 25.588158,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 260,
+      "nume": "Loc de îmbarcare/debarcare turiști",
+      "latitudine": 45.085217,
+      "longitudine": 24.309292,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 261,
+      "nume": "Locanda Stefan",
+      "latitudine": 44.922414,
+      "longitudine": 25.393166,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 262,
+      "nume": "LOCTRANS",
+      "latitudine": 44.436257,
+      "longitudine": 24.379464,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 263,
+      "nume": "Lorentina Aleea Mânăstirea Dealu",
+      "latitudine": 44.942248,
+      "longitudine": 25.459585,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 264,
+      "nume": "M-Gradinita",
+      "latitudine": 46.715066,
+      "longitudine": 23.615343,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 265,
+      "nume": "M-Primaria Feleacu",
+      "latitudine": 46.715726,
+      "longitudine": 23.616065,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 266,
+      "nume": "Magnolia",
+      "latitudine": 45.807629,
+      "longitudine": 24.107956,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 267,
+      "nume": "Mall 1",
+      "latitudine": 44.913241,
+      "longitudine": 25.46279,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 268,
+      "nume": "Massaro",
+      "latitudine": 46.567847,
+      "longitudine": 26.893581,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 269,
+      "nume": "Memento Bus",
+      "latitudine": 44.45006,
+      "longitudine": 26.065288,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 270,
+      "nume": "Micro 14",
+      "latitudine": 45.156812,
+      "longitudine": 26.791575,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 271,
+      "nume": "Micro 14 - B",
+      "latitudine": 45.156977,
+      "longitudine": 26.791597,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 272,
+      "nume": "Micro 19",
+      "latitudine": 45.413315,
+      "longitudine": 28.012475,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 273,
+      "nume": "Milcov CL",
+      "latitudine": 46.14757,
+      "longitudine": 24.330478,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 274,
+      "nume": "Minion M11",
+      "latitudine": 44.915087,
+      "longitudine": 25.475026,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 275,
+      "nume": "Minion M12",
+      "latitudine": 44.915028,
+      "longitudine": 25.474922,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 276,
+      "nume": "Mitropolie H",
+      "latitudine": 44.92518,
+      "longitudine": 25.460303,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 277,
+      "nume": "Mitropolie P",
+      "latitudine": 44.925037,
+      "longitudine": 25.458999,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 278,
+      "nume": "Mol 1 Bis",
+      "latitudine": 44.91354,
+      "longitudine": 25.462648,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 279,
+      "nume": "Mol 2",
+      "latitudine": 44.911175,
+      "longitudine": 25.466013,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 280,
+      "nume": "Mol 2 Bis",
+      "latitudine": 44.91069,
+      "longitudine": 25.467016,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 281,
+      "nume": "Muntenia",
+      "latitudine": 44.925505,
+      "longitudine": 25.464011,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 282,
+      "nume": "Măineasca",
+      "latitudine": 44.573038,
+      "longitudine": 26.360603,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 283,
+      "nume": "Noua",
+      "latitudine": 45.620185,
+      "longitudine": 25.634116,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 284,
+      "nume": "Otelarie Poarta 2 LPM",
+      "latitudine": 44.904367,
+      "longitudine": 25.447711,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 285,
+      "nume": "Otelarie Principala 1",
+      "latitudine": 44.90901,
+      "longitudine": 25.449316,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 286,
+      "nume": "Otelarie Principala 2",
+      "latitudine": 44.908698,
+      "longitudine": 25.448972,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 287,
+      "nume": "OTL 11,22 Real2 pick up site",
+      "latitudine": 47.086771,
+      "longitudine": 21.913013,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 288,
+      "nume": "Penny ex-Trident",
+      "latitudine": 45.862284,
+      "longitudine": 22.909037,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 289,
+      "nume": "Pepco Tudor vladimirescu",
+      "latitudine": 44.926008,
+      "longitudine": 25.447644,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 290,
+      "nume": "Petrosani - Deva",
+      "latitudine": 45.422628,
+      "longitudine": 23.368298,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 291,
+      "nume": "Petrova",
+      "latitudine": 47.824407,
+      "longitudine": 24.224445,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 292,
+      "nume": "Petrova",
+      "latitudine": 47.826684,
+      "longitudine": 24.219155,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 293,
+      "nume": "Piata 1 Mai",
+      "latitudine": 44.924073,
+      "longitudine": 25.465008,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 294,
+      "nume": "Piata Rusi ( In Spate )",
+      "latitudine": 44.918133,
+      "longitudine": 25.451273,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 295,
+      "nume": "Piata Rusi (Mileniu)",
+      "latitudine": 44.917795,
+      "longitudine": 25.451772,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 296,
+      "nume": "Pleacari Gaesti",
+      "latitudine": 44.920395,
+      "longitudine": 25.454123,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 297,
+      "nume": "Pletl",
+      "latitudine": 45.798963,
+      "longitudine": 24.07878,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 298,
+      "nume": "Pod Golescu",
+      "latitudine": 47.784918,
+      "longitudine": 22.865798,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 299,
+      "nume": "Podul Ronisorii",
+      "latitudine": 47.916939,
+      "longitudine": 23.921385,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 300,
+      "nume": "Poiana Marului-Centru",
+      "latitudine": 45.604282,
+      "longitudine": 25.307636,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 301,
+      "nume": "Poligon",
+      "latitudine": 45.408086,
+      "longitudine": 27.997933,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 302,
+      "nume": "Ponton",
+      "latitudine": 45.402603,
+      "longitudine": 29.556414,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 303,
+      "nume": "Ponton",
+      "latitudine": 45.407193,
+      "longitudine": 29.546844,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 304,
+      "nume": "Posta Snagov",
+      "latitudine": 44.708192,
+      "longitudine": 26.174491,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 305,
+      "nume": "Profi M 6",
+      "latitudine": 44.923432,
+      "longitudine": 25.443387,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 306,
+      "nume": "Protectia Plantelor 0/1",
+      "latitudine": 44.9279,
+      "longitudine": 25.426858,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 307,
+      "nume": "Protectia plantelor 1/1",
+      "latitudine": 44.927964,
+      "longitudine": 25.426827,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 308,
+      "nume": "Pădurea Băneasa",
+      "latitudine": 44.516872,
+      "longitudine": 26.086551,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 309,
+      "nume": "Păucea",
+      "latitudine": 46.217822,
+      "longitudine": 24.357194,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 310,
+      "nume": "Ramificație Albești",
+      "latitudine": 46.234724,
+      "longitudine": 24.836744,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 311,
+      "nume": "Rirectia Munci",
+      "latitudine": 44.926815,
+      "longitudine": 25.446311,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 312,
+      "nume": "Roman",
+      "latitudine": 45.63281,
+      "longitudine": 25.632458,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 313,
+      "nume": "Romcarbon",
+      "latitudine": 45.1594,
+      "longitudine": 26.805402,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 314,
+      "nume": "Romlux 0/1",
+      "latitudine": 44.92823,
+      "longitudine": 25.431006,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 315,
+      "nume": "Romlux 1/1",
+      "latitudine": 44.928358,
+      "longitudine": 25.430856,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 316,
+      "nume": "Roșia - Beiuș",
+      "latitudine": 46.6925,
+      "longitudine": 22.340176,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 317,
+      "nume": "Roșia - Beiuș",
+      "latitudine": 46.714075,
+      "longitudine": 22.346657,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 318,
+      "nume": "Roșia - Beiuș",
+      "latitudine": 46.738731,
+      "longitudine": 22.347022,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 319,
+      "nume": "Roșia - Beiuș",
+      "latitudine": 46.754413,
+      "longitudine": 22.35422,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 320,
+      "nume": "Roșia - Beiuș",
+      "latitudine": 46.766432,
+      "longitudine": 22.366575,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 321,
+      "nume": "Rulmentul",
+      "latitudine": 45.682333,
+      "longitudine": 25.615064,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 322,
+      "nume": "Sala Polivalenta ( Conti )",
+      "latitudine": 44.926907,
+      "longitudine": 25.439389,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 323,
+      "nume": "Salina Trotuș",
+      "latitudine": 46.287697,
+      "longitudine": 26.603205,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 324,
+      "nume": "Samex",
+      "latitudine": 45.766335,
+      "longitudine": 21.244345,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 325,
+      "nume": "Saro 0/1",
+      "latitudine": 44.915909,
+      "longitudine": 25.440812,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 326,
+      "nume": "Saro 1/1",
+      "latitudine": 44.915909,
+      "longitudine": 25.440586,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 327,
+      "nume": "Saturn",
+      "latitudine": 45.634486,
+      "longitudine": 25.635661,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 328,
+      "nume": "SC ANAIS TRANS COMPANY SRL",
+      "latitudine": 47.754239,
+      "longitudine": 26.62635,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 329,
+      "nume": "Sebeșul de Jos-Centru",
+      "latitudine": 45.650122,
+      "longitudine": 24.334833,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 330,
+      "nume": "Slanic",
+      "latitudine": 46.207318,
+      "longitudine": 26.438647,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 331,
+      "nume": "Sosire Gaiesti",
+      "latitudine": 44.919903,
+      "longitudine": 25.453679,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 332,
+      "nume": "Spirt M11",
+      "latitudine": 44.91524,
+      "longitudine": 25.481639,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 333,
+      "nume": "Spirt Prepeleac",
+      "latitudine": 44.914836,
+      "longitudine": 25.480948,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 334,
+      "nume": "Spital 1",
+      "latitudine": 45.750882,
+      "longitudine": 22.906554,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 335,
+      "nume": "Spital 2",
+      "latitudine": 45.750986,
+      "longitudine": 22.906324,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 336,
+      "nume": "Spital Cofetarie",
+      "latitudine": 44.923113,
+      "longitudine": 25.452078,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 337,
+      "nume": "Spital Judetean",
+      "latitudine": 44.924057,
+      "longitudine": 25.4505,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 338,
+      "nume": "Spital Platforma 0/1",
+      "latitudine": 44.912454,
+      "longitudine": 25.445479,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 339,
+      "nume": "Spital Platforma 1/1",
+      "latitudine": 44.912394,
+      "longitudine": 25.445217,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 340,
+      "nume": "Statia \"Terminus\" Uricani",
+      "latitudine": 45.331566,
+      "longitudine": 23.118415,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 341,
+      "nume": "Statia Primăria Dobtețu",
+      "latitudine": 44.493534,
+      "longitudine": 23.953736,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 342,
+      "nume": "statie",
+      "latitudine": 43.80073,
+      "longitudine": 25.165549,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 343,
+      "nume": "Statie",
+      "latitudine": 48.030921,
+      "longitudine": 23.148319,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 344,
+      "nume": "Statie",
+      "latitudine": 48.040334,
+      "longitudine": 23.152756,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 345,
+      "nume": "Statie autobuz",
+      "latitudine": 44.747631,
+      "longitudine": 24.109778,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 346,
+      "nume": "Statie Autobuz Agnita",
+      "latitudine": 45.975685,
+      "longitudine": 24.626371,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 347,
+      "nume": "Statie autobuz mall",
+      "latitudine": 47.658694,
+      "longitudine": 26.269323,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 348,
+      "nume": "statie biserica",
+      "latitudine": 47.661509,
+      "longitudine": 26.425286,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 349,
+      "nume": "Statie de autobuz",
+      "latitudine": 47.307355,
+      "longitudine": 27.08677,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 350,
+      "nume": "Statie de autobuz Godeanu",
+      "latitudine": 44.804158,
+      "longitudine": 22.613393,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 351,
+      "nume": "Statie Hanesti",
+      "latitudine": 47.911577,
+      "longitudine": 26.977338,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 352,
+      "nume": "Stația autobus",
+      "latitudine": 46.470073,
+      "longitudine": 22.476046,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 353,
+      "nume": "Stația Banului",
+      "latitudine": 44.414169,
+      "longitudine": 24.378572,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 354,
+      "nume": "Stația Beiuș - Roșia",
+      "latitudine": 46.668384,
+      "longitudine": 22.349765,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 355,
+      "nume": "Stația Bărbătești-Centru",
+      "latitudine": 45.168797,
+      "longitudine": 24.118554,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 356,
+      "nume": "Stația de transport intermodală Țuțora",
+      "latitudine": 47.143622,
+      "longitudine": 27.643215,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 357,
+      "nume": "Stația Dispecerat",
+      "latitudine": 46.939938,
+      "longitudine": 26.384111,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 358,
+      "nume": "Stația Foto - Plopilor",
+      "latitudine": 46.564716,
+      "longitudine": 24.5518,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 359,
+      "nume": "Stația Gară",
+      "latitudine": 46.565457,
+      "longitudine": 26.895882,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 360,
+      "nume": "Stația Horezu Vechi",
+      "latitudine": 44.466005,
+      "longitudine": 23.975801,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 361,
+      "nume": "Stația Lebăda - Linia 5 (Cap linie)",
+      "latitudine": 46.929672,
+      "longitudine": 26.976666,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 362,
+      "nume": "Stația Monument",
+      "latitudine": 44.416592,
+      "longitudine": 24.37129,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 363,
+      "nume": "Stația Monument",
+      "latitudine": 44.416953,
+      "longitudine": 24.371967,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 364,
+      "nume": "Stația Podgoriilor",
+      "latitudine": 44.460147,
+      "longitudine": 24.382995,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 365,
+      "nume": "Stația Sarata 2",
+      "latitudine": 46.940303,
+      "longitudine": 26.326426,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 366,
+      "nume": "Stația Union",
+      "latitudine": 44.428597,
+      "longitudine": 24.365015,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 367,
+      "nume": "Stația Vălenii",
+      "latitudine": 46.447986,
+      "longitudine": 24.645522,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 368,
+      "nume": "Stația Șard-Centru",
+      "latitudine": 46.127543,
+      "longitudine": 23.53309,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 369,
+      "nume": "Stația Școala Horezu",
+      "latitudine": 44.47342,
+      "longitudine": 23.955228,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 370,
+      "nume": "Stația Șugaș Băi",
+      "latitudine": 45.896783,
+      "longitudine": 25.707352,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 371,
+      "nume": "Stația “Ocolul Silvic Azuga”",
+      "latitudine": 45.44467,
+      "longitudine": 25.554247,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 372,
+      "nume": "Stație Autobuz",
+      "latitudine": 44.007989,
+      "longitudine": 28.639562,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 373,
+      "nume": "Stație autobuz",
+      "latitudine": 44.064624,
+      "longitudine": 28.634086,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 374,
+      "nume": "Stație Autobuz",
+      "latitudine": 45.76236,
+      "longitudine": 23.183291,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 375,
+      "nume": "Stație autobuz Nepos",
+      "latitudine": 47.279776,
+      "longitudine": 24.535737,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 376,
+      "nume": "Stație autobuz(complex)",
+      "latitudine": 44.030551,
+      "longitudine": 28.647649,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 377,
+      "nume": "Stație autobuz(fabrică)",
+      "latitudine": 44.019393,
+      "longitudine": 28.643521,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 378,
+      "nume": "Stație autobuz(peco)",
+      "latitudine": 44.022913,
+      "longitudine": 28.644825,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 379,
+      "nume": "Stație autobuz(peco)",
+      "latitudine": 44.023474,
+      "longitudine": 28.64521,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 380,
+      "nume": "Stație autobuze",
+      "latitudine": 45.259713,
+      "longitudine": 24.321993,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 381,
+      "nume": "Stație autobuze",
+      "latitudine": 45.259997,
+      "longitudine": 24.319501,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 382,
+      "nume": "Stație Bagza",
+      "latitudine": 46.959747,
+      "longitudine": 27.932676,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 383,
+      "nume": "Stație Curse Huși-Vaslui",
+      "latitudine": 46.671548,
+      "longitudine": 28.061089,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 384,
+      "nume": "Stație de autobuz",
+      "latitudine": 45.002279,
+      "longitudine": 23.966488,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 385,
+      "nume": "Stație de autobuz",
+      "latitudine": 45.039513,
+      "longitudine": 24.29704,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 386,
+      "nume": "Stație de autobuz",
+      "latitudine": 45.063836,
+      "longitudine": 24.388482,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 387,
+      "nume": "Stație de autobuz",
+      "latitudine": 45.085655,
+      "longitudine": 23.907976,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 388,
+      "nume": "Stație de autobuz",
+      "latitudine": 45.152461,
+      "longitudine": 24.248017,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 389,
+      "nume": "Stație de Autobuz",
+      "latitudine": 47.073786,
+      "longitudine": 21.813707,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 390,
+      "nume": "Stație de Autobuz",
+      "latitudine": 47.076184,
+      "longitudine": 21.801735,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 391,
+      "nume": "Stație de Autobuz - Cheresig 1",
+      "latitudine": 47.03141,
+      "longitudine": 21.69098,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 392,
+      "nume": "Stație de Autobuz - Cheresig 2",
+      "latitudine": 47.038655,
+      "longitudine": 21.686558,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 393,
+      "nume": "Stație de Autobuz - Cheresig 3",
+      "latitudine": 47.032074,
+      "longitudine": 21.678951,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 394,
+      "nume": "Stație de Autobuz - Girisu de Cris 1",
+      "latitudine": 47.06516,
+      "longitudine": 21.765332,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 395,
+      "nume": "Stație de Autobuz - Girisu de Cris 2",
+      "latitudine": 47.062052,
+      "longitudine": 21.755976,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 396,
+      "nume": "Stație de Autobuz - Tarian",
+      "latitudine": 47.073047,
+      "longitudine": 21.780933,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 397,
+      "nume": "Stație de Autobuz - Toboliu 1",
+      "latitudine": 47.042763,
+      "longitudine": 21.724273,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 398,
+      "nume": "Stație de Autobuz - Toboliu 2",
+      "latitudine": 47.041473,
+      "longitudine": 21.719447,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 399,
+      "nume": "Stație de Autobuz - Toboliu 3",
+      "latitudine": 47.03452,
+      "longitudine": 21.713686,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 400,
+      "nume": "Stație de autobuz Vâlcele",
+      "latitudine": 45.085901,
+      "longitudine": 26.635073,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 401,
+      "nume": "Stație Decebal",
+      "latitudine": 47.054576,
+      "longitudine": 21.91796,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 402,
+      "nume": "Stație fosta fabrică Guban",
+      "latitudine": 45.750046,
+      "longitudine": 21.25018,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 403,
+      "nume": "Stație Laurian",
+      "latitudine": 47.738851,
+      "longitudine": 26.664107,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 404,
+      "nume": "Stație maxi taxi",
+      "latitudine": 45.273225,
+      "longitudine": 25.047717,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 405,
+      "nume": "Stație Maxi-Taxi Centru Palanca",
+      "latitudine": 44.475352,
+      "longitudine": 25.726196,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 406,
+      "nume": "Stație Microbuze",
+      "latitudine": 44.925475,
+      "longitudine": 26.029006,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 407,
+      "nume": "Stație Normandia",
+      "latitudine": 45.41363,
+      "longitudine": 23.368803,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 408,
+      "nume": "Stație PECO",
+      "latitudine": 45.12006,
+      "longitudine": 25.739246,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 409,
+      "nume": "Stație Toros Filaret (Bacău - București - Istanbul)",
+      "latitudine": 44.411808,
+      "longitudine": 26.089286,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 410,
+      "nume": "Stație trenuleț Sinaia",
+      "latitudine": 45.352413,
+      "longitudine": 25.550283,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 411,
+      "nume": "STTM CL",
+      "latitudine": 46.171953,
+      "longitudine": 24.380206,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 412,
+      "nume": "Săliște",
+      "latitudine": 45.795197,
+      "longitudine": 23.884154,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 413,
+      "nume": "Teilor 0/1",
+      "latitudine": 44.923526,
+      "longitudine": 25.399926,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 414,
+      "nume": "Teilor1/1",
+      "latitudine": 44.923529,
+      "longitudine": 25.40042,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 415,
+      "nume": "Terminal Colonie Nuci",
+      "latitudine": 45.026604,
+      "longitudine": 24.278421,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 416,
+      "nume": "Terminal Gară",
+      "latitudine": 45.661085,
+      "longitudine": 25.612428,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 417,
+      "nume": "Terminalul Intermodal Piața Republicii",
+      "latitudine": 45.292601,
+      "longitudine": 21.913824,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 418,
+      "nume": "Terminalul STB Greenfield",
+      "latitudine": 44.538187,
+      "longitudine": 26.094911,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 419,
+      "nume": "Transbus Codreanu Bus Stop Bran",
+      "latitudine": 45.510158,
+      "longitudine": 25.355206,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 420,
+      "nume": "Transmixt",
+      "latitudine": 46.274049,
+      "longitudine": 23.063595,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 421,
+      "nume": "Transport extraurban",
+      "latitudine": 46.625324,
+      "longitudine": 27.728752,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 422,
+      "nume": "Transport urban",
+      "latitudine": 46.626681,
+      "longitudine": 27.729471,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 423,
+      "nume": "Transurban Info point",
+      "latitudine": 47.793613,
+      "longitudine": 22.877446,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 424,
+      "nume": "Triaj",
+      "latitudine": 45.675636,
+      "longitudine": 25.647615,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 425,
+      "nume": "Tribunalul Nou",
+      "latitudine": 44.920865,
+      "longitudine": 25.476154,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 426,
+      "nume": "Tribunalul Nou ( Etos)",
+      "latitudine": 44.920638,
+      "longitudine": 25.47599,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 427,
+      "nume": "TUP ASA1",
+      "latitudine": 46.55869,
+      "longitudine": 23.785077,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 428,
+      "nume": "Uzo Balcan",
+      "latitudine": 45.86442,
+      "longitudine": 22.903018,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 429,
+      "nume": "Valea Trestiei",
+      "latitudine": 46.029184,
+      "longitudine": 22.911032,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 430,
+      "nume": "Vama",
+      "latitudine": 44.896903,
+      "longitudine": 25.445502,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 431,
+      "nume": "Velrom 0/1",
+      "latitudine": 44.925245,
+      "longitudine": 25.432541,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 432,
+      "nume": "Velrom 1/1",
+      "latitudine": 44.924821,
+      "longitudine": 25.43273,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 433,
+      "nume": "Victoria",
+      "latitudine": 44.91348,
+      "longitudine": 25.450645,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 434,
+      "nume": "Victoria Cimitir",
+      "latitudine": 44.914208,
+      "longitudine": 25.451123,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 435,
+      "nume": "VIVO!",
+      "latitudine": 44.86833,
+      "longitudine": 24.884027,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 436,
+      "nume": "Vălenii",
+      "latitudine": 46.447886,
+      "longitudine": 24.645321,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 437,
+      "nume": "Zețarilor",
+      "latitudine": 44.385965,
+      "longitudine": 26.077747,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 438,
+      "nume": "Zimcom Bus",
+      "latitudine": 44.063948,
+      "longitudine": 28.634513,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 439,
+      "nume": "Școala Generală",
+      "latitudine": 43.816165,
+      "longitudine": 25.164944,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 440,
+      "nume": "Țuțora",
+      "latitudine": 47.143304,
+      "longitudine": 27.643485,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 441,
+      "nume": "Автогара Алексиев",
+      "latitudine": 43.984431,
+      "longitudine": 22.873132,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 442,
+      "nume": "Автогара Никопол",
+      "latitudine": 43.705381,
+      "longitudine": 24.893008,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 443,
+      "nume": "Аутобуска станица Бела Црква",
+      "latitudine": 44.896763,
+      "longitudine": 21.423089,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 444,
+      "nume": "Великий Бичків",
+      "latitudine": 47.969049,
+      "longitudine": 24.005841,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 445,
+      "nume": "Голубац",
+      "latitudine": 44.654223,
+      "longitudine": 21.624665,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 446,
+      "nume": "Доњи Милановац",
+      "latitudine": 44.466421,
+      "longitudine": 22.151356,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    },
+    {
+      "id": 447,
+      "nume": "Тячів",
+      "latitudine": 48.013414,
+      "longitudine": 23.575917,
+      "cheie_osm": "amenity",
+      "valoare_osm": "bus_station",
+      "categorie_osm": "amenity=bus_station"
+    }
+  ],
+  "meta": {
+    "title": "Autogări din România - Descărcare gratuită",
+    "description": "Autogări din România — 447 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `amenity=bus_station`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează. Conține 447 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Autogări din România | ListBase",
+    "seo_description": "Descarcă Autogări din România — 447 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 447 înregistrări / 7 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

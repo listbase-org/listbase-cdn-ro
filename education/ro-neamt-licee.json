@@ -1,0 +1,292 @@
+{
+  "id": "ro-neamt-licee",
+  "name": "Licee si colegii din judetul Neamț",
+  "title": "Licee si colegii din judetul Neamț",
+  "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Neamț (41 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "COLEGIUL NAȚIONAL DE INFORMATICĂ, MUNICIPIUL PIATRA-NEAMȚ",
+      "slug": "colegiul-national-de-informatica-municipiul-piatra-neamt",
+      "judet": "NEAMȚ",
+      "judet_slug": "neamt"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"CALISTRAT HOGAȘ\", MUNICIPIUL PIATRA-NEAMȚ",
+      "slug": "colegiul-national-calistrat-hogas-municipiul-piatra-neamt",
+      "judet": "NEAMȚ",
+      "judet_slug": "neamt"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"GHEORGHE ASACHI\", MUNICIPIUL PIATRA-NEAMȚ",
+      "slug": "colegiul-national-gheorghe-asachi-municipiul-piatra-neamt",
+      "judet": "NEAMȚ",
+      "judet_slug": "neamt"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"PETRU RAREȘ\", MUNICIPIUL PIATRA-NEAMȚ",
+      "slug": "colegiul-national-petru-rares-municipiul-piatra-neamt",
+      "judet": "NEAMȚ",
+      "judet_slug": "neamt"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"ROMAN VODĂ\", MUNICIPIUL ROMAN",
+      "slug": "colegiul-national-roman-voda-municipiul-roman",
+      "judet": "NEAMȚ",
+      "judet_slug": "neamt"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"ȘTEFAN CEL MARE\", ORAȘ TÂRGU NEAMȚ",
+      "slug": "colegiul-national-stefan-cel-mare-oras-targu-neamt",
+      "judet": "NEAMȚ",
+      "judet_slug": "neamt"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC DE TRANSPORTURI, MUNICIPIUL PIATRA-NEAMȚ",
+      "slug": "colegiul-tehnic-de-transporturi-municipiul-piatra-neamt",
+      "judet": "NEAMȚ",
+      "judet_slug": "neamt"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC FORESTIER, MUNICIPIUL PIATRA-NEAMȚ",
+      "slug": "colegiul-tehnic-forestier-municipiul-piatra-neamt",
+      "judet": "NEAMȚ",
+      "judet_slug": "neamt"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"DANUBIANA\", MUNICIPIUL ROMAN",
+      "slug": "colegiul-tehnic-danubiana-municipiul-roman",
+      "judet": "NEAMȚ",
+      "judet_slug": "neamt"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"GHEORGHE CARTIANU\", MUNICIPIUL PIATRA-NEAMȚ",
+      "slug": "colegiul-tehnic-gheorghe-cartianu-municipiul-piatra-neamt",
+      "judet": "NEAMȚ",
+      "judet_slug": "neamt"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"ION CREANGĂ\", ORAȘ TÂRGU NEAMȚ",
+      "slug": "colegiul-tehnic-ion-creanga-oras-targu-neamt",
+      "judet": "NEAMȚ",
+      "judet_slug": "neamt"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"MIRON COSTIN\", MUNICIPIUL ROMAN",
+      "slug": "colegiul-tehnic-miron-costin-municipiul-roman",
+      "judet": "NEAMȚ",
+      "judet_slug": "neamt"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"PETRU PONI\", MUNICIPIUL ROMAN",
+      "slug": "colegiul-tehnic-petru-poni-municipiul-roman",
+      "judet": "NEAMȚ",
+      "judet_slug": "neamt"
+    },
+    {
+      "nume": "COLEGIUL TEHNOLOGIC \"SPIRU HARET\", MUNICIPIUL PIATRA-NEAMȚ",
+      "slug": "colegiul-tehnologic-spiru-haret-municipiul-piatra-neamt",
+      "judet": "NEAMȚ",
+      "judet_slug": "neamt"
+    },
+    {
+      "nume": "LICEUL CU PROGRAM SPORTIV, MUNICIPIUL PIATRA-NEAMȚ",
+      "slug": "liceul-cu-program-sportiv-municipiul-piatra-neamt",
+      "judet": "NEAMȚ",
+      "judet_slug": "neamt"
+    },
+    {
+      "nume": "LICEUL CU PROGRAM SPORTIV, MUNICIPIUL ROMAN",
+      "slug": "liceul-cu-program-sportiv-municipiul-roman",
+      "judet": "NEAMȚ",
+      "judet_slug": "neamt"
+    },
+    {
+      "nume": "LICEUL DE ARTE \"VICTOR BRAUNER\", MUNICIPIUL PIATRA-NEAMȚ",
+      "slug": "liceul-de-arte-victor-brauner-municipiul-piatra-neamt",
+      "judet": "NEAMȚ",
+      "judet_slug": "neamt"
+    },
+    {
+      "nume": "LICEUL PARTICULAR NR. 1, SAT BISTRIȚA, COMUNA ALEXANDRU CEL BUN",
+      "slug": "liceul-particular-nr-1-sat-bistrita-comuna-alexandru-cel-bun",
+      "judet": "NEAMȚ",
+      "judet_slug": "neamt"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC ADJUDENI, COMUNA TAMĂȘENI",
+      "slug": "liceul-tehnologic-adjudeni-comuna-tamaseni",
+      "judet": "NEAMȚ",
+      "judet_slug": "neamt"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC ECONOMIC - ADMINISTRATIV, MUNICIPIUL PIATRA-NEAMȚ",
+      "slug": "liceul-tehnologic-economic-administrativ-municipiul-piatra-neamt",
+      "judet": "NEAMȚ",
+      "judet_slug": "neamt"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC NISIPOREȘTI, COMUNA BOTEȘTI",
+      "slug": "liceul-tehnologic-nisiporesti-comuna-botesti",
+      "judet": "NEAMȚ",
+      "judet_slug": "neamt"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC OGLINZI, COMUNA RĂUCEȘTI",
+      "slug": "liceul-tehnologic-oglinzi-comuna-raucesti",
+      "judet": "NEAMȚ",
+      "judet_slug": "neamt"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"ARHIMANDRIT CHIRIAC NICOLAU\", COMUNA VÂNĂTORI-NEAMȚ",
+      "slug": "liceul-tehnologic-arhimandrit-chiriac-nicolau-comuna-vanatori-neamt",
+      "judet": "NEAMȚ",
+      "judet_slug": "neamt"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"DIMITRIE LEONIDA\", MUNICIPIUL PIATRA-NEAMȚ",
+      "slug": "liceul-tehnologic-dimitrie-leonida-municipiul-piatra-neamt",
+      "judet": "NEAMȚ",
+      "judet_slug": "neamt"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"GH. RUSET ROZNOVANU\", ORAȘ ROZNOV",
+      "slug": "liceul-tehnologic-gh-ruset-roznovanu-oras-roznov",
+      "judet": "NEAMȚ",
+      "judet_slug": "neamt"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"ION CREANGĂ\", COMUNA PIPIRIG",
+      "slug": "liceul-tehnologic-ion-creanga-comuna-pipirig",
+      "judet": "NEAMȚ",
+      "judet_slug": "neamt"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"ION IONESCU DE LA BRAD\", COMUNA HORIA",
+      "slug": "liceul-tehnologic-ion-ionescu-de-la-brad-comuna-horia",
+      "judet": "NEAMȚ",
+      "judet_slug": "neamt"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"SFÂNTUL IOAN DE LA SALLE\", SAT PILDEȘTI, COMUNA CORDUN",
+      "slug": "liceul-tehnologic-sfantul-ioan-de-la-salle-sat-pildesti-comuna-cordun",
+      "judet": "NEAMȚ",
+      "judet_slug": "neamt"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"VASILE SAV\", MUNICIPIUL ROMAN",
+      "slug": "liceul-tehnologic-vasile-sav-municipiul-roman",
+      "judet": "NEAMȚ",
+      "judet_slug": "neamt"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC, COMUNA DĂMUC",
+      "slug": "liceul-tehnologic-comuna-damuc",
+      "judet": "NEAMȚ",
+      "judet_slug": "neamt"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC, COMUNA PETRICANI",
+      "slug": "liceul-tehnologic-comuna-petricani",
+      "judet": "NEAMȚ",
+      "judet_slug": "neamt"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC, COMUNA VALEA URSULUI",
+      "slug": "liceul-tehnologic-comuna-valea-ursului",
+      "judet": "NEAMȚ",
+      "judet_slug": "neamt"
+    },
+    {
+      "nume": "LICEUL TEOLOGIC ORTODOX \"CUVIOASA PARASCHEVA\", COMUNA AGAPIA",
+      "slug": "liceul-teologic-ortodox-cuvioasa-parascheva-comuna-agapia",
+      "judet": "NEAMȚ",
+      "judet_slug": "neamt"
+    },
+    {
+      "nume": "LICEUL TEOLOGIC ORTODOX \"SFINȚII ÎMPARAȚI CONSTANTIN ȘI ELENA\", MUNICIPIUL PIATRA-NEAMȚ",
+      "slug": "liceul-teologic-ortodox-sfintii-imparati-constantin-si-elena-municipiul-piatra-neamt",
+      "judet": "NEAMȚ",
+      "judet_slug": "neamt"
+    },
+    {
+      "nume": "LICEUL TEOLOGIC ROMANO-CATOLIC \"SFÂNTUL FRANCISC DE ASSISI\", MUNICIPIUL ROMAN",
+      "slug": "liceul-teologic-romano-catolic-sfantul-francisc-de-assisi-municipiul-roman",
+      "judet": "NEAMȚ",
+      "judet_slug": "neamt"
+    },
+    {
+      "nume": "LICEUL TEOLOGIC \"EPISCOP MELCHISEDEC\", MUNICIPIUL ROMAN",
+      "slug": "liceul-teologic-episcop-melchisedec-municipiul-roman",
+      "judet": "NEAMȚ",
+      "judet_slug": "neamt"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"VASILE ALECSANDRI\", COMUNA SĂBĂOANI",
+      "slug": "liceul-teoretic-vasile-alecsandri-comuna-sabaoani",
+      "judet": "NEAMȚ",
+      "judet_slug": "neamt"
+    },
+    {
+      "nume": "LICEUL \"CAROL I\", ORAȘ BICAZ",
+      "slug": "liceul-carol-i-oras-bicaz",
+      "judet": "NEAMȚ",
+      "judet_slug": "neamt"
+    },
+    {
+      "nume": "LICEUL \"MIHAIL SADOVEANU\", COMUNA BORCA",
+      "slug": "liceul-mihail-sadoveanu-comuna-borca",
+      "judet": "NEAMȚ",
+      "judet_slug": "neamt"
+    },
+    {
+      "nume": "LICEUL \"VASILE CONTA\", ORAȘ TÂRGU NEAMȚ",
+      "slug": "liceul-vasile-conta-oras-targu-neamt",
+      "judet": "NEAMȚ",
+      "judet_slug": "neamt"
+    },
+    {
+      "nume": "SEMINARUL TEOLOGIC ORTODOX \"VENIAMIN COSTACHI\", SAT MÂNĂSTIREA NEAMȚ, COMUNA VÂNĂTORI NEAMȚ",
+      "slug": "seminarul-teologic-ortodox-veniamin-costachi-sat-manastirea-neamt-comuna-vanatori-neamt",
+      "judet": "NEAMȚ",
+      "judet_slug": "neamt"
+    }
+  ],
+  "meta": {
+    "title": "Licee si colegii din judetul Neamț - Descărcare gratuită",
+    "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Neamț (41 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor. Conține 41 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Licee si colegii din judetul Neamț | ListBase",
+    "seo_description": "Descarcă Licee si colegii din judetul Neamț — 41 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 41 înregistrări / 4 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

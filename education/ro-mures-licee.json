@@ -1,0 +1,250 @@
+{
+  "id": "ro-mures-licee",
+  "name": "Licee si colegii din judetul Mureș",
+  "title": "Licee si colegii din judetul Mureș",
+  "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Mureș (34 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "COLEGIUL AGRICOL \"TRAIAN SĂVULESCU\" TÂRGU-MUREŞ",
+      "slug": "colegiul-agricol-traian-savulescu-targu-mures",
+      "judet": "MUREȘ",
+      "judet_slug": "mures"
+    },
+    {
+      "nume": "COLEGIUL ECONOMIC \"TRANSILVANIA\" TÂRGU-MUREŞ",
+      "slug": "colegiul-economic-transilvania-targu-mures",
+      "judet": "MUREȘ",
+      "judet_slug": "mures"
+    },
+    {
+      "nume": "COLEGIUL NAŢIONAL \"ALEXANDRU PAPIU ILARIAN\" TÂRGU-MUREŞ",
+      "slug": "colegiul-national-alexandru-papiu-ilarian-targu-mures",
+      "judet": "MUREȘ",
+      "judet_slug": "mures"
+    },
+    {
+      "nume": "COLEGIUL NAŢIONAL \"MIRCEA ELIADE\" SIGHIŞOARA",
+      "slug": "colegiul-national-mircea-eliade-sighisoara",
+      "judet": "MUREȘ",
+      "judet_slug": "mures"
+    },
+    {
+      "nume": "COLEGIUL NAŢIONAL \"UNIREA\" TÂRGU-MUREŞ",
+      "slug": "colegiul-national-unirea-targu-mures",
+      "judet": "MUREȘ",
+      "judet_slug": "mures"
+    },
+    {
+      "nume": "COLEGIUL SILVIC GURGHIU",
+      "slug": "colegiul-silvic-gurghiu",
+      "judet": "MUREȘ",
+      "judet_slug": "mures"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC TÂRNĂVENI",
+      "slug": "colegiul-tehnic-tarnaveni",
+      "judet": "MUREȘ",
+      "judet_slug": "mures"
+    },
+    {
+      "nume": "LICEUL CU PROGRAM SPORTIV \"SZASZ ADALBERT\" TÂRGU-MUREŞ",
+      "slug": "liceul-cu-program-sportiv-szasz-adalbert-targu-mures",
+      "judet": "MUREȘ",
+      "judet_slug": "mures"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC BAND",
+      "slug": "liceul-tehnologic-band",
+      "judet": "MUREȘ",
+      "judet_slug": "mures"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC DUMBRĂVIOARA",
+      "slug": "liceul-tehnologic-dumbravioara",
+      "judet": "MUREȘ",
+      "judet_slug": "mures"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC IERNUT",
+      "slug": "liceul-tehnologic-iernut",
+      "judet": "MUREȘ",
+      "judet_slug": "mures"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC NR. 1 LUDUŞ",
+      "slug": "liceul-tehnologic-nr-1-ludus",
+      "judet": "MUREȘ",
+      "judet_slug": "mures"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC NR. 1 SIGHIŞOARA",
+      "slug": "liceul-tehnologic-nr-1-sighisoara",
+      "judet": "MUREȘ",
+      "judet_slug": "mures"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"AUREL PERSU\" TÂRGU-MUREŞ",
+      "slug": "liceul-tehnologic-aurel-persu-targu-mures",
+      "judet": "MUREȘ",
+      "judet_slug": "mures"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"AVRAM IANCU\" TÂRGU-MUREŞ",
+      "slug": "liceul-tehnologic-avram-iancu-targu-mures",
+      "judet": "MUREȘ",
+      "judet_slug": "mures"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"CONSTANTIN BRÂNCUŞI\" TÂRGU-MUREŞ",
+      "slug": "liceul-tehnologic-constantin-brancusi-targu-mures",
+      "judet": "MUREȘ",
+      "judet_slug": "mures"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"DOMOKOS KAZMER\" SOVATA",
+      "slug": "liceul-tehnologic-domokos-kazmer-sovata",
+      "judet": "MUREȘ",
+      "judet_slug": "mures"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"ELECTROMUREŞ\" TÂRGU-MUREŞ",
+      "slug": "liceul-tehnologic-electromures-targu-mures",
+      "judet": "MUREȘ",
+      "judet_slug": "mures"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"GHEORGHE ŞINCAI\" TÂRGU-MUREŞ",
+      "slug": "liceul-tehnologic-gheorghe-sincai-targu-mures",
+      "judet": "MUREȘ",
+      "judet_slug": "mures"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"IOAN BOJOR\" REGHIN",
+      "slug": "liceul-tehnologic-ioan-bojor-reghin",
+      "judet": "MUREȘ",
+      "judet_slug": "mures"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"ION VLASIU\" TÂRGU-MUREŞ",
+      "slug": "liceul-tehnologic-ion-vlasiu-targu-mures",
+      "judet": "MUREȘ",
+      "judet_slug": "mures"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"LUCIAN BLAGA\" REGHIN",
+      "slug": "liceul-tehnologic-lucian-blaga-reghin",
+      "judet": "MUREȘ",
+      "judet_slug": "mures"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"PETRU MAIOR\" REGHIN",
+      "slug": "liceul-tehnologic-petru-maior-reghin",
+      "judet": "MUREȘ",
+      "judet_slug": "mures"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"SFÂNTUL GHEORGHE\" SÂNGEORGIU DE PĂDURE",
+      "slug": "liceul-tehnologic-sfantul-gheorghe-sangeorgiu-de-padure",
+      "judet": "MUREȘ",
+      "judet_slug": "mures"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"TRAIAN VUIA\" TÂRGU-MUREŞ",
+      "slug": "liceul-tehnologic-traian-vuia-targu-mures",
+      "judet": "MUREȘ",
+      "judet_slug": "mures"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"VASILE NETEA\" DEDA",
+      "slug": "liceul-tehnologic-vasile-netea-deda",
+      "judet": "MUREȘ",
+      "judet_slug": "mures"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"ANDREI BÂRSEANU\" TÂRNĂVENI",
+      "slug": "liceul-teoretic-andrei-barseanu-tarnaveni",
+      "judet": "MUREȘ",
+      "judet_slug": "mures"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"BOCSKAI ISTVAN\" MIERCUREA NIRAJULUI",
+      "slug": "liceul-teoretic-bocskai-istvan-miercurea-nirajului",
+      "judet": "MUREȘ",
+      "judet_slug": "mures"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"BOLYAI FARKAS\" TÂRGU-MUREŞ",
+      "slug": "liceul-teoretic-bolyai-farkas-targu-mures",
+      "judet": "MUREȘ",
+      "judet_slug": "mures"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"GHEORGHE MARINESCU\" TÂRGU-MUREŞ",
+      "slug": "liceul-teoretic-gheorghe-marinescu-targu-mures",
+      "judet": "MUREȘ",
+      "judet_slug": "mures"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"JOSEPH HALTRICH\" SIGHIŞOARA",
+      "slug": "liceul-teoretic-joseph-haltrich-sighisoara",
+      "judet": "MUREȘ",
+      "judet_slug": "mures"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"SAMUIL MICU\" SĂRMAŞU",
+      "slug": "liceul-teoretic-samuil-micu-sarmasu",
+      "judet": "MUREȘ",
+      "judet_slug": "mures"
+    },
+    {
+      "nume": "LICEUL VOCAŢIONAL DE ARTĂ TÂRGU-MUREŞ",
+      "slug": "liceul-vocational-de-arta-targu-mures",
+      "judet": "MUREȘ",
+      "judet_slug": "mures"
+    },
+    {
+      "nume": "LICEUL VOCAŢIONAL PEDAGOGIC \"MIHAI EMINESCU\" TÂRGU-MUREŞ",
+      "slug": "liceul-vocational-pedagogic-mihai-eminescu-targu-mures",
+      "judet": "MUREȘ",
+      "judet_slug": "mures"
+    }
+  ],
+  "meta": {
+    "title": "Licee si colegii din judetul Mureș - Descărcare gratuită",
+    "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Mureș (34 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor. Conține 34 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Licee si colegii din judetul Mureș | ListBase",
+    "seo_description": "Descarcă Licee si colegii din judetul Mureș — 34 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 34 înregistrări / 4 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

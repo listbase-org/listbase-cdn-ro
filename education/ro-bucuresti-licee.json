@@ -1,0 +1,796 @@
+{
+  "id": "ro-bucuresti-licee",
+  "name": "Licee si colegii din judetul București",
+  "title": "Licee si colegii din judetul București",
+  "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul București (125 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 125,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "CLUBUL COPIILOR SECTOR 1",
+      "slug": "clubul-copiilor-sector-1",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "CLUBUL COPIILOR SECTOR 2",
+      "slug": "clubul-copiilor-sector-2",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "CLUBUL COPIILOR SECTOR 3",
+      "slug": "clubul-copiilor-sector-3",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "CLUBUL COPIILOR SECTOR 4",
+      "slug": "clubul-copiilor-sector-4",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "CLUBUL COPIILOR SECTOR 5",
+      "slug": "clubul-copiilor-sector-5",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "CLUBUL COPIILOR SECTOR 6",
+      "slug": "clubul-copiilor-sector-6",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "CLUBUL SPORTIV ȘCOLAR DINAMO",
+      "slug": "clubul-sportiv-scolar-dinamo",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "CLUBUL SPORTIV ȘCOLAR NR. 1",
+      "slug": "clubul-sportiv-scolar-nr-1",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "CLUBUL SPORTIV ȘCOLAR NR. 2",
+      "slug": "clubul-sportiv-scolar-nr-2",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "CLUBUL SPORTIV ȘCOLAR NR. 4",
+      "slug": "clubul-sportiv-scolar-nr-4",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "CLUBUL SPORTIV ȘCOLAR NR. 5",
+      "slug": "clubul-sportiv-scolar-nr-5",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "CLUBUL SPORTIV ȘCOLAR NR.6",
+      "slug": "clubul-sportiv-scolar-nr-6",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "CLUBUL SPORTIV ȘCOLAR STEAUA",
+      "slug": "clubul-sportiv-scolar-steaua",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL ECONOMIC A. D. XENOPOL",
+      "slug": "colegiul-economic-a-d-xenopol",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL ECONOMIC COSTIN C. KIRITESCU",
+      "slug": "colegiul-economic-costin-c-kiritescu",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL ECONOMIC HERMES",
+      "slug": "colegiul-economic-hermes",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL ECONOMIC V. MADGEARU",
+      "slug": "colegiul-economic-v-madgearu",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL ECONOMIC VIILOR",
+      "slug": "colegiul-economic-viilor",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL GERMAN GOETHE",
+      "slug": "colegiul-german-goethe",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL AUREL VLAICU",
+      "slug": "colegiul-national-aurel-vlaicu",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL BILINGV GEORGE COSBUC",
+      "slug": "colegiul-national-bilingv-george-cosbuc",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL CANTEMIR VODA",
+      "slug": "colegiul-national-cantemir-voda",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL DE ARTE DINU LIPATTI",
+      "slug": "colegiul-national-de-arte-dinu-lipatti",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL DE INFORMATICA TUDOR VIANU",
+      "slug": "colegiul-national-de-informatica-tudor-vianu",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL DE MUZICA GEORGE ENESCU",
+      "slug": "colegiul-national-de-muzica-george-enescu",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL ELENA CUZA",
+      "slug": "colegiul-national-elena-cuza",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL EMIL RACOVITA",
+      "slug": "colegiul-national-emil-racovita",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL GHEORGHE LAZAR",
+      "slug": "colegiul-national-gheorghe-lazar",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL GHEORGHE SINCAI",
+      "slug": "colegiul-national-gheorghe-sincai",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL GRIGORE MOISIL",
+      "slug": "colegiul-national-grigore-moisil",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL I. L. CARAGIALE",
+      "slug": "colegiul-national-i-l-caragiale",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL ION CREANGA",
+      "slug": "colegiul-national-ion-creanga",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL ION NECULCE",
+      "slug": "colegiul-national-ion-neculce",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL IULIA HASDEU",
+      "slug": "colegiul-national-iulia-hasdeu",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL MATEI BASARAB",
+      "slug": "colegiul-national-matei-basarab",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL MIHAI EMINESCU",
+      "slug": "colegiul-national-mihai-eminescu",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL MIHAI VITEAZUL",
+      "slug": "colegiul-national-mihai-viteazul",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL OCTAV ONICESCU",
+      "slug": "colegiul-national-octav-onicescu",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL SFANTUL SAVA",
+      "slug": "colegiul-national-sfantul-sava",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL SPIRU HARET",
+      "slug": "colegiul-national-spiru-haret",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL VICTOR BABES",
+      "slug": "colegiul-national-victor-babes",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL ROMANO-CATOLIC SFANTUL IOSIF",
+      "slug": "colegiul-romano-catolic-sfantul-iosif",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC ANGHEL SALIGNY",
+      "slug": "colegiul-tehnic-anghel-saligny",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC CAROL I",
+      "slug": "colegiul-tehnic-carol-i",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC COSTIN D. NENITESCU",
+      "slug": "colegiul-tehnic-costin-d-nenitescu",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC DE AERONAUTICA HENRI COANDA",
+      "slug": "colegiul-tehnic-de-aeronautica-henri-coanda",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC DE ARHITECTURA SI LUCRARI PUBLICE IOAN N. SOCOLESCU",
+      "slug": "colegiul-tehnic-de-arhitectura-si-lucrari-publice-ioan-n-socolescu",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC DE INDUSTRIE ALIMENTARA DUMITRU MOTOC",
+      "slug": "colegiul-tehnic-de-industrie-alimentara-dumitru-motoc",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC DE POSTA SI TELECOMUNICATII GHEORGHE AIRINEI",
+      "slug": "colegiul-tehnic-de-posta-si-telecomunicatii-gheorghe-airinei",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC DIMITRIE LEONIDA",
+      "slug": "colegiul-tehnic-dimitrie-leonida",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC DINICU GOLESCU",
+      "slug": "colegiul-tehnic-dinicu-golescu",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC EDMOND NICOLAU",
+      "slug": "colegiul-tehnic-edmond-nicolau",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC ENERGETIC",
+      "slug": "colegiul-tehnic-energetic",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC FEROVIAR MIHAI I",
+      "slug": "colegiul-tehnic-feroviar-mihai-i",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC GHEORGHE ASACHI",
+      "slug": "colegiul-tehnic-gheorghe-asachi",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC IULIU MANIU",
+      "slug": "colegiul-tehnic-iuliu-maniu",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC MECANIC GRIVITA",
+      "slug": "colegiul-tehnic-mecanic-grivita",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC MEDIA",
+      "slug": "colegiul-tehnic-media",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC MIHAI BRAVU",
+      "slug": "colegiul-tehnic-mihai-bravu",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC MIRCEA CEL BATRAN",
+      "slug": "colegiul-tehnic-mircea-cel-batran",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC MIRON NICOLESCU",
+      "slug": "colegiul-tehnic-miron-nicolescu",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC PETRU MAIOR",
+      "slug": "colegiul-tehnic-petru-maior",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC PETRU RARES",
+      "slug": "colegiul-tehnic-petru-rares",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL TEHNOLOGIC GRIGORE CERCHEZ",
+      "slug": "colegiul-tehnologic-grigore-cerchez",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "COLEGIUL TEHNOLOGIC VIACESLAV HARNAJ",
+      "slug": "colegiul-tehnologic-viaceslav-harnaj",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL CU PROGRAM SPORTIV MIRCEA ELIADE",
+      "slug": "liceul-cu-program-sportiv-mircea-eliade",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL DE ARTE PLASTICE NICOLAE TONITZA",
+      "slug": "liceul-de-arte-plastice-nicolae-tonitza",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL DE COREGRAFIE FLORIA CAPSALI",
+      "slug": "liceul-de-coregrafie-floria-capsali",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL DIMITRIE PACIUREA",
+      "slug": "liceul-dimitrie-paciurea",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL GRECO-CATOLIC TIMOTEI CIPARIU",
+      "slug": "liceul-greco-catolic-timotei-cipariu",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC CONSTANTIN BRANCUSI",
+      "slug": "liceul-tehnologic-constantin-brancusi",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC DACIA",
+      "slug": "liceul-tehnologic-dacia",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC DE METROLOGIE TRAIAN VUIA",
+      "slug": "liceul-tehnologic-de-metrologie-traian-vuia",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC DIMITRIE GUSTI",
+      "slug": "liceul-tehnologic-dimitrie-gusti",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC DRAGOMIR HURMUZESCU",
+      "slug": "liceul-tehnologic-dragomir-hurmuzescu",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC ELIE RADU",
+      "slug": "liceul-tehnologic-elie-radu",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC ION I C. BRATIANU",
+      "slug": "liceul-tehnologic-ion-i-c-bratianu",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC MIRCEA VULCANESCU",
+      "slug": "liceul-tehnologic-mircea-vulcanescu",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC NIKOLA TESLA",
+      "slug": "liceul-tehnologic-nikola-tesla",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC PETRU PONI",
+      "slug": "liceul-tehnologic-petru-poni",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC SF. ANTIM IVIREANU",
+      "slug": "liceul-tehnologic-sf-antim-ivireanu",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC SFANTUL PANTELIMON",
+      "slug": "liceul-tehnologic-sfantul-pantelimon",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC SPECIAL NR. 3",
+      "slug": "liceul-tehnologic-special-nr-3",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC SPECIAL REGINA ELISABETA",
+      "slug": "liceul-tehnologic-special-regina-elisabeta",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC THEODOR PALLADY",
+      "slug": "liceul-tehnologic-theodor-pallady",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEOLOGIC ADVENTIST STEFAN DEMETRESCU",
+      "slug": "liceul-teologic-adventist-stefan-demetrescu",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEOLOGIC BAPTIST LOGOS",
+      "slug": "liceul-teologic-baptist-logos",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEOLOGIC PENTICOSTAL EMANUEL",
+      "slug": "liceul-teologic-penticostal-emanuel",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEORETIC ADY ENDRE",
+      "slug": "liceul-teoretic-ady-endre",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEORETIC ALEXANDRU IOAN CUZA",
+      "slug": "liceul-teoretic-alexandru-ioan-cuza",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEORETIC ALEXANDRU VLAHUTA",
+      "slug": "liceul-teoretic-alexandru-vlahuta",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEORETIC BENJAMIN FRANKLIN",
+      "slug": "liceul-teoretic-benjamin-franklin",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEORETIC BILINGV ITA WEGMAN",
+      "slug": "liceul-teoretic-bilingv-ita-wegman",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEORETIC BILINGV MIGUEL DE CERVANTES",
+      "slug": "liceul-teoretic-bilingv-miguel-de-cervantes",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEORETIC BULGAR HRISTO BOTEV",
+      "slug": "liceul-teoretic-bulgar-hristo-botev",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEORETIC C-TIN BRANCOVEANU",
+      "slug": "liceul-teoretic-c-tin-brancoveanu",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEORETIC C. A. ROSETTI",
+      "slug": "liceul-teoretic-c-a-rosetti",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEORETIC DANTE ALIGHIERI",
+      "slug": "liceul-teoretic-dante-alighieri",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEORETIC DECEBAL",
+      "slug": "liceul-teoretic-decebal",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEORETIC DIMITRIE BOLINTINEANU",
+      "slug": "liceul-teoretic-dimitrie-bolintineanu",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEORETIC EUGEN LOVINESCU",
+      "slug": "liceul-teoretic-eugen-lovinescu",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEORETIC GEORGE CALINESCU",
+      "slug": "liceul-teoretic-george-calinescu",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEORETIC INTERNAȚIONAL DE INFORMATICĂ",
+      "slug": "liceul-teoretic-international-de-informatica",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEORETIC ION BARBU",
+      "slug": "liceul-teoretic-ion-barbu",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEORETIC JEAN MONNET",
+      "slug": "liceul-teoretic-jean-monnet",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEORETIC LUCIAN BLAGA",
+      "slug": "liceul-teoretic-lucian-blaga",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEORETIC MARIN PREDA",
+      "slug": "liceul-teoretic-marin-preda",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEORETIC MIHAIL SADOVEANU",
+      "slug": "liceul-teoretic-mihail-sadoveanu",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEORETIC NICHITA STANESCU",
+      "slug": "liceul-teoretic-nichita-stanescu",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEORETIC NICOLAE IORGA",
+      "slug": "liceul-teoretic-nicolae-iorga",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEORETIC STEFAN ODOBLEJA",
+      "slug": "liceul-teoretic-stefan-odobleja",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEORETIC TRAIAN",
+      "slug": "liceul-teoretic-traian",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEORETIC TUDOR VLADIMIRESCU",
+      "slug": "liceul-teoretic-tudor-vladimirescu",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "LICEUL TEORETIC WALDORF",
+      "slug": "liceul-teoretic-waldorf",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "SEMINARUL TEOLOGIC ORTODOX",
+      "slug": "seminarul-teologic-ortodox",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "ȘCOALA CENTRALA",
+      "slug": "scoala-centrala",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "ȘCOALA POSTLICEALĂ SANITARA FUNDENI",
+      "slug": "scoala-postliceala-sanitara-fundeni",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "ȘCOALA POSTLICEALĂ SANITARA FUNDENI",
+      "slug": "scoala-postliceala-sanitara-fundeni-2",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "ȘCOALA PROFESIONALĂ SPECIALĂ NR. 2",
+      "slug": "scoala-profesionala-speciala-nr-2",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "ȘCOALA PROFESIONALĂ SPECIALĂ NR. 2",
+      "slug": "scoala-profesionala-speciala-nr-2-2",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "ȘCOALA PROFESIONALĂ SPECIALĂ NR. 3",
+      "slug": "scoala-profesionala-speciala-nr-3",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "ȘCOALA PROFESIONALĂ SPECIALĂ NR. 3",
+      "slug": "scoala-profesionala-speciala-nr-3-2",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "ȘCOALA PROFESIONALĂ SPECIALĂ PENTRU DEFICIENTI DE AUZ SFANTA MARIA",
+      "slug": "scoala-profesionala-speciala-pentru-deficienti-de-auz-sfanta-maria",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "ȘCOALA PROFESIONALĂ SPECIALĂ PENTRU DEFICIENTI DE AUZ SFANTA MARIA",
+      "slug": "scoala-profesionala-speciala-pentru-deficienti-de-auz-sfanta-maria-2",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    },
+    {
+      "nume": "ȘCOALA SUPERIOARA COMERCIALA NICOLAE KRETZULESCU",
+      "slug": "scoala-superioara-comerciala-nicolae-kretzulescu",
+      "judet": "BUCUREȘTI",
+      "judet_slug": "bucuresti"
+    }
+  ],
+  "meta": {
+    "title": "Licee si colegii din judetul București - Descărcare gratuită",
+    "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul București (125 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor. Conține 125 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Licee si colegii din judetul București | ListBase",
+    "seo_description": "Descarcă Licee si colegii din judetul București — 125 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 125 înregistrări / 4 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

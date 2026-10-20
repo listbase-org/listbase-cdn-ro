@@ -1,0 +1,5443 @@
+{
+  "id": "ro-puburi",
+  "name": "Puburi din România",
+  "title": "Puburi din România",
+  "description": "Puburi din România — 598 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `amenity=pub`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 598,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "latitudine",
+      "label": "Latitudine",
+      "type": "number"
+    },
+    {
+      "key": "longitudine",
+      "label": "Longitudine",
+      "type": "number"
+    },
+    {
+      "key": "cheie_osm",
+      "label": "Cheie Osm",
+      "type": "string"
+    },
+    {
+      "key": "valoare_osm",
+      "label": "Valoare Osm",
+      "type": "string"
+    },
+    {
+      "key": "categorie_osm",
+      "label": "Categorie Osm",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nume": "\"La Piroi\"",
+      "latitudine": 43.658616,
+      "longitudine": 25.356195,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 2,
+      "nume": "1UP Gamers Pub",
+      "latitudine": 44.444957,
+      "longitudine": 26.096298,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 3,
+      "nume": "39 Pub",
+      "latitudine": 45.410581,
+      "longitudine": 25.534304,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 4,
+      "nume": "44th Street",
+      "latitudine": 46.550702,
+      "longitudine": 24.565307,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 5,
+      "nume": "Aby Stage Bar",
+      "latitudine": 45.115145,
+      "longitudine": 24.364269,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 6,
+      "nume": "ACSA",
+      "latitudine": 44.316708,
+      "longitudine": 23.799336,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 7,
+      "nume": "Alibi Cafe",
+      "latitudine": 45.864086,
+      "longitudine": 25.796684,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 8,
+      "nume": "All Stars Cafe",
+      "latitudine": 44.318662,
+      "longitudine": 23.794737,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 9,
+      "nume": "Alter Ego",
+      "latitudine": 43.822664,
+      "longitudine": 28.585433,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 10,
+      "nume": "Ambient",
+      "latitudine": 44.31509,
+      "longitudine": 23.799638,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 11,
+      "nume": "Ambient cafe & lounge",
+      "latitudine": 45.23278,
+      "longitudine": 25.93909,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 12,
+      "nume": "Ancuța",
+      "latitudine": 46.760165,
+      "longitudine": 23.613887,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 13,
+      "nume": "Antik",
+      "latitudine": 44.324052,
+      "longitudine": 23.79478,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 14,
+      "nume": "Arados Shipping",
+      "latitudine": 44.167527,
+      "longitudine": 28.637456,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 15,
+      "nume": "Aranyhomok vendéglő",
+      "latitudine": 47.550033,
+      "longitudine": 22.020017,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 16,
+      "nume": "Archer's Pub",
+      "latitudine": 47.87075,
+      "longitudine": 25.61205,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 17,
+      "nume": "Argentin",
+      "latitudine": 44.43223,
+      "longitudine": 26.101746,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 18,
+      "nume": "Arte",
+      "latitudine": 47.164711,
+      "longitudine": 27.57783,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 19,
+      "nume": "Arthur Pub",
+      "latitudine": 44.233018,
+      "longitudine": 28.625283,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 20,
+      "nume": "AT-X Invest SRL",
+      "latitudine": 46.656146,
+      "longitudine": 26.806393,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 21,
+      "nume": "Atlantic",
+      "latitudine": 46.170881,
+      "longitudine": 21.315226,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 22,
+      "nume": "Aussie Pub",
+      "latitudine": 46.074914,
+      "longitudine": 20.626087,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 23,
+      "nume": "Austro",
+      "latitudine": 46.724277,
+      "longitudine": 25.598352,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 24,
+      "nume": "Bar",
+      "latitudine": 45.68877,
+      "longitudine": 25.45207,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 25,
+      "nume": "Bar American",
+      "latitudine": 44.937954,
+      "longitudine": 26.001657,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 26,
+      "nume": "Bar Biliard",
+      "latitudine": 45.443448,
+      "longitudine": 25.581827,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 27,
+      "nume": "Bar Casa Învățământul",
+      "latitudine": 44.887823,
+      "longitudine": 24.812635,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 28,
+      "nume": "Bar la Sârbu",
+      "latitudine": 45.171379,
+      "longitudine": 23.66275,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 29,
+      "nume": "Bar Rebel",
+      "latitudine": 44.305161,
+      "longitudine": 23.812941,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 30,
+      "nume": "Bar stil Românesc",
+      "latitudine": 45.80125,
+      "longitudine": 24.279838,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 31,
+      "nume": "Bar Sunset",
+      "latitudine": 44.892825,
+      "longitudine": 29.604245,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 32,
+      "nume": "Bar, cafea",
+      "latitudine": 44.322857,
+      "longitudine": 25.906139,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 33,
+      "nume": "Bar/club Mila 23",
+      "latitudine": 45.22856,
+      "longitudine": 29.24502,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 34,
+      "nume": "Barletto",
+      "latitudine": 44.471691,
+      "longitudine": 26.115534,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 35,
+      "nume": "BB taproom",
+      "latitudine": 45.734462,
+      "longitudine": 21.26305,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 36,
+      "nume": "Beanz café",
+      "latitudine": 44.412894,
+      "longitudine": 26.105045,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 37,
+      "nume": "Beat Bar Umanist",
+      "latitudine": 44.440416,
+      "longitudine": 26.072337,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 38,
+      "nume": "Beciul Doamnei",
+      "latitudine": 47.160687,
+      "longitudine": 27.61449,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 39,
+      "nume": "Beer House Iași",
+      "latitudine": 47.156092,
+      "longitudine": 27.584782,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 40,
+      "nume": "Beer O'Clock",
+      "latitudine": 44.431413,
+      "longitudine": 26.101359,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 41,
+      "nume": "Beer O'Clock",
+      "latitudine": 44.433259,
+      "longitudine": 26.098381,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 42,
+      "nume": "Beer Pub",
+      "latitudine": 45.757532,
+      "longitudine": 21.227648,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 43,
+      "nume": "Beer Republik",
+      "latitudine": 45.758663,
+      "longitudine": 21.229177,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 44,
+      "nume": "Beer Wall Café",
+      "latitudine": 46.773727,
+      "longitudine": 23.591917,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 45,
+      "nume": "Belvedere Studio",
+      "latitudine": 44.928151,
+      "longitudine": 25.458472,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 46,
+      "nume": "Beraria Gambrinus",
+      "latitudine": 44.434841,
+      "longitudine": 26.094819,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 47,
+      "nume": "Beraria Nenea Iancu",
+      "latitudine": 44.430969,
+      "longitudine": 26.101384,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 48,
+      "nume": "Beraria Pelican",
+      "latitudine": 45.1793,
+      "longitudine": 28.78927,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 49,
+      "nume": "Bereta Taproom & Bottleshop",
+      "latitudine": 45.758072,
+      "longitudine": 21.22621,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 50,
+      "nume": "Berărescu",
+      "latitudine": 45.74877,
+      "longitudine": 21.22707,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 51,
+      "nume": "Berăria 9",
+      "latitudine": 44.425847,
+      "longitudine": 24.369248,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 52,
+      "nume": "Berăria Bodeanu",
+      "latitudine": 47.454012,
+      "longitudine": 26.295946,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 53,
+      "nume": "Berăria H",
+      "latitudine": 44.476743,
+      "longitudine": 26.075928,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 54,
+      "nume": "Berăria Silva",
+      "latitudine": 46.537185,
+      "longitudine": 24.589767,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 55,
+      "nume": "Berăria Vlad Țepeș",
+      "latitudine": 44.933458,
+      "longitudine": 25.456303,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 56,
+      "nume": "Berărie",
+      "latitudine": 44.905268,
+      "longitudine": 26.039763,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 57,
+      "nume": "Berărie",
+      "latitudine": 45.937009,
+      "longitudine": 23.163962,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 58,
+      "nume": "Bibliotheka",
+      "latitudine": 45.756953,
+      "longitudine": 21.226068,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 59,
+      "nume": "Bier Haus",
+      "latitudine": 44.179152,
+      "longitudine": 28.650588,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 60,
+      "nume": "Big Ben Pub",
+      "latitudine": 44.429683,
+      "longitudine": 26.100531,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 61,
+      "nume": "Biliard",
+      "latitudine": 44.434645,
+      "longitudine": 26.042609,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 62,
+      "nume": "Birt ABC la Andrei",
+      "latitudine": 46.183373,
+      "longitudine": 23.03706,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 63,
+      "nume": "Birt Abc la Luncoi",
+      "latitudine": 46.398622,
+      "longitudine": 23.418231,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 64,
+      "nume": "Birt la Dede",
+      "latitudine": 46.244409,
+      "longitudine": 23.41295,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 65,
+      "nume": "Birt la Medvedeșeanu",
+      "latitudine": 46.864947,
+      "longitudine": 23.278058,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 66,
+      "nume": "Birt la Tompanu",
+      "latitudine": 45.82159,
+      "longitudine": 23.011506,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 67,
+      "nume": "Birt Local",
+      "latitudine": 47.676406,
+      "longitudine": 22.655174,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 68,
+      "nume": "Birtiț Cezane",
+      "latitudine": 46.021742,
+      "longitudine": 24.791077,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 69,
+      "nume": "Birtiț la Lonărdescu",
+      "latitudine": 46.193618,
+      "longitudine": 22.939757,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 70,
+      "nume": "Birtiț local",
+      "latitudine": 46.483002,
+      "longitudine": 22.793757,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 71,
+      "nume": "Birtiț Trei Coline",
+      "latitudine": 47.729356,
+      "longitudine": 26.676771,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 72,
+      "nume": "Birtiț Vasile Muntean",
+      "latitudine": 46.022834,
+      "longitudine": 24.790273,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 73,
+      "nume": "birtițul local",
+      "latitudine": 46.059543,
+      "longitudine": 24.78787,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 74,
+      "nume": "Birtul local",
+      "latitudine": 46.794177,
+      "longitudine": 23.744987,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 75,
+      "nume": "Bistro Café",
+      "latitudine": 45.809699,
+      "longitudine": 21.319054,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 76,
+      "nume": "Bistrohouse pub & more",
+      "latitudine": 45.785347,
+      "longitudine": 24.168365,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 77,
+      "nume": "Black Eagle Pub",
+      "latitudine": 47.054626,
+      "longitudine": 21.930341,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 78,
+      "nume": "Blandu Bar",
+      "latitudine": 47.157539,
+      "longitudine": 22.238837,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 79,
+      "nume": "Bluette",
+      "latitudine": 44.943452,
+      "longitudine": 26.016321,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 80,
+      "nume": "Blériot",
+      "latitudine": 46.771324,
+      "longitudine": 23.591919,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 81,
+      "nume": "Boema",
+      "latitudine": 46.78592,
+      "longitudine": 23.60584,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 82,
+      "nume": "Bolt és kocsma",
+      "latitudine": 47.041173,
+      "longitudine": 24.148475,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 83,
+      "nume": "Bordo Caffe & Pub",
+      "latitudine": 44.471636,
+      "longitudine": 26.07322,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 84,
+      "nume": "Boulevard Pub",
+      "latitudine": 44.430912,
+      "longitudine": 26.101206,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 85,
+      "nume": "Bristol Bus Cafe",
+      "latitudine": 46.538118,
+      "longitudine": 24.571032,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 86,
+      "nume": "British Pub",
+      "latitudine": 45.84451,
+      "longitudine": 24.968097,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 87,
+      "nume": "Brother's Pub",
+      "latitudine": 45.086589,
+      "longitudine": 24.36901,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 88,
+      "nume": "Bufet",
+      "latitudine": 45.044664,
+      "longitudine": 25.751662,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 89,
+      "nume": "Bufet Local",
+      "latitudine": 47.878403,
+      "longitudine": 26.409331,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 90,
+      "nume": "Bulevard Pub OK",
+      "latitudine": 44.936694,
+      "longitudine": 26.026836,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 91,
+      "nume": "Bulevard Restaurant (ex. Rustic Cafe)",
+      "latitudine": 46.218314,
+      "longitudine": 24.795017,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 92,
+      "nume": "Bányász kocsma",
+      "latitudine": 46.453594,
+      "longitudine": 23.56722,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 93,
+      "nume": "Bârlog Pub & Brewery",
+      "latitudine": 46.762946,
+      "longitudine": 23.571285,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 94,
+      "nume": "Cafe Bar TIC-TAC",
+      "latitudine": 45.179173,
+      "longitudine": 28.790204,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 95,
+      "nume": "Cafe Viena",
+      "latitudine": 45.744315,
+      "longitudine": 21.206812,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 96,
+      "nume": "Cafenea Orizont Vest",
+      "latitudine": 46.19012,
+      "longitudine": 21.32977,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 97,
+      "nume": "Caffe Bar Holly",
+      "latitudine": 46.535202,
+      "longitudine": 24.578334,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 98,
+      "nume": "Caffe Tim Nord",
+      "latitudine": 45.750669,
+      "longitudine": 21.207158,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 99,
+      "nume": "Capra Neagra",
+      "latitudine": 45.593763,
+      "longitudine": 25.55353,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 100,
+      "nume": "Casa Albă",
+      "latitudine": 46.808365,
+      "longitudine": 21.643733,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 101,
+      "nume": "Casa Bertoni",
+      "latitudine": 45.757779,
+      "longitudine": 27.064675,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 102,
+      "nume": "Casa Luca",
+      "latitudine": 47.840352,
+      "longitudine": 25.915501,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 103,
+      "nume": "Casa lui Silvia",
+      "latitudine": 46.927236,
+      "longitudine": 26.939403,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 104,
+      "nume": "Casa Richy",
+      "latitudine": 47.710497,
+      "longitudine": 23.203165,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 105,
+      "nume": "Casino 777",
+      "latitudine": 46.180761,
+      "longitudine": 21.321169,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 106,
+      "nume": "Cetate Nord",
+      "latitudine": 44.95324,
+      "longitudine": 26.000387,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 107,
+      "nume": "Chaplin's Pub",
+      "latitudine": 46.934697,
+      "longitudine": 26.353947,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 108,
+      "nume": "Charger",
+      "latitudine": 44.31724,
+      "longitudine": 23.798535,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 109,
+      "nume": "Charlie's Pub",
+      "latitudine": 45.736967,
+      "longitudine": 21.249562,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 110,
+      "nume": "Che Guevara",
+      "latitudine": 46.768876,
+      "longitudine": 23.588992,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 111,
+      "nume": "Cheers",
+      "latitudine": 45.787051,
+      "longitudine": 24.144416,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 112,
+      "nume": "Cheers Pub",
+      "latitudine": 45.179952,
+      "longitudine": 28.798106,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 113,
+      "nume": "Cin-Cin",
+      "latitudine": 45.445263,
+      "longitudine": 28.028379,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 114,
+      "nume": "Clasim",
+      "latitudine": 46.782498,
+      "longitudine": 24.702562,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 115,
+      "nume": "Cleo",
+      "latitudine": 46.764671,
+      "longitudine": 23.576296,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 116,
+      "nume": "Clinciu Bar",
+      "latitudine": 47.219644,
+      "longitudine": 22.388364,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 117,
+      "nume": "Club",
+      "latitudine": 45.789017,
+      "longitudine": 24.094364,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 118,
+      "nume": "Club 13",
+      "latitudine": 44.177656,
+      "longitudine": 28.649593,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 119,
+      "nume": "Club Fabrica",
+      "latitudine": 44.420126,
+      "longitudine": 26.094988,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 120,
+      "nume": "Club Mirage",
+      "latitudine": 45.062412,
+      "longitudine": 25.807722,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 121,
+      "nume": "Club Motor",
+      "latitudine": 47.156149,
+      "longitudine": 27.602667,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 122,
+      "nume": "Club No Comment",
+      "latitudine": 45.673626,
+      "longitudine": 26.031809,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 123,
+      "nume": "Club Nobilis",
+      "latitudine": 44.215586,
+      "longitudine": 28.630436,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 124,
+      "nume": "Club OK",
+      "latitudine": 47.156128,
+      "longitudine": 27.609233,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 125,
+      "nume": "Club Opera",
+      "latitudine": 46.176223,
+      "longitudine": 23.919196,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 126,
+      "nume": "Club Texas",
+      "latitudine": 44.445965,
+      "longitudine": 26.051363,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 127,
+      "nume": "Club Șurubelnița",
+      "latitudine": 44.434751,
+      "longitudine": 26.108088,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 128,
+      "nume": "College Bar",
+      "latitudine": 47.173929,
+      "longitudine": 27.573318,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 129,
+      "nume": "Colors Pub",
+      "latitudine": 45.844679,
+      "longitudine": 24.970891,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 130,
+      "nume": "Corner House",
+      "latitudine": 46.770416,
+      "longitudine": 23.586117,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 131,
+      "nume": "Corner Pub",
+      "latitudine": 46.552481,
+      "longitudine": 24.573944,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 132,
+      "nume": "Corner Pub & Grill",
+      "latitudine": 44.426723,
+      "longitudine": 26.143989,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 133,
+      "nume": "Coroana",
+      "latitudine": 46.706455,
+      "longitudine": 22.893775,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 134,
+      "nume": "Corte Dei Tori",
+      "latitudine": 45.704467,
+      "longitudine": 25.451269,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 135,
+      "nume": "Country Pub",
+      "latitudine": 46.542716,
+      "longitudine": 24.551146,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 136,
+      "nume": "Crama Gruber",
+      "latitudine": 45.513912,
+      "longitudine": 23.094028,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 137,
+      "nume": "Crama la Sergiu",
+      "latitudine": 45.242138,
+      "longitudine": 24.34011,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 138,
+      "nume": "Crama Moldovenesc",
+      "latitudine": 46.960595,
+      "longitudine": 24.90494,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 139,
+      "nume": "Crama Românească",
+      "latitudine": 46.175104,
+      "longitudine": 22.714052,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 140,
+      "nume": "Crama Românească",
+      "latitudine": 46.561186,
+      "longitudine": 24.574539,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 141,
+      "nume": "Crama Ungurească",
+      "latitudine": 46.453332,
+      "longitudine": 23.568312,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 142,
+      "nume": "Crama Ungurească și Românească",
+      "latitudine": 46.39757,
+      "longitudine": 24.522985,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 143,
+      "nume": "Cramele Dacilor",
+      "latitudine": 47.162413,
+      "longitudine": 27.605025,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 144,
+      "nume": "Cramă",
+      "latitudine": 45.561389,
+      "longitudine": 25.315932,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 145,
+      "nume": "Crasma Tauteu",
+      "latitudine": 47.271951,
+      "longitudine": 22.337692,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 146,
+      "nume": "Cross Fire",
+      "latitudine": 44.431364,
+      "longitudine": 26.10235,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 147,
+      "nume": "Crâșmă",
+      "latitudine": 46.646393,
+      "longitudine": 26.566065,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 148,
+      "nume": "Csali söröző",
+      "latitudine": 47.124541,
+      "longitudine": 21.75275,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 149,
+      "nume": "Csíki Beer House",
+      "latitudine": 45.733684,
+      "longitudine": 21.218803,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 150,
+      "nume": "Curtea Berarilor",
+      "latitudine": 44.316588,
+      "longitudine": 23.799977,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 151,
+      "nume": "Curtea Berarilor",
+      "latitudine": 44.430684,
+      "longitudine": 26.101246,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 152,
+      "nume": "Curtea Berarilor",
+      "latitudine": 46.068788,
+      "longitudine": 23.563997,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 153,
+      "nume": "Curtea Berarilor Timişoreana",
+      "latitudine": 44.94082,
+      "longitudine": 26.028032,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 154,
+      "nume": "Curtea Berarilor Timișoreana",
+      "latitudine": 45.756303,
+      "longitudine": 21.231835,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 155,
+      "nume": "Czech Inn",
+      "latitudine": 45.765108,
+      "longitudine": 21.229627,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 156,
+      "nume": "cârciumă din sat",
+      "latitudine": 45.093687,
+      "longitudine": 25.847769,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 157,
+      "nume": "Dan Pătrășcanu",
+      "latitudine": 47.228778,
+      "longitudine": 26.118187,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 158,
+      "nume": "Danilov",
+      "latitudine": 47.674581,
+      "longitudine": 24.288813,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 159,
+      "nume": "Danutz Pub",
+      "latitudine": 44.814634,
+      "longitudine": 24.891123,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 160,
+      "nume": "Dark Cafe",
+      "latitudine": 47.426304,
+      "longitudine": 26.901285,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 161,
+      "nume": "David's Pub",
+      "latitudine": 47.928273,
+      "longitudine": 23.886442,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 162,
+      "nume": "Deane's",
+      "latitudine": 45.643123,
+      "longitudine": 25.591927,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 163,
+      "nume": "Deep Pub",
+      "latitudine": 44.803167,
+      "longitudine": 22.97246,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 164,
+      "nume": "Derby Pub",
+      "latitudine": 45.844524,
+      "longitudine": 24.971446,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 165,
+      "nume": "Diamond Pub",
+      "latitudine": 46.535553,
+      "longitudine": 24.592605,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 166,
+      "nume": "Disco Vip 2000",
+      "latitudine": 45.42724,
+      "longitudine": 28.030806,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 167,
+      "nume": "Dogma Pubs & Coffee",
+      "latitudine": 46.778392,
+      "longitudine": 24.698768,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 168,
+      "nume": "Dom Pub",
+      "latitudine": 46.971318,
+      "longitudine": 22.660595,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 169,
+      "nume": "Doncafe Brasserie",
+      "latitudine": 44.45953,
+      "longitudine": 26.093024,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 170,
+      "nume": "Dongó",
+      "latitudine": 46.314605,
+      "longitudine": 25.309626,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 171,
+      "nume": "Dorfkneipe Burgberg/Vurpăr",
+      "latitudine": 45.894365,
+      "longitudine": 24.341607,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 172,
+      "nume": "Doroftei Pub",
+      "latitudine": 44.940561,
+      "longitudine": 26.03563,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 173,
+      "nume": "Draft Pub Tankeria Ursus",
+      "latitudine": 44.502175,
+      "longitudine": 26.057479,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 174,
+      "nume": "Dream's Pub",
+      "latitudine": 44.368915,
+      "longitudine": 25.974293,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 175,
+      "nume": "Dreamer's Pub",
+      "latitudine": 44.441127,
+      "longitudine": 26.081681,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 176,
+      "nume": "Drunken Rat",
+      "latitudine": 45.758402,
+      "longitudine": 21.230109,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 177,
+      "nume": "Dublin Pub",
+      "latitudine": 44.94084,
+      "longitudine": 26.021274,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 178,
+      "nume": "Eden Pub",
+      "latitudine": 44.85454,
+      "longitudine": 24.874959,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 179,
+      "nume": "Einstein",
+      "latitudine": 45.797836,
+      "longitudine": 24.151231,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 180,
+      "nume": "El Gato",
+      "latitudine": 47.164971,
+      "longitudine": 27.581721,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 181,
+      "nume": "Elegance",
+      "latitudine": 46.757826,
+      "longitudine": 23.550847,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 182,
+      "nume": "Elixbeer Kastély Sörház",
+      "latitudine": 46.64262,
+      "longitudine": 21.340022,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 183,
+      "nume": "Emil Bendiuc",
+      "latitudine": 47.107433,
+      "longitudine": 27.715722,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 184,
+      "nume": "Encore Club",
+      "latitudine": 44.443894,
+      "longitudine": 26.054072,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 185,
+      "nume": "English pub",
+      "latitudine": 45.687294,
+      "longitudine": 21.904698,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 186,
+      "nume": "Enjoy",
+      "latitudine": 47.739562,
+      "longitudine": 26.660617,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 187,
+      "nume": "Erdocsinad kocsma",
+      "latitudine": 46.639202,
+      "longitudine": 24.716888,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 188,
+      "nume": "Errea",
+      "latitudine": 46.169336,
+      "longitudine": 21.322701,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 189,
+      "nume": "Eva bar",
+      "latitudine": 46.520272,
+      "longitudine": 24.613868,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 190,
+      "nume": "Extra Time",
+      "latitudine": 44.431707,
+      "longitudine": 26.102416,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 191,
+      "nume": "FABRRICA",
+      "latitudine": 44.316619,
+      "longitudine": 23.799456,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 192,
+      "nume": "Face Club (in constr)",
+      "latitudine": 47.545833,
+      "longitudine": 25.890177,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 193,
+      "nume": "Factory Pub",
+      "latitudine": 45.75458,
+      "longitudine": 21.249643,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 194,
+      "nume": "Fado Pub",
+      "latitudine": 44.316617,
+      "longitudine": 23.799711,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 195,
+      "nume": "Falusi kocsma",
+      "latitudine": 46.245168,
+      "longitudine": 25.322248,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 196,
+      "nume": "Fantastic",
+      "latitudine": 45.415197,
+      "longitudine": 23.372098,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 197,
+      "nume": "Faust",
+      "latitudine": 45.79836,
+      "longitudine": 24.152236,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 198,
+      "nume": "Favorit presszó",
+      "latitudine": 46.169081,
+      "longitudine": 20.708616,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 199,
+      "nume": "Filos Pub",
+      "latitudine": 44.443139,
+      "longitudine": 26.064192,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 200,
+      "nume": "Fiord Club",
+      "latitudine": 44.920572,
+      "longitudine": 25.457475,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 201,
+      "nume": "Fire Club",
+      "latitudine": 44.430864,
+      "longitudine": 26.101979,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 202,
+      "nume": "Flex",
+      "latitudine": 46.171515,
+      "longitudine": 21.31745,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 203,
+      "nume": "Formula Pub",
+      "latitudine": 45.645325,
+      "longitudine": 25.588794,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 204,
+      "nume": "Forrás Bar",
+      "latitudine": 46.467376,
+      "longitudine": 25.2029,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 205,
+      "nume": "Forrás borozó",
+      "latitudine": 46.451347,
+      "longitudine": 23.567813,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 206,
+      "nume": "Fratelli",
+      "latitudine": 45.4485,
+      "longitudine": 28.065334,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 207,
+      "nume": "Friends Pub",
+      "latitudine": 44.428812,
+      "longitudine": 26.153162,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 208,
+      "nume": "Fűrész bár",
+      "latitudine": 46.360077,
+      "longitudine": 25.51357,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 209,
+      "nume": "G. Caffe",
+      "latitudine": 46.30337,
+      "longitudine": 25.297637,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 210,
+      "nume": "GameOver Pub",
+      "latitudine": 44.205051,
+      "longitudine": 27.307278,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 211,
+      "nume": "Gamerz.Pub",
+      "latitudine": 46.764271,
+      "longitudine": 23.585193,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 212,
+      "nume": "Garden Pub",
+      "latitudine": 44.85791,
+      "longitudine": 24.872236,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 213,
+      "nume": "Gaya Pub & more",
+      "latitudine": 44.316724,
+      "longitudine": 23.79798,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 214,
+      "nume": "GCafé",
+      "latitudine": 46.542018,
+      "longitudine": 24.555097,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 215,
+      "nume": "Geek Hub",
+      "latitudine": 44.430687,
+      "longitudine": 26.101472,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 216,
+      "nume": "George Pub",
+      "latitudine": 45.788997,
+      "longitudine": 24.173966,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 217,
+      "nume": "George's Pub",
+      "latitudine": 44.320129,
+      "longitudine": 23.816713,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 218,
+      "nume": "Georges",
+      "latitudine": 46.189578,
+      "longitudine": 21.329376,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 219,
+      "nume": "Gică Bombă",
+      "latitudine": 44.204585,
+      "longitudine": 24.415191,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 220,
+      "nume": "Gionita",
+      "latitudine": 45.445704,
+      "longitudine": 28.025509,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 221,
+      "nume": "Gloden Pub",
+      "latitudine": 46.482829,
+      "longitudine": 26.916161,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 222,
+      "nume": "Glows",
+      "latitudine": 47.156271,
+      "longitudine": 27.608957,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 223,
+      "nume": "Gomba presszó",
+      "latitudine": 46.879684,
+      "longitudine": 21.570738,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 224,
+      "nume": "Gondüző",
+      "latitudine": 46.454424,
+      "longitudine": 23.566492,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 225,
+      "nume": "Gossip Café",
+      "latitudine": 45.446303,
+      "longitudine": 28.054609,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 226,
+      "nume": "Goteborg",
+      "latitudine": 45.766731,
+      "longitudine": 25.368904,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 227,
+      "nume": "Gotti",
+      "latitudine": 44.319085,
+      "longitudine": 23.821428,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 228,
+      "nume": "Grand Irish Pub",
+      "latitudine": 47.742409,
+      "longitudine": 26.663022,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 229,
+      "nume": "Green Pub",
+      "latitudine": 45.936247,
+      "longitudine": 23.162318,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 230,
+      "nume": "Green Pub",
+      "latitudine": 47.05478,
+      "longitudine": 21.929686,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 231,
+      "nume": "Griffin",
+      "latitudine": 44.146642,
+      "longitudine": 28.622098,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 232,
+      "nume": "Gruber",
+      "latitudine": 45.913573,
+      "longitudine": 22.568488,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 233,
+      "nume": "Gruber",
+      "latitudine": 45.946542,
+      "longitudine": 22.493739,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 234,
+      "nume": "Gruber",
+      "latitudine": 46.534163,
+      "longitudine": 24.590344,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 235,
+      "nume": "Gruber",
+      "latitudine": 46.857462,
+      "longitudine": 24.761499,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 236,
+      "nume": "Grădina Dorobanți",
+      "latitudine": 44.449723,
+      "longitudine": 26.099554,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 237,
+      "nume": "H2O pool&bar",
+      "latitudine": 44.19713,
+      "longitudine": 27.317498,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 238,
+      "nume": "Half Time",
+      "latitudine": 44.43122,
+      "longitudine": 26.102249,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 239,
+      "nume": "Hallo",
+      "latitudine": 44.421,
+      "longitudine": 26.141814,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 240,
+      "nume": "Han Dunarea",
+      "latitudine": 44.195082,
+      "longitudine": 27.334615,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 241,
+      "nume": "Happy Pub",
+      "latitudine": 44.440341,
+      "longitudine": 26.098493,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 242,
+      "nume": "Hardward",
+      "latitudine": 46.757158,
+      "longitudine": 23.593681,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 243,
+      "nume": "Határpont presszó",
+      "latitudine": 47.525333,
+      "longitudine": 22.020283,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 244,
+      "nume": "Havana Cafe",
+      "latitudine": 45.699076,
+      "longitudine": 27.178769,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 245,
+      "nume": "Hennesy's Pub",
+      "latitudine": 47.641226,
+      "longitudine": 26.247265,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 246,
+      "nume": "High Hangers",
+      "latitudine": 44.945392,
+      "longitudine": 26.024601,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 247,
+      "nume": "Hondu Bar",
+      "latitudine": 47.157207,
+      "longitudine": 22.2394,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 248,
+      "nume": "Hoooters",
+      "latitudine": 47.155902,
+      "longitudine": 27.602379,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 249,
+      "nume": "Hospoda U Medvěda",
+      "latitudine": 44.544567,
+      "longitudine": 22.158257,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 250,
+      "nume": "Hospoda U Štěpničky",
+      "latitudine": 44.678153,
+      "longitudine": 21.712136,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 251,
+      "nume": "Hunter's Pub",
+      "latitudine": 47.186147,
+      "longitudine": 27.559588,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 252,
+      "nume": "Hyde Pub",
+      "latitudine": 47.148816,
+      "longitudine": 27.582004,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 253,
+      "nume": "ii Bob",
+      "latitudine": 43.738074,
+      "longitudine": 25.252623,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 254,
+      "nume": "Il Giardino",
+      "latitudine": 44.425073,
+      "longitudine": 26.158037,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 255,
+      "nume": "Infinity Games",
+      "latitudine": 46.767405,
+      "longitudine": 23.549094,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 256,
+      "nume": "Infinity Games",
+      "latitudine": 46.771307,
+      "longitudine": 23.552514,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 257,
+      "nume": "Intim",
+      "latitudine": 47.166554,
+      "longitudine": 27.551049,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 258,
+      "nume": "Ion Băiculescu",
+      "latitudine": 47.107389,
+      "longitudine": 27.714161,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 259,
+      "nume": "IQ Pub",
+      "latitudine": 44.181512,
+      "longitudine": 28.652431,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 260,
+      "nume": "Irish & Music Pub",
+      "latitudine": 46.775008,
+      "longitudine": 23.587028,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 261,
+      "nume": "Irish Pub",
+      "latitudine": 43.808159,
+      "longitudine": 28.581284,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 262,
+      "nume": "Irish Pub",
+      "latitudine": 44.623385,
+      "longitudine": 22.648534,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 263,
+      "nume": "Irish Pub",
+      "latitudine": 44.940955,
+      "longitudine": 26.014861,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 264,
+      "nume": "Irish Pub",
+      "latitudine": 45.350253,
+      "longitudine": 25.548837,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 265,
+      "nume": "Irish Pub",
+      "latitudine": 45.865524,
+      "longitudine": 25.78735,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 266,
+      "nume": "Irish Shamrock Pub",
+      "latitudine": 44.940927,
+      "longitudine": 26.021857,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 267,
+      "nume": "Irish Way Pub",
+      "latitudine": 44.321507,
+      "longitudine": 23.802978,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 268,
+      "nume": "Isharo's",
+      "latitudine": 45.433728,
+      "longitudine": 28.025069,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 269,
+      "nume": "Italiano Pub",
+      "latitudine": 45.150652,
+      "longitudine": 24.675343,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 270,
+      "nume": "Iuda",
+      "latitudine": 47.200066,
+      "longitudine": 22.316477,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 271,
+      "nume": "Jack’s Pub",
+      "latitudine": 44.43192,
+      "longitudine": 26.101024,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 272,
+      "nume": "Jad Café",
+      "latitudine": 46.175275,
+      "longitudine": 21.317584,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 273,
+      "nume": "Janis Submarine",
+      "latitudine": 46.768887,
+      "longitudine": 23.591019,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 274,
+      "nume": "Janos Pub",
+      "latitudine": 46.463406,
+      "longitudine": 25.181435,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 275,
+      "nume": "Jaxx",
+      "latitudine": 46.771266,
+      "longitudine": 23.584601,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 276,
+      "nume": "jazz caffe",
+      "latitudine": 45.703464,
+      "longitudine": 27.191114,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 277,
+      "nume": "Joy Pub",
+      "latitudine": 45.752413,
+      "longitudine": 21.240655,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 278,
+      "nume": "Joy's",
+      "latitudine": 46.169702,
+      "longitudine": 21.317079,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 279,
+      "nume": "Jóbarát ivó",
+      "latitudine": 45.823275,
+      "longitudine": 25.761637,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 280,
+      "nume": "Kalapos",
+      "latitudine": 46.304231,
+      "longitudine": 25.297632,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 281,
+      "nume": "Karolina Augusta Pub",
+      "latitudine": 46.77128,
+      "longitudine": 23.586028,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 282,
+      "nume": "Karoline",
+      "latitudine": 47.790225,
+      "longitudine": 22.871683,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 283,
+      "nume": "Keleti kocsma",
+      "latitudine": 47.128675,
+      "longitudine": 21.729844,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 284,
+      "nume": "Kirolosz",
+      "latitudine": 46.653299,
+      "longitudine": 24.609367,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 285,
+      "nume": "Kiss Pub",
+      "latitudine": 45.767024,
+      "longitudine": 26.111156,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 286,
+      "nume": "Kisszatócs",
+      "latitudine": 46.149097,
+      "longitudine": 20.277574,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 287,
+      "nume": "Klausen Pubhouse",
+      "latitudine": 46.771008,
+      "longitudine": 23.586999,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 288,
+      "nume": "Km0 Pub and Restaurant",
+      "latitudine": 45.769935,
+      "longitudine": 21.30252,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 289,
+      "nume": "Kmikze Rap",
+      "latitudine": 46.218778,
+      "longitudine": 21.28233,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 290,
+      "nume": "Koccintó Italbolt",
+      "latitudine": 46.282776,
+      "longitudine": 21.022636,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 291,
+      "nume": "Kocsma",
+      "latitudine": 46.077584,
+      "longitudine": 25.606162,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 292,
+      "nume": "Kocsma",
+      "latitudine": 46.394672,
+      "longitudine": 25.852664,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 293,
+      "nume": "Kocsma",
+      "latitudine": 46.529445,
+      "longitudine": 24.963317,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 294,
+      "nume": "Krush",
+      "latitudine": 45.698578,
+      "longitudine": 27.179079,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 295,
+      "nume": "KS Pub",
+      "latitudine": 44.935708,
+      "longitudine": 26.026726,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 296,
+      "nume": "Kulturhaus",
+      "latitudine": 44.431327,
+      "longitudine": 26.104575,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 297,
+      "nume": "Kárpátikum",
+      "latitudine": 46.720134,
+      "longitudine": 25.602287,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 298,
+      "nume": "La 100 de Beri",
+      "latitudine": 44.430969,
+      "longitudine": 26.103145,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 299,
+      "nume": "La bibliotecă",
+      "latitudine": 47.640527,
+      "longitudine": 26.247721,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 300,
+      "nume": "La Bărbosu",
+      "latitudine": 46.752969,
+      "longitudine": 23.564304,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 301,
+      "nume": "la Carlos",
+      "latitudine": 47.07227,
+      "longitudine": 22.197223,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 302,
+      "nume": "La Donna",
+      "latitudine": 44.427296,
+      "longitudine": 26.143805,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 303,
+      "nume": "LA FIERĂRIE",
+      "latitudine": 47.644501,
+      "longitudine": 26.249349,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 304,
+      "nume": "la Grigoraș",
+      "latitudine": 45.148121,
+      "longitudine": 24.397332,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 305,
+      "nume": "la Josan",
+      "latitudine": 45.274527,
+      "longitudine": 28.458003,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 306,
+      "nume": "La Liceu",
+      "latitudine": 47.552953,
+      "longitudine": 25.89795,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 307,
+      "nume": "La Mahala",
+      "latitudine": 44.430617,
+      "longitudine": 26.101832,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 308,
+      "nume": "La Matale",
+      "latitudine": 47.123211,
+      "longitudine": 27.622561,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 309,
+      "nume": "La Pasaj",
+      "latitudine": 44.31567,
+      "longitudine": 23.801851,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 310,
+      "nume": "La Pub",
+      "latitudine": 45.154221,
+      "longitudine": 24.676355,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 311,
+      "nume": "La Roka",
+      "latitudine": 44.461275,
+      "longitudine": 26.123358,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 312,
+      "nume": "La Răscruce",
+      "latitudine": 46.518661,
+      "longitudine": 22.825346,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 313,
+      "nume": "la Răsumeni",
+      "latitudine": 45.287947,
+      "longitudine": 28.282041,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 314,
+      "nume": "La stuf",
+      "latitudine": 45.642308,
+      "longitudine": 25.629886,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 315,
+      "nume": "La Tramvai",
+      "latitudine": 44.423931,
+      "longitudine": 26.151561,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 316,
+      "nume": "La Una Harra",
+      "latitudine": 46.773043,
+      "longitudine": 24.700533,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 317,
+      "nume": "La Ursuleț",
+      "latitudine": 44.46884,
+      "longitudine": 26.085038,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 318,
+      "nume": "la Șeptilici",
+      "latitudine": 47.274978,
+      "longitudine": 26.384458,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 319,
+      "nume": "La Țevi",
+      "latitudine": 46.770023,
+      "longitudine": 23.594711,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 320,
+      "nume": "Le Boutique Food Concept Store",
+      "latitudine": 44.436148,
+      "longitudine": 26.116647,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 321,
+      "nume": "Le Cafe Inmedio",
+      "latitudine": 44.449402,
+      "longitudine": 26.084332,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 322,
+      "nume": "LegendPub",
+      "latitudine": 47.158648,
+      "longitudine": 27.588279,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 323,
+      "nume": "Legends Pub",
+      "latitudine": 44.317828,
+      "longitudine": 23.799267,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 324,
+      "nume": "Libáni csárda",
+      "latitudine": 46.554712,
+      "longitudine": 25.523792,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 325,
+      "nume": "Like Pub",
+      "latitudine": 45.750157,
+      "longitudine": 21.243588,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 326,
+      "nume": "Little Pub",
+      "latitudine": 46.575514,
+      "longitudine": 26.9142,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 327,
+      "nume": "Loco Pub",
+      "latitudine": 44.502694,
+      "longitudine": 25.991095,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 328,
+      "nume": "Log Out",
+      "latitudine": 47.659918,
+      "longitudine": 23.582336,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 329,
+      "nume": "London Pub",
+      "latitudine": 44.183046,
+      "longitudine": 28.648698,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 330,
+      "nume": "London Pub",
+      "latitudine": 45.695363,
+      "longitudine": 27.182439,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 331,
+      "nume": "London Pub",
+      "latitudine": 46.763426,
+      "longitudine": 23.577294,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 332,
+      "nume": "Long Fong",
+      "latitudine": 44.419625,
+      "longitudine": 26.094985,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 333,
+      "nume": "Loransz Pub",
+      "latitudine": 46.473812,
+      "longitudine": 25.179565,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 334,
+      "nume": "Lord's Pub",
+      "latitudine": 47.054817,
+      "longitudine": 21.929498,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 335,
+      "nume": "Lost",
+      "latitudine": 46.170741,
+      "longitudine": 21.316543,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 336,
+      "nume": "Luci Bar",
+      "latitudine": 46.1763,
+      "longitudine": 21.319187,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 337,
+      "nume": "Lucky Point",
+      "latitudine": 44.443289,
+      "longitudine": 26.063936,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 338,
+      "nume": "Lucky Tarre",
+      "latitudine": 44.309314,
+      "longitudine": 23.810504,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 339,
+      "nume": "Magazin Birtiț la Herman",
+      "latitudine": 46.193238,
+      "longitudine": 23.601933,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 340,
+      "nume": "Magazin Crama la Țebescu Țelna",
+      "latitudine": 46.163493,
+      "longitudine": 23.49575,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 341,
+      "nume": "Magic Place",
+      "latitudine": 47.554316,
+      "longitudine": 25.890671,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 342,
+      "nume": "Magic Sport Pub",
+      "latitudine": 47.157526,
+      "longitudine": 27.605297,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 343,
+      "nume": "Manasia Hub",
+      "latitudine": 44.431887,
+      "longitudine": 26.106662,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 344,
+      "nume": "Mao Pub",
+      "latitudine": 44.431837,
+      "longitudine": 26.102362,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 345,
+      "nume": "Mara Pub Domnesc",
+      "latitudine": 45.142314,
+      "longitudine": 24.676725,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 346,
+      "nume": "Marcel & Cecilia SRL",
+      "latitudine": 46.830546,
+      "longitudine": 21.674426,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 347,
+      "nume": "Market&Pub",
+      "latitudine": 46.417619,
+      "longitudine": 24.971505,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 348,
+      "nume": "Marktplatz",
+      "latitudine": 45.713524,
+      "longitudine": 24.151162,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 349,
+      "nume": "Master Club",
+      "latitudine": 47.155175,
+      "longitudine": 27.601646,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 350,
+      "nume": "Mates Pub",
+      "latitudine": 46.754005,
+      "longitudine": 23.585169,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 351,
+      "nume": "Mayerhoff Brauerei",
+      "latitudine": 45.746887,
+      "longitudine": 21.220032,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 352,
+      "nume": "Mechano Pub",
+      "latitudine": 44.446726,
+      "longitudine": 26.051713,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 353,
+      "nume": "Melody",
+      "latitudine": 45.665177,
+      "longitudine": 25.604982,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 354,
+      "nume": "Memento kocsma",
+      "latitudine": 46.075594,
+      "longitudine": 25.598556,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 355,
+      "nume": "Middle Pub",
+      "latitudine": 44.319023,
+      "longitudine": 23.821759,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 356,
+      "nume": "Miklos",
+      "latitudine": 46.305595,
+      "longitudine": 25.072709,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 357,
+      "nume": "Mini Bar",
+      "latitudine": 46.574364,
+      "longitudine": 25.794529,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 358,
+      "nume": "Morrigan`s Irish Pub",
+      "latitudine": 47.053849,
+      "longitudine": 21.930932,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 359,
+      "nume": "Motel Restaurant Românești",
+      "latitudine": 44.847077,
+      "longitudine": 26.07838,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 360,
+      "nume": "Motors Pub",
+      "latitudine": 47.636943,
+      "longitudine": 26.24848,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 361,
+      "nume": "Music PUB",
+      "latitudine": 47.641925,
+      "longitudine": 26.251182,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 362,
+      "nume": "New Pub",
+      "latitudine": 44.348096,
+      "longitudine": 24.108345,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 363,
+      "nume": "Nexus Gamers Pub",
+      "latitudine": 44.422056,
+      "longitudine": 26.073666,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 364,
+      "nume": "NO Limit Cafenea",
+      "latitudine": 46.444855,
+      "longitudine": 25.388504,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 365,
+      "nume": "No Name",
+      "latitudine": 46.771884,
+      "longitudine": 23.58714,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 366,
+      "nume": "No. 6",
+      "latitudine": 45.777066,
+      "longitudine": 24.146079,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 367,
+      "nume": "Nomad",
+      "latitudine": 45.689965,
+      "longitudine": 27.170609,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 368,
+      "nume": "Obsesion Club",
+      "latitudine": 47.226692,
+      "longitudine": 22.400153,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 369,
+      "nume": "Oktoberfest Pub",
+      "latitudine": 44.430571,
+      "longitudine": 26.09898,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 370,
+      "nume": "Oktoberfest Pub",
+      "latitudine": 44.432914,
+      "longitudine": 26.125886,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 371,
+      "nume": "Old Boys Pub",
+      "latitudine": 47.48062,
+      "longitudine": 22.586287,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 372,
+      "nume": "Old Friends Pub",
+      "latitudine": 46.762531,
+      "longitudine": 23.577835,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 373,
+      "nume": "Old House",
+      "latitudine": 45.775033,
+      "longitudine": 21.219672,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 374,
+      "nume": "Old Jack PUB",
+      "latitudine": 44.442567,
+      "longitudine": 26.096188,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 375,
+      "nume": "Old Lady's Pub",
+      "latitudine": 46.194645,
+      "longitudine": 21.307097,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 376,
+      "nume": "Old Place",
+      "latitudine": 47.790354,
+      "longitudine": 22.871867,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 377,
+      "nume": "Old Pub",
+      "latitudine": 45.271589,
+      "longitudine": 27.970812,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 378,
+      "nume": "Old Pub",
+      "latitudine": 46.750522,
+      "longitudine": 23.561798,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 379,
+      "nume": "Old Pub",
+      "latitudine": 47.929582,
+      "longitudine": 23.883369,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 380,
+      "nume": "Old School",
+      "latitudine": 46.773425,
+      "longitudine": 23.589222,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 381,
+      "nume": "Old Shepherd",
+      "latitudine": 46.770407,
+      "longitudine": 23.588256,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 382,
+      "nume": "Old Time Pub",
+      "latitudine": 44.936444,
+      "longitudine": 26.027149,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 383,
+      "nume": "Old Town IIrish Pub",
+      "latitudine": 46.931956,
+      "longitudine": 26.362547,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 384,
+      "nume": "Old Town Pub",
+      "latitudine": 45.642845,
+      "longitudine": 25.588381,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 385,
+      "nume": "Oldies Pub",
+      "latitudine": 45.794539,
+      "longitudine": 24.151067,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 386,
+      "nume": "Oli's Pub",
+      "latitudine": 45.658065,
+      "longitudine": 25.596782,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 387,
+      "nume": "Olimpus Pub",
+      "latitudine": 45.436626,
+      "longitudine": 28.055833,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 388,
+      "nume": "One Coffe",
+      "latitudine": 46.364103,
+      "longitudine": 25.80159,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 389,
+      "nume": "One Pub",
+      "latitudine": 44.314993,
+      "longitudine": 23.795374,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 390,
+      "nume": "Open Pub",
+      "latitudine": 44.451421,
+      "longitudine": 26.105638,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 391,
+      "nume": "Opium Irish Pub",
+      "latitudine": 45.8821,
+      "longitudine": 22.90078,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 392,
+      "nume": "Ovidiu Roșca",
+      "latitudine": 47.215525,
+      "longitudine": 27.284541,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 393,
+      "nume": "Oxford Pub & Restaurant",
+      "latitudine": 45.750473,
+      "longitudine": 21.242115,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 394,
+      "nume": "PABO Sports",
+      "latitudine": 47.261065,
+      "longitudine": 26.719959,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 395,
+      "nume": "Paint & Party",
+      "latitudine": 44.430937,
+      "longitudine": 26.101452,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 396,
+      "nume": "Palermo",
+      "latitudine": 46.359544,
+      "longitudine": 25.80537,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 397,
+      "nume": "Panda",
+      "latitudine": 46.803204,
+      "longitudine": 21.647687,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 398,
+      "nume": "PanGrand",
+      "latitudine": 45.445508,
+      "longitudine": 28.053307,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 399,
+      "nume": "Panik & Pub",
+      "latitudine": 44.447423,
+      "longitudine": 26.101335,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 400,
+      "nume": "Paradis",
+      "latitudine": 43.653219,
+      "longitudine": 25.367524,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 401,
+      "nume": "Pasha Garden",
+      "latitudine": 45.703503,
+      "longitudine": 21.232994,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 402,
+      "nume": "Patkó",
+      "latitudine": 46.395223,
+      "longitudine": 25.303782,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 403,
+      "nume": "Pașa",
+      "latitudine": 47.159889,
+      "longitudine": 27.612937,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 404,
+      "nume": "Pellegrino",
+      "latitudine": 47.771286,
+      "longitudine": 26.438143,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 405,
+      "nume": "Pensiunea Lokanta",
+      "latitudine": 43.995173,
+      "longitudine": 25.99261,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 406,
+      "nume": "Pensiunea Padiș",
+      "latitudine": 46.596914,
+      "longitudine": 22.733003,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 407,
+      "nume": "Phoenix Pub",
+      "latitudine": 44.21183,
+      "longitudine": 28.624208,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 408,
+      "nume": "Pizza Twenty No 20",
+      "latitudine": 45.78922,
+      "longitudine": 24.142206,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 409,
+      "nume": "Pizzeria Classic",
+      "latitudine": 44.427166,
+      "longitudine": 26.105931,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 410,
+      "nume": "Pizzeria Sasu",
+      "latitudine": 47.554559,
+      "longitudine": 25.891572,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 411,
+      "nume": "Place",
+      "latitudine": 45.432849,
+      "longitudine": 28.0518,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 412,
+      "nume": "Planet",
+      "latitudine": 44.321415,
+      "longitudine": 23.803695,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 413,
+      "nume": "Point",
+      "latitudine": 44.444719,
+      "longitudine": 26.102524,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 414,
+      "nume": "Ponicova",
+      "latitudine": 44.611616,
+      "longitudine": 22.252188,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 415,
+      "nume": "Port Arthur",
+      "latitudine": 46.159476,
+      "longitudine": 21.307028,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 416,
+      "nume": "Povestea Merge Mai Departe",
+      "latitudine": 44.910604,
+      "longitudine": 25.704832,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 417,
+      "nume": "Pravalia 7",
+      "latitudine": 44.439892,
+      "longitudine": 26.15758,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 418,
+      "nume": "Presszó",
+      "latitudine": 47.961632,
+      "longitudine": 22.85058,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 419,
+      "nume": "Primus",
+      "latitudine": 44.442199,
+      "longitudine": 26.094589,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 420,
+      "nume": "Private Hell Rock Club",
+      "latitudine": 44.430467,
+      "longitudine": 26.101417,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 421,
+      "nume": "Pub 18",
+      "latitudine": 44.445932,
+      "longitudine": 26.052663,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 422,
+      "nume": "Pub 77",
+      "latitudine": 46.069846,
+      "longitudine": 23.546655,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 423,
+      "nume": "Pub Apollo",
+      "latitudine": 44.711803,
+      "longitudine": 26.631002,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 424,
+      "nume": "Pub Down",
+      "latitudine": 45.316383,
+      "longitudine": 25.725106,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 425,
+      "nume": "Pub Paris",
+      "latitudine": 46.934324,
+      "longitudine": 26.355688,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 426,
+      "nume": "Pub Techirghiol",
+      "latitudine": 44.055122,
+      "longitudine": 28.602939,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 427,
+      "nume": "Pub Towers",
+      "latitudine": 44.928464,
+      "longitudine": 25.458154,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 428,
+      "nume": "Pub's Pub",
+      "latitudine": 44.316272,
+      "longitudine": 23.798806,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 429,
+      "nume": "Pub1989",
+      "latitudine": 45.754393,
+      "longitudine": 21.228007,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 430,
+      "nume": "Quantic Pub",
+      "latitudine": 44.438086,
+      "longitudine": 26.059332,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 431,
+      "nume": "Queen, Restaurant",
+      "latitudine": 44.190021,
+      "longitudine": 27.330106,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 432,
+      "nume": "Queue de Cheval",
+      "latitudine": 45.650173,
+      "longitudine": 25.62511,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 433,
+      "nume": "Reciproc Bastion",
+      "latitudine": 45.757379,
+      "longitudine": 21.233448,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 434,
+      "nume": "Red Caffe pub",
+      "latitudine": 45.680468,
+      "longitudine": 24.343674,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 435,
+      "nume": "Red Club",
+      "latitudine": 44.983754,
+      "longitudine": 25.643922,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 436,
+      "nume": "Red Corner",
+      "latitudine": 46.535165,
+      "longitudine": 24.578147,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 437,
+      "nume": "Red Pub",
+      "latitudine": 45.445398,
+      "longitudine": 25.559364,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 438,
+      "nume": "Renessance",
+      "latitudine": 46.171521,
+      "longitudine": 21.319313,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 439,
+      "nume": "Reset Irish Pub",
+      "latitudine": 45.265276,
+      "longitudine": 27.970449,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 440,
+      "nume": "Retro",
+      "latitudine": 44.94195,
+      "longitudine": 26.018538,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 441,
+      "nume": "Retro Cafe",
+      "latitudine": 47.176071,
+      "longitudine": 27.576763,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 442,
+      "nume": "Retro Pub",
+      "latitudine": 44.453163,
+      "longitudine": 26.120306,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 443,
+      "nume": "Rexo Coffee",
+      "latitudine": 46.535785,
+      "longitudine": 24.583724,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 444,
+      "nume": "Ring Club",
+      "latitudine": 46.762707,
+      "longitudine": 23.578116,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 445,
+      "nume": "Rombier",
+      "latitudine": 44.423523,
+      "longitudine": 26.04093,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 446,
+      "nume": "Roxy Pub",
+      "latitudine": 44.444922,
+      "longitudine": 26.056369,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 447,
+      "nume": "Rugby Pub",
+      "latitudine": 47.163416,
+      "longitudine": 27.560138,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 448,
+      "nume": "San Giurgiu Pub",
+      "latitudine": 43.899246,
+      "longitudine": 25.968953,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 449,
+      "nume": "Sarokház presszó",
+      "latitudine": 46.4321,
+      "longitudine": 21.233567,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 450,
+      "nume": "Saul's Pub",
+      "latitudine": 46.132504,
+      "longitudine": 20.58867,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 451,
+      "nume": "sazakut",
+      "latitudine": 46.857644,
+      "longitudine": 24.761968,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 452,
+      "nume": "Scena Cafe",
+      "latitudine": 45.429312,
+      "longitudine": 28.038833,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 453,
+      "nume": "Scottish Pub",
+      "latitudine": 47.657372,
+      "longitudine": 23.572963,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 454,
+      "nume": "Scuar by Reset",
+      "latitudine": 45.264615,
+      "longitudine": 27.968657,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 455,
+      "nume": "Self Melody Mamaia",
+      "latitudine": 44.232463,
+      "longitudine": 28.626998,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 456,
+      "nume": "Sera Eden",
+      "latitudine": 44.442029,
+      "longitudine": 26.103427,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 457,
+      "nume": "Sestri",
+      "latitudine": 46.937788,
+      "longitudine": 26.355036,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 458,
+      "nume": "Seven",
+      "latitudine": 46.766374,
+      "longitudine": 23.550617,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 459,
+      "nume": "Sică",
+      "latitudine": 46.171067,
+      "longitudine": 21.353717,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 460,
+      "nume": "Silver Church",
+      "latitudine": 44.437007,
+      "longitudine": 26.078917,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 461,
+      "nume": "Simone",
+      "latitudine": 45.643206,
+      "longitudine": 25.596178,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 462,
+      "nume": "Sinners",
+      "latitudine": 44.431064,
+      "longitudine": 26.100859,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 463,
+      "nume": "Sky",
+      "latitudine": 46.173746,
+      "longitudine": 21.316411,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 464,
+      "nume": "Sky Bowling Păulești",
+      "latitudine": 44.983955,
+      "longitudine": 25.982829,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 465,
+      "nume": "Slash",
+      "latitudine": 47.142081,
+      "longitudine": 27.595991,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 466,
+      "nume": "Smart's Pub & Bistro",
+      "latitudine": 44.442699,
+      "longitudine": 26.109595,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 467,
+      "nume": "Snack's pub",
+      "latitudine": 45.642559,
+      "longitudine": 25.590608,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 468,
+      "nume": "Snatch Pub",
+      "latitudine": 44.425746,
+      "longitudine": 26.070089,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 469,
+      "nume": "SOHO pub & more",
+      "latitudine": 44.317968,
+      "longitudine": 23.798737,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 470,
+      "nume": "St. Andrew's Scottish Pub",
+      "latitudine": 45.79823,
+      "longitudine": 24.15319,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 471,
+      "nume": "St. Patrick",
+      "latitudine": 44.431552,
+      "longitudine": 26.099697,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 472,
+      "nume": "Stage Pub",
+      "latitudine": 45.756394,
+      "longitudine": 21.228702,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 473,
+      "nume": "Station Pub",
+      "latitudine": 46.800998,
+      "longitudine": 25.476483,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 474,
+      "nume": "Steam Punk",
+      "latitudine": 44.318052,
+      "longitudine": 23.799157,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 475,
+      "nume": "Steaua",
+      "latitudine": 46.152074,
+      "longitudine": 21.322001,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 476,
+      "nume": "Step Inside Bar",
+      "latitudine": 44.175451,
+      "longitudine": 28.652308,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 477,
+      "nume": "Stockholm Social Club",
+      "latitudine": 44.31709,
+      "longitudine": 23.79849,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 478,
+      "nume": "Stone Pub",
+      "latitudine": 46.009931,
+      "longitudine": 25.580673,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 479,
+      "nume": "Student Pop",
+      "latitudine": 46.764315,
+      "longitudine": 23.576437,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 480,
+      "nume": "Studențeasca",
+      "latitudine": 47.640598,
+      "longitudine": 26.247925,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 481,
+      "nume": "Studio Pub",
+      "latitudine": 45.344065,
+      "longitudine": 25.730705,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 482,
+      "nume": "Summertime",
+      "latitudine": 45.42819,
+      "longitudine": 28.053812,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 483,
+      "nume": "sunrise",
+      "latitudine": 47.186587,
+      "longitudine": 27.599748,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 484,
+      "nume": "Supporter Sports Pub & Grill",
+      "latitudine": 45.789128,
+      "longitudine": 24.143342,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 485,
+      "nume": "Tchibo Pub&Grill",
+      "latitudine": 44.190228,
+      "longitudine": 27.329961,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 486,
+      "nume": "Temple Pub",
+      "latitudine": 46.929542,
+      "longitudine": 26.364647,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 487,
+      "nume": "Temple Pub & Grill",
+      "latitudine": 45.652925,
+      "longitudine": 25.609836,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 488,
+      "nume": "Teo's Tonics",
+      "latitudine": 44.431732,
+      "longitudine": 26.101721,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 489,
+      "nume": "Terasa",
+      "latitudine": 43.847163,
+      "longitudine": 28.599811,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 490,
+      "nume": "Terasa",
+      "latitudine": 43.848102,
+      "longitudine": 28.600117,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 491,
+      "nume": "Terasa Adi",
+      "latitudine": 45.187217,
+      "longitudine": 28.663952,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 492,
+      "nume": "Terasa Albert",
+      "latitudine": 45.860663,
+      "longitudine": 25.787913,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 493,
+      "nume": "Terasa Balca",
+      "latitudine": 47.233424,
+      "longitudine": 22.82163,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 494,
+      "nume": "Terasa Braco",
+      "latitudine": 47.130372,
+      "longitudine": 23.886083,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 495,
+      "nume": "Terasa de Vară",
+      "latitudine": 44.931354,
+      "longitudine": 26.012101,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 496,
+      "nume": "Terasa Esplanada",
+      "latitudine": 43.846959,
+      "longitudine": 28.599741,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 497,
+      "nume": "Terasa Everton",
+      "latitudine": 47.14204,
+      "longitudine": 23.876953,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 498,
+      "nume": "Terasa Florian",
+      "latitudine": 46.930773,
+      "longitudine": 26.36488,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 499,
+      "nume": "Terasa Gabor",
+      "latitudine": 45.863188,
+      "longitudine": 25.80835,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 500,
+      "nume": "Terasa Gyorgy",
+      "latitudine": 45.795195,
+      "longitudine": 25.77113,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 501,
+      "nume": "Terasa Gării",
+      "latitudine": 45.661303,
+      "longitudine": 25.614031,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 502,
+      "nume": "Terasa Izvorul Stanciului",
+      "latitudine": 46.70598,
+      "longitudine": 22.84363,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 503,
+      "nume": "Terasa Kocsuko",
+      "latitudine": 45.860011,
+      "longitudine": 25.789918,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 504,
+      "nume": "Terasa la Beny",
+      "latitudine": 47.613346,
+      "longitudine": 23.99514,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 505,
+      "nume": "Terasa la Ciortea",
+      "latitudine": 45.845801,
+      "longitudine": 23.014021,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 506,
+      "nume": "Terasa la Mocanu",
+      "latitudine": 45.296596,
+      "longitudine": 25.106516,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 507,
+      "nume": "Terasa la Nasture",
+      "latitudine": 44.94101,
+      "longitudine": 26.02657,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 508,
+      "nume": "Terasa la Pintilie",
+      "latitudine": 47.103347,
+      "longitudine": 27.545095,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 509,
+      "nume": "Terasa La Salcii",
+      "latitudine": 44.896783,
+      "longitudine": 29.591521,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 510,
+      "nume": "Terasa Maly",
+      "latitudine": 44.203692,
+      "longitudine": 27.314974,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 511,
+      "nume": "Terasa Mandela",
+      "latitudine": 47.666119,
+      "longitudine": 23.891402,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 512,
+      "nume": "Terasa Metalurgiei",
+      "latitudine": 44.376516,
+      "longitudine": 26.120706,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 513,
+      "nume": "Terasa Mirona",
+      "latitudine": 45.259645,
+      "longitudine": 24.323058,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 514,
+      "nume": "Terasa NON-STOP",
+      "latitudine": 44.845286,
+      "longitudine": 24.886377,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 515,
+      "nume": "Terasa Porta (desființat)",
+      "latitudine": 46.206558,
+      "longitudine": 26.438077,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 516,
+      "nume": "Terasa Timișoreana",
+      "latitudine": 44.451233,
+      "longitudine": 26.042216,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 517,
+      "nume": "Terasa Turist",
+      "latitudine": 46.601242,
+      "longitudine": 25.086708,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 518,
+      "nume": "Terasa Tămășanu",
+      "latitudine": 46.763138,
+      "longitudine": 23.577541,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 519,
+      "nume": "Terasa Veaceslav",
+      "latitudine": 46.764234,
+      "longitudine": 23.57621,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 520,
+      "nume": "Terasa Veritas",
+      "latitudine": 44.944724,
+      "longitudine": 26.015969,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 521,
+      "nume": "Terasa Vincenzo",
+      "latitudine": 45.864081,
+      "longitudine": 25.795513,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 522,
+      "nume": "Terminus",
+      "latitudine": 44.442257,
+      "longitudine": 26.09475,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 523,
+      "nume": "Terrapeutique",
+      "latitudine": 46.926873,
+      "longitudine": 26.933047,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 524,
+      "nume": "The 20's",
+      "latitudine": 44.316629,
+      "longitudine": 23.800748,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 525,
+      "nume": "The 80's Pub",
+      "latitudine": 45.740962,
+      "longitudine": 21.240047,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 526,
+      "nume": "The BackStage",
+      "latitudine": 46.544721,
+      "longitudine": 24.563441,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 527,
+      "nume": "The Bao House",
+      "latitudine": 44.449428,
+      "longitudine": 26.08854,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 528,
+      "nume": "The Beer Institute",
+      "latitudine": 44.448373,
+      "longitudine": 26.09886,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 529,
+      "nume": "The Beer Institute",
+      "latitudine": 44.460605,
+      "longitudine": 26.100697,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 530,
+      "nume": "The Brewhouse",
+      "latitudine": 46.767314,
+      "longitudine": 23.588621,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 531,
+      "nume": "The Charlatans",
+      "latitudine": 45.758555,
+      "longitudine": 21.227101,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 532,
+      "nume": "The Dubliner",
+      "latitudine": 44.452331,
+      "longitudine": 26.077201,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 533,
+      "nume": "The Embassy Old Town",
+      "latitudine": 44.92864,
+      "longitudine": 25.458982,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 534,
+      "nume": "The George and dragon pub",
+      "latitudine": 44.42217,
+      "longitudine": 26.105757,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 535,
+      "nume": "The Hockey Pub",
+      "latitudine": 45.641471,
+      "longitudine": 25.592125,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 536,
+      "nume": "The Irish PUBlic House",
+      "latitudine": 45.756782,
+      "longitudine": 21.230642,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 537,
+      "nume": "The Jack",
+      "latitudine": 46.766797,
+      "longitudine": 23.588692,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 538,
+      "nume": "The Library",
+      "latitudine": 44.178657,
+      "longitudine": 28.650922,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 539,
+      "nume": "The Moon",
+      "latitudine": 44.944822,
+      "longitudine": 26.015881,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 540,
+      "nume": "The Office",
+      "latitudine": 46.543068,
+      "longitudine": 24.564163,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 541,
+      "nume": "The Place",
+      "latitudine": 44.456226,
+      "longitudine": 26.075656,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 542,
+      "nume": "The Pub",
+      "latitudine": 44.434686,
+      "longitudine": 26.100077,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 543,
+      "nume": "The Roof",
+      "latitudine": 44.422406,
+      "longitudine": 26.124268,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 544,
+      "nume": "The Score Pub",
+      "latitudine": 47.791216,
+      "longitudine": 22.87404,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 545,
+      "nume": "The Secret Garden",
+      "latitudine": 44.165358,
+      "longitudine": 27.314004,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 546,
+      "nume": "The Station Pub",
+      "latitudine": 45.7622,
+      "longitudine": 21.211742,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 547,
+      "nume": "The Temple",
+      "latitudine": 44.420681,
+      "longitudine": 26.102284,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 548,
+      "nume": "The Temple Bar",
+      "latitudine": 44.327655,
+      "longitudine": 23.79991,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 549,
+      "nume": "The Tube",
+      "latitudine": 45.7575,
+      "longitudine": 21.230098,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 550,
+      "nume": "The Vibe Pub",
+      "latitudine": 44.660029,
+      "longitudine": 24.263182,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 551,
+      "nume": "The Vintage",
+      "latitudine": 44.430296,
+      "longitudine": 26.100431,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 552,
+      "nume": "The Wally's Club",
+      "latitudine": 44.430272,
+      "longitudine": 26.100652,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 553,
+      "nume": "Tiltott Csíki Söröző",
+      "latitudine": 47.053885,
+      "longitudine": 21.930775,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 554,
+      "nume": "Times",
+      "latitudine": 45.64464,
+      "longitudine": 25.594849,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 555,
+      "nume": "Tinitanya",
+      "latitudine": 46.718177,
+      "longitudine": 25.599558,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 556,
+      "nume": "Tizz Pub",
+      "latitudine": 44.065486,
+      "longitudine": 28.230331,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 557,
+      "nume": "Toate Panzele Sus",
+      "latitudine": 45.271598,
+      "longitudine": 27.968051,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 558,
+      "nume": "Together Irish Pub",
+      "latitudine": 44.72119,
+      "longitudine": 25.31691,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 559,
+      "nume": "Tom & Jerry",
+      "latitudine": 47.666424,
+      "longitudine": 23.574023,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 560,
+      "nume": "Tower's Pub",
+      "latitudine": 44.932727,
+      "longitudine": 25.456741,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 561,
+      "nume": "TreeHouse Cosoba",
+      "latitudine": 44.533075,
+      "longitudine": 25.79886,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 562,
+      "nume": "Trinity College Pub",
+      "latitudine": 44.430633,
+      "longitudine": 26.100766,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 563,
+      "nume": "Tune's Pub",
+      "latitudine": 43.993582,
+      "longitudine": 22.931588,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 564,
+      "nume": "Tutankhamon",
+      "latitudine": 47.477524,
+      "longitudine": 22.582591,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 565,
+      "nume": "Twin Peaks",
+      "latitudine": 44.31949,
+      "longitudine": 23.815565,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 566,
+      "nume": "Twomey's Irish Pub",
+      "latitudine": 46.572698,
+      "longitudine": 26.908398,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 567,
+      "nume": "Ultimul Leu",
+      "latitudine": 45.428436,
+      "longitudine": 28.025271,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 568,
+      "nume": "Uncle Jacks",
+      "latitudine": 45.416702,
+      "longitudine": 25.537523,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 569,
+      "nume": "Uni Sports Bar",
+      "latitudine": 46.765998,
+      "longitudine": 23.56437,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 570,
+      "nume": "Union",
+      "latitudine": 45.797225,
+      "longitudine": 24.150666,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 571,
+      "nume": "Union Jack Studio",
+      "latitudine": 45.436784,
+      "longitudine": 28.055902,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 572,
+      "nume": "Union Pub",
+      "latitudine": 45.758399,
+      "longitudine": 21.227555,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 573,
+      "nume": "Urban Home",
+      "latitudine": 44.859617,
+      "longitudine": 24.868097,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 574,
+      "nume": "Vama Targoviste",
+      "latitudine": 44.896559,
+      "longitudine": 25.446284,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 575,
+      "nume": "Ventura",
+      "latitudine": 44.196551,
+      "longitudine": 27.323371,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 576,
+      "nume": "Versus Pub",
+      "latitudine": 45.428272,
+      "longitudine": 28.038424,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 577,
+      "nume": "Victor Pub",
+      "latitudine": 44.419725,
+      "longitudine": 26.059411,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 578,
+      "nume": "Victoria",
+      "latitudine": 44.188487,
+      "longitudine": 27.346405,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 579,
+      "nume": "Viharsarok söröző",
+      "latitudine": 46.4232,
+      "longitudine": 21.194683,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 580,
+      "nume": "Vintage Pub",
+      "latitudine": 44.943969,
+      "longitudine": 26.02385,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 581,
+      "nume": "Vinul Unguresc",
+      "latitudine": 46.4564,
+      "longitudine": 23.569006,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 582,
+      "nume": "Vision Pub",
+      "latitudine": 47.784315,
+      "longitudine": 22.849093,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 583,
+      "nume": "Visoiu",
+      "latitudine": 45.043766,
+      "longitudine": 25.752477,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 584,
+      "nume": "Vog Pub",
+      "latitudine": 45.144333,
+      "longitudine": 25.733342,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 585,
+      "nume": "Voynich café bar",
+      "latitudine": 46.219896,
+      "longitudine": 24.795923,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 586,
+      "nume": "Wenge Pub&Caffe",
+      "latitudine": 47.737717,
+      "longitudine": 26.663464,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 587,
+      "nume": "Window Pub",
+      "latitudine": 47.054305,
+      "longitudine": 21.930534,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 588,
+      "nume": "Wings",
+      "latitudine": 46.169423,
+      "longitudine": 21.316552,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 589,
+      "nume": "Wonder Bistro & Bar",
+      "latitudine": 46.721599,
+      "longitudine": 23.589239,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 590,
+      "nume": "YARD",
+      "latitudine": 47.791554,
+      "longitudine": 22.874052,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 591,
+      "nume": "Zen Pub",
+      "latitudine": 44.431027,
+      "longitudine": 26.100963,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 592,
+      "nume": "Zen Rasta Pub",
+      "latitudine": 44.318035,
+      "longitudine": 23.790171,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 593,
+      "nume": "Zepelin 1929",
+      "latitudine": 44.419286,
+      "longitudine": 26.091548,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 594,
+      "nume": "Zeppelin bistro",
+      "latitudine": 46.547817,
+      "longitudine": 24.550323,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 595,
+      "nume": "Zeppelin Pub",
+      "latitudine": 44.439898,
+      "longitudine": 26.110093,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 596,
+      "nume": "Zipp It",
+      "latitudine": 46.763143,
+      "longitudine": 23.573043,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 597,
+      "nume": "Zăganu Bistro and Romanian Craft Beer Bar",
+      "latitudine": 44.44297,
+      "longitudine": 26.093174,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    },
+    {
+      "id": 598,
+      "nume": "Ólommadár",
+      "latitudine": 46.36151,
+      "longitudine": 25.806435,
+      "cheie_osm": "amenity",
+      "valoare_osm": "pub",
+      "categorie_osm": "amenity=pub"
+    }
+  ],
+  "meta": {
+    "title": "Puburi din România - Descărcare gratuită",
+    "description": "Puburi din România — 598 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `amenity=pub`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează. Conține 598 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Puburi din România | ListBase",
+    "seo_description": "Descarcă Puburi din România — 598 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 598 înregistrări / 7 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "id": "ro-alba-licee",
+  "name": "Licee si colegii din judetul Alba",
+  "title": "Licee si colegii din judetul Alba",
+  "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Alba (36 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "COLEGIUL DE AFACERI ALBA IULIA",
+      "slug": "colegiul-de-afaceri-alba-iulia",
+      "judet": "ALBA",
+      "judet_slug": "alba"
+    },
+    {
+      "nume": "COLEGIUL ECONOMIC \"DIONISIE POP MARTIAN\" ALBA IULIA",
+      "slug": "colegiul-economic-dionisie-pop-martian-alba-iulia",
+      "judet": "ALBA",
+      "judet_slug": "alba"
+    },
+    {
+      "nume": "COLEGIUL LICEAL MILITAR \"MIHAI VITEAZUL\" ALBA IULIA",
+      "slug": "colegiul-liceal-militar-mihai-viteazul-alba-iulia",
+      "judet": "ALBA",
+      "judet_slug": "alba"
+    },
+    {
+      "nume": "COLEGIUL NATIONAL \"AVRAM IANCU\" CIMPENI",
+      "slug": "colegiul-national-avram-iancu-cimpeni",
+      "judet": "ALBA",
+      "judet_slug": "alba"
+    },
+    {
+      "nume": "COLEGIUL NATIONAL \"BETHLEN GABOR\" AIUD",
+      "slug": "colegiul-national-bethlen-gabor-aiud",
+      "judet": "ALBA",
+      "judet_slug": "alba"
+    },
+    {
+      "nume": "COLEGIUL NATIONAL \"DAVID PRODAN\" CUGIR",
+      "slug": "colegiul-national-david-prodan-cugir",
+      "judet": "ALBA",
+      "judet_slug": "alba"
+    },
+    {
+      "nume": "COLEGIUL NATIONAL \"HOREA CLOSCA SI CRISAN\" ALBA IULIA",
+      "slug": "colegiul-national-horea-closca-si-crisan-alba-iulia",
+      "judet": "ALBA",
+      "judet_slug": "alba"
+    },
+    {
+      "nume": "COLEGIUL NATIONAL \"INOCHENTIE MICU CLAIN\" BLAJ",
+      "slug": "colegiul-national-inochentie-micu-clain-blaj",
+      "judet": "ALBA",
+      "judet_slug": "alba"
+    },
+    {
+      "nume": "COLEGIUL NATIONAL \"LUCIAN BLAGA\" SEBEȘ",
+      "slug": "colegiul-national-lucian-blaga-sebes",
+      "judet": "ALBA",
+      "judet_slug": "alba"
+    },
+    {
+      "nume": "COLEGIUL NATIONAL \"TITU MAIORESCU\" AIUD",
+      "slug": "colegiul-national-titu-maiorescu-aiud",
+      "judet": "ALBA",
+      "judet_slug": "alba"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC AIUD",
+      "slug": "colegiul-tehnic-aiud",
+      "judet": "ALBA",
+      "judet_slug": "alba"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"ALEXANDRU DOMSA\" ALBA IULIA",
+      "slug": "colegiul-tehnic-alexandru-domsa-alba-iulia",
+      "judet": "ALBA",
+      "judet_slug": "alba"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"APULUM\" ALBA IULIA",
+      "slug": "colegiul-tehnic-apulum-alba-iulia",
+      "judet": "ALBA",
+      "judet_slug": "alba"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"DORIN PAVEL\" ALBA IULIA",
+      "slug": "colegiul-tehnic-dorin-pavel-alba-iulia",
+      "judet": "ALBA",
+      "judet_slug": "alba"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"I. D. LAZARESCU\" CUGIR",
+      "slug": "colegiul-tehnic-i-d-lazarescu-cugir",
+      "judet": "ALBA",
+      "judet_slug": "alba"
+    },
+    {
+      "nume": "LICEUL CU PROGRAM SPORTIV ALBA IULIA",
+      "slug": "liceul-cu-program-sportiv-alba-iulia",
+      "judet": "ALBA",
+      "judet_slug": "alba"
+    },
+    {
+      "nume": "LICEUL CU PROGRAM SPORTIV SEBEȘ",
+      "slug": "liceul-cu-program-sportiv-sebes",
+      "judet": "ALBA",
+      "judet_slug": "alba"
+    },
+    {
+      "nume": "LICEUL DE ARTE ALBA IULIA",
+      "slug": "liceul-de-arte-alba-iulia",
+      "judet": "ALBA",
+      "judet_slug": "alba"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC AGRICOL \"ALEXANDRU BORZA\" CIUMBRUD",
+      "slug": "liceul-tehnologic-agricol-alexandru-borza-ciumbrud",
+      "judet": "ALBA",
+      "judet_slug": "alba"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC DE TURISM SI ALIMENTATIE ARIESENI",
+      "slug": "liceul-tehnologic-de-turism-si-alimentatie-arieseni",
+      "judet": "ALBA",
+      "judet_slug": "alba"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC JIDVEI",
+      "slug": "liceul-tehnologic-jidvei",
+      "judet": "ALBA",
+      "judet_slug": "alba"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC OCNA MURES",
+      "slug": "liceul-tehnologic-ocna-mures",
+      "judet": "ALBA",
+      "judet_slug": "alba"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC SEBES",
+      "slug": "liceul-tehnologic-sebes",
+      "judet": "ALBA",
+      "judet_slug": "alba"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC SILVIC CIMPENI",
+      "slug": "liceul-tehnologic-silvic-cimpeni",
+      "judet": "ALBA",
+      "judet_slug": "alba"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"STEFAN MANCIULEA\" BLAJ",
+      "slug": "liceul-tehnologic-stefan-manciulea-blaj",
+      "judet": "ALBA",
+      "judet_slug": "alba"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"TARA MOTILOR\" ALBAC",
+      "slug": "liceul-tehnologic-tara-motilor-albac",
+      "judet": "ALBA",
+      "judet_slug": "alba"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"TIMOTEI CIPARIU\" BLAJ",
+      "slug": "liceul-tehnologic-timotei-cipariu-blaj",
+      "judet": "ALBA",
+      "judet_slug": "alba"
+    },
+    {
+      "nume": "LICEUL TEOLOGIC GRECO-CATOLIC \"SFANTUL VASILE CEL MARE\" BLAJ",
+      "slug": "liceul-teologic-greco-catolic-sfantul-vasile-cel-mare-blaj",
+      "judet": "ALBA",
+      "judet_slug": "alba"
+    },
+    {
+      "nume": "LICEUL TEOLOGIC ROMANO-CATOLIC \"GROF MAJLATH GUSZTAV KAROLY\" ALBA IULIA",
+      "slug": "liceul-teologic-romano-catolic-grof-majlath-gusztav-karoly-alba-iulia",
+      "judet": "ALBA",
+      "judet_slug": "alba"
+    },
+    {
+      "nume": "LICEUL TEORETIC TEIUS",
+      "slug": "liceul-teoretic-teius",
+      "judet": "ALBA",
+      "judet_slug": "alba"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"PETRU MAIOR\" OCNA MURES",
+      "slug": "liceul-teoretic-petru-maior-ocna-mures",
+      "judet": "ALBA",
+      "judet_slug": "alba"
+    },
+    {
+      "nume": "LICEUL \"CORNELIU MEDREA\" ZLATNA",
+      "slug": "liceul-corneliu-medrea-zlatna",
+      "judet": "ALBA",
+      "judet_slug": "alba"
+    },
+    {
+      "nume": "LICEUL \"DR. LAZAR CHIRILA\" BAIA DE ARIES",
+      "slug": "liceul-dr-lazar-chirila-baia-de-aries",
+      "judet": "ALBA",
+      "judet_slug": "alba"
+    },
+    {
+      "nume": "LICEUL \"HOREA, CLOSCA SI CRISAN\" ABRUD",
+      "slug": "liceul-horea-closca-si-crisan-abrud",
+      "judet": "ALBA",
+      "judet_slug": "alba"
+    },
+    {
+      "nume": "SCOALA \"SFANTUL IOSIF\" ALBA IULIA",
+      "slug": "scoala-sfantul-iosif-alba-iulia",
+      "judet": "ALBA",
+      "judet_slug": "alba"
+    },
+    {
+      "nume": "SEMINARUL TEOLOGIC ORTODOX \"SFANTUL SIMION STEFAN\" ALBA IULIA",
+      "slug": "seminarul-teologic-ortodox-sfantul-simion-stefan-alba-iulia",
+      "judet": "ALBA",
+      "judet_slug": "alba"
+    }
+  ],
+  "meta": {
+    "title": "Licee si colegii din judetul Alba - Descărcare gratuită",
+    "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Alba (36 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor. Conține 36 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Licee si colegii din judetul Alba | ListBase",
+    "seo_description": "Descarcă Licee si colegii din judetul Alba — 36 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 36 înregistrări / 4 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

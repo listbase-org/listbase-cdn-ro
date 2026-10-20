@@ -1,0 +1,2185 @@
+{
+  "id": "ro-castele",
+  "name": "Castele și cetăți din România",
+  "title": "Castele și cetăți din România",
+  "description": "Castele și cetăți din România — 236 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `historic=castle`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 236,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "latitudine",
+      "label": "Latitudine",
+      "type": "number"
+    },
+    {
+      "key": "longitudine",
+      "label": "Longitudine",
+      "type": "number"
+    },
+    {
+      "key": "cheie_osm",
+      "label": "Cheie Osm",
+      "type": "string"
+    },
+    {
+      "key": "valoare_osm",
+      "label": "Valoare Osm",
+      "type": "string"
+    },
+    {
+      "key": "categorie_osm",
+      "label": "Categorie Osm",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nume": "Angustia",
+      "latitudine": 46.050979,
+      "longitudine": 26.312808,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 2,
+      "nume": "Ansamblul castelului Wesselényi din Jibou",
+      "latitudine": 47.263107,
+      "longitudine": 23.25353,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 3,
+      "nume": "Ansamblul conacului Ştefan Bellu",
+      "latitudine": 44.187322,
+      "longitudine": 26.222276,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 4,
+      "nume": "Apulum",
+      "latitudine": 46.067573,
+      "longitudine": 23.572886,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 5,
+      "nume": "Apulum",
+      "latitudine": 46.067669,
+      "longitudine": 23.572206,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 6,
+      "nume": "Bay-kúria",
+      "latitudine": 47.408,
+      "longitudine": 21.9866,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 7,
+      "nume": "Biertan",
+      "latitudine": 46.135407,
+      "longitudine": 24.5212,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 8,
+      "nume": "Biserica fortificata Cisnădioara",
+      "latitudine": 45.702991,
+      "longitudine": 24.112145,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 9,
+      "nume": "Biserica fortificată din Movile",
+      "latitudine": 46.021405,
+      "longitudine": 24.791814,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 10,
+      "nume": "Biserica fortificată din Movile (St. Michael)",
+      "latitudine": 46.021475,
+      "longitudine": 24.791295,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 11,
+      "nume": "Biserica Fortificată din Vulcan",
+      "latitudine": 45.633288,
+      "longitudine": 25.421112,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 12,
+      "nume": "Béla vár",
+      "latitudine": 46.616735,
+      "longitudine": 22.296947,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 13,
+      "nume": "Casa Altemberger - Muzeul de Istorie",
+      "latitudine": 45.796884,
+      "longitudine": 24.149193,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 14,
+      "nume": "Casa Filipescu-Cesianu",
+      "latitudine": 44.450237,
+      "longitudine": 26.087103,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 15,
+      "nume": "Casa Maria Lahovary",
+      "latitudine": 44.448844,
+      "longitudine": 26.098595,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 16,
+      "nume": "Castel Scânteia",
+      "latitudine": 46.327829,
+      "longitudine": 21.405066,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 17,
+      "nume": "Castelul Apaffi",
+      "latitudine": 46.225233,
+      "longitudine": 24.577452,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 18,
+      "nume": "Castelul Apafi",
+      "latitudine": 45.934851,
+      "longitudine": 22.652324,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 19,
+      "nume": "Castelul Apafi",
+      "latitudine": 47.878018,
+      "longitudine": 24.026512,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 20,
+      "nume": "Castelul Apor",
+      "latitudine": 46.357162,
+      "longitudine": 24.381811,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 21,
+      "nume": "Castelul Banloc",
+      "latitudine": 45.387626,
+      "longitudine": 21.138193,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 22,
+      "nume": "Castelul Bernáth-Bujanovics",
+      "latitudine": 47.512501,
+      "longitudine": 22.141887,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 23,
+      "nume": "Castelul Bethlen",
+      "latitudine": 46.143046,
+      "longitudine": 24.692659,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 24,
+      "nume": "Castelul Bethlen",
+      "latitudine": 47.085449,
+      "longitudine": 24.35408,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 25,
+      "nume": "Castelul Bethlen-Haller",
+      "latitudine": 46.25566,
+      "longitudine": 24.173554,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 26,
+      "nume": "Castelul Bonyha",
+      "latitudine": 46.378587,
+      "longitudine": 24.483688,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 27,
+      "nume": "Castelul Bornemisza",
+      "latitudine": 45.934762,
+      "longitudine": 22.650887,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 28,
+      "nume": "Castelul Botești",
+      "latitudine": 46.180449,
+      "longitudine": 23.150183,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 29,
+      "nume": "Castelul Bran",
+      "latitudine": 45.515074,
+      "longitudine": 25.367024,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 30,
+      "nume": "Castelul Brukenthal",
+      "latitudine": 45.808809,
+      "longitudine": 24.815341,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 31,
+      "nume": "Castelul Brukenthal",
+      "latitudine": 45.80929,
+      "longitudine": 24.81557,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 32,
+      "nume": "Castelul Bálintitt",
+      "latitudine": 46.605512,
+      "longitudine": 24.643259,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 33,
+      "nume": "Castelul Bánffy",
+      "latitudine": 46.278836,
+      "longitudine": 23.857553,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 34,
+      "nume": "Castelul Bánffy",
+      "latitudine": 46.289528,
+      "longitudine": 23.739199,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 35,
+      "nume": "Castelul Bánffy",
+      "latitudine": 46.910253,
+      "longitudine": 23.810321,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 36,
+      "nume": "Castelul Bánffy",
+      "latitudine": 46.933405,
+      "longitudine": 23.65775,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 37,
+      "nume": "Castelul Bánffy",
+      "latitudine": 47.198493,
+      "longitudine": 22.705315,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 38,
+      "nume": "Castelul Bánffy în Răscruci",
+      "latitudine": 46.906471,
+      "longitudine": 23.774265,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 39,
+      "nume": "Castelul Béldi László",
+      "latitudine": 45.67179,
+      "longitudine": 25.804834,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 40,
+      "nume": "Castelul Béldy din Jibou",
+      "latitudine": 47.288002,
+      "longitudine": 23.239408,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 41,
+      "nume": "Castelul Cantacuzino",
+      "latitudine": 45.413923,
+      "longitudine": 25.542826,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 42,
+      "nume": "Castelul Cernovici",
+      "latitudine": 46.38443,
+      "longitudine": 21.310153,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 43,
+      "nume": "Castelul Corneni",
+      "latitudine": 47.073461,
+      "longitudine": 23.734996,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 44,
+      "nume": "Castelul Corvinilor",
+      "latitudine": 45.749113,
+      "longitudine": 22.88821,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 45,
+      "nume": "Castelul Crăiței Prutului",
+      "latitudine": 45.737922,
+      "longitudine": 28.168609,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 46,
+      "nume": "Castelul Daniel",
+      "latitudine": 46.119647,
+      "longitudine": 25.562723,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 47,
+      "nume": "Castelul de vanatoare Zichy",
+      "latitudine": 47.016048,
+      "longitudine": 22.518305,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 48,
+      "nume": "Castelul Degenfeld",
+      "latitudine": 46.466954,
+      "longitudine": 24.159281,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 49,
+      "nume": "Castelul Dietrich-Sukowsky - Consiliul Local Pâncota",
+      "latitudine": 46.324136,
+      "longitudine": 21.687555,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 50,
+      "nume": "Castelul Filipescu",
+      "latitudine": 45.221708,
+      "longitudine": 26.049234,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 51,
+      "nume": "Castelul Foișor",
+      "latitudine": 45.361291,
+      "longitudine": 25.5362,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 52,
+      "nume": "Castelul Grecilor",
+      "latitudine": 47.119522,
+      "longitudine": 27.596749,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 53,
+      "nume": "Castelul Grofului",
+      "latitudine": 47.564803,
+      "longitudine": 23.369151,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 54,
+      "nume": "Castelul Haller",
+      "latitudine": 46.447231,
+      "longitudine": 24.322697,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 55,
+      "nume": "Castelul Huniade",
+      "latitudine": 45.753098,
+      "longitudine": 21.227264,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 56,
+      "nume": "Castelul Josika",
+      "latitudine": 45.915055,
+      "longitudine": 22.771323,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 57,
+      "nume": "Castelul Jósika",
+      "latitudine": 46.499789,
+      "longitudine": 23.661905,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 58,
+      "nume": "Castelul Kemeny-Banffy",
+      "latitudine": 46.473496,
+      "longitudine": 23.951851,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 59,
+      "nume": "Castelul Kemény",
+      "latitudine": 46.181573,
+      "longitudine": 23.621236,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 60,
+      "nume": "Castelul Kemény",
+      "latitudine": 46.860646,
+      "longitudine": 23.791373,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 61,
+      "nume": "Castelul Kendy-Kemény",
+      "latitudine": 46.861161,
+      "longitudine": 24.767076,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 62,
+      "nume": "Castelul Kornis-Rákóczi-Bethlen",
+      "latitudine": 46.450277,
+      "longitudine": 24.246098,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 63,
+      "nume": "Castelul Kálnoky",
+      "latitudine": 46.010377,
+      "longitudine": 25.582163,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 64,
+      "nume": "Castelul Károlyi",
+      "latitudine": 47.683694,
+      "longitudine": 22.467216,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 65,
+      "nume": "Castelul Kövér-Appel",
+      "latitudine": 46.123848,
+      "longitudine": 21.379707,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 66,
+      "nume": "Castelul Lázár",
+      "latitudine": 47.076989,
+      "longitudine": 24.437905,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 67,
+      "nume": "Castelul Lăzarea",
+      "latitudine": 46.749244,
+      "longitudine": 25.53052,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 68,
+      "nume": "Castelul Magna Curia",
+      "latitudine": 45.886009,
+      "longitudine": 22.898389,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 69,
+      "nume": "Castelul Mariaffi",
+      "latitudine": 46.576819,
+      "longitudine": 24.601752,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 70,
+      "nume": "Castelul Mercy din Carani",
+      "latitudine": 45.913092,
+      "longitudine": 21.149662,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 71,
+      "nume": "Castelul Mikefalva",
+      "latitudine": 46.367676,
+      "longitudine": 24.41169,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 72,
+      "nume": "Castelul Mikes",
+      "latitudine": 45.89253,
+      "longitudine": 26.199062,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 73,
+      "nume": "Castelul Mikó",
+      "latitudine": 46.355786,
+      "longitudine": 25.802062,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 74,
+      "nume": "Castelul Mitropolitan",
+      "latitudine": 46.17373,
+      "longitudine": 23.920027,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 75,
+      "nume": "Castelul Mocioni",
+      "latitudine": 46.006508,
+      "longitudine": 22.105734,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 76,
+      "nume": "Castelul Peleș",
+      "latitudine": 45.360037,
+      "longitudine": 25.542767,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 77,
+      "nume": "Castelul Pelișor",
+      "latitudine": 45.360563,
+      "longitudine": 25.539208,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 78,
+      "nume": "Castelul Pocol",
+      "latitudine": 47.681122,
+      "longitudine": 23.511374,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 79,
+      "nume": "Castelul Posada",
+      "latitudine": 45.283089,
+      "longitudine": 25.619705,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 80,
+      "nume": "Castelul regal de la Săvârșin",
+      "latitudine": 46.015439,
+      "longitudine": 22.235678,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 81,
+      "nume": "Castelul Rhédey-Rothenthal",
+      "latitudine": 46.334123,
+      "longitudine": 24.356311,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 82,
+      "nume": "Castelul Rode",
+      "latitudine": 46.350982,
+      "longitudine": 24.617619,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 83,
+      "nume": "Castelul Szentmiklós",
+      "latitudine": 46.243925,
+      "longitudine": 24.063062,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 84,
+      "nume": "Castelul Szőkefalva",
+      "latitudine": 46.331529,
+      "longitudine": 24.328955,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 85,
+      "nume": "Castelul Sövényfalva",
+      "latitudine": 46.292921,
+      "longitudine": 24.2118,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 86,
+      "nume": "Castelul Teleki",
+      "latitudine": 46.393297,
+      "longitudine": 23.868215,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 87,
+      "nume": "Castelul Teleki",
+      "latitudine": 46.654095,
+      "longitudine": 24.609073,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 88,
+      "nume": "Castelul Teleki",
+      "latitudine": 46.669544,
+      "longitudine": 24.645412,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 89,
+      "nume": "Castelul Tholdy-Ujfalussy",
+      "latitudine": 47.704793,
+      "longitudine": 23.307856,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 90,
+      "nume": "Castelul Torockószentgyörgy",
+      "latitudine": 46.422764,
+      "longitudine": 23.560401,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 91,
+      "nume": "Castelul Turnu Roșu",
+      "latitudine": 45.627491,
+      "longitudine": 24.260792,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 92,
+      "nume": "Castelul Vecsey",
+      "latitudine": 47.862038,
+      "longitudine": 23.12522,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 93,
+      "nume": "Castelul Wass-Bánffy",
+      "latitudine": 46.756747,
+      "longitudine": 23.382468,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 94,
+      "nume": "Castelul Zichy",
+      "latitudine": 47.144567,
+      "longitudine": 22.380762,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 95,
+      "nume": "Castra Germisara",
+      "latitudine": 45.893907,
+      "longitudine": 23.190208,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 96,
+      "nume": "Castra Jidava",
+      "latitudine": 45.220664,
+      "longitudine": 25.012306,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 97,
+      "nume": "Castra of Buciumi",
+      "latitudine": 47.048282,
+      "longitudine": 23.044389,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 98,
+      "nume": "Castrul roman Cumidava",
+      "latitudine": 45.618728,
+      "longitudine": 25.441592,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 99,
+      "nume": "Castrul roman de la Bulci",
+      "latitudine": 45.997917,
+      "longitudine": 22.08812,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 100,
+      "nume": "Castrul roman de la Reci",
+      "latitudine": 45.844083,
+      "longitudine": 25.900103,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 101,
+      "nume": "Castrul roman de la Sfârleanca",
+      "latitudine": 45.091741,
+      "longitudine": 26.012875,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 102,
+      "nume": "Castrul roman de la Tihău",
+      "latitudine": 47.242652,
+      "longitudine": 23.3352,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 103,
+      "nume": "Castrul Roman Porolissum",
+      "latitudine": 47.179356,
+      "longitudine": 23.157192,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 104,
+      "nume": "Castrul Sucidava",
+      "latitudine": 43.764363,
+      "longitudine": 24.459111,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 105,
+      "nume": "Castrum Resculum",
+      "latitudine": 46.885612,
+      "longitudine": 22.884575,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 106,
+      "nume": "Cercul Militar Național",
+      "latitudine": 44.435078,
+      "longitudine": 26.097232,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 107,
+      "nume": "Cetatea Aiudului",
+      "latitudine": 46.309691,
+      "longitudine": 23.717585,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 108,
+      "nume": "Cetatea Aradului",
+      "latitudine": 46.171172,
+      "longitudine": 21.332049,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 109,
+      "nume": "Cetatea Ardani",
+      "latitudine": 47.032196,
+      "longitudine": 24.672206,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 110,
+      "nume": "Cetatea Ardud - Karoly",
+      "latitudine": 47.653927,
+      "longitudine": 22.887998,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 111,
+      "nume": "Cetatea Biharia",
+      "latitudine": 47.16772,
+      "longitudine": 21.924396,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 112,
+      "nume": "Cetatea Bálványos",
+      "latitudine": 46.11388,
+      "longitudine": 25.965235,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 113,
+      "nume": "Cetatea Báthory",
+      "latitudine": 47.230791,
+      "longitudine": 22.799246,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 114,
+      "nume": "Cetatea Colț",
+      "latitudine": 45.47814,
+      "longitudine": 22.874368,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 115,
+      "nume": "Cetatea dacică Bănița",
+      "latitudine": 45.451691,
+      "longitudine": 23.313306,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 116,
+      "nume": "Cetatea Dacică Costești-Blidaru",
+      "latitudine": 45.667747,
+      "longitudine": 23.162921,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 117,
+      "nume": "Cetatea de Scaun a Sucevei",
+      "latitudine": 47.644876,
+      "longitudine": 26.270416,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 118,
+      "nume": "Cetatea Devei",
+      "latitudine": 45.888743,
+      "longitudine": 22.897455,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 119,
+      "nume": "Cetatea din Câlnic",
+      "latitudine": 45.88907,
+      "longitudine": 23.660365,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 120,
+      "nume": "Cetatea din Slimnic",
+      "latitudine": 45.919648,
+      "longitudine": 24.158907,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 121,
+      "nume": "Cetatea Dobromir",
+      "latitudine": 44.018633,
+      "longitudine": 27.781137,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 122,
+      "nume": "Cetatea Drencova",
+      "latitudine": 44.635443,
+      "longitudine": 21.975165,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 123,
+      "nume": "Cetatea Enisala",
+      "latitudine": 44.883796,
+      "longitudine": 28.835212,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 124,
+      "nume": "Cetatea Feldioara",
+      "latitudine": 45.820236,
+      "longitudine": 25.606024,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 125,
+      "nume": "Cetatea Finiş",
+      "latitudine": 46.616829,
+      "longitudine": 22.296898,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 126,
+      "nume": "Cetatea Firtos",
+      "latitudine": 46.449922,
+      "longitudine": 25.14388,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 127,
+      "nume": "Cetatea Făgărașului",
+      "latitudine": 45.845209,
+      "longitudine": 24.973788,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 128,
+      "nume": "Cetatea Giurgiu",
+      "latitudine": 43.883681,
+      "longitudine": 25.961711,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 129,
+      "nume": "Cetatea Giurgiului",
+      "latitudine": 43.883932,
+      "longitudine": 25.96161,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 130,
+      "nume": "Cetatea Grădețului",
+      "latitudine": 44.756779,
+      "longitudine": 22.62714,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 131,
+      "nume": "Cetatea Husarilor",
+      "latitudine": 45.750376,
+      "longitudine": 22.888264,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 132,
+      "nume": "Cetatea Ika",
+      "latitudine": 45.992301,
+      "longitudine": 25.992792,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 133,
+      "nume": "Cetatea Jdioara",
+      "latitudine": 45.628322,
+      "longitudine": 22.118157,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 134,
+      "nume": "Cetatea medievală",
+      "latitudine": 46.54721,
+      "longitudine": 24.56671,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 135,
+      "nume": "Cetatea Neamțului",
+      "latitudine": 47.214522,
+      "longitudine": 26.343481,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 136,
+      "nume": "Cetatea Oradea",
+      "latitudine": 47.051651,
+      "longitudine": 21.942713,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 137,
+      "nume": "Cetatea Pinticu",
+      "latitudine": 46.954939,
+      "longitudine": 24.555755,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 138,
+      "nume": "Cetatea Poenari",
+      "latitudine": 45.353898,
+      "longitudine": 24.635235,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 139,
+      "nume": "Cetatea romană Adamclisi",
+      "latitudine": 44.09245,
+      "longitudine": 27.943598,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 140,
+      "nume": "Cetatea Rupea",
+      "latitudine": 46.037291,
+      "longitudine": 25.212366,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 141,
+      "nume": "Cetatea Râșnov",
+      "latitudine": 45.590578,
+      "longitudine": 25.46917,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 142,
+      "nume": "Cetatea Sighișoara",
+      "latitudine": 46.219857,
+      "longitudine": 24.792469,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 143,
+      "nume": "Cetatea Trascăului",
+      "latitudine": 46.425008,
+      "longitudine": 23.544266,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 144,
+      "nume": "Cetatea Șiria",
+      "latitudine": 46.266716,
+      "longitudine": 21.657069,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 145,
+      "nume": "Cetățuia Brașovului",
+      "latitudine": 45.64929,
+      "longitudine": 25.592031,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 146,
+      "nume": "Clădirea Principală",
+      "latitudine": 46.910469,
+      "longitudine": 23.810202,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 147,
+      "nume": "Conacul Apafi",
+      "latitudine": 46.109263,
+      "longitudine": 24.646644,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 148,
+      "nume": "Conacul Apor",
+      "latitudine": 46.029781,
+      "longitudine": 26.060474,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 149,
+      "nume": "Conacul Borza (1870)",
+      "latitudine": 46.106008,
+      "longitudine": 21.996181,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 150,
+      "nume": "Conacul Brâncoveanu",
+      "latitudine": 45.765076,
+      "longitudine": 24.817986,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 151,
+      "nume": "Conacul Béldi-Mikes",
+      "latitudine": 45.798153,
+      "longitudine": 25.84578,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 152,
+      "nume": "Conacul Deigenfield",
+      "latitudine": 47.403303,
+      "longitudine": 23.025699,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 153,
+      "nume": "conacul din Herendești",
+      "latitudine": 45.650021,
+      "longitudine": 21.856283,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 154,
+      "nume": "Conacul Ghica",
+      "latitudine": 44.638767,
+      "longitudine": 25.724323,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 155,
+      "nume": "Conacul Gidófalvy",
+      "latitudine": 45.794099,
+      "longitudine": 25.841148,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 156,
+      "nume": "Conacul Gáldtő",
+      "latitudine": 46.138578,
+      "longitudine": 23.662053,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 157,
+      "nume": "Conacul Herepe",
+      "latitudine": 46.081156,
+      "longitudine": 23.669654,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 158,
+      "nume": "Conacul Lészai",
+      "latitudine": 46.828062,
+      "longitudine": 23.412855,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 159,
+      "nume": "Conacul Mezőtóhát",
+      "latitudine": 46.579584,
+      "longitudine": 24.085597,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 160,
+      "nume": "Conacul Mikes Szentkereszty",
+      "latitudine": 45.768693,
+      "longitudine": 26.109909,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 161,
+      "nume": "Conacul Mocioni din Foeni",
+      "latitudine": 45.499824,
+      "longitudine": 20.870472,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 162,
+      "nume": "Conacul Perky",
+      "latitudine": 46.331839,
+      "longitudine": 24.284352,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 163,
+      "nume": "Conacul San Marco",
+      "latitudine": 45.890821,
+      "longitudine": 20.628256,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 164,
+      "nume": "Conacul Szentiványi",
+      "latitudine": 46.905385,
+      "longitudine": 23.09778,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 165,
+      "nume": "Conacul Temesváry",
+      "latitudine": 45.795575,
+      "longitudine": 25.845981,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 166,
+      "nume": "Conacul Toma Cantacuzino - sec XVII",
+      "latitudine": 45.180976,
+      "longitudine": 25.66693,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 167,
+      "nume": "Conacul Ugron",
+      "latitudine": 46.234993,
+      "longitudine": 25.391422,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 168,
+      "nume": "Conacul „Ujvárossy-Ágoston”",
+      "latitudine": 45.794009,
+      "longitudine": 25.848213,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 169,
+      "nume": "Cuhnie",
+      "latitudine": 44.528159,
+      "longitudine": 25.993512,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 170,
+      "nume": "Curtea Boiereasca Potlogeni",
+      "latitudine": 43.885538,
+      "longitudine": 24.619422,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 171,
+      "nume": "Donjonul Cheresig",
+      "latitudine": 47.043521,
+      "longitudine": 21.667866,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 172,
+      "nume": "Eördögh-kastély",
+      "latitudine": 47.547677,
+      "longitudine": 22.02472,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 173,
+      "nume": "Ghețărie",
+      "latitudine": 44.528223,
+      "longitudine": 25.992546,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 174,
+      "nume": "Grand Hotel Continental",
+      "latitudine": 44.43705,
+      "longitudine": 26.09823,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 175,
+      "nume": "Melik",
+      "latitudine": 47.81177,
+      "longitudine": 26.664271,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 176,
+      "nume": "Nashpa's Crib",
+      "latitudine": 47.067403,
+      "longitudine": 27.655489,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 177,
+      "nume": "Nemes-kastély",
+      "latitudine": 45.83742,
+      "longitudine": 25.585169,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 178,
+      "nume": "Palatul Administrativ",
+      "latitudine": 46.5642,
+      "longitudine": 26.911509,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 179,
+      "nume": "Palatul Bragadiru",
+      "latitudine": 44.421538,
+      "longitudine": 26.087197,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 180,
+      "nume": "Palatul Brukenthal",
+      "latitudine": 45.796354,
+      "longitudine": 24.150329,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 181,
+      "nume": "Palatul Bursei de Valori",
+      "latitudine": 44.43356,
+      "longitudine": 26.100644,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 182,
+      "nume": "Palatul Băncii Marmorosch Blank",
+      "latitudine": 44.433677,
+      "longitudine": 26.098904,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 183,
+      "nume": "Palatul Cantacuzino (Micul Trianon)",
+      "latitudine": 45.029261,
+      "longitudine": 25.793306,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 184,
+      "nume": "Palatul Cotroceni",
+      "latitudine": 44.434047,
+      "longitudine": 26.061849,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 185,
+      "nume": "Palatul Crețulescu",
+      "latitudine": 44.439547,
+      "longitudine": 26.08874,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 186,
+      "nume": "Palatul Culturii",
+      "latitudine": 47.157462,
+      "longitudine": 27.586883,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 187,
+      "nume": "Palatul Elisabeta",
+      "latitudine": 44.470703,
+      "longitudine": 26.079347,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 188,
+      "nume": "Palatul Füchsl",
+      "latitudine": 47.05422,
+      "longitudine": 21.932424,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 189,
+      "nume": "Palatul Generala",
+      "latitudine": 44.434343,
+      "longitudine": 26.100894,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 190,
+      "nume": "Palatul Gheorghe Pleșa",
+      "latitudine": 44.172873,
+      "longitudine": 22.980769,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 191,
+      "nume": "Palatul Mogoșoaia",
+      "latitudine": 44.527654,
+      "longitudine": 25.992653,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 192,
+      "nume": "Palatul Neumann",
+      "latitudine": 46.175443,
+      "longitudine": 21.317093,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 193,
+      "nume": "Palatul Nifon Mitropolitul",
+      "latitudine": 44.434291,
+      "longitudine": 26.098606,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 194,
+      "nume": "Palatul Noblesse",
+      "latitudine": 44.435609,
+      "longitudine": 26.107903,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 195,
+      "nume": "Palatul Nunțiaturii Apostolice a Sfântului Scaun din București",
+      "latitudine": 44.439152,
+      "longitudine": 26.085954,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 196,
+      "nume": "Palatul Oștirii din Iași",
+      "latitudine": 47.180893,
+      "longitudine": 27.565485,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 197,
+      "nume": "Palatul Patriarhiei",
+      "latitudine": 44.424172,
+      "longitudine": 26.097932,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 198,
+      "nume": "Palatul Princia Bethlen",
+      "latitudine": 46.310018,
+      "longitudine": 23.717712,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 199,
+      "nume": "Palatul Princiar",
+      "latitudine": 46.067031,
+      "longitudine": 23.570664,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 200,
+      "nume": "Palatul Regal",
+      "latitudine": 44.43943,
+      "longitudine": 26.095997,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 201,
+      "nume": "Palatul Romanit",
+      "latitudine": 44.444681,
+      "longitudine": 26.091247,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 202,
+      "nume": "Palatul Ruginoasa",
+      "latitudine": 47.24371,
+      "longitudine": 26.845736,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 203,
+      "nume": "Palatul Scroviștea",
+      "latitudine": 44.721643,
+      "longitudine": 26.050876,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 204,
+      "nume": "Palatul Societății Creditul Rural",
+      "latitudine": 44.433425,
+      "longitudine": 26.102843,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 205,
+      "nume": "Palatul Societății de Asigurări „Naționala”",
+      "latitudine": 44.432951,
+      "longitudine": 26.100752,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 206,
+      "nume": "Palatul Sturdza",
+      "latitudine": 47.150518,
+      "longitudine": 27.237148,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 207,
+      "nume": "Palatul Suțu",
+      "latitudine": 44.43476,
+      "longitudine": 26.102239,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 208,
+      "nume": "Palatul Ullmann",
+      "latitudine": 47.052213,
+      "longitudine": 21.933653,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 209,
+      "nume": "Palatul Știrbei",
+      "latitudine": 44.443758,
+      "longitudine": 26.091817,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 210,
+      "nume": "Pekry-Radák kastély",
+      "latitudine": 46.355928,
+      "longitudine": 24.113243,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 211,
+      "nume": "Prințesele lui Tata",
+      "latitudine": 44.449255,
+      "longitudine": 26.08624,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 212,
+      "nume": "Rapsóné vára",
+      "latitudine": 46.584088,
+      "longitudine": 25.188595,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 213,
+      "nume": "Reședința Patriarhului",
+      "latitudine": 44.424431,
+      "longitudine": 26.097296,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 214,
+      "nume": "Ruina Castelului Martinuzzi",
+      "latitudine": 45.997069,
+      "longitudine": 23.478712,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 215,
+      "nume": "Ruinele Castelului Huszar",
+      "latitudine": 46.752844,
+      "longitudine": 24.692077,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 216,
+      "nume": "Ruinele cetății Székely Támadt",
+      "latitudine": 46.305778,
+      "longitudine": 25.296214,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 217,
+      "nume": "Samum",
+      "latitudine": 47.186233,
+      "longitudine": 23.837625,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 218,
+      "nume": "Sólyom vára",
+      "latitudine": 46.654096,
+      "longitudine": 22.110617,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 219,
+      "nume": "Sükösd-Bethlen",
+      "latitudine": 46.02358,
+      "longitudine": 25.408341,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 220,
+      "nume": "Teleki-kastély",
+      "latitudine": 47.600342,
+      "longitudine": 23.522854,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 221,
+      "nume": "Tisza-kastély",
+      "latitudine": 46.883553,
+      "longitudine": 21.578763,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 222,
+      "nume": "Turnul Alb",
+      "latitudine": 45.642861,
+      "longitudine": 25.586471,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 223,
+      "nume": "Turnul Negru",
+      "latitudine": 45.641274,
+      "longitudine": 25.585638,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 224,
+      "nume": "Ugron Castle",
+      "latitudine": 46.269365,
+      "longitudine": 25.012377,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 225,
+      "nume": "Vila d' Elchingen",
+      "latitudine": 44.527537,
+      "longitudine": 25.993609,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 226,
+      "nume": "Vila Filipescu-Brâncoveanu",
+      "latitudine": 44.456887,
+      "longitudine": 26.086896,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 227,
+      "nume": "Vila regală din Mamaia",
+      "latitudine": 44.238371,
+      "longitudine": 28.623367,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 228,
+      "nume": "Vécsey kastély",
+      "latitudine": 47.862235,
+      "longitudine": 23.125202,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 229,
+      "nume": "Wenckheim-Almássy-kastély",
+      "latitudine": 46.642696,
+      "longitudine": 21.340343,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 230,
+      "nume": "Zid fortificat",
+      "latitudine": 46.054859,
+      "longitudine": 25.088542,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 231,
+      "nume": "Șoimoș",
+      "latitudine": 46.108802,
+      "longitudine": 21.723198,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 232,
+      "nume": "Баба Вида",
+      "latitudine": 43.99304,
+      "longitudine": 22.886471,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 233,
+      "nume": "Голубачки Град",
+      "latitudine": 44.661177,
+      "longitudine": 21.678216,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 234,
+      "nume": "Секрет",
+      "latitudine": 47.950677,
+      "longitudine": 25.806682,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 235,
+      "nume": "Сексагинта Приста",
+      "latitudine": 43.845901,
+      "longitudine": 25.94486,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    },
+    {
+      "id": 236,
+      "nume": "Тврђава Фетислам",
+      "latitudine": 44.615928,
+      "longitudine": 22.602211,
+      "cheie_osm": "historic",
+      "valoare_osm": "castle",
+      "categorie_osm": "historic=castle"
+    }
+  ],
+  "meta": {
+    "title": "Castele și cetăți din România - Descărcare gratuită",
+    "description": "Castele și cetăți din România — 236 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `historic=castle`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează. Conține 236 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Castele și cetăți din România | ListBase",
+    "seo_description": "Descarcă Castele și cetăți din România — 236 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 236 înregistrări / 7 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

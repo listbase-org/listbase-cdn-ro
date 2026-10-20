@@ -1,0 +1,152 @@
+{
+  "id": "ro-nume-de-familie",
+  "name": "Ro Nume De Familie",
+  "title": "Ro Nume De Familie",
+  "description": "Top-12 cele mai frecvente nume de familie din România",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "name_group",
+      "label": "Name Group",
+      "type": "string"
+    },
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "localized",
+      "label": "Localized",
+      "type": "string"
+    },
+    {
+      "key": "romanized",
+      "label": "Romanized",
+      "type": "string"
+    },
+    {
+      "key": "count",
+      "label": "Count",
+      "type": "string"
+    },
+    {
+      "key": "percent",
+      "label": "Percent",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_group": "RO-1",
+      "rank": 1,
+      "localized": "Popa",
+      "romanized": "Popa",
+      "count": "",
+      "percent": ""
+    },
+    {
+      "name_group": "RO-2",
+      "rank": 2,
+      "localized": "Popescu",
+      "romanized": "Popescu",
+      "count": "",
+      "percent": ""
+    },
+    {
+      "name_group": "RO-3",
+      "rank": 3,
+      "localized": "Pop",
+      "romanized": "Pop",
+      "count": "",
+      "percent": ""
+    },
+    {
+      "name_group": "RO-4",
+      "rank": 4,
+      "localized": "Radu",
+      "romanized": "Radu",
+      "count": "",
+      "percent": ""
+    },
+    {
+      "name_group": "RO-5",
+      "rank": 5,
+      "localized": "Dumitru",
+      "romanized": "Dumitru",
+      "count": "",
+      "percent": ""
+    },
+    {
+      "name_group": "RO-6",
+      "rank": 6,
+      "localized": "Stan",
+      "romanized": "Stan",
+      "count": "",
+      "percent": ""
+    },
+    {
+      "name_group": "RO-7",
+      "rank": 7,
+      "localized": "Stoica",
+      "romanized": "Stoica",
+      "count": "",
+      "percent": ""
+    },
+    {
+      "name_group": "RO-8",
+      "rank": 8,
+      "localized": "Gheorghe",
+      "romanized": "Gheorghe",
+      "count": "",
+      "percent": ""
+    },
+    {
+      "name_group": "RO-9",
+      "rank": 9,
+      "localized": "Matei",
+      "romanized": "Matei",
+      "count": "",
+      "percent": ""
+    },
+    {
+      "name_group": "RO-10",
+      "rank": 10,
+      "localized": "Ciobanu",
+      "romanized": "Ciobanu",
+      "count": "",
+      "percent": ""
+    },
+    {
+      "name_group": "RO-11",
+      "rank": 11,
+      "localized": "Ionescu",
+      "romanized": "Ionescu",
+      "count": "",
+      "percent": ""
+    },
+    {
+      "name_group": "RO-12",
+      "rank": 12,
+      "localized": "Rusu",
+      "romanized": "Rusu",
+      "count": "",
+      "percent": ""
+    }
+  ],
+  "meta": {
+    "title": "Ro Nume De Familie - Descărcare gratuită",
+    "description": "Top-12 cele mai frecvente nume de familie din România Conține 12 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Ro Nume De Familie | ListBase",
+    "seo_description": "Descarcă Ro Nume De Familie — 12 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 12 înregistrări / 6 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

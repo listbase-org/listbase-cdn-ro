@@ -1,0 +1,341 @@
+{
+  "id": "ro-salaj-unlocode",
+  "name": "Coduri UN/LOCODE — judeţul Sălaj (porturi, aeroporturi, terminale)",
+  "title": "Coduri UN/LOCODE — judeţul Sălaj (porturi, aeroporturi, terminale)",
+  "description": "Cele 8 locaţii UN/LOCODE din judeţul Sălaj, România — cod LOCODE, denumire, funcţii de transport, status şi coordonate.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "locode",
+      "label": "Locode",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_wo_diacritics",
+      "label": "Name Wo Diacritics",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_code",
+      "label": "Subdivision Code",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_name",
+      "label": "Subdivision Name",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_type",
+      "label": "Subdivision Type",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "status_description",
+      "label": "Status Description",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function",
+      "type": "string"
+    },
+    {
+      "key": "functions",
+      "label": "Functions",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "date_updated",
+      "label": "Date Updated",
+      "type": "string"
+    },
+    {
+      "key": "remarks",
+      "label": "Remarks",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet_name",
+      "label": "Judet Name",
+      "type": "string"
+    },
+    {
+      "key": "judet_source",
+      "label": "Judet Source",
+      "type": "string"
+    },
+    {
+      "key": "judet_alternativ_siruta",
+      "label": "Judet Alternativ Siruta",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "locode": "ROBOB",
+      "country": "RO",
+      "location": "BOB",
+      "name": "Bobota",
+      "name_wo_diacritics": "Bobota",
+      "subdivision_code": "",
+      "subdivision_name": "",
+      "subdivision_type": "",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-23-----",
+      "functions": "Rail transport, Road transport",
+      "iata": "",
+      "coordinates": "",
+      "latitude": "",
+      "longitude": "",
+      "date_updated": "2006-01",
+      "remarks": "",
+      "judet_slug": "salaj",
+      "judet_name": "Sălaj",
+      "judet_source": "derived_name_join",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 2,
+      "locode": "ROHID",
+      "country": "RO",
+      "location": "HID",
+      "name": "Hida",
+      "name_wo_diacritics": "Hida",
+      "subdivision_code": "SJ",
+      "subdivision_name": "Sălaj",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4703N 02318E",
+      "latitude": 47.05,
+      "longitude": 23.3,
+      "date_updated": "2002-07",
+      "remarks": "",
+      "judet_slug": "salaj",
+      "judet_name": "Sălaj",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 3,
+      "locode": "ROJB9",
+      "country": "RO",
+      "location": "JB9",
+      "name": "Jibou",
+      "name_wo_diacritics": "Jibou",
+      "subdivision_code": "SJ",
+      "subdivision_name": "Sălaj",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4716N 02315E",
+      "latitude": 47.2667,
+      "longitude": 23.25,
+      "date_updated": "2016-07",
+      "remarks": "",
+      "judet_slug": "salaj",
+      "judet_name": "Sălaj",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 4,
+      "locode": "ROPAN",
+      "country": "RO",
+      "location": "PAN",
+      "name": "Panic",
+      "name_wo_diacritics": "Panic",
+      "subdivision_code": "SJ",
+      "subdivision_name": "Sălaj",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4712N 02300E",
+      "latitude": 47.2,
+      "longitude": 23,
+      "date_updated": "2004-07",
+      "remarks": "",
+      "judet_slug": "salaj",
+      "judet_name": "Sălaj",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 5,
+      "locode": "ROSMG",
+      "country": "RO",
+      "location": "SMG",
+      "name": "Sarmasag",
+      "name_wo_diacritics": "Sarmasag",
+      "subdivision_code": "SJ",
+      "subdivision_name": "Sălaj",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4721N 02250E",
+      "latitude": 47.35,
+      "longitude": 22.8333,
+      "date_updated": "2012-07",
+      "remarks": "",
+      "judet_slug": "salaj",
+      "judet_name": "Sălaj",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 6,
+      "locode": "ROSJS",
+      "country": "RO",
+      "location": "SJS",
+      "name": "Simleu Silvaniei",
+      "name_wo_diacritics": "Simleu Silvaniei",
+      "subdivision_code": "SJ",
+      "subdivision_name": "Sălaj",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "",
+      "latitude": "",
+      "longitude": "",
+      "date_updated": "2011-01",
+      "remarks": "",
+      "judet_slug": "salaj",
+      "judet_name": "Sălaj",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 7,
+      "locode": "ROVAO",
+      "country": "RO",
+      "location": "VAO",
+      "name": "Varsolt",
+      "name_wo_diacritics": "Varsolt",
+      "subdivision_code": "SJ",
+      "subdivision_name": "Sălaj",
+      "subdivision_type": "Departments",
+      "status": "AM",
+      "status_description": "Approved by the UN/LOCODE Maintenance Agency",
+      "function": "-23-----",
+      "functions": "Rail transport, Road transport",
+      "iata": "",
+      "coordinates": "4712N 02255E",
+      "latitude": 47.2,
+      "longitude": 22.9167,
+      "date_updated": "2022-07",
+      "remarks": "",
+      "judet_slug": "salaj",
+      "judet_name": "Sălaj",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 8,
+      "locode": "ROZAU",
+      "country": "RO",
+      "location": "ZAU",
+      "name": "Zalau",
+      "name_wo_diacritics": "Zalau",
+      "subdivision_code": "SJ",
+      "subdivision_name": "Sălaj",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-23-----",
+      "functions": "Rail transport, Road transport",
+      "iata": "",
+      "coordinates": "4712N 02303E",
+      "latitude": 47.2,
+      "longitude": 23.05,
+      "date_updated": "2004-07",
+      "remarks": "",
+      "judet_slug": "salaj",
+      "judet_name": "Sălaj",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    }
+  ],
+  "meta": {
+    "title": "Coduri UN/LOCODE — judeţul Sălaj (porturi, aeroporturi, terminale) - Descărcare gratuită",
+    "description": "Cele 8 locaţii UN/LOCODE din judeţul Sălaj, România — cod LOCODE, denumire, funcţii de transport, status şi coordonate. Conține 8 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Coduri UN/LOCODE — judeţul Sălaj (porturi, aeroporturi, terminale) | ListBase",
+    "seo_description": "Descarcă Coduri UN/LOCODE — judeţul Sălaj (porturi, aeroporturi, terminale) — 8 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 8 înregistrări / 23 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

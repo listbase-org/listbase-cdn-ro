@@ -1,0 +1,334 @@
+{
+  "id": "ro-prahova-licee",
+  "name": "Licee si colegii din judetul Prahova",
+  "title": "Licee si colegii din judetul Prahova",
+  "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Prahova (48 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 48,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "COLEGIUL AGRICOL \"GHEORGHE IONESCU SISEŞTI\" VALEA CĂLUGĂREASCĂ",
+      "slug": "colegiul-agricol-gheorghe-ionescu-sisesti-valea-calugareasca",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "COLEGIUL DE ARTĂ \"CARMEN SYLVA\" PLOIEŞTI",
+      "slug": "colegiul-de-arta-carmen-sylva-ploiesti",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "COLEGIUL ECONOMIC \"VIRGIL MADGEARU\" PLOIEȘTI",
+      "slug": "colegiul-economic-virgil-madgearu-ploiesti",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL MILITAR \" DIMITRIE CANTEMIR\" BREAZA",
+      "slug": "colegiul-national-militar-dimitrie-cantemir-breaza",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"ALEXANDRU IOAN CUZA\" PLOIEȘTI",
+      "slug": "colegiul-national-alexandru-ioan-cuza-ploiesti",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"ION LUCA CARAGIALE PLOIEȘTI\"",
+      "slug": "colegiul-national-ion-luca-caragiale-ploiesti",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"JEAN MONNET\" PLOIEȘTI",
+      "slug": "colegiul-national-jean-monnet-ploiesti",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"MIHAI VITEAZUL\" PLOIEȘTI",
+      "slug": "colegiul-national-mihai-viteazul-ploiesti",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"MIHAIL CANTACUZINO\" SINAIA",
+      "slug": "colegiul-national-mihail-cantacuzino-sinaia",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"NICHITA STĂNESCU\" PLOIEȘTI",
+      "slug": "colegiul-national-nichita-stanescu-ploiesti",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"NICOLAE GRIGORESCU\" CÂMPINA",
+      "slug": "colegiul-national-nicolae-grigorescu-campina",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"NICOLAE IORGA\" VĂLENII DE MUNTE",
+      "slug": "colegiul-national-nicolae-iorga-valenii-de-munte",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC FORESTIER CÂMPINA",
+      "slug": "colegiul-tehnic-forestier-campina",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"CONSTANTIN ISTRATI\" CÂMPINA",
+      "slug": "colegiul-tehnic-constantin-istrati-campina",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"ELIE RADU\" PLOIEŞTI",
+      "slug": "colegiul-tehnic-elie-radu-ploiesti",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"GHEOGHE LAZĂR\" PLOPENI",
+      "slug": "colegiul-tehnic-gheoghe-lazar-plopeni",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"LAZĂR EDELEAN\" PLOIEŞTI",
+      "slug": "colegiul-tehnic-lazar-edelean-ploiesti",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"TOMA N. SOCOLESCU\" PLOIEȘTI",
+      "slug": "colegiul-tehnic-toma-n-socolescu-ploiesti",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "COLEGIUL TEHNOLOGIC ENERGETIC CÂMPINA",
+      "slug": "colegiul-tehnologic-energetic-campina",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "COLEGIUL \"ION KALINDERU\" BUŞTENI",
+      "slug": "colegiul-ion-kalinderu-busteni",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "COLEGIUL \"SPIRU HARET\" PLOIEŞTI",
+      "slug": "colegiul-spiru-haret-ploiesti",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "LICEUL TEHNIC CIORANII DE JOS",
+      "slug": "liceul-tehnic-cioranii-de-jos",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC 1 MAI PLOIEŞTI",
+      "slug": "liceul-tehnologic-1-mai-ploiesti",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC ADMINISTRATIV ŞI DE SERVICII \"VICTOR SLĂVESCU\" PLOIEŞTI",
+      "slug": "liceul-tehnologic-administrativ-si-de-servicii-victor-slavescu-ploiesti",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC AGROMONTAN \"ROMEO CONSTANTINESCU\" VĂLENII DE MUNTE",
+      "slug": "liceul-tehnologic-agromontan-romeo-constantinescu-valenii-de-munte",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC BĂRCĂNEȘTI",
+      "slug": "liceul-tehnologic-barcanesti",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC DE SERVICII \"SFÂNTUL APOSTOL ANDREI\" PLOIEŞTI",
+      "slug": "liceul-tehnologic-de-servicii-sfantul-apostol-andrei-ploiesti",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC DE TRANSPORTURI PLOIEŞTI",
+      "slug": "liceul-tehnologic-de-transporturi-ploiesti",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC MECANIC CÂMPINA",
+      "slug": "liceul-tehnologic-mecanic-campina",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC STARCHIOJD",
+      "slug": "liceul-tehnologic-starchiojd",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"ANGHEL SALIGNY\" PLOIEŞTI",
+      "slug": "liceul-tehnologic-anghel-saligny-ploiesti",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"CAROL I\" VALEA DOFTANEI",
+      "slug": "liceul-tehnologic-carol-i-valea-doftanei",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"CONSTANTIN CANTACUZINO\" BĂICOI",
+      "slug": "liceul-tehnologic-constantin-cantacuzino-baicoi",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"LUDOVIC MRAZEK\" PLOIEŞTI",
+      "slug": "liceul-tehnologic-ludovic-mrazek-ploiesti",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"TASE DUMITRESCU\" MIZIL",
+      "slug": "liceul-tehnologic-tase-dumitrescu-mizil",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"TEODOR DIAMANT\" BOLDEŞTI",
+      "slug": "liceul-tehnologic-teodor-diamant-boldesti",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC, COMUNA BĂLŢEŞTI",
+      "slug": "liceul-tehnologic-comuna-baltesti",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC, COMUNA CERAȘU",
+      "slug": "liceul-tehnologic-comuna-cerasu",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC, COMUNA SÂNGERU",
+      "slug": "liceul-tehnologic-comuna-sangeru",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC, FILIPEŞTII DE PĂDURE",
+      "slug": "liceul-tehnologic-filipestii-de-padure",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC, SAT GHEABA, MĂNECIU",
+      "slug": "liceul-tehnologic-sat-gheaba-maneciu",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "LICEUL TEORETIC AZUGA",
+      "slug": "liceul-teoretic-azuga",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "LICEUL TEORETIC FILIPEŞTII DE PĂDURE",
+      "slug": "liceul-teoretic-filipestii-de-padure",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"AUREL VLAICU\" BREAZA",
+      "slug": "liceul-teoretic-aurel-vlaicu-breaza",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"BRÂNCOVEANU VODĂ\" URLAŢI",
+      "slug": "liceul-teoretic-brancoveanu-voda-urlati",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"GRIGORE TOCILESCU\" MIZIL",
+      "slug": "liceul-teoretic-grigore-tocilescu-mizil",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"SERBAN VODĂ\" SLĂNIC",
+      "slug": "liceul-teoretic-serban-voda-slanic",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"SIMION STOLONICU\" COMARNIC",
+      "slug": "liceul-teoretic-simion-stolonicu-comarnic",
+      "judet": "PRAHOVA",
+      "judet_slug": "prahova"
+    }
+  ],
+  "meta": {
+    "title": "Licee si colegii din judetul Prahova - Descărcare gratuită",
+    "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Prahova (48 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor. Conține 48 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Licee si colegii din judetul Prahova | ListBase",
+    "seo_description": "Descarcă Licee si colegii din judetul Prahova — 48 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 48 înregistrări / 4 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "id": "ro-olt-licee",
+  "name": "Licee si colegii din judetul Olt",
+  "title": "Licee si colegii din judetul Olt",
+  "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Olt (31 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "COLEGIUL AGRICOL \"DIMITRIE PETRESCU\"",
+      "slug": "colegiul-agricol-dimitrie-petrescu",
+      "judet": "OLT",
+      "judet_slug": "olt"
+    },
+    {
+      "nume": "COLEGIUL ECONOMIC \"PETRE S. AURELIAN\"",
+      "slug": "colegiul-economic-petre-s-aurelian",
+      "judet": "OLT",
+      "judet_slug": "olt"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL AGRICOL \"CAROL I\"",
+      "slug": "colegiul-national-agricol-carol-i",
+      "judet": "OLT",
+      "judet_slug": "olt"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL VOCAȚIONAL \"NICOLAE TITULESCU\"",
+      "slug": "colegiul-national-vocational-nicolae-titulescu",
+      "judet": "OLT",
+      "judet_slug": "olt"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"ALEXANDRU IOAN CUZA\"",
+      "slug": "colegiul-national-alexandru-ioan-cuza",
+      "judet": "OLT",
+      "judet_slug": "olt"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"ION MINULESCU\"",
+      "slug": "colegiul-national-ion-minulescu",
+      "judet": "OLT",
+      "judet_slug": "olt"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"IONIȚĂ ASAN\"",
+      "slug": "colegiul-national-ionita-asan",
+      "judet": "OLT",
+      "judet_slug": "olt"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"RADU GRECEANU\"",
+      "slug": "colegiul-national-radu-greceanu",
+      "judet": "OLT",
+      "judet_slug": "olt"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC BALȘ",
+      "slug": "colegiul-tehnic-bals",
+      "judet": "OLT",
+      "judet_slug": "olt"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"DANUBIUS\"",
+      "slug": "colegiul-tehnic-danubius",
+      "judet": "OLT",
+      "judet_slug": "olt"
+    },
+    {
+      "nume": "GRUPUL ȘCOLAR AGRICOL BALȘ",
+      "slug": "grupul-scolar-agricol-bals",
+      "judet": "OLT",
+      "judet_slug": "olt"
+    },
+    {
+      "nume": "GRUPUL ȘCOLAR AGRICOL CORABIA",
+      "slug": "grupul-scolar-agricol-corabia",
+      "judet": "OLT",
+      "judet_slug": "olt"
+    },
+    {
+      "nume": "GRUPUL ȘCOLAR AGRICOL SCORNICEȘTI",
+      "slug": "grupul-scolar-agricol-scornicesti",
+      "judet": "OLT",
+      "judet_slug": "olt"
+    },
+    {
+      "nume": "GRUPUL ȘCOLAR INDUSTRIAL CONSTRUCȚII DE MAȘINI BALȘ",
+      "slug": "grupul-scolar-industrial-constructii-de-masini-bals",
+      "judet": "OLT",
+      "judet_slug": "olt"
+    },
+    {
+      "nume": "GRUPUL ȘCOLAR INDUSTRIAL CONSTRUCȚII DE MAȘINI CARACAL",
+      "slug": "grupul-scolar-industrial-constructii-de-masini-caracal",
+      "judet": "OLT",
+      "judet_slug": "olt"
+    },
+    {
+      "nume": "GRUPUL ȘCOLAR INDUSTRIAL DE CONSTRUCȚII-MONTAJ SLATINA",
+      "slug": "grupul-scolar-industrial-de-constructii-montaj-slatina",
+      "judet": "OLT",
+      "judet_slug": "olt"
+    },
+    {
+      "nume": "GRUPUL ȘCOLAR INDUSTRIAL METALURGIC SLATINA",
+      "slug": "grupul-scolar-industrial-metalurgic-slatina",
+      "judet": "OLT",
+      "judet_slug": "olt"
+    },
+    {
+      "nume": "LICEUL CU PROGRAM SPORTIV SLATINA",
+      "slug": "liceul-cu-program-sportiv-slatina",
+      "judet": "OLT",
+      "judet_slug": "olt"
+    },
+    {
+      "nume": "LICEUL IANCU JIANU",
+      "slug": "liceul-iancu-jianu",
+      "judet": "OLT",
+      "judet_slug": "olt"
+    },
+    {
+      "nume": "LICEUL PIATRA OLT",
+      "slug": "liceul-piatra-olt",
+      "judet": "OLT",
+      "judet_slug": "olt"
+    },
+    {
+      "nume": "LICEUL POTCOAVA",
+      "slug": "liceul-potcoava",
+      "judet": "OLT",
+      "judet_slug": "olt"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC DRĂGĂNEȘTI",
+      "slug": "liceul-tehnologic-draganesti",
+      "judet": "OLT",
+      "judet_slug": "olt"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC IZVOARELE",
+      "slug": "liceul-tehnologic-izvoarele",
+      "judet": "OLT",
+      "judet_slug": "olt"
+    },
+    {
+      "nume": "LICEUL TEORETIC  \"PETRE PANDREA\"",
+      "slug": "liceul-teoretic-petre-pandrea",
+      "judet": "OLT",
+      "judet_slug": "olt"
+    },
+    {
+      "nume": "LICEUL TEORETIC BALȘ",
+      "slug": "liceul-teoretic-bals",
+      "judet": "OLT",
+      "judet_slug": "olt"
+    },
+    {
+      "nume": "LICEUL TEORETIC OSICA DE SUS",
+      "slug": "liceul-teoretic-osica-de-sus",
+      "judet": "OLT",
+      "judet_slug": "olt"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"ALEXE MARIN\"",
+      "slug": "liceul-teoretic-alexe-marin",
+      "judet": "OLT",
+      "judet_slug": "olt"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"MIHAI VITEAZUL\"",
+      "slug": "liceul-teoretic-mihai-viteazul",
+      "judet": "OLT",
+      "judet_slug": "olt"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"TUDOR VLADIMIRESCU\"",
+      "slug": "liceul-teoretic-tudor-vladimirescu",
+      "judet": "OLT",
+      "judet_slug": "olt"
+    },
+    {
+      "nume": "LICEUL VITOMIREȘTI",
+      "slug": "liceul-vitomiresti",
+      "judet": "OLT",
+      "judet_slug": "olt"
+    },
+    {
+      "nume": "LICEUL VĂLENI",
+      "slug": "liceul-valeni",
+      "judet": "OLT",
+      "judet_slug": "olt"
+    }
+  ],
+  "meta": {
+    "title": "Licee si colegii din judetul Olt - Descărcare gratuită",
+    "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Olt (31 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor. Conține 31 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Licee si colegii din judetul Olt | ListBase",
+    "seo_description": "Descarcă Licee si colegii din judetul Olt — 31 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 31 înregistrări / 4 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

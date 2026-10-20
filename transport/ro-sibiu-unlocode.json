@@ -1,0 +1,391 @@
+{
+  "id": "ro-sibiu-unlocode",
+  "name": "Coduri UN/LOCODE — judeţul Sibiu (porturi, aeroporturi, terminale)",
+  "title": "Coduri UN/LOCODE — judeţul Sibiu (porturi, aeroporturi, terminale)",
+  "description": "Cele 10 locaţii UN/LOCODE din judeţul Sibiu, România — cod LOCODE, denumire, funcţii de transport, status şi coordonate.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "locode",
+      "label": "Locode",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_wo_diacritics",
+      "label": "Name Wo Diacritics",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_code",
+      "label": "Subdivision Code",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_name",
+      "label": "Subdivision Name",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_type",
+      "label": "Subdivision Type",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "status_description",
+      "label": "Status Description",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function",
+      "type": "string"
+    },
+    {
+      "key": "functions",
+      "label": "Functions",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "date_updated",
+      "label": "Date Updated",
+      "type": "string"
+    },
+    {
+      "key": "remarks",
+      "label": "Remarks",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet_name",
+      "label": "Judet Name",
+      "type": "string"
+    },
+    {
+      "key": "judet_source",
+      "label": "Judet Source",
+      "type": "string"
+    },
+    {
+      "key": "judet_alternativ_siruta",
+      "label": "Judet Alternativ Siruta",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "locode": "ROAVR",
+      "country": "RO",
+      "location": "AVR",
+      "name": "Avrig",
+      "name_wo_diacritics": "Avrig",
+      "subdivision_code": "SB",
+      "subdivision_name": "Sibiu",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-23--6--",
+      "functions": "Rail transport, Road transport, Multimodal transport facility",
+      "iata": "",
+      "coordinates": "4544N 02423E",
+      "latitude": 45.7333,
+      "longitude": 24.3833,
+      "date_updated": "2013-01",
+      "remarks": "",
+      "judet_slug": "sibiu",
+      "judet_name": "Sibiu",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 2,
+      "locode": "RODBR",
+      "country": "RO",
+      "location": "DBR",
+      "name": "Dumbraveni, Sibiu",
+      "name_wo_diacritics": "Dumbraveni, Sibiu",
+      "subdivision_code": "SB",
+      "subdivision_name": "Sibiu",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-23-----",
+      "functions": "Rail transport, Road transport",
+      "iata": "",
+      "coordinates": "4614N 02434E",
+      "latitude": 46.2333,
+      "longitude": 24.5667,
+      "date_updated": "2004-07",
+      "remarks": "",
+      "judet_slug": "sibiu",
+      "judet_name": "Sibiu",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 3,
+      "locode": "ROMES",
+      "country": "RO",
+      "location": "MES",
+      "name": "Medias",
+      "name_wo_diacritics": "Medias",
+      "subdivision_code": "SB",
+      "subdivision_name": "Sibiu",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4610N 02421E",
+      "latitude": 46.1667,
+      "longitude": 24.35,
+      "date_updated": "2003-07",
+      "remarks": "",
+      "judet_slug": "sibiu",
+      "judet_name": "Sibiu",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 4,
+      "locode": "RORZP",
+      "country": "RO",
+      "location": "RZP",
+      "name": "Miercurea Sibiului",
+      "name_wo_diacritics": "Miercurea Sibiului",
+      "subdivision_code": "SB",
+      "subdivision_name": "Sibiu",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-----6--",
+      "functions": "Multimodal transport facility",
+      "iata": "",
+      "coordinates": "4553N 02348E",
+      "latitude": 45.8833,
+      "longitude": 23.8,
+      "date_updated": "2009-01",
+      "remarks": "",
+      "judet_slug": "sibiu",
+      "judet_name": "Sibiu",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 5,
+      "locode": "ROPSI",
+      "country": "RO",
+      "location": "PSI",
+      "name": "Poiana Sibiului",
+      "name_wo_diacritics": "Poiana Sibiului",
+      "subdivision_code": "SB",
+      "subdivision_name": "Sibiu",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4548N 02344E",
+      "latitude": 45.8,
+      "longitude": 23.7333,
+      "date_updated": "2004-07",
+      "remarks": "",
+      "judet_slug": "sibiu",
+      "judet_name": "Sibiu",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 6,
+      "locode": "ROSLE",
+      "country": "RO",
+      "location": "SLE",
+      "name": "Saliste",
+      "name_wo_diacritics": "Saliste",
+      "subdivision_code": "SB",
+      "subdivision_name": "Sibiu",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4547N 02353E",
+      "latitude": 45.7833,
+      "longitude": 23.8833,
+      "date_updated": "2004-07",
+      "remarks": "",
+      "judet_slug": "sibiu",
+      "judet_name": "Sibiu",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 7,
+      "locode": "ROSEL",
+      "country": "RO",
+      "location": "SEL",
+      "name": "Selimbar",
+      "name_wo_diacritics": "Selimbar",
+      "subdivision_code": "SB",
+      "subdivision_name": "Sibiu",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-----6--",
+      "functions": "Multimodal transport facility",
+      "iata": "",
+      "coordinates": "4546N 02412E",
+      "latitude": 45.7667,
+      "longitude": 24.2,
+      "date_updated": "2014-07",
+      "remarks": "",
+      "judet_slug": "sibiu",
+      "judet_name": "Sibiu",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 8,
+      "locode": "ROSBZ",
+      "country": "RO",
+      "location": "SBZ",
+      "name": "Sibiu",
+      "name_wo_diacritics": "Sibiu",
+      "subdivision_code": "",
+      "subdivision_name": "",
+      "subdivision_type": "",
+      "status": "AI",
+      "status_description": "Code adopted by international organisation (IATA or ECLAC)",
+      "function": "-2-4----",
+      "functions": "Rail transport, Air transport (airport)",
+      "iata": "",
+      "coordinates": "",
+      "latitude": "",
+      "longitude": "",
+      "date_updated": "1996-01",
+      "remarks": "",
+      "judet_slug": "sibiu",
+      "judet_name": "Sibiu",
+      "judet_source": "derived_name_join",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 9,
+      "locode": "ROSUR",
+      "country": "RO",
+      "location": "SUR",
+      "name": "Sura Mica",
+      "name_wo_diacritics": "Sura Mica",
+      "subdivision_code": "SB",
+      "subdivision_name": "Sibiu",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3--6--",
+      "functions": "Road transport, Multimodal transport facility",
+      "iata": "",
+      "coordinates": "4550N 02404E",
+      "latitude": 45.8333,
+      "longitude": 24.0667,
+      "date_updated": "2010-07",
+      "remarks": "",
+      "judet_slug": "sibiu",
+      "judet_name": "Sibiu",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 10,
+      "locode": "ROTRO",
+      "country": "RO",
+      "location": "TRO",
+      "name": "Turnu Rosu",
+      "name_wo_diacritics": "Turnu Rosu",
+      "subdivision_code": "SB",
+      "subdivision_name": "Sibiu",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4537N 02418E",
+      "latitude": 45.6167,
+      "longitude": 24.3,
+      "date_updated": "2007-01",
+      "remarks": "",
+      "judet_slug": "sibiu",
+      "judet_name": "Sibiu",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    }
+  ],
+  "meta": {
+    "title": "Coduri UN/LOCODE — judeţul Sibiu (porturi, aeroporturi, terminale) - Descărcare gratuită",
+    "description": "Cele 10 locaţii UN/LOCODE din judeţul Sibiu, România — cod LOCODE, denumire, funcţii de transport, status şi coordonate. Conține 10 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Coduri UN/LOCODE — judeţul Sibiu (porturi, aeroporturi, terminale) | ListBase",
+    "seo_description": "Descarcă Coduri UN/LOCODE — judeţul Sibiu (porturi, aeroporturi, terminale) — 10 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 10 înregistrări / 23 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

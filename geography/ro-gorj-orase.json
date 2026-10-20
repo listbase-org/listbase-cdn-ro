@@ -1,0 +1,226 @@
+{
+  "id": "ro-gorj-orase",
+  "name": "Orașele și municipiile județului Gorj",
+  "title": "Orașele și municipiile județului Gorj",
+  "description": "Lista celor 9 de orașe, municipii din județul Gorj (GJ) — unități administrativ-teritoriale urbane de nivel 2 conform SIRUTA. Reședința de județ este marcată cu is_resedinta_judet=true.",
+  "category": "geography",
+  "source": "https://github.com/ionelmc/django-siruta",
+  "source_url": "https://github.com/ionelmc/django-siruta",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "siruta_code",
+      "label": "Siruta Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_official",
+      "label": "Name Official",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet_id",
+      "label": "Judet Id",
+      "type": "number"
+    },
+    {
+      "key": "judet_name",
+      "label": "Judet Name",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "tip_code",
+      "label": "Tip Code",
+      "type": "number"
+    },
+    {
+      "key": "tip_name",
+      "label": "Tip Name",
+      "type": "string"
+    },
+    {
+      "key": "is_resedinta_judet",
+      "label": "Is Resedinta Judet",
+      "type": "boolean"
+    },
+    {
+      "key": "regiune_id",
+      "label": "Regiune Id",
+      "type": "number"
+    },
+    {
+      "key": "nuts3",
+      "label": "Nuts3",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "siruta_code": 77812,
+      "name": "Târgu Jiu",
+      "name_official": "MUNICIPIUL TÂRGU JIU",
+      "slug": "targu-jiu",
+      "judet_id": 18,
+      "judet_name": "Gorj",
+      "judet_slug": "gorj",
+      "iso_3166_2": "RO-GJ",
+      "tip_code": 1,
+      "tip_name": "municipiu reședință de județ",
+      "is_resedinta_judet": true,
+      "regiune_id": 4,
+      "nuts3": ""
+    },
+    {
+      "siruta_code": 79308,
+      "name": "Bumbești-Jiu",
+      "name_official": "ORAȘ BUMBEȘTI-JIU",
+      "slug": "bumbesti-jiu",
+      "judet_id": 18,
+      "judet_name": "Gorj",
+      "judet_slug": "gorj",
+      "iso_3166_2": "RO-GJ",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 4,
+      "nuts3": ""
+    },
+    {
+      "siruta_code": 78141,
+      "name": "Motru",
+      "name_official": "MUNICIPIUL MOTRU",
+      "slug": "motru",
+      "judet_id": 18,
+      "judet_name": "Gorj",
+      "judet_slug": "gorj",
+      "iso_3166_2": "RO-GJ",
+      "tip_code": 4,
+      "tip_name": "municipiu",
+      "is_resedinta_judet": false,
+      "regiune_id": 4,
+      "nuts3": ""
+    },
+    {
+      "siruta_code": 78258,
+      "name": "Novaci",
+      "name_official": "ORAȘ NOVACI",
+      "slug": "novaci",
+      "judet_id": 18,
+      "judet_name": "Gorj",
+      "judet_slug": "gorj",
+      "iso_3166_2": "RO-GJ",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 4,
+      "nuts3": ""
+    },
+    {
+      "siruta_code": 82895,
+      "name": "Rovinari",
+      "name_official": "ORAȘ ROVINARI",
+      "slug": "rovinari",
+      "judet_id": 18,
+      "judet_name": "Gorj",
+      "judet_slug": "gorj",
+      "iso_3166_2": "RO-GJ",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 4,
+      "nuts3": "RO412"
+    },
+    {
+      "siruta_code": 82430,
+      "name": "Tismana",
+      "name_official": "ORAȘ TISMANA",
+      "slug": "tismana",
+      "judet_id": 18,
+      "judet_name": "Gorj",
+      "judet_slug": "gorj",
+      "iso_3166_2": "RO-GJ",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 4,
+      "nuts3": "RO412"
+    },
+    {
+      "siruta_code": 82617,
+      "name": "Turceni",
+      "name_official": "ORAȘ TURCENI",
+      "slug": "turceni",
+      "judet_id": 18,
+      "judet_name": "Gorj",
+      "judet_slug": "gorj",
+      "iso_3166_2": "RO-GJ",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 4,
+      "nuts3": "RO412"
+    },
+    {
+      "siruta_code": 78329,
+      "name": "Târgu Cărbunești",
+      "name_official": "ORAȘ TÂRGU CĂRBUNEȘTI",
+      "slug": "targu-carbunesti",
+      "judet_id": 18,
+      "judet_name": "Gorj",
+      "judet_slug": "gorj",
+      "iso_3166_2": "RO-GJ",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 4,
+      "nuts3": "RO412"
+    },
+    {
+      "siruta_code": 78454,
+      "name": "Țicleni",
+      "name_official": "ORAȘ ȚICLENI",
+      "slug": "ticleni",
+      "judet_id": 18,
+      "judet_name": "Gorj",
+      "judet_slug": "gorj",
+      "iso_3166_2": "RO-GJ",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 4,
+      "nuts3": "RO412"
+    }
+  ],
+  "meta": {
+    "title": "Orașele și municipiile județului Gorj - Descărcare gratuită",
+    "description": "Lista celor 9 de orașe, municipii din județul Gorj (GJ) — unități administrativ-teritoriale urbane de nivel 2 conform SIRUTA. Reședința de județ este marcată cu is_resedinta_judet=true. Conține 9 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Orașele și municipiile județului Gorj | ListBase",
+    "seo_description": "Descarcă Orașele și municipiile județului Gorj — 9 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 9 înregistrări / 13 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: https://github.com/ionelmc/django-siruta"
+    ]
+  }
+}

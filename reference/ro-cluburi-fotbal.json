@@ -1,0 +1,126 @@
+{
+  "id": "ro-cluburi-fotbal",
+  "name": "Cluburi de fotbal din România",
+  "title": "Cluburi de fotbal din România",
+  "description": "Football clubs in RO with founding year, stadium, city",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "number"
+    },
+    {
+      "key": "aliases",
+      "label": "Aliases",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Dinamo București",
+      "founded": 1948,
+      "aliases": "Din. Bucuresti | FC Dinamo București, FC Dinamo 1948, Dinamo Bukarest [de]"
+    },
+    {
+      "name": "Rapid București",
+      "founded": 1923,
+      "aliases": "FC Rapid București, Fotbal Club Rapid 1923 | FC Rapid 1923, Rapid Bukarest [de]"
+    },
+    {
+      "name": "Daco-Getica București",
+      "founded": 1992,
+      "aliases": "ASC Daco-Getica București | Asociația Sport Club Daco-Getica București, Juventus București"
+    },
+    {
+      "name": "Sportul Studențesc București",
+      "founded": 1916,
+      "aliases": "Sportul | Sportul Studențesc, FC Sportul Studențesc | FC Sportul Studențesc București"
+    },
+    {
+      "name": "AS Progresul București",
+      "founded": 1944,
+      "aliases": "Progresul | Progresul București, FC Progresul București | Fotbal Club Progresul București, Național București | FC Național București, AS Victoria București, CFR 1907 Cluj | FC CFR Cluj | FC CFR 1907 Cluj, U. Cluj  | Universitatea Cluj | FC Univ. Cluj | FC Universitatea Cluj, Astra | FC Astra Giurgiu, AFC Astra Giurgiu, Astra Ploiești, Petrolul | Petrolul Ploiești, Petrolul 52, Asociația Clubul Sportiv Petrolul 52, Ceahlăul | CSM Ceahlăul Piatra Neamț, Concordia | CS Concordia Chiajna, Vaslui, Gaz Metan, CS Gaz Metan Mediaș, Bistrita, ACF Gloria 1922 Bistrița, Viitorul, Viitorul Con., FC Viitorul | Viitorul Constanța, FC Farul Constanța, FC Farul Const | FC Farul Constanț, Farul Constanța, Farul                 # Farul translates as \"the Lighthouse\", ASC Corona 2010 Brașov, Asociatia Sport Club Corona Brașov"
+    },
+    {
+      "name": "FC Brașov",
+      "founded": 1936,
+      "aliases": "SR Brașov | Steagul Rosu Brașov, AS SR Brașov | Asociația Sportivă SR Brașov, Brașov, Călărași, AFC Dunărea 2005 | Asociația Fotbal Club Dunărea 2005 Călărași, FC Dunărea Călărași"
+    },
+    {
+      "name": "Chindia Târgoviște",
+      "founded": 2010,
+      "aliases": "AFC Chindia Târgoviște, Clubul Sportiv Turnu Severin, FC Drobeta-Turnu Severin"
+    },
+    {
+      "name": "AFC Turris-Oltul",
+      "founded": 1965,
+      "aliases": "AFC Turris-Oltul Turnu Măgurele, Turris Turnu Măgurele | Turris-Oltul Turnu Măgurele, Botoșani, Fotbal Club Botoșani, Hermannstadt | AFC Hermannstadt, Năvodari | AFC Săgeata Năvodari, Oțelul, ASC Oțelul Galați, FC Oțelul Galați, SC Oțelul Galați, Pandurii | Pandurii Tg Jiu | CS Pandurii Târgu Jiu, Poli Iași | Politehnica Iași, CSM Politehnica Iași     ## check - older name?, CSM Poli. Iași, CSMS Iasi | CSM Studențesc Iași, CSMS lași | Politehnica lași | FC Politehnica lași, Timișoara | ACS Poli Timișoara, FC Politehnica Timișoara     # champs (1): 2009/10, Politehnica Timișoara, FC Timișoara, Sepsi | Sepsi Sf. Gheorghe | Sepsi OSK, Sf. Gheorghe, Târgu Mureș, ASA Tîrgu Mureș, Tîrgu Mureș, FCM Târgu Mureș, U Craiova | CS U Craiova | CS Uni Craiova | U Craiova 1948 CS | CS Universitatea Craiova, U Craiova 1948 Club Sportiv, Univ. Craiova, Uni Craiova 1948, FC Universitatea Craiova   # champs (4): 1991/92 1982..1980 (2) 1974/75, FC UTA Arad | Fotbal Club UTA Arad, FCM UTA Arad, UT Arad    # champs (2): 1971..1969 (2), UTA, Voluntari, CS Voluntari, FC FC Voluntari       ## typo: misspelled in football data.uk csv source"
+    },
+    {
+      "name": "FC Academica Clinceni",
+      "founded": 2005,
+      "aliases": "Academica Clinceni | Fotbal Club Academica Clinceni, FC Academica Clinc"
+    },
+    {
+      "name": "CS Mioveni",
+      "founded": 2000,
+      "aliases": "Mioveni"
+    },
+    {
+      "name": "CSM Flacăra Moreni",
+      "founded": 1922,
+      "aliases": "Flacăra | Flacăra Moreni, CS Flacăra Moreni, Club Sportiv Municipal Flacăra Moreni, Argeș | Argeș Pitești | FC Argeș, Asociația Clubul Sportiv Campionii Fotbal Club Argeș, ACS Campionii FC Argeș"
+    },
+    {
+      "name": "CS Minaur Baia Mare",
+      "founded": 1948,
+      "aliases": "Baia Mare | Minaur Baia Mare, FC Baia Mare"
+    },
+    {
+      "name": "CSM Jiul Petroșani",
+      "founded": 1919,
+      "aliases": "Jiul Petroșani | CS Jiul Petroșani, Clubul Sportiv Municipal Jiul Petroșani"
+    },
+    {
+      "name": "FCM Bacău",
+      "founded": 1950,
+      "aliases": "FCM 1950 Bacău | ASS FCM 1950 Bacău, FK Csíkszereda, Csíkszereda Miercurea Ciuc, Csíkszereda, Csiksz. M. Ciuc, Asociația Futball Klub Csíkszereda Miercurea Ciuc"
+    },
+    {
+      "name": "CS Corvinul Hunedoara",
+      "founded": 1921,
+      "aliases": "Corvinul Hunedoara, Corvinul, Corv. Hunedoara | Corv. Hunedoar, Clubul Sportiv Corvinul 1921 Hunedoara, FC Corvinul Hunedoara"
+    },
+    {
+      "name": "AS FC Buzău",
+      "founded": 2016,
+      "aliases": "FC Buzău, Buzău, Asociația Sportivă Fotbal Club Buzău, FC Gloria Buzău"
+    },
+    {
+      "name": "Unirea Slobozia",
+      "founded": 1955,
+      "aliases": "Asociația Fotbal Club Unirea 04 Slobozia, FC Unirea 2004 Slo, FC Unirea Slobozia, Clubul Sportiv Tunari, Tunari, Club Sportiv Comunal 1599 Șelimbăr, 1599 Șelimbăr, Șelimbăr, Chimia Rimnicu Vilcea, CS Chimia Râmnicu Vâlcea, FC Râmnicu Vâlcea, FC Unirea | FC Unirea Urziceni, Fotbal Club Extensiv Craiova, FC Caracal, Extensiv, Victoria Brănești, Voința Sibiu"
+    }
+  ],
+  "meta": {
+    "title": "Cluburi de fotbal din România - Descărcare gratuită",
+    "description": "Football clubs in RO with founding year, stadium, city Conține 17 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Cluburi de fotbal din România | ListBase",
+    "seo_description": "Descarcă Cluburi de fotbal din România — 17 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 17 înregistrări / 3 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

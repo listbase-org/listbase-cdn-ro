@@ -1,0 +1,154 @@
+{
+  "id": "ro-ialomita-licee",
+  "name": "Licee si colegii din judetul Ialomița",
+  "title": "Licee si colegii din judetul Ialomița",
+  "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Ialomița (18 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "COLEGIUL NAŢIONAL \"GRIGORE MOISIL\" URZICENI",
+      "slug": "colegiul-national-grigore-moisil-urziceni",
+      "judet": "IALOMIȚA",
+      "judet_slug": "ialomita"
+    },
+    {
+      "nume": "COLEGIUL NAŢIONAL \"MIHAI VITEAZUL\" SLOBOZIA",
+      "slug": "colegiul-national-mihai-viteazul-slobozia",
+      "judet": "IALOMIȚA",
+      "judet_slug": "ialomita"
+    },
+    {
+      "nume": "LICEUL DE ARTE \"IONEL PERLEA\" SLOBOZIA",
+      "slug": "liceul-de-arte-ionel-perlea-slobozia",
+      "judet": "IALOMIȚA",
+      "judet_slug": "ialomita"
+    },
+    {
+      "nume": "LICEUL PEDAGOGIC \"MATEI BASARAB\" SLOBOZIA",
+      "slug": "liceul-pedagogic-matei-basarab-slobozia",
+      "judet": "IALOMIȚA",
+      "judet_slug": "ialomita"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC CĂZĂNEŞTI",
+      "slug": "liceul-tehnologic-cazanesti",
+      "judet": "IALOMIȚA",
+      "judet_slug": "ialomita"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC DE INDUSTRIE ALIMENTARĂ FETEŞTI",
+      "slug": "liceul-tehnologic-de-industrie-alimentara-fetesti",
+      "judet": "IALOMIȚA",
+      "judet_slug": "ialomita"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC FIERBINŢI-TÂRG",
+      "slug": "liceul-tehnologic-fierbinti-targ",
+      "judet": "IALOMIȚA",
+      "judet_slug": "ialomita"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC URZICENI",
+      "slug": "liceul-tehnologic-urziceni",
+      "judet": "IALOMIȚA",
+      "judet_slug": "ialomita"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"ALEXANDRU IOAN CUZA\" SLOBOZIA",
+      "slug": "liceul-tehnologic-alexandru-ioan-cuza-slobozia",
+      "judet": "IALOMIȚA",
+      "judet_slug": "ialomita"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"ANGHEL SALIGNY\" FETEŞTI",
+      "slug": "liceul-tehnologic-anghel-saligny-fetesti",
+      "judet": "IALOMIȚA",
+      "judet_slug": "ialomita"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"IORDACHE ZOSSIMA\"ARMĂŞEŞTI",
+      "slug": "liceul-tehnologic-iordache-zossima-armasesti",
+      "judet": "IALOMIȚA",
+      "judet_slug": "ialomita"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"MIHAI EMINESCU\" SLOBOZIA",
+      "slug": "liceul-tehnologic-mihai-eminescu-slobozia",
+      "judet": "IALOMIȚA",
+      "judet_slug": "ialomita"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"SFÂNTA ECATERINA\" URZICENI",
+      "slug": "liceul-tehnologic-sfanta-ecaterina-urziceni",
+      "judet": "IALOMIȚA",
+      "judet_slug": "ialomita"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"ÎNĂLŢAREA DOMNULUI\" SLOBOZIA",
+      "slug": "liceul-tehnologic-inaltarea-domnului-slobozia",
+      "judet": "IALOMIȚA",
+      "judet_slug": "ialomita"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC ŢĂNDĂREI",
+      "slug": "liceul-tehnologic-tandarei",
+      "judet": "IALOMIȚA",
+      "judet_slug": "ialomita"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"CAROL I\" FETEŞTI",
+      "slug": "liceul-teoretic-carol-i-fetesti",
+      "judet": "IALOMIȚA",
+      "judet_slug": "ialomita"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"PAUL GEORGESCU\" ŢĂNDĂREI",
+      "slug": "liceul-teoretic-paul-georgescu-tandarei",
+      "judet": "IALOMIȚA",
+      "judet_slug": "ialomita"
+    },
+    {
+      "nume": "SEMINARUL TEOLOGIC ORTODOX \"SFÂNTUL IOAN GURĂ DE AUR\" SLOBOZIA",
+      "slug": "seminarul-teologic-ortodox-sfantul-ioan-gura-de-aur-slobozia",
+      "judet": "IALOMIȚA",
+      "judet_slug": "ialomita"
+    }
+  ],
+  "meta": {
+    "title": "Licee si colegii din judetul Ialomița - Descărcare gratuită",
+    "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Ialomița (18 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor. Conține 18 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Licee si colegii din judetul Ialomița | ListBase",
+    "seo_description": "Descarcă Licee si colegii din judetul Ialomița — 18 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 18 înregistrări / 4 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

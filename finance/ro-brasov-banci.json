@@ -1,0 +1,86 @@
+{
+  "id": "ro-brasov-banci",
+  "name": "Bănci în Brasov — coduri SWIFT/BIC",
+  "title": "Bănci în Brasov — coduri SWIFT/BIC",
+  "description": "Instituții bancare și financiare înregistrate SWIFT/BIC cu sediul în Brasov, România (5 înregistrări). Subset al listei naționale `ro-banci` (263 înregistrări), grupat după câmpul `city` din sursă. Șirul literal din sursă este \"BRASOV\" — păstrat verbatim, fără diacritice și cu majuscule, exact așa cum este livrat de sursă; nu a fost tradus, normalizat sau completat cu diacritice. Câmpuri: id, bank, city, branch, swift_code.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "ACTINVEST SA",
+      "city": "BRASOV",
+      "branch": "",
+      "swift_code": "ACTNRO21"
+    },
+    {
+      "id": 36,
+      "bank": "BANCA TRANSILVANIA S.A.",
+      "city": "BRASOV",
+      "branch": "(BRASOV BRANCH)",
+      "swift_code": "BTRLRO22BVA"
+    },
+    {
+      "id": 127,
+      "bank": "BANK LEUMI ROMANIA S.A.",
+      "city": "BRASOV",
+      "branch": "",
+      "swift_code": "DAFBRO22BRA"
+    },
+    {
+      "id": 185,
+      "bank": "HB INVEST S.A.",
+      "city": "BRASOV",
+      "branch": "",
+      "swift_code": "IVTSRO21"
+    },
+    {
+      "id": 234,
+      "bank": "S.S.I.F. ROMINTRADE S.A.",
+      "city": "BRASOV",
+      "branch": "",
+      "swift_code": "SSRORO21"
+    }
+  ],
+  "meta": {
+    "title": "Bănci în Brasov — coduri SWIFT/BIC - Descărcare gratuită",
+    "description": "Instituții bancare și financiare înregistrate SWIFT/BIC cu sediul în Brasov, România (5 înregistrări). Subset al listei naționale `ro-banci` (263 înregistrări), grupat după câmpul `city` din sursă. Șirul literal din sursă este \"BRASOV\" — păstrat verbatim, fără diacritice și cu majuscule, exact așa cum este livrat de sursă; nu a fost tradus, normalizat sau completat cu diacritice. Câmpuri: id, bank, city, branch, swift_code. Conține 5 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Bănci în Brasov — coduri SWIFT/BIC | ListBase",
+    "seo_description": "Descarcă Bănci în Brasov — coduri SWIFT/BIC — 5 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 5 înregistrări / 5 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

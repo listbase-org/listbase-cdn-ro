@@ -1,0 +1,419 @@
+{
+  "id": "ro-romania-la-campionatul-european-lot",
+  "name": "Lotul României la Campionatul European de Fotbal 2024 (26)",
+  "title": "Lotul României la Campionatul European de Fotbal 2024 (26)",
+  "description": "Jucătorii convocați de România la turneul final EURO 2024: număr, nume, post, selecții și goluri pentru națională înainte de turneu, anul nașterii, clubul și țara clubului (cod din sursă). Numele exact ca în sursă. Sursa: YYYY--gazda/squads/<echipa>.txt din openfootball/euro (CC0). Antrenorul nu apare în sursă.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "editie",
+      "label": "Editie",
+      "type": "number"
+    },
+    {
+      "key": "echipa",
+      "label": "Echipa",
+      "type": "string"
+    },
+    {
+      "key": "numar_tricou",
+      "label": "Numar Tricou",
+      "type": "number"
+    },
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "post_cod",
+      "label": "Post Cod",
+      "type": "string"
+    },
+    {
+      "key": "post",
+      "label": "Post",
+      "type": "string"
+    },
+    {
+      "key": "selectii_inainte_de_turneu",
+      "label": "Selectii Inainte De Turneu",
+      "type": "number"
+    },
+    {
+      "key": "goluri_inainte_de_turneu",
+      "label": "Goluri Inainte De Turneu",
+      "type": "number"
+    },
+    {
+      "key": "anul_nasterii",
+      "label": "Anul Nasterii",
+      "type": "number"
+    },
+    {
+      "key": "club",
+      "label": "Club",
+      "type": "string"
+    },
+    {
+      "key": "tara_clubului",
+      "label": "Tara Clubului",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "editie": 2024,
+      "echipa": "Romania",
+      "numar_tricou": 1,
+      "nume": "Florin Niță",
+      "post_cod": "GK",
+      "post": "portar",
+      "selectii_inainte_de_turneu": 21,
+      "goluri_inainte_de_turneu": 0,
+      "anul_nasterii": 1987,
+      "club": "Gaziantep F.K.",
+      "tara_clubului": "TUR"
+    },
+    {
+      "editie": 2024,
+      "echipa": "Romania",
+      "numar_tricou": 12,
+      "nume": "Horațiu Moldovan",
+      "post_cod": "GK",
+      "post": "portar",
+      "selectii_inainte_de_turneu": 11,
+      "goluri_inainte_de_turneu": 0,
+      "anul_nasterii": 1998,
+      "club": "Atlético Madrid",
+      "tara_clubului": "ESP"
+    },
+    {
+      "editie": 2024,
+      "echipa": "Romania",
+      "numar_tricou": 16,
+      "nume": "Ștefan Târnovanu",
+      "post_cod": "GK",
+      "post": "portar",
+      "selectii_inainte_de_turneu": 1,
+      "goluri_inainte_de_turneu": 0,
+      "anul_nasterii": 2000,
+      "club": "FCSB",
+      "tara_clubului": "ROU"
+    },
+    {
+      "editie": 2024,
+      "echipa": "Romania",
+      "numar_tricou": 2,
+      "nume": "Andrei Rațiu",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "selectii_inainte_de_turneu": 17,
+      "goluri_inainte_de_turneu": 1,
+      "anul_nasterii": 1998,
+      "club": "Rayo Vallecano",
+      "tara_clubului": "ESP"
+    },
+    {
+      "editie": 2024,
+      "echipa": "Romania",
+      "numar_tricou": 3,
+      "nume": "Radu Drăgușin",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "selectii_inainte_de_turneu": 17,
+      "goluri_inainte_de_turneu": 0,
+      "anul_nasterii": 2002,
+      "club": "Tottenham Hotspur F.C.",
+      "tara_clubului": "ENG"
+    },
+    {
+      "editie": 2024,
+      "echipa": "Romania",
+      "numar_tricou": 4,
+      "nume": "Adrian Rus",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "selectii_inainte_de_turneu": 20,
+      "goluri_inainte_de_turneu": 1,
+      "anul_nasterii": 1996,
+      "club": "Pafos FC",
+      "tara_clubului": "CYP"
+    },
+    {
+      "editie": 2024,
+      "echipa": "Romania",
+      "numar_tricou": 5,
+      "nume": "Ionuț Nedelcearu",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "selectii_inainte_de_turneu": 27,
+      "goluri_inainte_de_turneu": 2,
+      "anul_nasterii": 1996,
+      "club": "Palermo FC",
+      "tara_clubului": "ITA"
+    },
+    {
+      "editie": 2024,
+      "echipa": "Romania",
+      "numar_tricou": 11,
+      "nume": "Nicușor Bancu",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "selectii_inainte_de_turneu": 36,
+      "goluri_inainte_de_turneu": 2,
+      "anul_nasterii": 1992,
+      "club": "CS Universitatea Craiova",
+      "tara_clubului": "ROU"
+    },
+    {
+      "editie": 2024,
+      "echipa": "Romania",
+      "numar_tricou": 15,
+      "nume": "Andrei Burcă",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "selectii_inainte_de_turneu": 27,
+      "goluri_inainte_de_turneu": 1,
+      "anul_nasterii": 1993,
+      "club": "Al-Okhdood Club",
+      "tara_clubului": "KSA"
+    },
+    {
+      "editie": 2024,
+      "echipa": "Romania",
+      "numar_tricou": 22,
+      "nume": "Vasile Mogoș",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "selectii_inainte_de_turneu": 7,
+      "goluri_inainte_de_turneu": 0,
+      "anul_nasterii": 1992,
+      "club": "CFR Cluj",
+      "tara_clubului": "ROU"
+    },
+    {
+      "editie": 2024,
+      "echipa": "Romania",
+      "numar_tricou": 24,
+      "nume": "Bogdan Racovițan",
+      "post_cod": "DF",
+      "post": "fundaș",
+      "selectii_inainte_de_turneu": 2,
+      "goluri_inainte_de_turneu": 0,
+      "anul_nasterii": 2000,
+      "club": "Raków Częstochowa",
+      "tara_clubului": "POL"
+    },
+    {
+      "editie": 2024,
+      "echipa": "Romania",
+      "numar_tricou": 6,
+      "nume": "Marius Marin",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "selectii_inainte_de_turneu": 18,
+      "goluri_inainte_de_turneu": 0,
+      "anul_nasterii": 1998,
+      "club": "Pisa SC",
+      "tara_clubului": "ITA"
+    },
+    {
+      "editie": 2024,
+      "echipa": "Romania",
+      "numar_tricou": 8,
+      "nume": "Alexandru Cicâldău",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "selectii_inainte_de_turneu": 37,
+      "goluri_inainte_de_turneu": 4,
+      "anul_nasterii": 1997,
+      "club": "Konyaspor",
+      "tara_clubului": "TUR"
+    },
+    {
+      "editie": 2024,
+      "echipa": "Romania",
+      "numar_tricou": 10,
+      "nume": "Ianis Hagi",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "selectii_inainte_de_turneu": 35,
+      "goluri_inainte_de_turneu": 5,
+      "anul_nasterii": 1998,
+      "club": "Deportivo Alavés",
+      "tara_clubului": "ESP"
+    },
+    {
+      "editie": 2024,
+      "echipa": "Romania",
+      "numar_tricou": 14,
+      "nume": "Darius Olaru",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "selectii_inainte_de_turneu": 18,
+      "goluri_inainte_de_turneu": 0,
+      "anul_nasterii": 1998,
+      "club": "FCSB",
+      "tara_clubului": "ROU"
+    },
+    {
+      "editie": 2024,
+      "echipa": "Romania",
+      "numar_tricou": 18,
+      "nume": "Răzvan Marin",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "selectii_inainte_de_turneu": 55,
+      "goluri_inainte_de_turneu": 3,
+      "anul_nasterii": 1996,
+      "club": "Empoli FC",
+      "tara_clubului": "ITA"
+    },
+    {
+      "editie": 2024,
+      "echipa": "Romania",
+      "numar_tricou": 21,
+      "nume": "Nicolae Stanciu",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "selectii_inainte_de_turneu": 70,
+      "goluri_inainte_de_turneu": 14,
+      "anul_nasterii": 1993,
+      "club": "Damac FC",
+      "tara_clubului": "KSA"
+    },
+    {
+      "editie": 2024,
+      "echipa": "Romania",
+      "numar_tricou": 23,
+      "nume": "Deian Sorescu",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "selectii_inainte_de_turneu": 17,
+      "goluri_inainte_de_turneu": 0,
+      "anul_nasterii": 1997,
+      "club": "Gaziantep F.K.",
+      "tara_clubului": "TUR"
+    },
+    {
+      "editie": 2024,
+      "echipa": "Romania",
+      "numar_tricou": 26,
+      "nume": "Adrian Șut",
+      "post_cod": "MF",
+      "post": "mijlocaș",
+      "selectii_inainte_de_turneu": 2,
+      "goluri_inainte_de_turneu": 0,
+      "anul_nasterii": 1999,
+      "club": "FCSB",
+      "tara_clubului": "ROU"
+    },
+    {
+      "editie": 2024,
+      "echipa": "Romania",
+      "numar_tricou": 7,
+      "nume": "Denis Alibec",
+      "post_cod": "FW",
+      "post": "atacant",
+      "selectii_inainte_de_turneu": 37,
+      "goluri_inainte_de_turneu": 5,
+      "anul_nasterii": 1991,
+      "club": "Muaither SC",
+      "tara_clubului": "QAT"
+    },
+    {
+      "editie": 2024,
+      "echipa": "Romania",
+      "numar_tricou": 9,
+      "nume": "George Pușcaș",
+      "post_cod": "FW",
+      "post": "atacant",
+      "selectii_inainte_de_turneu": 42,
+      "goluri_inainte_de_turneu": 11,
+      "anul_nasterii": 1996,
+      "club": "SSC Bari",
+      "tara_clubului": "ITA"
+    },
+    {
+      "editie": 2024,
+      "echipa": "Romania",
+      "numar_tricou": 13,
+      "nume": "Valentin Mihăilă",
+      "post_cod": "FW",
+      "post": "atacant",
+      "selectii_inainte_de_turneu": 21,
+      "goluri_inainte_de_turneu": 4,
+      "anul_nasterii": 2000,
+      "club": "Parma Calcio 1913",
+      "tara_clubului": "ITA"
+    },
+    {
+      "editie": 2024,
+      "echipa": "Romania",
+      "numar_tricou": 17,
+      "nume": "Florinel Coman",
+      "post_cod": "FW",
+      "post": "atacant",
+      "selectii_inainte_de_turneu": 15,
+      "goluri_inainte_de_turneu": 1,
+      "anul_nasterii": 1998,
+      "club": "FCSB",
+      "tara_clubului": "ROU"
+    },
+    {
+      "editie": 2024,
+      "echipa": "Romania",
+      "numar_tricou": 19,
+      "nume": "Denis Drăguș",
+      "post_cod": "FW",
+      "post": "atacant",
+      "selectii_inainte_de_turneu": 11,
+      "goluri_inainte_de_turneu": 2,
+      "anul_nasterii": 1999,
+      "club": "Gaziantep F.K.",
+      "tara_clubului": "TUR"
+    },
+    {
+      "editie": 2024,
+      "echipa": "Romania",
+      "numar_tricou": 20,
+      "nume": "Dennis Man",
+      "post_cod": "FW",
+      "post": "atacant",
+      "selectii_inainte_de_turneu": 24,
+      "goluri_inainte_de_turneu": 7,
+      "anul_nasterii": 1998,
+      "club": "Parma Calcio 1913",
+      "tara_clubului": "ITA"
+    },
+    {
+      "editie": 2024,
+      "echipa": "Romania",
+      "numar_tricou": 25,
+      "nume": "Daniel Bîrligea",
+      "post_cod": "FW",
+      "post": "atacant",
+      "selectii_inainte_de_turneu": 2,
+      "goluri_inainte_de_turneu": 0,
+      "anul_nasterii": 2000,
+      "club": "CFR Cluj",
+      "tara_clubului": "ROU"
+    }
+  ],
+  "meta": {
+    "title": "Lotul României la Campionatul European de Fotbal 2024 (26) - Descărcare gratuită",
+    "description": "Jucătorii convocați de România la turneul final EURO 2024: număr, nume, post, selecții și goluri pentru națională înainte de turneu, anul nașterii, clubul și țara clubului (cod din sursă). Numele exact ca în sursă. Sursa: YYYY--gazda/squads/<echipa>.txt din openfootball/euro (CC0). Antrenorul nu apare în sursă. Conține 26 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Lotul României la Campionatul European de Fotbal 2024 (26) | ListBase",
+    "seo_description": "Descarcă Lotul României la Campionatul European de Fotbal 2024 (26) — 26 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 26 înregistrări / 11 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

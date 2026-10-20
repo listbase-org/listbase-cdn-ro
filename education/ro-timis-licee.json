@@ -1,0 +1,394 @@
+{
+  "id": "ro-timis-licee",
+  "name": "Licee si colegii din judetul Timiș",
+  "title": "Licee si colegii din judetul Timiș",
+  "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Timiș (58 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 58,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "COLEGIUL DE SILVICULTURA SI AGRICULTURA \"CASA VERDE\" MUN. TIMIȘOARA",
+      "slug": "colegiul-de-silvicultura-si-agricultura-casa-verde-mun-timisoara",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "COLEGIUL ECONOMIC \"F.S. NITTI\" MUN. TIMIȘOARA",
+      "slug": "colegiul-economic-f-s-nitti-mun-timisoara",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "COLEGIUL NATIONAL BANATEAN MUN. TIMIȘOARA",
+      "slug": "colegiul-national-banatean-mun-timisoara",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "COLEGIUL NATIONAL DE ARTA \"ION VIDU\" MUN. TIMIȘOARA",
+      "slug": "colegiul-national-de-arta-ion-vidu-mun-timisoara",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "COLEGIUL NATIONAL \"ANA ASLAN\" MUN. TIMIȘOARA",
+      "slug": "colegiul-national-ana-aslan-mun-timisoara",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "COLEGIUL NATIONAL \"CONSTANTIN DIACONOVICI LOGA\" MUN. TIMIȘOARA",
+      "slug": "colegiul-national-constantin-diaconovici-loga-mun-timisoara",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "COLEGIUL NATIONAL \"CORIOLAN BREDICEANU\" MUN.LUGOJ",
+      "slug": "colegiul-national-coriolan-brediceanu-mun-lugoj",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "COLEGIUL NATIONAL \"IULIA HASDEU\" MUN.LUGOJ",
+      "slug": "colegiul-national-iulia-hasdeu-mun-lugoj",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC DE VEST MUN. TIMIȘOARA",
+      "slug": "colegiul-tehnic-de-vest-mun-timisoara",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC ELECTROTIMIS MUN. TIMIȘOARA",
+      "slug": "colegiul-tehnic-electrotimis-mun-timisoara",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC ENERGETIC \"REGELE FERDINAND I \" MUN. TIMIȘOARA",
+      "slug": "colegiul-tehnic-energetic-regele-ferdinand-i-mun-timisoara",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"AZUR\" MUN. TIMIȘOARA",
+      "slug": "colegiul-tehnic-azur-mun-timisoara",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"DIMITRIE LEONIDA\" MUN. TIMIȘOARA",
+      "slug": "colegiul-tehnic-dimitrie-leonida-mun-timisoara",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"EMANUIL UNGUREANU\" MUN. TIMIȘOARA",
+      "slug": "colegiul-tehnic-emanuil-ungureanu-mun-timisoara",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"HENRI COANDA\" MUN. TIMIȘOARA",
+      "slug": "colegiul-tehnic-henri-coanda-mun-timisoara",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"ION MINCU\" MUN. TIMIȘOARA",
+      "slug": "colegiul-tehnic-ion-mincu-mun-timisoara",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"ION.I.C.BRATIANU\" MUN. TIMIȘOARA",
+      "slug": "colegiul-tehnic-ion-i-c-bratianu-mun-timisoara",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"VALERIU BRANISTE\" MUN.LUGOJ",
+      "slug": "colegiul-tehnic-valeriu-braniste-mun-lugoj",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "LICEUL CU PROGRAM SPORTIV \"BANATUL\" MUN. TIMIȘOARA",
+      "slug": "liceul-cu-program-sportiv-banatul-mun-timisoara",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "LICEUL DE ARTE PLASTICE MUN. TIMIȘOARA",
+      "slug": "liceul-de-arte-plastice-mun-timisoara",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "LICEUL PEDAGOGIC \"CARMEN SYLVA\" MUN. TIMIȘOARA",
+      "slug": "liceul-pedagogic-carmen-sylva-mun-timisoara",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC DE INDUSTRIE ALIMENTARA MUN. TIMIȘOARA",
+      "slug": "liceul-tehnologic-de-industrie-alimentara-mun-timisoara",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC ORAS JIMBOLIA",
+      "slug": "liceul-tehnologic-oras-jimbolia",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC SPECIAL \"GHEORGHE ATANASIU\" MUN. TIMIȘOARA",
+      "slug": "liceul-tehnologic-special-gheorghe-atanasiu-mun-timisoara",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC TRANSPORTURI AUTO MUN. TIMIȘOARA",
+      "slug": "liceul-tehnologic-transporturi-auto-mun-timisoara",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC UCECOM \"SPIRU HARET\" MUN. TIMIȘOARA",
+      "slug": "liceul-tehnologic-ucecom-spiru-haret-mun-timisoara",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"AUREL VLAICU\" MUN.LUGOJ",
+      "slug": "liceul-tehnologic-aurel-vlaicu-mun-lugoj",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"CRISTOFOR NAKO\" ORAS SANNICOLAU MARE",
+      "slug": "liceul-tehnologic-cristofor-nako-oras-sannicolau-mare",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"IOAN SLAVICI\" MUN. TIMIȘOARA",
+      "slug": "liceul-tehnologic-ioan-slavici-mun-timisoara",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"PETRE MITROI\" COM.BILED",
+      "slug": "liceul-tehnologic-petre-mitroi-com-biled",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"ROMULUS PARASCHIVOIU\" COM.LOVRIN",
+      "slug": "liceul-tehnologic-romulus-paraschivoiu-com-lovrin",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"SFANTUL NICOLAE\" ORAS DETA",
+      "slug": "liceul-tehnologic-sfantul-nicolae-oras-deta",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"TRAIAN GROZAVESCU\" COM. NADRAG",
+      "slug": "liceul-tehnologic-traian-grozavescu-com-nadrag",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "LICEUL TEOLOGIC BAPTIST MUN. TIMIȘOARA",
+      "slug": "liceul-teologic-baptist-mun-timisoara",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "LICEUL TEOLOGIC PENTICOSTAL LOGOS MUN. TIMIȘOARA",
+      "slug": "liceul-teologic-penticostal-logos-mun-timisoara",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "LICEUL TEOLOGIC ROMANO-CATOLIC \"GERHARDINUM\" MUN. TIMIȘOARA",
+      "slug": "liceul-teologic-romano-catolic-gerhardinum-mun-timisoara",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "LICEUL TEORETIC COM.PECIU NOU",
+      "slug": "liceul-teoretic-com-peciu-nou",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "LICEUL TEORETIC COM.PERIAM",
+      "slug": "liceul-teoretic-com-periam",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "LICEUL TEORETIC MILLENIUM MUN. TIMIȘOARA",
+      "slug": "liceul-teoretic-millenium-mun-timisoara",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "LICEUL TEORETIC ORAS BUZIAS",
+      "slug": "liceul-teoretic-oras-buzias",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "LICEUL TEORETIC ORAS GATAIA",
+      "slug": "liceul-teoretic-oras-gataia",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "LICEUL TEORETIC ORAS RECAS",
+      "slug": "liceul-teoretic-oras-recas",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "LICEUL TEORETIC SOCRATES MUN. TIMIȘOARA",
+      "slug": "liceul-teoretic-socrates-mun-timisoara",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "LICEUL TEORETIC SPECIAL IRIS MUN. TIMIȘOARA",
+      "slug": "liceul-teoretic-special-iris-mun-timisoara",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"ALEXANDRU MOCIONI\" ORAS CIACOVA",
+      "slug": "liceul-teoretic-alexandru-mocioni-oras-ciacova",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"BARTOK BELA\" MUN. TIMIȘOARA",
+      "slug": "liceul-teoretic-bartok-bela-mun-timisoara",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"DAVID VONIGA\" COM.GIROC",
+      "slug": "liceul-teoretic-david-voniga-com-giroc",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"DOSITEI OBRADOVICI\" MUN. TIMIȘOARA",
+      "slug": "liceul-teoretic-dositei-obradovici-mun-timisoara",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"GRIGORE MOISIL\" MUN. TIMIȘOARA",
+      "slug": "liceul-teoretic-grigore-moisil-mun-timisoara",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"HENRI COANDA\" MUN. TIMIȘOARA",
+      "slug": "liceul-teoretic-henri-coanda-mun-timisoara",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"IOAN JEBELEAN\" ORAS SANNICOLAU MARE",
+      "slug": "liceul-teoretic-ioan-jebelean-oras-sannicolau-mare",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"J.L.CALDERON\" MUN. TIMIȘOARA",
+      "slug": "liceul-teoretic-j-l-calderon-mun-timisoara",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"NIKOLAUS LENAU\" MUN. TIMIȘOARA",
+      "slug": "liceul-teoretic-nikolaus-lenau-mun-timisoara",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"SFINTII KIRIL SI METODII\" COM.DUDESTII VECHI",
+      "slug": "liceul-teoretic-sfintii-kiril-si-metodii-com-dudestii-vechi",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"TRAIAN VUIA\" ORAS FAGET",
+      "slug": "liceul-teoretic-traian-vuia-oras-faget",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"VLAD TEPES\" MUN. TIMIȘOARA",
+      "slug": "liceul-teoretic-vlad-tepes-mun-timisoara",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"WILLIAM SHAKESPEARE\" MUN. TIMIȘOARA",
+      "slug": "liceul-teoretic-william-shakespeare-mun-timisoara",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    },
+    {
+      "nume": "LICEUL WALDORF MUN. TIMIȘOARA",
+      "slug": "liceul-waldorf-mun-timisoara",
+      "judet": "TIMIȘ",
+      "judet_slug": "timis"
+    }
+  ],
+  "meta": {
+    "title": "Licee si colegii din judetul Timiș - Descărcare gratuită",
+    "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Timiș (58 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor. Conține 58 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Licee si colegii din judetul Timiș | ListBase",
+    "seo_description": "Descarcă Licee si colegii din judetul Timiș — 58 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 58 înregistrări / 4 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

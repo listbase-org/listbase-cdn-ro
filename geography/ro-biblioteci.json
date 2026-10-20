@@ -1,0 +1,3427 @@
+{
+  "id": "ro-biblioteci",
+  "name": "Biblioteci din România",
+  "title": "Biblioteci din România",
+  "description": "Biblioteci din România — 374 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `amenity=library`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 374,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "latitudine",
+      "label": "Latitudine",
+      "type": "number"
+    },
+    {
+      "key": "longitudine",
+      "label": "Longitudine",
+      "type": "number"
+    },
+    {
+      "key": "cheie_osm",
+      "label": "Cheie Osm",
+      "type": "string"
+    },
+    {
+      "key": "valoare_osm",
+      "label": "Valoare Osm",
+      "type": "string"
+    },
+    {
+      "key": "categorie_osm",
+      "label": "Categorie Osm",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nume": "Acasă",
+      "latitudine": 44.846186,
+      "longitudine": 24.846785,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 2,
+      "nume": "Alexandria",
+      "latitudine": 45.439942,
+      "longitudine": 28.056657,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 3,
+      "nume": "Alexandria",
+      "latitudine": 45.881534,
+      "longitudine": 22.901616,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 4,
+      "nume": "Anton de Padova",
+      "latitudine": 47.169147,
+      "longitudine": 27.55697,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 5,
+      "nume": "Apollonia",
+      "latitudine": 47.159055,
+      "longitudine": 27.595293,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 6,
+      "nume": "Arhivele Naționale",
+      "latitudine": 47.74795,
+      "longitudine": 26.645691,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 7,
+      "nume": "Balás Gábor Községi Könyvtár",
+      "latitudine": 46.793746,
+      "longitudine": 25.453921,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 8,
+      "nume": "Bibioteca \"Teodor Neș\" Könyvtár",
+      "latitudine": 46.802175,
+      "longitudine": 21.662981,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 9,
+      "nume": "Bibleoteca Olimpia Bratu",
+      "latitudine": 45.024644,
+      "longitudine": 23.268197,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 10,
+      "nume": "BiblioNet",
+      "latitudine": 43.89571,
+      "longitudine": 25.966323,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 11,
+      "nume": "Biblioteca",
+      "latitudine": 44.66903,
+      "longitudine": 24.878894,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 12,
+      "nume": "Biblioteca",
+      "latitudine": 44.93185,
+      "longitudine": 25.440234,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 13,
+      "nume": "Biblioteca",
+      "latitudine": 45.531531,
+      "longitudine": 28.014924,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 14,
+      "nume": "Biblioteca",
+      "latitudine": 45.655672,
+      "longitudine": 26.071578,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 15,
+      "nume": "Biblioteca",
+      "latitudine": 45.782451,
+      "longitudine": 21.216256,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 16,
+      "nume": "Biblioteca",
+      "latitudine": 45.796241,
+      "longitudine": 23.885414,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 17,
+      "nume": "Biblioteca",
+      "latitudine": 45.952569,
+      "longitudine": 23.570732,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 18,
+      "nume": "Biblioteca",
+      "latitudine": 46.762085,
+      "longitudine": 23.570689,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 19,
+      "nume": "biblioteca",
+      "latitudine": 47.218215,
+      "longitudine": 27.503941,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 20,
+      "nume": "Biblioteca",
+      "latitudine": 47.909313,
+      "longitudine": 26.978844,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 21,
+      "nume": "Biblioteca  Municipală George Sbârcea",
+      "latitudine": 46.924067,
+      "longitudine": 25.353159,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 22,
+      "nume": "Biblioteca \"Constantin Macarovici\"",
+      "latitudine": 46.835665,
+      "longitudine": 27.455607,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 23,
+      "nume": "Biblioteca \"Dr. Tudorel Ciurea\"",
+      "latitudine": 45.18826,
+      "longitudine": 28.233409,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 24,
+      "nume": "Biblioteca \"Elena Cuza\"",
+      "latitudine": 46.972684,
+      "longitudine": 27.542081,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 25,
+      "nume": "Biblioteca \"Ștefan Tănase\"",
+      "latitudine": 44.769065,
+      "longitudine": 26.434575,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 26,
+      "nume": "Biblioteca Academiei Române",
+      "latitudine": 47.173156,
+      "longitudine": 27.574013,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 27,
+      "nume": "Biblioteca Academiei Române – Filiala Cluj-Napoca",
+      "latitudine": 46.767666,
+      "longitudine": 23.594018,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 28,
+      "nume": "Biblioteca ALEXANDRU MACEDONSKI",
+      "latitudine": 44.378674,
+      "longitudine": 26.12426,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 29,
+      "nume": "Biblioteca Antim Ivireanu",
+      "latitudine": 45.106584,
+      "longitudine": 24.362665,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 30,
+      "nume": "Biblioteca ASTRA - Filiala Bâlea",
+      "latitudine": 45.794644,
+      "longitudine": 24.160326,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 31,
+      "nume": "Biblioteca ASTRA - Filiala Hipodrom",
+      "latitudine": 45.779267,
+      "longitudine": 24.159472,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 32,
+      "nume": "Biblioteca ASTRA - Filiala Vasile Aaron",
+      "latitudine": 45.787023,
+      "longitudine": 24.175405,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 33,
+      "nume": "Biblioteca ASTRA-filiala V.Aurie",
+      "latitudine": 45.767816,
+      "longitudine": 24.126025,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 34,
+      "nume": "Biblioteca Austria",
+      "latitudine": 46.775504,
+      "longitudine": 23.586914,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 35,
+      "nume": "Biblioteca B.P. Hașdeu",
+      "latitudine": 44.427315,
+      "longitudine": 26.119578,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 36,
+      "nume": "Biblioteca Berceni",
+      "latitudine": 44.931642,
+      "longitudine": 26.12275,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 37,
+      "nume": "Biblioteca Blăjani",
+      "latitudine": 45.313942,
+      "longitudine": 26.811844,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 38,
+      "nume": "Biblioteca Bolintin Vale",
+      "latitudine": 44.446496,
+      "longitudine": 25.759,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 39,
+      "nume": "Biblioteca Bucovinei ”I.G. Sbiera” Suceava",
+      "latitudine": 47.64196,
+      "longitudine": 26.259205,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 40,
+      "nume": "Biblioteca Bărcănești",
+      "latitudine": 44.6385,
+      "longitudine": 26.647506,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 41,
+      "nume": "Biblioteca Carașova.",
+      "latitudine": 45.203247,
+      "longitudine": 21.864007,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 42,
+      "nume": "Biblioteca Centrală",
+      "latitudine": 44.18837,
+      "longitudine": 27.335387,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 43,
+      "nume": "Biblioteca Centrală a Universității Politehnica din București",
+      "latitudine": 44.441129,
+      "longitudine": 26.051584,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 44,
+      "nume": "Biblioteca Centrală Universitară \"Mihai Eminescu\"",
+      "latitudine": 47.170196,
+      "longitudine": 27.575379,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 45,
+      "nume": "Biblioteca Centrală Universitară Carol I",
+      "latitudine": 44.43971,
+      "longitudine": 26.097585,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 46,
+      "nume": "Biblioteca Centrală Universitară Eugen Todoran",
+      "latitudine": 45.747444,
+      "longitudine": 21.232424,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 47,
+      "nume": "Biblioteca Centrală Universitară „Lucian Blaga”",
+      "latitudine": 46.767008,
+      "longitudine": 23.584772,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 48,
+      "nume": "Biblioteca Centrală UPT",
+      "latitudine": 45.747065,
+      "longitudine": 21.228858,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 49,
+      "nume": "Biblioteca Cepari",
+      "latitudine": 45.20782,
+      "longitudine": 24.551848,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 50,
+      "nume": "Biblioteca Chimiei",
+      "latitudine": 44.442951,
+      "longitudine": 26.070316,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 51,
+      "nume": "Biblioteca Ciacova",
+      "latitudine": 45.513537,
+      "longitudine": 21.124757,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 52,
+      "nume": "Biblioteca CNMB",
+      "latitudine": 44.180824,
+      "longitudine": 28.651286,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 53,
+      "nume": "Biblioteca Colegiului Național „Ferdinand I\"",
+      "latitudine": 46.569174,
+      "longitudine": 26.906616,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 54,
+      "nume": "Biblioteca Comunal Crișcior",
+      "latitudine": 46.118514,
+      "longitudine": 22.848667,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 55,
+      "nume": "Biblioteca Comunal Florica",
+      "latitudine": 44.909662,
+      "longitudine": 26.766237,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 56,
+      "nume": "Biblioteca Comunal Hărău",
+      "latitudine": 45.900735,
+      "longitudine": 22.955447,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 57,
+      "nume": "Biblioteca Comunal Poșaga de Jos",
+      "latitudine": 46.432696,
+      "longitudine": 23.435875,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 58,
+      "nume": "Biblioteca Comunal Sâncel",
+      "latitudine": 46.200128,
+      "longitudine": 23.94411,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 59,
+      "nume": "Biblioteca Comunala Adrian Cojocaru",
+      "latitudine": 44.928226,
+      "longitudine": 26.588327,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 60,
+      "nume": "Biblioteca Comunală",
+      "latitudine": 44.193245,
+      "longitudine": 27.384394,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 61,
+      "nume": "Biblioteca comunală",
+      "latitudine": 45.440174,
+      "longitudine": 27.833785,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 62,
+      "nume": "Biblioteca Comunală",
+      "latitudine": 45.793997,
+      "longitudine": 27.061106,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 63,
+      "nume": "Biblioteca Comunală",
+      "latitudine": 46.854679,
+      "longitudine": 26.472176,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 64,
+      "nume": "Biblioteca comunală",
+      "latitudine": 47.111154,
+      "longitudine": 26.534466,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 65,
+      "nume": "Biblioteca Comunală",
+      "latitudine": 47.658646,
+      "longitudine": 22.953386,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 66,
+      "nume": "Biblioteca Comunală",
+      "latitudine": 47.71108,
+      "longitudine": 22.503584,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 67,
+      "nume": "Biblioteca comunală",
+      "latitudine": 47.817318,
+      "longitudine": 24.052578,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 68,
+      "nume": "Biblioteca Comunală \"Vasile Pârloagă\"",
+      "latitudine": 46.853741,
+      "longitudine": 26.466313,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 69,
+      "nume": "Biblioteca comunală a Comunei Iepurești",
+      "latitudine": 44.258155,
+      "longitudine": 25.883981,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 70,
+      "nume": "Biblioteca comunală Arefu",
+      "latitudine": 45.328925,
+      "longitudine": 24.606284,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 71,
+      "nume": "Biblioteca Comunală Balcani",
+      "latitudine": 46.646034,
+      "longitudine": 26.566615,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 72,
+      "nume": "Biblioteca Comunală Bodești",
+      "latitudine": 45.141626,
+      "longitudine": 24.113945,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 73,
+      "nume": "Biblioteca Comunală Brusturi",
+      "latitudine": 47.274912,
+      "longitudine": 26.384903,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 74,
+      "nume": "Biblioteca Comunală Cilieni",
+      "latitudine": 43.902732,
+      "longitudine": 24.617836,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 75,
+      "nume": "Biblioteca Comunală Coșereni",
+      "latitudine": 44.682443,
+      "longitudine": 26.559701,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 76,
+      "nume": "Biblioteca Comunală Dârlos",
+      "latitudine": 46.187228,
+      "longitudine": 24.407911,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 77,
+      "nume": "Biblioteca Comunală Jilavele",
+      "latitudine": 44.761735,
+      "longitudine": 26.532008,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 78,
+      "nume": "Biblioteca Comunală Jucu",
+      "latitudine": 46.859982,
+      "longitudine": 23.796856,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 79,
+      "nume": "Biblioteca comunală Mărașu",
+      "latitudine": 44.842214,
+      "longitudine": 27.964625,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 80,
+      "nume": "Biblioteca Comunală Mărăcineni",
+      "latitudine": 45.181204,
+      "longitudine": 26.809298,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 81,
+      "nume": "Biblioteca Comunală Pir",
+      "latitudine": 47.461241,
+      "longitudine": 22.371151,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 82,
+      "nume": "Biblioteca Comunală Popești",
+      "latitudine": 44.979317,
+      "longitudine": 24.10094,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 83,
+      "nume": "Biblioteca Comunală Pui",
+      "latitudine": 45.514768,
+      "longitudine": 23.093515,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 84,
+      "nume": "Biblioteca Comunală Salcia",
+      "latitudine": 43.941423,
+      "longitudine": 24.925369,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 85,
+      "nume": "Biblioteca Comunală Scundu",
+      "latitudine": 44.848164,
+      "longitudine": 24.17803,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 86,
+      "nume": "Biblioteca Comunală Sălătrucel",
+      "latitudine": 45.248277,
+      "longitudine": 24.387831,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 87,
+      "nume": "Biblioteca Comunală Sărmaș",
+      "latitudine": 46.885281,
+      "longitudine": 25.443415,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 88,
+      "nume": "Biblioteca Comunală Văgiuleşti",
+      "latitudine": 44.718217,
+      "longitudine": 23.080516,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 89,
+      "nume": "Biblioteca Comunală Șirineasa",
+      "latitudine": 44.947485,
+      "longitudine": 24.16959,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 90,
+      "nume": "Biblioteca Comunală Șuici",
+      "latitudine": 45.245449,
+      "longitudine": 24.538656,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 91,
+      "nume": "Biblioteca Comunală ”Vasile Cârlova” Vernești",
+      "latitudine": 45.205509,
+      "longitudine": 26.72581,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 92,
+      "nume": "Biblioteca comunei Ciocârlia",
+      "latitudine": 44.798591,
+      "longitudine": 26.677884,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 93,
+      "nume": "Biblioteca Comunei Coțușca",
+      "latitudine": 48.130619,
+      "longitudine": 26.853884,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 94,
+      "nume": "Biblioteca Comunei Daia Română",
+      "latitudine": 46.007259,
+      "longitudine": 23.66657,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 95,
+      "nume": "Biblioteca Comunei Gropeni",
+      "latitudine": 45.07478,
+      "longitudine": 27.881461,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 96,
+      "nume": "Biblioteca Comunei Roșia de Secaș",
+      "latitudine": 46.057381,
+      "longitudine": 23.884085,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 97,
+      "nume": "Biblioteca Comunei Tigveni",
+      "latitudine": 45.137066,
+      "longitudine": 24.55947,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 98,
+      "nume": "Biblioteca comună",
+      "latitudine": 47.70487,
+      "longitudine": 22.497543,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 99,
+      "nume": "Biblioteca Constantin Pavel",
+      "latitudine": 46.668186,
+      "longitudine": 22.349899,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 100,
+      "nume": "Biblioteca Corabia",
+      "latitudine": 43.775425,
+      "longitudine": 24.503211,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 101,
+      "nume": "Biblioteca Corlatesti",
+      "latitudine": 44.914869,
+      "longitudine": 26.084075,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 102,
+      "nume": "Biblioteca DAAD",
+      "latitudine": 47.174071,
+      "longitudine": 27.572104,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 103,
+      "nume": "Biblioteca de Botanică",
+      "latitudine": 46.762154,
+      "longitudine": 23.587691,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 104,
+      "nume": "Biblioteca de Filosofie",
+      "latitudine": 46.767932,
+      "longitudine": 23.591911,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 105,
+      "nume": "Biblioteca de Filosofie",
+      "latitudine": 47.169658,
+      "longitudine": 27.577438,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 106,
+      "nume": "Biblioteca de Fizică",
+      "latitudine": 46.767783,
+      "longitudine": 23.591983,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 107,
+      "nume": "Biblioteca de Studii Americane J.F. Kennedy",
+      "latitudine": 46.768939,
+      "longitudine": 23.594837,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 108,
+      "nume": "Biblioteca de Studii Germane Georg Weber",
+      "latitudine": 46.768904,
+      "longitudine": 23.595015,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 109,
+      "nume": "Biblioteca de vară Herăstrău",
+      "latitudine": 44.468863,
+      "longitudine": 26.081847,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 110,
+      "nume": "Biblioteca Deleni;Gradinita Deleni",
+      "latitudine": 47.463697,
+      "longitudine": 26.877407,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 111,
+      "nume": "Biblioteca Dimitrie Bolintineanu",
+      "latitudine": 44.48933,
+      "longitudine": 26.035447,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 112,
+      "nume": "Biblioteca Dimitrie Cantemir",
+      "latitudine": 44.444361,
+      "longitudine": 26.1128,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 113,
+      "nume": "Biblioteca Documentară „Petre Țuțea”",
+      "latitudine": 44.186542,
+      "longitudine": 28.649797,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 114,
+      "nume": "Biblioteca Emil Gârleanu",
+      "latitudine": 44.423483,
+      "longitudine": 26.112482,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 115,
+      "nume": "Biblioteca Facultății de Drept",
+      "latitudine": 46.766613,
+      "longitudine": 23.589542,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 116,
+      "nume": "Biblioteca G.T. Kirileanu",
+      "latitudine": 47.347267,
+      "longitudine": 25.349451,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 117,
+      "nume": "Biblioteca GEORGE TOPÎRCEANU",
+      "latitudine": 44.435409,
+      "longitudine": 26.030036,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 118,
+      "nume": "Biblioteca Germană",
+      "latitudine": 47.170403,
+      "longitudine": 27.575586,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 119,
+      "nume": "Biblioteca Gheorghe Lazăr",
+      "latitudine": 44.435307,
+      "longitudine": 26.028402,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 120,
+      "nume": "Biblioteca Ghimpați",
+      "latitudine": 44.190451,
+      "longitudine": 25.775229,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 121,
+      "nume": "Biblioteca Gropeni",
+      "latitudine": 45.074674,
+      "longitudine": 27.881678,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 122,
+      "nume": "Biblioteca Independența",
+      "latitudine": 45.473729,
+      "longitudine": 27.762319,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 123,
+      "nume": "Biblioteca Institutului de Cercetări Socio-Umane Sibiu",
+      "latitudine": 45.787358,
+      "longitudine": 24.140577,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 124,
+      "nume": "Biblioteca IOAN SLAVICI",
+      "latitudine": 44.462437,
+      "longitudine": 26.095228,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 125,
+      "nume": "Biblioteca Ion Agarbiceanu",
+      "latitudine": 46.058197,
+      "longitudine": 24.00477,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 126,
+      "nume": "Biblioteca Ion Neculce",
+      "latitudine": 44.421258,
+      "longitudine": 26.139516,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 127,
+      "nume": "Biblioteca Istorie-Litere",
+      "latitudine": 47.177001,
+      "longitudine": 27.573085,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 128,
+      "nume": "Biblioteca Jud. A.D. Xenopol filiala Aurel Vlaicu",
+      "latitudine": 46.194859,
+      "longitudine": 21.302177,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 129,
+      "nume": "Biblioteca judeteana \"Gh. Asachi\"",
+      "latitudine": 47.162819,
+      "longitudine": 27.581577,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 130,
+      "nume": "Biblioteca Judeţeană Satu Mare",
+      "latitudine": 47.795042,
+      "longitudine": 22.873582,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 131,
+      "nume": "Biblioteca Judeţeană „Duiliu Zamfirescu\" Vrancea - Sala de lectură adulți/ Sala Internet",
+      "latitudine": 45.702034,
+      "longitudine": 27.188796,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 132,
+      "nume": "Biblioteca Județeană",
+      "latitudine": 45.884072,
+      "longitudine": 22.900713,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 133,
+      "nume": "Biblioteca Județeană \"Bod Péter\"",
+      "latitudine": 45.865991,
+      "longitudine": 25.785374,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 134,
+      "nume": "Biblioteca județeană \"Dinicu Golescu\" Argeș",
+      "latitudine": 44.858101,
+      "longitudine": 24.87185,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 135,
+      "nume": "Biblioteca Județeană \"G.T. Kirilieanu\"",
+      "latitudine": 46.92922,
+      "longitudine": 26.364373,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 136,
+      "nume": "Biblioteca Județeană \"Gheorghe Barițiu\"",
+      "latitudine": 45.645819,
+      "longitudine": 25.587087,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 137,
+      "nume": "Biblioteca Județeană \"Gheorghe Barițiu\" Secția 6 Tineret și Copii",
+      "latitudine": 45.646449,
+      "longitudine": 25.597518,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 138,
+      "nume": "Biblioteca Județeană \"Ion Heliade Rădulescu\"",
+      "latitudine": 44.928503,
+      "longitudine": 25.461262,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 139,
+      "nume": "Biblioteca Județeană \"Ioniță Scipione Bădescu\"",
+      "latitudine": 47.17911,
+      "longitudine": 23.056367,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 140,
+      "nume": "Biblioteca Județeană \"Lucian Blaga\"",
+      "latitudine": 46.070746,
+      "longitudine": 23.583304,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 141,
+      "nume": "Biblioteca Județeană \"Nicolae Iorga\" Prahova",
+      "latitudine": 44.941838,
+      "longitudine": 26.021764,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 142,
+      "nume": "Biblioteca Județeană \"Vasile Voiculescu\" Buzău",
+      "latitudine": 45.148569,
+      "longitudine": 26.81559,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 143,
+      "nume": "Biblioteca Județeană - Filiala nr. 3",
+      "latitudine": 44.171874,
+      "longitudine": 28.61723,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 144,
+      "nume": "Biblioteca Județeană Alexandru și Aristia Aman",
+      "latitudine": 44.315905,
+      "longitudine": 23.796716,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 145,
+      "nume": "Biblioteca Județeană Arad - Filiala Aradul Nou",
+      "latitudine": 46.151509,
+      "longitudine": 21.321114,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 146,
+      "nume": "Biblioteca Județeană Arad A.D. Xenopol Sediul Central",
+      "latitudine": 46.176935,
+      "longitudine": 21.3159,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 147,
+      "nume": "Biblioteca Județeană ASTRA Sibiu, Corpul A",
+      "latitudine": 45.792985,
+      "longitudine": 24.147172,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 148,
+      "nume": "Biblioteca Județeană ASTRA Sibiu, Corpul B",
+      "latitudine": 45.793268,
+      "longitudine": 24.146337,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 149,
+      "nume": "Biblioteca Județeană Filiala 5",
+      "latitudine": 45.657246,
+      "longitudine": 25.598577,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 150,
+      "nume": "Biblioteca Județeană George Barițiu",
+      "latitudine": 45.640126,
+      "longitudine": 25.627245,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 151,
+      "nume": "Biblioteca Județeană Gheorghe Șincai",
+      "latitudine": 46.989644,
+      "longitudine": 21.979333,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 152,
+      "nume": "Biblioteca Județeană Gheorghe Șincai",
+      "latitudine": 47.04917,
+      "longitudine": 21.922547,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 153,
+      "nume": "Biblioteca Județeană Octavian Goga",
+      "latitudine": 46.776452,
+      "longitudine": 23.615358,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 154,
+      "nume": "Biblioteca Județeană Octavian Goga, Filiala Grigorescu",
+      "latitudine": 46.76968,
+      "longitudine": 23.548959,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 155,
+      "nume": "Biblioteca Județeană Octavian Goga, Filiala Traian Brad",
+      "latitudine": 46.755761,
+      "longitudine": 23.557047,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 156,
+      "nume": "Biblioteca Județeană Octavian Goga, filiala Zorilor",
+      "latitudine": 46.755599,
+      "longitudine": 23.595746,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 157,
+      "nume": "Biblioteca județeană Panait Cerna",
+      "latitudine": 45.179918,
+      "longitudine": 28.794483,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 158,
+      "nume": "Biblioteca Județeană Panait Istrati",
+      "latitudine": 45.272808,
+      "longitudine": 27.97668,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 159,
+      "nume": "Biblioteca Județeană Petre Dulfu",
+      "latitudine": 47.659134,
+      "longitudine": 23.569064,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 160,
+      "nume": "Biblioteca Județeană Suceava",
+      "latitudine": 47.641972,
+      "longitudine": 26.259635,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 161,
+      "nume": "Biblioteca Județeană Timiș",
+      "latitudine": 45.755381,
+      "longitudine": 21.227993,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 162,
+      "nume": "Biblioteca Județeană Timiș - Filiala Fabric-Vii",
+      "latitudine": 45.772267,
+      "longitudine": 21.233127,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 163,
+      "nume": "Biblioteca Județeană Timiș - Filiala Freidorf",
+      "latitudine": 45.725274,
+      "longitudine": 21.178814,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 164,
+      "nume": "Biblioteca Județeană Timiș Sorin Titel - Secția pentru Copii și Tineret",
+      "latitudine": 45.754992,
+      "longitudine": 21.252139,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 165,
+      "nume": "Biblioteca Județeană „Costache Sturdza\"",
+      "latitudine": 46.564007,
+      "longitudine": 26.915478,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 166,
+      "nume": "Biblioteca Județeană „Duiliu Zamfirescu\"",
+      "latitudine": 45.697692,
+      "longitudine": 27.187172,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 167,
+      "nume": "Biblioteca Județeană „Duiliu Zamfirescu\" - Secția pentru Copii și Tineret",
+      "latitudine": 45.700997,
+      "longitudine": 27.180396,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 168,
+      "nume": "Biblioteca Județeană „I. A. Bassarabescu” Giurgiu",
+      "latitudine": 43.895746,
+      "longitudine": 25.966101,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 169,
+      "nume": "Biblioteca Județeană „Ioan N. Roman”",
+      "latitudine": 44.183353,
+      "longitudine": 28.65164,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 170,
+      "nume": "Biblioteca Județeană „Ion Minulescu”",
+      "latitudine": 44.428721,
+      "longitudine": 24.365332,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 171,
+      "nume": "Biblioteca Județeană „Kájoni János”",
+      "latitudine": 46.364339,
+      "longitudine": 25.804788,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 172,
+      "nume": "Biblioteca Județeană „Panait Istrati”",
+      "latitudine": 45.272941,
+      "longitudine": 27.97629,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 173,
+      "nume": "Biblioteca Leu",
+      "latitudine": 44.188642,
+      "longitudine": 24.001664,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 174,
+      "nume": "Biblioteca Locală Ciurea",
+      "latitudine": 47.064537,
+      "longitudine": 27.57215,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 175,
+      "nume": "Biblioteca locală Mărașu",
+      "latitudine": 44.842453,
+      "longitudine": 27.965268,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 176,
+      "nume": "Biblioteca Luncavița",
+      "latitudine": 45.287568,
+      "longitudine": 28.281665,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 177,
+      "nume": "Biblioteca Marin Preda",
+      "latitudine": 44.438752,
+      "longitudine": 26.078598,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 178,
+      "nume": "Biblioteca Metropolitană (sediul central)",
+      "latitudine": 44.443974,
+      "longitudine": 26.097244,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 179,
+      "nume": "Biblioteca Metropolitană Filiala Liviu Rebreanu",
+      "latitudine": 44.435369,
+      "longitudine": 26.168583,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 180,
+      "nume": "Biblioteca Militară Naţională",
+      "latitudine": 44.434903,
+      "longitudine": 26.096799,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 181,
+      "nume": "Biblioteca Municipală",
+      "latitudine": 45.152685,
+      "longitudine": 24.675813,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 182,
+      "nume": "Biblioteca Municipală",
+      "latitudine": 45.845104,
+      "longitudine": 24.97373,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 183,
+      "nume": "Biblioteca Municipală",
+      "latitudine": 46.176105,
+      "longitudine": 23.917966,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 184,
+      "nume": "Biblioteca Municipală",
+      "latitudine": 46.474078,
+      "longitudine": 26.489341,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 185,
+      "nume": "Biblioteca municipală",
+      "latitudine": 47.247743,
+      "longitudine": 26.720722,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 186,
+      "nume": "Biblioteca Municipală \"Gheorghe Pârvu\"",
+      "latitudine": 46.128133,
+      "longitudine": 22.790752,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 187,
+      "nume": "Biblioteca municipală \"Laurențiu Ulici\"",
+      "latitudine": 47.926871,
+      "longitudine": 23.901414,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 188,
+      "nume": "Biblioteca municipală \"Mihail Halici\"",
+      "latitudine": 45.410542,
+      "longitudine": 22.219532,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 189,
+      "nume": "Biblioteca municipală \"Teodor Murășanu\"",
+      "latitudine": 46.575059,
+      "longitudine": 23.78521,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 190,
+      "nume": "Biblioteca Municipală Baronul Wesselényi Miklós",
+      "latitudine": 46.000197,
+      "longitudine": 26.132588,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 191,
+      "nume": "Biblioteca Municipală Câmpina",
+      "latitudine": 45.121295,
+      "longitudine": 25.731469,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 192,
+      "nume": "Biblioteca Municipală Dej",
+      "latitudine": 47.142281,
+      "longitudine": 23.87281,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 193,
+      "nume": "Biblioteca Municipală Drăgășani",
+      "latitudine": 44.660394,
+      "longitudine": 24.266646,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 194,
+      "nume": "Biblioteca Municipală George Radu Melidon",
+      "latitudine": 46.92082,
+      "longitudine": 26.928654,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 195,
+      "nume": "Biblioteca Municipală George Șt. Marincu",
+      "latitudine": 43.994769,
+      "longitudine": 22.931451,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 196,
+      "nume": "Biblioteca municipală Gherla",
+      "latitudine": 47.028129,
+      "longitudine": 23.908488,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 197,
+      "nume": "Biblioteca Municipală Gherla",
+      "latitudine": 47.028872,
+      "longitudine": 23.908193,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 198,
+      "nume": "Biblioteca Municipală Lugoj",
+      "latitudine": 45.686324,
+      "longitudine": 21.90757,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 199,
+      "nume": "Biblioteca Municipală Motru",
+      "latitudine": 44.803257,
+      "longitudine": 22.972088,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 200,
+      "nume": "Biblioteca Municipală Radu Rosetti",
+      "latitudine": 46.24876,
+      "longitudine": 26.760152,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 201,
+      "nume": "Biblioteca Municipală Sebastian Bornemisa",
+      "latitudine": 45.837943,
+      "longitudine": 23.193716,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 202,
+      "nume": "Biblioteca Municipală Săcele Victor Tudoran",
+      "latitudine": 45.619436,
+      "longitudine": 25.705711,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 203,
+      "nume": "Biblioteca Municipală „Stroe Belloescu”",
+      "latitudine": 46.224162,
+      "longitudine": 27.669173,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 204,
+      "nume": "Biblioteca Municipală „Ștefan Perică” Tecuci",
+      "latitudine": 45.844877,
+      "longitudine": 27.432176,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 205,
+      "nume": "Biblioteca Municipiului Slobozia",
+      "latitudine": 44.561842,
+      "longitudine": 27.35887,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 206,
+      "nume": "Biblioteca Națională a României",
+      "latitudine": 44.425273,
+      "longitudine": 26.110093,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 207,
+      "nume": "Biblioteca Națională a României Filiala Batthyaneum",
+      "latitudine": 46.070358,
+      "longitudine": 23.5707,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 208,
+      "nume": "Biblioteca Națională de Poezie",
+      "latitudine": 47.76663,
+      "longitudine": 26.558218,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 209,
+      "nume": "Biblioteca Nicolae Bălcescu",
+      "latitudine": 44.394328,
+      "longitudine": 26.093763,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 210,
+      "nume": "Biblioteca Nicolae Labiș",
+      "latitudine": 44.426162,
+      "longitudine": 26.032987,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 211,
+      "nume": "Biblioteca Oltenita",
+      "latitudine": 44.090555,
+      "longitudine": 26.637853,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 212,
+      "nume": "Biblioteca Orasaneasca Tasnad",
+      "latitudine": 47.478876,
+      "longitudine": 22.583579,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 213,
+      "nume": "Biblioteca Oraseneasca Pecica",
+      "latitudine": 46.165941,
+      "longitudine": 21.073183,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 214,
+      "nume": "Biblioteca Orașenească Huedin",
+      "latitudine": 46.864415,
+      "longitudine": 23.023863,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 215,
+      "nume": "Biblioteca Orașului Adjud",
+      "latitudine": 46.094275,
+      "longitudine": 27.185345,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 216,
+      "nume": "Biblioteca Orașului Călimănești",
+      "latitudine": 45.247153,
+      "longitudine": 24.339238,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 217,
+      "nume": "Biblioteca orașului Eforie",
+      "latitudine": 44.062405,
+      "longitudine": 28.635395,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 218,
+      "nume": "Biblioteca Orăşenească Făget",
+      "latitudine": 45.8562,
+      "longitudine": 22.17615,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 219,
+      "nume": "Biblioteca Orăşenească Hârşova",
+      "latitudine": 44.686734,
+      "longitudine": 27.951323,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 220,
+      "nume": "Biblioteca Orășenească",
+      "latitudine": 45.673895,
+      "longitudine": 26.031481,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 221,
+      "nume": "Biblioteca Orășenească",
+      "latitudine": 48.183339,
+      "longitudine": 26.589414,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 222,
+      "nume": "Biblioteca Orășenească \"Ada Orleanu\"",
+      "latitudine": 45.145421,
+      "longitudine": 23.988955,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 223,
+      "nume": "Biblioteca Orășenească \"Mircea Rădină\"",
+      "latitudine": 44.093514,
+      "longitudine": 23.745383,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 224,
+      "nume": "Biblioteca Orășenească Azuga",
+      "latitudine": 45.443786,
+      "longitudine": 25.554358,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 225,
+      "nume": "Biblioteca Orășenească Baia Sprie",
+      "latitudine": 47.662369,
+      "longitudine": 23.701125,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 226,
+      "nume": "Biblioteca Orășenească Curtici",
+      "latitudine": 46.341127,
+      "longitudine": 21.308539,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 227,
+      "nume": "Biblioteca Orășenească Iernut",
+      "latitudine": 46.449977,
+      "longitudine": 24.234004,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 228,
+      "nume": "Biblioteca Orășenească Lehliu-Gară",
+      "latitudine": 44.440996,
+      "longitudine": 26.855396,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 229,
+      "nume": "Biblioteca Orășenească Nădlac",
+      "latitudine": 46.163761,
+      "longitudine": 20.74782,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 230,
+      "nume": "Biblioteca Orășenească Petre Pandrea",
+      "latitudine": 44.349808,
+      "longitudine": 24.101737,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 231,
+      "nume": "Biblioteca orășenească Techirghiol",
+      "latitudine": 44.052992,
+      "longitudine": 28.59807,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 232,
+      "nume": "Biblioteca Orășenească Vălenii de Munte",
+      "latitudine": 45.186245,
+      "longitudine": 26.04061,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 233,
+      "nume": "Biblioteca Orășenească ”Máté Imre”",
+      "latitudine": 47.520136,
+      "longitudine": 22.132936,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 234,
+      "nume": "Biblioteca Otilia Cazimir",
+      "latitudine": 44.379456,
+      "longitudine": 26.126131,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 235,
+      "nume": "Biblioteca Ovid Densușianu",
+      "latitudine": 45.88403,
+      "longitudine": 22.900146,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 236,
+      "nume": "Biblioteca Panait Istrati",
+      "latitudine": 45.263715,
+      "longitudine": 27.9675,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 237,
+      "nume": "Biblioteca Paul Iorgovici",
+      "latitudine": 45.290212,
+      "longitudine": 21.889949,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 238,
+      "nume": "Biblioteca pentru copii și tineret ELENA FARAGO",
+      "latitudine": 44.393971,
+      "longitudine": 26.092732,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 239,
+      "nume": "Biblioteca pentru copii și tineret George Călinescu",
+      "latitudine": 44.44482,
+      "longitudine": 26.082508,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 240,
+      "nume": "Biblioteca pentru copii și Tineret „Ion Creangă”",
+      "latitudine": 44.445404,
+      "longitudine": 26.094051,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 241,
+      "nume": "Biblioteca pentru copii și Tineret „Petre Ispirescu”",
+      "latitudine": 44.483152,
+      "longitudine": 26.052979,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 242,
+      "nume": "Biblioteca Podu Turcului",
+      "latitudine": 46.200725,
+      "longitudine": 27.38402,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 243,
+      "nume": "Biblioteca publică George Coșbuc",
+      "latitudine": 44.397248,
+      "longitudine": 26.105646,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 244,
+      "nume": "Biblioteca Publică Medeleni",
+      "latitudine": 47.297642,
+      "longitudine": 27.692167,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 245,
+      "nume": "Biblioteca Publică Roești",
+      "latitudine": 44.912383,
+      "longitudine": 24.070346,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 246,
+      "nume": "Biblioteca Publică Teritorială",
+      "latitudine": 47.38628,
+      "longitudine": 27.583683,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 247,
+      "nume": "Biblioteca Publică “Ana Georgescu”",
+      "latitudine": 45.759165,
+      "longitudine": 27.066699,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 248,
+      "nume": "Biblioteca Păuleni-Ciuc",
+      "latitudine": 46.395093,
+      "longitudine": 25.835336,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 249,
+      "nume": "Biblioteca Scolii",
+      "latitudine": 47.474618,
+      "longitudine": 22.58574,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 250,
+      "nume": "Biblioteca Sfântul Ioan Iacob Românul",
+      "latitudine": 47.742598,
+      "longitudine": 26.6615,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 251,
+      "nume": "Biblioteca Teodor Neș",
+      "latitudine": 46.802167,
+      "longitudine": 21.662884,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 252,
+      "nume": "Biblioteca Trifești",
+      "latitudine": 46.901518,
+      "longitudine": 26.862811,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 253,
+      "nume": "Biblioteca UAD",
+      "latitudine": 46.771155,
+      "longitudine": 23.587452,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 254,
+      "nume": "Biblioteca UMF",
+      "latitudine": 47.166097,
+      "longitudine": 27.583944,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 255,
+      "nume": "Biblioteca Universitară \"Lucian Blaga\"",
+      "latitudine": 45.793405,
+      "longitudine": 24.156465,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 256,
+      "nume": "Biblioteca Universitară „Ioan Popișteanu”",
+      "latitudine": 44.194886,
+      "longitudine": 28.649773,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 257,
+      "nume": "Biblioteca Universităţii „Vasile Alecsandri” din Bacău",
+      "latitudine": 46.555926,
+      "longitudine": 26.90715,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 258,
+      "nume": "Biblioteca Universității 1 Decembrie 1918",
+      "latitudine": 46.069792,
+      "longitudine": 23.572001,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 259,
+      "nume": "Biblioteca Universității din Craiova",
+      "latitudine": 44.312367,
+      "longitudine": 23.836699,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 260,
+      "nume": "Biblioteca Universității din Craiova",
+      "latitudine": 44.317233,
+      "longitudine": 23.821943,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 261,
+      "nume": "Biblioteca Universității din Oradea",
+      "latitudine": 47.042989,
+      "longitudine": 21.918398,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 262,
+      "nume": "Biblioteca Universității “Transilvania”",
+      "latitudine": 45.65091,
+      "longitudine": 25.602958,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 263,
+      "nume": "Biblioteca USAMV",
+      "latitudine": 44.469812,
+      "longitudine": 26.069087,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 264,
+      "nume": "Biblioteca UTCN Mărăști",
+      "latitudine": 46.782309,
+      "longitudine": 23.621433,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 265,
+      "nume": "Biblioteca UTCN Observator",
+      "latitudine": 46.756178,
+      "longitudine": 23.593094,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 266,
+      "nume": "Biblioteca V. A. Urechia",
+      "latitudine": 45.445364,
+      "longitudine": 28.05712,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 267,
+      "nume": "Biblioteca V.A. Urechia - filiala 1",
+      "latitudine": 45.429513,
+      "longitudine": 28.03874,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 268,
+      "nume": "Biblioteca Valeriu Bologa",
+      "latitudine": 46.765051,
+      "longitudine": 23.584891,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 269,
+      "nume": "Biblioteca Valeriu Bologa, sediu Hașdeu",
+      "latitudine": 46.762931,
+      "longitudine": 23.578301,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 270,
+      "nume": "Biblioteca Școlară",
+      "latitudine": 47.522826,
+      "longitudine": 22.129621,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 271,
+      "nume": "Biblioteca Școlară Căbești",
+      "latitudine": 46.765762,
+      "longitudine": 22.366196,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 272,
+      "nume": "Biblioteca Școlii Generale",
+      "latitudine": 46.44928,
+      "longitudine": 24.231577,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 273,
+      "nume": "Biblioteca „Alexandru Odobescu”",
+      "latitudine": 44.444496,
+      "longitudine": 26.127613,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 274,
+      "nume": "Biblioteca „Cezar Petrescu”",
+      "latitudine": 44.455169,
+      "longitudine": 26.062839,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 275,
+      "nume": "Biblioteca „Ienăchiță Văcărescu”",
+      "latitudine": 44.420975,
+      "longitudine": 26.090531,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 276,
+      "nume": "Biblioteca „Metropolitana” Filiala Lucian Blaga",
+      "latitudine": 44.441444,
+      "longitudine": 26.132435,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 277,
+      "nume": "Biblioteca „Naum Pocorschi”Jurilovca",
+      "latitudine": 44.758197,
+      "longitudine": 28.87458,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 278,
+      "nume": "Biblioteca „Pantelimon Halippa”",
+      "latitudine": 44.433867,
+      "longitudine": 26.105279,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 279,
+      "nume": "Bibliotecă",
+      "latitudine": 43.800259,
+      "longitudine": 24.094902,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 280,
+      "nume": "Bibliotecă",
+      "latitudine": 44.103229,
+      "longitudine": 25.597634,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 281,
+      "nume": "Bibliotecă",
+      "latitudine": 45.302979,
+      "longitudine": 27.283932,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 282,
+      "nume": "Bibliotecă",
+      "latitudine": 45.844933,
+      "longitudine": 26.167911,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 283,
+      "nume": "bibliotecă",
+      "latitudine": 47.175865,
+      "longitudine": 27.496647,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 284,
+      "nume": "Bibliotecă",
+      "latitudine": 47.767595,
+      "longitudine": 26.44165,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 285,
+      "nume": "Bibliotecă - Könyvtár",
+      "latitudine": 46.303423,
+      "longitudine": 25.29732,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 286,
+      "nume": "Bibliotecă Comănești",
+      "latitudine": 46.421733,
+      "longitudine": 26.440867,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 287,
+      "nume": "bibliotecă Cârlibaba",
+      "latitudine": 47.570703,
+      "longitudine": 25.126105,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 288,
+      "nume": "Bibliotecă de Iudaistică și Studiu al Holocaustului",
+      "latitudine": 46.775432,
+      "longitudine": 23.592312,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 289,
+      "nume": "Bookcity",
+      "latitudine": 46.528132,
+      "longitudine": 24.594304,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 290,
+      "nume": "British Council",
+      "latitudine": 47.170299,
+      "longitudine": 27.575672,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 291,
+      "nume": "Casa Cărții",
+      "latitudine": 47.458144,
+      "longitudine": 26.300747,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 292,
+      "nume": "Casa de Cultură",
+      "latitudine": 43.811284,
+      "longitudine": 28.583089,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 293,
+      "nume": "Casa de cultură",
+      "latitudine": 45.844845,
+      "longitudine": 26.167946,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 294,
+      "nume": "Casa de Cultură",
+      "latitudine": 46.534861,
+      "longitudine": 22.457142,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 295,
+      "nume": "Casa de cultură Șimand",
+      "latitudine": 46.422946,
+      "longitudine": 21.450138,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 296,
+      "nume": "Centru Cultural Godeanu",
+      "latitudine": 44.800718,
+      "longitudine": 22.606286,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 297,
+      "nume": "Centru de training turism",
+      "latitudine": 46.765164,
+      "longitudine": 23.581108,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 298,
+      "nume": "Centrul Cultural Carmen Sylva",
+      "latitudine": 45.351622,
+      "longitudine": 25.547224,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 299,
+      "nume": "Centrul Cultural Cerașu",
+      "latitudine": 45.323651,
+      "longitudine": 26.039849,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 300,
+      "nume": "Centrul de Tineret",
+      "latitudine": 44.433736,
+      "longitudine": 26.104884,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 301,
+      "nume": "Centrul Multicultural \"George Barițiu\"",
+      "latitudine": 45.645389,
+      "longitudine": 25.587885,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 302,
+      "nume": "Cetatea Doamnei",
+      "latitudine": 46.930932,
+      "longitudine": 26.371098,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 303,
+      "nume": "CLB",
+      "latitudine": 44.388815,
+      "longitudine": 26.132281,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 304,
+      "nume": "CLB",
+      "latitudine": 44.46017,
+      "longitudine": 26.12704,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 305,
+      "nume": "CLB",
+      "latitudine": 44.461471,
+      "longitudine": 26.132388,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 306,
+      "nume": "Colecția Antonio Olinto",
+      "latitudine": 44.462435,
+      "longitudine": 26.095177,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 307,
+      "nume": "Colecția banca de imagine și sunet RICARDO CRAVO ALBIN",
+      "latitudine": 44.462415,
+      "longitudine": 26.095194,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 308,
+      "nume": "Compas",
+      "latitudine": 47.790524,
+      "longitudine": 22.872543,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 309,
+      "nume": "Conte",
+      "latitudine": 44.199623,
+      "longitudine": 27.331864,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 310,
+      "nume": "Curba de Cultură",
+      "latitudine": 45.278249,
+      "longitudine": 26.009619,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 311,
+      "nume": "Cămin cultural",
+      "latitudine": 44.896199,
+      "longitudine": 29.592169,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 312,
+      "nume": "Căminul Cultural",
+      "latitudine": 47.459899,
+      "longitudine": 26.879474,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 313,
+      "nume": "Editura \"Junimea\"",
+      "latitudine": 47.17005,
+      "longitudine": 27.57526,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 314,
+      "nume": "Editura Polirom",
+      "latitudine": 47.171959,
+      "longitudine": 27.575029,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 315,
+      "nume": "Eleki városi Könyvtár",
+      "latitudine": 46.530291,
+      "longitudine": 21.254885,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 316,
+      "nume": "Filiala \"Vasile Alecsandri\"",
+      "latitudine": 47.144972,
+      "longitudine": 27.580962,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 317,
+      "nume": "Filiala „Mihail Sadoveanu” a Bibliotecii Județene „Gh. Asachi”",
+      "latitudine": 47.162682,
+      "longitudine": 27.566326,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 318,
+      "nume": "Fischer International",
+      "latitudine": 44.448295,
+      "longitudine": 26.094735,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 319,
+      "nume": "Francisc Păcurariu",
+      "latitudine": 46.908704,
+      "longitudine": 24.505366,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 320,
+      "nume": "Fundația Culturală Roșia Montană",
+      "latitudine": 46.30611,
+      "longitudine": 23.130851,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 321,
+      "nume": "Fábián Ernő Községi Könyvtár - Bibliotecă",
+      "latitudine": 45.794746,
+      "longitudine": 25.770943,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 322,
+      "nume": "Geografie",
+      "latitudine": 46.764593,
+      "longitudine": 23.579715,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 323,
+      "nume": "Iordăchescu & Asociații",
+      "latitudine": 46.765427,
+      "longitudine": 23.590847,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 324,
+      "nume": "Istorie Modernă",
+      "latitudine": 46.767516,
+      "longitudine": 23.588784,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 325,
+      "nume": "Karul Libris",
+      "latitudine": 47.685153,
+      "longitudine": 22.46839,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 326,
+      "nume": "Könyvtár",
+      "latitudine": 46.170158,
+      "longitudine": 20.613158,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 327,
+      "nume": "la biserica baptista",
+      "latitudine": 46.212643,
+      "longitudine": 21.276291,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 328,
+      "nume": "Libraria Donaris",
+      "latitudine": 45.436842,
+      "longitudine": 28.052968,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 329,
+      "nume": "Libraria Emma",
+      "latitudine": 44.863617,
+      "longitudine": 24.874226,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 330,
+      "nume": "Libraria LOGOS",
+      "latitudine": 46.175899,
+      "longitudine": 21.317272,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 331,
+      "nume": "Librarie si florarie",
+      "latitudine": 46.534474,
+      "longitudine": 22.457103,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 332,
+      "nume": "Library",
+      "latitudine": 45.809952,
+      "longitudine": 23.73194,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 333,
+      "nume": "Librăria Alexandria",
+      "latitudine": 47.347315,
+      "longitudine": 25.355418,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 334,
+      "nume": "Librăria ARTEBO",
+      "latitudine": 46.93494,
+      "longitudine": 26.373645,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 335,
+      "nume": "Librăria CLB",
+      "latitudine": 44.38249,
+      "longitudine": 26.132595,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 336,
+      "nume": "Librăria CLB",
+      "latitudine": 44.396689,
+      "longitudine": 26.11304,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 337,
+      "nume": "Librăria CLB",
+      "latitudine": 44.433945,
+      "longitudine": 26.03121,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 338,
+      "nume": "Librăria Compeg",
+      "latitudine": 45.732005,
+      "longitudine": 21.233289,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 339,
+      "nume": "Librăria Comunală Ghelari",
+      "latitudine": 45.702411,
+      "longitudine": 22.783703,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 340,
+      "nume": "Librăria DIDI",
+      "latitudine": 45.59792,
+      "longitudine": 25.463377,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 341,
+      "nume": "Librăria Elena Farago",
+      "latitudine": 44.315231,
+      "longitudine": 23.790057,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 342,
+      "nume": "Librăria Evelin",
+      "latitudine": 44.440674,
+      "longitudine": 26.134689,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 343,
+      "nume": "Librăria Flamura",
+      "latitudine": 44.388234,
+      "longitudine": 26.09273,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 344,
+      "nume": "Librăria Hyperion",
+      "latitudine": 46.218538,
+      "longitudine": 24.795242,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 345,
+      "nume": "Librăria Imprim",
+      "latitudine": 45.638511,
+      "longitudine": 25.628888,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 346,
+      "nume": "Librăria Isaharus",
+      "latitudine": 47.138728,
+      "longitudine": 24.49171,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 347,
+      "nume": "Librăria Nicolae Titulescu",
+      "latitudine": 44.1684,
+      "longitudine": 24.52097,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 348,
+      "nume": "Librăria Piticot",
+      "latitudine": 44.411623,
+      "longitudine": 26.171049,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 349,
+      "nume": "Librăria Prichindel",
+      "latitudine": 45.410733,
+      "longitudine": 25.534388,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 350,
+      "nume": "Librăria Sf. Ioan de la Neamț",
+      "latitudine": 47.263284,
+      "longitudine": 26.207637,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 351,
+      "nume": "Librăria Toldi",
+      "latitudine": 46.803056,
+      "longitudine": 21.647566,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 352,
+      "nume": "Librărie",
+      "latitudine": 44.416571,
+      "longitudine": 26.025158,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 353,
+      "nume": "Librărie",
+      "latitudine": 44.550911,
+      "longitudine": 26.076798,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 354,
+      "nume": "Librărie",
+      "latitudine": 44.83916,
+      "longitudine": 24.897742,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 355,
+      "nume": "Librărie",
+      "latitudine": 44.884386,
+      "longitudine": 23.396728,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 356,
+      "nume": "Librărie",
+      "latitudine": 46.470049,
+      "longitudine": 25.186651,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 357,
+      "nume": "Librărie",
+      "latitudine": 46.642931,
+      "longitudine": 27.735337,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 358,
+      "nume": "Librărie & Papetărie",
+      "latitudine": 44.41381,
+      "longitudine": 26.108776,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 359,
+      "nume": "Librărie CLB",
+      "latitudine": 44.382379,
+      "longitudine": 26.115674,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 360,
+      "nume": "Librărie Papetărie",
+      "latitudine": 44.421887,
+      "longitudine": 26.020823,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 361,
+      "nume": "Marica",
+      "latitudine": 44.666255,
+      "longitudine": 24.878477,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 362,
+      "nume": "Papetărie",
+      "latitudine": 46.202084,
+      "longitudine": 27.385025,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 363,
+      "nume": "Papetărie Vlasam",
+      "latitudine": 46.217154,
+      "longitudine": 24.793574,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 364,
+      "nume": "Poliția Agnita",
+      "latitudine": 45.975667,
+      "longitudine": 24.625904,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 365,
+      "nume": "Sapientia University Library",
+      "latitudine": 46.360216,
+      "longitudine": 25.801597,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 366,
+      "nume": "Secția de arte Deliu Petroiu",
+      "latitudine": 45.756589,
+      "longitudine": 21.233594,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 367,
+      "nume": "Sedcom Libris",
+      "latitudine": 47.173028,
+      "longitudine": 27.552539,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 368,
+      "nume": "Seneca AntiCafe",
+      "latitudine": 44.458425,
+      "longitudine": 26.078762,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 369,
+      "nume": "Societatea Muzeului Ardelean",
+      "latitudine": 46.768684,
+      "longitudine": 23.58954,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 370,
+      "nume": "Sola Scriptura",
+      "latitudine": 48.187277,
+      "longitudine": 26.592067,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 371,
+      "nume": "Timpolis",
+      "latitudine": 45.767668,
+      "longitudine": 21.247591,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 372,
+      "nume": "Târgul Cărții",
+      "latitudine": 44.443129,
+      "longitudine": 26.098877,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 373,
+      "nume": "Universul Cărții",
+      "latitudine": 45.700549,
+      "longitudine": 27.183993,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    },
+    {
+      "id": 374,
+      "nume": "Városi könyvtár",
+      "latitudine": 46.721319,
+      "longitudine": 25.595977,
+      "cheie_osm": "amenity",
+      "valoare_osm": "library",
+      "categorie_osm": "amenity=library"
+    }
+  ],
+  "meta": {
+    "title": "Biblioteci din România - Descărcare gratuită",
+    "description": "Biblioteci din România — 374 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `amenity=library`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează. Conține 374 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Biblioteci din România | ListBase",
+    "seo_description": "Descarcă Biblioteci din România — 374 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 374 înregistrări / 7 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

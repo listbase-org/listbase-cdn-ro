@@ -1,0 +1,686 @@
+{
+  "id": "ro-universitati",
+  "name": "România — Universități",
+  "title": "România — Universități",
+  "description": "Lista universităților și instituțiilor de învățământ superior acreditate din România. Fiecare înregistrare conține numele instituției (în engleză/latină), domeniul principal înregistrat, lista completă de domenii, pagina web principală, codul țării (ISO-3166-1 alpha-2) și subdiviziunea (acolo unde sursa o oferă). Extras prin filtrarea setului de date global Hipo/university-domains-list (country == 'Romania').",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 62,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "domain",
+      "label": "Domain",
+      "type": "string"
+    },
+    {
+      "key": "domains",
+      "label": "Domains",
+      "type": "string"
+    },
+    {
+      "key": "web_page",
+      "label": "Web Page",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "state_province",
+      "label": "State Province",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "1 December University of Alba Iulia",
+      "slug": "1-december-alba-iulia",
+      "domain": "uab.ro",
+      "domains": "uab.ro",
+      "web_page": "http://www.uab.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "Academia de Studii Economice din Bucuresti",
+      "slug": "academia-de-studii-economice-din-bucures",
+      "domain": "ase.ro",
+      "domains": "ase.ro",
+      "web_page": "http://www.ase.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "Academia Tehnica Militara",
+      "slug": "academia-tehnica-militara",
+      "domain": "mta.ro",
+      "domains": "mta.ro",
+      "web_page": "http://www.mta.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "Academy of Arts \"George Enescu\" Iasi",
+      "slug": "academy-arts-george-enescu-iasi",
+      "domain": "arteiasi.ro",
+      "domains": "arteiasi.ro",
+      "web_page": "http://www.arteiasi.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "Academy of Music \"Georghe Dima\" Cluj-Napoca",
+      "slug": "academy-music-georghe-dima-cluj-napoca",
+      "domain": "amgd.eu",
+      "domains": "amgd.eu",
+      "web_page": "http://www.amgd.eu/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "AISTEDA",
+      "slug": "aisteda",
+      "domain": "aistedaab.ro",
+      "domains": "aistedaab.ro",
+      "web_page": "http://www.aistedaab.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "Babes-Bolyai University of Cluj-Napoca",
+      "slug": "babes-bolyai-cluj-napoca",
+      "domain": "ubbcluj.ro",
+      "domains": "ubbcluj.ro",
+      "web_page": "http://www.ubbcluj.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "Constantin Brancoveanu University Pitesti",
+      "slug": "constantin-brancoveanu-pitesti",
+      "domain": "univcb.ro",
+      "domains": "univcb.ro",
+      "web_page": "http://www.univcb.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "Emanuel University",
+      "slug": "emanuel",
+      "domain": "emanuel.ro",
+      "domains": "emanuel.ro",
+      "web_page": "http://www.emanuel.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "Institute of Architecture \"Ion Mincu\" Bucharest",
+      "slug": "institute-architecture-ion-mincu-buchare",
+      "domain": "iaim.ro",
+      "domains": "iaim.ro",
+      "web_page": "http://www.iaim.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "Maritime University Constanta",
+      "slug": "maritime-constanta",
+      "domain": "universitateamaritima.ro",
+      "domains": "universitateamaritima.ro",
+      "web_page": "http://www.universitateamaritima.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "National Academy for Physical Education and Sports Bucharest",
+      "slug": "national-academy-for-physical-education-",
+      "domain": "anefs-edu.ro",
+      "domains": "anefs-edu.ro",
+      "web_page": "http://www.anefs-edu.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "National School of Political and Administrative Studies Bucharest",
+      "slug": "national-school-political-administrative",
+      "domain": "snspa.ro",
+      "domains": "snspa.ro",
+      "web_page": "http://www.snspa.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "National University of Arts",
+      "slug": "national-arts",
+      "domain": "unarte.ro",
+      "domains": "unarte.ro",
+      "web_page": "http://www.unarte.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "National University of Music",
+      "slug": "national-music",
+      "domain": "unmb.ro",
+      "domains": "unmb.ro",
+      "web_page": "http://www.unmb.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "National University of Theater and Film Arts",
+      "slug": "national-theater-film-arts",
+      "domain": "unatc.ro",
+      "domains": "unatc.ro",
+      "web_page": "http://www.unatc.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "North University of Baia Mare",
+      "slug": "north-baia-mare",
+      "domain": "ubm.ro",
+      "domains": "ubm.ro",
+      "web_page": "http://www.ubm.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "Oradea University",
+      "slug": "oradea",
+      "domain": "oradeauniversity.co",
+      "domains": "oradeauniversity.co",
+      "web_page": "http://www.oradeauniversity.com",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "Petru Maior University of Targu Mures",
+      "slug": "petru-maior-targu-mures",
+      "domain": "upm.ro",
+      "domains": "upm.ro",
+      "web_page": "http://www.upm.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "Polytechnic University of Timisoara",
+      "slug": "polytechnic-timisoara",
+      "domain": "student.upt.ro",
+      "domains": "student.upt.ro, upt.ro",
+      "web_page": "https://upt.ro",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "Romanian-American University",
+      "slug": "romanian-american",
+      "domain": "rau.ro",
+      "domains": "rau.ro",
+      "web_page": "http://www.rau.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "Spiru Haret University",
+      "slug": "spiru-haret",
+      "domain": "spiruharet.ro",
+      "domains": "spiruharet.ro",
+      "web_page": "http://www.spiruharet.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "Targu-Mures University of Theatre",
+      "slug": "targu-mures-theatre",
+      "domain": "uat.ro",
+      "domains": "uat.ro",
+      "web_page": "http://www.uat.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "Technical University of Civil Engineering Bucharest",
+      "slug": "technical-civil-engineering-bucharest",
+      "domain": "utcb.ro",
+      "domains": "utcb.ro",
+      "web_page": "http://www.utcb.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "Technical University of Cluj-Napoca",
+      "slug": "technical-cluj-napoca",
+      "domain": "utcluj.ro",
+      "domains": "utcluj.ro",
+      "web_page": "http://www.utcluj.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "Technical University of Iasi",
+      "slug": "technical-iasi",
+      "domain": "tuiasi.ro",
+      "domains": "tuiasi.ro",
+      "web_page": "http://www.tuiasi.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "Technical University of Timisoara",
+      "slug": "technical-timisoara",
+      "domain": "utt.ro",
+      "domains": "utt.ro",
+      "web_page": "http://www.utt.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "Universitatea de Vest \"Vasile Goldiş\"",
+      "slug": "universitatea-de-vest-vasile-goldi",
+      "domain": "uvvg.ro",
+      "domains": "uvvg.ro",
+      "web_page": "http://www.uvvg.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "University \"Aurel Vlaicu\" Arad",
+      "slug": "aurel-vlaicu-arad",
+      "domain": "uav.ro",
+      "domains": "uav.ro",
+      "web_page": "http://www.uav.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "University \"Petre Andrei\" Iasi",
+      "slug": "petre-andrei-iasi",
+      "domain": "upa.ro",
+      "domains": "upa.ro",
+      "web_page": "http://www.upa.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "University \"Titu Maiorescu\"",
+      "slug": "titu-maiorescu",
+      "domain": "utm.ro",
+      "domains": "utm.ro",
+      "web_page": "http://www.utm.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "University \"Transilvany\" of Brasov",
+      "slug": "transilvany-brasov",
+      "domain": "unitbv.ro",
+      "domains": "unitbv.ro",
+      "web_page": "http://www.unitbv.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "University Lucian Blaga of Sibiu",
+      "slug": "lucian-blaga-sibiu",
+      "domain": "ulbsibiu.ro",
+      "domains": "ulbsibiu.ro",
+      "web_page": "http://www.ulbsibiu.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "University of Agriculture and Veterinary Medicine Bucharest",
+      "slug": "agriculture-veterinary-medicine-buchares",
+      "domain": "usab.ro",
+      "domains": "usab.ro",
+      "web_page": "http://www.usab.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "University of Agriculture and Veterinary Medicine Cluj-Napoca",
+      "slug": "agriculture-veterinary-medicine-cluj-nap",
+      "domain": "usamvcluj.ro",
+      "domains": "usamvcluj.ro",
+      "web_page": "http://www.usamvcluj.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "University of Agriculture and Veterinary Medicine Iasi",
+      "slug": "agriculture-veterinary-medicine-iasi",
+      "domain": "univagro-iasi.ro",
+      "domains": "univagro-iasi.ro",
+      "web_page": "http://www.univagro-iasi.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "University of Agriculture and Veterinary Medicine Timisoara",
+      "slug": "agriculture-veterinary-medicine-timisoar",
+      "domain": "usab-tm.ro",
+      "domains": "usab-tm.ro",
+      "web_page": "http://www.usab-tm.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "University of Art and Design Cluj-Napoca",
+      "slug": "art-design-cluj-napoca",
+      "domain": "uartdcluj.ro",
+      "domains": "uartdcluj.ro",
+      "web_page": "http://www.uartdcluj.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "University of Bacau",
+      "slug": "bacau",
+      "domain": "ub.ro",
+      "domains": "ub.ro",
+      "web_page": "http://www.ub.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "University of Bucharest",
+      "slug": "bucharest",
+      "domain": "unibuc.ro",
+      "domains": "unibuc.ro",
+      "web_page": "http://www.unibuc.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "University of Constanta",
+      "slug": "constanta",
+      "domain": "univ-ovidius.ro",
+      "domains": "univ-ovidius.ro",
+      "web_page": "http://www.univ-ovidius.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "University of Constanta Medical School",
+      "slug": "constanta-medical-school",
+      "domain": "ovidunivconstanta-edu.org",
+      "domains": "ovidunivconstanta-edu.org",
+      "web_page": "http://www.ovidunivconstanta-edu.org/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "University of Craiova",
+      "slug": "craiova",
+      "domain": "central.ucv.ro",
+      "domains": "central.ucv.ro",
+      "web_page": "http://www.central.ucv.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "University of Galatzi",
+      "slug": "galatzi",
+      "domain": "ugal.ro",
+      "domains": "ugal.ro",
+      "web_page": "http://www.ugal.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "University of Iasi",
+      "slug": "iasi",
+      "domain": "uaic.ro",
+      "domains": "uaic.ro",
+      "web_page": "http://www.uaic.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "University of Medicine and Pharmacology of Oradea",
+      "slug": "medicine-pharmacology-oradea",
+      "domain": "oradeauniversity.com",
+      "domains": "oradeauniversity.com",
+      "web_page": "http://www.oradeauniversity.com/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "University of Medicine and Pharmacy of Bucharest",
+      "slug": "medicine-pharmacy-bucharest",
+      "domain": "univermed-cdgm.ro",
+      "domains": "univermed-cdgm.ro",
+      "web_page": "http://www.univermed-cdgm.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "University of Medicine and Pharmacy of Cluj-Napoca",
+      "slug": "medicine-pharmacy-cluj-napoca",
+      "domain": "umfcluj.ro",
+      "domains": "umfcluj.ro",
+      "web_page": "http://www.umfcluj.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "University of Medicine and Pharmacy of Iasi",
+      "slug": "medicine-pharmacy-iasi",
+      "domain": "umfiasi.ro",
+      "domains": "umfiasi.ro",
+      "web_page": "http://www.umfiasi.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "University of Medicine and Pharmacy of Targu Mures",
+      "slug": "medicine-pharmacy-targu-mures",
+      "domain": "umftgm.ro",
+      "domains": "umftgm.ro",
+      "web_page": "http://www.umftgm.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "University of Medicine and Pharmacy of Timisoara",
+      "slug": "medicine-pharmacy-timisoara",
+      "domain": "umft.ro",
+      "domains": "umft.ro",
+      "web_page": "http://www.umft.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "University of Oradea",
+      "slug": "oradea",
+      "domain": "uoradea.ro",
+      "domains": "uoradea.ro",
+      "web_page": "http://www.uoradea.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "University of Petrosani",
+      "slug": "petrosani",
+      "domain": "upet.ro",
+      "domains": "upet.ro",
+      "web_page": "http://www.upet.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "University of Pitesti",
+      "slug": "pitesti",
+      "domain": "upit.ro",
+      "domains": "upit.ro",
+      "web_page": "http://www.upit.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "University of Resita",
+      "slug": "resita",
+      "domain": "uem.ro",
+      "domains": "uem.ro",
+      "web_page": "http://www.uem.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "University of Sibiu",
+      "slug": "sibiu",
+      "domain": "sibiu.ro",
+      "domains": "sibiu.ro",
+      "web_page": "http://www.sibiu.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "University of Suceava",
+      "slug": "suceava",
+      "domain": "usv.ro",
+      "domains": "usv.ro",
+      "web_page": "http://www.usv.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "University of Targu Jiu",
+      "slug": "targu-jiu",
+      "domain": "utgjiu.ro",
+      "domains": "utgjiu.ro",
+      "web_page": "http://www.utgjiu.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "University Oil- Gas Ploiesti",
+      "slug": "oil-gas-ploiesti",
+      "domain": "upg-ploiesti.ro",
+      "domains": "upg-ploiesti.ro",
+      "web_page": "http://www.upg-ploiesti.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "University Politehnica of Bucharest",
+      "slug": "politehnica-bucharest",
+      "domain": "pub.ro",
+      "domains": "pub.ro",
+      "web_page": "http://www.pub.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "Valahia University of Targoviste",
+      "slug": "valahia-targoviste",
+      "domain": "valahia.ro",
+      "domains": "valahia.ro",
+      "web_page": "http://www.valahia.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    },
+    {
+      "name": "West University of Timisoara",
+      "slug": "west-timisoara",
+      "domain": "uvt.ro",
+      "domains": "uvt.ro",
+      "web_page": "http://www.uvt.ro/",
+      "country": "Romania",
+      "country_code": "RO",
+      "state_province": ""
+    }
+  ],
+  "meta": {
+    "title": "România — Universități - Descărcare gratuită",
+    "description": "Lista universităților și instituțiilor de învățământ superior acreditate din România. Fiecare înregistrare conține numele instituției (în engleză/latină), domeniul principal înregistrat, lista completă de domenii, pagina web principală, codul țării (ISO-3166-1 alpha-2) și subdiviziunea (acolo unde sursa o oferă). Extras prin filtrarea setului de date global Hipo/university-domains-list (country == 'Romania'). Conține 62 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "România — Universități | ListBase",
+    "seo_description": "Descarcă România — Universități — 62 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 62 înregistrări / 8 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

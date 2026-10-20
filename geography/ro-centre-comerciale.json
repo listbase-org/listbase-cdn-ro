@@ -1,0 +1,2221 @@
+{
+  "id": "ro-centre-comerciale",
+  "name": "Centre comerciale din România",
+  "title": "Centre comerciale din România",
+  "description": "Centre comerciale din România — 240 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `shop=mall`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 240,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "latitudine",
+      "label": "Latitudine",
+      "type": "number"
+    },
+    {
+      "key": "longitudine",
+      "label": "Longitudine",
+      "type": "number"
+    },
+    {
+      "key": "cheie_osm",
+      "label": "Cheie Osm",
+      "type": "string"
+    },
+    {
+      "key": "valoare_osm",
+      "label": "Valoare Osm",
+      "type": "string"
+    },
+    {
+      "key": "categorie_osm",
+      "label": "Categorie Osm",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nume": "A Center",
+      "latitudine": 45.800771,
+      "longitudine": 21.247957,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 2,
+      "nume": "ABC",
+      "latitudine": 48.014313,
+      "longitudine": 22.999016,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 3,
+      "nume": "Activ Plazza",
+      "latitudine": 47.179432,
+      "longitudine": 23.053465,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 4,
+      "nume": "AFI Brașov",
+      "latitudine": 45.649871,
+      "longitudine": 25.610221,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 5,
+      "nume": "AFI Cotroceni",
+      "latitudine": 44.430115,
+      "longitudine": 26.052218,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 6,
+      "nume": "AFI Ploiești",
+      "latitudine": 44.946861,
+      "longitudine": 26.0328,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 7,
+      "nume": "Agora Arad",
+      "latitudine": 46.200616,
+      "longitudine": 21.288045,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 8,
+      "nume": "Agora Floreasca",
+      "latitudine": 44.460422,
+      "longitudine": 26.100583,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 9,
+      "nume": "Alba Mall",
+      "latitudine": 46.079946,
+      "longitudine": 23.584971,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 10,
+      "nume": "Annabella Retail Park",
+      "latitudine": 45.139539,
+      "longitudine": 23.978367,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 11,
+      "nume": "Arena Mall",
+      "latitudine": 46.580284,
+      "longitudine": 26.915291,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 12,
+      "nume": "Argeș Mall",
+      "latitudine": 44.843623,
+      "longitudine": 24.897029,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 13,
+      "nume": "Artema Shopping Center",
+      "latitudine": 46.780242,
+      "longitudine": 23.664895,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 14,
+      "nume": "Atrium Center",
+      "latitudine": 46.190543,
+      "longitudine": 21.320954,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 15,
+      "nume": "Aurora",
+      "latitudine": 47.115363,
+      "longitudine": 23.893168,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 16,
+      "nume": "Aurora Retail Park",
+      "latitudine": 43.897199,
+      "longitudine": 25.963172,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 17,
+      "nume": "Balif City",
+      "latitudine": 44.945218,
+      "longitudine": 25.992285,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 18,
+      "nume": "Bazar TATI",
+      "latitudine": 47.739896,
+      "longitudine": 26.667062,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 19,
+      "nume": "Bega Center",
+      "latitudine": 45.755485,
+      "longitudine": 21.230628,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 20,
+      "nume": "Bega Lipovei",
+      "latitudine": 45.778989,
+      "longitudine": 21.242904,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 21,
+      "nume": "Beius Shopping City",
+      "latitudine": 46.668553,
+      "longitudine": 22.335137,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 22,
+      "nume": "Big & Small",
+      "latitudine": 45.274194,
+      "longitudine": 25.046356,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 23,
+      "nume": "Botoșani Shopping Center",
+      "latitudine": 47.749639,
+      "longitudine": 26.643456,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 24,
+      "nume": "Brăila Mall",
+      "latitudine": 45.230693,
+      "longitudine": 27.938412,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 25,
+      "nume": "Bucovina Shopping Center",
+      "latitudine": 47.641279,
+      "longitudine": 26.255694,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 26,
+      "nume": "Bucur Obor",
+      "latitudine": 44.450304,
+      "longitudine": 26.12674,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 27,
+      "nume": "București Mall",
+      "latitudine": 44.420046,
+      "longitudine": 26.126801,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 28,
+      "nume": "Băneasa Shopping City",
+      "latitudine": 44.506801,
+      "longitudine": 26.089401,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 29,
+      "nume": "Carolina Mall",
+      "latitudine": 46.085982,
+      "longitudine": 23.592837,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 30,
+      "nume": "Carpați Shopping Center",
+      "latitudine": 45.349599,
+      "longitudine": 25.549387,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 31,
+      "nume": "Carrefour",
+      "latitudine": 44.438916,
+      "longitudine": 25.956897,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 32,
+      "nume": "Central",
+      "latitudine": 46.772909,
+      "longitudine": 23.589588,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 33,
+      "nume": "Central Shopping Center",
+      "latitudine": 46.572531,
+      "longitudine": 23.784962,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 34,
+      "nume": "Centrul Comercial Auchan Titan",
+      "latitudine": 44.420335,
+      "longitudine": 26.179243,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 35,
+      "nume": "Centrul Comercial Dallas",
+      "latitudine": 45.73388,
+      "longitudine": 21.20003,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 36,
+      "nume": "Centrul Comercial Decebal",
+      "latitudine": 44.628462,
+      "longitudine": 22.653009,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 37,
+      "nume": "Centrul Comercial Drumul Taberelor",
+      "latitudine": 44.416811,
+      "longitudine": 26.035733,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 38,
+      "nume": "Centrul Comercial Felicia",
+      "latitudine": 47.144781,
+      "longitudine": 27.611258,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 39,
+      "nume": "Centrul Comercial Galeria 1",
+      "latitudine": 45.767657,
+      "longitudine": 21.231037,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 40,
+      "nume": "Centrul Comercial Junior",
+      "latitudine": 46.566144,
+      "longitudine": 26.911251,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 41,
+      "nume": "Centrul Comercial Nera",
+      "latitudine": 45.288426,
+      "longitudine": 21.887086,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 42,
+      "nume": "Centrul Comercial Orhideea",
+      "latitudine": 44.444973,
+      "longitudine": 26.062955,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 43,
+      "nume": "Centrum Lux",
+      "latitudine": 48.013887,
+      "longitudine": 22.999367,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 44,
+      "nume": "China Mall",
+      "latitudine": 44.204215,
+      "longitudine": 28.624384,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 45,
+      "nume": "City Park",
+      "latitudine": 44.203588,
+      "longitudine": 28.631921,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 46,
+      "nume": "Cocor",
+      "latitudine": 44.43047,
+      "longitudine": 26.104118,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 47,
+      "nume": "Colosseum",
+      "latitudine": 44.492047,
+      "longitudine": 26.017168,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 48,
+      "nume": "Cometex Retail Park",
+      "latitudine": 45.075404,
+      "longitudine": 24.344283,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 49,
+      "nume": "Cometex Retail Park",
+      "latitudine": 45.17761,
+      "longitudine": 26.034481,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 50,
+      "nume": "Cometex Retail Park",
+      "latitudine": 45.767516,
+      "longitudine": 22.905411,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 51,
+      "nume": "Cometex Retail Park",
+      "latitudine": 45.873916,
+      "longitudine": 22.918914,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 52,
+      "nume": "Cometex Retail Park",
+      "latitudine": 46.67248,
+      "longitudine": 28.081896,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 53,
+      "nume": "Cometex Retail Park",
+      "latitudine": 47.790083,
+      "longitudine": 22.883793,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 54,
+      "nume": "Complex Ancora",
+      "latitudine": 43.891575,
+      "longitudine": 25.964819,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 55,
+      "nume": "Complex Ascunsa",
+      "latitudine": 45.261067,
+      "longitudine": 27.956081,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 56,
+      "nume": "Complex Comercial",
+      "latitudine": 44.735211,
+      "longitudine": 22.406035,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 57,
+      "nume": "Complex Comercial BIG",
+      "latitudine": 44.171086,
+      "longitudine": 28.609341,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 58,
+      "nume": "Complex Comercial Marvimex",
+      "latitudine": 44.177608,
+      "longitudine": 28.621941,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 59,
+      "nume": "Complex Comercial Pasărea Phoenix",
+      "latitudine": 47.133988,
+      "longitudine": 27.612224,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 60,
+      "nume": "Complex Comercial Zimnicea",
+      "latitudine": 43.654895,
+      "longitudine": 25.365223,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 61,
+      "nume": "Complex Dacia",
+      "latitudine": 44.195876,
+      "longitudine": 28.632774,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 62,
+      "nume": "Complex de servire",
+      "latitudine": 43.891627,
+      "longitudine": 25.964303,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 63,
+      "nume": "Complex Dinamo",
+      "latitudine": 45.266441,
+      "longitudine": 27.952242,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 64,
+      "nume": "Complex Libelula",
+      "latitudine": 45.251377,
+      "longitudine": 27.947118,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 65,
+      "nume": "Complex Pistruiatul",
+      "latitudine": 45.244755,
+      "longitudine": 27.947531,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 66,
+      "nume": "Complex Rotunda",
+      "latitudine": 45.274344,
+      "longitudine": 25.053526,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 67,
+      "nume": "Complexul Comercial Cercul Magic",
+      "latitudine": 44.444858,
+      "longitudine": 26.157865,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 68,
+      "nume": "Coresi Shopping Resort",
+      "latitudine": 45.672534,
+      "longitudine": 25.615804,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 69,
+      "nume": "Corso",
+      "latitudine": 46.597519,
+      "longitudine": 25.070204,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 70,
+      "nume": "Coștila Shopping Center",
+      "latitudine": 45.413491,
+      "longitudine": 25.53468,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 71,
+      "nume": "Crevedia Retail Park",
+      "latitudine": 44.580543,
+      "longitudine": 25.939593,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 72,
+      "nume": "Crișul Shopping Center",
+      "latitudine": 47.06231,
+      "longitudine": 21.937857,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 73,
+      "nume": "Deva Mall",
+      "latitudine": 45.882067,
+      "longitudine": 22.905585,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 74,
+      "nume": "DN1 Value Centre",
+      "latitudine": 44.604377,
+      "longitudine": 26.067159,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 75,
+      "nume": "Doraly Mall",
+      "latitudine": 44.14722,
+      "longitudine": 28.624684,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 76,
+      "nume": "Drobeta-Turnu Severin Retail Park",
+      "latitudine": 44.63759,
+      "longitudine": 22.678639,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 77,
+      "nume": "Dunărea Mall",
+      "latitudine": 45.417164,
+      "longitudine": 28.012387,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 78,
+      "nume": "Dâmbovița Mall",
+      "latitudine": 44.911384,
+      "longitudine": 25.463722,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 79,
+      "nume": "Electroputere Parc",
+      "latitudine": 44.312292,
+      "longitudine": 23.832313,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 80,
+      "nume": "Electroputere Parc",
+      "latitudine": 44.312911,
+      "longitudine": 23.829947,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 81,
+      "nume": "Eliana Mall",
+      "latitudine": 45.656851,
+      "longitudine": 25.561868,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 82,
+      "nume": "ERA Shopping Park",
+      "latitudine": 47.04179,
+      "longitudine": 21.904602,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 83,
+      "nume": "Euro Shopping Mall",
+      "latitudine": 45.411969,
+      "longitudine": 22.216835,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 84,
+      "nume": "Family Center",
+      "latitudine": 45.09997,
+      "longitudine": 24.375352,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 85,
+      "nume": "Family Market Bucium",
+      "latitudine": 47.13144,
+      "longitudine": 27.611788,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 86,
+      "nume": "Family Market Miroslava",
+      "latitudine": 47.145924,
+      "longitudine": 27.528982,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 87,
+      "nume": "Fashion House Pallady",
+      "latitudine": 44.406264,
+      "longitudine": 26.27721,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 88,
+      "nume": "Feeria",
+      "latitudine": 44.509632,
+      "longitudine": 26.088298,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 89,
+      "nume": "Fenyő Központi Áruház",
+      "latitudine": 46.72063,
+      "longitudine": 25.599868,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 90,
+      "nume": "Ferdinand Galeria",
+      "latitudine": 46.771786,
+      "longitudine": 23.590035,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 91,
+      "nume": "Focșani Mall",
+      "latitudine": 45.704661,
+      "longitudine": 27.206353,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 92,
+      "nume": "Focșani Value Centre",
+      "latitudine": 45.688353,
+      "longitudine": 27.195463,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 93,
+      "nume": "Fortuna Severin",
+      "latitudine": 44.631885,
+      "longitudine": 22.674056,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 94,
+      "nume": "Forum Center",
+      "latitudine": 46.924402,
+      "longitudine": 26.368885,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 95,
+      "nume": "Funshop Park",
+      "latitudine": 46.167102,
+      "longitudine": 21.387424,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 96,
+      "nume": "Funshop Park",
+      "latitudine": 46.561929,
+      "longitudine": 23.817587,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 97,
+      "nume": "Funshop Park Focșani",
+      "latitudine": 45.70474,
+      "longitudine": 27.170734,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 98,
+      "nume": "Funshop Park Roșiorii de Vede",
+      "latitudine": 44.121871,
+      "longitudine": 24.984322,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 99,
+      "nume": "Făgăraș Value Centre",
+      "latitudine": 45.840527,
+      "longitudine": 24.988936,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 100,
+      "nume": "Galaxy Shopping",
+      "latitudine": 45.784274,
+      "longitudine": 21.237086,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 101,
+      "nume": "Galeria Comercială Caracal",
+      "latitudine": 44.108809,
+      "longitudine": 24.360715,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 102,
+      "nume": "Galeriile Brotăcei",
+      "latitudine": 44.204939,
+      "longitudine": 28.624117,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 103,
+      "nume": "Galleria Mall",
+      "latitudine": 45.163523,
+      "longitudine": 26.813575,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 104,
+      "nume": "Galleria Mall",
+      "latitudine": 46.91866,
+      "longitudine": 26.390956,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 105,
+      "nume": "Glass Gallery",
+      "latitudine": 45.708479,
+      "longitudine": 21.233059,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 106,
+      "nume": "GP Plaza",
+      "latitudine": 45.770999,
+      "longitudine": 22.908593,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 107,
+      "nume": "Grand Arena",
+      "latitudine": 44.375035,
+      "longitudine": 26.118191,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 108,
+      "nume": "Grant Shopping Center",
+      "latitudine": 44.450594,
+      "longitudine": 26.04526,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 109,
+      "nume": "Greenfield Plaza",
+      "latitudine": 44.537399,
+      "longitudine": 26.096005,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 110,
+      "nume": "Happy Shopping",
+      "latitudine": 46.534647,
+      "longitudine": 24.571148,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 111,
+      "nume": "Huși Retail Park",
+      "latitudine": 46.670871,
+      "longitudine": 28.08373,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 112,
+      "nume": "Ialomița Shopping Center",
+      "latitudine": 44.562566,
+      "longitudine": 27.37073,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 113,
+      "nume": "Iulius Mall",
+      "latitudine": 45.766688,
+      "longitudine": 21.228781,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 114,
+      "nume": "Iulius Mall",
+      "latitudine": 46.772383,
+      "longitudine": 23.628002,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 115,
+      "nume": "Iulius Mall",
+      "latitudine": 47.155164,
+      "longitudine": 27.60566,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 116,
+      "nume": "Iulius Mall Suceava",
+      "latitudine": 47.659238,
+      "longitudine": 26.271418,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 117,
+      "nume": "Jiu Shoping Centre",
+      "latitudine": 45.417365,
+      "longitudine": 23.373052,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 118,
+      "nume": "Jolie Ville Galleria",
+      "latitudine": 44.514452,
+      "longitudine": 26.115263,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 119,
+      "nume": "Joy Retail Park",
+      "latitudine": 44.344247,
+      "longitudine": 24.122,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 120,
+      "nume": "Jumbo Center",
+      "latitudine": 44.41505,
+      "longitudine": 26.080252,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 121,
+      "nume": "Kapa Shopping Center",
+      "latitudine": 45.76837,
+      "longitudine": 21.232781,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 122,
+      "nume": "La Strada",
+      "latitudine": 45.663843,
+      "longitudine": 25.564737,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 123,
+      "nume": "La Turn",
+      "latitudine": 44.441994,
+      "longitudine": 26.166582,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 124,
+      "nume": "Lipscani",
+      "latitudine": 43.968136,
+      "longitudine": 25.332073,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 125,
+      "nume": "Lotus Center",
+      "latitudine": 47.035722,
+      "longitudine": 21.949008,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 126,
+      "nume": "Lotus Retail Park",
+      "latitudine": 47.058508,
+      "longitudine": 21.9131,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 127,
+      "nume": "Luxor",
+      "latitudine": 46.545867,
+      "longitudine": 24.560111,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 128,
+      "nume": "M Park Orăștie",
+      "latitudine": 45.839801,
+      "longitudine": 23.18228,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 129,
+      "nume": "Magazinul Universal \"Șugaș\"",
+      "latitudine": 45.864195,
+      "longitudine": 25.790492,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 130,
+      "nume": "Magnolia",
+      "latitudine": 45.640744,
+      "longitudine": 25.616573,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 131,
+      "nume": "Maialex Srl Cash&Carry",
+      "latitudine": 47.041006,
+      "longitudine": 21.957854,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 132,
+      "nume": "Maramureșul",
+      "latitudine": 47.653944,
+      "longitudine": 23.567287,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 133,
+      "nume": "Maxxa",
+      "latitudine": 45.860117,
+      "longitudine": 22.908962,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 134,
+      "nume": "Mega Mall",
+      "latitudine": 44.441987,
+      "longitudine": 26.152327,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 135,
+      "nume": "Mega Mall Rousse (closed)",
+      "latitudine": 43.857603,
+      "longitudine": 25.959199,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 136,
+      "nume": "Mercur Center",
+      "latitudine": 44.317362,
+      "longitudine": 23.79391,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 137,
+      "nume": "Mercur City Center",
+      "latitudine": 46.073996,
+      "longitudine": 23.579491,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 138,
+      "nume": "Mercur Shopping Center",
+      "latitudine": 44.941175,
+      "longitudine": 26.024555,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 139,
+      "nume": "Metaltrans - Materiale de constructii",
+      "latitudine": 44.368664,
+      "longitudine": 24.795081,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 140,
+      "nume": "Milcov",
+      "latitudine": 45.699181,
+      "longitudine": 27.184311,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 141,
+      "nume": "Militari Shopping",
+      "latitudine": 44.439941,
+      "longitudine": 25.982475,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 142,
+      "nume": "Muntenia",
+      "latitudine": 44.92648,
+      "longitudine": 25.463873,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 143,
+      "nume": "Mureș Mall",
+      "latitudine": 46.539926,
+      "longitudine": 24.557707,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 144,
+      "nume": "NEST Miercurea Ciuc",
+      "latitudine": 46.36237,
+      "longitudine": 25.812931,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 145,
+      "nume": "NEST Oradea",
+      "latitudine": 47.074336,
+      "longitudine": 21.903549,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 146,
+      "nume": "Nova Shopping Park",
+      "latitudine": 46.560267,
+      "longitudine": 23.846367,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 147,
+      "nume": "OK Shopping Center",
+      "latitudine": 47.128009,
+      "longitudine": 24.470468,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 148,
+      "nume": "Oradea Plaza",
+      "latitudine": 47.050316,
+      "longitudine": 21.937555,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 149,
+      "nume": "Oradea Shopping City",
+      "latitudine": 47.042633,
+      "longitudine": 21.89963,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 150,
+      "nume": "Palas Mall",
+      "latitudine": 47.156551,
+      "longitudine": 27.589341,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 151,
+      "nume": "Palas Mall",
+      "latitudine": 47.157747,
+      "longitudine": 27.589745,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 152,
+      "nume": "Palia",
+      "latitudine": 45.837578,
+      "longitudine": 23.191127,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 153,
+      "nume": "ParkLake",
+      "latitudine": 44.420665,
+      "longitudine": 26.149551,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 154,
+      "nume": "Pavcom",
+      "latitudine": 44.919319,
+      "longitudine": 25.451283,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 155,
+      "nume": "Pelendava",
+      "latitudine": 44.300141,
+      "longitudine": 23.79601,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 156,
+      "nume": "Pipera Strip Mall",
+      "latitudine": 44.513493,
+      "longitudine": 26.126773,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 157,
+      "nume": "Platinia Shopping Center",
+      "latitudine": 46.763603,
+      "longitudine": 23.571471,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 158,
+      "nume": "Plaza România",
+      "latitudine": 44.428731,
+      "longitudine": 26.034778,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 159,
+      "nume": "Ploiești Shopping City",
+      "latitudine": 44.965957,
+      "longitudine": 25.972952,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 160,
+      "nume": "Prima Shops",
+      "latitudine": 46.778784,
+      "longitudine": 24.71282,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 161,
+      "nume": "Promenada",
+      "latitudine": 44.330729,
+      "longitudine": 23.770608,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 162,
+      "nume": "Promenada Mall",
+      "latitudine": 44.478221,
+      "longitudine": 26.103354,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 163,
+      "nume": "Promenada Mall",
+      "latitudine": 45.797376,
+      "longitudine": 24.162837,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 164,
+      "nume": "Prosper Mall",
+      "latitudine": 44.419951,
+      "longitudine": 26.065828,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 165,
+      "nume": "Retail Park Jimbolia",
+      "latitudine": 45.793742,
+      "longitudine": 20.722045,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 166,
+      "nume": "Retail Park Tulcea",
+      "latitudine": 45.17704,
+      "longitudine": 28.764862,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 167,
+      "nume": "River Plaza Mall",
+      "latitudine": 45.101712,
+      "longitudine": 24.362576,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 168,
+      "nume": "Roman Value Centre",
+      "latitudine": 46.937532,
+      "longitudine": 26.923161,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 169,
+      "nume": "Romarta",
+      "latitudine": 45.843103,
+      "longitudine": 24.973052,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 170,
+      "nume": "Satu Mare Shopping Plaza",
+      "latitudine": 47.791248,
+      "longitudine": 22.868098,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 171,
+      "nume": "Saturn Mall",
+      "latitudine": 43.829904,
+      "longitudine": 28.587362,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 172,
+      "nume": "Senic gross & market",
+      "latitudine": 45.696684,
+      "longitudine": 27.203499,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 173,
+      "nume": "Severin Shopping Center",
+      "latitudine": 44.637865,
+      "longitudine": 22.632375,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 174,
+      "nume": "Shopping City Buzău",
+      "latitudine": 45.162927,
+      "longitudine": 26.818595,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 175,
+      "nume": "Shopping City Deva",
+      "latitudine": 45.863031,
+      "longitudine": 22.929956,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 176,
+      "nume": "Shopping City Piatra Neamț",
+      "latitudine": 46.934587,
+      "longitudine": 26.347823,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 177,
+      "nume": "Shopping City Râmnicu Vâlcea",
+      "latitudine": 45.111679,
+      "longitudine": 24.381054,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 178,
+      "nume": "Shopping City Satu Mare",
+      "latitudine": 47.785527,
+      "longitudine": 22.869867,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 179,
+      "nume": "Shopping City Satu Mare",
+      "latitudine": 47.786043,
+      "longitudine": 22.871142,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 180,
+      "nume": "Shopping City Suceava",
+      "latitudine": 47.664919,
+      "longitudine": 26.266392,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 181,
+      "nume": "Shopping City Timișoara",
+      "latitudine": 45.724932,
+      "longitudine": 21.199189,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 182,
+      "nume": "Shopping City Târgu Jiu",
+      "latitudine": 45.024469,
+      "longitudine": 23.264726,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 183,
+      "nume": "Shopping Park Mediaș",
+      "latitudine": 46.145002,
+      "longitudine": 24.324472,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 184,
+      "nume": "Shopping Park Pașcani",
+      "latitudine": 47.248591,
+      "longitudine": 26.708801,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 185,
+      "nume": "Sigma Shopping Center",
+      "latitudine": 46.756415,
+      "longitudine": 23.594896,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 186,
+      "nume": "Sinaia Plaza",
+      "latitudine": 45.369341,
+      "longitudine": 25.543385,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 187,
+      "nume": "Sláger Center",
+      "latitudine": 46.729143,
+      "longitudine": 25.580685,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 188,
+      "nume": "Spectrum",
+      "latitudine": 44.445038,
+      "longitudine": 26.127199,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 189,
+      "nume": "STAR",
+      "latitudine": 45.643688,
+      "longitudine": 25.598082,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 190,
+      "nume": "STOP SHOP",
+      "latitudine": 47.750498,
+      "longitudine": 26.642165,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 191,
+      "nume": "Sud Plaza",
+      "latitudine": 45.730575,
+      "longitudine": 21.247683,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 192,
+      "nume": "Sun Plaza",
+      "latitudine": 44.395049,
+      "longitudine": 26.122909,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 193,
+      "nume": "Supernova",
+      "latitudine": 44.81875,
+      "longitudine": 24.942152,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 194,
+      "nume": "Supernova Alexandriei",
+      "latitudine": 44.399413,
+      "longitudine": 26.044185,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 195,
+      "nume": "Supernova Bacău",
+      "latitudine": 46.562319,
+      "longitudine": 26.92179,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 196,
+      "nume": "Supernova Constanța",
+      "latitudine": 44.169401,
+      "longitudine": 28.611848,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 197,
+      "nume": "Supernova Drobeta",
+      "latitudine": 44.637748,
+      "longitudine": 22.677035,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 198,
+      "nume": "Supernova Lujerului",
+      "latitudine": 44.433086,
+      "longitudine": 26.036882,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 199,
+      "nume": "Supernova Pantelimon",
+      "latitudine": 44.438015,
+      "longitudine": 26.186528,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 200,
+      "nume": "TOM",
+      "latitudine": 44.21273,
+      "longitudine": 28.604485,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 201,
+      "nume": "Tomis Mall",
+      "latitudine": 44.178499,
+      "longitudine": 28.646821,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 202,
+      "nume": "Transilvania",
+      "latitudine": 46.164375,
+      "longitudine": 24.347748,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 203,
+      "nume": "Tratoria Center",
+      "latitudine": 47.745033,
+      "longitudine": 26.657107,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 204,
+      "nume": "Trivale Shopping Center",
+      "latitudine": 44.857127,
+      "longitudine": 24.873518,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 205,
+      "nume": "Tulipán",
+      "latitudine": 46.359794,
+      "longitudine": 25.804814,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 206,
+      "nume": "Ulpia Shopping Center",
+      "latitudine": 45.877181,
+      "longitudine": 22.905556,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 207,
+      "nume": "Unirea Mall",
+      "latitudine": 44.940666,
+      "longitudine": 26.025136,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 208,
+      "nume": "Unirea Shopping Center",
+      "latitudine": 44.42797,
+      "longitudine": 26.104715,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 209,
+      "nume": "Unirea Shopping Center",
+      "latitudine": 45.661119,
+      "longitudine": 25.610599,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 210,
+      "nume": "Universal Negoiu",
+      "latitudine": 45.842957,
+      "longitudine": 24.972374,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 211,
+      "nume": "Uvertura Mall",
+      "latitudine": 47.747477,
+      "longitudine": 26.665919,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 212,
+      "nume": "Veranda Mall",
+      "latitudine": 44.452164,
+      "longitudine": 26.130557,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 213,
+      "nume": "Victoria Shopping Center",
+      "latitudine": 46.249972,
+      "longitudine": 26.761665,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 214,
+      "nume": "Vitantis",
+      "latitudine": 44.400229,
+      "longitudine": 26.146623,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 215,
+      "nume": "VIVO!",
+      "latitudine": 44.199274,
+      "longitudine": 28.609742,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 216,
+      "nume": "VIVO!",
+      "latitudine": 44.866027,
+      "longitudine": 24.883602,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 217,
+      "nume": "VIVO!",
+      "latitudine": 46.751212,
+      "longitudine": 23.533011,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 218,
+      "nume": "VIVO!",
+      "latitudine": 47.656933,
+      "longitudine": 23.546971,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 219,
+      "nume": "West Mall",
+      "latitudine": 44.928381,
+      "longitudine": 25.990838,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 220,
+      "nume": "Winmarkt",
+      "latitudine": 45.102519,
+      "longitudine": 24.362656,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 221,
+      "nume": "Winmarkt",
+      "latitudine": 45.153204,
+      "longitudine": 26.821896,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 222,
+      "nume": "Winmarkt",
+      "latitudine": 45.177814,
+      "longitudine": 28.804526,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 223,
+      "nume": "Winmarkt",
+      "latitudine": 45.436073,
+      "longitudine": 28.056397,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 224,
+      "nume": "Winmarkt",
+      "latitudine": 46.569993,
+      "longitudine": 23.785726,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 225,
+      "nume": "Winmarkt",
+      "latitudine": 46.75488,
+      "longitudine": 23.560192,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 226,
+      "nume": "Winmarkt",
+      "latitudine": 47.132116,
+      "longitudine": 24.487012,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 227,
+      "nume": "Winmarkt Galeriile Comerciale",
+      "latitudine": 44.941132,
+      "longitudine": 26.020873,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 228,
+      "nume": "Winmarkt Omnia",
+      "latitudine": 44.9408,
+      "longitudine": 26.021868,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 229,
+      "nume": "Winmarkt Petrodava",
+      "latitudine": 46.930809,
+      "longitudine": 26.362673,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 230,
+      "nume": "Winmarkt Ploieşti Big",
+      "latitudine": 44.925979,
+      "longitudine": 26.028464,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 231,
+      "nume": "Zalău Value Centre",
+      "latitudine": 47.202142,
+      "longitudine": 23.056736,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 232,
+      "nume": "Zekurics",
+      "latitudine": 48.010689,
+      "longitudine": 23.00117,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 233,
+      "nume": "Ziridava Shopping Center",
+      "latitudine": 46.179729,
+      "longitudine": 21.321944,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 234,
+      "nume": "Амбар",
+      "latitudine": 48.011262,
+      "longitudine": 23.00154,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 235,
+      "nume": "Градска Пијаца",
+      "latitudine": 44.762921,
+      "longitudine": 21.516923,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 236,
+      "nume": "Данубиус",
+      "latitudine": 44.761205,
+      "longitudine": 21.513771,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 237,
+      "nume": "Дицић",
+      "latitudine": 44.763618,
+      "longitudine": 21.515319,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 238,
+      "nume": "Магнус",
+      "latitudine": 47.99798,
+      "longitudine": 23.701642,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 239,
+      "nume": "МОЛ - Видин",
+      "latitudine": 43.986941,
+      "longitudine": 22.875102,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    },
+    {
+      "id": 240,
+      "nume": "Паладіум",
+      "latitudine": 48.013369,
+      "longitudine": 23.572541,
+      "cheie_osm": "shop",
+      "valoare_osm": "mall",
+      "categorie_osm": "shop=mall"
+    }
+  ],
+  "meta": {
+    "title": "Centre comerciale din România - Descărcare gratuită",
+    "description": "Centre comerciale din România — 240 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `shop=mall`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează. Conține 240 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Centre comerciale din România | ListBase",
+    "seo_description": "Descarcă Centre comerciale din România — 240 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 240 înregistrări / 7 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

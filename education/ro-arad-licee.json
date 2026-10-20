@@ -1,0 +1,298 @@
+{
+  "id": "ro-arad-licee",
+  "name": "Licee si colegii din judetul Arad",
+  "title": "Licee si colegii din judetul Arad",
+  "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Arad (42 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "COLEGIUL DE ARTE \"SABIN DRAGOI\" ARAD",
+      "slug": "colegiul-de-arte-sabin-dragoi-arad",
+      "judet": "ARAD",
+      "judet_slug": "arad"
+    },
+    {
+      "nume": "COLEGIUL ECONOMIC ARAD",
+      "slug": "colegiul-economic-arad",
+      "judet": "ARAD",
+      "judet_slug": "arad"
+    },
+    {
+      "nume": "COLEGIUL NAŢIONAL \"ELENA GHIBA BIRTA\" ARAD",
+      "slug": "colegiul-national-elena-ghiba-birta-arad",
+      "judet": "ARAD",
+      "judet_slug": "arad"
+    },
+    {
+      "nume": "COLEGIUL NAŢIONAL \"MOISE NICOARĂ\" ARAD",
+      "slug": "colegiul-national-moise-nicoara-arad",
+      "judet": "ARAD",
+      "judet_slug": "arad"
+    },
+    {
+      "nume": "COLEGIUL NAŢIONAL \"PREPARANDIA-DIMITRIE ŢICHINDEAL\" ARAD",
+      "slug": "colegiul-national-preparandia-dimitrie-tichindeal-arad",
+      "judet": "ARAD",
+      "judet_slug": "arad"
+    },
+    {
+      "nume": "COLEGIUL NAŢIONAL \"VASILE GOLDIŞ\" ARAD",
+      "slug": "colegiul-national-vasile-goldis-arad",
+      "judet": "ARAD",
+      "judet_slug": "arad"
+    },
+    {
+      "nume": "COLEGIUL PARTICULAR \"VASILE GOLDIŞ\" ARAD",
+      "slug": "colegiul-particular-vasile-goldis-arad",
+      "judet": "ARAD",
+      "judet_slug": "arad"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC DE CONSTRUCŢII ŞI PROTECŢIA MEDIULUI ARAD",
+      "slug": "colegiul-tehnic-de-constructii-si-protectia-mediului-arad",
+      "judet": "ARAD",
+      "judet_slug": "arad"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"AUREL VLAICU\" ARAD",
+      "slug": "colegiul-tehnic-aurel-vlaicu-arad",
+      "judet": "ARAD",
+      "judet_slug": "arad"
+    },
+    {
+      "nume": "COLEGIUL TEHNOLOGIC DE INDUSTRIE ALIMENTARĂ ARAD",
+      "slug": "colegiul-tehnologic-de-industrie-alimentara-arad",
+      "judet": "ARAD",
+      "judet_slug": "arad"
+    },
+    {
+      "nume": "COLEGIUL \"MIHAI VITEAZUL\" INEU",
+      "slug": "colegiul-mihai-viteazul-ineu",
+      "judet": "ARAD",
+      "judet_slug": "arad"
+    },
+    {
+      "nume": "COLEGIUL\"CSIKY GERGELY\" ARAD",
+      "slug": "colegiul-csiky-gergely-arad",
+      "judet": "ARAD",
+      "judet_slug": "arad"
+    },
+    {
+      "nume": "LICEUL CU PROGRAM SPORTIV ARAD",
+      "slug": "liceul-cu-program-sportiv-arad",
+      "judet": "ARAD",
+      "judet_slug": "arad"
+    },
+    {
+      "nume": "LICEUL NAŢIONAL DE INFORMATICĂ ARAD",
+      "slug": "liceul-national-de-informatica-arad",
+      "judet": "ARAD",
+      "judet_slug": "arad"
+    },
+    {
+      "nume": "LICEUL SPECIAL \"SFANTA MARIA\" ARAD",
+      "slug": "liceul-special-sfanta-maria-arad",
+      "judet": "ARAD",
+      "judet_slug": "arad"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC BELIU",
+      "slug": "liceul-tehnologic-beliu",
+      "judet": "ARAD",
+      "judet_slug": "arad"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC CHIŞINEU CRIŞ",
+      "slug": "liceul-tehnologic-chisineu-cris",
+      "judet": "ARAD",
+      "judet_slug": "arad"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC DE ELECTRONICĂ ŞI AUTOMATIZĂRI \"CAIUS IACOB\" ARAD",
+      "slug": "liceul-tehnologic-de-electronica-si-automatizari-caius-iacob-arad",
+      "judet": "ARAD",
+      "judet_slug": "arad"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC DE TRANSPORTURI AUTO \"HENRI COANDĂ\" ARAD",
+      "slug": "liceul-tehnologic-de-transporturi-auto-henri-coanda-arad",
+      "judet": "ARAD",
+      "judet_slug": "arad"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC SĂVÂRŞIN",
+      "slug": "liceul-tehnologic-savarsin",
+      "judet": "ARAD",
+      "judet_slug": "arad"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC UCECOM \"SPIRU HARET\" ARAD",
+      "slug": "liceul-tehnologic-ucecom-spiru-haret-arad",
+      "judet": "ARAD",
+      "judet_slug": "arad"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC VINGA",
+      "slug": "liceul-tehnologic-vinga",
+      "judet": "ARAD",
+      "judet_slug": "arad"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"FRANCISC NEUMAN\" ARAD",
+      "slug": "liceul-tehnologic-francisc-neuman-arad",
+      "judet": "ARAD",
+      "judet_slug": "arad"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"ION CREANGĂ\" CURTICI",
+      "slug": "liceul-tehnologic-ion-creanga-curtici",
+      "judet": "ARAD",
+      "judet_slug": "arad"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"IULIU MOLDOVAN\" ARAD",
+      "slug": "liceul-tehnologic-iuliu-moldovan-arad",
+      "judet": "ARAD",
+      "judet_slug": "arad"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"MOGA VOIEVOD\" HĂLMAGIU",
+      "slug": "liceul-tehnologic-moga-voievod-halmagiu",
+      "judet": "ARAD",
+      "judet_slug": "arad"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"SAVA BRANCOVICI\" INEU",
+      "slug": "liceul-tehnologic-sava-brancovici-ineu",
+      "judet": "ARAD",
+      "judet_slug": "arad"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"STEFAN HELL\" SÂNTANA",
+      "slug": "liceul-tehnologic-stefan-hell-santana",
+      "judet": "ARAD",
+      "judet_slug": "arad"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"VASILE JUNCU\" MINIŞ",
+      "slug": "liceul-tehnologic-vasile-juncu-minis",
+      "judet": "ARAD",
+      "judet_slug": "arad"
+    },
+    {
+      "nume": "LICEUL TEOLOGIC BAPTIST \"ALEXA POPOVICI\" ARAD",
+      "slug": "liceul-teologic-baptist-alexa-popovici-arad",
+      "judet": "ARAD",
+      "judet_slug": "arad"
+    },
+    {
+      "nume": "LICEUL TEOLOGIC PENTICOSTAL ARAD",
+      "slug": "liceul-teologic-penticostal-arad",
+      "judet": "ARAD",
+      "judet_slug": "arad"
+    },
+    {
+      "nume": "LICEUL TEORETIC CERMEI",
+      "slug": "liceul-teoretic-cermei",
+      "judet": "ARAD",
+      "judet_slug": "arad"
+    },
+    {
+      "nume": "LICEUL TEORETIC PÂNCOTA",
+      "slug": "liceul-teoretic-pancota",
+      "judet": "ARAD",
+      "judet_slug": "arad"
+    },
+    {
+      "nume": "LICEUL TEORETIC SEBIŞ",
+      "slug": "liceul-teoretic-sebis",
+      "judet": "ARAD",
+      "judet_slug": "arad"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"ADAM MULLER GUTTENBRUNN\" ARAD",
+      "slug": "liceul-teoretic-adam-muller-guttenbrunn-arad",
+      "judet": "ARAD",
+      "judet_slug": "arad"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"GHEORGHE LAZĂR\" PECICA",
+      "slug": "liceul-teoretic-gheorghe-lazar-pecica",
+      "judet": "ARAD",
+      "judet_slug": "arad"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"JOZEF GREGOR TAJOVSKY\" NĂDLAC",
+      "slug": "liceul-teoretic-jozef-gregor-tajovsky-nadlac",
+      "judet": "ARAD",
+      "judet_slug": "arad"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"MIHAI VELICIU\" CHISINEU-CRIS",
+      "slug": "liceul-teoretic-mihai-veliciu-chisineu-cris",
+      "judet": "ARAD",
+      "judet_slug": "arad"
+    },
+    {
+      "nume": "LICEUL \"ATANASIE MARIENESCU\" LIPOVA",
+      "slug": "liceul-atanasie-marienescu-lipova",
+      "judet": "ARAD",
+      "judet_slug": "arad"
+    },
+    {
+      "nume": "LICEUL \"IOAN BUTEANU\" GURAHONŢ",
+      "slug": "liceul-ioan-buteanu-gurahont",
+      "judet": "ARAD",
+      "judet_slug": "arad"
+    },
+    {
+      "nume": "LICEUL \"SEVER BOCU\" LIPOVA",
+      "slug": "liceul-sever-bocu-lipova",
+      "judet": "ARAD",
+      "judet_slug": "arad"
+    },
+    {
+      "nume": "SEMINARUL TEOLOGIC ORTODOX ARAD",
+      "slug": "seminarul-teologic-ortodox-arad",
+      "judet": "ARAD",
+      "judet_slug": "arad"
+    }
+  ],
+  "meta": {
+    "title": "Licee si colegii din judetul Arad - Descărcare gratuită",
+    "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Arad (42 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor. Conține 42 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Licee si colegii din judetul Arad | ListBase",
+    "seo_description": "Descarcă Licee si colegii din judetul Arad — 42 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 42 înregistrări / 4 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

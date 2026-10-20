@@ -1,0 +1,341 @@
+{
+  "id": "ro-galati-unlocode",
+  "name": "Coduri UN/LOCODE — judeţul Galați (porturi, aeroporturi, terminale)",
+  "title": "Coduri UN/LOCODE — judeţul Galați (porturi, aeroporturi, terminale)",
+  "description": "Cele 8 locaţii UN/LOCODE din judeţul Galați, România — cod LOCODE, denumire, funcţii de transport, status şi coordonate.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "locode",
+      "label": "Locode",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_wo_diacritics",
+      "label": "Name Wo Diacritics",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_code",
+      "label": "Subdivision Code",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_name",
+      "label": "Subdivision Name",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_type",
+      "label": "Subdivision Type",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "status_description",
+      "label": "Status Description",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function",
+      "type": "string"
+    },
+    {
+      "key": "functions",
+      "label": "Functions",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "date_updated",
+      "label": "Date Updated",
+      "type": "string"
+    },
+    {
+      "key": "remarks",
+      "label": "Remarks",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet_name",
+      "label": "Judet Name",
+      "type": "string"
+    },
+    {
+      "key": "judet_source",
+      "label": "Judet Source",
+      "type": "string"
+    },
+    {
+      "key": "judet_alternativ_siruta",
+      "label": "Judet Alternativ Siruta",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "locode": "ROCAV",
+      "country": "RO",
+      "location": "CAV",
+      "name": "Cavadinesti",
+      "name_wo_diacritics": "Cavadinesti",
+      "subdivision_code": "GL",
+      "subdivision_name": "Galaţi",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4604N 02801E",
+      "latitude": 46.0667,
+      "longitude": 28.0167,
+      "date_updated": "2013-01",
+      "remarks": "",
+      "judet_slug": "galati",
+      "judet_name": "Galați",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 2,
+      "locode": "ROGAL",
+      "country": "RO",
+      "location": "GAL",
+      "name": "Galati",
+      "name_wo_diacritics": "Galati",
+      "subdivision_code": "GL",
+      "subdivision_name": "Galaţi",
+      "subdivision_type": "Departments",
+      "status": "AC",
+      "status_description": "Approved by Customs Authority",
+      "function": "1------B",
+      "functions": "Maritime transport (sea port), Cross border (former code)",
+      "iata": "",
+      "coordinates": "4526N 02803E",
+      "latitude": 45.4333,
+      "longitude": 28.05,
+      "date_updated": "2011-01",
+      "remarks": "",
+      "judet_slug": "galati",
+      "judet_name": "Galați",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 3,
+      "locode": "ROLTI",
+      "country": "RO",
+      "location": "LTI",
+      "name": "Liesti",
+      "name_wo_diacritics": "Liesti",
+      "subdivision_code": "GL",
+      "subdivision_name": "Galaţi",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4606N 02726E",
+      "latitude": 46.1,
+      "longitude": 27.4333,
+      "date_updated": "2012-07",
+      "remarks": "",
+      "judet_slug": "galati",
+      "judet_name": "Galați",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 4,
+      "locode": "ROMAT",
+      "country": "RO",
+      "location": "MAT",
+      "name": "Matca",
+      "name_wo_diacritics": "Matca",
+      "subdivision_code": "GL",
+      "subdivision_name": "Galaţi",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4551N 02732E",
+      "latitude": 45.85,
+      "longitude": 27.5333,
+      "date_updated": "2018-01",
+      "remarks": "",
+      "judet_slug": "galati",
+      "judet_name": "Galați",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 5,
+      "locode": "ROMUN",
+      "country": "RO",
+      "location": "MUN",
+      "name": "Muntenii",
+      "name_wo_diacritics": "Muntenii",
+      "subdivision_code": "GL",
+      "subdivision_name": "Galaţi",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4555N 02726E",
+      "latitude": 45.9167,
+      "longitude": 27.4333,
+      "date_updated": "2018-07",
+      "remarks": "",
+      "judet_slug": "galati",
+      "judet_name": "Galați",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 6,
+      "locode": "ROPAS",
+      "country": "RO",
+      "location": "PAS",
+      "name": "Pascani",
+      "name_wo_diacritics": "Pascani",
+      "subdivision_code": "GL",
+      "subdivision_name": "Galaţi",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4550N 02805E",
+      "latitude": 45.8333,
+      "longitude": 28.0833,
+      "date_updated": "2005-07",
+      "remarks": "",
+      "judet_slug": "galati",
+      "judet_name": "Galați",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": "iasi"
+    },
+    {
+      "id": 7,
+      "locode": "ROPEA",
+      "country": "RO",
+      "location": "PEA",
+      "name": "Pechea",
+      "name_wo_diacritics": "Pechea",
+      "subdivision_code": "GL",
+      "subdivision_name": "Galaţi",
+      "subdivision_type": "Departments",
+      "status": "AM",
+      "status_description": "Approved by the UN/LOCODE Maintenance Agency",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4538N 02748E",
+      "latitude": 45.6333,
+      "longitude": 27.8,
+      "date_updated": "2022-01",
+      "remarks": "",
+      "judet_slug": "galati",
+      "judet_name": "Galați",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 8,
+      "locode": "ROTCC",
+      "country": "RO",
+      "location": "TCC",
+      "name": "Tecuci",
+      "name_wo_diacritics": "Tecuci",
+      "subdivision_code": "GL",
+      "subdivision_name": "Galaţi",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-----6--",
+      "functions": "Multimodal transport facility",
+      "iata": "",
+      "coordinates": "4552N 02725E",
+      "latitude": 45.8667,
+      "longitude": 27.4167,
+      "date_updated": "2011-07",
+      "remarks": "",
+      "judet_slug": "galati",
+      "judet_name": "Galați",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    }
+  ],
+  "meta": {
+    "title": "Coduri UN/LOCODE — judeţul Galați (porturi, aeroporturi, terminale) - Descărcare gratuită",
+    "description": "Cele 8 locaţii UN/LOCODE din judeţul Galați, România — cod LOCODE, denumire, funcţii de transport, status şi coordonate. Conține 8 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Coduri UN/LOCODE — judeţul Galați (porturi, aeroporturi, terminale) | ListBase",
+    "seo_description": "Descarcă Coduri UN/LOCODE — judeţul Galați (porturi, aeroporturi, terminale) — 8 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 8 înregistrări / 23 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

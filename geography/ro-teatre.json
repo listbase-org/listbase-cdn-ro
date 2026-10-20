@@ -1,0 +1,2500 @@
+{
+  "id": "ro-teatre",
+  "name": "Teatre din România",
+  "title": "Teatre din România",
+  "description": "Teatre din România — 271 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `amenity=theatre`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 271,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "latitudine",
+      "label": "Latitudine",
+      "type": "number"
+    },
+    {
+      "key": "longitudine",
+      "label": "Longitudine",
+      "type": "number"
+    },
+    {
+      "key": "cheie_osm",
+      "label": "Cheie Osm",
+      "type": "string"
+    },
+    {
+      "key": "valoare_osm",
+      "label": "Valoare Osm",
+      "type": "string"
+    },
+    {
+      "key": "categorie_osm",
+      "label": "Categorie Osm",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nume": "Amfiteatr",
+      "latitudine": 44.611561,
+      "longitudine": 27.330489,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 2,
+      "nume": "Amfiteatru",
+      "latitudine": 44.921615,
+      "longitudine": 25.99033,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 3,
+      "nume": "Amfiteatru",
+      "latitudine": 45.756063,
+      "longitudine": 24.112916,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 4,
+      "nume": "Amfiteatru",
+      "latitudine": 46.769073,
+      "longitudine": 23.632717,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 5,
+      "nume": "Amfiteatru abandonat",
+      "latitudine": 44.401122,
+      "longitudine": 26.115278,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 6,
+      "nume": "Amfiteatru Grădina Botanică",
+      "latitudine": 47.184981,
+      "longitudine": 27.556357,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 7,
+      "nume": "Amfiteatru Hașdeu",
+      "latitudine": 46.761764,
+      "longitudine": 23.57918,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 8,
+      "nume": "Amfiteatrul \"Litoral\"",
+      "latitudine": 45.844,
+      "longitudine": 24.973964,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 9,
+      "nume": "Amfiteatrul \"Sahia\"",
+      "latitudine": 44.43789,
+      "longitudine": 26.104719,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 10,
+      "nume": "Amfiteatrul Cornișa",
+      "latitudine": 47.742705,
+      "longitudine": 26.637674,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 11,
+      "nume": "Amfiteatrul de pe Insuliță",
+      "latitudine": 46.559835,
+      "longitudine": 26.926514,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 12,
+      "nume": "Amfiteatrul de vară",
+      "latitudine": 45.406336,
+      "longitudine": 22.202686,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 13,
+      "nume": "Amfiteatrul din Parcul Tăbăcăriei",
+      "latitudine": 44.206819,
+      "longitudine": 28.63338,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 14,
+      "nume": "Amfiteatrul Laurențiu Ulici",
+      "latitudine": 47.766538,
+      "longitudine": 26.558269,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 15,
+      "nume": "Amfiteatrul Mihai Eminescu",
+      "latitudine": 44.434212,
+      "longitudine": 26.142378,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 16,
+      "nume": "Amfiteatrul Palas",
+      "latitudine": 47.156816,
+      "longitudine": 27.588219,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 17,
+      "nume": "Amfiteatrul Pietrele Scrise",
+      "latitudine": 44.490375,
+      "longitudine": 28.456813,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 18,
+      "nume": "Amfiteatrul Poveștilor",
+      "latitudine": 46.765547,
+      "longitudine": 23.626726,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 19,
+      "nume": "Amfiteatrul Tineretului",
+      "latitudine": 45.163287,
+      "longitudine": 26.830945,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 20,
+      "nume": "Amfiteatrul în aer liber",
+      "latitudine": 47.766059,
+      "longitudine": 26.558202,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 21,
+      "nume": "Amfiteatrul „Cetatea“",
+      "latitudine": 43.884234,
+      "longitudine": 25.962688,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 22,
+      "nume": "Amfiteatul Băile Govora",
+      "latitudine": 45.081749,
+      "longitudine": 24.176527,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 23,
+      "nume": "Ansamblul Național Secuiesc Harghita",
+      "latitudine": 46.35913,
+      "longitudine": 25.803383,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 24,
+      "nume": "Arcadia",
+      "latitudine": 47.054225,
+      "longitudine": 21.93022,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 25,
+      "nume": "ArCuB",
+      "latitudine": 44.438023,
+      "longitudine": 26.10351,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 26,
+      "nume": "Arenele Romane",
+      "latitudine": 44.412895,
+      "longitudine": 26.09311,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 27,
+      "nume": "Ateneul Popular „Maior Gheorghe Pastia”",
+      "latitudine": 45.695558,
+      "longitudine": 27.185239,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 28,
+      "nume": "Ateneul Român",
+      "latitudine": 44.441274,
+      "longitudine": 26.097199,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 29,
+      "nume": "Ateneul „Nicolae Bălcescu”",
+      "latitudine": 43.888217,
+      "longitudine": 25.967932,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 30,
+      "nume": "Ballet Theatre",
+      "latitudine": 45.790143,
+      "longitudine": 24.147953,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 31,
+      "nume": "Bábudvar",
+      "latitudine": 46.721615,
+      "longitudine": 25.59881,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 32,
+      "nume": "Bánffy Miklós Operastúdió",
+      "latitudine": 46.767712,
+      "longitudine": 23.586965,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 33,
+      "nume": "Casa Cultura",
+      "latitudine": 47.240229,
+      "longitudine": 22.41621,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 34,
+      "nume": "Casa de Balet - Studio Unirii",
+      "latitudine": 44.432298,
+      "longitudine": 26.101478,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 35,
+      "nume": "Casa de cultura \"Liviu Rebreanu\"",
+      "latitudine": 47.285504,
+      "longitudine": 24.40124,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 36,
+      "nume": "Casa de Cultura \"Mihai Eminescu\"",
+      "latitudine": 45.90711,
+      "longitudine": 27.093237,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 37,
+      "nume": "Casa de Cultura a Municipiului Codlea",
+      "latitudine": 45.699307,
+      "longitudine": 25.445721,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 38,
+      "nume": "Casa de Cultura a Sindicatelor \"Constantin Tanase\"",
+      "latitudine": 46.638841,
+      "longitudine": 27.732412,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 39,
+      "nume": "Casa de Cultură",
+      "latitudine": 43.969873,
+      "longitudine": 25.329559,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 40,
+      "nume": "Casa de Cultură",
+      "latitudine": 44.163891,
+      "longitudine": 24.533243,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 41,
+      "nume": "Casa de Cultură",
+      "latitudine": 45.105966,
+      "longitudine": 24.370553,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 42,
+      "nume": "Casa de Cultură",
+      "latitudine": 45.330418,
+      "longitudine": 23.118332,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 43,
+      "nume": "Casa de Cultură",
+      "latitudine": 45.671979,
+      "longitudine": 26.029088,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 44,
+      "nume": "Casa de Cultură",
+      "latitudine": 46.177413,
+      "longitudine": 23.919913,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 45,
+      "nume": "Casa de Cultură",
+      "latitudine": 46.243056,
+      "longitudine": 26.761724,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 46,
+      "nume": "Casa de cultură",
+      "latitudine": 46.779328,
+      "longitudine": 24.700702,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 47,
+      "nume": "Casa de cultură",
+      "latitudine": 46.923912,
+      "longitudine": 25.353358,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 48,
+      "nume": "Casa de cultură",
+      "latitudine": 47.028854,
+      "longitudine": 23.908271,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 49,
+      "nume": "Casa de Cultură",
+      "latitudine": 47.130067,
+      "longitudine": 24.498949,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 50,
+      "nume": "Casa de Cultură",
+      "latitudine": 47.644862,
+      "longitudine": 26.259035,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 51,
+      "nume": "Casa de Cultură",
+      "latitudine": 47.839763,
+      "longitudine": 25.918303,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 52,
+      "nume": "Casa de Cultură",
+      "latitudine": 48.186221,
+      "longitudine": 26.593518,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 53,
+      "nume": "Casa de cultură \"Constantin Brâncoveanu\"",
+      "latitudine": 45.145721,
+      "longitudine": 23.989153,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 54,
+      "nume": "Casa de Cultură \"Vasile Latiș\"",
+      "latitudine": 47.452899,
+      "longitudine": 23.865961,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 55,
+      "nume": "Casa de Cultură \"Vasile Sala\"",
+      "latitudine": 46.470363,
+      "longitudine": 22.474352,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 56,
+      "nume": "Casa de Cultură a Sindicatelor",
+      "latitudine": 46.067538,
+      "longitudine": 23.565422,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 57,
+      "nume": "Casa de Cultură a Sindicatelor",
+      "latitudine": 47.742246,
+      "longitudine": 26.662652,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 58,
+      "nume": "Casa de Cultură a Sindicatelor din Ploiești",
+      "latitudine": 44.941769,
+      "longitudine": 26.018776,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 59,
+      "nume": "Casa de Cultură a Tineretului",
+      "latitudine": 44.426088,
+      "longitudine": 24.37692,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 60,
+      "nume": "Casa de Cultură Camil Petrescu Zagon",
+      "latitudine": 45.770944,
+      "longitudine": 26.128864,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 61,
+      "nume": "Casa de Cultură David Prodan Săliștea",
+      "latitudine": 45.907924,
+      "longitudine": 23.399332,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 62,
+      "nume": "Casa de Cultură Geoagiu",
+      "latitudine": 45.920861,
+      "longitudine": 23.200217,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 63,
+      "nume": "Casa de Cultură Hunedoara",
+      "latitudine": 45.753623,
+      "longitudine": 22.903922,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 64,
+      "nume": "Casa de Cultură Ilarion Cocisu",
+      "latitudine": 45.975504,
+      "longitudine": 24.628331,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 65,
+      "nume": "Casa de Cultură Ion Dolămiță",
+      "latitudine": 45.414171,
+      "longitudine": 23.373232,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 66,
+      "nume": "Casa de cultură Platon Pardău",
+      "latitudine": 47.346661,
+      "longitudine": 25.356468,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 67,
+      "nume": "Casa de cultură Plopeni",
+      "latitudine": 45.048839,
+      "longitudine": 25.952284,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 68,
+      "nume": "Casa de Cultură Teliucu Inferior",
+      "latitudine": 45.718029,
+      "longitudine": 22.887306,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 69,
+      "nume": "Casa de Cultură ”George Vâlsan” Făurei",
+      "latitudine": 45.084142,
+      "longitudine": 27.273425,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 70,
+      "nume": "Casa Meșteșugariilor",
+      "latitudine": 47.796412,
+      "longitudine": 22.873723,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 71,
+      "nume": "Casa Sindicatelor",
+      "latitudine": 44.856087,
+      "longitudine": 24.877178,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 72,
+      "nume": "Casa Studenților",
+      "latitudine": 44.315199,
+      "longitudine": 23.801431,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 73,
+      "nume": "Casa Tineretului",
+      "latitudine": 45.118821,
+      "longitudine": 25.741466,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 74,
+      "nume": "Centrul cultural ,,Florin Piersic”",
+      "latitudine": 47.542112,
+      "longitudine": 26.050588,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 75,
+      "nume": "Centrul Cultural Reduta",
+      "latitudine": 45.640821,
+      "longitudine": 25.589212,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 76,
+      "nume": "Centrul Cultural Șibot",
+      "latitudine": 45.936211,
+      "longitudine": 23.334318,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 77,
+      "nume": "Centrul Cultură Pui",
+      "latitudine": 45.514722,
+      "longitudine": 23.093665,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 78,
+      "nume": "Centrul de teatru educational Replika",
+      "latitudine": 44.415263,
+      "longitudine": 26.103317,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 79,
+      "nume": "Centrul Județean de Cultură \"Vasile Cârlova\"",
+      "latitudine": 44.92895,
+      "longitudine": 25.45933,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 80,
+      "nume": "Centrul Multifuncțional Pentru Tineri",
+      "latitudine": 43.967541,
+      "longitudine": 25.332244,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 81,
+      "nume": "Centrul Național al Dansului București",
+      "latitudine": 44.421973,
+      "longitudine": 26.106936,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 82,
+      "nume": "Circul Globus",
+      "latitudine": 44.456537,
+      "longitudine": 26.109499,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 83,
+      "nume": "Club 99",
+      "latitudine": 44.446325,
+      "longitudine": 26.107852,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 84,
+      "nume": "Csűrszínház",
+      "latitudine": 46.630956,
+      "longitudine": 24.877861,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 85,
+      "nume": "Cuibul Artiștilor",
+      "latitudine": 44.439586,
+      "longitudine": 26.126464,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 86,
+      "nume": "Curtea Artiștilor",
+      "latitudine": 47.162624,
+      "longitudine": 23.059162,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 87,
+      "nume": "Cãmin Tîmpa",
+      "latitudine": 45.822686,
+      "longitudine": 23.011894,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 88,
+      "nume": "Cămin Cultural",
+      "latitudine": 45.784034,
+      "longitudine": 23.679971,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 89,
+      "nume": "Cămin Cultural",
+      "latitudine": 45.808702,
+      "longitudine": 23.727984,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 90,
+      "nume": "Cămin Cultural",
+      "latitudine": 47.399075,
+      "longitudine": 24.132973,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 91,
+      "nume": "Cămin Cultural",
+      "latitudine": 47.540026,
+      "longitudine": 22.203925,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 92,
+      "nume": "Căminul Clultural Monor",
+      "latitudine": 46.949949,
+      "longitudine": 24.692632,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 93,
+      "nume": "Căminul Cultural",
+      "latitudine": 45.552372,
+      "longitudine": 21.064636,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 94,
+      "nume": "Căminul Cultural",
+      "latitudine": 46.739532,
+      "longitudine": 22.348131,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 95,
+      "nume": "Căminul Cultural",
+      "latitudine": 46.751973,
+      "longitudine": 22.352077,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 96,
+      "nume": "Căminul Cultural Ludoș",
+      "latitudine": 45.925344,
+      "longitudine": 23.898469,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 97,
+      "nume": "Căminul cultural Macea",
+      "latitudine": 46.38414,
+      "longitudine": 21.313236,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 98,
+      "nume": "Căminul Cultural Mihalț",
+      "latitudine": 46.160722,
+      "longitudine": 23.726769,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 99,
+      "nume": "Căminul Cultural Șoimușu Mare",
+      "latitudine": 46.345936,
+      "longitudine": 24.927166,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 100,
+      "nume": "Căminul Cutural Deda",
+      "latitudine": 46.947158,
+      "longitudine": 24.872026,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 101,
+      "nume": "Căminul Gledin",
+      "latitudine": 46.95776,
+      "longitudine": 24.705125,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 102,
+      "nume": "Dózsa György klub",
+      "latitudine": 45.859627,
+      "longitudine": 25.783242,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 103,
+      "nume": "Figura Stúdió",
+      "latitudine": 46.719497,
+      "longitudine": 25.578974,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 104,
+      "nume": "Filarmonica",
+      "latitudine": 44.859252,
+      "longitudine": 24.870654,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 105,
+      "nume": "Filarmonica \"Dinu Lipatti\"",
+      "latitudine": 47.794249,
+      "longitudine": 22.875194,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 106,
+      "nume": "Filarmonica Banatul",
+      "latitudine": 45.750548,
+      "longitudine": 21.226273,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 107,
+      "nume": "Filarmonica Brașov",
+      "latitudine": 45.640722,
+      "longitudine": 25.589497,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 108,
+      "nume": "Filarmonica Brașov",
+      "latitudine": 45.64757,
+      "longitudine": 25.604147,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 109,
+      "nume": "Filarmonica de Stat",
+      "latitudine": 46.174218,
+      "longitudine": 21.320589,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 110,
+      "nume": "Filarmonica de stat",
+      "latitudine": 47.058428,
+      "longitudine": 21.93089,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 111,
+      "nume": "Filarmonica de Stat Sibiu, Sala Thalia",
+      "latitudine": 45.79432,
+      "longitudine": 24.153885,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 112,
+      "nume": "Filarmonica Ion Dumitrescu",
+      "latitudine": 45.108616,
+      "longitudine": 24.364012,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 113,
+      "nume": "Filarmonica Paul Constantinescu",
+      "latitudine": 44.938278,
+      "longitudine": 26.022515,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 114,
+      "nume": "Filarmonica „Mihail Jora”",
+      "latitudine": 46.56434,
+      "longitudine": 26.909662,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 115,
+      "nume": "Grădina Bis Teatru",
+      "latitudine": 45.789817,
+      "longitudine": 24.164949,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 116,
+      "nume": "Grădina de Vară",
+      "latitudine": 44.858503,
+      "longitudine": 24.872036,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 117,
+      "nume": "Grădina de Vară Albatros",
+      "latitudine": 44.233817,
+      "longitudine": 28.625167,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 118,
+      "nume": "Grădina de vară Capitol",
+      "latitudine": 45.750105,
+      "longitudine": 21.225939,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 119,
+      "nume": "Grădina Tomis",
+      "latitudine": 44.176737,
+      "longitudine": 28.649631,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 120,
+      "nume": "Háromszék Táncegyüttes",
+      "latitudine": 45.865528,
+      "longitudine": 25.787906,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 121,
+      "nume": "Kultúr otthon",
+      "latitudine": 47.041233,
+      "longitudine": 24.149002,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 122,
+      "nume": "M Studió",
+      "latitudine": 45.865579,
+      "longitudine": 25.787782,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 123,
+      "nume": "Metropolis Teatrul",
+      "latitudine": 44.447378,
+      "longitudine": 26.108795,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 124,
+      "nume": "Miez - Spațiu de impresie",
+      "latitudine": 44.314357,
+      "longitudine": 23.798823,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 125,
+      "nume": "Opera Alba Iulia",
+      "latitudine": 46.068693,
+      "longitudine": 23.581401,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 126,
+      "nume": "Opera Brașov",
+      "latitudine": 45.654557,
+      "longitudine": 25.589994,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 127,
+      "nume": "Opera Comică pentru Copii",
+      "latitudine": 44.455023,
+      "longitudine": 26.057544,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 128,
+      "nume": "Opera Națională",
+      "latitudine": 44.436233,
+      "longitudine": 26.079496,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 129,
+      "nume": "Opera Națională Română Iași",
+      "latitudine": 47.163642,
+      "longitudine": 27.585297,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 130,
+      "nume": "Opera Română Timișoara",
+      "latitudine": 45.7541,
+      "longitudine": 21.225943,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 131,
+      "nume": "Palatul Cultural",
+      "latitudine": 46.173546,
+      "longitudine": 23.921488,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 132,
+      "nume": "Palatul Culturii",
+      "latitudine": 46.54335,
+      "longitudine": 24.558046,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 133,
+      "nume": "Palatul Culturii \"Teodor Costescu\"",
+      "latitudine": 44.623625,
+      "longitudine": 22.654663,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 134,
+      "nume": "Recul",
+      "latitudine": 44.411486,
+      "longitudine": 26.11772,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 135,
+      "nume": "Sala 2",
+      "latitudine": 45.7544,
+      "longitudine": 21.231375,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 136,
+      "nume": "Sala Dalles",
+      "latitudine": 44.43828,
+      "longitudine": 26.101666,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 137,
+      "nume": "Sala Europa",
+      "latitudine": 44.562838,
+      "longitudine": 27.36045,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 138,
+      "nume": "Sala Gloria",
+      "latitudine": 44.42861,
+      "longitudine": 26.153698,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 139,
+      "nume": "Sala Omnia",
+      "latitudine": 44.438328,
+      "longitudine": 26.099829,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 140,
+      "nume": "Sala Palatului",
+      "latitudine": 44.439122,
+      "longitudine": 26.095125,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 141,
+      "nume": "Sala Radio",
+      "latitudine": 44.44127,
+      "longitudine": 26.083701,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 142,
+      "nume": "Sala Rapsodia",
+      "latitudine": 44.431919,
+      "longitudine": 26.101363,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 143,
+      "nume": "Sala teatru, cinema",
+      "latitudine": 45.843892,
+      "longitudine": 26.167861,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 144,
+      "nume": "Sală de Teatru, Spectacole",
+      "latitudine": 45.520435,
+      "longitudine": 25.375364,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 145,
+      "nume": "Scena mica",
+      "latitudine": 45.866202,
+      "longitudine": 25.787315,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 146,
+      "nume": "Scena plutitoare",
+      "latitudine": 43.809283,
+      "longitudine": 28.58653,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 147,
+      "nume": "Studio 2.1",
+      "latitudine": 46.538403,
+      "longitudine": 24.549535,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 148,
+      "nume": "Szabadtéri színpad",
+      "latitudine": 46.10825,
+      "longitudine": 25.957005,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 149,
+      "nume": "Teatrelli",
+      "latitudine": 44.445224,
+      "longitudine": 26.099342,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 150,
+      "nume": "Teatru",
+      "latitudine": 46.0655,
+      "longitudine": 23.568845,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 151,
+      "nume": "Teatru de vara",
+      "latitudine": 46.070475,
+      "longitudine": 20.626276,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 152,
+      "nume": "Teatru de vară",
+      "latitudine": 44.870605,
+      "longitudine": 24.867069,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 153,
+      "nume": "Teatru de vară",
+      "latitudine": 44.933901,
+      "longitudine": 25.456317,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 154,
+      "nume": "Teatru Fix",
+      "latitudine": 47.143821,
+      "longitudine": 27.605824,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 155,
+      "nume": "Teatrul \"Aureliu Manea\" Turda",
+      "latitudine": 46.57507,
+      "longitudine": 23.785554,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 156,
+      "nume": "Teatrul \"Mihai Eminescu\"",
+      "latitudine": 45.040853,
+      "longitudine": 21.718442,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 157,
+      "nume": "Teatrul \"Tamási Áron\"",
+      "latitudine": 45.865887,
+      "longitudine": 25.787747,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 158,
+      "nume": "Teatrul \"Traian Grăzăvescu\"",
+      "latitudine": 45.684844,
+      "longitudine": 21.902009,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 159,
+      "nume": "Teatrul 'Potcoava'",
+      "latitudine": 44.172928,
+      "longitudine": 26.605314,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 160,
+      "nume": "Teatrul ACT",
+      "latitudine": 44.443498,
+      "longitudine": 26.093039,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 161,
+      "nume": "Teatrul Ancuța",
+      "latitudine": 44.94826,
+      "longitudine": 26.024432,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 162,
+      "nume": "Teatrul Andrei Mureșanu",
+      "latitudine": 45.867856,
+      "longitudine": 25.788395,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 163,
+      "nume": "Teatrul Anton Pann",
+      "latitudine": 45.10541,
+      "longitudine": 24.369951,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 164,
+      "nume": "Teatrul Apolo 111",
+      "latitudine": 44.435614,
+      "longitudine": 26.094025,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 165,
+      "nume": "Teatrul Ariel",
+      "latitudine": 46.545133,
+      "longitudine": 24.559073,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 166,
+      "nume": "Teatrul Beiuș",
+      "latitudine": 46.667592,
+      "longitudine": 22.3636,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 167,
+      "nume": "Teatrul Bulandra",
+      "latitudine": 44.443603,
+      "longitudine": 26.104612,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 168,
+      "nume": "Teatrul Bulandra - Sala Izvor",
+      "latitudine": 44.433841,
+      "longitudine": 26.089405,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 169,
+      "nume": "Teatrul Clasic Ioan Slavici",
+      "latitudine": 46.171161,
+      "longitudine": 21.315667,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 170,
+      "nume": "Teatrul Cub",
+      "latitudine": 47.163807,
+      "longitudine": 27.584794,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 171,
+      "nume": "Teatrul de Artă",
+      "latitudine": 45.882644,
+      "longitudine": 22.900256,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 172,
+      "nume": "Teatrul de Comedie",
+      "latitudine": 44.431123,
+      "longitudine": 26.099104,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 173,
+      "nume": "Teatrul de Comedie - Sala Nouă",
+      "latitudine": 44.430885,
+      "longitudine": 26.106809,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 174,
+      "nume": "Teatrul de Marionete",
+      "latitudine": 46.175042,
+      "longitudine": 21.313944,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 175,
+      "nume": "Teatrul de Marionete și Păpuși - Țăndărică",
+      "latitudine": 44.445293,
+      "longitudine": 26.101063,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 176,
+      "nume": "Teatrul de Nord",
+      "latitudine": 47.793883,
+      "longitudine": 22.877533,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 177,
+      "nume": "Teatrul de Operetă și Musical \"Ion Dacian\"",
+      "latitudine": 44.423963,
+      "longitudine": 26.110628,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 178,
+      "nume": "Teatrul de Papusi Cimborák",
+      "latitudine": 45.865766,
+      "longitudine": 25.787557,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 179,
+      "nume": "Teatrul de Papuși Vasilache",
+      "latitudine": 47.741766,
+      "longitudine": 26.672661,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 180,
+      "nume": "Teatrul de Păpuși",
+      "latitudine": 44.467637,
+      "longitudine": 26.082453,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 181,
+      "nume": "Teatrul de păpuși \"Cărăbuș\"",
+      "latitudine": 45.279569,
+      "longitudine": 27.958349,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 182,
+      "nume": "Teatrul de Păpuși PUCK",
+      "latitudine": 46.768629,
+      "longitudine": 23.592372,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 183,
+      "nume": "Teatrul de Revistă Constantin Tănase",
+      "latitudine": 44.43593,
+      "longitudine": 26.0977,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 184,
+      "nume": "Teatrul de Stat Constanța",
+      "latitudine": 44.176669,
+      "longitudine": 28.648625,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 185,
+      "nume": "Teatrul de Stat Oradea",
+      "latitudine": 47.057271,
+      "longitudine": 21.931039,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 186,
+      "nume": "Teatrul de Stat și Casa de Cultură a Sindicatelor",
+      "latitudine": 45.290121,
+      "longitudine": 21.891702,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 187,
+      "nume": "Teatrul de Vara",
+      "latitudine": 43.773762,
+      "longitudine": 24.508692,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 188,
+      "nume": "Teatrul de vara - Hoceni",
+      "latitudine": 46.535884,
+      "longitudine": 28.012076,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 189,
+      "nume": "Teatrul de Vară",
+      "latitudine": 43.807501,
+      "longitudine": 23.895862,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 190,
+      "nume": "Teatrul de vară",
+      "latitudine": 43.856869,
+      "longitudine": 28.603952,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 191,
+      "nume": "Teatrul de Vară",
+      "latitudine": 43.866167,
+      "longitudine": 28.600155,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 192,
+      "nume": "Teatrul de Vară",
+      "latitudine": 43.944348,
+      "longitudine": 28.63378,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 193,
+      "nume": "Teatrul de vară",
+      "latitudine": 44.025907,
+      "longitudine": 28.648155,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 194,
+      "nume": "Teatrul de Vară",
+      "latitudine": 44.06733,
+      "longitudine": 28.636061,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 195,
+      "nume": "Teatrul de Vară",
+      "latitudine": 44.11309,
+      "longitudine": 24.343514,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 196,
+      "nume": "Teatrul de Vară",
+      "latitudine": 44.299082,
+      "longitudine": 23.803616,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 197,
+      "nume": "Teatrul de vară",
+      "latitudine": 44.85672,
+      "longitudine": 24.886607,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 198,
+      "nume": "Teatrul de Vară",
+      "latitudine": 44.97979,
+      "longitudine": 26.060591,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 199,
+      "nume": "Teatrul de vară",
+      "latitudine": 45.274963,
+      "longitudine": 27.973928,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 200,
+      "nume": "Teatrul de Vară",
+      "latitudine": 45.750114,
+      "longitudine": 21.232665,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 201,
+      "nume": "Teatrul de vară",
+      "latitudine": 46.543233,
+      "longitudine": 24.561021,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 202,
+      "nume": "Teatrul de Vară",
+      "latitudine": 46.561412,
+      "longitudine": 26.906484,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 203,
+      "nume": "Teatrul de Vară",
+      "latitudine": 46.637302,
+      "longitudine": 27.733855,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 204,
+      "nume": "Teatrul de vară Alhambra",
+      "latitudine": 44.435431,
+      "longitudine": 26.095437,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 205,
+      "nume": "Teatrul de Vară Bazilescu",
+      "latitudine": 44.488135,
+      "longitudine": 26.03342,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 206,
+      "nume": "Teatrul de Vară Herastrau",
+      "latitudine": 44.470943,
+      "longitudine": 26.08086,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 207,
+      "nume": "Teatrul de Vară Jean Constantin",
+      "latitudine": 44.055144,
+      "longitudine": 28.603112,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 208,
+      "nume": "Teatrul de vară Mamaia",
+      "latitudine": 44.222255,
+      "longitudine": 28.632061,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 209,
+      "nume": "Teatrul de Vară „Soveja”",
+      "latitudine": 44.204783,
+      "longitudine": 28.631971,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 210,
+      "nume": "Teatrul Dramatic \"Fani Tardini\"",
+      "latitudine": 45.440935,
+      "longitudine": 28.055583,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 211,
+      "nume": "Teatrul Dramatic Elvira Godeanu",
+      "latitudine": 45.039269,
+      "longitudine": 23.271495,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 212,
+      "nume": "Teatrul Elisabeta",
+      "latitudine": 44.43448,
+      "longitudine": 26.094093,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 213,
+      "nume": "Teatrul Evreiesc de Stat",
+      "latitudine": 44.42943,
+      "longitudine": 26.110782,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 214,
+      "nume": "Teatrul Excelsior",
+      "latitudine": 44.437701,
+      "longitudine": 26.098427,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 215,
+      "nume": "Teatrul Foarte Mic",
+      "latitudine": 44.436189,
+      "longitudine": 26.105233,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 216,
+      "nume": "Teatrul German de Stat",
+      "latitudine": 45.754378,
+      "longitudine": 21.226382,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 217,
+      "nume": "Teatrul GONG",
+      "latitudine": 45.796788,
+      "longitudine": 24.147631,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 218,
+      "nume": "Teatrul Horațiu Mălăele",
+      "latitudine": 44.415502,
+      "longitudine": 27.820841,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 219,
+      "nume": "Teatrul Ion Creangă",
+      "latitudine": 44.443878,
+      "longitudine": 26.095246,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 220,
+      "nume": "Teatrul Ion D. Sîrbu",
+      "latitudine": 45.419526,
+      "longitudine": 23.370141,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 221,
+      "nume": "Teatrul Jean Bart",
+      "latitudine": 45.176707,
+      "longitudine": 28.801147,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 222,
+      "nume": "Teatrul Liric",
+      "latitudine": 45.654339,
+      "longitudine": 25.589978,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 223,
+      "nume": "Teatrul Luceafărul",
+      "latitudine": 47.158852,
+      "longitudine": 27.589833,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 224,
+      "nume": "Teatrul Maghiar de Stat - Opera Maghiară de Stat",
+      "latitudine": 46.772495,
+      "longitudine": 23.58408,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 225,
+      "nume": "Teatrul Maghiar de Stat Csiky Gergely",
+      "latitudine": 45.754419,
+      "longitudine": 21.2264,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 226,
+      "nume": "Teatrul Masca",
+      "latitudine": 44.43873,
+      "longitudine": 26.030222,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 227,
+      "nume": "Teatrul Masca",
+      "latitudine": 44.485924,
+      "longitudine": 26.039894,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 228,
+      "nume": "Teatrul Merlin",
+      "latitudine": 45.745801,
+      "longitudine": 21.214371,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 229,
+      "nume": "Teatrul Mic",
+      "latitudine": 44.435692,
+      "longitudine": 26.095414,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 230,
+      "nume": "Teatrul Mic",
+      "latitudine": 45.791601,
+      "longitudine": 24.151619,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 231,
+      "nume": "Teatrul Mihai Eminescu",
+      "latitudine": 47.744465,
+      "longitudine": 26.66274,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 232,
+      "nume": "Teatrul Mihai Eminescu sediu temporar",
+      "latitudine": 47.739983,
+      "longitudine": 26.659681,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 233,
+      "nume": "Teatrul Municipal",
+      "latitudine": 47.65796,
+      "longitudine": 23.58157,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 234,
+      "nume": "Teatrul Municipal \"Traian Grozăvescu\"",
+      "latitudine": 45.68482,
+      "longitudine": 21.902047,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 235,
+      "nume": "Teatrul Municipal Bacovia",
+      "latitudine": 46.566106,
+      "longitudine": 26.912259,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 236,
+      "nume": "Teatrul Municipal „Csíki Játékszín”",
+      "latitudine": 46.35913,
+      "longitudine": 25.803643,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 237,
+      "nume": "Teatrul Municipal „Maior Gheorghe Pastia\"",
+      "latitudine": 45.699252,
+      "longitudine": 27.187942,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 238,
+      "nume": "Teatrul Național",
+      "latitudine": 44.436893,
+      "longitudine": 26.10373,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 239,
+      "nume": "Teatrul Național Caracal",
+      "latitudine": 44.113498,
+      "longitudine": 24.344904,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 240,
+      "nume": "Teatrul Național de Operă și Balet „Oleg Danovski”",
+      "latitudine": 44.18157,
+      "longitudine": 28.65051,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 241,
+      "nume": "Teatrul Național Lucian Blaga - Opera Națională Română",
+      "latitudine": 46.770105,
+      "longitudine": 23.597573,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 242,
+      "nume": "Teatrul Național Marin Sorescu",
+      "latitudine": 44.319209,
+      "longitudine": 23.7993,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 243,
+      "nume": "Teatrul Național Radu Stanca",
+      "latitudine": 45.791208,
+      "longitudine": 24.149443,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 244,
+      "nume": "Teatrul Național Timișoara",
+      "latitudine": 45.754349,
+      "longitudine": 21.226008,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 245,
+      "nume": "Teatrul Național Târgu Mureș",
+      "latitudine": 46.546504,
+      "longitudine": 24.56031,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 246,
+      "nume": "Teatrul Național „Vasile Alecsandri”",
+      "latitudine": 47.163367,
+      "longitudine": 27.58512,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 247,
+      "nume": "Teatrul Nottara",
+      "latitudine": 44.443521,
+      "longitudine": 26.098676,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 248,
+      "nume": "Teatrul Nou",
+      "latitudine": 44.418301,
+      "longitudine": 26.116195,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 249,
+      "nume": "Teatrul Odeon",
+      "latitudine": 44.435984,
+      "longitudine": 26.099029,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 250,
+      "nume": "Teatrul pentru Copii și Tineret „Căluțul de Mare”",
+      "latitudine": 44.177203,
+      "longitudine": 28.656593,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 251,
+      "nume": "Teatrul pentru Copii “Ciufulici”",
+      "latitudine": 44.935569,
+      "longitudine": 26.025956,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 252,
+      "nume": "Teatrul Roșu",
+      "latitudine": 44.430592,
+      "longitudine": 26.104742,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 253,
+      "nume": "Teatrul Sică Alexandrescu",
+      "latitudine": 45.645763,
+      "longitudine": 25.598567,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 254,
+      "nume": "Teatrul Stela Popescu",
+      "latitudine": 44.408092,
+      "longitudine": 26.115348,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 255,
+      "nume": "Teatrul Studio",
+      "latitudine": 46.542889,
+      "longitudine": 24.561619,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 256,
+      "nume": "Teatrul Tamási Áron, Sala Kamara",
+      "latitudine": 45.86256,
+      "longitudine": 25.783099,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 257,
+      "nume": "Teatrul Tineretului",
+      "latitudine": 46.93232,
+      "longitudine": 26.368265,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 258,
+      "nume": "Teatrul Toma Caragiu",
+      "latitudine": 44.940454,
+      "longitudine": 26.027574,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 259,
+      "nume": "Teatrul Tomcsa Sándor",
+      "latitudine": 46.305552,
+      "longitudine": 25.290272,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 260,
+      "nume": "Teatrul Toni Bulandra",
+      "latitudine": 44.91901,
+      "longitudine": 25.456613,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 261,
+      "nume": "Teatrul Tudor Vianu",
+      "latitudine": 43.88942,
+      "longitudine": 25.964879,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 262,
+      "nume": "Teatrul Zurli",
+      "latitudine": 44.431944,
+      "longitudine": 26.101316,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 263,
+      "nume": "Teatrul „Alexandru Davila”",
+      "latitudine": 44.858968,
+      "longitudine": 24.868924,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 264,
+      "nume": "Teatrul „George Ciprian”",
+      "latitudine": 45.149545,
+      "longitudine": 26.805628,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 265,
+      "nume": "Teatrul „Maria Filotti” Brăila",
+      "latitudine": 45.27207,
+      "longitudine": 27.973185,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 266,
+      "nume": "unteatru",
+      "latitudine": 44.428959,
+      "longitudine": 26.094343,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 267,
+      "nume": "Uzina cu teatru",
+      "latitudine": 47.162826,
+      "longitudine": 27.585817,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 268,
+      "nume": "Военен Клуб Русе",
+      "latitudine": 43.846083,
+      "longitudine": 25.945061,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 269,
+      "nume": "Драматичен театър „Владимир Трандафилов“",
+      "latitudine": 43.985061,
+      "longitudine": 22.878362,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 270,
+      "nume": "Куклен театър – Русе",
+      "latitudine": 43.848093,
+      "longitudine": 25.94761,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    },
+    {
+      "id": 271,
+      "nume": "Летен театър",
+      "latitudine": 43.846006,
+      "longitudine": 25.945767,
+      "cheie_osm": "amenity",
+      "valoare_osm": "theatre",
+      "categorie_osm": "amenity=theatre"
+    }
+  ],
+  "meta": {
+    "title": "Teatre din România - Descărcare gratuită",
+    "description": "Teatre din România — 271 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `amenity=theatre`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează. Conține 271 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Teatre din România | ListBase",
+    "seo_description": "Descarcă Teatre din România — 271 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 271 înregistrări / 7 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

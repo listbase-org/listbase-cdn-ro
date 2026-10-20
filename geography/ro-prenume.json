@@ -1,0 +1,216 @@
+{
+  "id": "ro-prenume",
+  "name": "Ro Prenume",
+  "title": "Ro Prenume",
+  "description": "Top-10 prenume feminine și top-10 masculine din România (2020)",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "name_group",
+      "label": "Name Group",
+      "type": "string"
+    },
+    {
+      "key": "gender",
+      "label": "Gender",
+      "type": "string"
+    },
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "localized",
+      "label": "Localized",
+      "type": "string"
+    },
+    {
+      "key": "romanized",
+      "label": "Romanized",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name_group": "N-RO-1-F-1",
+      "gender": "F",
+      "rank": 1,
+      "localized": "Sofia",
+      "romanized": "Sofia",
+      "year": 2020
+    },
+    {
+      "name_group": "N-RO-1-F-2",
+      "gender": "F",
+      "rank": 2,
+      "localized": "Amelia",
+      "romanized": "Amelia",
+      "year": 2020
+    },
+    {
+      "name_group": "N-RO-1-F-3",
+      "gender": "F",
+      "rank": 3,
+      "localized": "Anastasia",
+      "romanized": "Anastasia",
+      "year": 2020
+    },
+    {
+      "name_group": "N-RO-1-F-4",
+      "gender": "F",
+      "rank": 4,
+      "localized": "Maria",
+      "romanized": "Maria",
+      "year": 2020
+    },
+    {
+      "name_group": "N-RO-1-F-5",
+      "gender": "F",
+      "rank": 5,
+      "localized": "Victoria",
+      "romanized": "Victoria",
+      "year": 2020
+    },
+    {
+      "name_group": "N-RO-1-F-6",
+      "gender": "F",
+      "rank": 6,
+      "localized": "Daria",
+      "romanized": "Daria",
+      "year": 2020
+    },
+    {
+      "name_group": "N-RO-1-F-7",
+      "gender": "F",
+      "rank": 7,
+      "localized": "Eva",
+      "romanized": "Eva",
+      "year": 2020
+    },
+    {
+      "name_group": "N-RO-1-F-8",
+      "gender": "F",
+      "rank": 8,
+      "localized": "Alexandra",
+      "romanized": "Alexandra",
+      "year": 2020
+    },
+    {
+      "name_group": "N-RO-1-F-9",
+      "gender": "F",
+      "rank": 9,
+      "localized": "Evelina",
+      "romanized": "Evelina",
+      "year": 2020
+    },
+    {
+      "name_group": "N-RO-1-F-10",
+      "gender": "F",
+      "rank": 10,
+      "localized": "Andreea",
+      "romanized": "Andreea",
+      "year": 2020
+    },
+    {
+      "name_group": "N-RO-1-M-1",
+      "gender": "M",
+      "rank": 1,
+      "localized": "David",
+      "romanized": "David",
+      "year": 2020
+    },
+    {
+      "name_group": "N-RO-1-M-2",
+      "gender": "M",
+      "rank": 2,
+      "localized": "Matei",
+      "romanized": "Matei",
+      "year": 2020
+    },
+    {
+      "name_group": "N-RO-1-M-3",
+      "gender": "M",
+      "rank": 3,
+      "localized": "Bogdan",
+      "romanized": "Bogdan",
+      "year": 2020
+    },
+    {
+      "name_group": "N-RO-1-M-4",
+      "gender": "M",
+      "rank": 4,
+      "localized": "Maxim",
+      "romanized": "Maxim",
+      "year": 2020
+    },
+    {
+      "name_group": "N-RO-1-M-5",
+      "gender": "M",
+      "rank": 5,
+      "localized": "Alexandru",
+      "romanized": "Alexandru",
+      "year": 2020
+    },
+    {
+      "name_group": "N-RO-1-M-6",
+      "gender": "M",
+      "rank": 6,
+      "localized": "Damian",
+      "romanized": "Damian",
+      "year": 2020
+    },
+    {
+      "name_group": "N-RO-1-M-7",
+      "gender": "M",
+      "rank": 7,
+      "localized": "Daniel",
+      "romanized": "Daniel",
+      "year": 2020
+    },
+    {
+      "name_group": "N-RO-1-M-8",
+      "gender": "M",
+      "rank": 8,
+      "localized": "Artiom",
+      "romanized": "Artiom",
+      "year": 2020
+    },
+    {
+      "name_group": "N-RO-1-M-9",
+      "gender": "M",
+      "rank": 9,
+      "localized": "Ion",
+      "romanized": "Ion",
+      "year": 2020
+    },
+    {
+      "name_group": "N-RO-1-M-10",
+      "gender": "M",
+      "rank": 10,
+      "localized": "Gabriel",
+      "romanized": "Gabriel",
+      "year": 2020
+    }
+  ],
+  "meta": {
+    "title": "Ro Prenume - Descărcare gratuită",
+    "description": "Top-10 prenume feminine și top-10 masculine din România (2020) Conține 20 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Ro Prenume | ListBase",
+    "seo_description": "Descarcă Ro Prenume — 20 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 20 înregistrări / 6 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

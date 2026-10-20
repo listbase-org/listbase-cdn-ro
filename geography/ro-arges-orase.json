@@ -1,0 +1,196 @@
+{
+  "id": "ro-arges-orase",
+  "name": "Orașele și municipiile județului Argeș",
+  "title": "Orașele și municipiile județului Argeș",
+  "description": "Lista celor 7 de orașe, municipii din județul Argeș (AG) — unități administrativ-teritoriale urbane de nivel 2 conform SIRUTA. Reședința de județ este marcată cu is_resedinta_judet=true.",
+  "category": "geography",
+  "source": "https://github.com/ionelmc/django-siruta",
+  "source_url": "https://github.com/ionelmc/django-siruta",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "siruta_code",
+      "label": "Siruta Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_official",
+      "label": "Name Official",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet_id",
+      "label": "Judet Id",
+      "type": "number"
+    },
+    {
+      "key": "judet_name",
+      "label": "Judet Name",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "tip_code",
+      "label": "Tip Code",
+      "type": "number"
+    },
+    {
+      "key": "tip_name",
+      "label": "Tip Name",
+      "type": "string"
+    },
+    {
+      "key": "is_resedinta_judet",
+      "label": "Is Resedinta Judet",
+      "type": "boolean"
+    },
+    {
+      "key": "regiune_id",
+      "label": "Regiune Id",
+      "type": "number"
+    },
+    {
+      "key": "nuts3",
+      "label": "Nuts3",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "siruta_code": 13169,
+      "name": "Pitești",
+      "name_official": "MUNICIPIUL PITEȘTI",
+      "slug": "pitesti",
+      "judet_id": 3,
+      "judet_name": "Argeș",
+      "judet_slug": "arges",
+      "iso_3166_2": "RO-AG",
+      "tip_code": 1,
+      "tip_name": "municipiu reședință de județ",
+      "is_resedinta_judet": true,
+      "regiune_id": 3,
+      "nuts3": "RO311"
+    },
+    {
+      "siruta_code": 13668,
+      "name": "Costești",
+      "name_official": "ORAȘ COSTEȘTI",
+      "slug": "costesti",
+      "judet_id": 3,
+      "judet_name": "Argeș",
+      "judet_slug": "arges",
+      "iso_3166_2": "RO-AG",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 3,
+      "nuts3": "RO311"
+    },
+    {
+      "siruta_code": 13622,
+      "name": "Curtea De Argeș",
+      "name_official": "MUNICIPIUL CURTEA DE ARGEȘ",
+      "slug": "curtea-de-arges",
+      "judet_id": 3,
+      "judet_name": "Argeș",
+      "judet_slug": "arges",
+      "iso_3166_2": "RO-AG",
+      "tip_code": 4,
+      "tip_name": "municipiu",
+      "is_resedinta_judet": false,
+      "regiune_id": 3,
+      "nuts3": "RO311"
+    },
+    {
+      "siruta_code": 13490,
+      "name": "Câmpulung",
+      "name_official": "MUNICIPIUL CÂMPULUNG",
+      "slug": "campulung",
+      "judet_id": 3,
+      "judet_name": "Argeș",
+      "judet_slug": "arges",
+      "iso_3166_2": "RO-AG",
+      "tip_code": 4,
+      "tip_name": "municipiu",
+      "is_resedinta_judet": false,
+      "regiune_id": 3,
+      "nuts3": "RO311"
+    },
+    {
+      "siruta_code": 13301,
+      "name": "Mioveni",
+      "name_official": "ORAȘ MIOVENI",
+      "slug": "mioveni",
+      "judet_id": 3,
+      "judet_name": "Argeș",
+      "judet_slug": "arges",
+      "iso_3166_2": "RO-AG",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 3,
+      "nuts3": "RO311"
+    },
+    {
+      "siruta_code": 13757,
+      "name": "Topoloveni",
+      "name_official": "ORAȘ TOPOLOVENI",
+      "slug": "topoloveni",
+      "judet_id": 3,
+      "judet_name": "Argeș",
+      "judet_slug": "arges",
+      "iso_3166_2": "RO-AG",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 3,
+      "nuts3": "RO311"
+    },
+    {
+      "siruta_code": 13392,
+      "name": "Ștefănești",
+      "name_official": "ORAȘ ȘTEFĂNEȘTI",
+      "slug": "stefanesti-arges",
+      "judet_id": 3,
+      "judet_name": "Argeș",
+      "judet_slug": "arges",
+      "iso_3166_2": "RO-AG",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 3,
+      "nuts3": "RO311"
+    }
+  ],
+  "meta": {
+    "title": "Orașele și municipiile județului Argeș - Descărcare gratuită",
+    "description": "Lista celor 7 de orașe, municipii din județul Argeș (AG) — unități administrativ-teritoriale urbane de nivel 2 conform SIRUTA. Reședința de județ este marcată cu is_resedinta_judet=true. Conține 7 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Orașele și municipiile județului Argeș | ListBase",
+    "seo_description": "Descarcă Orașele și municipiile județului Argeș — 7 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 7 înregistrări / 13 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: https://github.com/ionelmc/django-siruta"
+    ]
+  }
+}

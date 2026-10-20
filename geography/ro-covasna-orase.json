@@ -1,0 +1,166 @@
+{
+  "id": "ro-covasna-orase",
+  "name": "Orașele și municipiile județului Covasna",
+  "title": "Orașele și municipiile județului Covasna",
+  "description": "Lista celor 5 de orașe, municipii din județul Covasna (CV) — unități administrativ-teritoriale urbane de nivel 2 conform SIRUTA. Reședința de județ este marcată cu is_resedinta_judet=true.",
+  "category": "geography",
+  "source": "https://github.com/ionelmc/django-siruta",
+  "source_url": "https://github.com/ionelmc/django-siruta",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "siruta_code",
+      "label": "Siruta Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_official",
+      "label": "Name Official",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet_id",
+      "label": "Judet Id",
+      "type": "number"
+    },
+    {
+      "key": "judet_name",
+      "label": "Judet Name",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "tip_code",
+      "label": "Tip Code",
+      "type": "number"
+    },
+    {
+      "key": "tip_name",
+      "label": "Tip Name",
+      "type": "string"
+    },
+    {
+      "key": "is_resedinta_judet",
+      "label": "Is Resedinta Judet",
+      "type": "boolean"
+    },
+    {
+      "key": "regiune_id",
+      "label": "Regiune Id",
+      "type": "number"
+    },
+    {
+      "key": "nuts3",
+      "label": "Nuts3",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "siruta_code": 63394,
+      "name": "Sfântu Gheorghe",
+      "name_official": "MUNICIPIUL SFÂNTU GHEORGHE",
+      "slug": "sfantu-gheorghe",
+      "judet_id": 14,
+      "judet_name": "Covasna",
+      "judet_slug": "covasna",
+      "iso_3166_2": "RO-CV",
+      "tip_code": 1,
+      "tip_name": "municipiu reședință de județ",
+      "is_resedinta_judet": true,
+      "regiune_id": 7,
+      "nuts3": "RO123"
+    },
+    {
+      "siruta_code": 63447,
+      "name": "Baraolt",
+      "name_official": "ORAȘ BARAOLT",
+      "slug": "baraolt",
+      "judet_id": 14,
+      "judet_name": "Covasna",
+      "judet_slug": "covasna",
+      "iso_3166_2": "RO-CV",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 7,
+      "nuts3": "RO123"
+    },
+    {
+      "siruta_code": 63526,
+      "name": "Covasna",
+      "name_official": "ORAȘ COVASNA",
+      "slug": "covasna",
+      "judet_id": 14,
+      "judet_name": "Covasna",
+      "judet_slug": "covasna",
+      "iso_3166_2": "RO-CV",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 7,
+      "nuts3": "RO123"
+    },
+    {
+      "siruta_code": 63740,
+      "name": "Târgu Secuiesc",
+      "name_official": "MUNICIPIUL TÂRGU SECUIESC",
+      "slug": "targu-secuiesc",
+      "judet_id": 14,
+      "judet_name": "Covasna",
+      "judet_slug": "covasna",
+      "iso_3166_2": "RO-CV",
+      "tip_code": 4,
+      "tip_name": "municipiu",
+      "is_resedinta_judet": false,
+      "regiune_id": 7,
+      "nuts3": "RO123"
+    },
+    {
+      "siruta_code": 63580,
+      "name": "Întorsura Buzăului",
+      "name_official": "ORAȘ ÎNTORSURA BUZĂULUI",
+      "slug": "intorsura-buzaului",
+      "judet_id": 14,
+      "judet_name": "Covasna",
+      "judet_slug": "covasna",
+      "iso_3166_2": "RO-CV",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 7,
+      "nuts3": "RO123"
+    }
+  ],
+  "meta": {
+    "title": "Orașele și municipiile județului Covasna - Descărcare gratuită",
+    "description": "Lista celor 5 de orașe, municipii din județul Covasna (CV) — unități administrativ-teritoriale urbane de nivel 2 conform SIRUTA. Reședința de județ este marcată cu is_resedinta_judet=true. Conține 5 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Orașele și municipiile județului Covasna | ListBase",
+    "seo_description": "Descarcă Orașele și municipiile județului Covasna — 5 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 5 înregistrări / 13 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: https://github.com/ionelmc/django-siruta"
+    ]
+  }
+}

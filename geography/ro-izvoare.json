@@ -1,0 +1,7036 @@
+{
+  "id": "ro-izvoare",
+  "name": "Izvoare din România",
+  "title": "Izvoare din România",
+  "description": "Izvoare din România — 775 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `natural=spring`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 775,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "latitudine",
+      "label": "Latitudine",
+      "type": "number"
+    },
+    {
+      "key": "longitudine",
+      "label": "Longitudine",
+      "type": "number"
+    },
+    {
+      "key": "cheie_osm",
+      "label": "Cheie Osm",
+      "type": "string"
+    },
+    {
+      "key": "valoare_osm",
+      "label": "Valoare Osm",
+      "type": "string"
+    },
+    {
+      "key": "categorie_osm",
+      "label": "Categorie Osm",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nume": "4-es forrás [borvízforrás]",
+      "latitudine": 46.346051,
+      "longitudine": 25.466121,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 2,
+      "nume": "Alszegi borvízkút",
+      "latitudine": 46.206958,
+      "longitudine": 25.905019,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 3,
+      "nume": "Alsóbogáti-forrás",
+      "latitudine": 46.453837,
+      "longitudine": 25.745941,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 4,
+      "nume": "Angol bányatelep [borvíz forrás]",
+      "latitudine": 46.310044,
+      "longitudine": 25.506224,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 5,
+      "nume": "APA",
+      "latitudine": 45.225337,
+      "longitudine": 23.667355,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 6,
+      "nume": "Apa",
+      "latitudine": 45.405208,
+      "longitudine": 26.047158,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 7,
+      "nume": "APA",
+      "latitudine": 45.430934,
+      "longitudine": 26.051475,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 8,
+      "nume": "Apa Caldă",
+      "latitudine": 46.705486,
+      "longitudine": 25.846415,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 9,
+      "nume": "Apa minerala",
+      "latitudine": 45.85324,
+      "longitudine": 25.682546,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 10,
+      "nume": "apa minerala",
+      "latitudine": 46.031537,
+      "longitudine": 25.823276,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 11,
+      "nume": "Apa Minerala",
+      "latitudine": 46.113727,
+      "longitudine": 25.959948,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 12,
+      "nume": "Apa minerală",
+      "latitudine": 46.204484,
+      "longitudine": 25.916045,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 13,
+      "nume": "Apa minerală",
+      "latitudine": 46.37725,
+      "longitudine": 25.858646,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 14,
+      "nume": "Apa minerală Ciucani",
+      "latitudine": 46.254311,
+      "longitudine": 25.956519,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 15,
+      "nume": "Apa minerală de la Toplița-Ciuc",
+      "latitudine": 46.376291,
+      "longitudine": 25.791835,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 16,
+      "nume": "Apa minerală de la Șoimeni",
+      "latitudine": 46.390613,
+      "longitudine": 25.871478,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 17,
+      "nume": "Apa minerală de la Șumuleu-Ciuc",
+      "latitudine": 46.377788,
+      "longitudine": 25.828785,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 18,
+      "nume": "Apeductul Christian Kertsch",
+      "latitudine": 45.63977,
+      "longitudine": 25.594792,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 19,
+      "nume": "Apă Domenască",
+      "latitudine": 47.030803,
+      "longitudine": 24.912351,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 20,
+      "nume": "Apă minerală",
+      "latitudine": 46.240379,
+      "longitudine": 25.897746,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 21,
+      "nume": "Apă minerală (Hidrogen sulfurat)",
+      "latitudine": 45.321389,
+      "longitudine": 24.751968,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 22,
+      "nume": "Apă Minerală (Hidrogen sulfurat)",
+      "latitudine": 46.191502,
+      "longitudine": 26.013923,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 23,
+      "nume": "Baia Santa",
+      "latitudine": 46.047486,
+      "longitudine": 25.829642,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 24,
+      "nume": "Baia Tradițională Muhos",
+      "latitudine": 46.641248,
+      "longitudine": 25.985209,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 25,
+      "nume": "Bakta csorgója",
+      "latitudine": 46.775734,
+      "longitudine": 25.328566,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 26,
+      "nume": "Bază tratament izvor: 8, 9, 10, 11, 12, 13, 14",
+      "latitudine": 45.205999,
+      "longitudine": 24.233367,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 27,
+      "nume": "Bedő-borvíz",
+      "latitudine": 46.049991,
+      "longitudine": 25.826891,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 28,
+      "nume": "Bernát kútja",
+      "latitudine": 46.38434,
+      "longitudine": 25.85005,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 29,
+      "nume": "Biserica 7 izvoare",
+      "latitudine": 45.023155,
+      "longitudine": 24.666481,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 30,
+      "nume": "Bizum 1",
+      "latitudine": 47.333372,
+      "longitudine": 25.345456,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 31,
+      "nume": "Bizum 2",
+      "latitudine": 47.332321,
+      "longitudine": 25.344831,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 32,
+      "nume": "Bodó Dávidé",
+      "latitudine": 46.266996,
+      "longitudine": 25.965945,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 33,
+      "nume": "Borcut",
+      "latitudine": 47.106217,
+      "longitudine": 25.457281,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 34,
+      "nume": "Borcut",
+      "latitudine": 47.482922,
+      "longitudine": 24.202394,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 35,
+      "nume": "Borcut",
+      "latitudine": 47.62018,
+      "longitudine": 24.057456,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 36,
+      "nume": "Borcut",
+      "latitudine": 47.670318,
+      "longitudine": 23.512243,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 37,
+      "nume": "Borcut",
+      "latitudine": 47.680643,
+      "longitudine": 24.789192,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 38,
+      "nume": "Borcut",
+      "latitudine": 47.682304,
+      "longitudine": 24.105505,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 39,
+      "nume": "Borcut",
+      "latitudine": 47.750218,
+      "longitudine": 24.414264,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 40,
+      "nume": "Borcut",
+      "latitudine": 48.073784,
+      "longitudine": 23.245056,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 41,
+      "nume": "Borcut Baia Sprie",
+      "latitudine": 47.676711,
+      "longitudine": 23.695224,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 42,
+      "nume": "Borcut Groape",
+      "latitudine": 47.70939,
+      "longitudine": 23.668875,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 43,
+      "nume": "Borka-völgyi borvízforrás",
+      "latitudine": 47.126588,
+      "longitudine": 25.737594,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 44,
+      "nume": "Borsáros;András Pista kútja",
+      "latitudine": 46.310389,
+      "longitudine": 25.839203,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 45,
+      "nume": "Borviz (Apa minerala)",
+      "latitudine": 46.000617,
+      "longitudine": 23.171602,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 46,
+      "nume": "borvíz forrás",
+      "latitudine": 45.850002,
+      "longitudine": 25.679274,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 47,
+      "nume": "borvíz forrás",
+      "latitudine": 45.850944,
+      "longitudine": 25.68044,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 48,
+      "nume": "Borvíz forrás",
+      "latitudine": 46.545299,
+      "longitudine": 25.590921,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 49,
+      "nume": "borvíz-forrás",
+      "latitudine": 46.312608,
+      "longitudine": 25.5393,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 50,
+      "nume": "borvízforrás",
+      "latitudine": 45.624343,
+      "longitudine": 25.774839,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 51,
+      "nume": "borvízforrás",
+      "latitudine": 45.625446,
+      "longitudine": 25.780093,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 52,
+      "nume": "Borvízforrás",
+      "latitudine": 46.501547,
+      "longitudine": 25.578864,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 53,
+      "nume": "borvízforrás",
+      "latitudine": 47.078361,
+      "longitudine": 25.479206,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 54,
+      "nume": "Bugyogó",
+      "latitudine": 46.107841,
+      "longitudine": 25.872355,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 55,
+      "nume": "Buzgó borvíz",
+      "latitudine": 46.166592,
+      "longitudine": 25.748054,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 56,
+      "nume": "Bátordi-borvíz;Köpe-forrás",
+      "latitudine": 46.187276,
+      "longitudine": 25.888516,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 57,
+      "nume": "Bökecs leve",
+      "latitudine": 46.611306,
+      "longitudine": 24.963196,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 58,
+      "nume": "Băile Apor Bath",
+      "latitudine": 46.115098,
+      "longitudine": 25.949501,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 59,
+      "nume": "Caraiman ”Ghost” waterfall",
+      "latitudine": 45.40792,
+      "longitudine": 25.489758,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 60,
+      "nume": "Castel de Apa",
+      "latitudine": 45.38499,
+      "longitudine": 23.95838,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 61,
+      "nume": "Cigány vajor",
+      "latitudine": 46.456538,
+      "longitudine": 23.572313,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 62,
+      "nume": "Cipaș",
+      "latitudine": 48.019819,
+      "longitudine": 23.14015,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 63,
+      "nume": "Ciungi",
+      "latitudine": 45.515671,
+      "longitudine": 24.353564,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 64,
+      "nume": "Ciurgău",
+      "latitudine": 46.681802,
+      "longitudine": 23.693655,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 65,
+      "nume": "Cișmeaua Acargea",
+      "latitudine": 43.792446,
+      "longitudine": 28.354121,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 66,
+      "nume": "Cișmeaua Babii",
+      "latitudine": 44.958841,
+      "longitudine": 28.230564,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 67,
+      "nume": "Cișmeaua Carasan",
+      "latitudine": 45.207781,
+      "longitudine": 28.243442,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 68,
+      "nume": "Cișmeaua Carasan II",
+      "latitudine": 45.209933,
+      "longitudine": 28.244654,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 69,
+      "nume": "Cișmeaua Căutici",
+      "latitudine": 45.230049,
+      "longitudine": 28.234012,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 70,
+      "nume": "Cișmeaua de la Chirtoci",
+      "latitudine": 45.063122,
+      "longitudine": 23.137825,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 71,
+      "nume": "Cișmeaua din pădurea Furnica",
+      "latitudine": 43.965815,
+      "longitudine": 27.991981,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 72,
+      "nume": "Cișmeaua Furnica",
+      "latitudine": 43.966461,
+      "longitudine": 27.9959,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 73,
+      "nume": "Cișmeaua lui Orghidan",
+      "latitudine": 45.190945,
+      "longitudine": 28.263057,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 74,
+      "nume": "Cișmeaua Nargilar",
+      "latitudine": 44.062181,
+      "longitudine": 27.942779,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 75,
+      "nume": "Cișmeaua Stupina",
+      "latitudine": 45.214745,
+      "longitudine": 28.248176,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 76,
+      "nume": "Cișmeaua Turcească",
+      "latitudine": 44.06065,
+      "longitudine": 27.942756,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 77,
+      "nume": "Cișmeaua Șipote",
+      "latitudine": 44.041915,
+      "longitudine": 27.962739,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 78,
+      "nume": "Csala kútja",
+      "latitudine": 46.423657,
+      "longitudine": 25.067695,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 79,
+      "nume": "Cseredombi-borvízforrás / Fingó-borvíz",
+      "latitudine": 46.492849,
+      "longitudine": 25.177193,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 80,
+      "nume": "Csiperke-borvíz",
+      "latitudine": 46.386396,
+      "longitudine": 25.638474,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 81,
+      "nume": "Csiszár",
+      "latitudine": 46.10661,
+      "longitudine": 25.95177,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 82,
+      "nume": "Csíki bora",
+      "latitudine": 46.265172,
+      "longitudine": 25.96906,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 83,
+      "nume": "Cukrász-borvíz",
+      "latitudine": 45.907393,
+      "longitudine": 25.691708,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 84,
+      "nume": "Călin",
+      "latitudine": 46.76465,
+      "longitudine": 25.184639,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 85,
+      "nume": "Călțun",
+      "latitudine": 45.580144,
+      "longitudine": 24.573603,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 86,
+      "nume": "Dióvápai borvíz forrás",
+      "latitudine": 46.468551,
+      "longitudine": 25.200196,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 87,
+      "nume": "Drinking water spring",
+      "latitudine": 45.939837,
+      "longitudine": 26.594051,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 88,
+      "nume": "Elek apó feredője",
+      "latitudine": 46.157545,
+      "longitudine": 25.759315,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 89,
+      "nume": "Erzsébet kútja",
+      "latitudine": 46.28248,
+      "longitudine": 25.10197,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 90,
+      "nume": "Falkabik kútja",
+      "latitudine": 45.887414,
+      "longitudine": 25.743956,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 91,
+      "nume": "Fantana Mare",
+      "latitudine": 44.801163,
+      "longitudine": 23.946665,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 92,
+      "nume": "Fantana Oadyi",
+      "latitudine": 47.526424,
+      "longitudine": 23.038837,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 93,
+      "nume": "Fantana stanii",
+      "latitudine": 45.479477,
+      "longitudine": 26.50151,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 94,
+      "nume": "Farkaspataki-borvíz",
+      "latitudine": 46.222154,
+      "longitudine": 26.156778,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 95,
+      "nume": "Fehérkői borvíz",
+      "latitudine": 46.254697,
+      "longitudine": 26.157624,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 96,
+      "nume": "Felső utcai vajor",
+      "latitudine": 46.454931,
+      "longitudine": 23.564988,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 97,
+      "nume": "Felső vészfarki-forrás [borvízforrás]",
+      "latitudine": 46.351047,
+      "longitudine": 25.479101,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 98,
+      "nume": "Fenyőfarki borvíz",
+      "latitudine": 46.118943,
+      "longitudine": 25.822308,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 99,
+      "nume": "Fenyősági borvíz",
+      "latitudine": 46.178628,
+      "longitudine": 25.767164,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 100,
+      "nume": "Festő-borvíz [borvíz forrás]",
+      "latitudine": 46.316916,
+      "longitudine": 25.597062,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 101,
+      "nume": "Fingós borvíz",
+      "latitudine": 46.121673,
+      "longitudine": 25.724002,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 102,
+      "nume": "Foraj 6",
+      "latitudine": 45.936378,
+      "longitudine": 23.161256,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 103,
+      "nume": "Forajul 36 Barasăul",
+      "latitudine": 47.014323,
+      "longitudine": 25.71697,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 104,
+      "nume": "forrás",
+      "latitudine": 47.564934,
+      "longitudine": 25.506965,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 105,
+      "nume": "fresh water spring",
+      "latitudine": 45.640836,
+      "longitudine": 24.337738,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 106,
+      "nume": "Fântâna \"Sfânta Treime\"",
+      "latitudine": 45.628786,
+      "longitudine": 25.568394,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 107,
+      "nume": "Fântâna Albă",
+      "latitudine": 45.894916,
+      "longitudine": 25.444735,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 108,
+      "nume": "Fântâna Bâlea",
+      "latitudine": 45.299493,
+      "longitudine": 28.131844,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 109,
+      "nume": "Fântâna Ciobanului",
+      "latitudine": 46.696989,
+      "longitudine": 23.52256,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 110,
+      "nume": "Fântâna Cocostârcului",
+      "latitudine": 45.874218,
+      "longitudine": 25.76176,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 111,
+      "nume": "Fântâna de la Popa Petre",
+      "latitudine": 45.108128,
+      "longitudine": 28.280695,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 112,
+      "nume": "Fântâna de la Puturoasa",
+      "latitudine": 45.117201,
+      "longitudine": 28.273804,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 113,
+      "nume": "Fântâna de Leac",
+      "latitudine": 45.256899,
+      "longitudine": 28.181552,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 114,
+      "nume": "Fântâna Dodiții",
+      "latitudine": 46.507318,
+      "longitudine": 22.923548,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 115,
+      "nume": "Fântâna Dreptății",
+      "latitudine": 45.625546,
+      "longitudine": 25.58132,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 116,
+      "nume": "Fântâna Ducna",
+      "latitudine": 43.79669,
+      "longitudine": 25.104824,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 117,
+      "nume": "Fântâna Ferdinand Pax",
+      "latitudine": 46.761588,
+      "longitudine": 23.587198,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 118,
+      "nume": "Fântâna Fidelis",
+      "latitudine": 46.117136,
+      "longitudine": 25.945546,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 119,
+      "nume": "Fântâna Lotrilor",
+      "latitudine": 46.340595,
+      "longitudine": 22.356311,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 120,
+      "nume": "Fântâna lui Botorog",
+      "latitudine": 45.535817,
+      "longitudine": 25.292071,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 121,
+      "nume": "Fântâna lui Brad",
+      "latitudine": 45.603684,
+      "longitudine": 25.584613,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 122,
+      "nume": "Fântâna lui David",
+      "latitudine": 45.949509,
+      "longitudine": 25.719215,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 123,
+      "nume": "Fântâna lui Davila",
+      "latitudine": 45.350468,
+      "longitudine": 25.52045,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 124,
+      "nume": "Fântâna lui Gatej",
+      "latitudine": 45.342844,
+      "longitudine": 25.522217,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 125,
+      "nume": "Fântâna lui Pipirigeanu",
+      "latitudine": 45.085158,
+      "longitudine": 28.387086,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 126,
+      "nume": "Fântâna Mare",
+      "latitudine": 44.469101,
+      "longitudine": 24.343351,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 127,
+      "nume": "Fântâna Marinarul",
+      "latitudine": 44.622488,
+      "longitudine": 22.65045,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 128,
+      "nume": "Fântâna Mireselor",
+      "latitudine": 44.09642,
+      "longitudine": 23.741513,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 129,
+      "nume": "Fântâna Rece",
+      "latitudine": 45.289574,
+      "longitudine": 23.745797,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 130,
+      "nume": "Fântâna Rikai",
+      "latitudine": 46.107952,
+      "longitudine": 25.510269,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 131,
+      "nume": "Fântâna Stânei",
+      "latitudine": 47.735219,
+      "longitudine": 23.654295,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 132,
+      "nume": "Fântâna Trestenic",
+      "latitudine": 45.091015,
+      "longitudine": 28.559959,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 133,
+      "nume": "Fântâna Zmeiului",
+      "latitudine": 45.176266,
+      "longitudine": 28.482568,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 134,
+      "nume": "Fântâna Țiganului",
+      "latitudine": 43.807567,
+      "longitudine": 25.139062,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 135,
+      "nume": "Fântâna „Doi Brazi\"",
+      "latitudine": 45.227912,
+      "longitudine": 23.692357,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 136,
+      "nume": "Fântână",
+      "latitudine": 45.950057,
+      "longitudine": 24.917635,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 137,
+      "nume": "Fântână",
+      "latitudine": 46.972337,
+      "longitudine": 26.344278,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 138,
+      "nume": "Fântână ( canton - lângă Mormintele Germane ) BTLAPAS",
+      "latitudine": 47.530956,
+      "longitudine": 26.781706,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 139,
+      "nume": "Fântână cu cumpănă",
+      "latitudine": 46.704947,
+      "longitudine": 23.579586,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 140,
+      "nume": "Fântână cu izvor",
+      "latitudine": 45.363779,
+      "longitudine": 25.521531,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 141,
+      "nume": "Fîntîna",
+      "latitudine": 45.436871,
+      "longitudine": 26.594536,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 142,
+      "nume": "Grup izvoare 7, 15, 19",
+      "latitudine": 45.205766,
+      "longitudine": 24.23526,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 143,
+      "nume": "Gyertyános-kút",
+      "latitudine": 45.895643,
+      "longitudine": 25.686202,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 144,
+      "nume": "Hosszúvontató",
+      "latitudine": 46.464239,
+      "longitudine": 25.895898,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 145,
+      "nume": "Hámori 1 [borvíz forrás]",
+      "latitudine": 46.324537,
+      "longitudine": 25.507401,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 146,
+      "nume": "Hámori 2 [borvíz forrás]",
+      "latitudine": 46.323312,
+      "longitudine": 25.507289,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 147,
+      "nume": "Hámori [borvíz forrás]",
+      "latitudine": 46.323251,
+      "longitudine": 25.506884,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 148,
+      "nume": "Ilona-forrás [borvízforrás]",
+      "latitudine": 46.345157,
+      "longitudine": 25.465257,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 149,
+      "nume": "Itató vályukkal",
+      "latitudine": 46.229602,
+      "longitudine": 25.499885,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 150,
+      "nume": "Itt valami folyó volt?",
+      "latitudine": 45.914286,
+      "longitudine": 24.153406,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 151,
+      "nume": "Izbuc",
+      "latitudine": 46.42047,
+      "longitudine": 22.350437,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 152,
+      "nume": "izbuc",
+      "latitudine": 46.871146,
+      "longitudine": 26.033085,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 153,
+      "nume": "Izbucul Bigăr",
+      "latitudine": 45.003388,
+      "longitudine": 21.957661,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 154,
+      "nume": "Izbucul Boga",
+      "latitudine": 46.609676,
+      "longitudine": 22.681141,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 155,
+      "nume": "Izbucul Bulbuci",
+      "latitudine": 46.597913,
+      "longitudine": 22.67192,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 156,
+      "nume": "Izbucul Băluța",
+      "latitudine": 44.952017,
+      "longitudine": 22.75882,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 157,
+      "nume": "Izbucul Cernei",
+      "latitudine": 45.198589,
+      "longitudine": 22.786402,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 158,
+      "nume": "Izbucul din Valea Seacă",
+      "latitudine": 46.427883,
+      "longitudine": 22.352942,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 159,
+      "nume": "Izbucul Dămișenilor",
+      "latitudine": 46.884146,
+      "longitudine": 22.586386,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 160,
+      "nume": "Izbucul Iordanului",
+      "latitudine": 44.870818,
+      "longitudine": 21.806802,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 161,
+      "nume": "Izbucul Izbândiș",
+      "latitudine": 46.933045,
+      "longitudine": 22.520671,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 162,
+      "nume": "Izbucul Pauleasa",
+      "latitudine": 46.561959,
+      "longitudine": 22.660882,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 163,
+      "nume": "Izbucul Rosia",
+      "latitudine": 46.827461,
+      "longitudine": 22.41981,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 164,
+      "nume": "Izbucul Tăuz",
+      "latitudine": 46.514432,
+      "longitudine": 22.782846,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 165,
+      "nume": "Izbucul Ursului",
+      "latitudine": 46.56967,
+      "longitudine": 22.728499,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 166,
+      "nume": "Izv. Elisabeta",
+      "latitudine": 45.897232,
+      "longitudine": 25.70831,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 167,
+      "nume": "Izv. Jimbor",
+      "latitudine": 46.111767,
+      "longitudine": 25.920596,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 168,
+      "nume": "Izv. Kossuth",
+      "latitudine": 45.897576,
+      "longitudine": 25.709298,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 169,
+      "nume": "Izv. Márton",
+      "latitudine": 46.151452,
+      "longitudine": 25.861203,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 170,
+      "nume": "Izv. Popii",
+      "latitudine": 45.859384,
+      "longitudine": 25.757235,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 171,
+      "nume": "Izv. Pârâul Minei",
+      "latitudine": 46.153952,
+      "longitudine": 25.826256,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 172,
+      "nume": "Izv. Seiche",
+      "latitudine": 46.103046,
+      "longitudine": 25.969747,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 173,
+      "nume": "izv. Sinon",
+      "latitudine": 46.058313,
+      "longitudine": 25.854511,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 174,
+      "nume": "Izv. Sărat",
+      "latitudine": 45.985359,
+      "longitudine": 25.850079,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 175,
+      "nume": "Izv. Transilvania",
+      "latitudine": 46.108007,
+      "longitudine": 25.960556,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 176,
+      "nume": "Izv. Vadaș",
+      "latitudine": 45.940056,
+      "longitudine": 25.710518,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 177,
+      "nume": "Izv. Várvápai",
+      "latitudine": 46.151362,
+      "longitudine": 25.872823,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 178,
+      "nume": "Izvoare",
+      "latitudine": 44.30776,
+      "longitudine": 22.66035,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 179,
+      "nume": "Izvoarele Minerale - nevalorificate",
+      "latitudine": 46.937243,
+      "longitudine": 26.375315,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 180,
+      "nume": "Izvor",
+      "latitudine": 44.510758,
+      "longitudine": 23.759005,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 181,
+      "nume": "Izvor",
+      "latitudine": 44.511809,
+      "longitudine": 23.758471,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 182,
+      "nume": "Izvor",
+      "latitudine": 44.611851,
+      "longitudine": 24.344322,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 183,
+      "nume": "Izvor",
+      "latitudine": 44.630141,
+      "longitudine": 24.37163,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 184,
+      "nume": "Izvor",
+      "latitudine": 44.632187,
+      "longitudine": 24.256585,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 185,
+      "nume": "Izvor",
+      "latitudine": 44.643515,
+      "longitudine": 24.14458,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 186,
+      "nume": "Izvor",
+      "latitudine": 44.644142,
+      "longitudine": 24.14383,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 187,
+      "nume": "Izvor",
+      "latitudine": 44.64475,
+      "longitudine": 24.382822,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 188,
+      "nume": "Izvor",
+      "latitudine": 44.644913,
+      "longitudine": 24.142661,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 189,
+      "nume": "Izvor",
+      "latitudine": 44.648782,
+      "longitudine": 24.329838,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 190,
+      "nume": "Izvor",
+      "latitudine": 44.656543,
+      "longitudine": 24.238164,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 191,
+      "nume": "Izvor",
+      "latitudine": 44.657168,
+      "longitudine": 24.230941,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 192,
+      "nume": "Izvor",
+      "latitudine": 44.66016,
+      "longitudine": 24.381337,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 193,
+      "nume": "Izvor",
+      "latitudine": 44.66476,
+      "longitudine": 24.317036,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 194,
+      "nume": "Izvor",
+      "latitudine": 44.670219,
+      "longitudine": 24.313542,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 195,
+      "nume": "Izvor",
+      "latitudine": 44.67931,
+      "longitudine": 24.315667,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 196,
+      "nume": "Izvor",
+      "latitudine": 44.682982,
+      "longitudine": 24.315018,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 197,
+      "nume": "Izvor",
+      "latitudine": 44.683754,
+      "longitudine": 24.254317,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 198,
+      "nume": "Izvor",
+      "latitudine": 44.860947,
+      "longitudine": 21.809898,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 199,
+      "nume": "Izvor",
+      "latitudine": 44.899309,
+      "longitudine": 21.770332,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 200,
+      "nume": "Izvor",
+      "latitudine": 44.948836,
+      "longitudine": 22.469279,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 201,
+      "nume": "Izvor",
+      "latitudine": 44.950096,
+      "longitudine": 22.470714,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 202,
+      "nume": "Izvor",
+      "latitudine": 44.98095,
+      "longitudine": 22.50206,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 203,
+      "nume": "Izvor",
+      "latitudine": 45.012646,
+      "longitudine": 22.546421,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 204,
+      "nume": "Izvor",
+      "latitudine": 45.031404,
+      "longitudine": 26.225484,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 205,
+      "nume": "Izvor",
+      "latitudine": 45.03203,
+      "longitudine": 25.287754,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 206,
+      "nume": "Izvor",
+      "latitudine": 45.032237,
+      "longitudine": 26.225668,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 207,
+      "nume": "Izvor",
+      "latitudine": 45.041249,
+      "longitudine": 22.441753,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 208,
+      "nume": "Izvor",
+      "latitudine": 45.126224,
+      "longitudine": 22.862081,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 209,
+      "nume": "Izvor",
+      "latitudine": 45.141891,
+      "longitudine": 22.875509,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 210,
+      "nume": "Izvor",
+      "latitudine": 45.162647,
+      "longitudine": 24.846617,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 211,
+      "nume": "Izvor",
+      "latitudine": 45.169195,
+      "longitudine": 22.046471,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 212,
+      "nume": "Izvor",
+      "latitudine": 45.176666,
+      "longitudine": 22.002571,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 213,
+      "nume": "Izvor",
+      "latitudine": 45.194186,
+      "longitudine": 23.762812,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 214,
+      "nume": "Izvor",
+      "latitudine": 45.207615,
+      "longitudine": 23.694046,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 215,
+      "nume": "Izvor",
+      "latitudine": 45.207903,
+      "longitudine": 24.105104,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 216,
+      "nume": "Izvor",
+      "latitudine": 45.235947,
+      "longitudine": 22.039926,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 217,
+      "nume": "IZVOR",
+      "latitudine": 45.257821,
+      "longitudine": 23.660094,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 218,
+      "nume": "Izvor",
+      "latitudine": 45.261592,
+      "longitudine": 22.045861,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 219,
+      "nume": "Izvor",
+      "latitudine": 45.267277,
+      "longitudine": 23.688513,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 220,
+      "nume": "Izvor",
+      "latitudine": 45.274976,
+      "longitudine": 25.041876,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 221,
+      "nume": "Izvor",
+      "latitudine": 45.292694,
+      "longitudine": 22.044028,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 222,
+      "nume": "Izvor",
+      "latitudine": 45.308195,
+      "longitudine": 25.735828,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 223,
+      "nume": "Izvor",
+      "latitudine": 45.310148,
+      "longitudine": 22.110681,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 224,
+      "nume": "Izvor",
+      "latitudine": 45.311941,
+      "longitudine": 22.11054,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 225,
+      "nume": "Izvor",
+      "latitudine": 45.31997,
+      "longitudine": 25.318412,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 226,
+      "nume": "Izvor",
+      "latitudine": 45.321026,
+      "longitudine": 25.514641,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 227,
+      "nume": "Izvor",
+      "latitudine": 45.332145,
+      "longitudine": 25.608884,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 228,
+      "nume": "Izvor",
+      "latitudine": 45.37678,
+      "longitudine": 25.62724,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 229,
+      "nume": "Izvor",
+      "latitudine": 45.38623,
+      "longitudine": 22.912973,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 230,
+      "nume": "Izvor",
+      "latitudine": 45.391432,
+      "longitudine": 23.149474,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 231,
+      "nume": "Izvor",
+      "latitudine": 45.396299,
+      "longitudine": 22.655229,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 232,
+      "nume": "Izvor",
+      "latitudine": 45.400332,
+      "longitudine": 25.443948,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 233,
+      "nume": "Izvor",
+      "latitudine": 45.41353,
+      "longitudine": 23.796397,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 234,
+      "nume": "izvor",
+      "latitudine": 45.415047,
+      "longitudine": 25.617764,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 235,
+      "nume": "izvor",
+      "latitudine": 45.415272,
+      "longitudine": 25.620821,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 236,
+      "nume": "Izvor",
+      "latitudine": 45.429672,
+      "longitudine": 25.504673,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 237,
+      "nume": "Izvor",
+      "latitudine": 45.437352,
+      "longitudine": 22.131285,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 238,
+      "nume": "Izvor",
+      "latitudine": 45.438486,
+      "longitudine": 25.552659,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 239,
+      "nume": "Izvor",
+      "latitudine": 45.440478,
+      "longitudine": 25.486349,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 240,
+      "nume": "Izvor",
+      "latitudine": 45.443213,
+      "longitudine": 25.555423,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 241,
+      "nume": "Izvor",
+      "latitudine": 45.446048,
+      "longitudine": 25.567225,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 242,
+      "nume": "Izvor",
+      "latitudine": 45.454971,
+      "longitudine": 22.187986,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 243,
+      "nume": "Izvor",
+      "latitudine": 45.472372,
+      "longitudine": 25.407285,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 244,
+      "nume": "Izvor",
+      "latitudine": 45.472696,
+      "longitudine": 22.905117,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 245,
+      "nume": "Izvor",
+      "latitudine": 45.473308,
+      "longitudine": 25.397379,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 246,
+      "nume": "Izvor",
+      "latitudine": 45.47432,
+      "longitudine": 22.902165,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 247,
+      "nume": "Izvor",
+      "latitudine": 45.483273,
+      "longitudine": 22.892774,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 248,
+      "nume": "Izvor",
+      "latitudine": 45.486467,
+      "longitudine": 22.830972,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 249,
+      "nume": "Izvor",
+      "latitudine": 45.487009,
+      "longitudine": 23.056712,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 250,
+      "nume": "Izvor",
+      "latitudine": 45.496789,
+      "longitudine": 24.50277,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 251,
+      "nume": "Izvor",
+      "latitudine": 45.50963,
+      "longitudine": 25.97276,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 252,
+      "nume": "Izvor",
+      "latitudine": 45.510576,
+      "longitudine": 25.98097,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 253,
+      "nume": "Izvor",
+      "latitudine": 45.529376,
+      "longitudine": 22.371179,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 254,
+      "nume": "Izvor",
+      "latitudine": 45.556944,
+      "longitudine": 25.678471,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 255,
+      "nume": "Izvor",
+      "latitudine": 45.563045,
+      "longitudine": 23.183862,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 256,
+      "nume": "Izvor",
+      "latitudine": 45.566991,
+      "longitudine": 23.202154,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 257,
+      "nume": "Izvor",
+      "latitudine": 45.570872,
+      "longitudine": 23.197553,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 258,
+      "nume": "Izvor",
+      "latitudine": 45.574321,
+      "longitudine": 23.204852,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 259,
+      "nume": "Izvor",
+      "latitudine": 45.575641,
+      "longitudine": 22.429978,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 260,
+      "nume": "Izvor",
+      "latitudine": 45.584019,
+      "longitudine": 23.186388,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 261,
+      "nume": "izvor",
+      "latitudine": 45.584463,
+      "longitudine": 26.156116,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 262,
+      "nume": "Izvor",
+      "latitudine": 45.586227,
+      "longitudine": 25.497565,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 263,
+      "nume": "Izvor",
+      "latitudine": 45.592273,
+      "longitudine": 24.90535,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 264,
+      "nume": "Izvor",
+      "latitudine": 45.595467,
+      "longitudine": 24.645577,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 265,
+      "nume": "izvor",
+      "latitudine": 45.596686,
+      "longitudine": 24.363325,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 266,
+      "nume": "Izvor",
+      "latitudine": 45.617414,
+      "longitudine": 25.558633,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 267,
+      "nume": "Izvor",
+      "latitudine": 45.633327,
+      "longitudine": 24.153735,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 268,
+      "nume": "Izvor",
+      "latitudine": 45.63693,
+      "longitudine": 24.79315,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 269,
+      "nume": "Izvor",
+      "latitudine": 45.65771,
+      "longitudine": 24.68926,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 270,
+      "nume": "Izvor",
+      "latitudine": 45.723209,
+      "longitudine": 26.305667,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 271,
+      "nume": "Izvor",
+      "latitudine": 45.732167,
+      "longitudine": 24.50416,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 272,
+      "nume": "Izvor",
+      "latitudine": 45.738311,
+      "longitudine": 25.424812,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 273,
+      "nume": "Izvor",
+      "latitudine": 45.753662,
+      "longitudine": 23.921501,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 274,
+      "nume": "Izvor",
+      "latitudine": 45.774879,
+      "longitudine": 22.918196,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 275,
+      "nume": "Izvor",
+      "latitudine": 45.813127,
+      "longitudine": 26.256646,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 276,
+      "nume": "Izvor",
+      "latitudine": 45.815433,
+      "longitudine": 26.256817,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 277,
+      "nume": "Izvor",
+      "latitudine": 45.820647,
+      "longitudine": 22.387119,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 278,
+      "nume": "Izvor",
+      "latitudine": 45.838862,
+      "longitudine": 22.606543,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 279,
+      "nume": "Izvor",
+      "latitudine": 45.858816,
+      "longitudine": 26.293652,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 280,
+      "nume": "Izvor",
+      "latitudine": 45.860464,
+      "longitudine": 26.291398,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 281,
+      "nume": "Izvor",
+      "latitudine": 45.867285,
+      "longitudine": 22.815857,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 282,
+      "nume": "Izvor",
+      "latitudine": 45.879681,
+      "longitudine": 22.818721,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 283,
+      "nume": "Izvor",
+      "latitudine": 45.882193,
+      "longitudine": 22.839885,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 284,
+      "nume": "Izvor",
+      "latitudine": 45.89564,
+      "longitudine": 22.816577,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 285,
+      "nume": "Izvor",
+      "latitudine": 46.018974,
+      "longitudine": 25.464962,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 286,
+      "nume": "Izvor",
+      "latitudine": 46.027625,
+      "longitudine": 22.847803,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 287,
+      "nume": "Izvor",
+      "latitudine": 46.058379,
+      "longitudine": 26.35348,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 288,
+      "nume": "Izvor",
+      "latitudine": 46.110317,
+      "longitudine": 26.343367,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 289,
+      "nume": "Izvor",
+      "latitudine": 46.121633,
+      "longitudine": 26.3411,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 290,
+      "nume": "Izvor",
+      "latitudine": 46.139698,
+      "longitudine": 26.348146,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 291,
+      "nume": "Izvor",
+      "latitudine": 46.140014,
+      "longitudine": 26.450064,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 292,
+      "nume": "Izvor",
+      "latitudine": 46.192238,
+      "longitudine": 26.336798,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 293,
+      "nume": "izvor",
+      "latitudine": 46.198846,
+      "longitudine": 26.423473,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 294,
+      "nume": "Izvor",
+      "latitudine": 46.228356,
+      "longitudine": 24.808564,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 295,
+      "nume": "izvor",
+      "latitudine": 46.261563,
+      "longitudine": 26.608317,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 296,
+      "nume": "izvor",
+      "latitudine": 46.275193,
+      "longitudine": 23.194796,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 297,
+      "nume": "Izvor",
+      "latitudine": 46.316156,
+      "longitudine": 22.939923,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 298,
+      "nume": "Izvor",
+      "latitudine": 46.522269,
+      "longitudine": 23.274324,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 299,
+      "nume": "Izvor",
+      "latitudine": 46.535012,
+      "longitudine": 23.307011,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 300,
+      "nume": "Izvor",
+      "latitudine": 46.608232,
+      "longitudine": 25.084207,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 301,
+      "nume": "Izvor",
+      "latitudine": 46.614785,
+      "longitudine": 26.66334,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 302,
+      "nume": "Izvor",
+      "latitudine": 46.664872,
+      "longitudine": 25.80066,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 303,
+      "nume": "Izvor",
+      "latitudine": 46.673343,
+      "longitudine": 25.18562,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 304,
+      "nume": "Izvor",
+      "latitudine": 46.673782,
+      "longitudine": 25.179673,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 305,
+      "nume": "Izvor",
+      "latitudine": 46.6997,
+      "longitudine": 25.3043,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 306,
+      "nume": "Izvor",
+      "latitudine": 46.731704,
+      "longitudine": 25.292532,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 307,
+      "nume": "izvor",
+      "latitudine": 46.744582,
+      "longitudine": 25.793653,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 308,
+      "nume": "Izvor",
+      "latitudine": 46.78561,
+      "longitudine": 25.3112,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 309,
+      "nume": "izvor",
+      "latitudine": 46.793067,
+      "longitudine": 25.791515,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 310,
+      "nume": "Izvor",
+      "latitudine": 46.827673,
+      "longitudine": 25.288841,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 311,
+      "nume": "Izvor",
+      "latitudine": 46.844774,
+      "longitudine": 25.19859,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 312,
+      "nume": "Izvor",
+      "latitudine": 46.859844,
+      "longitudine": 24.97531,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 313,
+      "nume": "Izvor",
+      "latitudine": 46.889548,
+      "longitudine": 24.985708,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 314,
+      "nume": "Izvor",
+      "latitudine": 46.913704,
+      "longitudine": 26.351713,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 315,
+      "nume": "Izvor",
+      "latitudine": 46.941456,
+      "longitudine": 26.342348,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 316,
+      "nume": "izvor",
+      "latitudine": 46.947286,
+      "longitudine": 25.970955,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 317,
+      "nume": "Izvor",
+      "latitudine": 46.954196,
+      "longitudine": 25.933692,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 318,
+      "nume": "Izvor",
+      "latitudine": 46.959369,
+      "longitudine": 26.353611,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 319,
+      "nume": "izvor",
+      "latitudine": 46.966344,
+      "longitudine": 25.945949,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 320,
+      "nume": "Izvor",
+      "latitudine": 46.970486,
+      "longitudine": 26.395647,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 321,
+      "nume": "Izvor",
+      "latitudine": 46.976044,
+      "longitudine": 26.399632,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 322,
+      "nume": "Izvor",
+      "latitudine": 46.982177,
+      "longitudine": 25.935704,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 323,
+      "nume": "Izvor",
+      "latitudine": 47.060257,
+      "longitudine": 26.268161,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 324,
+      "nume": "izvor",
+      "latitudine": 47.081493,
+      "longitudine": 27.640534,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 325,
+      "nume": "Izvor",
+      "latitudine": 47.124004,
+      "longitudine": 26.259876,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 326,
+      "nume": "Izvor",
+      "latitudine": 47.134506,
+      "longitudine": 25.177498,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 327,
+      "nume": "izvor",
+      "latitudine": 47.146405,
+      "longitudine": 26.203425,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 328,
+      "nume": "Izvor",
+      "latitudine": 47.146587,
+      "longitudine": 26.218262,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 329,
+      "nume": "izvor",
+      "latitudine": 47.165736,
+      "longitudine": 25.97394,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 330,
+      "nume": "izvor",
+      "latitudine": 47.172451,
+      "longitudine": 25.936958,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 331,
+      "nume": "izvor",
+      "latitudine": 47.177937,
+      "longitudine": 25.962762,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 332,
+      "nume": "izvor",
+      "latitudine": 47.181055,
+      "longitudine": 27.599712,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 333,
+      "nume": "Izvor",
+      "latitudine": 47.267516,
+      "longitudine": 27.753272,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 334,
+      "nume": "Izvor",
+      "latitudine": 47.42768,
+      "longitudine": 25.479253,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 335,
+      "nume": "Izvor",
+      "latitudine": 47.434734,
+      "longitudine": 25.490959,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 336,
+      "nume": "izvor",
+      "latitudine": 47.458974,
+      "longitudine": 25.533083,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 337,
+      "nume": "izvor",
+      "latitudine": 47.470507,
+      "longitudine": 26.846585,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 338,
+      "nume": "Izvor",
+      "latitudine": 47.497811,
+      "longitudine": 24.86435,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 339,
+      "nume": "Izvor",
+      "latitudine": 47.53862,
+      "longitudine": 24.951462,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 340,
+      "nume": "Izvor",
+      "latitudine": 47.542842,
+      "longitudine": 24.975129,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 341,
+      "nume": "Izvor",
+      "latitudine": 47.570043,
+      "longitudine": 24.598407,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 342,
+      "nume": "Izvor",
+      "latitudine": 47.575346,
+      "longitudine": 24.009524,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 343,
+      "nume": "izvor",
+      "latitudine": 47.631028,
+      "longitudine": 25.829352,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 344,
+      "nume": "Izvor",
+      "latitudine": 47.695851,
+      "longitudine": 25.829458,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 345,
+      "nume": "Izvor",
+      "latitudine": 47.741862,
+      "longitudine": 23.79891,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 346,
+      "nume": "Izvor",
+      "latitudine": 47.746862,
+      "longitudine": 25.736235,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 347,
+      "nume": "Izvor",
+      "latitudine": 47.860338,
+      "longitudine": 23.492748,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 348,
+      "nume": "Izvor",
+      "latitudine": 47.879499,
+      "longitudine": 24.370281,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 349,
+      "nume": "Izvor",
+      "latitudine": 47.888779,
+      "longitudine": 24.428949,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 350,
+      "nume": "Izvor",
+      "latitudine": 47.904683,
+      "longitudine": 24.349042,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 351,
+      "nume": "Izvor",
+      "latitudine": 47.905376,
+      "longitudine": 24.349231,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 352,
+      "nume": "Izvor",
+      "latitudine": 47.910551,
+      "longitudine": 24.351409,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 353,
+      "nume": "Izvor",
+      "latitudine": 47.94961,
+      "longitudine": 24.481185,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 354,
+      "nume": "Izvor \"La Carti\"",
+      "latitudine": 47.556848,
+      "longitudine": 24.668889,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 355,
+      "nume": "Izvor \"Poiana Scărișoara\"",
+      "latitudine": 45.211265,
+      "longitudine": 24.086025,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 356,
+      "nume": "Izvor / Water spring",
+      "latitudine": 44.78208,
+      "longitudine": 21.712738,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 357,
+      "nume": "Izvor / Water spring",
+      "latitudine": 44.813944,
+      "longitudine": 21.687928,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 358,
+      "nume": "Izvor / Water spring",
+      "latitudine": 44.919244,
+      "longitudine": 21.626325,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 359,
+      "nume": "Izvor 1",
+      "latitudine": 45.116161,
+      "longitudine": 21.849656,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 360,
+      "nume": "Izvor 1",
+      "latitudine": 45.466692,
+      "longitudine": 24.332693,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 361,
+      "nume": "Izvor 1",
+      "latitudine": 45.805964,
+      "longitudine": 23.624065,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 362,
+      "nume": "Izvor 1",
+      "latitudine": 46.304828,
+      "longitudine": 22.763869,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 363,
+      "nume": "Izvor 1",
+      "latitudine": 46.354842,
+      "longitudine": 22.849655,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 364,
+      "nume": "Izvor 1 Foraj 9",
+      "latitudine": 45.9366,
+      "longitudine": 23.162063,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 365,
+      "nume": "Izvor 2",
+      "latitudine": 45.161823,
+      "longitudine": 21.855526,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 366,
+      "nume": "Izvor 2",
+      "latitudine": 45.461457,
+      "longitudine": 24.333204,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 367,
+      "nume": "Izvor 2",
+      "latitudine": 46.348976,
+      "longitudine": 22.935325,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 368,
+      "nume": "Izvor 3 B",
+      "latitudine": 45.207206,
+      "longitudine": 24.233543,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 369,
+      "nume": "Izvor amenajat",
+      "latitudine": 45.492865,
+      "longitudine": 25.005411,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 370,
+      "nume": "Izvor amenajat",
+      "latitudine": 46.145418,
+      "longitudine": 23.283775,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 371,
+      "nume": "Izvor amenajat",
+      "latitudine": 46.156537,
+      "longitudine": 23.287595,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 372,
+      "nume": "Izvor amenajat",
+      "latitudine": 46.616956,
+      "longitudine": 23.275539,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 373,
+      "nume": "Izvor amenajat",
+      "latitudine": 46.641662,
+      "longitudine": 23.316929,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 374,
+      "nume": "Izvor amenajat",
+      "latitudine": 46.935697,
+      "longitudine": 22.299802,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 375,
+      "nume": "Izvor apa",
+      "latitudine": 45.343041,
+      "longitudine": 22.517354,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 376,
+      "nume": "Izvor Apa",
+      "latitudine": 47.232665,
+      "longitudine": 24.140126,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 377,
+      "nume": "Izvor apa",
+      "latitudine": 47.526976,
+      "longitudine": 25.394175,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 378,
+      "nume": "Izvor Apa Donca",
+      "latitudine": 47.021198,
+      "longitudine": 24.873894,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 379,
+      "nume": "Izvor apa feruginoasa",
+      "latitudine": 46.947016,
+      "longitudine": 26.273191,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 380,
+      "nume": "Izvor apa minerala",
+      "latitudine": 45.853277,
+      "longitudine": 25.682536,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 381,
+      "nume": "Izvor apa Perenna",
+      "latitudine": 45.23458,
+      "longitudine": 21.699361,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 382,
+      "nume": "Izvor apa potabila",
+      "latitudine": 45.644331,
+      "longitudine": 24.14114,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 383,
+      "nume": "Izvor apa potabilă",
+      "latitudine": 45.209137,
+      "longitudine": 24.234143,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 384,
+      "nume": "Izvor apă",
+      "latitudine": 47.238206,
+      "longitudine": 26.232304,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 385,
+      "nume": "Izvor apă feruginoasă",
+      "latitudine": 46.96224,
+      "longitudine": 26.283358,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 386,
+      "nume": "Izvor apă minerală",
+      "latitudine": 45.852207,
+      "longitudine": 25.682478,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 387,
+      "nume": "izvor apă minerală",
+      "latitudine": 46.091492,
+      "longitudine": 25.6495,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 388,
+      "nume": "izvor apă minerală",
+      "latitudine": 46.093321,
+      "longitudine": 25.656872,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 389,
+      "nume": "Izvor apă minerală",
+      "latitudine": 46.263285,
+      "longitudine": 26.431365,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 390,
+      "nume": "Izvor apă minerală",
+      "latitudine": 46.274048,
+      "longitudine": 26.594354,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 391,
+      "nume": "Izvor apă minerală",
+      "latitudine": 46.472003,
+      "longitudine": 26.489462,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 392,
+      "nume": "Izvor apă minerală",
+      "latitudine": 46.956727,
+      "longitudine": 27.939371,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 393,
+      "nume": "Izvor apă minerală",
+      "latitudine": 46.973651,
+      "longitudine": 25.562081,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 394,
+      "nume": "izvor apă minerală",
+      "latitudine": 47.449681,
+      "longitudine": 26.82664,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 395,
+      "nume": "izvor apă minerală",
+      "latitudine": 47.450012,
+      "longitudine": 26.825782,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 396,
+      "nume": "Izvor apă naturală Dealul Doi lei",
+      "latitudine": 46.968504,
+      "longitudine": 27.916136,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 397,
+      "nume": "Izvor apă sulfuroasă",
+      "latitudine": 45.457802,
+      "longitudine": 25.656482,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 398,
+      "nume": "izvor apă ușor sulfuroasă",
+      "latitudine": 45.084845,
+      "longitudine": 26.41286,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 399,
+      "nume": "Izvor Aranca",
+      "latitudine": 46.131832,
+      "longitudine": 21.087732,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 400,
+      "nume": "Izvor Bogâltin",
+      "latitudine": 45.039019,
+      "longitudine": 22.424265,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 401,
+      "nume": "Izvor Boriște",
+      "latitudine": 47.739289,
+      "longitudine": 23.686841,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 402,
+      "nume": "Izvor Băncuța Coștila",
+      "latitudine": 45.430072,
+      "longitudine": 25.504821,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 403,
+      "nume": "Izvor casa",
+      "latitudine": 46.351128,
+      "longitudine": 22.929762,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 404,
+      "nume": "Izvor Cazaci",
+      "latitudine": 46.849619,
+      "longitudine": 26.143664,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 405,
+      "nume": "Izvor Cracul Tei 1",
+      "latitudine": 44.981377,
+      "longitudine": 22.494964,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 406,
+      "nume": "Izvor Cracul Tei 3",
+      "latitudine": 45.017638,
+      "longitudine": 22.413584,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 407,
+      "nume": "Izvor Creasta Cocoșului",
+      "latitudine": 47.702827,
+      "longitudine": 23.840466,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 408,
+      "nume": "Izvor cu apă minerală",
+      "latitudine": 47.175344,
+      "longitudine": 22.393449,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 409,
+      "nume": "Izvor cu apă potabilă",
+      "latitudine": 45.117134,
+      "longitudine": 24.313952,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 410,
+      "nume": "Izvor Cuntu",
+      "latitudine": 45.300018,
+      "longitudine": 22.500641,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 411,
+      "nume": "Izvor de apa Ciorgău",
+      "latitudine": 47.542599,
+      "longitudine": 23.046184,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 412,
+      "nume": "Izvor de apa minerala Chimindia",
+      "latitudine": 45.891768,
+      "longitudine": 22.991179,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 413,
+      "nume": "Izvor de apă minerală",
+      "latitudine": 45.87298,
+      "longitudine": 22.784911,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 414,
+      "nume": "izvor de suprafață",
+      "latitudine": 45.738733,
+      "longitudine": 25.796112,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 415,
+      "nume": "Izvor Dobraia",
+      "latitudine": 45.003849,
+      "longitudine": 22.483506,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 416,
+      "nume": "Izvor Dălbidan (borcut)",
+      "latitudine": 47.181798,
+      "longitudine": 25.027435,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 417,
+      "nume": "Izvor Gostei",
+      "latitudine": 45.672221,
+      "longitudine": 22.307192,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 418,
+      "nume": "Izvor Hanko",
+      "latitudine": 45.853057,
+      "longitudine": 26.210812,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 419,
+      "nume": "Izvor Iarba Moale",
+      "latitudine": 45.117208,
+      "longitudine": 22.398574,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 420,
+      "nume": "Izvor in arsuri",
+      "latitudine": 45.515306,
+      "longitudine": 24.402646,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 421,
+      "nume": "Izvor in padure",
+      "latitudine": 46.89576,
+      "longitudine": 22.238497,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 422,
+      "nume": "Izvor Ineleț",
+      "latitudine": 45.001973,
+      "longitudine": 22.530929,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 423,
+      "nume": "Izvor Julis",
+      "latitudine": 46.192113,
+      "longitudine": 25.895058,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 424,
+      "nume": "Izvor La Măsuriș",
+      "latitudine": 47.007404,
+      "longitudine": 22.893463,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 425,
+      "nume": "Izvor La Stiubei",
+      "latitudine": 46.460375,
+      "longitudine": 23.422606,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 426,
+      "nume": "Izvor Mecet",
+      "latitudine": 45.434221,
+      "longitudine": 25.450357,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 427,
+      "nume": "Izvor mineral",
+      "latitudine": 46.155147,
+      "longitudine": 25.875044,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 428,
+      "nume": "izvor Morar",
+      "latitudine": 45.450984,
+      "longitudine": 25.495573,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 429,
+      "nume": "Izvor Nicu",
+      "latitudine": 44.517996,
+      "longitudine": 23.759597,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 430,
+      "nume": "Izvor nr. 24",
+      "latitudine": 45.209317,
+      "longitudine": 24.229009,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 431,
+      "nume": "Izvor nr. 5",
+      "latitudine": 45.207459,
+      "longitudine": 24.233817,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 432,
+      "nume": "Izvor nr.3",
+      "latitudine": 45.208104,
+      "longitudine": 24.23432,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 433,
+      "nume": "Izvor Pahomie",
+      "latitudine": 45.240073,
+      "longitudine": 24.12079,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 434,
+      "nume": "Izvor pe Culmea Brătilei",
+      "latitudine": 45.4964,
+      "longitudine": 24.93485,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 435,
+      "nume": "Izvor pe Culmea Moasei",
+      "latitudine": 45.603389,
+      "longitudine": 24.414119,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 436,
+      "nume": "Izvor pe Culmea Moasei",
+      "latitudine": 45.63421,
+      "longitudine": 24.37744,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 437,
+      "nume": "Izvor pe Muchia Oticu",
+      "latitudine": 45.44662,
+      "longitudine": 24.91232,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 438,
+      "nume": "Izvor Poiana Inchisa",
+      "latitudine": 45.513497,
+      "longitudine": 25.199516,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 439,
+      "nume": "Izvor Poiana Lunga 1",
+      "latitudine": 45.003853,
+      "longitudine": 22.431711,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 440,
+      "nume": "Izvor Poiana Lunga 2",
+      "latitudine": 45.007239,
+      "longitudine": 22.428168,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 441,
+      "nume": "Izvor Poiana Lunga 3",
+      "latitudine": 45.008603,
+      "longitudine": 22.422368,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 442,
+      "nume": "Izvor Poiana Lunga 4",
+      "latitudine": 45.01413,
+      "longitudine": 22.416884,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 443,
+      "nume": "Izvor Poiana Stanii",
+      "latitudine": 45.366647,
+      "longitudine": 25.523365,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 444,
+      "nume": "Izvor Poiana Stânii",
+      "latitudine": 46.188627,
+      "longitudine": 26.349135,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 445,
+      "nume": "Izvor pompa",
+      "latitudine": 46.3456,
+      "longitudine": 22.910271,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 446,
+      "nume": "Izvor Rozsas",
+      "latitudine": 46.787048,
+      "longitudine": 24.590646,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 447,
+      "nume": "Izvor sarat",
+      "latitudine": 45.85405,
+      "longitudine": 26.204899,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 448,
+      "nume": "Izvor Sf. Iosif",
+      "latitudine": 47.130464,
+      "longitudine": 26.233094,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 449,
+      "nume": "Izvor Spitra (Slanicel)",
+      "latitudine": 46.198143,
+      "longitudine": 26.343697,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 450,
+      "nume": "Izvor stana",
+      "latitudine": 46.327094,
+      "longitudine": 22.845964,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 451,
+      "nume": "Izvor sub Vf Lerescu",
+      "latitudine": 45.584515,
+      "longitudine": 25.052636,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 452,
+      "nume": "Izvor sursa lac",
+      "latitudine": 45.598575,
+      "longitudine": 24.681484,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 453,
+      "nume": "Izvor Ungureasca",
+      "latitudine": 46.195724,
+      "longitudine": 26.331307,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 454,
+      "nume": "Izvor Valea Albă",
+      "latitudine": 45.427856,
+      "longitudine": 25.506474,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 455,
+      "nume": "Izvor Valea Bedina",
+      "latitudine": 45.00082,
+      "longitudine": 22.475954,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 456,
+      "nume": "Izvor Valea Pietroasa",
+      "latitudine": 47.68462,
+      "longitudine": 23.552052,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 457,
+      "nume": "Izvor Valea Prisacina",
+      "latitudine": 45.012658,
+      "longitudine": 22.504068,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 458,
+      "nume": "Izvor Vogna",
+      "latitudine": 44.522684,
+      "longitudine": 23.762636,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 459,
+      "nume": "Izvor în drumul spre mânăstire",
+      "latitudine": 47.34436,
+      "longitudine": 25.405283,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 460,
+      "nume": "Izvor Șipotul de Piatră",
+      "latitudine": 46.118163,
+      "longitudine": 26.422784,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 461,
+      "nume": "Izvoru Apa Rece",
+      "latitudine": 46.441299,
+      "longitudine": 23.118527,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 462,
+      "nume": "Izvoru Rachitis",
+      "latitudine": 46.746242,
+      "longitudine": 22.738354,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 463,
+      "nume": "Izvoru'lui Grasu",
+      "latitudine": 46.803648,
+      "longitudine": 26.373073,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 464,
+      "nume": "Izvorul \"A la Tavi\"",
+      "latitudine": 47.813352,
+      "longitudine": 23.618042,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 465,
+      "nume": "Izvorul \"Crucea Verde\"",
+      "latitudine": 45.395852,
+      "longitudine": 22.209799,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 466,
+      "nume": "Izvorul 1",
+      "latitudine": 46.203206,
+      "longitudine": 26.431287,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 467,
+      "nume": "Izvorul 10",
+      "latitudine": 46.203389,
+      "longitudine": 26.430586,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 468,
+      "nume": "Izvorul 14",
+      "latitudine": 46.202591,
+      "longitudine": 26.4291,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 469,
+      "nume": "Izvorul 15",
+      "latitudine": 46.201933,
+      "longitudine": 26.428327,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 470,
+      "nume": "Izvorul 1bis",
+      "latitudine": 46.203385,
+      "longitudine": 26.430485,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 471,
+      "nume": "Izvorul 3",
+      "latitudine": 46.203379,
+      "longitudine": 26.430375,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 472,
+      "nume": "Izvorul 300 Scări",
+      "latitudine": 46.203318,
+      "longitudine": 26.432816,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 473,
+      "nume": "Izvorul 5",
+      "latitudine": 46.202603,
+      "longitudine": 26.429362,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 474,
+      "nume": "Izvorul 6",
+      "latitudine": 46.203354,
+      "longitudine": 26.431449,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 475,
+      "nume": "Izvorul 8",
+      "latitudine": 46.203147,
+      "longitudine": 26.431339,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 476,
+      "nume": "Izvorul albastru al Izei",
+      "latitudine": 47.593161,
+      "longitudine": 24.53736,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 477,
+      "nume": "Izvorul apa caldă",
+      "latitudine": 46.548589,
+      "longitudine": 22.900022,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 478,
+      "nume": "Izvorul Ascuns",
+      "latitudine": 46.72795,
+      "longitudine": 23.559408,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 479,
+      "nume": "Izvorul Bejan",
+      "latitudine": 45.85379,
+      "longitudine": 22.90018,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 480,
+      "nume": "Izvorul Belioarei",
+      "latitudine": 46.484644,
+      "longitudine": 23.369439,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 481,
+      "nume": "Izvorul Benkő",
+      "latitudine": 45.907718,
+      "longitudine": 25.693433,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 482,
+      "nume": "Izvorul Bilașcu",
+      "latitudine": 46.704638,
+      "longitudine": 23.569885,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 483,
+      "nume": "Izvorul Binder",
+      "latitudine": 46.723333,
+      "longitudine": 23.533317,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 484,
+      "nume": "Izvorul Boghiu",
+      "latitudine": 45.213653,
+      "longitudine": 28.247458,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 485,
+      "nume": "Izvorul Boldizsár - Izvorul nr.3",
+      "latitudine": 46.974003,
+      "longitudine": 25.562925,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 486,
+      "nume": "Izvorul Bongar",
+      "latitudine": 46.768107,
+      "longitudine": 23.484671,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 487,
+      "nume": "Izvorul Bonovanul cu Apa",
+      "latitudine": 45.233643,
+      "longitudine": 24.081667,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 488,
+      "nume": "Izvorul Brădet",
+      "latitudine": 46.519954,
+      "longitudine": 22.888707,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 489,
+      "nume": "Izvorul Bucin",
+      "latitudine": 46.75513,
+      "longitudine": 25.06125,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 490,
+      "nume": "Izvorul Bufniță",
+      "latitudine": 45.982827,
+      "longitudine": 25.850385,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 491,
+      "nume": "Izvorul Buna Vestire",
+      "latitudine": 45.755784,
+      "longitudine": 25.166907,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 492,
+      "nume": "Izvorul Băbana",
+      "latitudine": 44.868237,
+      "longitudine": 24.707217,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 493,
+      "nume": "Izvorul Cantonolui",
+      "latitudine": 46.111725,
+      "longitudine": 25.917395,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 494,
+      "nume": "Izvorul Caprioara",
+      "latitudine": 45.887877,
+      "longitudine": 22.860647,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 495,
+      "nume": "Izvorul Carașului",
+      "latitudine": 45.082866,
+      "longitudine": 21.920334,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 496,
+      "nume": "Izvorul care împietrește",
+      "latitudine": 45.567222,
+      "longitudine": 23.162719,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 497,
+      "nume": "Izvorul Cartalu",
+      "latitudine": 45.186596,
+      "longitudine": 28.273521,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 498,
+      "nume": "Izvorul Celic",
+      "latitudine": 45.124405,
+      "longitudine": 28.564279,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 499,
+      "nume": "Izvorul Cetății",
+      "latitudine": 47.918295,
+      "longitudine": 23.875829,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 500,
+      "nume": "Izvorul Cheile Dobrogei",
+      "latitudine": 44.507691,
+      "longitudine": 28.430796,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 501,
+      "nume": "Izvorul Chiciuc",
+      "latitudine": 45.06183,
+      "longitudine": 28.364518,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 502,
+      "nume": "Izvorul Ciuciuru Vrăjii",
+      "latitudine": 44.900449,
+      "longitudine": 28.414548,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 503,
+      "nume": "Izvorul Clocotici",
+      "latitudine": 43.97164,
+      "longitudine": 25.896106,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 504,
+      "nume": "Izvorul Constructorilor",
+      "latitudine": 45.21572,
+      "longitudine": 24.048715,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 505,
+      "nume": "Izvorul Conteselor",
+      "latitudine": 44.882343,
+      "longitudine": 22.416917,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 506,
+      "nume": "Izvorul Coronini",
+      "latitudine": 44.888793,
+      "longitudine": 22.412894,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 507,
+      "nume": "Izvorul Cotmenița",
+      "latitudine": 44.896283,
+      "longitudine": 24.710581,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 508,
+      "nume": "Izvorul Cozluk",
+      "latitudine": 45.159869,
+      "longitudine": 28.306512,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 509,
+      "nume": "Izvorul Crișului Repede",
+      "latitudine": 46.828785,
+      "longitudine": 23.150623,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 510,
+      "nume": "Izvorul Cucu",
+      "latitudine": 45.73617,
+      "longitudine": 25.779416,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 511,
+      "nume": "Izvorul Cumpăna",
+      "latitudine": 46.5382,
+      "longitudine": 22.988,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 512,
+      "nume": "Izvorul Cârmâzâu",
+      "latitudine": 45.180369,
+      "longitudine": 28.522534,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 513,
+      "nume": "Izvorul Cérna",
+      "latitudine": 46.721446,
+      "longitudine": 23.54153,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 514,
+      "nume": "Izvorul Călugărului",
+      "latitudine": 45.396712,
+      "longitudine": 22.179051,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 515,
+      "nume": "Izvorul Căpitanului Orlovski",
+      "latitudine": 45.547711,
+      "longitudine": 25.215739,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 516,
+      "nume": "Izvorul Căprior",
+      "latitudine": 45.236192,
+      "longitudine": 28.193456,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 517,
+      "nume": "Izvorul Dagonyás",
+      "latitudine": 46.712991,
+      "longitudine": 23.535722,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 518,
+      "nume": "Izvorul DC 32 Ciocotiș - Bloaja",
+      "latitudine": 47.586959,
+      "longitudine": 23.846657,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 519,
+      "nume": "Izvorul de Aburi",
+      "latitudine": 43.972345,
+      "longitudine": 28.262433,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 520,
+      "nume": "Izvorul de apa sulfuroasa Brusturosu",
+      "latitudine": 47.48821,
+      "longitudine": 25.863778,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 521,
+      "nume": "Izvorul de apă minerală Călămari",
+      "latitudine": 45.883706,
+      "longitudine": 22.807459,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 522,
+      "nume": "izvorul de sub stana",
+      "latitudine": 45.593095,
+      "longitudine": 26.399155,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 523,
+      "nume": "Izvorul de vara",
+      "latitudine": 45.824878,
+      "longitudine": 26.378378,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 524,
+      "nume": "Izvorul Dervent",
+      "latitudine": 45.208384,
+      "longitudine": 28.258162,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 525,
+      "nume": "Izvorul Diana III",
+      "latitudine": 44.889669,
+      "longitudine": 22.423422,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 526,
+      "nume": "Izvorul din Plai",
+      "latitudine": 45.49366,
+      "longitudine": 25.0039,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 527,
+      "nume": "Izvorul din Teiuș",
+      "latitudine": 45.405397,
+      "longitudine": 22.200655,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 528,
+      "nume": "Izvorul Domogled",
+      "latitudine": 44.886791,
+      "longitudine": 22.424901,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 529,
+      "nume": "Izvorul Duduita",
+      "latitudine": 43.971988,
+      "longitudine": 25.894233,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 530,
+      "nume": "Izvorul Dâmbovicioarei",
+      "latitudine": 45.5163,
+      "longitudine": 25.225814,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 531,
+      "nume": "Izvorul Elisabeta",
+      "latitudine": 46.737416,
+      "longitudine": 23.54883,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 532,
+      "nume": "Izvorul Erzsébet - Izvorul nr.2",
+      "latitudine": 46.975502,
+      "longitudine": 25.566361,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 533,
+      "nume": "Izvorul Fedeleskút",
+      "latitudine": 46.454754,
+      "longitudine": 25.563189,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 534,
+      "nume": "Izvorul Filipești",
+      "latitudine": 47.067956,
+      "longitudine": 25.482096,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 535,
+      "nume": "Izvorul Gyűrű",
+      "latitudine": 46.727606,
+      "longitudine": 23.553672,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 536,
+      "nume": "Izvorul Găbrienii",
+      "latitudine": 46.540272,
+      "longitudine": 23.278574,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 537,
+      "nume": "Izvorul Haiducului",
+      "latitudine": 46.653223,
+      "longitudine": 22.695853,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 538,
+      "nume": "Izvorul Honterus",
+      "latitudine": 45.625981,
+      "longitudine": 25.610734,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 539,
+      "nume": "Izvorul Hóvirág",
+      "latitudine": 46.728457,
+      "longitudine": 23.550821,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 540,
+      "nume": "Izvorul Italienilor",
+      "latitudine": 45.208872,
+      "longitudine": 28.261889,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 541,
+      "nume": "Izvorul Jelerău",
+      "latitudine": 44.883857,
+      "longitudine": 22.440752,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 542,
+      "nume": "Izvorul Jijila",
+      "latitudine": 45.251224,
+      "longitudine": 28.2271,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 543,
+      "nume": "Izvorul Kolping",
+      "latitudine": 46.779355,
+      "longitudine": 23.515475,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 544,
+      "nume": "Izvorul Kossuth - Izvorul nr.10",
+      "latitudine": 46.971848,
+      "longitudine": 25.56607,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 545,
+      "nume": "Izvorul L.I.D.",
+      "latitudine": 45.617548,
+      "longitudine": 25.556092,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 546,
+      "nume": "Izvorul La Bolboroși",
+      "latitudine": 45.295842,
+      "longitudine": 22.866428,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 547,
+      "nume": "Izvorul La Căruța",
+      "latitudine": 47.050231,
+      "longitudine": 25.135294,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 548,
+      "nume": "Izvorul lui Burebista",
+      "latitudine": 45.125177,
+      "longitudine": 26.035944,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 549,
+      "nume": "Izvorul lui Eminescu",
+      "latitudine": 44.43929,
+      "longitudine": 26.089327,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 550,
+      "nume": "Izvorul lui Feliuț",
+      "latitudine": 46.325474,
+      "longitudine": 23.532352,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 551,
+      "nume": "Izvorul lui Fănică",
+      "latitudine": 46.882703,
+      "longitudine": 26.266519,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 552,
+      "nume": "Izvorul lui Ion",
+      "latitudine": 45.629705,
+      "longitudine": 25.594651,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 553,
+      "nume": "Izvorul lui Jorj",
+      "latitudine": 46.94491,
+      "longitudine": 26.33669,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 554,
+      "nume": "Izvorul lui Nănăuț",
+      "latitudine": 45.461537,
+      "longitudine": 25.059562,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 555,
+      "nume": "Izvorul lui Petre",
+      "latitudine": 47.174477,
+      "longitudine": 23.15915,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 556,
+      "nume": "Izvorul lui Sabin",
+      "latitudine": 46.346492,
+      "longitudine": 23.47466,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 557,
+      "nume": "Izvorul lui Tică Chirca",
+      "latitudine": 44.957293,
+      "longitudine": 24.930878,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 558,
+      "nume": "Izvorul lui Veronel",
+      "latitudine": 45.250735,
+      "longitudine": 28.191917,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 559,
+      "nume": "Izvorul Lungu",
+      "latitudine": 47.057829,
+      "longitudine": 25.45567,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 560,
+      "nume": "Izvorul László - Izvorul nr.5",
+      "latitudine": 46.973816,
+      "longitudine": 25.562629,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 561,
+      "nume": "Izvorul Lázár - Izvorul nr.6",
+      "latitudine": 46.973411,
+      "longitudine": 25.562663,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 562,
+      "nume": "Izvorul Lépcsős",
+      "latitudine": 46.689825,
+      "longitudine": 23.524904,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 563,
+      "nume": "Izvorul Mackó",
+      "latitudine": 46.72165,
+      "longitudine": 23.539221,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 564,
+      "nume": "Izvorul Maior",
+      "latitudine": 46.693749,
+      "longitudine": 23.525774,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 565,
+      "nume": "Izvorul Malajesti",
+      "latitudine": 45.482831,
+      "longitudine": 25.474049,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 566,
+      "nume": "Izvorul Malnașul Mare",
+      "latitudine": 46.000736,
+      "longitudine": 25.902785,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 567,
+      "nume": "Izvorul Mare",
+      "latitudine": 44.961179,
+      "longitudine": 28.358202,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 568,
+      "nume": "Izvorul Maria",
+      "latitudine": 44.616423,
+      "longitudine": 22.251854,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 569,
+      "nume": "Izvorul Mineral Banpotoc",
+      "latitudine": 45.902556,
+      "longitudine": 23.00461,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 570,
+      "nume": "Izvorul Mineral Boholt",
+      "latitudine": 45.949577,
+      "longitudine": 22.924476,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 571,
+      "nume": "Izvorul Minerului",
+      "latitudine": 45.333579,
+      "longitudine": 23.122343,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 572,
+      "nume": "Izvorul Minunilor",
+      "latitudine": 46.693152,
+      "longitudine": 22.628691,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 573,
+      "nume": "Izvorul Mociar",
+      "latitudine": 46.012225,
+      "longitudine": 25.898421,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 574,
+      "nume": "Izvorul Moslov",
+      "latitudine": 45.189937,
+      "longitudine": 28.248303,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 575,
+      "nume": "Izvorul Movilița",
+      "latitudine": 44.047058,
+      "longitudine": 28.500977,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 576,
+      "nume": "Izvorul Moș Matei",
+      "latitudine": 45.19142,
+      "longitudine": 28.27011,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 577,
+      "nume": "Izvorul Munk",
+      "latitudine": 44.892725,
+      "longitudine": 22.419123,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 578,
+      "nume": "Izvorul Mureșului",
+      "latitudine": 46.663881,
+      "longitudine": 25.705302,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 579,
+      "nume": "Izvorul Murgașului",
+      "latitudine": 46.71324,
+      "longitudine": 22.596212,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 580,
+      "nume": "Izvorul Neptun II",
+      "latitudine": 44.886091,
+      "longitudine": 22.419509,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 581,
+      "nume": "Izvorul Neptun III",
+      "latitudine": 44.886227,
+      "longitudine": 22.419438,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 582,
+      "nume": "Izvorul Oltului",
+      "latitudine": 46.721097,
+      "longitudine": 25.709596,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 583,
+      "nume": "Izvorul Otul",
+      "latitudine": 45.167119,
+      "longitudine": 28.301644,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 584,
+      "nume": "Izvorul Otărăului",
+      "latitudine": 45.231356,
+      "longitudine": 24.085871,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 585,
+      "nume": "Izvorul Oțețelei",
+      "latitudine": 45.5233,
+      "longitudine": 25.184764,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 586,
+      "nume": "Izvorul P. Babei",
+      "latitudine": 45.62221,
+      "longitudine": 23.889112,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 587,
+      "nume": "Izvorul Parc (apă potabilă)",
+      "latitudine": 47.340574,
+      "longitudine": 25.355572,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 588,
+      "nume": "Izvorul pe traseul CBPietrele-VFRetezat (SAactivat)",
+      "latitudine": 45.39861,
+      "longitudine": 22.8656,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 589,
+      "nume": "Izvorul Petőfi - Izvorul nr.11",
+      "latitudine": 46.971094,
+      "longitudine": 25.567193,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 590,
+      "nume": "Izvorul Pierre Curie",
+      "latitudine": 46.964718,
+      "longitudine": 25.577632,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 591,
+      "nume": "Izvorul Poieniţa",
+      "latitudine": 45.287426,
+      "longitudine": 25.053772,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 592,
+      "nume": "Izvorul Popii",
+      "latitudine": 45.823824,
+      "longitudine": 26.341581,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 593,
+      "nume": "Izvorul Principal - Izvorul nr.1",
+      "latitudine": 46.975476,
+      "longitudine": 25.566301,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 594,
+      "nume": "Izvorul Purului",
+      "latitudine": 45.387082,
+      "longitudine": 23.708295,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 595,
+      "nume": "Izvorul Pârloage",
+      "latitudine": 46.852899,
+      "longitudine": 22.956792,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 596,
+      "nume": "Izvorul Pământul Roșu",
+      "latitudine": 45.032821,
+      "longitudine": 22.365379,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 597,
+      "nume": "Izvorul Raita",
+      "latitudine": 47.068214,
+      "longitudine": 25.482316,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 598,
+      "nume": "Izvorul Rajka",
+      "latitudine": 46.707025,
+      "longitudine": 23.58004,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 599,
+      "nume": "Izvorul Rece",
+      "latitudine": 45.744464,
+      "longitudine": 25.69324,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 600,
+      "nume": "Izvorul Rece",
+      "latitudine": 46.535062,
+      "longitudine": 24.567289,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 601,
+      "nume": "Izvorul Rece",
+      "latitudine": 46.566083,
+      "longitudine": 22.725421,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 602,
+      "nume": "Izvorul Rece",
+      "latitudine": 46.64316,
+      "longitudine": 22.66652,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 603,
+      "nume": "Izvorul Rece",
+      "latitudine": 46.643507,
+      "longitudine": 22.668164,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 604,
+      "nume": "Izvorul Rece",
+      "latitudine": 46.688368,
+      "longitudine": 23.534251,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 605,
+      "nume": "Izvorul Rece",
+      "latitudine": 46.908613,
+      "longitudine": 22.614285,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 606,
+      "nume": "Izvorul Recea",
+      "latitudine": 46.691828,
+      "longitudine": 23.525373,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 607,
+      "nume": "Izvorul Rimetea",
+      "latitudine": 46.448993,
+      "longitudine": 23.543242,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 608,
+      "nume": "Izvorul Rudarului",
+      "latitudine": 45.442723,
+      "longitudine": 24.032947,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 609,
+      "nume": "Izvorul Ruginii mineral (fixme)",
+      "latitudine": 45.51738,
+      "longitudine": 26.592018,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 610,
+      "nume": "Izvorul Salamandrelor",
+      "latitudine": 47.174829,
+      "longitudine": 23.109732,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 611,
+      "nume": "Izvorul Seaca",
+      "latitudine": 45.216778,
+      "longitudine": 28.29144,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 612,
+      "nume": "Izvorul Sentinela",
+      "latitudine": 47.344073,
+      "longitudine": 25.355275,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 613,
+      "nume": "Izvorul Sf. Ioan",
+      "latitudine": 46.727489,
+      "longitudine": 23.554336,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 614,
+      "nume": "Izvorul Sf. Petru si Pavel",
+      "latitudine": 47.248622,
+      "longitudine": 25.388712,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 615,
+      "nume": "Izvorul Sf. Spiridon",
+      "latitudine": 46.203628,
+      "longitudine": 26.432469,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 616,
+      "nume": "Izvorul Sfânta Ana",
+      "latitudine": 46.833921,
+      "longitudine": 25.557011,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 617,
+      "nume": "Izvorul Sfânta Maria",
+      "latitudine": 45.187835,
+      "longitudine": 21.854412,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 618,
+      "nume": "Izvorul Sfântul Apostol Andrei",
+      "latitudine": 45.258505,
+      "longitudine": 28.19038,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 619,
+      "nume": "Izvorul Sonda 2",
+      "latitudine": 46.200332,
+      "longitudine": 26.425687,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 620,
+      "nume": "Izvorul Stanciului",
+      "latitudine": 46.70573,
+      "longitudine": 22.84383,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 621,
+      "nume": "Izvorul stânii",
+      "latitudine": 45.48713,
+      "longitudine": 26.493089,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 622,
+      "nume": "Izvorul Sub Piatră",
+      "latitudine": 46.686999,
+      "longitudine": 23.529203,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 623,
+      "nume": "Izvorul Szejke forrás",
+      "latitudine": 46.099921,
+      "longitudine": 25.976615,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 624,
+      "nume": "Izvorul Sălicea",
+      "latitudine": 46.689033,
+      "longitudine": 23.547817,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 625,
+      "nume": "Izvorul Sărat",
+      "latitudine": 46.598414,
+      "longitudine": 25.073343,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 626,
+      "nume": "Izvorul Sărăcin",
+      "latitudine": 46.952279,
+      "longitudine": 25.071061,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 627,
+      "nume": "Izvorul Tamaduirii",
+      "latitudine": 45.033822,
+      "longitudine": 24.932521,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 628,
+      "nume": "Izvorul Tiganu",
+      "latitudine": 47.798702,
+      "longitudine": 23.536491,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 629,
+      "nume": "Izvorul Tilbucut",
+      "latitudine": 46.735919,
+      "longitudine": 23.618156,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 630,
+      "nume": "Izvorul Traian",
+      "latitudine": 46.692888,
+      "longitudine": 23.566107,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 631,
+      "nume": "Izvorul Trestia",
+      "latitudine": 47.81503,
+      "longitudine": 23.537888,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 632,
+      "nume": "Izvorul Trovanților",
+      "latitudine": 46.721735,
+      "longitudine": 23.560318,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 633,
+      "nume": "Izvorul Truța",
+      "latitudine": 47.067315,
+      "longitudine": 25.479241,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 634,
+      "nume": "Izvorul Turcești",
+      "latitudine": 44.838111,
+      "longitudine": 24.872218,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 635,
+      "nume": "Izvorul Tămăduirii",
+      "latitudine": 44.502237,
+      "longitudine": 28.209408,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 636,
+      "nume": "Izvorul Tămăduirii",
+      "latitudine": 44.898665,
+      "longitudine": 26.068244,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 637,
+      "nume": "Izvorul Tămăduirii",
+      "latitudine": 44.988309,
+      "longitudine": 28.578375,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 638,
+      "nume": "Izvorul Tămăduirii",
+      "latitudine": 46.227343,
+      "longitudine": 21.679155,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 639,
+      "nume": "Izvorul Uluci",
+      "latitudine": 45.171907,
+      "longitudine": 28.555377,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 640,
+      "nume": "Izvorul Urloaia",
+      "latitudine": 45.150319,
+      "longitudine": 28.328566,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 641,
+      "nume": "Izvorul Ursului",
+      "latitudine": 46.536666,
+      "longitudine": 22.889858,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 642,
+      "nume": "Izvorul Varlan",
+      "latitudine": 44.921718,
+      "longitudine": 28.511778,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 643,
+      "nume": "Izvorul Vieții",
+      "latitudine": 44.488673,
+      "longitudine": 28.460239,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 644,
+      "nume": "Izvorul Vieții",
+      "latitudine": 46.54878,
+      "longitudine": 22.97376,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 645,
+      "nume": "Izvorul Viu",
+      "latitudine": 45.535786,
+      "longitudine": 25.280661,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 646,
+      "nume": "Izvorul Văii Gârbăului",
+      "latitudine": 46.710126,
+      "longitudine": 23.529126,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 647,
+      "nume": "Izvorul Zoltan",
+      "latitudine": 45.989978,
+      "longitudine": 25.907548,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 648,
+      "nume": "Izvorul Ștefan",
+      "latitudine": 46.720009,
+      "longitudine": 23.56262,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 649,
+      "nume": "Izvorul Țânțar",
+      "latitudine": 45.19883,
+      "longitudine": 28.26195,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 650,
+      "nume": "Izvorul „Pizda Babei”",
+      "latitudine": 47.320334,
+      "longitudine": 23.74707,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 651,
+      "nume": "Izvorul-Nádas-Csorgó",
+      "latitudine": 46.59438,
+      "longitudine": 25.076057,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 652,
+      "nume": "Jézus-kútja",
+      "latitudine": 46.533788,
+      "longitudine": 25.375975,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 653,
+      "nume": "Kakukk-hegyi vadászház melletti forrás",
+      "latitudine": 46.213698,
+      "longitudine": 25.748861,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 654,
+      "nume": "Karikás-kút",
+      "latitudine": 45.905273,
+      "longitudine": 25.67785,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 655,
+      "nume": "Karszt-forrás",
+      "latitudine": 46.635742,
+      "longitudine": 25.90427,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 656,
+      "nume": "Kecske-forrás / Kecskekút",
+      "latitudine": 46.965348,
+      "longitudine": 25.561887,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 657,
+      "nume": "Királyok kútja",
+      "latitudine": 46.337433,
+      "longitudine": 25.575658,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 658,
+      "nume": "Klotild v. Szent István forrás [borvízforrás]",
+      "latitudine": 46.34936,
+      "longitudine": 25.469784,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 659,
+      "nume": "Kálmán-forrás [borvízforrás]",
+      "latitudine": 46.344546,
+      "longitudine": 25.464866,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 660,
+      "nume": "Küpüs-forrás [borvíz forrás]",
+      "latitudine": 46.30453,
+      "longitudine": 25.507274,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 661,
+      "nume": "Kőkerti forrás",
+      "latitudine": 46.449232,
+      "longitudine": 23.587328,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 662,
+      "nume": "Kőkút",
+      "latitudine": 46.4457,
+      "longitudine": 23.571617,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 663,
+      "nume": "La Ciucioare",
+      "latitudine": 44.876635,
+      "longitudine": 22.47987,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 664,
+      "nume": "La Căliman",
+      "latitudine": 46.248264,
+      "longitudine": 23.130765,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 665,
+      "nume": "La Fântâna Onului",
+      "latitudine": 47.122597,
+      "longitudine": 26.114514,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 666,
+      "nume": "La Fântînă",
+      "latitudine": 46.496182,
+      "longitudine": 22.86923,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 667,
+      "nume": "La Găvan",
+      "latitudine": 45.554221,
+      "longitudine": 25.241044,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 668,
+      "nume": "La Izvor \"George Enescu\"",
+      "latitudine": 47.958205,
+      "longitudine": 26.391716,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 669,
+      "nume": "La Troca Honcașilor",
+      "latitudine": 46.350243,
+      "longitudine": 23.212788,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 670,
+      "nume": "La uluce",
+      "latitudine": 45.317067,
+      "longitudine": 25.611657,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 671,
+      "nume": "La Uluce",
+      "latitudine": 45.874388,
+      "longitudine": 26.553414,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 672,
+      "nume": "Landscape",
+      "latitudine": 46.094785,
+      "longitudine": 24.476085,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 673,
+      "nume": "landscpape",
+      "latitudine": 45.21669,
+      "longitudine": 24.841337,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 674,
+      "nume": "Lobogó-borvíz [borvíz forrás]",
+      "latitudine": 46.302969,
+      "longitudine": 25.586628,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 675,
+      "nume": "Lobogó-forrás [borvíz forrás]",
+      "latitudine": 46.350228,
+      "longitudine": 25.473225,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 676,
+      "nume": "Loki borvíz",
+      "latitudine": 46.157556,
+      "longitudine": 25.759589,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 677,
+      "nume": "Maria",
+      "latitudine": 46.597004,
+      "longitudine": 25.081513,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 678,
+      "nume": "Mezőségi itató",
+      "latitudine": 46.474424,
+      "longitudine": 23.557338,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 679,
+      "nume": "Miklós borvíz",
+      "latitudine": 46.116135,
+      "longitudine": 25.717664,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 680,
+      "nume": "Mohás borvíz",
+      "latitudine": 46.150198,
+      "longitudine": 25.752454,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 681,
+      "nume": "Mosókút",
+      "latitudine": 48.014967,
+      "longitudine": 23.143384,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 682,
+      "nume": "Mária-forrás [borvízforrás]",
+      "latitudine": 46.349528,
+      "longitudine": 25.470813,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 683,
+      "nume": "mászó forrás",
+      "latitudine": 46.448978,
+      "longitudine": 23.585875,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 684,
+      "nume": "Nagy-Küküllő forrás",
+      "latitudine": 46.593993,
+      "longitudine": 25.379696,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 685,
+      "nume": "Nádasszéki borvízforrás",
+      "latitudine": 46.293732,
+      "longitudine": 25.528053,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 686,
+      "nume": "Paltinis",
+      "latitudine": 45.65163,
+      "longitudine": 23.931483,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 687,
+      "nume": "Piroska-forrás;Jordán-forrás",
+      "latitudine": 46.10725,
+      "longitudine": 25.951856,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 688,
+      "nume": "Pișu-Babii",
+      "latitudine": 47.643194,
+      "longitudine": 23.244326,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 689,
+      "nume": "Poenita, Ortsausgang",
+      "latitudine": 45.817296,
+      "longitudine": 24.550404,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 690,
+      "nume": "Poiana Ponor",
+      "latitudine": 46.574557,
+      "longitudine": 22.716694,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 691,
+      "nume": "Posota",
+      "latitudine": 44.902604,
+      "longitudine": 22.366812,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 692,
+      "nume": "pramen",
+      "latitudine": 44.802624,
+      "longitudine": 22.111292,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 693,
+      "nume": "pramen",
+      "latitudine": 44.808961,
+      "longitudine": 22.080861,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 694,
+      "nume": "Prof. Nicolae Ioan spring",
+      "latitudine": 45.502313,
+      "longitudine": 25.948575,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 695,
+      "nume": "Puțu Țiganului",
+      "latitudine": 46.761571,
+      "longitudine": 26.711494,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 696,
+      "nume": "Puțul lui Bărbier",
+      "latitudine": 45.628863,
+      "longitudine": 25.574798,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 697,
+      "nume": "Puțul lui Moș Pirochet",
+      "latitudine": 44.945603,
+      "longitudine": 28.682418,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 698,
+      "nume": "Pârâu",
+      "latitudine": 45.221847,
+      "longitudine": 24.054589,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 699,
+      "nume": "Pârâul Oraști",
+      "latitudine": 46.461092,
+      "longitudine": 23.365773,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 700,
+      "nume": "Quelle",
+      "latitudine": 44.986427,
+      "longitudine": 22.661944,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 701,
+      "nume": "Quelle",
+      "latitudine": 45.019025,
+      "longitudine": 22.687562,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 702,
+      "nume": "Rachitis",
+      "latitudine": 46.743516,
+      "longitudine": 22.745645,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 703,
+      "nume": "Rezes borvíz",
+      "latitudine": 46.117655,
+      "longitudine": 25.707313,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 704,
+      "nume": "Ráczoké",
+      "latitudine": 46.264974,
+      "longitudine": 25.960575,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 705,
+      "nume": "Régi benedek Elek-fürdő",
+      "latitudine": 46.117073,
+      "longitudine": 25.706808,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 706,
+      "nume": "Répát forrás és elhagyott Répáti borvíztelep / fürdő",
+      "latitudine": 46.229401,
+      "longitudine": 26.183486,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 707,
+      "nume": "Sipot",
+      "latitudine": 46.319184,
+      "longitudine": 23.605761,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 708,
+      "nume": "Sipot (Cool Water Spring)",
+      "latitudine": 46.338795,
+      "longitudine": 23.472167,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 709,
+      "nume": "Sipot (Cool Water Spring)",
+      "latitudine": 46.344066,
+      "longitudine": 23.47133,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 710,
+      "nume": "Somlyó kút",
+      "latitudine": 46.290032,
+      "longitudine": 25.733154,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 711,
+      "nume": "Sondorilor",
+      "latitudine": 47.725622,
+      "longitudine": 24.749698,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 712,
+      "nume": "Spring",
+      "latitudine": 45.64183,
+      "longitudine": 24.779234,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 713,
+      "nume": "Spring Good and Clean",
+      "latitudine": 45.020691,
+      "longitudine": 22.538939,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 714,
+      "nume": "Spring in the road, close to Folea shelter",
+      "latitudine": 45.316468,
+      "longitudine": 24.107748,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 715,
+      "nume": "Spring near Piatra Ciucanilor",
+      "latitudine": 46.920538,
+      "longitudine": 25.812273,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 716,
+      "nume": "Stana de Izvor",
+      "latitudine": 46.767859,
+      "longitudine": 22.633355,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 717,
+      "nume": "Stanescu 1bis",
+      "latitudine": 46.140094,
+      "longitudine": 25.854665,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 718,
+      "nume": "Stevia",
+      "latitudine": 45.41885,
+      "longitudine": 23.877729,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 719,
+      "nume": "Strumień",
+      "latitudine": 45.335073,
+      "longitudine": 22.896988,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 720,
+      "nume": "Sursa apa potabila",
+      "latitudine": 47.675772,
+      "longitudine": 25.21531,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 721,
+      "nume": "Szurdiki vajor",
+      "latitudine": 46.454995,
+      "longitudine": 23.566037,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 722,
+      "nume": "Sási borvíz",
+      "latitudine": 46.11068,
+      "longitudine": 25.699761,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 723,
+      "nume": "Sós forrás",
+      "latitudine": 46.541083,
+      "longitudine": 25.121159,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 724,
+      "nume": "sós forrás",
+      "latitudine": 46.5411,
+      "longitudine": 25.116309,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 725,
+      "nume": "Timsós-forrás",
+      "latitudine": 46.114952,
+      "longitudine": 25.949557,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 726,
+      "nume": "Trei fântâni",
+      "latitudine": 46.678692,
+      "longitudine": 25.843765,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 727,
+      "nume": "Tábori forrás [borvíz forrás]",
+      "latitudine": 46.30028,
+      "longitudine": 25.582045,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 728,
+      "nume": "Tódór-forrás [borvízforrás]",
+      "latitudine": 46.342254,
+      "longitudine": 25.463094,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 729,
+      "nume": "Ufi",
+      "latitudine": 47.032171,
+      "longitudine": 24.916169,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 730,
+      "nume": "Ursoaia",
+      "latitudine": 46.53729,
+      "longitudine": 22.887607,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 731,
+      "nume": "Uzonkafürdő borvízforrás",
+      "latitudine": 46.089758,
+      "longitudine": 25.801831,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 732,
+      "nume": "Vajas-forrás [borvízforrás]",
+      "latitudine": 46.350216,
+      "longitudine": 25.473793,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 733,
+      "nume": "Valea Sagagii",
+      "latitudine": 46.474505,
+      "longitudine": 23.346099,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 734,
+      "nume": "Veszes patak forrása-Erős Zsolt Forrás",
+      "latitudine": 46.818776,
+      "longitudine": 25.314448,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 735,
+      "nume": "Victoria",
+      "latitudine": 46.030594,
+      "longitudine": 25.822579,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 736,
+      "nume": "Válu-forrás",
+      "latitudine": 46.365367,
+      "longitudine": 25.708109,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 737,
+      "nume": "Vályú-fő",
+      "latitudine": 46.429065,
+      "longitudine": 26.003064,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 738,
+      "nume": "Vályús-forrás",
+      "latitudine": 46.313308,
+      "longitudine": 25.744783,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 739,
+      "nume": "Vâlcelul Prăvalelor",
+      "latitudine": 45.401319,
+      "longitudine": 25.403889,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 740,
+      "nume": "Water source",
+      "latitudine": 45.345346,
+      "longitudine": 22.799325,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 741,
+      "nume": "Water Spring Platos",
+      "latitudine": 45.683777,
+      "longitudine": 23.95364,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 742,
+      "nume": "Zonă umedă Valea cu Fluturi",
+      "latitudine": 47.662126,
+      "longitudine": 26.647921,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 743,
+      "nume": "Zsófia-forrás",
+      "latitudine": 47.301017,
+      "longitudine": 21.885017,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 744,
+      "nume": "Zsögödi borvíz",
+      "latitudine": 46.329575,
+      "longitudine": 25.812209,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 745,
+      "nume": "Zászpás vize",
+      "latitudine": 46.929454,
+      "longitudine": 25.166663,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 746,
+      "nume": "Áprily Lajos kútja",
+      "latitudine": 46.582436,
+      "longitudine": 25.182609,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 747,
+      "nume": "Árcsó-forrás",
+      "latitudine": 46.485691,
+      "longitudine": 25.1676,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 748,
+      "nume": "árvíztűrő tükörfúrógép",
+      "latitudine": 46.941773,
+      "longitudine": 25.078724,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 749,
+      "nume": "Ördög kútja",
+      "latitudine": 46.294447,
+      "longitudine": 25.270219,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 750,
+      "nume": "Útvége forrás",
+      "latitudine": 46.806399,
+      "longitudine": 25.296345,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 751,
+      "nume": "Źródło",
+      "latitudine": 45.276771,
+      "longitudine": 23.075847,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 752,
+      "nume": "Źródło",
+      "latitudine": 45.276824,
+      "longitudine": 23.073947,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 753,
+      "nume": "Źródło",
+      "latitudine": 45.334707,
+      "longitudine": 22.896829,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 754,
+      "nume": "Źródło",
+      "latitudine": 45.348539,
+      "longitudine": 22.882924,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 755,
+      "nume": "Źródło",
+      "latitudine": 45.358982,
+      "longitudine": 22.863996,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 756,
+      "nume": "Șioroiul cel rece",
+      "latitudine": 47.457454,
+      "longitudine": 24.903152,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 757,
+      "nume": "Șipot",
+      "latitudine": 48.243226,
+      "longitudine": 26.739927,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 758,
+      "nume": "Șipotul Crăpăturii",
+      "latitudine": 45.555769,
+      "longitudine": 25.259283,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 759,
+      "nume": "Витоки Білої Тиси",
+      "latitudine": 47.963509,
+      "longitudine": 24.539267,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 760,
+      "nume": "Витоки Білої Тиси",
+      "latitudine": 47.963699,
+      "longitudine": 24.544552,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 761,
+      "nume": "Витоки Білої Тиси",
+      "latitudine": 47.964446,
+      "longitudine": 24.548785,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 762,
+      "nume": "Витоки р. Тиса",
+      "latitudine": 47.965122,
+      "longitudine": 24.532265,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 763,
+      "nume": "Джерело",
+      "latitudine": 47.842421,
+      "longitudine": 24.710755,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 764,
+      "nume": "Джерело",
+      "latitudine": 47.881639,
+      "longitudine": 24.670475,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 765,
+      "nume": "Джерело",
+      "latitudine": 47.915616,
+      "longitudine": 24.350185,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 766,
+      "nume": "джерело",
+      "latitudine": 47.963784,
+      "longitudine": 24.47727,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 767,
+      "nume": "Джерело",
+      "latitudine": 47.966936,
+      "longitudine": 24.53251,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 768,
+      "nume": "Джерело Барабуськи",
+      "latitudine": 47.963779,
+      "longitudine": 24.477304,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 769,
+      "nume": "Джерело по схилу нижче",
+      "latitudine": 47.938919,
+      "longitudine": 24.376755,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 770,
+      "nume": "Надійний струмок",
+      "latitudine": 47.967776,
+      "longitudine": 24.558194,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 771,
+      "nume": "Пересихаюче джерело",
+      "latitudine": 47.956872,
+      "longitudine": 24.516555,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 772,
+      "nume": "Потужне джерело",
+      "latitudine": 47.968168,
+      "longitudine": 24.42228,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 773,
+      "nume": "Слабке джерело",
+      "latitudine": 47.968329,
+      "longitudine": 24.422582,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 774,
+      "nume": "Слабке джерело, що пересихає",
+      "latitudine": 47.955162,
+      "longitudine": 24.500042,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    },
+    {
+      "id": 775,
+      "nume": "Слабке джерело, що пересихає",
+      "latitudine": 47.956029,
+      "longitudine": 24.515242,
+      "cheie_osm": "natural",
+      "valoare_osm": "spring",
+      "categorie_osm": "natural=spring"
+    }
+  ],
+  "meta": {
+    "title": "Izvoare din România - Descărcare gratuită",
+    "description": "Izvoare din România — 775 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `natural=spring`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează. Conține 775 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Izvoare din România | ListBase",
+    "seo_description": "Descarcă Izvoare din România — 775 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 775 înregistrări / 7 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

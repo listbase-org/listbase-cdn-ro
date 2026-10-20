@@ -1,0 +1,238 @@
+{
+  "id": "ro-hunedoara-licee",
+  "name": "Licee si colegii din judetul Hunedoara",
+  "title": "Licee si colegii din judetul Hunedoara",
+  "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Hunedoara (32 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "COLEGIUL ECONOMIC \"EMANUIL GOJDU\" HUNEDOARA",
+      "slug": "colegiul-economic-emanuil-gojdu-hunedoara",
+      "judet": "HUNEDOARA",
+      "judet_slug": "hunedoara"
+    },
+    {
+      "nume": "COLEGIUL ECONOMIC \"HERMES\" PETROȘANI",
+      "slug": "colegiul-economic-hermes-petrosani",
+      "judet": "HUNEDOARA",
+      "judet_slug": "hunedoara"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL DE INFORMATICĂ \"CARMEN SYLVA\" PETROȘANI",
+      "slug": "colegiul-national-de-informatica-carmen-sylva-petrosani",
+      "judet": "HUNEDOARA",
+      "judet_slug": "hunedoara"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL DE INFORMATICĂ \"TRAIAN LALESCU\" HUNEDOARA",
+      "slug": "colegiul-national-de-informatica-traian-lalescu-hunedoara",
+      "judet": "HUNEDOARA",
+      "judet_slug": "hunedoara"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL PEDAGOGIC REGINA MARIA\" DEVA",
+      "slug": "colegiul-national-pedagogic-regina-maria-deva",
+      "judet": "HUNEDOARA",
+      "judet_slug": "hunedoara"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL SPORTIV \"CETATE\" DEVA",
+      "slug": "colegiul-national-sportiv-cetate-deva",
+      "judet": "HUNEDOARA",
+      "judet_slug": "hunedoara"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"AUREL VLAICU\" ORĂȘTIE",
+      "slug": "colegiul-national-aurel-vlaicu-orastie",
+      "judet": "HUNEDOARA",
+      "judet_slug": "hunedoara"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"AVRAM IANCU\" BRAD",
+      "slug": "colegiul-national-avram-iancu-brad",
+      "judet": "HUNEDOARA",
+      "judet_slug": "hunedoara"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"DECEBAL\" DEVA",
+      "slug": "colegiul-national-decebal-deva",
+      "judet": "HUNEDOARA",
+      "judet_slug": "hunedoara"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"I. C. BRĂTIANU\" HAȚEG",
+      "slug": "colegiul-national-i-c-bratianu-hateg",
+      "judet": "HUNEDOARA",
+      "judet_slug": "hunedoara"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"IANCU DE HUNEDOARA\" HUNEDOARA",
+      "slug": "colegiul-national-iancu-de-hunedoara-hunedoara",
+      "judet": "HUNEDOARA",
+      "judet_slug": "hunedoara"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"MIHAI EMINESCU\" PETROȘANI",
+      "slug": "colegiul-national-mihai-eminescu-petrosani",
+      "judet": "HUNEDOARA",
+      "judet_slug": "hunedoara"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC AGRICOL \"ALEXANDRU BORZA\" GEOAGIU",
+      "slug": "colegiul-tehnic-agricol-alexandru-borza-geoagiu",
+      "judet": "HUNEDOARA",
+      "judet_slug": "hunedoara"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC DE TRANSPORT FEROVIAR \"ANGHEL SALIGNY\" SIMERIA",
+      "slug": "colegiul-tehnic-de-transport-feroviar-anghel-saligny-simeria",
+      "judet": "HUNEDOARA",
+      "judet_slug": "hunedoara"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC ENERGETIC \"DRAGOMIR HURMUZESCU\" DEVA",
+      "slug": "colegiul-tehnic-energetic-dragomir-hurmuzescu-deva",
+      "judet": "HUNEDOARA",
+      "judet_slug": "hunedoara"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"CONSTANTIN BRÂNCUȘI\" PETRILA",
+      "slug": "colegiul-tehnic-constantin-brancusi-petrila",
+      "judet": "HUNEDOARA",
+      "judet_slug": "hunedoara"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"DIMITRIE LEONIDA\" PETROȘANI",
+      "slug": "colegiul-tehnic-dimitrie-leonida-petrosani",
+      "judet": "HUNEDOARA",
+      "judet_slug": "hunedoara"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"MATEI CORVIN\" HUNEDOARA",
+      "slug": "colegiul-tehnic-matei-corvin-hunedoara",
+      "judet": "HUNEDOARA",
+      "judet_slug": "hunedoara"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"MIHAI VITEAZU\" VULCAN",
+      "slug": "colegiul-tehnic-mihai-viteazu-vulcan",
+      "judet": "HUNEDOARA",
+      "judet_slug": "hunedoara"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"TRANSILVANIA\" DEVA",
+      "slug": "colegiul-tehnic-transilvania-deva",
+      "judet": "HUNEDOARA",
+      "judet_slug": "hunedoara"
+    },
+    {
+      "nume": "LICEUL DE ARTE \"SIGISMUND TODUȚĂ DEVA",
+      "slug": "liceul-de-arte-sigismund-toduta-deva",
+      "judet": "HUNEDOARA",
+      "judet_slug": "hunedoara"
+    },
+    {
+      "nume": "LICEUL TEHNILOGIC \"CRIȘAN\" CRISCIOR",
+      "slug": "liceul-tehnilogic-crisan-criscior",
+      "judet": "HUNEDOARA",
+      "judet_slug": "hunedoara"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC LUPENI",
+      "slug": "liceul-tehnologic-lupeni",
+      "judet": "HUNEDOARA",
+      "judet_slug": "hunedoara"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"CONSTANTIN BÂRSAN\" HUNEDOA RA",
+      "slug": "liceul-tehnologic-constantin-barsan-hunedoa-ra",
+      "judet": "HUNEDOARA",
+      "judet_slug": "hunedoara"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"GRIGORE MOISIL\" DEVA",
+      "slug": "liceul-tehnologic-grigore-moisil-deva",
+      "judet": "HUNEDOARA",
+      "judet_slug": "hunedoara"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"NICOLAUS OLAHUS\" ORĂȘTIE",
+      "slug": "liceul-tehnologic-nicolaus-olahus-orastie",
+      "judet": "HUNEDOARA",
+      "judet_slug": "hunedoara"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"RETEZAT\" URICANI",
+      "slug": "liceul-tehnologic-retezat-uricani",
+      "judet": "HUNEDOARA",
+      "judet_slug": "hunedoara"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC\" \"OVID DENSUȘIANU\" CĂLAN",
+      "slug": "liceul-tehnologic-ovid-densusianu-calan",
+      "judet": "HUNEDOARA",
+      "judet_slug": "hunedoara"
+    },
+    {
+      "nume": "LICEUL TEORETIC GHELARI",
+      "slug": "liceul-teoretic-ghelari",
+      "judet": "HUNEDOARA",
+      "judet_slug": "hunedoara"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"MIRCEA ELIADE\" LUPENI",
+      "slug": "liceul-teoretic-mircea-eliade-lupeni",
+      "judet": "HUNEDOARA",
+      "judet_slug": "hunedoara"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"SILVIU DRAGOMIR\" ILIA",
+      "slug": "liceul-teoretic-silviu-dragomir-ilia",
+      "judet": "HUNEDOARA",
+      "judet_slug": "hunedoara"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"TEGLAS GABOR\" DEVA",
+      "slug": "liceul-teoretic-teglas-gabor-deva",
+      "judet": "HUNEDOARA",
+      "judet_slug": "hunedoara"
+    }
+  ],
+  "meta": {
+    "title": "Licee si colegii din judetul Hunedoara - Descărcare gratuită",
+    "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Hunedoara (32 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor. Conține 32 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Licee si colegii din judetul Hunedoara | ListBase",
+    "seo_description": "Descarcă Licee si colegii din judetul Hunedoara — 32 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 32 înregistrări / 4 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

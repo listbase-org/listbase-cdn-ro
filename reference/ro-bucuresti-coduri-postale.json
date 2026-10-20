@@ -1,0 +1,159 @@
+{
+  "id": "ro-bucuresti-coduri-postale",
+  "name": "Codurile poștale ale județului București",
+  "title": "Codurile poștale ale județului București",
+  "description": "Cele 6 de coduri poștale (6 cifre) din județul București (RO-B), indexate per localitate, cu legătură către regiune și entitatea părinte. Extras din datasetul-părinte ro-coduri-postale (câmpul CODP din SIRUTA S1-2025, INS); partiționat pe coloana nativă judet_slug. Codurile sub 6 cifre sunt completate cu zerouri la stânga.",
+  "category": "reference",
+  "source": "https://github.com/ionelmc/django-siruta",
+  "source_url": "https://github.com/ionelmc/django-siruta",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "codp",
+      "label": "Codp",
+      "type": "number"
+    },
+    {
+      "key": "localitate",
+      "label": "Localitate",
+      "type": "string"
+    },
+    {
+      "key": "localitate_slug",
+      "label": "Localitate Slug",
+      "type": "string"
+    },
+    {
+      "key": "siruta_code",
+      "label": "Siruta Code",
+      "type": "number"
+    },
+    {
+      "key": "judet_id",
+      "label": "Judet Id",
+      "type": "number"
+    },
+    {
+      "key": "judet_name",
+      "label": "Judet Name",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    },
+    {
+      "key": "parent_name",
+      "label": "Parent Name",
+      "type": "string"
+    },
+    {
+      "key": "parent_slug",
+      "label": "Parent Slug",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "area",
+      "label": "Area",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "codp": "010013",
+      "localitate": "București Sectorul 1",
+      "localitate_slug": "bucuresti-sectorul-1",
+      "siruta_code": 179141,
+      "judet_id": 40,
+      "judet_name": "București",
+      "judet_slug": "bucuresti",
+      "parent_name": "București",
+      "parent_slug": "bucuresti",
+      "category": "sector",
+      "area": "urban"
+    },
+    {
+      "codp": "020071",
+      "localitate": "București Sectorul 2",
+      "localitate_slug": "bucuresti-sectorul-2",
+      "siruta_code": 179150,
+      "judet_id": 40,
+      "judet_name": "București",
+      "judet_slug": "bucuresti",
+      "parent_name": "București",
+      "parent_slug": "bucuresti",
+      "category": "sector",
+      "area": "urban"
+    },
+    {
+      "codp": "032804",
+      "localitate": "București Sectorul 3",
+      "localitate_slug": "bucuresti-sectorul-3",
+      "siruta_code": 179169,
+      "judet_id": 40,
+      "judet_name": "București",
+      "judet_slug": "bucuresti",
+      "parent_name": "București",
+      "parent_slug": "bucuresti",
+      "category": "sector",
+      "area": "urban"
+    },
+    {
+      "codp": "040671",
+      "localitate": "București Sectorul 4",
+      "localitate_slug": "bucuresti-sectorul-4",
+      "siruta_code": 179178,
+      "judet_id": 40,
+      "judet_name": "București",
+      "judet_slug": "bucuresti",
+      "parent_name": "București",
+      "parent_slug": "bucuresti",
+      "category": "sector",
+      "area": "urban"
+    },
+    {
+      "codp": "050341",
+      "localitate": "București Sectorul 5",
+      "localitate_slug": "bucuresti-sectorul-5",
+      "siruta_code": 179187,
+      "judet_id": 40,
+      "judet_name": "București",
+      "judet_slug": "bucuresti",
+      "parent_name": "București",
+      "parent_slug": "bucuresti",
+      "category": "sector",
+      "area": "urban"
+    },
+    {
+      "codp": "060154",
+      "localitate": "București Sectorul 6",
+      "localitate_slug": "bucuresti-sectorul-6",
+      "siruta_code": 179196,
+      "judet_id": 40,
+      "judet_name": "București",
+      "judet_slug": "bucuresti",
+      "parent_name": "București",
+      "parent_slug": "bucuresti",
+      "category": "sector",
+      "area": "urban"
+    }
+  ],
+  "meta": {
+    "title": "Codurile poștale ale județului București - Descărcare gratuită",
+    "description": "Cele 6 de coduri poștale (6 cifre) din județul București (RO-B), indexate per localitate, cu legătură către regiune și entitatea părinte. Extras din datasetul-părinte ro-coduri-postale (câmpul CODP din SIRUTA S1-2025, INS); partiționat pe coloana nativă judet_slug. Codurile sub 6 cifre sunt completate cu zerouri la stânga. Conține 6 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Codurile poștale ale județului București | ListBase",
+    "seo_description": "Descarcă Codurile poștale ale județului București — 6 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 6 înregistrări / 11 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: https://github.com/ionelmc/django-siruta"
+    ]
+  }
+}

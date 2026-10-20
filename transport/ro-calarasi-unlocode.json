@@ -1,0 +1,366 @@
+{
+  "id": "ro-calarasi-unlocode",
+  "name": "Coduri UN/LOCODE — judeţul Călărași (porturi, aeroporturi, terminale)",
+  "title": "Coduri UN/LOCODE — judeţul Călărași (porturi, aeroporturi, terminale)",
+  "description": "Cele 9 locaţii UN/LOCODE din judeţul Călărași, România — cod LOCODE, denumire, funcţii de transport, status şi coordonate.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "locode",
+      "label": "Locode",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_wo_diacritics",
+      "label": "Name Wo Diacritics",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_code",
+      "label": "Subdivision Code",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_name",
+      "label": "Subdivision Name",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_type",
+      "label": "Subdivision Type",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "status_description",
+      "label": "Status Description",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function",
+      "type": "string"
+    },
+    {
+      "key": "functions",
+      "label": "Functions",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "date_updated",
+      "label": "Date Updated",
+      "type": "string"
+    },
+    {
+      "key": "remarks",
+      "label": "Remarks",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet_name",
+      "label": "Judet Name",
+      "type": "string"
+    },
+    {
+      "key": "judet_source",
+      "label": "Judet Source",
+      "type": "string"
+    },
+    {
+      "key": "judet_alternativ_siruta",
+      "label": "Judet Alternativ Siruta",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "locode": "ROGBC",
+      "country": "RO",
+      "location": "GBC",
+      "name": "Belciugatele",
+      "name_wo_diacritics": "Belciugatele",
+      "subdivision_code": "CL",
+      "subdivision_name": "Călărasi",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4429N 02626E",
+      "latitude": 44.4833,
+      "longitude": 26.4333,
+      "date_updated": "2016-07",
+      "remarks": "",
+      "judet_slug": "calarasi",
+      "judet_name": "Călărași",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 2,
+      "locode": "ROBCE",
+      "country": "RO",
+      "location": "BCE",
+      "name": "Borcea",
+      "name_wo_diacritics": "Borcea",
+      "subdivision_code": "CL",
+      "subdivision_name": "Călărasi",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4420N 02745E",
+      "latitude": 44.3333,
+      "longitude": 27.75,
+      "date_updated": "2017-01",
+      "remarks": "",
+      "judet_slug": "calarasi",
+      "judet_name": "Călărași",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 3,
+      "locode": "ROCAS",
+      "country": "RO",
+      "location": "CAS",
+      "name": "Calarasi",
+      "name_wo_diacritics": "Calarasi",
+      "subdivision_code": "CL",
+      "subdivision_name": "Călărasi",
+      "subdivision_type": "Departments",
+      "status": "AC",
+      "status_description": "Approved by Customs Authority",
+      "function": "1------B",
+      "functions": "Maritime transport (sea port), Cross border (former code)",
+      "iata": "",
+      "coordinates": "4412N 02720E",
+      "latitude": 44.2,
+      "longitude": 27.3333,
+      "date_updated": "2011-01",
+      "remarks": "",
+      "judet_slug": "calarasi",
+      "judet_name": "Călărași",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 4,
+      "locode": "ROCNO",
+      "country": "RO",
+      "location": "CNO",
+      "name": "Chirnogi",
+      "name_wo_diacritics": "Chirnogi",
+      "subdivision_code": "",
+      "subdivision_name": "",
+      "subdivision_type": "",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4407N 02635E",
+      "latitude": 44.1167,
+      "longitude": 26.5833,
+      "date_updated": "2006-07",
+      "remarks": "",
+      "judet_slug": "calarasi",
+      "judet_name": "Călărași",
+      "judet_source": "derived_name_join",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 5,
+      "locode": "ROCHI",
+      "country": "RO",
+      "location": "CHI",
+      "name": "Chiselet",
+      "name_wo_diacritics": "Chiselet",
+      "subdivision_code": "CL",
+      "subdivision_name": "Călărasi",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4410N 02650E",
+      "latitude": 44.1667,
+      "longitude": 26.8333,
+      "date_updated": "2007-01",
+      "remarks": "",
+      "judet_slug": "calarasi",
+      "judet_name": "Călărași",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 6,
+      "locode": "RODGA",
+      "country": "RO",
+      "location": "DGA",
+      "name": "Dragalina",
+      "name_wo_diacritics": "Dragalina",
+      "subdivision_code": "CL",
+      "subdivision_name": "Călărasi",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4426N 02719E",
+      "latitude": 44.4333,
+      "longitude": 27.3167,
+      "date_updated": "2017-01",
+      "remarks": "",
+      "judet_slug": "calarasi",
+      "judet_name": "Călărași",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 7,
+      "locode": "ROFMU",
+      "country": "RO",
+      "location": "FMU",
+      "name": "Frumusani",
+      "name_wo_diacritics": "Frumusani",
+      "subdivision_code": "CL",
+      "subdivision_name": "Călărasi",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4417N 02619E",
+      "latitude": 44.2833,
+      "longitude": 26.3167,
+      "date_updated": "2004-07",
+      "remarks": "",
+      "judet_slug": "calarasi",
+      "judet_name": "Călărași",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 8,
+      "locode": "RORZE",
+      "country": "RO",
+      "location": "RZE",
+      "name": "Fundulea",
+      "name_wo_diacritics": "Fundulea",
+      "subdivision_code": "CL",
+      "subdivision_name": "Călărasi",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-----6--",
+      "functions": "Multimodal transport facility",
+      "iata": "",
+      "coordinates": "4428N 02631E",
+      "latitude": 44.4667,
+      "longitude": 26.5167,
+      "date_updated": "2009-01",
+      "remarks": "",
+      "judet_slug": "calarasi",
+      "judet_name": "Călărași",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 9,
+      "locode": "ROOLT",
+      "country": "RO",
+      "location": "OLT",
+      "name": "Oltenita",
+      "name_wo_diacritics": "Oltenita",
+      "subdivision_code": "CL",
+      "subdivision_name": "Călărasi",
+      "subdivision_type": "Departments",
+      "status": "AC",
+      "status_description": "Approved by Customs Authority",
+      "function": "1------B",
+      "functions": "Maritime transport (sea port), Cross border (former code)",
+      "iata": "",
+      "coordinates": "4405N 02639E",
+      "latitude": 44.0833,
+      "longitude": 26.65,
+      "date_updated": "2011-01",
+      "remarks": "",
+      "judet_slug": "calarasi",
+      "judet_name": "Călărași",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    }
+  ],
+  "meta": {
+    "title": "Coduri UN/LOCODE — judeţul Călărași (porturi, aeroporturi, terminale) - Descărcare gratuită",
+    "description": "Cele 9 locaţii UN/LOCODE din judeţul Călărași, România — cod LOCODE, denumire, funcţii de transport, status şi coordonate. Conține 9 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Coduri UN/LOCODE — judeţul Călărași (porturi, aeroporturi, terminale) | ListBase",
+    "seo_description": "Descarcă Coduri UN/LOCODE — judeţul Călărași (porturi, aeroporturi, terminale) — 9 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 9 înregistrări / 23 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

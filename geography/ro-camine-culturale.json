@@ -1,0 +1,6046 @@
+{
+  "id": "ro-camine-culturale",
+  "name": "Cămine culturale și centre comunitare din România",
+  "title": "Cămine culturale și centre comunitare din România",
+  "description": "Cămine culturale și centre comunitare din România — 665 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `amenity=community_centre`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 665,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "latitudine",
+      "label": "Latitudine",
+      "type": "number"
+    },
+    {
+      "key": "longitudine",
+      "label": "Longitudine",
+      "type": "number"
+    },
+    {
+      "key": "cheie_osm",
+      "label": "Cheie Osm",
+      "type": "string"
+    },
+    {
+      "key": "valoare_osm",
+      "label": "Valoare Osm",
+      "type": "string"
+    },
+    {
+      "key": "categorie_osm",
+      "label": "Categorie Osm",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nume": "'Petőfi Sándor' Community Centre",
+      "latitudine": 47.161708,
+      "longitudine": 22.873584,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 2,
+      "nume": "142",
+      "latitudine": 44.518971,
+      "longitudine": 26.142671,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 3,
+      "nume": "84",
+      "latitudine": 44.512709,
+      "longitudine": 26.140069,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 4,
+      "nume": "99",
+      "latitudine": 44.518991,
+      "longitudine": 26.142492,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 5,
+      "nume": "A.C.T. Convientura",
+      "latitudine": 46.289978,
+      "longitudine": 25.045012,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 6,
+      "nume": "a.casă",
+      "latitudine": 46.791719,
+      "longitudine": 23.597913,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 7,
+      "nume": "AJOFM",
+      "latitudine": 45.147625,
+      "longitudine": 26.814332,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 8,
+      "nume": "alomama",
+      "latitudine": 45.677927,
+      "longitudine": 25.61122,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 9,
+      "nume": "Amfiteatrul Drăgan",
+      "latitudine": 44.316577,
+      "longitudine": 23.82247,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 10,
+      "nume": "Angofa Wildlife Centre",
+      "latitudine": 46.18178,
+      "longitudine": 24.789393,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 11,
+      "nume": "Apátfalvi Sportcsarnok",
+      "latitudine": 46.169126,
+      "longitudine": 20.576266,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 12,
+      "nume": "Asezamant brancovenesc",
+      "latitudine": 47.154235,
+      "longitudine": 27.578604,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 13,
+      "nume": "Asociația ACCEPT",
+      "latitudine": 44.440311,
+      "longitudine": 26.125048,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 14,
+      "nume": "Asociația ACTA",
+      "latitudine": 44.453122,
+      "longitudine": 26.075755,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 15,
+      "nume": "Asociația Black Sea Equilibrum",
+      "latitudine": 44.152755,
+      "longitudine": 28.630138,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 16,
+      "nume": "Asociația Culturală Armonia",
+      "latitudine": 45.759817,
+      "longitudine": 21.112032,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 17,
+      "nume": "Asociația Kolozsvár",
+      "latitudine": 46.770735,
+      "longitudine": 23.589012,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 18,
+      "nume": "Asociația Română a cărnii",
+      "latitudine": 44.489919,
+      "longitudine": 26.035691,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 19,
+      "nume": "Asociația Support for Youth Development",
+      "latitudine": 46.771297,
+      "longitudine": 23.585504,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 20,
+      "nume": "Asociația Tinerilor Români Uniți (ASTRU)",
+      "latitudine": 46.767624,
+      "longitudine": 23.59884,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 21,
+      "nume": "Ateneul Cultural",
+      "latitudine": 47.661617,
+      "longitudine": 26.427379,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 22,
+      "nume": "Așezământul cultural \"Alexandru Lapedatu\"",
+      "latitudine": 46.762728,
+      "longitudine": 23.600266,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 23,
+      "nume": "Baia Publică Grădina Romei",
+      "latitudine": 47.793686,
+      "longitudine": 22.887814,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 24,
+      "nume": "Balon de fotbal",
+      "latitudine": 44.380949,
+      "longitudine": 26.088557,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 25,
+      "nume": "Begegnungsstätte der Deutschen, DFDR",
+      "latitudine": 44.181549,
+      "longitudine": 28.647728,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 26,
+      "nume": "Biblioteca Culturala",
+      "latitudine": 44.426494,
+      "longitudine": 26.057436,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 27,
+      "nume": "Bogárfalvai Művelődési Otthon",
+      "latitudine": 46.368131,
+      "longitudine": 25.25465,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 28,
+      "nume": "British Council",
+      "latitudine": 46.771014,
+      "longitudine": 23.582975,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 29,
+      "nume": "Cabinet-expertiză contabilă",
+      "latitudine": 45.205479,
+      "longitudine": 26.725921,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 30,
+      "nume": "Camin Cultural",
+      "latitudine": 44.345195,
+      "longitudine": 24.858162,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 31,
+      "nume": "Camin Cultural",
+      "latitudine": 44.914648,
+      "longitudine": 26.989934,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 32,
+      "nume": "Camin Cultural",
+      "latitudine": 45.140853,
+      "longitudine": 26.732711,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 33,
+      "nume": "Camin Cultural",
+      "latitudine": 46.402363,
+      "longitudine": 26.909945,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 34,
+      "nume": "Camin cultural",
+      "latitudine": 46.488502,
+      "longitudine": 22.49974,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 35,
+      "nume": "Camin Cultural",
+      "latitudine": 46.514033,
+      "longitudine": 24.455922,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 36,
+      "nume": "camin cultural",
+      "latitudine": 46.901285,
+      "longitudine": 21.786476,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 37,
+      "nume": "Camin cultural",
+      "latitudine": 47.588775,
+      "longitudine": 26.520065,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 38,
+      "nume": "Camin Cultural Beregsau Mare",
+      "latitudine": 45.759067,
+      "longitudine": 21.02176,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 39,
+      "nume": "Camin Cultural Branistea",
+      "latitudine": 47.172224,
+      "longitudine": 24.066685,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 40,
+      "nume": "Caminul Cultural",
+      "latitudine": 44.27856,
+      "longitudine": 28.107351,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 41,
+      "nume": "Caminul Cultural",
+      "latitudine": 44.282066,
+      "longitudine": 28.088752,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 42,
+      "nume": "Caminul Cultural",
+      "latitudine": 45.7657,
+      "longitudine": 22.09509,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 43,
+      "nume": "Caminul Cultural",
+      "latitudine": 47.658696,
+      "longitudine": 22.951064,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 44,
+      "nume": "Caminul cultural Cremenari",
+      "latitudine": 44.981126,
+      "longitudine": 24.313297,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 45,
+      "nume": "Caminul Cultural Feldioara",
+      "latitudine": 45.819114,
+      "longitudine": 25.593679,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 46,
+      "nume": "Caminul Cultural Gherteniş",
+      "latitudine": 45.430477,
+      "longitudine": 21.582782,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 47,
+      "nume": "Caminul cultural Herepeia",
+      "latitudine": 45.897949,
+      "longitudine": 22.817638,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 48,
+      "nume": "Caminul Cultural Luminatorul Seceani",
+      "latitudine": 45.976793,
+      "longitudine": 21.31935,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 49,
+      "nume": "Caminul Cultural Nera",
+      "latitudine": 45.969164,
+      "longitudine": 20.558082,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 50,
+      "nume": "Caminul Cultural Paulesti",
+      "latitudine": 47.779372,
+      "longitudine": 22.920238,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 51,
+      "nume": "Caminul cultural Ruda",
+      "latitudine": 45.030727,
+      "longitudine": 24.331644,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 52,
+      "nume": "Caminul Kultural Művelődési Ház",
+      "latitudine": 46.374677,
+      "longitudine": 24.775531,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 53,
+      "nume": "cartierul chinezesc",
+      "latitudine": 47.53668,
+      "longitudine": 26.020562,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 54,
+      "nume": "Casa Activistului",
+      "latitudine": 44.451887,
+      "longitudine": 26.114771,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 55,
+      "nume": "Casa Adam Müller-Guttenbrunn",
+      "latitudine": 45.758316,
+      "longitudine": 21.22453,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 56,
+      "nume": "Casa Corpului Didactic Neamţ Corpul B",
+      "latitudine": 46.939359,
+      "longitudine": 26.333925,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 57,
+      "nume": "Casa culturala Bucova",
+      "latitudine": 45.510381,
+      "longitudine": 22.643112,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 58,
+      "nume": "Casa Culturală Cacova",
+      "latitudine": 45.121838,
+      "longitudine": 21.592615,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 59,
+      "nume": "Casa Culturală Crișcior",
+      "latitudine": 46.11853,
+      "longitudine": 22.848998,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 60,
+      "nume": "Casa Culturală Schmich Bosmann Bazna",
+      "latitudine": 46.197508,
+      "longitudine": 24.281825,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 61,
+      "nume": "Casa Culturii \"Ion Creangă\"",
+      "latitudine": 47.206057,
+      "longitudine": 26.368058,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 62,
+      "nume": "Casa Cămin",
+      "latitudine": 46.022035,
+      "longitudine": 24.792039,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 63,
+      "nume": "Casa Cămin",
+      "latitudine": 46.201862,
+      "longitudine": 25.198671,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 64,
+      "nume": "Casa Cămin",
+      "latitudine": 46.406596,
+      "longitudine": 24.921676,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 65,
+      "nume": "Casa Cămin Benic",
+      "latitudine": 46.210021,
+      "longitudine": 23.590791,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 66,
+      "nume": "Casa Cămin Broșteni",
+      "latitudine": 46.031065,
+      "longitudine": 23.952399,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 67,
+      "nume": "Casa Cămin Presaca",
+      "latitudine": 45.975701,
+      "longitudine": 23.890368,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 68,
+      "nume": "Casa Cămin Șpring",
+      "latitudine": 45.973037,
+      "longitudine": 23.773863,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 69,
+      "nume": "Casa Căsătoriilor",
+      "latitudine": 44.322906,
+      "longitudine": 28.608687,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 70,
+      "nume": "Casa de Ajutor Reciproc a Pensionarilor Ploiești",
+      "latitudine": 44.935828,
+      "longitudine": 26.022508,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 71,
+      "nume": "Casa de Cultura",
+      "latitudine": 47.478634,
+      "longitudine": 22.583474,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 72,
+      "nume": "Casa de cultura",
+      "latitudine": 48.073977,
+      "longitudine": 26.647193,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 73,
+      "nume": "Casa de Cultura \"Dragoș Vrânceanu\"",
+      "latitudine": 44.97471,
+      "longitudine": 24.234673,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 74,
+      "nume": "Casa de Cultura \"Fikker János\"",
+      "latitudine": 46.498918,
+      "longitudine": 23.710537,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 75,
+      "nume": "Casa de Cultura \"Gombasi János\"",
+      "latitudine": 46.498341,
+      "longitudine": 23.67789,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 76,
+      "nume": "Casa de Cultura Gura Humorului",
+      "latitudine": 47.556419,
+      "longitudine": 25.889596,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 77,
+      "nume": "Casa de cultura Mihai Vodă",
+      "latitudine": 46.540219,
+      "longitudine": 23.754885,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 78,
+      "nume": "Casa de cultura rurala de Cocorăștii-Colț",
+      "latitudine": 44.835293,
+      "longitudine": 25.893315,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 79,
+      "nume": "Casa de Cultură",
+      "latitudine": 43.811307,
+      "longitudine": 28.583193,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 80,
+      "nume": "Casa de Cultură",
+      "latitudine": 44.180742,
+      "longitudine": 28.63465,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 81,
+      "nume": "Casa de cultură",
+      "latitudine": 44.192915,
+      "longitudine": 24.490492,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 82,
+      "nume": "Casa de Cultură",
+      "latitudine": 44.370141,
+      "longitudine": 25.974035,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 83,
+      "nume": "Casa de Cultură",
+      "latitudine": 44.56121,
+      "longitudine": 25.946975,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 84,
+      "nume": "Casa de cultură",
+      "latitudine": 44.678835,
+      "longitudine": 21.679944,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 85,
+      "nume": "Casa de Cultură",
+      "latitudine": 45.003015,
+      "longitudine": 23.965447,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 86,
+      "nume": "Casa de Cultură",
+      "latitudine": 45.151851,
+      "longitudine": 26.813569,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 87,
+      "nume": "Casa de Cultură",
+      "latitudine": 45.172863,
+      "longitudine": 23.665149,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 88,
+      "nume": "Casa de Cultură",
+      "latitudine": 45.206733,
+      "longitudine": 24.840633,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 89,
+      "nume": "Casa de Cultură",
+      "latitudine": 45.337947,
+      "longitudine": 24.248878,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 90,
+      "nume": "Casa de Cultură",
+      "latitudine": 45.377321,
+      "longitudine": 27.047197,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 91,
+      "nume": "Casa de Cultură",
+      "latitudine": 45.625384,
+      "longitudine": 25.476597,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 92,
+      "nume": "Casa de Cultură",
+      "latitudine": 45.730553,
+      "longitudine": 24.701051,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 93,
+      "nume": "Casa de cultură",
+      "latitudine": 45.798017,
+      "longitudine": 21.253947,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 94,
+      "nume": "Casa de cultură",
+      "latitudine": 45.844914,
+      "longitudine": 27.430038,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 95,
+      "nume": "Casa de cultură",
+      "latitudine": 45.901272,
+      "longitudine": 25.776622,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 96,
+      "nume": "Casa de cultură",
+      "latitudine": 46.113002,
+      "longitudine": 23.223695,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 97,
+      "nume": "Casa de Cultură",
+      "latitudine": 46.128504,
+      "longitudine": 22.790709,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 98,
+      "nume": "Casa de Cultură",
+      "latitudine": 46.164691,
+      "longitudine": 20.747556,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 99,
+      "nume": "Casa de cultură",
+      "latitudine": 46.279413,
+      "longitudine": 26.605848,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 100,
+      "nume": "Casa de cultură",
+      "latitudine": 46.308008,
+      "longitudine": 25.840957,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 101,
+      "nume": "Casa de cultură",
+      "latitudine": 46.308266,
+      "longitudine": 25.238504,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 102,
+      "nume": "Casa de Cultură",
+      "latitudine": 46.53454,
+      "longitudine": 25.759564,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 103,
+      "nume": "Casa de Cultură",
+      "latitudine": 46.834655,
+      "longitudine": 27.456314,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 104,
+      "nume": "Casa de Cultură",
+      "latitudine": 47.05947,
+      "longitudine": 22.399162,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 105,
+      "nume": "Casa de Cultură",
+      "latitudine": 47.386328,
+      "longitudine": 27.583558,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 106,
+      "nume": "Casa de Cultură",
+      "latitudine": 47.41093,
+      "longitudine": 23.181546,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 107,
+      "nume": "Casa de Cultură",
+      "latitudine": 47.659496,
+      "longitudine": 23.570171,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 108,
+      "nume": "Casa de Cultură",
+      "latitudine": 47.793807,
+      "longitudine": 27.200373,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 109,
+      "nume": "Casa de Cultură",
+      "latitudine": 47.931715,
+      "longitudine": 23.883117,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 110,
+      "nume": "Casa de Cultură",
+      "latitudine": 48.241281,
+      "longitudine": 26.842076,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 111,
+      "nume": "Casa de cultură \"Dumitru Sopon\"",
+      "latitudine": 46.755486,
+      "longitudine": 23.386137,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 112,
+      "nume": "Casa De Cultură \"Vigadó\"",
+      "latitudine": 46.002349,
+      "longitudine": 26.137046,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 113,
+      "nume": "Casa de cultură - Ciucea",
+      "latitudine": 46.95282,
+      "longitudine": 22.812599,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 114,
+      "nume": "Casa de cultură - Săvădisla",
+      "latitudine": 46.675235,
+      "longitudine": 23.456768,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 115,
+      "nume": "Casa de Cultură a Orașului Huedin",
+      "latitudine": 46.864439,
+      "longitudine": 23.023605,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 116,
+      "nume": "Casa de Cultură a Sindicatelor",
+      "latitudine": 44.925398,
+      "longitudine": 25.457489,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 117,
+      "nume": "Casa de Cultură a Sindicatelor",
+      "latitudine": 45.86706,
+      "longitudine": 25.784582,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 118,
+      "nume": "Casa de Cultură a Sindicatelor",
+      "latitudine": 46.228031,
+      "longitudine": 27.668563,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 119,
+      "nume": "Casa de Cultură a Sindicatelor",
+      "latitudine": 46.361263,
+      "longitudine": 25.803489,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 120,
+      "nume": "Casa de Cultură a Sindicatelor",
+      "latitudine": 47.052762,
+      "longitudine": 21.937298,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 121,
+      "nume": "Casa de Cultură a Sindicatelor Satu Mare",
+      "latitudine": 47.789009,
+      "longitudine": 22.871563,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 122,
+      "nume": "Casa de Cultură a Studenților",
+      "latitudine": 45.745191,
+      "longitudine": 21.213006,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 123,
+      "nume": "Casa de Cultură a Studenților Dumitru Fărcaș",
+      "latitudine": 46.766864,
+      "longitudine": 23.58628,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 124,
+      "nume": "Casa de Cultură a Studenților Ploiești",
+      "latitudine": 44.91384,
+      "longitudine": 26.034183,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 125,
+      "nume": "Casa de Cultură a Tineretului",
+      "latitudine": 47.739795,
+      "longitudine": 26.659895,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 126,
+      "nume": "Casa de Cultură a Ucrainenilor",
+      "latitudine": 45.732592,
+      "longitudine": 21.221504,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 127,
+      "nume": "Casa de Cultură Baia de Arieș",
+      "latitudine": 46.379424,
+      "longitudine": 23.281063,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 128,
+      "nume": "Casa de Cultură Balș",
+      "latitudine": 44.349747,
+      "longitudine": 24.103191,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 129,
+      "nume": "Casa de Cultură Band",
+      "latitudine": 46.576231,
+      "longitudine": 24.371278,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 130,
+      "nume": "Casa de Cultură Budești",
+      "latitudine": 45.064076,
+      "longitudine": 24.388136,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 131,
+      "nume": "Casa de Cultură Calafat",
+      "latitudine": 43.993857,
+      "longitudine": 22.932917,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 132,
+      "nume": "Casa de Cultură Cioboteni",
+      "latitudine": 46.384107,
+      "longitudine": 25.83358,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 133,
+      "nume": "Casa de Cultură Coțușca",
+      "latitudine": 48.129956,
+      "longitudine": 26.855035,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 134,
+      "nume": "Casa de cultură din Sic",
+      "latitudine": 46.930774,
+      "longitudine": 23.898821,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 135,
+      "nume": "Casa de Cultură Domnești",
+      "latitudine": 45.206722,
+      "longitudine": 24.8409,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 136,
+      "nume": "Casa de Cultură Florin Zamfirescu Călimănești",
+      "latitudine": 45.247333,
+      "longitudine": 24.339278,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 137,
+      "nume": "Casa de Cultură Frăsinești",
+      "latitudine": 47.033793,
+      "longitudine": 28.003164,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 138,
+      "nume": "Casa de Cultură Gherman",
+      "latitudine": 47.3644,
+      "longitudine": 27.606056,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 139,
+      "nume": "Casa de cultură Ion Creangă",
+      "latitudine": 46.086616,
+      "longitudine": 27.889209,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 140,
+      "nume": "Casa de Cultură Ladislau Schmidt",
+      "latitudine": 45.443994,
+      "longitudine": 23.376249,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 141,
+      "nume": "Casa de cultură Lucian Blaga",
+      "latitudine": 45.957066,
+      "longitudine": 23.573705,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 142,
+      "nume": "Casa de Cultură Medeleni",
+      "latitudine": 47.297683,
+      "longitudine": 27.69207,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 143,
+      "nume": "Casa de cultură Misentea",
+      "latitudine": 46.327136,
+      "longitudine": 25.892596,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 144,
+      "nume": "Casa de Cultură Onisifor Ghibu",
+      "latitudine": 45.795629,
+      "longitudine": 23.88636,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 145,
+      "nume": "Casa de cultură Periam",
+      "latitudine": 46.043554,
+      "longitudine": 20.868719,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 146,
+      "nume": "Casa de Cultură Segarcea",
+      "latitudine": 44.093748,
+      "longitudine": 23.745281,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 147,
+      "nume": "Casa de Cultură Semeni",
+      "latitudine": 47.272298,
+      "longitudine": 27.751977,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 148,
+      "nume": "Casa de cultură Stejeriș",
+      "latitudine": 46.465542,
+      "longitudine": 23.736883,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 149,
+      "nume": "Casa de Cultură Studentească",
+      "latitudine": 46.070098,
+      "longitudine": 23.580712,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 150,
+      "nume": "Casa de cultură Topoloveni",
+      "latitudine": 44.808665,
+      "longitudine": 25.084318,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 151,
+      "nume": "Casa de cultură Turda",
+      "latitudine": 46.576333,
+      "longitudine": 23.784445,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 152,
+      "nume": "Casa de cultură Zimandcuz",
+      "latitudine": 46.255838,
+      "longitudine": 21.382159,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 153,
+      "nume": "Casa de Cultură “Amza Pellea” Băilești",
+      "latitudine": 44.022275,
+      "longitudine": 23.340376,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 154,
+      "nume": "Casa de Cultură “Constantin C. Giurescu”",
+      "latitudine": 45.759434,
+      "longitudine": 27.065517,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 155,
+      "nume": "Casa de Cultură “Ion Luca Caragiale” a Municipiului Ploiești",
+      "latitudine": 44.933026,
+      "longitudine": 26.030668,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 156,
+      "nume": "Casa de Cultură ”Tudor Mușatescu”",
+      "latitudine": 45.271759,
+      "longitudine": 25.044305,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 157,
+      "nume": "Casa de Cultură „Buzduganii de Jos”",
+      "latitudine": 47.142493,
+      "longitudine": 27.817637,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 158,
+      "nume": "Casa de Cultură „Dr. Augustin Mircea”",
+      "latitudine": 47.645825,
+      "longitudine": 22.894622,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 159,
+      "nume": "Casa de Cultură „Ionel Floașiu”",
+      "latitudine": 46.544357,
+      "longitudine": 23.886909,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 160,
+      "nume": "Casa de Cultură „Vasile Alecsandri”",
+      "latitudine": 46.564378,
+      "longitudine": 26.913193,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 161,
+      "nume": "Casa Parohială",
+      "latitudine": 47.222219,
+      "longitudine": 24.471413,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 162,
+      "nume": "Casa Parohială Reformată",
+      "latitudine": 47.459605,
+      "longitudine": 22.370461,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 163,
+      "nume": "Casa Parohială Romano-Catolică",
+      "latitudine": 46.76968,
+      "longitudine": 23.588414,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 164,
+      "nume": "Casa Raională de Cultură „Petru și Ion Aldea-Teodorovici” Leova",
+      "latitudine": 46.476552,
+      "longitudine": 28.248672,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 165,
+      "nume": "Casa Socoteanu-Lahovari - Palatul copiilor",
+      "latitudine": 45.103807,
+      "longitudine": 24.365838,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 166,
+      "nume": "Casa TIFF",
+      "latitudine": 46.767735,
+      "longitudine": 23.58988,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 167,
+      "nume": "Casa Tineretului",
+      "latitudine": 43.817528,
+      "longitudine": 28.582437,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 168,
+      "nume": "Casa Tineretului",
+      "latitudine": 45.741118,
+      "longitudine": 21.239782,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 169,
+      "nume": "Casa Științei",
+      "latitudine": 44.326583,
+      "longitudine": 23.777912,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 170,
+      "nume": "Castelul Nako",
+      "latitudine": 46.071121,
+      "longitudine": 20.626159,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 171,
+      "nume": "Centru comunitar",
+      "latitudine": 46.284967,
+      "longitudine": 25.87025,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 172,
+      "nume": "Centru Comunitar Multifuncțional Cozmeni",
+      "latitudine": 46.223729,
+      "longitudine": 25.936906,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 173,
+      "nume": "Centru cultural",
+      "latitudine": 45.147901,
+      "longitudine": 25.512432,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 174,
+      "nume": "centru cultural",
+      "latitudine": 46.430524,
+      "longitudine": 23.438414,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 175,
+      "nume": "Centru Cultural \"Posta Veche”",
+      "latitudine": 44.19123,
+      "longitudine": 27.335711,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 176,
+      "nume": "Centru Cultural Slon-Cerașu",
+      "latitudine": 45.352708,
+      "longitudine": 26.041516,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 177,
+      "nume": "Centru Cultural-Monahal \"Episcopul Gavril de Bărsana\"",
+      "latitudine": 47.792929,
+      "longitudine": 24.091184,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 178,
+      "nume": "Centru de plasament",
+      "latitudine": 44.438868,
+      "longitudine": 26.005462,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 179,
+      "nume": "Centru de servicii comunitare",
+      "latitudine": 47.161187,
+      "longitudine": 27.562796,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 180,
+      "nume": "Centrul Cercetășesc Nocrich H.C. Habermann",
+      "latitudine": 45.896029,
+      "longitudine": 24.454297,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 181,
+      "nume": "Centrul Comunitar Ferentari",
+      "latitudine": 44.405324,
+      "longitudine": 26.079988,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 182,
+      "nume": "Centrul creștin Casa Olarului",
+      "latitudine": 44.183349,
+      "longitudine": 28.646853,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 183,
+      "nume": "Centrul cultural \"Gizella Malom\" Kultúr Központ",
+      "latitudine": 47.520746,
+      "longitudine": 22.131844,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 184,
+      "nume": "Centrul cultural \"Moara Gizella\" Kultúr Központ",
+      "latitudine": 47.520729,
+      "longitudine": 22.13188,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 185,
+      "nume": "Centrul Cultural al Orașului Borșa",
+      "latitudine": 47.655791,
+      "longitudine": 24.664617,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 186,
+      "nume": "Centrul Cultural Arta",
+      "latitudine": 47.144097,
+      "longitudine": 23.8757,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 187,
+      "nume": "Centrul Cultural Aurel Stroe",
+      "latitudine": 45.415827,
+      "longitudine": 25.536185,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 188,
+      "nume": "Centrul Cultural Blăjani",
+      "latitudine": 45.314006,
+      "longitudine": 26.811793,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 189,
+      "nume": "Centrul Cultural Clujean",
+      "latitudine": 46.76669,
+      "longitudine": 23.599396,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 190,
+      "nume": "Centrul Cultural Coreean",
+      "latitudine": 46.774686,
+      "longitudine": 23.621859,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 191,
+      "nume": "Centrul Cultural Crăciunelu de Jos",
+      "latitudine": 46.172911,
+      "longitudine": 23.833898,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 192,
+      "nume": "Centrul Cultural din Ciceu",
+      "latitudine": 46.412826,
+      "longitudine": 25.781343,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 193,
+      "nume": "Centrul cultural Dragalina",
+      "latitudine": 44.43551,
+      "longitudine": 27.333394,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 194,
+      "nume": "Centrul Cultural Eibenthal",
+      "latitudine": 44.544983,
+      "longitudine": 22.162311,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 195,
+      "nume": "Centrul Cultural George Bacovia Panticeu",
+      "latitudine": 47.042505,
+      "longitudine": 23.557952,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 196,
+      "nume": "Centrul cultural George Barițiu",
+      "latitudine": 46.859984,
+      "longitudine": 23.796864,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 197,
+      "nume": "Centrul Cultural German",
+      "latitudine": 45.753975,
+      "longitudine": 21.222793,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 198,
+      "nume": "Centrul cultural Ionești",
+      "latitudine": 44.856987,
+      "longitudine": 24.233499,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 199,
+      "nume": "Centrul Cultural Județean Teodor T. Burada - punct de lucru",
+      "latitudine": 44.171752,
+      "longitudine": 28.617262,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 200,
+      "nume": "Centrul Cultural Județean Teodor T. Burada - punct de lucru",
+      "latitudine": 44.172079,
+      "longitudine": 28.626133,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 201,
+      "nume": "Centrul Cultural Județean Teodor T. Burada - punct de lucru",
+      "latitudine": 44.182874,
+      "longitudine": 28.651664,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 202,
+      "nume": "Centrul Cultural Județean Teodor T. Burada - Sediu administrativ",
+      "latitudine": 44.189003,
+      "longitudine": 28.649515,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 203,
+      "nume": "Centrul Cultural Jurilovca",
+      "latitudine": 44.758193,
+      "longitudine": 28.874403,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 204,
+      "nume": "Centrul Cultural Liviu Rebreanu Aiud",
+      "latitudine": 46.311961,
+      "longitudine": 23.72141,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 205,
+      "nume": "Centrul Cultural Micăsasa",
+      "latitudine": 46.088243,
+      "longitudine": 24.111037,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 206,
+      "nume": "Centrul Cultural Ocoliș",
+      "latitudine": 46.478321,
+      "longitudine": 23.465677,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 207,
+      "nume": "Centrul Cultural Petőfi Sándor",
+      "latitudine": 44.435253,
+      "longitudine": 26.094165,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 208,
+      "nume": "Centrul Cultural Polonez",
+      "latitudine": 46.773012,
+      "longitudine": 23.620332,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 209,
+      "nume": "Centrul Cultural Romano-German",
+      "latitudine": 46.21965,
+      "longitudine": 24.792286,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 210,
+      "nume": "Centrul Cultural Româno-Bulgar",
+      "latitudine": 43.994471,
+      "longitudine": 22.931914,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 211,
+      "nume": "Centrul Cultural Toplița",
+      "latitudine": 46.924243,
+      "longitudine": 25.3532,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 212,
+      "nume": "Centrul Cultural Vârfuri",
+      "latitudine": 45.086137,
+      "longitudine": 25.503437,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 213,
+      "nume": "Centrul Cultural Zagon",
+      "latitudine": 45.768112,
+      "longitudine": 26.110598,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 214,
+      "nume": "Centrul cultural Árkos",
+      "latitudine": 45.865688,
+      "longitudine": 25.790722,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 215,
+      "nume": "Centrul Cultural Învățător Valer But",
+      "latitudine": 46.955041,
+      "longitudine": 22.756877,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 216,
+      "nume": "Centrul cultural şi educaţional Kuncz",
+      "latitudine": 45.745282,
+      "longitudine": 21.263527,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 217,
+      "nume": "Centrul Cultural Școala Veche",
+      "latitudine": 44.446943,
+      "longitudine": 25.757044,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 218,
+      "nume": "Centrul de Cultură Europeană",
+      "latitudine": 45.187333,
+      "longitudine": 26.038363,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 219,
+      "nume": "Centrul de Ecologie Montană",
+      "latitudine": 45.441442,
+      "longitudine": 25.333383,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 220,
+      "nume": "Centrul de Formare Continuă - Învățământ la Distanță și Frecvență Redusă",
+      "latitudine": 46.768841,
+      "longitudine": 23.594533,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 221,
+      "nume": "Centrul de Instruire pentru Operații Speciale",
+      "latitudine": 45.149798,
+      "longitudine": 26.785794,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 222,
+      "nume": "Centrul de Recreere și Dezvoltare Personală \"Conacul Golescu Grant\"",
+      "latitudine": 44.449587,
+      "longitudine": 26.053829,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 223,
+      "nume": "Centrul de tineret",
+      "latitudine": 43.745511,
+      "longitudine": 24.869734,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 224,
+      "nume": "Centrul de tineret Aradului",
+      "latitudine": 45.77228,
+      "longitudine": 21.219277,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 225,
+      "nume": "Centrul de tineret Circumvaluțiunii",
+      "latitudine": 45.759003,
+      "longitudine": 21.215063,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 226,
+      "nume": "Centrul de tineret Dacia",
+      "latitudine": 45.766093,
+      "longitudine": 21.220525,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 227,
+      "nume": "Centrul de tineret Dâmbovița",
+      "latitudine": 45.734038,
+      "longitudine": 21.204563,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 228,
+      "nume": "Centrul de tineret Lipovei",
+      "latitudine": 45.777928,
+      "longitudine": 21.236846,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 229,
+      "nume": "Centrul de tineret Martirilor",
+      "latitudine": 45.732477,
+      "longitudine": 21.239165,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 230,
+      "nume": "Centrul de tineret Șagului",
+      "latitudine": 45.729384,
+      "longitudine": 21.207508,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 231,
+      "nume": "Centrul de Voluntariat Cluj-Napoca",
+      "latitudine": 46.77083,
+      "longitudine": 23.587461,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 232,
+      "nume": "Centrul de zi Șansa mea",
+      "latitudine": 47.74416,
+      "longitudine": 26.678949,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 233,
+      "nume": "Centrul Diecezan Caritas",
+      "latitudine": 47.175759,
+      "longitudine": 27.58084,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 234,
+      "nume": "Centrul intermodal de transport în comun",
+      "latitudine": 45.137954,
+      "longitudine": 26.799218,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 235,
+      "nume": "Centrul Multifunctional Sofia",
+      "latitudine": 45.178124,
+      "longitudine": 28.788013,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 236,
+      "nume": "Centrul multifuncțional Cicoarei",
+      "latitudine": 47.159415,
+      "longitudine": 27.55937,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 237,
+      "nume": "Centrul Multifuncțional Educativ pentru Tineret „Jean Constantin”",
+      "latitudine": 44.175652,
+      "longitudine": 28.644881,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 238,
+      "nume": "Centrul Multifuncțional Educațional și Cultural Brănești",
+      "latitudine": 44.461388,
+      "longitudine": 26.32954,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 239,
+      "nume": "Centrul pentru Pensionari",
+      "latitudine": 44.943739,
+      "longitudine": 25.997836,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 240,
+      "nume": "Centrul pentru Tineret",
+      "latitudine": 46.770296,
+      "longitudine": 23.590911,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 241,
+      "nume": "Centrul Recreativ Lipova",
+      "latitudine": 46.093659,
+      "longitudine": 21.695907,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 242,
+      "nume": "Centrul Reformat Noul Mileniu",
+      "latitudine": 45.759582,
+      "longitudine": 21.257867,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 243,
+      "nume": "Centrul rezidential pentru mame si copii aflati in dificultate",
+      "latitudine": 47.176136,
+      "longitudine": 27.579031,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 244,
+      "nume": "Centrul Rus de Știință și Cultură din București",
+      "latitudine": 44.450846,
+      "longitudine": 26.089616,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 245,
+      "nume": "Centrul Social Cultural Sf. Paisie de la Neamț",
+      "latitudine": 47.262295,
+      "longitudine": 26.210683,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 246,
+      "nume": "Centrul social cultural Sfântul Ierarh Calinic de la Cernica",
+      "latitudine": 44.431569,
+      "longitudine": 26.256056,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 247,
+      "nume": "Centrul Spectre",
+      "latitudine": 44.438552,
+      "longitudine": 26.112804,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 248,
+      "nume": "Centrul Tinerilor Naturaliști din Leova",
+      "latitudine": 46.473411,
+      "longitudine": 28.246494,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 249,
+      "nume": "Cercul Militar Turda",
+      "latitudine": 46.568691,
+      "longitudine": 23.782339,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 250,
+      "nume": "Cladire Atena",
+      "latitudine": 45.426058,
+      "longitudine": 28.046672,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 251,
+      "nume": "Cladire Multifunctionala",
+      "latitudine": 44.820689,
+      "longitudine": 26.409073,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 252,
+      "nume": "Club copiilor Turda",
+      "latitudine": 46.568152,
+      "longitudine": 23.781654,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 253,
+      "nume": "Club Nautic",
+      "latitudine": 43.807276,
+      "longitudine": 28.581948,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 254,
+      "nume": "Club Norișor",
+      "latitudine": 45.701346,
+      "longitudine": 21.236954,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 255,
+      "nume": "Club Sportiv Scolar Tulcea",
+      "latitudine": 45.178426,
+      "longitudine": 28.786674,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 256,
+      "nume": "Clubul Copiilor",
+      "latitudine": 46.544771,
+      "longitudine": 23.888762,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 257,
+      "nume": "Clubul Copiilor",
+      "latitudine": 46.8655,
+      "longitudine": 23.025423,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 258,
+      "nume": "Clubul Copiilor",
+      "latitudine": 47.178664,
+      "longitudine": 24.180439,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 259,
+      "nume": "Clubul Copiilor Calafat",
+      "latitudine": 43.995478,
+      "longitudine": 22.930424,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 260,
+      "nume": "Clubul copiilor Horezu",
+      "latitudine": 45.146073,
+      "longitudine": 23.991553,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 261,
+      "nume": "Clubul Copiilor Sector 5",
+      "latitudine": 44.411289,
+      "longitudine": 26.078933,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 262,
+      "nume": "Clubul copiilor și elevilor Motru",
+      "latitudine": 44.803681,
+      "longitudine": 22.970305,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 263,
+      "nume": "Clubul cu Lipici",
+      "latitudine": 46.205584,
+      "longitudine": 27.380908,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 264,
+      "nume": "Clubul elevilor",
+      "latitudine": 46.232291,
+      "longitudine": 27.66833,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 265,
+      "nume": "Clubul elevilor Zimnicea",
+      "latitudine": 43.655413,
+      "longitudine": 25.367175,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 266,
+      "nume": "Clubul Pensionarilor",
+      "latitudine": 44.143797,
+      "longitudine": 28.623349,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 267,
+      "nume": "Clubul Pensionarilor",
+      "latitudine": 44.413944,
+      "longitudine": 27.822999,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 268,
+      "nume": "Clubul Pensionarilor - Cartier Zorilor",
+      "latitudine": 46.754908,
+      "longitudine": 23.577406,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 269,
+      "nume": "Clubul pensionarilor Alexandru cel Bun",
+      "latitudine": 47.162146,
+      "longitudine": 27.564196,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 270,
+      "nume": "Clubul pensionarilor cartier Mărăști",
+      "latitudine": 46.77932,
+      "longitudine": 23.617381,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 271,
+      "nume": "Clubul Seniorilor",
+      "latitudine": 44.835049,
+      "longitudine": 24.905031,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 272,
+      "nume": "Clubul vârstei a treia",
+      "latitudine": 45.039678,
+      "longitudine": 23.279318,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 273,
+      "nume": "Community Centre Chiuieşti",
+      "latitudine": 47.294187,
+      "longitudine": 23.874531,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 274,
+      "nume": "Community centre Sumita",
+      "latitudine": 44.960344,
+      "longitudine": 22.187198,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 275,
+      "nume": "Complexul de Servicii pentru Copilul în Dificultate",
+      "latitudine": 45.283355,
+      "longitudine": 25.052581,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 276,
+      "nume": "Comunitatea elena Sulina",
+      "latitudine": 45.156318,
+      "longitudine": 29.657487,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 277,
+      "nume": "Comunitatea Rușilor-Lipoveni din Jurilovca",
+      "latitudine": 44.760205,
+      "longitudine": 28.875514,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 278,
+      "nume": "Consiliul Local Ilovița",
+      "latitudine": 44.751329,
+      "longitudine": 22.477688,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 279,
+      "nume": "Csatószegi Kulturotthon",
+      "latitudine": 46.242789,
+      "longitudine": 25.896143,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 280,
+      "nume": "Csutakfalvi Óvodaközpont és Közösségi Ház",
+      "latitudine": 46.797546,
+      "longitudine": 25.424093,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 281,
+      "nume": "Câminul Cultural Criștelec",
+      "latitudine": 47.264661,
+      "longitudine": 22.724116,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 282,
+      "nume": "Câminul Cultural Orlat",
+      "latitudine": 45.754798,
+      "longitudine": 23.967332,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 283,
+      "nume": "Cămin",
+      "latitudine": 47.046015,
+      "longitudine": 26.836962,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 284,
+      "nume": "Cămin",
+      "latitudine": 47.046074,
+      "longitudine": 26.830561,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 285,
+      "nume": "Cămin Cultural",
+      "latitudine": 44.11175,
+      "longitudine": 28.554009,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 286,
+      "nume": "Cămin Cultural",
+      "latitudine": 44.168171,
+      "longitudine": 26.857074,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 287,
+      "nume": "Cămin Cultural",
+      "latitudine": 44.190655,
+      "longitudine": 25.775507,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 288,
+      "nume": "Cămin Cultural",
+      "latitudine": 44.473524,
+      "longitudine": 23.955627,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 289,
+      "nume": "Cămin Cultural",
+      "latitudine": 44.618489,
+      "longitudine": 27.581356,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 290,
+      "nume": "Cămin Cultural",
+      "latitudine": 45.007129,
+      "longitudine": 28.144557,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 291,
+      "nume": "Cămin cultural",
+      "latitudine": 45.106964,
+      "longitudine": 24.197963,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 292,
+      "nume": "Cămin Cultural",
+      "latitudine": 45.111647,
+      "longitudine": 27.373448,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 293,
+      "nume": "Cămin Cultural",
+      "latitudine": 45.121735,
+      "longitudine": 23.998207,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 294,
+      "nume": "Cămin Cultural",
+      "latitudine": 45.18212,
+      "longitudine": 27.232361,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 295,
+      "nume": "Cămin Cultural",
+      "latitudine": 45.18327,
+      "longitudine": 27.154609,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 296,
+      "nume": "Cămin Cultural",
+      "latitudine": 45.191591,
+      "longitudine": 27.208175,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 297,
+      "nume": "Cămin Cultural",
+      "latitudine": 45.269936,
+      "longitudine": 26.015628,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 298,
+      "nume": "Cămin cultural",
+      "latitudine": 45.297438,
+      "longitudine": 21.649061,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 299,
+      "nume": "Cămin Cultural",
+      "latitudine": 45.302875,
+      "longitudine": 27.28383,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 300,
+      "nume": "Cămin Cultural",
+      "latitudine": 45.336132,
+      "longitudine": 26.359739,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 301,
+      "nume": "Cămin cultural",
+      "latitudine": 45.423505,
+      "longitudine": 29.28635,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 302,
+      "nume": "Cămin Cultural",
+      "latitudine": 45.450814,
+      "longitudine": 24.296877,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 303,
+      "nume": "Cămin Cultural",
+      "latitudine": 45.495607,
+      "longitudine": 24.309886,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 304,
+      "nume": "Cămin Cultural",
+      "latitudine": 45.614411,
+      "longitudine": 27.203921,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 305,
+      "nume": "Cămin Cultural",
+      "latitudine": 45.739403,
+      "longitudine": 24.999751,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 306,
+      "nume": "Cămin Cultural",
+      "latitudine": 45.752971,
+      "longitudine": 25.012324,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 307,
+      "nume": "Cămin Cultural",
+      "latitudine": 45.903257,
+      "longitudine": 23.62127,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 308,
+      "nume": "Cămin cultural",
+      "latitudine": 45.928265,
+      "longitudine": 24.93009,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 309,
+      "nume": "Cămin Cultural",
+      "latitudine": 46.031562,
+      "longitudine": 24.55522,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 310,
+      "nume": "Cămin Cultural",
+      "latitudine": 46.069548,
+      "longitudine": 22.666762,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 311,
+      "nume": "Cămin Cultural",
+      "latitudine": 46.125084,
+      "longitudine": 24.041734,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 312,
+      "nume": "Cămin cultural",
+      "latitudine": 46.273011,
+      "longitudine": 23.722472,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 313,
+      "nume": "Cămin Cultural",
+      "latitudine": 46.341005,
+      "longitudine": 23.904738,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 314,
+      "nume": "Cămin Cultural",
+      "latitudine": 46.48401,
+      "longitudine": 23.853282,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 315,
+      "nume": "Cămin Cultural",
+      "latitudine": 46.51612,
+      "longitudine": 25.038115,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 316,
+      "nume": "Cămin Cultural",
+      "latitudine": 46.655021,
+      "longitudine": 24.392454,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 317,
+      "nume": "Cămin Cultural",
+      "latitudine": 46.778363,
+      "longitudine": 24.770621,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 318,
+      "nume": "Cămin Cultural",
+      "latitudine": 46.795516,
+      "longitudine": 23.51934,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 319,
+      "nume": "Cămin Cultural",
+      "latitudine": 46.847648,
+      "longitudine": 23.505969,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 320,
+      "nume": "Cămin cultural",
+      "latitudine": 47.000656,
+      "longitudine": 24.608529,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 321,
+      "nume": "Cămin Cultural",
+      "latitudine": 47.188157,
+      "longitudine": 23.994313,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 322,
+      "nume": "Cămin Cultural",
+      "latitudine": 47.215882,
+      "longitudine": 26.312622,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 323,
+      "nume": "Cămin Cultural",
+      "latitudine": 47.598876,
+      "longitudine": 27.143503,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 324,
+      "nume": "Cămin cultural \"Nicolae Bondoi\"",
+      "latitudine": 46.682056,
+      "longitudine": 23.735984,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 325,
+      "nume": "Cămin Cultural Bădeni",
+      "latitudine": 45.238702,
+      "longitudine": 25.179201,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 326,
+      "nume": "Cămin Cultural Băndoiu",
+      "latitudine": 44.866685,
+      "longitudine": 27.939753,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 327,
+      "nume": "Cămin Cultural Cetea",
+      "latitudine": 46.234564,
+      "longitudine": 23.583125,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 328,
+      "nume": "Cămin Cultural Chilieni",
+      "latitudine": 45.836839,
+      "longitudine": 25.800897,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 329,
+      "nume": "Cămin Cultural Cireșanu",
+      "latitudine": 44.98022,
+      "longitudine": 26.511509,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 330,
+      "nume": "Cămin Cultural Com. Slobozia Ciorăști",
+      "latitudine": 45.614403,
+      "longitudine": 27.204046,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 331,
+      "nume": "Cămin Cultural Dobra",
+      "latitudine": 45.913635,
+      "longitudine": 22.570014,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 332,
+      "nume": "Cămin Cultural Galbenu",
+      "latitudine": 45.211293,
+      "longitudine": 27.154518,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 333,
+      "nume": "Cămin cultural Mila 23",
+      "latitudine": 45.228699,
+      "longitudine": 29.246077,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 334,
+      "nume": "Cămin Cultural Moșoaia",
+      "latitudine": 44.829921,
+      "longitudine": 24.769105,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 335,
+      "nume": "Cămin Cultural Muereasca de Sus",
+      "latitudine": 45.20106,
+      "longitudine": 24.294523,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 336,
+      "nume": "Cămin Cultural Nădășelu",
+      "latitudine": 46.826297,
+      "longitudine": 23.415504,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 337,
+      "nume": "Cămin Cultural Orlești",
+      "latitudine": 44.792844,
+      "longitudine": 24.230106,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 338,
+      "nume": "Cămin cultural Otelec",
+      "latitudine": 45.616407,
+      "longitudine": 20.850452,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 339,
+      "nume": "Cămin Cultural Oțeni",
+      "latitudine": 46.259382,
+      "longitudine": 25.253479,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 340,
+      "nume": "Cămin Cultural Pomi",
+      "latitudine": 47.698597,
+      "longitudine": 23.305403,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 341,
+      "nume": "Cămin Cultural Pălatca",
+      "latitudine": 46.840146,
+      "longitudine": 23.986282,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 342,
+      "nume": "Cămin Cultural Siminoc",
+      "latitudine": 44.169945,
+      "longitudine": 28.353148,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 343,
+      "nume": "Cămin Cultural Veștem",
+      "latitudine": 45.717012,
+      "longitudine": 24.237807,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 344,
+      "nume": "Cămin Cultural și Grădiniță",
+      "latitudine": 44.925081,
+      "longitudine": 24.275351,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 345,
+      "nume": "Căminul Cultural",
+      "latitudine": 43.759323,
+      "longitudine": 25.515911,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 346,
+      "nume": "Căminul Cultural",
+      "latitudine": 43.792435,
+      "longitudine": 25.141089,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 347,
+      "nume": "Căminul Cultural",
+      "latitudine": 43.944053,
+      "longitudine": 22.896155,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 348,
+      "nume": "Căminul Cultural",
+      "latitudine": 44.209644,
+      "longitudine": 22.775657,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 349,
+      "nume": "Căminul cultural",
+      "latitudine": 44.633412,
+      "longitudine": 24.254456,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 350,
+      "nume": "Căminul Cultural",
+      "latitudine": 44.744022,
+      "longitudine": 27.858177,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 351,
+      "nume": "Căminul cultural",
+      "latitudine": 44.9444,
+      "longitudine": 28.85394,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 352,
+      "nume": "Căminul Cultural",
+      "latitudine": 44.962149,
+      "longitudine": 24.620755,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 353,
+      "nume": "Căminul cultural",
+      "latitudine": 45.136621,
+      "longitudine": 24.249045,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 354,
+      "nume": "Căminul Cultural",
+      "latitudine": 45.211458,
+      "longitudine": 25.43631,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 355,
+      "nume": "Căminul Cultural",
+      "latitudine": 45.329372,
+      "longitudine": 27.618204,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 356,
+      "nume": "Căminul cultural",
+      "latitudine": 45.341581,
+      "longitudine": 21.776345,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 357,
+      "nume": "Căminul Cultural",
+      "latitudine": 45.506262,
+      "longitudine": 25.275617,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 358,
+      "nume": "Căminul Cultural",
+      "latitudine": 45.521098,
+      "longitudine": 21.660495,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 359,
+      "nume": "Căminul Cultural",
+      "latitudine": 45.651226,
+      "longitudine": 21.164362,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 360,
+      "nume": "Căminul Cultural",
+      "latitudine": 45.671925,
+      "longitudine": 24.182036,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 361,
+      "nume": "Căminul Cultural",
+      "latitudine": 45.680594,
+      "longitudine": 24.342408,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 362,
+      "nume": "Căminul Cultural",
+      "latitudine": 45.705011,
+      "longitudine": 24.069647,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 363,
+      "nume": "Căminul Cultural",
+      "latitudine": 45.755657,
+      "longitudine": 23.926639,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 364,
+      "nume": "Căminul cultural",
+      "latitudine": 45.760699,
+      "longitudine": 24.389753,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 365,
+      "nume": "Căminul cultural",
+      "latitudine": 45.770269,
+      "longitudine": 21.302313,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 366,
+      "nume": "Căminul Cultural",
+      "latitudine": 45.773795,
+      "longitudine": 23.631145,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 367,
+      "nume": "Căminul Cultural",
+      "latitudine": 45.803089,
+      "longitudine": 23.00712,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 368,
+      "nume": "Căminul Cultural",
+      "latitudine": 45.87802,
+      "longitudine": 23.575226,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 369,
+      "nume": "Căminul Cultural",
+      "latitudine": 45.879629,
+      "longitudine": 23.847395,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 370,
+      "nume": "Căminul Cultural",
+      "latitudine": 45.887869,
+      "longitudine": 23.794953,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 371,
+      "nume": "Căminul Cultural",
+      "latitudine": 45.889135,
+      "longitudine": 20.62682,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 372,
+      "nume": "Căminul Cultural",
+      "latitudine": 45.946542,
+      "longitudine": 25.052192,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 373,
+      "nume": "Căminul cultural",
+      "latitudine": 45.955368,
+      "longitudine": 25.853968,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 374,
+      "nume": "Căminul cultural",
+      "latitudine": 46.045715,
+      "longitudine": 20.819066,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 375,
+      "nume": "Căminul Cultural",
+      "latitudine": 46.096863,
+      "longitudine": 24.479633,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 376,
+      "nume": "Căminul Cultural",
+      "latitudine": 46.131064,
+      "longitudine": 20.299709,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 377,
+      "nume": "Căminul Cultural",
+      "latitudine": 46.213757,
+      "longitudine": 24.480234,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 378,
+      "nume": "Căminul Cultural",
+      "latitudine": 46.247939,
+      "longitudine": 24.168247,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 379,
+      "nume": "Căminul Cultural",
+      "latitudine": 46.305839,
+      "longitudine": 23.130469,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 380,
+      "nume": "Căminul cultural",
+      "latitudine": 46.481993,
+      "longitudine": 26.91659,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 381,
+      "nume": "Căminul cultural",
+      "latitudine": 46.621907,
+      "longitudine": 23.69964,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 382,
+      "nume": "Căminul Cultural",
+      "latitudine": 46.698677,
+      "longitudine": 23.912683,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 383,
+      "nume": "Căminul cultural",
+      "latitudine": 46.710861,
+      "longitudine": 23.695408,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 384,
+      "nume": "Căminul Cultural",
+      "latitudine": 46.727262,
+      "longitudine": 24.411164,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 385,
+      "nume": "Căminul Cultural",
+      "latitudine": 46.781723,
+      "longitudine": 23.083402,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 386,
+      "nume": "Căminul Cultural",
+      "latitudine": 46.784841,
+      "longitudine": 23.46834,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 387,
+      "nume": "Căminul cultural",
+      "latitudine": 46.794865,
+      "longitudine": 23.131073,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 388,
+      "nume": "Căminul Cultural",
+      "latitudine": 46.819244,
+      "longitudine": 23.039393,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 389,
+      "nume": "Căminul Cultural",
+      "latitudine": 46.828582,
+      "longitudine": 21.677819,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 390,
+      "nume": "Căminul Cultural",
+      "latitudine": 46.829799,
+      "longitudine": 22.988379,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 391,
+      "nume": "Căminul Cultural",
+      "latitudine": 46.83043,
+      "longitudine": 22.985466,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 392,
+      "nume": "Căminul Cultural",
+      "latitudine": 46.831022,
+      "longitudine": 23.023256,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 393,
+      "nume": "Căminul cultural",
+      "latitudine": 46.837776,
+      "longitudine": 23.105007,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 394,
+      "nume": "Căminul Cultural",
+      "latitudine": 46.845412,
+      "longitudine": 22.655354,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 395,
+      "nume": "Căminul cultural",
+      "latitudine": 46.848238,
+      "longitudine": 23.247155,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 396,
+      "nume": "Căminul cultural",
+      "latitudine": 46.890713,
+      "longitudine": 22.471793,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 397,
+      "nume": "Căminul Cultural",
+      "latitudine": 46.912574,
+      "longitudine": 22.676276,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 398,
+      "nume": "Căminul cultural",
+      "latitudine": 46.941082,
+      "longitudine": 22.441733,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 399,
+      "nume": "Căminul cultural",
+      "latitudine": 46.94671,
+      "longitudine": 22.533603,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 400,
+      "nume": "Căminul cultural",
+      "latitudine": 46.964399,
+      "longitudine": 25.560682,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 401,
+      "nume": "Căminul Cultural",
+      "latitudine": 46.968391,
+      "longitudine": 23.675646,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 402,
+      "nume": "Căminul Cultural",
+      "latitudine": 47.141778,
+      "longitudine": 27.528485,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 403,
+      "nume": "Căminul Cultural",
+      "latitudine": 47.206652,
+      "longitudine": 22.914278,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 404,
+      "nume": "Căminul Cultural",
+      "latitudine": 47.565533,
+      "longitudine": 25.689179,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 405,
+      "nume": "Căminul Cultural \"Ion Saragea\"",
+      "latitudine": 45.793917,
+      "longitudine": 27.061147,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 406,
+      "nume": "Căminul Cultural Adunați",
+      "latitudine": 45.183483,
+      "longitudine": 25.598241,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 407,
+      "nume": "Căminul Cultural al Comunei Desa",
+      "latitudine": 43.872211,
+      "longitudine": 23.027007,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 408,
+      "nume": "Căminul Cultural Albina",
+      "latitudine": 45.714737,
+      "longitudine": 21.372947,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 409,
+      "nume": "Căminul Cultural Almașu Mare",
+      "latitudine": 46.089951,
+      "longitudine": 23.13126,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 410,
+      "nume": "Căminul Cultural Alămor",
+      "latitudine": 45.929003,
+      "longitudine": 23.992476,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 411,
+      "nume": "Căminul Cultural Alțâna",
+      "latitudine": 45.927418,
+      "longitudine": 24.46139,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 412,
+      "nume": "Căminul Cultural Anghel Saligny",
+      "latitudine": 45.139531,
+      "longitudine": 25.788681,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 413,
+      "nume": "Căminul Cultural Apahida",
+      "latitudine": 46.803872,
+      "longitudine": 23.753384,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 414,
+      "nume": "Căminul Cultural Apostolache",
+      "latitudine": 45.129012,
+      "longitudine": 26.260245,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 415,
+      "nume": "Căminul Cultural Arieșeni",
+      "latitudine": 46.476624,
+      "longitudine": 22.755308,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 416,
+      "nume": "Căminul Cultural Armeni",
+      "latitudine": 45.968429,
+      "longitudine": 23.974726,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 417,
+      "nume": "Căminul Cultural Bahnea",
+      "latitudine": 46.376397,
+      "longitudine": 24.481561,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 418,
+      "nume": "Căminul Cultural Baia de Fier",
+      "latitudine": 45.171744,
+      "longitudine": 23.763049,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 419,
+      "nume": "Căminul Cultural Balomiru de Câmp",
+      "latitudine": 45.942276,
+      "longitudine": 23.357546,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 420,
+      "nume": "Căminul Cultural Batoni János",
+      "latitudine": 46.438032,
+      "longitudine": 24.377377,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 421,
+      "nume": "Căminul Cultural Berghin",
+      "latitudine": 46.073477,
+      "longitudine": 23.739333,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 422,
+      "nume": "Căminul Cultural Biled",
+      "latitudine": 45.887237,
+      "longitudine": 20.959444,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 423,
+      "nume": "Căminul cultural Bobda",
+      "latitudine": 45.734144,
+      "longitudine": 20.94347,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 424,
+      "nume": "Căminul Cultural Bodești",
+      "latitudine": 45.141413,
+      "longitudine": 24.114283,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 425,
+      "nume": "Căminul Cultural Bogata Olteană",
+      "latitudine": 45.979907,
+      "longitudine": 25.357044,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 426,
+      "nume": "Căminul Cultural Boița",
+      "latitudine": 45.633258,
+      "longitudine": 24.258463,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 427,
+      "nume": "Căminul Cultural Bonțida",
+      "latitudine": 46.911132,
+      "longitudine": 23.812774,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 428,
+      "nume": "Căminul Cultural Boroaia",
+      "latitudine": 47.348634,
+      "longitudine": 26.335818,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 429,
+      "nume": "Căminul Cultural Borșa",
+      "latitudine": 46.934546,
+      "longitudine": 23.663387,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 430,
+      "nume": "Căminul Cultural Boz",
+      "latitudine": 45.947204,
+      "longitudine": 23.801611,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 431,
+      "nume": "Căminul Cultural Bratca",
+      "latitudine": 46.927557,
+      "longitudine": 22.599754,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 432,
+      "nume": "Căminul Cultural Brazi",
+      "latitudine": 44.84981,
+      "longitudine": 26.023482,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 433,
+      "nume": "Căminul cultural Breb",
+      "latitudine": 47.746566,
+      "longitudine": 23.903245,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 434,
+      "nume": "Căminul Cultural Brusturi",
+      "latitudine": 47.274972,
+      "longitudine": 26.384772,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 435,
+      "nume": "Căminul Cultural Brădești",
+      "latitudine": 46.337893,
+      "longitudine": 25.341737,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 436,
+      "nume": "Căminul Cultural Bucerdea Grânoasă",
+      "latitudine": 46.189591,
+      "longitudine": 23.841968,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 437,
+      "nume": "Căminul Cultural Bucium",
+      "latitudine": 45.740809,
+      "longitudine": 25.096145,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 438,
+      "nume": "Căminul Cultural Buleta",
+      "latitudine": 45.039423,
+      "longitudine": 24.252621,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 439,
+      "nume": "Căminul Cultural Buzad",
+      "latitudine": 45.942196,
+      "longitudine": 21.547186,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 440,
+      "nume": "Căminul Cultural Buzoești",
+      "latitudine": 44.582726,
+      "longitudine": 24.912327,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 441,
+      "nume": "Căminul Cultural Băcăinți",
+      "latitudine": 45.94132,
+      "longitudine": 23.282813,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 442,
+      "nume": "Căminul Cultural Bălțătești",
+      "latitudine": 47.121,
+      "longitudine": 26.310047,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 443,
+      "nume": "Căminul Cultural Carașova",
+      "latitudine": 45.203119,
+      "longitudine": 21.864012,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 444,
+      "nume": "Căminul Cultural Cepari",
+      "latitudine": 45.207751,
+      "longitudine": 24.551765,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 445,
+      "nume": "Căminul Cultural Cheia",
+      "latitudine": 45.182175,
+      "longitudine": 24.216496,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 446,
+      "nume": "Căminul Cultural Cherestur",
+      "latitudine": 46.126033,
+      "longitudine": 20.381154,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 447,
+      "nume": "Căminul Cultural Chinteni",
+      "latitudine": 46.859797,
+      "longitudine": 23.541199,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 448,
+      "nume": "Căminul Cultural Chirpăr",
+      "latitudine": 45.894063,
+      "longitudine": 24.596225,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 449,
+      "nume": "Căminul Cultural Colești",
+      "latitudine": 46.478826,
+      "longitudine": 22.424388,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 450,
+      "nume": "Căminul cultural Comuna Afumați Sat. Boureni",
+      "latitudine": 44.017294,
+      "longitudine": 23.430283,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 451,
+      "nume": "Căminul Cultural Corunca",
+      "latitudine": 46.52088,
+      "longitudine": 24.617948,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 452,
+      "nume": "Căminul cultural Coșteiu",
+      "latitudine": 45.73797,
+      "longitudine": 21.851796,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 453,
+      "nume": "Căminul Cultural Cristești",
+      "latitudine": 46.741056,
+      "longitudine": 23.119659,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 454,
+      "nume": "Căminul Cultural Daia Română",
+      "latitudine": 46.004906,
+      "longitudine": 23.667138,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 455,
+      "nume": "Căminul Cultural din Cămin",
+      "latitudine": 47.727366,
+      "longitudine": 22.476796,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 456,
+      "nume": "Căminul Cultural Dobriceni",
+      "latitudine": 45.160476,
+      "longitudine": 24.139996,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 457,
+      "nume": "Căminul Cultural Doștat",
+      "latitudine": 45.971517,
+      "longitudine": 23.836398,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 458,
+      "nume": "Căminul Cultural Drăgoiești",
+      "latitudine": 47.54981,
+      "longitudine": 26.079809,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 459,
+      "nume": "Căminul Cultural Dârlos",
+      "latitudine": 46.187147,
+      "longitudine": 24.407767,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 460,
+      "nume": "Căminul cultural Dăneasa",
+      "latitudine": 44.137432,
+      "longitudine": 24.564951,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 461,
+      "nume": "Căminul Cultural Feleacu",
+      "latitudine": 46.715193,
+      "longitudine": 23.615367,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 462,
+      "nume": "Căminul cultural Fiscut",
+      "latitudine": 46.028008,
+      "longitudine": 21.393646,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 463,
+      "nume": "Căminul Cultural Gabor Janos",
+      "latitudine": 45.986866,
+      "longitudine": 26.255692,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 464,
+      "nume": "Căminul Cultural Garvăn",
+      "latitudine": 45.340827,
+      "longitudine": 28.170082,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 465,
+      "nume": "Căminul Cultural Gerăușa",
+      "latitudine": 47.609219,
+      "longitudine": 22.936619,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 466,
+      "nume": "Căminul Cultural Gherăseni",
+      "latitudine": 45.025774,
+      "longitudine": 26.788565,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 467,
+      "nume": "Căminul cultural Giarmata",
+      "latitudine": 45.836887,
+      "longitudine": 21.311706,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 468,
+      "nume": "Căminul Cultural Giubega",
+      "latitudine": 44.123576,
+      "longitudine": 23.409968,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 469,
+      "nume": "Căminul Cultural Gropeni",
+      "latitudine": 45.074839,
+      "longitudine": 27.881373,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 470,
+      "nume": "Căminul Cultural Gușoianca",
+      "latitudine": 44.747213,
+      "longitudine": 24.110505,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 471,
+      "nume": "Căminul Cultural Gábor Áron",
+      "latitudine": 46.085768,
+      "longitudine": 26.184454,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 472,
+      "nume": "Căminul cultural Gădălin",
+      "latitudine": 46.841041,
+      "longitudine": 23.846855,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 473,
+      "nume": "Căminul Cultural Hașag",
+      "latitudine": 45.978159,
+      "longitudine": 24.076128,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 474,
+      "nume": "Căminul Cultural Hărău",
+      "latitudine": 45.90074,
+      "longitudine": 22.955557,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 475,
+      "nume": "Căminul Cultural Ilovița",
+      "latitudine": 44.75288,
+      "longitudine": 22.476781,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 476,
+      "nume": "Căminul Cultural Ilteu",
+      "latitudine": 46.015204,
+      "longitudine": 22.359875,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 477,
+      "nume": "Căminul Cultural Ionești",
+      "latitudine": 44.611441,
+      "longitudine": 24.907322,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 478,
+      "nume": "Căminul Cultural Jupa",
+      "latitudine": 45.457751,
+      "longitudine": 22.186444,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 479,
+      "nume": "Căminul cultural Kós Károly",
+      "latitudine": 46.830472,
+      "longitudine": 23.291729,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 480,
+      "nume": "Căminul Cultural Lacurile",
+      "latitudine": 45.084029,
+      "longitudine": 24.537941,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 481,
+      "nume": "Căminul Cultural Liebling",
+      "latitudine": 45.580517,
+      "longitudine": 21.32218,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 482,
+      "nume": "Căminul Cultural Lunga",
+      "latitudine": 45.887859,
+      "longitudine": 20.603722,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 483,
+      "nume": "Căminul Cultural Lupșa",
+      "latitudine": 46.367912,
+      "longitudine": 23.20649,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 484,
+      "nume": "Căminul Cultural Lădești",
+      "latitudine": 44.877337,
+      "longitudine": 24.043744,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 485,
+      "nume": "Căminul Cultural Lăureni",
+      "latitudine": 46.540484,
+      "longitudine": 24.730079,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 486,
+      "nume": "Căminul Cultural Malovăț",
+      "latitudine": 44.703336,
+      "longitudine": 22.731304,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 487,
+      "nume": "Căminul Cultural Moșna",
+      "latitudine": 46.091209,
+      "longitudine": 24.399331,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 488,
+      "nume": "Căminul Cultural Mușca",
+      "latitudine": 46.357917,
+      "longitudine": 23.17281,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 489,
+      "nume": "Căminul Cultural Măgura",
+      "latitudine": 45.007774,
+      "longitudine": 24.242544,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 490,
+      "nume": "Căminul Cultural Măgura",
+      "latitudine": 45.522919,
+      "longitudine": 25.300047,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 491,
+      "nume": "Căminul Cultural Mărășești",
+      "latitudine": 45.020843,
+      "longitudine": 22.773348,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 492,
+      "nume": "Căminul Cultural Nișcov",
+      "latitudine": 45.2174,
+      "longitudine": 26.694558,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 493,
+      "nume": "Căminul Cultural Noșlac",
+      "latitudine": 46.405474,
+      "longitudine": 23.933044,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 494,
+      "nume": "Căminul Cultural nr.1 Câineni",
+      "latitudine": 45.49955,
+      "longitudine": 24.298367,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 495,
+      "nume": "Căminul Cultural Nucșoara",
+      "latitudine": 45.280945,
+      "longitudine": 26.113129,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 496,
+      "nume": "Căminul Cultural Oțeleni",
+      "latitudine": 46.542066,
+      "longitudine": 27.984585,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 497,
+      "nume": "Căminul Cultural Paleu",
+      "latitudine": 47.114524,
+      "longitudine": 21.958024,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 498,
+      "nume": "Căminul Cultural Pietrari",
+      "latitudine": 45.114416,
+      "longitudine": 24.110502,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 499,
+      "nume": "Căminul Cultural Pir",
+      "latitudine": 47.459494,
+      "longitudine": 22.371535,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 500,
+      "nume": "Căminul Cultural Piscul Vechi",
+      "latitudine": 43.900374,
+      "longitudine": 23.16312,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 501,
+      "nume": "Căminul Cultural Podeni",
+      "latitudine": 46.427267,
+      "longitudine": 23.642409,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 502,
+      "nume": "Căminul Cultural Podu Broșteni",
+      "latitudine": 44.742611,
+      "longitudine": 24.856284,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 503,
+      "nume": "Căminul Cultural Popești",
+      "latitudine": 44.979377,
+      "longitudine": 24.100838,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 504,
+      "nume": "Căminul Cultural Porumbenii Mari",
+      "latitudine": 46.274559,
+      "longitudine": 25.132646,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 505,
+      "nume": "Căminul Cultural Principele Mihaiu",
+      "latitudine": 45.641898,
+      "longitudine": 24.299067,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 506,
+      "nume": "Căminul cultural Părău",
+      "latitudine": 45.848602,
+      "longitudine": 25.191149,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 507,
+      "nume": "Căminul Cultural Păsăreni",
+      "latitudine": 46.491624,
+      "longitudine": 24.692606,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 508,
+      "nume": "Căminul Cultural Racovița",
+      "latitudine": 44.840075,
+      "longitudine": 25.618975,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 509,
+      "nume": "Căminul Cultural Rapoltu Mare (1995)",
+      "latitudine": 45.864838,
+      "longitudine": 23.077513,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 510,
+      "nume": "Căminul Cultural Roșia de Secaș",
+      "latitudine": 46.05739,
+      "longitudine": 23.884102,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 511,
+      "nume": "Căminul Cultural Răscruci",
+      "latitudine": 46.903347,
+      "longitudine": 23.774257,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 512,
+      "nume": "Căminul Cultural Sacoșu Turcesc",
+      "latitudine": 45.653708,
+      "longitudine": 21.426928,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 513,
+      "nume": "Căminul Cultural Secusigiu",
+      "latitudine": 46.085375,
+      "longitudine": 20.979568,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 514,
+      "nume": "Căminul Cultural Sibiel",
+      "latitudine": 45.76641,
+      "longitudine": 23.908606,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 515,
+      "nume": "Căminul Cultural Siculeni",
+      "latitudine": 46.436956,
+      "longitudine": 25.756813,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 516,
+      "nume": "Căminul Cultural Sinești",
+      "latitudine": 44.93645,
+      "longitudine": 23.840771,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 517,
+      "nume": "Căminul Cultural Stan Rizescu Brănești",
+      "latitudine": 45.043906,
+      "longitudine": 25.421837,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 518,
+      "nume": "Căminul cultural suatu",
+      "latitudine": 46.772101,
+      "longitudine": 23.968319,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 519,
+      "nume": "Căminul Cultural Surduc",
+      "latitudine": 47.255218,
+      "longitudine": 23.347251,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 520,
+      "nume": "Căminul cultural Svinița",
+      "latitudine": 44.497432,
+      "longitudine": 22.104064,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 521,
+      "nume": "Căminul Cultural Szabó Gyula",
+      "latitudine": 46.235669,
+      "longitudine": 25.45763,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 522,
+      "nume": "Căminul Cultural Sâncel",
+      "latitudine": 46.200195,
+      "longitudine": 23.944248,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 523,
+      "nume": "Căminul Cultural Sălciua de Jos",
+      "latitudine": 46.398438,
+      "longitudine": 23.417205,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 524,
+      "nume": "Căminul Cultural Sărmaș",
+      "latitudine": 46.885226,
+      "longitudine": 25.443635,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 525,
+      "nume": "Căminul Cultural Talpa",
+      "latitudine": 44.276472,
+      "longitudine": 25.31222,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 526,
+      "nume": "Căminul Cultural Tetoiu",
+      "latitudine": 44.791224,
+      "longitudine": 23.921313,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 527,
+      "nume": "Căminul Cultural Teșila",
+      "latitudine": 45.30087,
+      "longitudine": 25.720846,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 528,
+      "nume": "Căminul Cultural Tigveni",
+      "latitudine": 45.136613,
+      "longitudine": 24.559445,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 529,
+      "nume": "Căminul Cultural Torba",
+      "latitudine": 46.547555,
+      "longitudine": 24.88768,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 530,
+      "nume": "Căminul Cultural Trăisteni",
+      "latitudine": 45.332705,
+      "longitudine": 25.725334,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 531,
+      "nume": "Căminul Cultural Târnava",
+      "latitudine": 46.141117,
+      "longitudine": 24.293577,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 532,
+      "nume": "Căminul cultural Uliuc",
+      "latitudine": 45.677966,
+      "longitudine": 21.358488,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 533,
+      "nume": "Căminul Cultural Ungheni",
+      "latitudine": 46.483878,
+      "longitudine": 24.457107,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 534,
+      "nume": "Căminul Cultural Valea Florilor",
+      "latitudine": 46.66727,
+      "longitudine": 23.861373,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 535,
+      "nume": "Căminul Cultural Valu lui Traian",
+      "latitudine": 44.164352,
+      "longitudine": 28.480191,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 536,
+      "nume": "Căminul Cultural Vernești",
+      "latitudine": 45.205491,
+      "longitudine": 26.72572,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 537,
+      "nume": "Căminul cultural Vidra",
+      "latitudine": 46.367236,
+      "longitudine": 22.88323,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 538,
+      "nume": "Căminul Cultural Volovăț",
+      "latitudine": 47.806735,
+      "longitudine": 25.893338,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 539,
+      "nume": "Căminul cultural Șagu",
+      "latitudine": 46.062747,
+      "longitudine": 21.285336,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 540,
+      "nume": "Căminul Cultural Șerbănești",
+      "latitudine": 45.05847,
+      "longitudine": 24.148466,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 541,
+      "nume": "Căminul Cultural Șimișna",
+      "latitudine": 47.233159,
+      "longitudine": 23.6225,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 542,
+      "nume": "Căminul Cultural Șăulia",
+      "latitudine": 46.63742,
+      "longitudine": 24.220447,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 543,
+      "nume": "Căminul Cultural Țebea",
+      "latitudine": 46.16779,
+      "longitudine": 22.734883,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 544,
+      "nume": "Căminul Cultural „Basarab I” Perișani",
+      "latitudine": 45.371982,
+      "longitudine": 24.396784,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 545,
+      "nume": "Căminul Cultural „Ciprian Porumbescu”",
+      "latitudine": 46.078207,
+      "longitudine": 27.269208,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 546,
+      "nume": "Căminul Cultural „Preot Ioan Răuţescu”",
+      "latitudine": 45.348637,
+      "longitudine": 25.164645,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 547,
+      "nume": "Căminul cultural.",
+      "latitudine": 45.153539,
+      "longitudine": 26.028575,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 548,
+      "nume": "Cǎminul Cultural",
+      "latitudine": 47.645367,
+      "longitudine": 25.916574,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 549,
+      "nume": "DGASCP CĂLĂRAȘI",
+      "latitudine": 44.205159,
+      "longitudine": 27.320703,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 550,
+      "nume": "Dózsa György Művelődési Ház",
+      "latitudine": 46.179086,
+      "longitudine": 20.714318,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 551,
+      "nume": "Eleki Németek Közösségi Háza",
+      "latitudine": 46.529898,
+      "longitudine": 21.251568,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 552,
+      "nume": "Ermitaj Mălin",
+      "latitudine": 47.10512,
+      "longitudine": 24.145233,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 553,
+      "nume": "Evidenta Populatiei Galați",
+      "latitudine": 45.446808,
+      "longitudine": 28.054842,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 554,
+      "nume": "Ex-Charta",
+      "latitudine": 45.865703,
+      "longitudine": 25.784586,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 555,
+      "nume": "Faber",
+      "latitudine": 45.761377,
+      "longitudine": 21.251443,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 556,
+      "nume": "Faluház",
+      "latitudine": 47.04122,
+      "longitudine": 24.148971,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 557,
+      "nume": "Federația Caritas a Diecezei Timișoara",
+      "latitudine": 45.74105,
+      "longitudine": 21.233972,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 558,
+      "nume": "Frații lui Onisim",
+      "latitudine": 45.761811,
+      "longitudine": 21.260384,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 559,
+      "nume": "Fundatia Mihai Nesu",
+      "latitudine": 47.044403,
+      "longitudine": 21.94123,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 560,
+      "nume": "Fundația Casa Speranței",
+      "latitudine": 45.756195,
+      "longitudine": 21.20864,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 561,
+      "nume": "Fundația Compartir",
+      "latitudine": 44.915803,
+      "longitudine": 24.722651,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 562,
+      "nume": "Fundația Peren",
+      "latitudine": 44.343529,
+      "longitudine": 24.125707,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 563,
+      "nume": "Fundația Sancta Maria Hilfe",
+      "latitudine": 45.754003,
+      "longitudine": 21.221031,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 564,
+      "nume": "GARNIZOANA BUZĂU",
+      "latitudine": 45.148398,
+      "longitudine": 26.815428,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 565,
+      "nume": "Gyergyóalfalvi Plébánia",
+      "latitudine": 46.70108,
+      "longitudine": 25.503733,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 566,
+      "nume": "Hargita Keresztyén Tábor",
+      "latitudine": 46.321614,
+      "longitudine": 25.562744,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 567,
+      "nume": "HEI - House of European Institutes",
+      "latitudine": 45.748341,
+      "longitudine": 21.226274,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 568,
+      "nume": "Hittan terem (volt Plébánia)",
+      "latitudine": 46.700628,
+      "longitudine": 25.504349,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 569,
+      "nume": "Institutul Cultural Francez",
+      "latitudine": 47.176575,
+      "longitudine": 27.571434,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 570,
+      "nume": "Institutul Cultural Român",
+      "latitudine": 44.445833,
+      "longitudine": 26.095452,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 571,
+      "nume": "Institutul Cultural Român",
+      "latitudine": 44.459002,
+      "longitudine": 26.088087,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 572,
+      "nume": "Institutul „Eudoxiu Hurmuzachi”",
+      "latitudine": 44.442729,
+      "longitudine": 26.093812,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 573,
+      "nume": "Jurubita",
+      "latitudine": 44.169433,
+      "longitudine": 26.605751,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 574,
+      "nume": "József János tanoda és kultúrotthon",
+      "latitudine": 46.426191,
+      "longitudine": 25.14779,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 575,
+      "nume": "Kacsó András",
+      "latitudine": 46.525384,
+      "longitudine": 25.128509,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 576,
+      "nume": "Kalotavár",
+      "latitudine": 46.802145,
+      "longitudine": 23.400906,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 577,
+      "nume": "Kolozsvári Földészek Temetkezési Társulat székháza",
+      "latitudine": 46.790152,
+      "longitudine": 23.584863,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 578,
+      "nume": "Kultúrház",
+      "latitudine": 46.44396,
+      "longitudine": 27.136458,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 579,
+      "nume": "Kultúrház",
+      "latitudine": 46.722163,
+      "longitudine": 25.595366,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 580,
+      "nume": "Közösségi ház",
+      "latitudine": 46.794057,
+      "longitudine": 25.453377,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 581,
+      "nume": "La Cămin",
+      "latitudine": 44.891523,
+      "longitudine": 21.721853,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 582,
+      "nume": "Le & Le Games",
+      "latitudine": 46.542309,
+      "longitudine": 24.560092,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 583,
+      "nume": "Lábnyiki Magyar Ház",
+      "latitudine": 46.440519,
+      "longitudine": 27.134453,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 584,
+      "nume": "MagiCamp",
+      "latitudine": 45.042789,
+      "longitudine": 25.424343,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 585,
+      "nume": "mushuROI",
+      "latitudine": 46.786282,
+      "longitudine": 23.606828,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 586,
+      "nume": "Márton Áron Ifjúsági Ház",
+      "latitudine": 46.302493,
+      "longitudine": 25.297505,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 587,
+      "nume": "Mézeskalács Ház",
+      "latitudine": 46.149782,
+      "longitudine": 20.274341,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 588,
+      "nume": "Művelődési ház",
+      "latitudine": 46.170355,
+      "longitudine": 20.613295,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 589,
+      "nume": "Művelődési Ház",
+      "latitudine": 46.42863,
+      "longitudine": 25.11044,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 590,
+      "nume": "Művelődési Ház",
+      "latitudine": 47.922962,
+      "longitudine": 22.801699,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 591,
+      "nume": "Nod Makerspace",
+      "latitudine": 44.412038,
+      "longitudine": 26.118306,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 592,
+      "nume": "Népház",
+      "latitudine": 46.27436,
+      "longitudine": 25.487399,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 593,
+      "nume": "OCPI Satu Mare",
+      "latitudine": 47.790483,
+      "longitudine": 22.869462,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 594,
+      "nume": "Organizatia Studentilor Crestini Evanghelici din Bucuresti (OSCEB)",
+      "latitudine": 44.424263,
+      "longitudine": 26.104915,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 595,
+      "nume": "Orhideelor 39",
+      "latitudine": 44.450201,
+      "longitudine": 25.982251,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 596,
+      "nume": "Palatul Copiilor",
+      "latitudine": 44.201434,
+      "longitudine": 28.638639,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 597,
+      "nume": "Palatul copiilor",
+      "latitudine": 45.036082,
+      "longitudine": 23.273788,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 598,
+      "nume": "Palatul Copiilor",
+      "latitudine": 46.539231,
+      "longitudine": 24.569077,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 599,
+      "nume": "Palatul Copiilor Buzău",
+      "latitudine": 45.152579,
+      "longitudine": 26.816551,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 600,
+      "nume": "Palatul Copiilor Oradea",
+      "latitudine": 47.067386,
+      "longitudine": 21.934645,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 601,
+      "nume": "Palatul cultural",
+      "latitudine": 45.648803,
+      "longitudine": 24.334267,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 602,
+      "nume": "Palatul Cultural",
+      "latitudine": 46.357212,
+      "longitudine": 24.115354,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 603,
+      "nume": "Parohia Armeano-Catolică",
+      "latitudine": 47.027178,
+      "longitudine": 23.907731,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 604,
+      "nume": "Parohia Ortodoxă",
+      "latitudine": 47.19026,
+      "longitudine": 24.403963,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 605,
+      "nume": "Parohia Reformată",
+      "latitudine": 46.830205,
+      "longitudine": 22.939625,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 606,
+      "nume": "Petőfi Sándor Művelődési Ház",
+      "latitudine": 46.700694,
+      "longitudine": 25.504974,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 607,
+      "nume": "Posticum – centru cultural și casa de oaspeți",
+      "latitudine": 47.043851,
+      "longitudine": 21.936264,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 608,
+      "nume": "Prefectura județului Buzău",
+      "latitudine": 45.150493,
+      "longitudine": 26.80993,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 609,
+      "nume": "Primaria Priboieni",
+      "latitudine": 44.875469,
+      "longitudine": 25.082659,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 610,
+      "nume": "Primaria Stanesti Gorj",
+      "latitudine": 45.12278,
+      "longitudine": 23.24073,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 611,
+      "nume": "Primăria Ciocănești",
+      "latitudine": 47.479659,
+      "longitudine": 25.278414,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 612,
+      "nume": "Primăria Târgu Neamt",
+      "latitudine": 47.205391,
+      "longitudine": 26.36918,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 613,
+      "nume": "Primăria Țibucani",
+      "latitudine": 47.115398,
+      "longitudine": 26.5529,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 614,
+      "nume": "Primǎria Cacica",
+      "latitudine": 47.644948,
+      "longitudine": 25.916664,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 615,
+      "nume": "Protopopiatul și Parohia Greco-Catolică Unită cu Roma",
+      "latitudine": 47.028731,
+      "longitudine": 23.906738,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 616,
+      "nume": "Pyramid Studio",
+      "latitudine": 44.414586,
+      "longitudine": 26.121077,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 617,
+      "nume": "Reibel Mihály Városi Művelődési Központ és Könyvtár",
+      "latitudine": 46.530198,
+      "longitudine": 21.255333,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 618,
+      "nume": "Sala de evenimente",
+      "latitudine": 45.784467,
+      "longitudine": 23.679965,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 619,
+      "nume": "Sala Festivitati Prefectura Neamt",
+      "latitudine": 46.933091,
+      "longitudine": 26.367137,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 620,
+      "nume": "Sala Polivalentă Târgoviște",
+      "latitudine": 44.92774,
+      "longitudine": 25.438298,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 621,
+      "nume": "Sala Prietenului",
+      "latitudine": 45.334919,
+      "longitudine": 24.635517,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 622,
+      "nume": "Sala Regatului",
+      "latitudine": 44.566217,
+      "longitudine": 27.364799,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 623,
+      "nume": "Salon Codrii Vlăsiei",
+      "latitudine": 44.642983,
+      "longitudine": 26.221554,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 624,
+      "nume": "Secția Drumuri Naționale Buzău",
+      "latitudine": 45.147238,
+      "longitudine": 26.81714,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 625,
+      "nume": "Sediu Civitas",
+      "latitudine": 44.981947,
+      "longitudine": 25.640977,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 626,
+      "nume": "Sediul Uniunii Croatilor din Romania",
+      "latitudine": 45.20255,
+      "longitudine": 21.863509,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 627,
+      "nume": "Sepsibesenyői Kultúrotthon",
+      "latitudine": 45.884321,
+      "longitudine": 25.932073,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 628,
+      "nume": "SER Transport",
+      "latitudine": 45.149139,
+      "longitudine": 26.838362,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 629,
+      "nume": "serviciu public evidenta persoanelor",
+      "latitudine": 45.119676,
+      "longitudine": 23.14355,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 630,
+      "nume": "Serviciul Consiliere Persoane Vârstnice şi Clubul Seniorilor Sector 1",
+      "latitudine": 44.450422,
+      "longitudine": 26.097304,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 631,
+      "nume": "SOS Autism Bihor",
+      "latitudine": 47.046035,
+      "longitudine": 21.950496,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 632,
+      "nume": "Stadion Metalul Buzău",
+      "latitudine": 45.144731,
+      "longitudine": 26.802848,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 633,
+      "nume": "Szarka-Telek",
+      "latitudine": 46.81375,
+      "longitudine": 23.452682,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 634,
+      "nume": "Székház",
+      "latitudine": 47.862935,
+      "longitudine": 23.120704,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 635,
+      "nume": "Sütö András Kultúrotthon",
+      "latitudine": 46.360637,
+      "longitudine": 25.513611,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 636,
+      "nume": "Take Away Hub",
+      "latitudine": 47.149263,
+      "longitudine": 27.596615,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 637,
+      "nume": "Talmid Ministries (Emmanuel Humanitarian Aid Romania)",
+      "latitudine": 45.807196,
+      "longitudine": 23.313582,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 638,
+      "nume": "The Village",
+      "latitudine": 45.94159,
+      "longitudine": 21.543543,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 639,
+      "nume": "Total Business centrer",
+      "latitudine": 44.479387,
+      "longitudine": 26.1599,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 640,
+      "nume": "Tășuleasa Social",
+      "latitudine": 47.247594,
+      "longitudine": 24.979681,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 641,
+      "nume": "Uniunea Sârbilor din România",
+      "latitudine": 45.740788,
+      "longitudine": 21.204942,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 642,
+      "nume": "Valea Soarelui",
+      "latitudine": 45.728927,
+      "longitudine": 24.351423,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 643,
+      "nume": "Vechea Parohie Evanghelică",
+      "latitudine": 47.088764,
+      "longitudine": 24.317587,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 644,
+      "nume": "Visky Árpád Művelődési ház",
+      "latitudine": 46.35286,
+      "longitudine": 24.78878,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 645,
+      "nume": "Youth Centre FNT",
+      "latitudine": 44.448176,
+      "longitudine": 26.096338,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 646,
+      "nume": "Youth Hub",
+      "latitudine": 44.448697,
+      "longitudine": 26.107353,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 647,
+      "nume": "Zbor Hub Iași",
+      "latitudine": 47.158768,
+      "longitudine": 27.58875,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 648,
+      "nume": "Ábrányi Kornél Művelődési Ház",
+      "latitudine": 47.549987,
+      "longitudine": 22.020855,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 649,
+      "nume": "Școala Națională a Femeilor Manager",
+      "latitudine": 45.744489,
+      "longitudine": 21.23876,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 650,
+      "nume": "Școala veche",
+      "latitudine": 46.852294,
+      "longitudine": 26.470677,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 651,
+      "nume": "Будинок культури",
+      "latitudine": 47.981813,
+      "longitudine": 22.926786,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 652,
+      "nume": "Будинок Культури",
+      "latitudine": 48.001418,
+      "longitudine": 23.015219,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 653,
+      "nume": "Будинок Культури",
+      "latitudine": 48.017866,
+      "longitudine": 23.036042,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 654,
+      "nume": "Будинок Культури",
+      "latitudine": 48.024962,
+      "longitudine": 22.972745,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 655,
+      "nume": "Будинок Культури",
+      "latitudine": 48.035529,
+      "longitudine": 23.069215,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 656,
+      "nume": "Будинок Культури",
+      "latitudine": 48.060787,
+      "longitudine": 23.096869,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 657,
+      "nume": "Будинок Культури",
+      "latitudine": 48.110314,
+      "longitudine": 23.206647,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 658,
+      "nume": "Будинок Культури",
+      "latitudine": 48.114744,
+      "longitudine": 23.12722,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 659,
+      "nume": "Будинок Культури",
+      "latitudine": 48.134817,
+      "longitudine": 23.190018,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 660,
+      "nume": "Дом културе Добра",
+      "latitudine": 44.635147,
+      "longitudine": 21.908265,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 661,
+      "nume": "Клуб пензионера",
+      "latitudine": 45.445222,
+      "longitudine": 20.857107,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 662,
+      "nume": "Народний Дім",
+      "latitudine": 47.798687,
+      "longitudine": 25.154117,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 663,
+      "nume": "Народно читалище „Цвят“ – 1870",
+      "latitudine": 43.985696,
+      "longitudine": 22.878016,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 664,
+      "nume": "НЧ \"Земеделец 1874\"",
+      "latitudine": 44.161749,
+      "longitudine": 22.784433,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    },
+    {
+      "id": 665,
+      "nume": "Център за ученическо, техническо и научно творчество",
+      "latitudine": 43.845679,
+      "longitudine": 25.946119,
+      "cheie_osm": "amenity",
+      "valoare_osm": "community_centre",
+      "categorie_osm": "amenity=community_centre"
+    }
+  ],
+  "meta": {
+    "title": "Cămine culturale și centre comunitare din România - Descărcare gratuită",
+    "description": "Cămine culturale și centre comunitare din România — 665 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `amenity=community_centre`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează. Conține 665 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Cămine culturale și centre comunitare din România | ListBase",
+    "seo_description": "Descarcă Cămine culturale și centre comunitare din România — 665 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 665 înregistrări / 7 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

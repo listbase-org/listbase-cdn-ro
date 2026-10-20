@@ -1,0 +1,1447 @@
+{
+  "id": "ro-cinematografe",
+  "name": "Cinematografe din România",
+  "title": "Cinematografe din România",
+  "description": "Cinematografe din România — 154 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `amenity=cinema`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 154,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "latitudine",
+      "label": "Latitudine",
+      "type": "number"
+    },
+    {
+      "key": "longitudine",
+      "label": "Longitudine",
+      "type": "number"
+    },
+    {
+      "key": "cheie_osm",
+      "label": "Cheie Osm",
+      "type": "string"
+    },
+    {
+      "key": "valoare_osm",
+      "label": "Valoare Osm",
+      "type": "string"
+    },
+    {
+      "key": "categorie_osm",
+      "label": "Categorie Osm",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nume": "Balada",
+      "latitudine": 45.696807,
+      "longitudine": 27.184231,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 2,
+      "nume": "Bioskopska sala",
+      "latitudine": 45.874497,
+      "longitudine": 20.566487,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 3,
+      "nume": "Casa de cultură",
+      "latitudine": 45.730576,
+      "longitudine": 23.024479,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 4,
+      "nume": "Casa Municipală de Cultură „Nicolae Rotaru“ Slobozia",
+      "latitudine": 44.565081,
+      "longitudine": 27.358215,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 5,
+      "nume": "Centrul Cultural",
+      "latitudine": 47.769259,
+      "longitudine": 26.441048,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 6,
+      "nume": "Centrul Cultural Ion Besoiu",
+      "latitudine": 45.789969,
+      "longitudine": 24.148157,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 7,
+      "nume": "Centrul Cultural Lira",
+      "latitudine": 46.475225,
+      "longitudine": 26.490508,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 8,
+      "nume": "Cine Globe",
+      "latitudine": 47.747638,
+      "longitudine": 26.666343,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 9,
+      "nume": "Cine Gold",
+      "latitudine": 45.796738,
+      "longitudine": 24.16416,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 10,
+      "nume": "Cinema",
+      "latitudine": 44.684315,
+      "longitudine": 27.948697,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 11,
+      "nume": "Cinema \"Dacia\" Panoramic",
+      "latitudine": 46.931003,
+      "longitudine": 26.371749,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 12,
+      "nume": "Cinema \"Luna\"",
+      "latitudine": 45.410724,
+      "longitudine": 22.218022,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 13,
+      "nume": "Cinema \"Sebastian Papaiani\"",
+      "latitudine": 44.858326,
+      "longitudine": 24.871436,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 14,
+      "nume": "Cinema 7D",
+      "latitudine": 44.063245,
+      "longitudine": 28.636413,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 15,
+      "nume": "Cinema 9D VR",
+      "latitudine": 43.811278,
+      "longitudine": 28.585621,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 16,
+      "nume": "Cinema Arta",
+      "latitudine": 45.782743,
+      "longitudine": 24.149162,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 17,
+      "nume": "Cinema Arta",
+      "latitudine": 45.867804,
+      "longitudine": 25.788335,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 18,
+      "nume": "Cinema Arta",
+      "latitudine": 46.174549,
+      "longitudine": 21.316064,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 19,
+      "nume": "Cinema Arta",
+      "latitudine": 46.543313,
+      "longitudine": 24.559603,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 20,
+      "nume": "Cinema Arta",
+      "latitudine": 46.768091,
+      "longitudine": 23.59049,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 21,
+      "nume": "Cinema Beiuș",
+      "latitudine": 46.668612,
+      "longitudine": 22.347828,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 22,
+      "nume": "Cinema Bucuresti",
+      "latitudine": 44.814436,
+      "longitudine": 25.069753,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 23,
+      "nume": "Cinema Capitol",
+      "latitudine": 46.249786,
+      "longitudine": 26.765341,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 24,
+      "nume": "Cinema Central",
+      "latitudine": 44.112435,
+      "longitudine": 24.344504,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 25,
+      "nume": "Cinema Central",
+      "latitudine": 45.273356,
+      "longitudine": 27.974072,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 26,
+      "nume": "Cinema Central",
+      "latitudine": 46.566575,
+      "longitudine": 26.911733,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 27,
+      "nume": "Cinema City",
+      "latitudine": 44.197136,
+      "longitudine": 28.610551,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 28,
+      "nume": "Cinema City",
+      "latitudine": 44.203679,
+      "longitudine": 28.633085,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 29,
+      "nume": "Cinema City",
+      "latitudine": 44.396176,
+      "longitudine": 26.122158,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 30,
+      "nume": "Cinema City",
+      "latitudine": 44.420919,
+      "longitudine": 26.149859,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 31,
+      "nume": "Cinema City",
+      "latitudine": 44.431342,
+      "longitudine": 26.052677,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 32,
+      "nume": "Cinema City",
+      "latitudine": 44.440831,
+      "longitudine": 26.152173,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 33,
+      "nume": "Cinema City",
+      "latitudine": 44.637799,
+      "longitudine": 22.631882,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 34,
+      "nume": "Cinema City",
+      "latitudine": 44.86665,
+      "longitudine": 24.882908,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 35,
+      "nume": "Cinema City",
+      "latitudine": 44.946779,
+      "longitudine": 26.031799,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 36,
+      "nume": "Cinema City",
+      "latitudine": 44.965679,
+      "longitudine": 25.975134,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 37,
+      "nume": "Cinema City",
+      "latitudine": 45.02568,
+      "longitudine": 23.265288,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 38,
+      "nume": "Cinema City",
+      "latitudine": 45.112056,
+      "longitudine": 24.382867,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 39,
+      "nume": "Cinema City",
+      "latitudine": 45.228893,
+      "longitudine": 27.938274,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 40,
+      "nume": "Cinema City",
+      "latitudine": 45.453933,
+      "longitudine": 28.030699,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 41,
+      "nume": "Cinema City",
+      "latitudine": 45.649872,
+      "longitudine": 25.611069,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 42,
+      "nume": "Cinema City",
+      "latitudine": 45.723636,
+      "longitudine": 21.199954,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 43,
+      "nume": "Cinema City",
+      "latitudine": 45.766461,
+      "longitudine": 21.227214,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 44,
+      "nume": "Cinema City",
+      "latitudine": 45.863049,
+      "longitudine": 22.930761,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 45,
+      "nume": "Cinema City",
+      "latitudine": 46.190985,
+      "longitudine": 21.320414,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 46,
+      "nume": "Cinema City",
+      "latitudine": 46.508081,
+      "longitudine": 24.509632,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 47,
+      "nume": "Cinema City",
+      "latitudine": 46.580173,
+      "longitudine": 26.915606,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 48,
+      "nume": "Cinema City",
+      "latitudine": 46.749085,
+      "longitudine": 23.530449,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 49,
+      "nume": "Cinema City",
+      "latitudine": 46.772391,
+      "longitudine": 23.627634,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 50,
+      "nume": "Cinema City",
+      "latitudine": 46.93576,
+      "longitudine": 26.34828,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 51,
+      "nume": "Cinema City",
+      "latitudine": 47.155767,
+      "longitudine": 27.605483,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 52,
+      "nume": "Cinema City",
+      "latitudine": 47.167074,
+      "longitudine": 27.516697,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 53,
+      "nume": "Cinema City",
+      "latitudine": 47.656629,
+      "longitudine": 23.547164,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 54,
+      "nume": "Cinema City",
+      "latitudine": 47.659038,
+      "longitudine": 26.273161,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 55,
+      "nume": "Cinema Dacia",
+      "latitudine": 45.324962,
+      "longitudine": 21.875092,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 56,
+      "nume": "Cinema Dacia",
+      "latitudine": 46.754392,
+      "longitudine": 23.556756,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 57,
+      "nume": "Cinema Dacia",
+      "latitudine": 47.65844,
+      "longitudine": 23.573118,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 58,
+      "nume": "Cinema Europa",
+      "latitudine": 44.438129,
+      "longitudine": 26.114309,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 59,
+      "nume": "Cinema Flamura",
+      "latitudine": 44.388894,
+      "longitudine": 26.093518,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 60,
+      "nume": "Cinema Florin Piersic",
+      "latitudine": 46.774757,
+      "longitudine": 23.5902,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 61,
+      "nume": "Cinema Geo Șaizescu",
+      "latitudine": 45.096385,
+      "longitudine": 24.373094,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 62,
+      "nume": "Cinema Johnny",
+      "latitudine": 45.733256,
+      "longitudine": 21.190884,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 63,
+      "nume": "Cinema Lyra",
+      "latitudine": 45.27094,
+      "longitudine": 27.972287,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 64,
+      "nume": "Cinema Mara",
+      "latitudine": 47.92825,
+      "longitudine": 23.889267,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 65,
+      "nume": "Cinema Mediensis",
+      "latitudine": 46.161795,
+      "longitudine": 24.346791,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 66,
+      "nume": "Cinema Miorița",
+      "latitudine": 45.144306,
+      "longitudine": 23.991274,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 67,
+      "nume": "Cinema Modern",
+      "latitudine": 44.316189,
+      "longitudine": 23.794323,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 68,
+      "nume": "Cinema Muzeul Țăranului",
+      "latitudine": 44.454088,
+      "longitudine": 26.083385,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 69,
+      "nume": "Cinema Mărăști",
+      "latitudine": 46.779435,
+      "longitudine": 23.617418,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 70,
+      "nume": "Cinema One",
+      "latitudine": 45.672705,
+      "longitudine": 25.613737,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 71,
+      "nume": "Cinema One Laserplex",
+      "latitudine": 47.786807,
+      "longitudine": 22.843708,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 72,
+      "nume": "Cinema Pacea",
+      "latitudine": 47.027507,
+      "longitudine": 23.908016,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 73,
+      "nume": "Cinema Palace",
+      "latitudine": 47.034901,
+      "longitudine": 21.948442,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 74,
+      "nume": "Cinema Palace OSC",
+      "latitudine": 47.043101,
+      "longitudine": 21.898122,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 75,
+      "nume": "Cinema Paradiso",
+      "latitudine": 44.892293,
+      "longitudine": 29.603106,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 76,
+      "nume": "Cinema Partia",
+      "latitudine": 46.781774,
+      "longitudine": 24.701936,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 77,
+      "nume": "Cinema Patria",
+      "latitudine": 45.879713,
+      "longitudine": 22.901714,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 78,
+      "nume": "Cinema Perla",
+      "latitudine": 44.060817,
+      "longitudine": 28.634198,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 79,
+      "nume": "Cinema Pescăruș",
+      "latitudine": 45.246615,
+      "longitudine": 27.946903,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 80,
+      "nume": "Cinema Premiera (Patria)",
+      "latitudine": 44.939707,
+      "longitudine": 26.023666,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 81,
+      "nume": "Cinema Sergiu Nicolaescu",
+      "latitudine": 45.036652,
+      "longitudine": 23.270349,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 82,
+      "nume": "Cinema Slatina",
+      "latitudine": 44.426723,
+      "longitudine": 24.37086,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 83,
+      "nume": "Cinema Solidaritatea",
+      "latitudine": 46.204352,
+      "longitudine": 21.284163,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 84,
+      "nume": "Cinema Studio",
+      "latitudine": 45.752353,
+      "longitudine": 21.226005,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 85,
+      "nume": "Cinema Timiș",
+      "latitudine": 45.751328,
+      "longitudine": 21.225171,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 86,
+      "nume": "Cinema Transilvania",
+      "latitudine": 45.83833,
+      "longitudine": 24.968146,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 87,
+      "nume": "Cinema Trianon",
+      "latitudine": 47.167055,
+      "longitudine": 27.579571,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 88,
+      "nume": "Cinema Trivale",
+      "latitudine": 44.857229,
+      "longitudine": 24.87358,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 89,
+      "nume": "Cinema Union",
+      "latitudine": 44.437148,
+      "longitudine": 26.096031,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 90,
+      "nume": "Cinema Victoria",
+      "latitudine": 45.741311,
+      "longitudine": 21.224528,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 91,
+      "nume": "Cinema Victoria",
+      "latitudine": 46.770775,
+      "longitudine": 23.596097,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 92,
+      "nume": "Cinema Zarand Brad",
+      "latitudine": 46.128486,
+      "longitudine": 22.791263,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 93,
+      "nume": "Cinema în aer liber",
+      "latitudine": 44.892741,
+      "longitudine": 29.604632,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 94,
+      "nume": "Cinema Şerban Ionescu",
+      "latitudine": 45.41533,
+      "longitudine": 23.374183,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 95,
+      "nume": "Cinemascop Unirea",
+      "latitudine": 47.74508,
+      "longitudine": 26.661062,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 96,
+      "nume": "Cinemateca Eforie",
+      "latitudine": 44.434088,
+      "longitudine": 26.096874,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 97,
+      "nume": "Cinematograf Amza Pellea",
+      "latitudine": 45.590122,
+      "longitudine": 25.464272,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 98,
+      "nume": "Cinematograf Doina",
+      "latitudine": 46.096778,
+      "longitudine": 27.182085,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 99,
+      "nume": "Cinematograf Drăgășani",
+      "latitudine": 44.660582,
+      "longitudine": 24.261658,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 100,
+      "nume": "Cinematograf Saturn",
+      "latitudine": 43.826006,
+      "longitudine": 28.584745,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 101,
+      "nume": "Cinematograf Scala",
+      "latitudine": 47.186829,
+      "longitudine": 23.056863,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 102,
+      "nume": "Cinematograf Unirea",
+      "latitudine": 47.95243,
+      "longitudine": 26.394573,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 103,
+      "nume": "Cinematograf Victoria",
+      "latitudine": 46.228697,
+      "longitudine": 27.66999,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 104,
+      "nume": "Cinematograful Călimani",
+      "latitudine": 46.925063,
+      "longitudine": 25.35275,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 105,
+      "nume": "Cinematograful Dacia",
+      "latitudine": 45.152608,
+      "longitudine": 26.822432,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 106,
+      "nume": "Cinematograful Flacăra",
+      "latitudine": 43.746793,
+      "longitudine": 24.867569,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 107,
+      "nume": "Cinematograful Flacăra",
+      "latitudine": 45.767127,
+      "longitudine": 22.912342,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 108,
+      "nume": "Cinematograful Independența",
+      "latitudine": 44.927225,
+      "longitudine": 25.463536,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 109,
+      "nume": "Cinematograful Patria",
+      "latitudine": 44.31855,
+      "longitudine": 23.802642,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 110,
+      "nume": "Cinematograful Siderurgistul",
+      "latitudine": 45.751801,
+      "longitudine": 22.907419,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 111,
+      "nume": "Cinematograful Transilvania",
+      "latitudine": 45.838326,
+      "longitudine": 24.968166,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 112,
+      "nume": "Cinematograful „Muscelul”",
+      "latitudine": 45.269723,
+      "longitudine": 25.04286,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 113,
+      "nume": "Cinemax",
+      "latitudine": 44.451935,
+      "longitudine": 26.131197,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 114,
+      "nume": "Cineplexx",
+      "latitudine": 44.329549,
+      "longitudine": 23.770086,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 115,
+      "nume": "Cineplexx",
+      "latitudine": 44.419501,
+      "longitudine": 26.178612,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 116,
+      "nume": "Cineplexx",
+      "latitudine": 44.506528,
+      "longitudine": 26.090269,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 117,
+      "nume": "Cineplexx",
+      "latitudine": 45.77402,
+      "longitudine": 24.169631,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 118,
+      "nume": "Cineplexx",
+      "latitudine": 46.529403,
+      "longitudine": 24.593403,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 119,
+      "nume": "Cineplexx",
+      "latitudine": 47.786043,
+      "longitudine": 22.87159,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 120,
+      "nume": "Cityplex",
+      "latitudine": 45.657121,
+      "longitudine": 25.561582,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 121,
+      "nume": "Clubul Cinefililor",
+      "latitudine": 47.179263,
+      "longitudine": 27.566832,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 122,
+      "nume": "Csíki Mozi",
+      "latitudine": 46.360249,
+      "longitudine": 25.804941,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 123,
+      "nume": "Cămin cultural",
+      "latitudine": 47.877538,
+      "longitudine": 26.404896,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 124,
+      "nume": "Căminul cultural",
+      "latitudine": 43.857916,
+      "longitudine": 24.289705,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 125,
+      "nume": "Căminul Cultural Șanț",
+      "latitudine": 47.439066,
+      "longitudine": 24.887593,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 126,
+      "nume": "Elvira Popescu",
+      "latitudine": 44.446617,
+      "longitudine": 26.104282,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 127,
+      "nume": "Fostul Cinematograf Floreasca",
+      "latitudine": 44.4616,
+      "longitudine": 26.104277,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 128,
+      "nume": "Fostul cinematograf Forum",
+      "latitudine": 46.563372,
+      "longitudine": 26.911751,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 129,
+      "nume": "Fostul Cinematograf Modern.",
+      "latitudine": 45.759282,
+      "longitudine": 22.91596,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 130,
+      "nume": "Grădiște",
+      "latitudine": 46.194086,
+      "longitudine": 21.332728,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 131,
+      "nume": "Happy Cinema",
+      "latitudine": 44.399441,
+      "longitudine": 26.146882,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 132,
+      "nume": "Happy Cinema",
+      "latitudine": 45.163574,
+      "longitudine": 26.813264,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 133,
+      "nume": "Happy Cinema",
+      "latitudine": 45.703917,
+      "longitudine": 27.207328,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 134,
+      "nume": "Happy Cinema",
+      "latitudine": 47.144873,
+      "longitudine": 24.507028,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 135,
+      "nume": "Happy Cinema",
+      "latitudine": 47.747547,
+      "longitudine": 26.665909,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 136,
+      "nume": "HappyCinema",
+      "latitudine": 46.200365,
+      "longitudine": 21.287255,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 137,
+      "nume": "Hollywood Multiplex",
+      "latitudine": 44.419819,
+      "longitudine": 26.127257,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 138,
+      "nume": "IMAX",
+      "latitudine": 44.431365,
+      "longitudine": 26.053715,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 139,
+      "nume": "Inspire Cinema",
+      "latitudine": 44.31147,
+      "longitudine": 23.833252,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 140,
+      "nume": "Inspire Cinema",
+      "latitudine": 44.317434,
+      "longitudine": 23.794591,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 141,
+      "nume": "Inspire Cinema",
+      "latitudine": 46.08051,
+      "longitudine": 23.586237,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 142,
+      "nume": "KODAK Cinelabs Romania",
+      "latitudine": 44.496682,
+      "longitudine": 26.03051,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 143,
+      "nume": "Lumina",
+      "latitudine": 44.874322,
+      "longitudine": 24.847192,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 144,
+      "nume": "Mediensis",
+      "latitudine": 46.161759,
+      "longitudine": 24.346786,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 145,
+      "nume": "Mini 4D",
+      "latitudine": 44.217785,
+      "longitudine": 28.632351,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 146,
+      "nume": "Movieplex",
+      "latitudine": 44.428012,
+      "longitudine": 26.034095,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 147,
+      "nume": "Mozi",
+      "latitudine": 46.720778,
+      "longitudine": 25.59905,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 148,
+      "nume": "Not in use",
+      "latitudine": 45.615132,
+      "longitudine": 25.724074,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 149,
+      "nume": "Orizont",
+      "latitudine": 44.203022,
+      "longitudine": 27.316118,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 150,
+      "nume": "Patria",
+      "latitudine": 44.442547,
+      "longitudine": 26.099207,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 151,
+      "nume": "Pescărușul",
+      "latitudine": 43.81517,
+      "longitudine": 28.583695,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 152,
+      "nume": "Summer Cinema",
+      "latitudine": 44.02743,
+      "longitudine": 28.653997,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 153,
+      "nume": "Teatrul de Vară",
+      "latitudine": 45.298918,
+      "longitudine": 21.872829,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    },
+    {
+      "id": 154,
+      "nume": "Zilahi Lajos Kultúrház",
+      "latitudine": 46.803652,
+      "longitudine": 21.660707,
+      "cheie_osm": "amenity",
+      "valoare_osm": "cinema",
+      "categorie_osm": "amenity=cinema"
+    }
+  ],
+  "meta": {
+    "title": "Cinematografe din România - Descărcare gratuită",
+    "description": "Cinematografe din România — 154 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `amenity=cinema`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează. Conține 154 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Cinematografe din România | ListBase",
+    "seo_description": "Descarcă Cinematografe din România — 154 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 154 înregistrări / 7 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

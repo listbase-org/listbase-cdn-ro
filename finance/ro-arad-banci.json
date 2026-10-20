@@ -1,0 +1,93 @@
+{
+  "id": "ro-arad-banci",
+  "name": "Bănci în Arad — coduri SWIFT/BIC",
+  "title": "Bănci în Arad — coduri SWIFT/BIC",
+  "description": "Instituții bancare și financiare înregistrate SWIFT/BIC cu sediul în Arad, România (6 înregistrări). Subset al listei naționale `ro-banci` (263 înregistrări), grupat după câmpul `city` din sursă. Șirul literal din sursă este \"ARAD\" — păstrat verbatim, fără diacritice și cu majuscule, exact așa cum este livrat de sursă; nu a fost tradus, normalizat sau completat cu diacritice. Câmpuri: id, bank, city, branch, swift_code.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 15,
+      "bank": "BANCA COMERCIALA ROMANA S.A",
+      "city": "ARAD",
+      "branch": "(ARAD BRANCH)",
+      "swift_code": "RNCBROBUAR0"
+    },
+    {
+      "id": 27,
+      "bank": "BANCA TRANSILVANIA S.A.",
+      "city": "ARAD",
+      "branch": "(AG. ARAD)",
+      "swift_code": "BTRLRO22AR1"
+    },
+    {
+      "id": 28,
+      "bank": "BANCA TRANSILVANIA S.A.",
+      "city": "ARAD",
+      "branch": "(AG. ARAD)",
+      "swift_code": "BTRLRO22AR2"
+    },
+    {
+      "id": 29,
+      "bank": "BANCA TRANSILVANIA S.A.",
+      "city": "ARAD",
+      "branch": "(ARAD BRANCH)",
+      "swift_code": "BTRLRO22ARA"
+    },
+    {
+      "id": 189,
+      "bank": "IFB FINWEST S.A.",
+      "city": "ARAD",
+      "branch": "",
+      "swift_code": "IFFNRO21"
+    },
+    {
+      "id": 243,
+      "bank": "SSIF STK TRADING S.A.",
+      "city": "ARAD",
+      "branch": "",
+      "swift_code": "SSSRRO21"
+    }
+  ],
+  "meta": {
+    "title": "Bănci în Arad — coduri SWIFT/BIC - Descărcare gratuită",
+    "description": "Instituții bancare și financiare înregistrate SWIFT/BIC cu sediul în Arad, România (6 înregistrări). Subset al listei naționale `ro-banci` (263 înregistrări), grupat după câmpul `city` din sursă. Șirul literal din sursă este \"ARAD\" — păstrat verbatim, fără diacritice și cu majuscule, exact așa cum este livrat de sursă; nu a fost tradus, normalizat sau completat cu diacritice. Câmpuri: id, bank, city, branch, swift_code. Conține 6 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Bănci în Arad — coduri SWIFT/BIC | ListBase",
+    "seo_description": "Descarcă Bănci în Arad — coduri SWIFT/BIC — 6 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 6 înregistrări / 5 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

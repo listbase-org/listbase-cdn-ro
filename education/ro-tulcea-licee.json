@@ -1,0 +1,160 @@
+{
+  "id": "ro-tulcea-licee",
+  "name": "Licee si colegii din judetul Tulcea",
+  "title": "Licee si colegii din judetul Tulcea",
+  "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Tulcea (19 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "COLEGIUL AGRICOL \"NICOLAE CORNATEANU\" TULCEA",
+      "slug": "colegiul-agricol-nicolae-cornateanu-tulcea",
+      "judet": "TULCEA",
+      "judet_slug": "tulcea"
+    },
+    {
+      "nume": "COLEGIUL DOBROGEAN \"SPIRU HARET\" TULCEA",
+      "slug": "colegiul-dobrogean-spiru-haret-tulcea",
+      "judet": "TULCEA",
+      "judet_slug": "tulcea"
+    },
+    {
+      "nume": "COLEGIUL ECONOMIC \"DELTA DUNARII\" TULCEA",
+      "slug": "colegiul-economic-delta-dunarii-tulcea",
+      "judet": "TULCEA",
+      "judet_slug": "tulcea"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"HENRI COANDA\" TULCEA",
+      "slug": "colegiul-tehnic-henri-coanda-tulcea",
+      "judet": "TULCEA",
+      "judet_slug": "tulcea"
+    },
+    {
+      "nume": "COLEGIUL \"ANGHEL SALIGNY\" TULCEA",
+      "slug": "colegiul-anghel-saligny-tulcea",
+      "judet": "TULCEA",
+      "judet_slug": "tulcea"
+    },
+    {
+      "nume": "COLEGIUL \"BRAD SEGAL\" TULCEA",
+      "slug": "colegiul-brad-segal-tulcea",
+      "judet": "TULCEA",
+      "judet_slug": "tulcea"
+    },
+    {
+      "nume": "LICEUL DE ARTE \"GEORGE GEORGESCU\" TULCEA",
+      "slug": "liceul-de-arte-george-georgescu-tulcea",
+      "judet": "TULCEA",
+      "judet_slug": "tulcea"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC MACIN",
+      "slug": "liceul-tehnologic-macin",
+      "judet": "TULCEA",
+      "judet_slug": "tulcea"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC TOPOLOG",
+      "slug": "liceul-tehnologic-topolog",
+      "judet": "TULCEA",
+      "judet_slug": "tulcea"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"ION MINCU\" TULCEA",
+      "slug": "liceul-tehnologic-ion-mincu-tulcea",
+      "judet": "TULCEA",
+      "judet_slug": "tulcea"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"SIMION LEONESCU\" LUNCAVITA",
+      "slug": "liceul-tehnologic-simion-leonescu-luncavita",
+      "judet": "TULCEA",
+      "judet_slug": "tulcea"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"VASILE BACALU\" MAHMUDIA",
+      "slug": "liceul-tehnologic-vasile-bacalu-mahmudia",
+      "judet": "TULCEA",
+      "judet_slug": "tulcea"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"CONSTANTIN BRATESCU\" ISACCEA",
+      "slug": "liceul-teoretic-constantin-bratescu-isaccea",
+      "judet": "TULCEA",
+      "judet_slug": "tulcea"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"GHEORGHE MUNTEANU MURGOCI\" MACIN",
+      "slug": "liceul-teoretic-gheorghe-munteanu-murgoci-macin",
+      "judet": "TULCEA",
+      "judet_slug": "tulcea"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"GRIGORE MOISIL\" TULCEA",
+      "slug": "liceul-teoretic-grigore-moisil-tulcea",
+      "judet": "TULCEA",
+      "judet_slug": "tulcea"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"ION CREANGĂ\" TULCEA",
+      "slug": "liceul-teoretic-ion-creanga-tulcea",
+      "judet": "TULCEA",
+      "judet_slug": "tulcea"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"JEAN BART\" SULINA",
+      "slug": "liceul-teoretic-jean-bart-sulina",
+      "judet": "TULCEA",
+      "judet_slug": "tulcea"
+    },
+    {
+      "nume": "LICEUL \"DIMITRIE CANTEMIR\" BABADAG",
+      "slug": "liceul-dimitrie-cantemir-babadag",
+      "judet": "TULCEA",
+      "judet_slug": "tulcea"
+    },
+    {
+      "nume": "SEMINARUL TEOLOGIC ORTODOX \"SF. IOAN CASIAN\" TULCEA",
+      "slug": "seminarul-teologic-ortodox-sf-ioan-casian-tulcea",
+      "judet": "TULCEA",
+      "judet_slug": "tulcea"
+    }
+  ],
+  "meta": {
+    "title": "Licee si colegii din judetul Tulcea - Descărcare gratuită",
+    "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Tulcea (19 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor. Conține 19 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Licee si colegii din judetul Tulcea | ListBase",
+    "seo_description": "Descarcă Licee si colegii din judetul Tulcea — 19 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 19 înregistrări / 4 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

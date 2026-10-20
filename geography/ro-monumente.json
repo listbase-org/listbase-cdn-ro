@@ -1,0 +1,5524 @@
+{
+  "id": "ro-monumente",
+  "name": "Monumente din România",
+  "title": "Monumente din România",
+  "description": "Monumente din România — 607 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `historic=monument`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 607,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "number"
+    },
+    {
+      "key": "latitudine",
+      "label": "Latitudine",
+      "type": "number"
+    },
+    {
+      "key": "longitudine",
+      "label": "Longitudine",
+      "type": "number"
+    },
+    {
+      "key": "cheie_osm",
+      "label": "Cheie Osm",
+      "type": "string"
+    },
+    {
+      "key": "valoare_osm",
+      "label": "Valoare Osm",
+      "type": "string"
+    },
+    {
+      "key": "categorie_osm",
+      "label": "Categorie Osm",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nume": "1848",
+      "latitudine": 44.113486,
+      "longitudine": 24.34224,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 2,
+      "nume": "1956-os érmihályfalvi csoport emlékműve",
+      "latitudine": 47.517876,
+      "longitudine": 22.135301,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 3,
+      "nume": "1960",
+      "latitudine": 46.453674,
+      "longitudine": 23.567951,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 4,
+      "nume": "1985",
+      "latitudine": 45.717798,
+      "longitudine": 24.156126,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 5,
+      "nume": "2250 ani Tomis Constanța",
+      "latitudine": 44.176762,
+      "longitudine": 28.65305,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 6,
+      "nume": "ACHETRANS-Boldesti Scaieni",
+      "latitudine": 45.012522,
+      "longitudine": 26.024929,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 7,
+      "nume": "Acvila",
+      "latitudine": 45.144999,
+      "longitudine": 23.990806,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 8,
+      "nume": "Alba Iulia",
+      "latitudine": 46.108019,
+      "longitudine": 23.608474,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 9,
+      "nume": "Alexandru Ioan Cuza",
+      "latitudine": 47.1661,
+      "longitudine": 27.579832,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 10,
+      "nume": "Altarul fostei Biserici Sfinții Voievozi",
+      "latitudine": 47.741854,
+      "longitudine": 26.67493,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 11,
+      "nume": "Aluti&Valsi",
+      "latitudine": 44.468687,
+      "longitudine": 26.452397,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 12,
+      "nume": "Anotimpuri",
+      "latitudine": 46.98592,
+      "longitudine": 27.584898,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 13,
+      "nume": "Ansamblul monumental Omagiu, autor Bogdan Lefter",
+      "latitudine": 45.167384,
+      "longitudine": 26.818278,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 14,
+      "nume": "Ansamblul Monumental Tăușeni",
+      "latitudine": 46.876383,
+      "longitudine": 23.919956,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 15,
+      "nume": "Antonov An-24",
+      "latitudine": 44.309204,
+      "longitudine": 23.834747,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 16,
+      "nume": "Apeductul de la Tulea",
+      "latitudine": 45.729403,
+      "longitudine": 22.815208,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 17,
+      "nume": "Arcul de Triumf",
+      "latitudine": 44.46719,
+      "longitudine": 26.078116,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 18,
+      "nume": "Arcul de Triumf",
+      "latitudine": 46.170851,
+      "longitudine": 21.308403,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 19,
+      "nume": "ARFIR",
+      "latitudine": 44.838695,
+      "longitudine": 28.414025,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 20,
+      "nume": "Aspirație",
+      "latitudine": 46.985086,
+      "longitudine": 27.585254,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 21,
+      "nume": "Baia Comunală",
+      "latitudine": 45.712436,
+      "longitudine": 22.784112,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 22,
+      "nume": "Barbu Știrbei",
+      "latitudine": 44.318263,
+      "longitudine": 23.792557,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 23,
+      "nume": "Beregsau Mare 700 ani",
+      "latitudine": 45.759142,
+      "longitudine": 21.021814,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 24,
+      "nume": "Bicaz",
+      "latitudine": 46.901382,
+      "longitudine": 26.117687,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 25,
+      "nume": "Biserica Catolică",
+      "latitudine": 45.380402,
+      "longitudine": 21.777629,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 26,
+      "nume": "Biserica de lemn",
+      "latitudine": 45.43838,
+      "longitudine": 28.016625,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 27,
+      "nume": "Biserica Luterană fortificată",
+      "latitudine": 45.888997,
+      "longitudine": 23.794335,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 28,
+      "nume": "Biserica monument sec. XVII",
+      "latitudine": 47.800274,
+      "longitudine": 27.196428,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 29,
+      "nume": "Bisericuța de lemn (1910)",
+      "latitudine": 45.429063,
+      "longitudine": 23.361689,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 30,
+      "nume": "Biserică Fortificată",
+      "latitudine": 45.996725,
+      "longitudine": 24.919303,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 31,
+      "nume": "Boat 'Constanța'",
+      "latitudine": 44.167476,
+      "longitudine": 28.561477,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 32,
+      "nume": "Bodvaji kohó",
+      "latitudine": 46.1599,
+      "longitudine": 25.74648,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 33,
+      "nume": "Borna 33",
+      "latitudine": 47.834924,
+      "longitudine": 23.573465,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 34,
+      "nume": "Borna33",
+      "latitudine": 47.834924,
+      "longitudine": 23.573464,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 35,
+      "nume": "Bust Constantin Brâncoveanu",
+      "latitudine": 45.107001,
+      "longitudine": 24.365313,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 36,
+      "nume": "Bust Constantin Brâncoveanu",
+      "latitudine": 45.145337,
+      "longitudine": 23.992594,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 37,
+      "nume": "Bust Costache Negri",
+      "latitudine": 47.16642,
+      "longitudine": 27.598198,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 38,
+      "nume": "Bust Ecaterina Varga",
+      "latitudine": 45.867036,
+      "longitudine": 25.127248,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 39,
+      "nume": "Bust Friedrich von Schiller",
+      "latitudine": 45.794612,
+      "longitudine": 24.152822,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 40,
+      "nume": "Bust Gheorghe Duca",
+      "latitudine": 45.79528,
+      "longitudine": 24.160204,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 41,
+      "nume": "Bust I. Gh. Duca",
+      "latitudine": 45.145713,
+      "longitudine": 23.992268,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 42,
+      "nume": "Bust Mihai Eminescu",
+      "latitudine": 47.74479,
+      "longitudine": 26.662633,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 43,
+      "nume": "Bust Mircea cel Bătrân",
+      "latitudine": 47.154085,
+      "longitudine": 27.570291,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 44,
+      "nume": "Bust Simion Mehedinți",
+      "latitudine": 45.795979,
+      "longitudine": 24.160628,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 45,
+      "nume": "Bust Tache Ionescu",
+      "latitudine": 45.106642,
+      "longitudine": 24.363841,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 46,
+      "nume": "Bustul lui Emanuil Gojdu",
+      "latitudine": 45.793677,
+      "longitudine": 24.146625,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 47,
+      "nume": "Bustul lui Ioan Slavici",
+      "latitudine": 45.793546,
+      "longitudine": 24.14749,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 48,
+      "nume": "Bustul lui Nicolae Iorga",
+      "latitudine": 45.186443,
+      "longitudine": 26.039568,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 49,
+      "nume": "Bustul lui Nicolae Iorga",
+      "latitudine": 45.18741,
+      "longitudine": 26.038787,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 50,
+      "nume": "Bustul Mihai Eminescu",
+      "latitudine": 47.743403,
+      "longitudine": 26.655164,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 51,
+      "nume": "Bustul Sergiu Celibidache",
+      "latitudine": 47.164158,
+      "longitudine": 27.585668,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 52,
+      "nume": "Capela romano-catolică Mavros-Cantacuzino",
+      "latitudine": 45.016387,
+      "longitudine": 25.7808,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 53,
+      "nume": "Capela Troiță",
+      "latitudine": 45.941511,
+      "longitudine": 23.33481,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 54,
+      "nume": "Carol I",
+      "latitudine": 44.318832,
+      "longitudine": 23.792506,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 55,
+      "nume": "Casa Băilișteanu",
+      "latitudine": 44.322292,
+      "longitudine": 23.793506,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 56,
+      "nume": "Casa ființei - loc pentru meditație",
+      "latitudine": 46.986873,
+      "longitudine": 27.584008,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 57,
+      "nume": "Casa Gh. Popescu-Ghica (1908)",
+      "latitudine": 45.176635,
+      "longitudine": 24.257774,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 58,
+      "nume": "Casa memorială Ion Manolescu",
+      "latitudine": 45.1807,
+      "longitudine": 25.669155,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 59,
+      "nume": "Casa Pessicu",
+      "latitudine": 44.323289,
+      "longitudine": 23.792807,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 60,
+      "nume": "Casa unde s-a filmat “Moromeții”",
+      "latitudine": 44.285746,
+      "longitudine": 25.290774,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 61,
+      "nume": "Casa Verdeșteanu",
+      "latitudine": 44.323099,
+      "longitudine": 23.793033,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 62,
+      "nume": "Castanul Unirii",
+      "latitudine": 47.113364,
+      "longitudine": 27.602385,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 63,
+      "nume": "Cavoul Roman",
+      "latitudine": 45.415085,
+      "longitudine": 28.021135,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 64,
+      "nume": "Cazarma Kempel - Arsenalul Vechi",
+      "latitudine": 45.795727,
+      "longitudine": 24.145158,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 65,
+      "nume": "Ceres",
+      "latitudine": 44.111269,
+      "longitudine": 24.344794,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 66,
+      "nume": "Charlottenburg",
+      "latitudine": 45.978543,
+      "longitudine": 21.519091,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 67,
+      "nume": "cimitero biserica",
+      "latitudine": 44.997432,
+      "longitudine": 23.546042,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 68,
+      "nume": "Cimitirul Eroilor din Primul Război Mondial",
+      "latitudine": 45.757247,
+      "longitudine": 23.934254,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 69,
+      "nume": "Cimitirul Eroilor și Obelisc",
+      "latitudine": 45.745767,
+      "longitudine": 25.292239,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 70,
+      "nume": "Cimitirul Evreiesc",
+      "latitudine": 47.950256,
+      "longitudine": 26.075416,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 71,
+      "nume": "Ciuperca",
+      "latitudine": 46.155712,
+      "longitudine": 21.593703,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 72,
+      "nume": "Cișmeaua părinților",
+      "latitudine": 45.186442,
+      "longitudine": 24.111534,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 73,
+      "nume": "Clopotnița construită de Arsenie Boca",
+      "latitudine": 45.631704,
+      "longitudine": 22.851193,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 74,
+      "nume": "Clopotul Durerii",
+      "latitudine": 45.757742,
+      "longitudine": 21.250304,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 75,
+      "nume": "Clădire datată 1874",
+      "latitudine": 45.143901,
+      "longitudine": 24.113276,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 76,
+      "nume": "Clădirea Băncii Lădești (fondată 1919)",
+      "latitudine": 44.881727,
+      "longitudine": 24.045065,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 77,
+      "nume": "Col. Năstase Ion, Slt. Popa Daniel",
+      "latitudine": 44.168628,
+      "longitudine": 24.522512,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 78,
+      "nume": "Coloana Ciumei",
+      "latitudine": 45.757935,
+      "longitudine": 21.229113,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 79,
+      "nume": "Coloana Timpului (Joc cu infinitul)",
+      "latitudine": 44.439722,
+      "longitudine": 26.051614,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 80,
+      "nume": "Comemorare a eroilor satului",
+      "latitudine": 45.136388,
+      "longitudine": 24.11317,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 81,
+      "nume": "Confluența",
+      "latitudine": 46.986665,
+      "longitudine": 27.583473,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 82,
+      "nume": "Constantin Basarab Brâncoveanu și fiii săi",
+      "latitudine": 44.927532,
+      "longitudine": 25.458312,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 83,
+      "nume": "Constantin Brâncoveanu",
+      "latitudine": 44.397787,
+      "longitudine": 26.110165,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 84,
+      "nume": "Constantin Brâncuși",
+      "latitudine": 44.459738,
+      "longitudine": 26.094081,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 85,
+      "nume": "Constantin Gavenea",
+      "latitudine": 45.175478,
+      "longitudine": 28.805079,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 86,
+      "nume": "Corbul Hunedorean",
+      "latitudine": 45.751596,
+      "longitudine": 22.894901,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 87,
+      "nume": "cristal brad craiova",
+      "latitudine": 44.351761,
+      "longitudine": 23.810499,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 88,
+      "nume": "cristal brad-popești leordeni",
+      "latitudine": 44.371266,
+      "longitudine": 26.185242,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 89,
+      "nume": "cristian glass iași",
+      "latitudine": 47.14954,
+      "longitudine": 27.627408,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 90,
+      "nume": "Cristian Glass-Tarnaveni (1963)",
+      "latitudine": 46.316042,
+      "longitudine": 24.298479,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 91,
+      "nume": "Cruce Dealu Tintea",
+      "latitudine": 45.046913,
+      "longitudine": 25.894658,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 92,
+      "nume": "Cruce luminată",
+      "latitudine": 44.514179,
+      "longitudine": 23.763441,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 93,
+      "nume": "Cruce metal",
+      "latitudine": 46.474373,
+      "longitudine": 22.466816,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 94,
+      "nume": "Cruce Rânceni",
+      "latitudine": 46.403126,
+      "longitudine": 28.099406,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 95,
+      "nume": "Cruce TEMELIE Ștefan",
+      "latitudine": 44.501885,
+      "longitudine": 23.799023,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 96,
+      "nume": "Crucea Albă",
+      "latitudine": 45.145213,
+      "longitudine": 26.633817,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 97,
+      "nume": "Crucea Cornu",
+      "latitudine": 45.172767,
+      "longitudine": 25.706673,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 98,
+      "nume": "Crucea de la Albița",
+      "latitudine": 45.752268,
+      "longitudine": 23.922053,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 99,
+      "nume": "Crucea de la Miclăuș",
+      "latitudine": 45.756549,
+      "longitudine": 23.921548,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 100,
+      "nume": "Crucea de la Răscrucea de la Crucean",
+      "latitudine": 45.755422,
+      "longitudine": 23.923577,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 101,
+      "nume": "Crucea de pomenire din piatră",
+      "latitudine": 46.249796,
+      "longitudine": 26.802207,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 102,
+      "nume": "Crucea Dichiu",
+      "latitudine": 45.32439,
+      "longitudine": 25.46423,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 103,
+      "nume": "Crucea din Progadie",
+      "latitudine": 45.757216,
+      "longitudine": 23.923068,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 104,
+      "nume": "Crucea Eroilor",
+      "latitudine": 45.903593,
+      "longitudine": 23.397978,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 105,
+      "nume": "Crucea Eroilor de pe Muntele Caraiman",
+      "latitudine": 45.416004,
+      "longitudine": 25.497578,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 106,
+      "nume": "Crucea Iancului",
+      "latitudine": 46.636204,
+      "longitudine": 23.043354,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 107,
+      "nume": "Crucea lui Balteș",
+      "latitudine": 45.758768,
+      "longitudine": 23.922302,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 108,
+      "nume": "Crucea lui Stroia",
+      "latitudine": 45.759792,
+      "longitudine": 23.927822,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 109,
+      "nume": "Crucea lui Ursache (est)",
+      "latitudine": 45.199184,
+      "longitudine": 23.780548,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 110,
+      "nume": "Crucea Memorială a Societății Hipice Române",
+      "latitudine": 44.518857,
+      "longitudine": 26.061037,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 111,
+      "nume": "Crucea Piscul Domnului",
+      "latitudine": 45.237038,
+      "longitudine": 26.059263,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 112,
+      "nume": "Crucea rezistenței anticomuniste de la Arnota",
+      "latitudine": 45.190078,
+      "longitudine": 24.050671,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 113,
+      "nume": "Cumpăna",
+      "latitudine": 46.985824,
+      "longitudine": 27.584048,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 114,
+      "nume": "Cuptorul de topit fier jumelț",
+      "latitudine": 46.352557,
+      "longitudine": 22.394599,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 115,
+      "nume": "Câmpia Libertății",
+      "latitudine": 46.17221,
+      "longitudine": 23.927479,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 116,
+      "nume": "dafermann deva",
+      "latitudine": 45.869077,
+      "longitudine": 22.936608,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 117,
+      "nume": "Dafermann Zalău",
+      "latitudine": 47.215491,
+      "longitudine": 23.04466,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 118,
+      "nume": "dai post",
+      "latitudine": 46.940286,
+      "longitudine": 23.389315,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 119,
+      "nume": "Deschidere",
+      "latitudine": 45.74048,
+      "longitudine": 21.238837,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 120,
+      "nume": "Devenire",
+      "latitudine": 46.98587,
+      "longitudine": 27.583517,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 121,
+      "nume": "Dialog",
+      "latitudine": 46.985401,
+      "longitudine": 27.584497,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 122,
+      "nume": "Docherul",
+      "latitudine": 45.432121,
+      "longitudine": 28.062802,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 123,
+      "nume": "domeniul Ilica Ioan",
+      "latitudine": 47.719254,
+      "longitudine": 26.644639,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 124,
+      "nume": "Eminescu",
+      "latitudine": 46.986941,
+      "longitudine": 27.584423,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 125,
+      "nume": "Eroii din Cremenari",
+      "latitudine": 44.98124,
+      "longitudine": 24.31309,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 126,
+      "nume": "Eroilor",
+      "latitudine": 45.032997,
+      "longitudine": 25.852461,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 127,
+      "nume": "Eroilor militari Romani cazuti la datorie",
+      "latitudine": 44.408341,
+      "longitudine": 26.114142,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 128,
+      "nume": "Eroul Necunoscut",
+      "latitudine": 44.556332,
+      "longitudine": 27.358935,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 129,
+      "nume": "Eterna trecere",
+      "latitudine": 46.985404,
+      "longitudine": 27.584881,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 130,
+      "nume": "Eugeniu Carada",
+      "latitudine": 44.315744,
+      "longitudine": 23.801394,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 131,
+      "nume": "Far-est",
+      "latitudine": 44.414331,
+      "longitudine": 25.971043,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 132,
+      "nume": "Felinar din fostul sistem de iluminat",
+      "latitudine": 47.175063,
+      "longitudine": 27.571801,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 133,
+      "nume": "Flacăra Veșnică",
+      "latitudine": 46.773988,
+      "longitudine": 23.588599,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 134,
+      "nume": "Fort Elisabeth",
+      "latitudine": 44.710751,
+      "longitudine": 22.458278,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 135,
+      "nume": "Fostul Schit Bălteni",
+      "latitudine": 44.709385,
+      "longitudine": 26.031159,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 136,
+      "nume": "Fragment din zidul Berlinului",
+      "latitudine": 45.76013,
+      "longitudine": 21.231546,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 137,
+      "nume": "Frații Buzești",
+      "latitudine": 44.313712,
+      "longitudine": 23.793086,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 138,
+      "nume": "Furnalul de la Govăjdia",
+      "latitudine": 45.740706,
+      "longitudine": 22.791203,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 139,
+      "nume": "General Baștan S. Grigore",
+      "latitudine": 45.151566,
+      "longitudine": 26.800421,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 140,
+      "nume": "George Coșbuc",
+      "latitudine": 46.205752,
+      "longitudine": 26.437153,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 141,
+      "nume": "Geromed Mediaș (1959)",
+      "latitudine": 46.155509,
+      "longitudine": 24.338997,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 142,
+      "nume": "Globus",
+      "latitudine": 46.221144,
+      "longitudine": 24.794195,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 143,
+      "nume": "Glorie Eroilor Zărnești",
+      "latitudine": 45.560773,
+      "longitudine": 25.316301,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 144,
+      "nume": "Glorieta",
+      "latitudine": 44.301348,
+      "longitudine": 23.800708,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 145,
+      "nume": "Grup ambiental \"Izvorul de aur al dacilor\"",
+      "latitudine": 45.841945,
+      "longitudine": 23.197204,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 146,
+      "nume": "Grupul Statuar al Voievozilor",
+      "latitudine": 47.17071,
+      "longitudine": 27.576641,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 147,
+      "nume": "Gábor Áron",
+      "latitudine": 46.001776,
+      "longitudine": 26.137869,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 148,
+      "nume": "Hala Centrală",
+      "latitudine": 45.102183,
+      "longitudine": 24.364043,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 149,
+      "nume": "Hanul Balcan",
+      "latitudine": 44.175407,
+      "longitudine": 28.641842,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 150,
+      "nume": "Hecate Triformis",
+      "latitudine": 45.796186,
+      "longitudine": 24.15013,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 151,
+      "nume": "Hidrocentrala Cățănaș",
+      "latitudine": 45.73223,
+      "longitudine": 22.836652,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 152,
+      "nume": "Horea, Cloșca și Crișan",
+      "latitudine": 46.771863,
+      "longitudine": 23.576894,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 153,
+      "nume": "Horia",
+      "latitudine": 47.164162,
+      "longitudine": 27.579957,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 154,
+      "nume": "Icar",
+      "latitudine": 46.986314,
+      "longitudine": 27.584065,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 155,
+      "nume": "Iernut",
+      "latitudine": 46.445253,
+      "longitudine": 24.250505,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 156,
+      "nume": "Ioan Maiorescu",
+      "latitudine": 44.319472,
+      "longitudine": 23.792903,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 157,
+      "nume": "Ioan Zidaru",
+      "latitudine": 47.132571,
+      "longitudine": 24.49765,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 158,
+      "nume": "Iustinian Teculescu",
+      "latitudine": 45.852425,
+      "longitudine": 26.186896,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 159,
+      "nume": "Izvor 6",
+      "latitudine": 46.985769,
+      "longitudine": 27.585163,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 160,
+      "nume": "Jewish Holocaust Monument",
+      "latitudine": 47.926279,
+      "longitudine": 23.888205,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 161,
+      "nume": "Johnannes-Products Codlea (1960)",
+      "latitudine": 45.694357,
+      "longitudine": 25.452349,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 162,
+      "nume": "Județul Botoșani",
+      "latitudine": 47.499481,
+      "longitudine": 26.904595,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 163,
+      "nume": "Kossuth Lajos",
+      "latitudine": 46.001092,
+      "longitudine": 26.132148,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 164,
+      "nume": "Kriegerdenkmal",
+      "latitudine": 46.002845,
+      "longitudine": 20.957041,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 165,
+      "nume": "La Cruce ( Kreuzberg)",
+      "latitudine": 45.56384,
+      "longitudine": 22.456196,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 166,
+      "nume": "Lecția de odihnă",
+      "latitudine": 45.451773,
+      "longitudine": 28.05218,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 167,
+      "nume": "Lenin",
+      "latitudine": 44.528397,
+      "longitudine": 25.99353,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 168,
+      "nume": "Libertătea religiosă",
+      "latitudine": 46.574269,
+      "longitudine": 23.784869,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 169,
+      "nume": "locul altarului fostei biserici de lemn",
+      "latitudine": 47.13996,
+      "longitudine": 26.268564,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 170,
+      "nume": "Locul unde se agață harta în cui",
+      "latitudine": 47.92803,
+      "longitudine": 23.89143,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 171,
+      "nume": "Loggia Altemberger",
+      "latitudine": 45.796999,
+      "longitudine": 24.148981,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 172,
+      "nume": "Lupa Capitolina",
+      "latitudine": 46.17628,
+      "longitudine": 23.924016,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 173,
+      "nume": "Lupa Capitolina",
+      "latitudine": 46.769709,
+      "longitudine": 23.592289,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 174,
+      "nume": "Lupa Capitolina",
+      "latitudine": 47.927166,
+      "longitudine": 23.89958,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 175,
+      "nume": "Lupoaica",
+      "latitudine": 46.450501,
+      "longitudine": 24.235425,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 176,
+      "nume": "Lupoaica cu pui",
+      "latitudine": 45.438589,
+      "longitudine": 28.056608,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 177,
+      "nume": "Lupoaică (1965)",
+      "latitudine": 46.481873,
+      "longitudine": 24.093838,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 178,
+      "nume": "Lăcaș",
+      "latitudine": 46.986557,
+      "longitudine": 27.584329,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 179,
+      "nume": "magic glass-pitesti",
+      "latitudine": 44.868954,
+      "longitudine": 24.864194,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 180,
+      "nume": "Maria Terezia",
+      "latitudine": 45.806124,
+      "longitudine": 24.148694,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 181,
+      "nume": "Mausoleul de la Mateiaș",
+      "latitudine": 45.292205,
+      "longitudine": 25.139261,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 182,
+      "nume": "Mausoleul Eroilor Sud",
+      "latitudine": 45.680906,
+      "longitudine": 27.182742,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 183,
+      "nume": "Mausoleul mănăstirii",
+      "latitudine": 44.176553,
+      "longitudine": 26.143176,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 184,
+      "nume": "Memorial dedicat celor căzuți în războaiele mondiale",
+      "latitudine": 47.514559,
+      "longitudine": 22.137151,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 185,
+      "nume": "Memorialul Eroilor",
+      "latitudine": 44.120897,
+      "longitudine": 28.570884,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 186,
+      "nume": "Memorialul Eroilor Neamului",
+      "latitudine": 44.411236,
+      "longitudine": 26.096861,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 187,
+      "nume": "Memorialul Ivan Patzaichin",
+      "latitudine": 45.181463,
+      "longitudine": 28.80485,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 188,
+      "nume": "Memorialul Renașterii",
+      "latitudine": 44.438889,
+      "longitudine": 26.097454,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 189,
+      "nume": "Mihai Eminescu",
+      "latitudine": 45.78371,
+      "longitudine": 24.141155,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 190,
+      "nume": "Mihai Eminescu",
+      "latitudine": 46.929411,
+      "longitudine": 26.364054,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 191,
+      "nume": "Mihai I",
+      "latitudine": 44.318726,
+      "longitudine": 23.799661,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 192,
+      "nume": "Mihai Viteazul",
+      "latitudine": 44.621189,
+      "longitudine": 23.189802,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 193,
+      "nume": "Mihai Viteazul",
+      "latitudine": 46.544784,
+      "longitudine": 23.887461,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 194,
+      "nume": "Mihai Vodă",
+      "latitudine": 45.209288,
+      "longitudine": 23.282535,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 195,
+      "nume": "Mircea cel Bătrân",
+      "latitudine": 43.751086,
+      "longitudine": 24.873193,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 196,
+      "nume": "Moara cu Apa",
+      "latitudine": 45.766412,
+      "longitudine": 25.148567,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 197,
+      "nume": "Moara de apă Warthiadi",
+      "latitudine": 45.216214,
+      "longitudine": 26.048919,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 198,
+      "nume": "Monolitul",
+      "latitudine": 46.768814,
+      "longitudine": 23.630084,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 199,
+      "nume": "Monument",
+      "latitudine": 44.5697,
+      "longitudine": 24.78213,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 200,
+      "nume": "Monument",
+      "latitudine": 44.665082,
+      "longitudine": 24.498563,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 201,
+      "nume": "Monument",
+      "latitudine": 44.881791,
+      "longitudine": 24.136593,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 202,
+      "nume": "Monument",
+      "latitudine": 45.012274,
+      "longitudine": 24.245024,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 203,
+      "nume": "Monument",
+      "latitudine": 45.080116,
+      "longitudine": 24.350431,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 204,
+      "nume": "Monument",
+      "latitudine": 45.419249,
+      "longitudine": 24.38981,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 205,
+      "nume": "Monument",
+      "latitudine": 45.443546,
+      "longitudine": 23.376567,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 206,
+      "nume": "Monument",
+      "latitudine": 45.719656,
+      "longitudine": 25.772479,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 207,
+      "nume": "Monument",
+      "latitudine": 45.8876,
+      "longitudine": 23.793938,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 208,
+      "nume": "Monument",
+      "latitudine": 45.958169,
+      "longitudine": 27.104808,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 209,
+      "nume": "Monument",
+      "latitudine": 45.985551,
+      "longitudine": 24.685658,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 210,
+      "nume": "Monument",
+      "latitudine": 46.187848,
+      "longitudine": 24.060426,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 211,
+      "nume": "Monument",
+      "latitudine": 46.194321,
+      "longitudine": 24.960588,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 212,
+      "nume": "Monument",
+      "latitudine": 46.446882,
+      "longitudine": 24.226853,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 213,
+      "nume": "Monument",
+      "latitudine": 47.120105,
+      "longitudine": 26.80184,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 214,
+      "nume": "Monument ''Puntea''",
+      "latitudine": 45.79664,
+      "longitudine": 24.158276,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 215,
+      "nume": "Monument - Cruce din piatră",
+      "latitudine": 45.404184,
+      "longitudine": 25.540131,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 216,
+      "nume": "Monument - Răscoala de la 1907",
+      "latitudine": 44.268366,
+      "longitudine": 25.522188,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 217,
+      "nume": "Monument 1940",
+      "latitudine": 46.709736,
+      "longitudine": 23.496698,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 218,
+      "nume": "Monument acvilă",
+      "latitudine": 45.063947,
+      "longitudine": 24.387557,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 219,
+      "nume": "Monument al Eroilor",
+      "latitudine": 44.763365,
+      "longitudine": 26.531132,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 220,
+      "nume": "Monument al Eroilor",
+      "latitudine": 44.784074,
+      "longitudine": 26.519338,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 221,
+      "nume": "Monument al ostașilor din cele două războaie mondiale",
+      "latitudine": 45.406506,
+      "longitudine": 28.204352,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 222,
+      "nume": "Monument al victimelor accidentului navei Mogoșoaia",
+      "latitudine": 45.40658,
+      "longitudine": 28.204208,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 223,
+      "nume": "Monument Aniversar CSH 1884-1974.",
+      "latitudine": 45.754653,
+      "longitudine": 22.896048,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 224,
+      "nume": "Monument Avram Iancu",
+      "latitudine": 46.175543,
+      "longitudine": 23.919879,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 225,
+      "nume": "Monument Brancusi",
+      "latitudine": 44.419835,
+      "longitudine": 26.012952,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 226,
+      "nume": "Monument cu Înger",
+      "latitudine": 46.20331,
+      "longitudine": 27.387922,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 227,
+      "nume": "Monument de răscruce",
+      "latitudine": 44.847417,
+      "longitudine": 28.318521,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 228,
+      "nume": "Monument Ecaterina Teodoroiu",
+      "latitudine": 45.845312,
+      "longitudine": 27.210553,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 229,
+      "nume": "Monument Eroi",
+      "latitudine": 43.904176,
+      "longitudine": 24.614123,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 230,
+      "nume": "Monument Hipic",
+      "latitudine": 44.300248,
+      "longitudine": 23.799052,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 231,
+      "nume": "Monument Intrare Comuna Florești-Stoenești",
+      "latitudine": 44.463225,
+      "longitudine": 25.732026,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 232,
+      "nume": "Monument istoric",
+      "latitudine": 47.47573,
+      "longitudine": 22.582643,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 233,
+      "nume": "Monument istoric Gării 53",
+      "latitudine": 45.443728,
+      "longitudine": 28.0532,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 234,
+      "nume": "Monument Nicholaus Olahus",
+      "latitudine": 45.798316,
+      "longitudine": 24.155296,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 235,
+      "nume": "Monument Primul Razboi Mondial",
+      "latitudine": 45.760336,
+      "longitudine": 21.112576,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 236,
+      "nume": "Monument rus",
+      "latitudine": 45.079136,
+      "longitudine": 28.229701,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 237,
+      "nume": "Monument Vorona",
+      "latitudine": 47.581686,
+      "longitudine": 26.639497,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 238,
+      "nume": "Monument votiv",
+      "latitudine": 46.985212,
+      "longitudine": 27.584722,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 239,
+      "nume": "Monument în memoria ostașilor Regimentului 11 Siret",
+      "latitudine": 45.424182,
+      "longitudine": 28.04044,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 240,
+      "nume": "Monumentul Aerului",
+      "latitudine": 44.457031,
+      "longitudine": 26.091268,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 241,
+      "nume": "Monumentul al Apusencilor",
+      "latitudine": 46.39571,
+      "longitudine": 23.407039,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 242,
+      "nume": "Monumentul Aripi",
+      "latitudine": 44.478935,
+      "longitudine": 26.072242,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 243,
+      "nume": "Monumentul Arma Sovietă",
+      "latitudine": 46.22281,
+      "longitudine": 24.79498,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 244,
+      "nume": "Monumentul Aurel Vlaicu",
+      "latitudine": 45.093945,
+      "longitudine": 25.764692,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 245,
+      "nume": "Monumentul Aviatorilor",
+      "latitudine": 45.149431,
+      "longitudine": 26.824416,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 246,
+      "nume": "Monumentul Centenarului Independenței",
+      "latitudine": 43.997293,
+      "longitudine": 22.93469,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 247,
+      "nume": "Monumentul Comemorativ al Adunării de la Islaz",
+      "latitudine": 43.719799,
+      "longitudine": 24.765027,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 248,
+      "nume": "Monumentul Custozza",
+      "latitudine": 46.068038,
+      "longitudine": 23.572066,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 249,
+      "nume": "Monumentul Dadaismului Moinești",
+      "latitudine": 46.481215,
+      "longitudine": 26.499012,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 250,
+      "nume": "Monumentul de la Guruslău",
+      "latitudine": 47.268502,
+      "longitudine": 22.961547,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 251,
+      "nume": "Monumentul de la Straja",
+      "latitudine": 44.114891,
+      "longitudine": 28.444555,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 252,
+      "nume": "Monumentul de la Tapia",
+      "latitudine": 45.684071,
+      "longitudine": 21.973161,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 253,
+      "nume": "Monumentul dedicat Ecaterinei Teodoroiu",
+      "latitudine": 45.44404,
+      "longitudine": 25.573167,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 254,
+      "nume": "Monumentul Dezrădăcinați 1950",
+      "latitudine": 44.723713,
+      "longitudine": 22.399071,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 255,
+      "nume": "Monumentul Deșteptarea României-Bust Barbu Știrbei",
+      "latitudine": 45.102748,
+      "longitudine": 24.357631,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 256,
+      "nume": "Monumentul Deținuților Politici",
+      "latitudine": 46.17436,
+      "longitudine": 21.321281,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 257,
+      "nume": "Monumentul Direcției Drumuri-Poduri Argeș (1985)",
+      "latitudine": 45.216468,
+      "longitudine": 24.991831,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 258,
+      "nume": "Monumentul Eroii Neamului",
+      "latitudine": 46.773923,
+      "longitudine": 23.582731,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 259,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 43.778657,
+      "longitudine": 25.78661,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 260,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 43.811416,
+      "longitudine": 28.583878,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 261,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 43.81815,
+      "longitudine": 28.212494,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 262,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 43.822863,
+      "longitudine": 23.900081,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 263,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 43.824235,
+      "longitudine": 28.09811,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 264,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 43.867945,
+      "longitudine": 24.378178,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 265,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 43.975837,
+      "longitudine": 24.044244,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 266,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 44.118094,
+      "longitudine": 24.678729,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 267,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 44.183206,
+      "longitudine": 25.197992,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 268,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 44.279259,
+      "longitudine": 24.990398,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 269,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 44.284754,
+      "longitudine": 23.187676,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 270,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 44.300645,
+      "longitudine": 25.984704,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 271,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 44.366482,
+      "longitudine": 27.180001,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 272,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 44.370712,
+      "longitudine": 23.425498,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 273,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 44.38003,
+      "longitudine": 25.010797,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 274,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 44.400514,
+      "longitudine": 25.910968,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 275,
+      "nume": "Monumentul eroilor",
+      "latitudine": 44.402461,
+      "longitudine": 26.101104,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 276,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 44.460621,
+      "longitudine": 24.449698,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 277,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 44.468203,
+      "longitudine": 24.974543,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 278,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 44.493346,
+      "longitudine": 24.033495,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 279,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 44.56205,
+      "longitudine": 25.774563,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 280,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 44.815272,
+      "longitudine": 26.487237,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 281,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 44.891335,
+      "longitudine": 26.657273,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 282,
+      "nume": "Monumentul eroilor",
+      "latitudine": 44.910725,
+      "longitudine": 25.704395,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 283,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 44.92557,
+      "longitudine": 26.861611,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 284,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 44.975407,
+      "longitudine": 25.437482,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 285,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 45.029712,
+      "longitudine": 26.031207,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 286,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 45.080804,
+      "longitudine": 24.176929,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 287,
+      "nume": "Monumentul eroilor",
+      "latitudine": 45.085516,
+      "longitudine": 23.907831,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 288,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 45.097748,
+      "longitudine": 26.590805,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 289,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 45.135061,
+      "longitudine": 27.479243,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 290,
+      "nume": "Monumentul eroilor",
+      "latitudine": 45.135841,
+      "longitudine": 24.248928,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 291,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 45.147323,
+      "longitudine": 27.644449,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 292,
+      "nume": "Monumentul eroilor",
+      "latitudine": 45.18155,
+      "longitudine": 24.257904,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 293,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 45.185688,
+      "longitudine": 26.03948,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 294,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 45.189565,
+      "longitudine": 28.233801,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 295,
+      "nume": "Monumentul eroilor",
+      "latitudine": 45.22492,
+      "longitudine": 26.05653,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 296,
+      "nume": "Monumentul eroilor",
+      "latitudine": 45.243462,
+      "longitudine": 24.349989,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 297,
+      "nume": "Monumentul eroilor",
+      "latitudine": 45.245527,
+      "longitudine": 28.130512,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 298,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 45.303777,
+      "longitudine": 25.721774,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 299,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 45.343584,
+      "longitudine": 24.244233,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 300,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 45.386841,
+      "longitudine": 21.135618,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 301,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 45.604593,
+      "longitudine": 25.307704,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 302,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 45.711214,
+      "longitudine": 27.181144,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 303,
+      "nume": "Monumentul eroilor",
+      "latitudine": 45.745484,
+      "longitudine": 24.993663,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 304,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 45.751929,
+      "longitudine": 23.922365,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 305,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 45.75869,
+      "longitudine": 22.909003,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 306,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 45.763571,
+      "longitudine": 25.640459,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 307,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 45.843604,
+      "longitudine": 24.973504,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 308,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 45.853936,
+      "longitudine": 24.980733,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 309,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 45.859854,
+      "longitudine": 23.169862,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 310,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 45.895714,
+      "longitudine": 25.266464,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 311,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 45.924902,
+      "longitudine": 20.890961,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 312,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 45.957308,
+      "longitudine": 23.362481,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 313,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 46.078176,
+      "longitudine": 27.268815,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 314,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 46.112571,
+      "longitudine": 24.228467,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 315,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 46.125396,
+      "longitudine": 24.0416,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 316,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 46.155977,
+      "longitudine": 21.593455,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 317,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 46.168109,
+      "longitudine": 22.735852,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 318,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 46.179195,
+      "longitudine": 23.621382,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 319,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 46.20583,
+      "longitudine": 27.386838,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 320,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 46.2705,
+      "longitudine": 26.589083,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 321,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 46.29289,
+      "longitudine": 22.394597,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 322,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 46.341918,
+      "longitudine": 21.299423,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 323,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 46.380076,
+      "longitudine": 23.280802,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 324,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 46.398256,
+      "longitudine": 23.419521,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 325,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 46.407199,
+      "longitudine": 24.169249,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 326,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 46.437814,
+      "longitudine": 26.401141,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 327,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 46.473891,
+      "longitudine": 24.095049,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 328,
+      "nume": "Monumentul eroilor",
+      "latitudine": 46.95868,
+      "longitudine": 22.617454,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 329,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 47.046249,
+      "longitudine": 27.274435,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 330,
+      "nume": "Monumentul eroilor",
+      "latitudine": 47.126958,
+      "longitudine": 23.698856,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 331,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 47.238294,
+      "longitudine": 26.289434,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 332,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 47.452816,
+      "longitudine": 23.865619,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 333,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 47.654507,
+      "longitudine": 25.98673,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 334,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 47.822741,
+      "longitudine": 24.4356,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 335,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 47.842045,
+      "longitudine": 23.386823,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 336,
+      "nume": "Monumentul Eroilor",
+      "latitudine": 47.922892,
+      "longitudine": 25.673225,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 337,
+      "nume": "Monumentul eroilor (1916-1919)",
+      "latitudine": 44.260473,
+      "longitudine": 25.579158,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 338,
+      "nume": "Monumentul Eroilor (24 Octombrie 1848)",
+      "latitudine": 46.095967,
+      "longitudine": 23.340169,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 339,
+      "nume": "Monumentul Eroilor - Șinca Veche",
+      "latitudine": 45.763471,
+      "longitudine": 25.16759,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 340,
+      "nume": "Monumentul Eroilor 2009",
+      "latitudine": 45.269257,
+      "longitudine": 26.015247,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 341,
+      "nume": "Monumentul Eroilor Aerului",
+      "latitudine": 44.45977,
+      "longitudine": 26.086078,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 342,
+      "nume": "Monumentul Eroilor Agapia",
+      "latitudine": 47.17332,
+      "longitudine": 26.284442,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 343,
+      "nume": "Monumentul Eroilor Artileriști",
+      "latitudine": 44.43456,
+      "longitudine": 26.07236,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 344,
+      "nume": "Monumentul eroilor Bodești",
+      "latitudine": 45.142043,
+      "longitudine": 24.113746,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 345,
+      "nume": "Monumentul Eroilor cazuti in primul si al doilea Razboi Mondial",
+      "latitudine": 47.061928,
+      "longitudine": 22.39589,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 346,
+      "nume": "Monumentul Eroilor Ceferiști",
+      "latitudine": 45.83551,
+      "longitudine": 27.423798,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 347,
+      "nume": "Monumentul Eroilor Cheia",
+      "latitudine": 45.18269,
+      "longitudine": 24.215163,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 348,
+      "nume": "Monumentul Eroilor căzuți pe câmpul de onoare in Primul Război Mondial",
+      "latitudine": 44.846685,
+      "longitudine": 26.917165,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 349,
+      "nume": "Monumentul Eroilor căzuți în cel de al doilea Război Mondial",
+      "latitudine": 47.157852,
+      "longitudine": 26.901402,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 350,
+      "nume": "Monumentul Eroilor căzuți în Războaiele Mondiale I și II",
+      "latitudine": 46.22396,
+      "longitudine": 23.957565,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 351,
+      "nume": "Monumentul Eroilor de la Flămânda",
+      "latitudine": 45.263299,
+      "longitudine": 25.050405,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 352,
+      "nume": "Monumentul Eroilor de la Oarba de Mureș",
+      "latitudine": 46.454877,
+      "longitudine": 24.266071,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 353,
+      "nume": "Monumentul Eroilor de la Păuliș",
+      "latitudine": 46.128968,
+      "longitudine": 21.559951,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 354,
+      "nume": "Monumentul Eroilor din 1916-1919",
+      "latitudine": 44.442723,
+      "longitudine": 26.114932,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 355,
+      "nume": "Monumentul eroilor din Pecica",
+      "latitudine": 46.160584,
+      "longitudine": 21.064824,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 356,
+      "nume": "Monumentul Eroilor din Primul Război Mondial",
+      "latitudine": 45.176878,
+      "longitudine": 25.70231,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 357,
+      "nume": "Monumentul eroilor din primul război mondial",
+      "latitudine": 45.232309,
+      "longitudine": 25.937469,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 358,
+      "nume": "Monumentul Eroilor din Razboiul pentru Independenta",
+      "latitudine": 45.186785,
+      "longitudine": 28.814882,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 359,
+      "nume": "Monumentul eroilor din Tămășești și Parisești",
+      "latitudine": 44.264089,
+      "longitudine": 25.551799,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 360,
+      "nume": "Monumentul Eroilor din Vorona",
+      "latitudine": 47.578018,
+      "longitudine": 26.632665,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 361,
+      "nume": "Monumentul Eroilor din Vârfurile",
+      "latitudine": 46.310057,
+      "longitudine": 22.521552,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 362,
+      "nume": "Monumentul Eroilor Divizia a2a Cavalerie",
+      "latitudine": 47.17937,
+      "longitudine": 27.568693,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 363,
+      "nume": "Monumentul Eroilor Hăneșteni",
+      "latitudine": 47.910939,
+      "longitudine": 26.978233,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 364,
+      "nume": "Monumentul eroilor Mierlești",
+      "latitudine": 45.177951,
+      "longitudine": 24.123387,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 365,
+      "nume": "Monumentul Eroilor Movila",
+      "latitudine": 44.675324,
+      "longitudine": 25.967607,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 366,
+      "nume": "Monumentul Eroilor Mădulari",
+      "latitudine": 44.687767,
+      "longitudine": 24.094677,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 367,
+      "nume": "Monumentul Eroilor Neamului",
+      "latitudine": 46.221512,
+      "longitudine": 27.668059,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 368,
+      "nume": "Monumentul Eroilor Neamului",
+      "latitudine": 47.522779,
+      "longitudine": 22.131249,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 369,
+      "nume": "Monumentul Eroilor Necunoscuti",
+      "latitudine": 45.446463,
+      "longitudine": 23.412363,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 370,
+      "nume": "Monumentul Eroilor Patriei",
+      "latitudine": 44.430357,
+      "longitudine": 26.066758,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 371,
+      "nume": "Monumentul Eroilor Piloți de Vânătoare",
+      "latitudine": 44.465233,
+      "longitudine": 26.093286,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 372,
+      "nume": "Monumentul Eroilor Podu Broșteni",
+      "latitudine": 44.742402,
+      "longitudine": 24.856299,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 373,
+      "nume": "Monumentul Eroilor Poliţişti",
+      "latitudine": 44.433287,
+      "longitudine": 26.097658,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 374,
+      "nume": "Monumentul Eroilor Pompieri",
+      "latitudine": 44.425459,
+      "longitudine": 26.077132,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 375,
+      "nume": "Monumentul eroilor primului război mondial",
+      "latitudine": 46.17012,
+      "longitudine": 21.316175,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 376,
+      "nume": "Monumentul Eroilor Regina Maria",
+      "latitudine": 46.249861,
+      "longitudine": 26.76091,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 377,
+      "nume": "Monumentul Eroilor Revoluției din 1989",
+      "latitudine": 46.17574,
+      "longitudine": 21.318335,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 378,
+      "nume": "Monumentul Eroilor Români din Al Doilea Război Mondial",
+      "latitudine": 45.639617,
+      "longitudine": 24.298614,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 379,
+      "nume": "Monumentul Eroilor Români din Primul și Al Doilea Război Mondial",
+      "latitudine": 47.244896,
+      "longitudine": 24.01669,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 380,
+      "nume": "Monumentul Eroilor Sanitari",
+      "latitudine": 44.434564,
+      "longitudine": 26.0771,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 381,
+      "nume": "Monumentul Eroilor Sași",
+      "latitudine": 45.789812,
+      "longitudine": 24.117811,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 382,
+      "nume": "Monumentul Eroilor Sovietici",
+      "latitudine": 43.996718,
+      "longitudine": 22.932337,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 383,
+      "nume": "Monumentul Eroilor Tecuci-Kalinderu",
+      "latitudine": 44.345003,
+      "longitudine": 24.857822,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 384,
+      "nume": "Monumentul Eroilor Topraisar",
+      "latitudine": 44.023128,
+      "longitudine": 28.464587,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 385,
+      "nume": "Monumentul Eroilor Transmisioniști",
+      "latitudine": 44.417715,
+      "longitudine": 26.058621,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 386,
+      "nume": "Monumentul Eroilor Șinca Nouă",
+      "latitudine": 45.699661,
+      "longitudine": 25.24378,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 387,
+      "nume": "Monumentul Eroului Necunoscut",
+      "latitudine": 46.450005,
+      "longitudine": 24.233054,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 388,
+      "nume": "Monumentul Familia",
+      "latitudine": 44.808836,
+      "longitudine": 25.08347,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 389,
+      "nume": "Monumentul Fecioara Maria",
+      "latitudine": 45.748342,
+      "longitudine": 21.218878,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 390,
+      "nume": "Monumentul Independenței",
+      "latitudine": 44.30708,
+      "longitudine": 23.794397,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 391,
+      "nume": "Monumentul independenței",
+      "latitudine": 45.104529,
+      "longitudine": 24.361886,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 392,
+      "nume": "Monumentul Infanteristului",
+      "latitudine": 44.438194,
+      "longitudine": 26.069317,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 393,
+      "nume": "Monumentul Losenau",
+      "latitudine": 46.067933,
+      "longitudine": 23.572638,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 394,
+      "nume": "Monumentul Lupeni ’29",
+      "latitudine": 45.355368,
+      "longitudine": 23.219002,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 395,
+      "nume": "Monumentul luptătorilor anticomuniști",
+      "latitudine": 45.645291,
+      "longitudine": 25.59872,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 396,
+      "nume": "Monumentul Martir \"Nicolae Bogdan\"",
+      "latitudine": 46.473508,
+      "longitudine": 22.474582,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 397,
+      "nume": "Monumentul Nerlinger",
+      "latitudine": 45.595289,
+      "longitudine": 24.664309,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 398,
+      "nume": "Monumentul ostașilor cavaleriști",
+      "latitudine": 44.122343,
+      "longitudine": 25.675064,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 399,
+      "nume": "Monumentul Ostașului Necunoscut",
+      "latitudine": 45.751165,
+      "longitudine": 21.221073,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 400,
+      "nume": "Monumentul paznicilor lagărului din Cetatea Aradului",
+      "latitudine": 46.175504,
+      "longitudine": 21.338133,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 401,
+      "nume": "Monumentul Polițiștilor de Frontieră Grăniceri căzuți la datorie",
+      "latitudine": 43.99536,
+      "longitudine": 22.934175,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 402,
+      "nume": "Monumentul Recunoștinței",
+      "latitudine": 44.111881,
+      "longitudine": 24.3447,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 403,
+      "nume": "Monumentul Revoluției",
+      "latitudine": 45.751514,
+      "longitudine": 21.224629,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 404,
+      "nume": "Monumentul Rezistenței Anticomuniste din Banat",
+      "latitudine": 45.778335,
+      "longitudine": 21.268452,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 405,
+      "nume": "Monumentul Rezistenței Anticomuniste din Țara Făgărașului",
+      "latitudine": 45.844828,
+      "longitudine": 24.975416,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 406,
+      "nume": "Monumentul Rușilor",
+      "latitudine": 45.71253,
+      "longitudine": 27.181103,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 407,
+      "nume": "Monumentul Răscoalei de la Bobâlna",
+      "latitudine": 47.105185,
+      "longitudine": 23.645856,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 408,
+      "nume": "Monumentul Sf. Maria și a Sf. Nepomuk",
+      "latitudine": 45.755759,
+      "longitudine": 21.227202,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 409,
+      "nume": "Monumentul Societății pentru Infrumusețarea Orașului (1929)",
+      "latitudine": 45.783019,
+      "longitudine": 24.139577,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 410,
+      "nume": "Monumentul Soldatului Sovietic",
+      "latitudine": 44.47881,
+      "longitudine": 26.097362,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 411,
+      "nume": "Monumentul Taranilor cazuti in Rascoala din 1904",
+      "latitudine": 47.059816,
+      "longitudine": 22.396305,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 412,
+      "nume": "Monumentul Trupelor de Geniu (Leul)",
+      "latitudine": 44.434311,
+      "longitudine": 26.058746,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 413,
+      "nume": "Monumentul Turismului",
+      "latitudine": 45.552959,
+      "longitudine": 22.459417,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 414,
+      "nume": "Monumentul Turistului",
+      "latitudine": 46.243177,
+      "longitudine": 21.632876,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 415,
+      "nume": "Monumentul Turistului 1914",
+      "latitudine": 45.669575,
+      "longitudine": 22.209813,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 416,
+      "nume": "Monumentul Unirii",
+      "latitudine": 46.068904,
+      "longitudine": 23.566655,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 417,
+      "nume": "Monumentul Unirii",
+      "latitudine": 47.167538,
+      "longitudine": 27.583883,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 418,
+      "nume": "Monumentul Unirii",
+      "latitudine": 47.637485,
+      "longitudine": 26.238362,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 419,
+      "nume": "Monumentul Veteranilor",
+      "latitudine": 45.728817,
+      "longitudine": 21.205774,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 420,
+      "nume": "Monumentul Victimelor Pogromului din 1941",
+      "latitudine": 47.165397,
+      "longitudine": 27.592325,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 421,
+      "nume": "Monumentul Vânătorilor din Războiul de Independență",
+      "latitudine": 44.926558,
+      "longitudine": 26.02924,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 422,
+      "nume": "Monumentul țăranilor eroi din 1907",
+      "latitudine": 45.16917,
+      "longitudine": 26.8191,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 423,
+      "nume": "Monumentul “Sfânta Treime”",
+      "latitudine": 46.171773,
+      "longitudine": 21.315766,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 424,
+      "nume": "Monumentul „Academia Mihăileană” Iași",
+      "latitudine": 47.166049,
+      "longitudine": 27.578246,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 425,
+      "nume": "Monumentul „Glad, Gelu și Menumorut”",
+      "latitudine": 46.384031,
+      "longitudine": 21.312314,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 426,
+      "nume": "Monumentul „Mihai Eminescu”",
+      "latitudine": 46.248131,
+      "longitudine": 26.759965,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 427,
+      "nume": "Monumentul „Vasile Bulbocă”",
+      "latitudine": 46.341915,
+      "longitudine": 21.307386,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 428,
+      "nume": "Monumentul „Virgi Iovănaș”",
+      "latitudine": 46.341112,
+      "longitudine": 21.308165,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 429,
+      "nume": "Mormântul lui Ion Heliade Rădulescu",
+      "latitudine": 44.454927,
+      "longitudine": 26.083135,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 430,
+      "nume": "Mormântul lui Pintea Viteazul",
+      "latitudine": 47.69781,
+      "longitudine": 23.778451,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 431,
+      "nume": "Motorcycle",
+      "latitudine": 45.46983,
+      "longitudine": 23.437078,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 432,
+      "nume": "Muncitorul Forestier",
+      "latitudine": 45.343845,
+      "longitudine": 24.244084,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 433,
+      "nume": "Munument Răscoala (1784)",
+      "latitudine": 46.171259,
+      "longitudine": 22.768035,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 434,
+      "nume": "Munumentul Eroilor",
+      "latitudine": 45.15755,
+      "longitudine": 24.672589,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 435,
+      "nume": "Muzeul Emil Sigerus - Casa Artelor - Hala Măcelarilor",
+      "latitudine": 45.798457,
+      "longitudine": 24.151219,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 436,
+      "nume": "myasto za pauza",
+      "latitudine": 44.655771,
+      "longitudine": 26.806295,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 437,
+      "nume": "Márton Áron",
+      "latitudine": 46.002899,
+      "longitudine": 26.137781,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 438,
+      "nume": "Márton Áron",
+      "latitudine": 46.344234,
+      "longitudine": 25.646972,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 439,
+      "nume": "Mărul de Aur",
+      "latitudine": 46.545012,
+      "longitudine": 27.810592,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 440,
+      "nume": "Nicolae Titulescu",
+      "latitudine": 44.32084,
+      "longitudine": 23.787445,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 441,
+      "nume": "Obelisc (1916 - 1919)",
+      "latitudine": 45.276993,
+      "longitudine": 27.952689,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 442,
+      "nume": "Obelisc Costinești",
+      "latitudine": 43.946662,
+      "longitudine": 28.637451,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 443,
+      "nume": "Obelisc Serg Popescu Constantin",
+      "latitudine": 43.996957,
+      "longitudine": 22.931011,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 444,
+      "nume": "Obelisc Szweteney Weg",
+      "latitudine": 45.782339,
+      "longitudine": 24.138347,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 445,
+      "nume": "Obeliscul",
+      "latitudine": 46.066939,
+      "longitudine": 23.575582,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 446,
+      "nume": "Obeliscul Consilierului Klein von Straußenburg (1816)",
+      "latitudine": 45.795824,
+      "longitudine": 24.158787,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 447,
+      "nume": "Obeliscul Funerar",
+      "latitudine": 46.168814,
+      "longitudine": 22.797919,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 448,
+      "nume": "Obeliscul Leilor",
+      "latitudine": 47.178529,
+      "longitudine": 27.566927,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 449,
+      "nume": "Obeliscul lui Avram Iancu",
+      "latitudine": 46.175513,
+      "longitudine": 22.714641,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 450,
+      "nume": "Obeliscul Unirii",
+      "latitudine": 45.69589,
+      "longitudine": 27.184705,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 451,
+      "nume": "Obelisk of Rudolf of Hapsburg",
+      "latitudine": 47.791179,
+      "longitudine": 25.763661,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 452,
+      "nume": "Odihna haiducului",
+      "latitudine": 46.985197,
+      "longitudine": 27.585905,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 453,
+      "nume": "Old hospital",
+      "latitudine": 46.774249,
+      "longitudine": 24.69375,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 454,
+      "nume": "Oscar parking",
+      "latitudine": 44.98288,
+      "longitudine": 26.713493,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 455,
+      "nume": "Palia",
+      "latitudine": 45.838024,
+      "longitudine": 23.19269,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 456,
+      "nume": "Papa Ioan Paul II",
+      "latitudine": 44.380684,
+      "longitudine": 26.173272,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 457,
+      "nume": "Paralela 45",
+      "latitudine": 44.999809,
+      "longitudine": 25.891012,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 458,
+      "nume": "Park",
+      "latitudine": 45.575724,
+      "longitudine": 27.100828,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 459,
+      "nume": "Pasăre",
+      "latitudine": 46.985265,
+      "longitudine": 27.583837,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 460,
+      "nume": "Perimetru Bateria Nr. 17 - 18",
+      "latitudine": 44.433656,
+      "longitudine": 25.965751,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 461,
+      "nume": "Perimetru Fortul Nr. 14 Broscărei",
+      "latitudine": 44.347828,
+      "longitudine": 26.065916,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 462,
+      "nume": "Perimetru Fortul Nr. 15 Măgurele",
+      "latitudine": 44.363329,
+      "longitudine": 26.021121,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 463,
+      "nume": "Perimetru Fortul Nr. 16 Bragadiru",
+      "latitudine": 44.38694,
+      "longitudine": 25.986004,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 464,
+      "nume": "Perimetru Fortul Nr. 18 Chiajna",
+      "latitudine": 44.454152,
+      "longitudine": 25.96344,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 465,
+      "nume": "Piatra de hotar",
+      "latitudine": 45.150163,
+      "longitudine": 24.113327,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 466,
+      "nume": "Piatra de Hotar",
+      "latitudine": 46.428883,
+      "longitudine": 21.453284,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 467,
+      "nume": "Piatra de hotar",
+      "latitudine": 46.985003,
+      "longitudine": 27.586195,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 468,
+      "nume": "Piatra voievodală",
+      "latitudine": 46.985034,
+      "longitudine": 27.585504,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 469,
+      "nume": "Piatră de moară",
+      "latitudine": 44.642573,
+      "longitudine": 26.222383,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 470,
+      "nume": "Poarta de intrare",
+      "latitudine": 46.449205,
+      "longitudine": 24.244595,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 471,
+      "nume": "Poarta Monumentală",
+      "latitudine": 44.92598,
+      "longitudine": 26.007199,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 472,
+      "nume": "Poartă",
+      "latitudine": 44.821282,
+      "longitudine": 26.832599,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 473,
+      "nume": "Poartă acces",
+      "latitudine": 45.000961,
+      "longitudine": 23.880471,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 474,
+      "nume": "Podul de la Cetate",
+      "latitudine": 47.559421,
+      "longitudine": 25.905446,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 475,
+      "nume": "Poiana cu narcise - rezervație",
+      "latitudine": 46.755682,
+      "longitudine": 24.868537,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 476,
+      "nume": "Porticul Intrării",
+      "latitudine": 44.301876,
+      "longitudine": 23.799199,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 477,
+      "nume": "Posada (1330)",
+      "latitudine": 45.366999,
+      "longitudine": 24.400782,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 478,
+      "nume": "Prodomus",
+      "latitudine": 46.986023,
+      "longitudine": 27.584534,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 479,
+      "nume": "Punct Muzeal \"Ioan Vodă\"",
+      "latitudine": 45.60086,
+      "longitudine": 27.244018,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 480,
+      "nume": "Păunițe",
+      "latitudine": 44.570168,
+      "longitudine": 26.384495,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 481,
+      "nume": "rampa vrancart",
+      "latitudine": 46.108856,
+      "longitudine": 27.187517,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 482,
+      "nume": "Regatul României",
+      "latitudine": 45.994624,
+      "longitudine": 23.485312,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 483,
+      "nume": "Restaurant Fortunescu",
+      "latitudine": 44.315892,
+      "longitudine": 23.802565,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 484,
+      "nume": "roadside crucifix",
+      "latitudine": 45.646905,
+      "longitudine": 24.335521,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 485,
+      "nume": "roadside crucifix",
+      "latitudine": 45.65195,
+      "longitudine": 24.330147,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 486,
+      "nume": "roadside crucifix",
+      "latitudine": 45.660486,
+      "longitudine": 24.3264,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 487,
+      "nume": "Rosticlar Sebeș (2007)",
+      "latitudine": 45.947896,
+      "longitudine": 23.58044,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 488,
+      "nume": "Răzeș",
+      "latitudine": 46.986402,
+      "longitudine": 27.583422,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 489,
+      "nume": "Sabia Dacică",
+      "latitudine": 45.840398,
+      "longitudine": 23.151692,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 490,
+      "nume": "Safta Brâncoveanu",
+      "latitudine": 47.139852,
+      "longitudine": 26.268754,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 491,
+      "nume": "Saint-Gobain Călărași",
+      "latitudine": 44.214638,
+      "longitudine": 27.327395,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 492,
+      "nume": "Saturn",
+      "latitudine": 43.829141,
+      "longitudine": 28.580308,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 493,
+      "nume": "Scaun vechi",
+      "latitudine": 46.98547,
+      "longitudine": 27.585683,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 494,
+      "nume": "Sculptură",
+      "latitudine": 44.751263,
+      "longitudine": 24.014191,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 495,
+      "nume": "Semn istoric",
+      "latitudine": 46.985705,
+      "longitudine": 27.584457,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 496,
+      "nume": "Semnul lui Iona",
+      "latitudine": 46.98613,
+      "longitudine": 27.583172,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 497,
+      "nume": "Sfinxul de la Buștea",
+      "latitudine": 45.519022,
+      "longitudine": 26.579003,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 498,
+      "nume": "Sfânta Cruce",
+      "latitudine": 45.757822,
+      "longitudine": 21.249576,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 499,
+      "nume": "Sigla CUG",
+      "latitudine": 46.795431,
+      "longitudine": 23.628333,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 500,
+      "nume": "siniat gips karton  turceni",
+      "latitudine": 44.66544,
+      "longitudine": 23.395401,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 501,
+      "nume": "Soldatul Roman",
+      "latitudine": 45.790934,
+      "longitudine": 24.146298,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 502,
+      "nume": "Spațiu mioritic",
+      "latitudine": 46.986299,
+      "longitudine": 27.585052,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 503,
+      "nume": "Spiru Plăcintaru",
+      "latitudine": 45.45791,
+      "longitudine": 28.037292,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 504,
+      "nume": "Spitalul 2 (1931)",
+      "latitudine": 45.108014,
+      "longitudine": 24.36839,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 505,
+      "nume": "Statuia \"Caporal Erou Constantin Mușat\"(1927-Ion C.Dimitriu-Barlad)",
+      "latitudine": 45.255814,
+      "longitudine": 27.957168,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 506,
+      "nume": "Statuia ecvestra a lui Ștefan cel Mare",
+      "latitudine": 47.642282,
+      "longitudine": 26.269609,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 507,
+      "nume": "Statuia ecvestră a lui Avram Iancu",
+      "latitudine": 46.363137,
+      "longitudine": 23.050505,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 508,
+      "nume": "Statuia Grigore Ghica Vodă",
+      "latitudine": 47.159988,
+      "longitudine": 27.594778,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 509,
+      "nume": "Statuia libertății",
+      "latitudine": 46.170871,
+      "longitudine": 21.309178,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 510,
+      "nume": "Statuia lui Alexandru Ioan Cuza",
+      "latitudine": 44.318254,
+      "longitudine": 23.796663,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 511,
+      "nume": "Statuia lui Decebal",
+      "latitudine": 44.641162,
+      "longitudine": 22.291207,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 512,
+      "nume": "Statuia lui Dimitrie Cantemir",
+      "latitudine": 47.165521,
+      "longitudine": 27.581669,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 513,
+      "nume": "Statuia lui George Enescu",
+      "latitudine": 46.24281,
+      "longitudine": 27.673665,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 514,
+      "nume": "Statuia lui Ivan Mazepa",
+      "latitudine": 45.441652,
+      "longitudine": 28.03853,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 515,
+      "nume": "Statuia lui Mihai Viteazul",
+      "latitudine": 44.317997,
+      "longitudine": 23.794015,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 516,
+      "nume": "Statuia lui Mircea cel Bătrân",
+      "latitudine": 44.85875,
+      "longitudine": 24.869436,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 517,
+      "nume": "Statuia lui Nicolae Bălcescu",
+      "latitudine": 44.858227,
+      "longitudine": 24.870136,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 518,
+      "nume": "Statuia lui Stefan cel Mare și Sfânt",
+      "latitudine": 46.93233,
+      "longitudine": 26.369432,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 519,
+      "nume": "Statuia lui Techir",
+      "latitudine": 44.053081,
+      "longitudine": 28.602275,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 520,
+      "nume": "Statuia lui Ștefan cel Mare",
+      "latitudine": 46.241944,
+      "longitudine": 26.818524,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 521,
+      "nume": "Statuia Miron Costin",
+      "latitudine": 47.164168,
+      "longitudine": 27.584795,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 522,
+      "nume": "Statuia Ostașului Român",
+      "latitudine": 45.617452,
+      "longitudine": 25.693302,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 523,
+      "nume": "Statuia Sergent Erou Ecaterina Teodoroiu",
+      "latitudine": 45.264131,
+      "longitudine": 27.969255,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 524,
+      "nume": "Statuia Soldatului Necunoscut",
+      "latitudine": 44.563395,
+      "longitudine": 25.588926,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 525,
+      "nume": "Statuia vânătorului de munte",
+      "latitudine": 46.472577,
+      "longitudine": 22.474493,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 526,
+      "nume": "Statuie",
+      "latitudine": 46.065198,
+      "longitudine": 23.573557,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 527,
+      "nume": "Statuie Hermann Oberth",
+      "latitudine": 46.15838,
+      "longitudine": 24.346117,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 528,
+      "nume": "Statuie Mihai Viteazul",
+      "latitudine": 44.947041,
+      "longitudine": 26.012175,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 529,
+      "nume": "Statuie Mircea cel Bătrân",
+      "latitudine": 45.103815,
+      "longitudine": 24.365206,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 530,
+      "nume": "Statuie soldat",
+      "latitudine": 45.111028,
+      "longitudine": 24.114495,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 531,
+      "nume": "Statuie Soldat din Primul Război Mondial",
+      "latitudine": 44.910624,
+      "longitudine": 25.616366,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 532,
+      "nume": "Statuie Traian",
+      "latitudine": 45.881689,
+      "longitudine": 22.900617,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 533,
+      "nume": "Stejar secular",
+      "latitudine": 45.761978,
+      "longitudine": 24.123355,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 534,
+      "nume": "Stejarul din Borzești",
+      "latitudine": 46.241076,
+      "longitudine": 26.817992,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 535,
+      "nume": "Stema UCMR",
+      "latitudine": 45.286102,
+      "longitudine": 21.890754,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 536,
+      "nume": "Stonehenge",
+      "latitudine": 45.760016,
+      "longitudine": 21.259594,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 537,
+      "nume": "Strajă",
+      "latitudine": 46.985662,
+      "longitudine": 27.583624,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 538,
+      "nume": "Stâlpul Calfelor",
+      "latitudine": 45.797944,
+      "longitudine": 24.149686,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 539,
+      "nume": "Stâlpul Electric Verzișori",
+      "latitudine": 44.416763,
+      "longitudine": 26.10924,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 540,
+      "nume": "SU-100 Tank",
+      "latitudine": 45.841029,
+      "longitudine": 23.162416,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 541,
+      "nume": "Tablitele de la Tărtăria",
+      "latitudine": 45.947689,
+      "longitudine": 23.410208,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 542,
+      "nume": "Tentația zborului",
+      "latitudine": 46.985643,
+      "longitudine": 27.584796,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 543,
+      "nume": "Testvérvárosok fala",
+      "latitudine": 47.519093,
+      "longitudine": 22.134565,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 544,
+      "nume": "The wall of the fortified church.",
+      "latitudine": 45.836743,
+      "longitudine": 23.195406,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 545,
+      "nume": "Tito spomen obeležje",
+      "latitudine": 44.668037,
+      "longitudine": 22.519166,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 546,
+      "nume": "tomb of Titus Flavius Rufus",
+      "latitudine": 45.903739,
+      "longitudine": 23.625241,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 547,
+      "nume": "Trilogie",
+      "latitudine": 46.985113,
+      "longitudine": 27.584634,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 548,
+      "nume": "Troita",
+      "latitudine": 46.472923,
+      "longitudine": 22.47424,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 549,
+      "nume": "Troita de la Paraul Macrii",
+      "latitudine": 45.755528,
+      "longitudine": 23.921488,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 550,
+      "nume": "troița",
+      "latitudine": 45.831031,
+      "longitudine": 23.608162,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 551,
+      "nume": "Troița Crucea Florii",
+      "latitudine": 45.758573,
+      "longitudine": 23.927355,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 552,
+      "nume": "Troița de la Calea lui Aldoaie",
+      "latitudine": 45.75205,
+      "longitudine": 23.923113,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 553,
+      "nume": "Troița de la Honvizu",
+      "latitudine": 45.757285,
+      "longitudine": 23.928006,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 554,
+      "nume": "Troița de la Moară",
+      "latitudine": 45.765118,
+      "longitudine": 23.927811,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 555,
+      "nume": "Troița lui Mihai Viteazul",
+      "latitudine": 45.769756,
+      "longitudine": 24.168404,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 556,
+      "nume": "troița Sf. Ioan Adunații-Copăceni",
+      "latitudine": 44.260045,
+      "longitudine": 26.061974,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 557,
+      "nume": "Troița Sfântul Nicolae (1930)",
+      "latitudine": 45.641402,
+      "longitudine": 24.299203,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 558,
+      "nume": "Troiță",
+      "latitudine": 44.353992,
+      "longitudine": 26.363126,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 559,
+      "nume": "Troiță",
+      "latitudine": 44.810808,
+      "longitudine": 27.271764,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 560,
+      "nume": "Troiță",
+      "latitudine": 44.971738,
+      "longitudine": 27.078379,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 561,
+      "nume": "Troiță",
+      "latitudine": 45.142884,
+      "longitudine": 26.650536,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 562,
+      "nume": "Troiță",
+      "latitudine": 45.223774,
+      "longitudine": 26.055079,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 563,
+      "nume": "Troiță",
+      "latitudine": 45.224888,
+      "longitudine": 26.683428,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 564,
+      "nume": "Troiță",
+      "latitudine": 45.63896,
+      "longitudine": 24.293495,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 565,
+      "nume": "Troiță",
+      "latitudine": 45.641397,
+      "longitudine": 24.299193,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 566,
+      "nume": "Troiță",
+      "latitudine": 45.643123,
+      "longitudine": 24.303915,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 567,
+      "nume": "Troiță",
+      "latitudine": 45.644416,
+      "longitudine": 24.304888,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 568,
+      "nume": "Troiță",
+      "latitudine": 45.917082,
+      "longitudine": 23.406227,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 569,
+      "nume": "troiță",
+      "latitudine": 47.047692,
+      "longitudine": 27.476051,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 570,
+      "nume": "Troiță",
+      "latitudine": 47.444245,
+      "longitudine": 26.885488,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 571,
+      "nume": "Troiță dedicată eroilor satului",
+      "latitudine": 45.130978,
+      "longitudine": 24.036328,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 572,
+      "nume": "troiță Sf. Parascheva, Sf. Petru, Sf. Pavel și Sf. Dimitrie",
+      "latitudine": 44.253798,
+      "longitudine": 26.05442,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 573,
+      "nume": "Tropaeum Traiani",
+      "latitudine": 44.102265,
+      "longitudine": 27.95539,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 574,
+      "nume": "Tudor Vladimirescu",
+      "latitudine": 44.319982,
+      "longitudine": 23.787158,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 575,
+      "nume": "Tudorica Dorobanțul",
+      "latitudine": 43.748696,
+      "longitudine": 24.869821,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 576,
+      "nume": "Tun",
+      "latitudine": 44.443398,
+      "longitudine": 26.167994,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 577,
+      "nume": "Tunuri",
+      "latitudine": 44.439683,
+      "longitudine": 26.172542,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 578,
+      "nume": "Turn",
+      "latitudine": 45.650504,
+      "longitudine": 24.328864,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 579,
+      "nume": "Turnul de observație din primul război mondial",
+      "latitudine": 45.809679,
+      "longitudine": 24.195802,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 580,
+      "nume": "Umbra",
+      "latitudine": 46.985674,
+      "longitudine": 27.585871,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 581,
+      "nume": "Unghiul vieții",
+      "latitudine": 46.98563,
+      "longitudine": 27.58409,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 582,
+      "nume": "Uroboros",
+      "latitudine": 46.985298,
+      "longitudine": 27.585308,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 583,
+      "nume": "Valul mare de pământ",
+      "latitudine": 44.171932,
+      "longitudine": 28.524016,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 584,
+      "nume": "Vatra",
+      "latitudine": 46.985439,
+      "longitudine": 27.583709,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 585,
+      "nume": "Victoria împotriva fascismului",
+      "latitudine": 44.176281,
+      "longitudine": 28.650482,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 586,
+      "nume": "Vrancart Adjud",
+      "latitudine": 46.110065,
+      "longitudine": 27.189986,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 587,
+      "nume": "Învingătorul",
+      "latitudine": 45.759193,
+      "longitudine": 21.236253,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 588,
+      "nume": "Óriáspincetető",
+      "latitudine": 45.869267,
+      "longitudine": 25.951922,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 589,
+      "nume": "Összetartozás emlékműve",
+      "latitudine": 47.518156,
+      "longitudine": 22.132465,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 590,
+      "nume": "Școala Ardeleană",
+      "latitudine": 46.76762,
+      "longitudine": 23.592129,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 591,
+      "nume": "Școala veche (1920)",
+      "latitudine": 45.1359,
+      "longitudine": 24.249457,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 592,
+      "nume": "Școala Veche Bărbătești",
+      "latitudine": 45.172303,
+      "longitudine": 24.119399,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 593,
+      "nume": "В памет на Лорд Байрон",
+      "latitudine": 43.99113,
+      "longitudine": 22.884398,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 594,
+      "nume": "Вълчо Вълчев",
+      "latitudine": 43.989518,
+      "longitudine": 22.883126,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 595,
+      "nume": "Жул Паскин",
+      "latitudine": 43.989587,
+      "longitudine": 22.880118,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 596,
+      "nume": "Катер 214",
+      "latitudine": 44.050217,
+      "longitudine": 26.607028,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 597,
+      "nume": "Лисиците",
+      "latitudine": 43.986374,
+      "longitudine": 22.880451,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 598,
+      "nume": "Найчо Цанов",
+      "latitudine": 43.987575,
+      "longitudine": 22.882103,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 599,
+      "nume": "П. Й. Державин",
+      "latitudine": 44.05021,
+      "longitudine": 26.606859,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 600,
+      "nume": "пам'ятник \"Військовим морякам\"",
+      "latitudine": 45.45304,
+      "longitudine": 28.276366,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 601,
+      "nume": "Паметник на българските опълченци от Видинския край",
+      "latitudine": 43.984651,
+      "longitudine": 22.878895,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 602,
+      "nume": "Паметник на загиналите новоселяни за свободата на България",
+      "latitudine": 44.161088,
+      "longitudine": 22.787918,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 603,
+      "nume": "Паметник на Лорд Байрон",
+      "latitudine": 43.991228,
+      "longitudine": 22.884442,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 604,
+      "nume": "Споменик жртвама ратова",
+      "latitudine": 44.711136,
+      "longitudine": 21.607095,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 605,
+      "nume": "Сърничка",
+      "latitudine": 43.986314,
+      "longitudine": 22.880316,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 606,
+      "nume": "Тодор Петров",
+      "latitudine": 43.986002,
+      "longitudine": 22.880297,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    },
+    {
+      "id": 607,
+      "nume": "хъс русе",
+      "latitudine": 43.831143,
+      "longitudine": 25.932278,
+      "cheie_osm": "historic",
+      "valoare_osm": "monument",
+      "categorie_osm": "historic=monument"
+    }
+  ],
+  "meta": {
+    "title": "Monumente din România - Descărcare gratuită",
+    "description": "Monumente din România — 607 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `historic=monument`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează. Conține 607 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Monumente din România | ListBase",
+    "seo_description": "Descarcă Monumente din România — 607 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 607 înregistrări / 7 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

@@ -1,0 +1,2932 @@
+{
+  "id": "ro-moteluri",
+  "name": "Moteluri din România",
+  "title": "Moteluri din România",
+  "description": "Moteluri din România — 319 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `tourism=motel`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 319,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "latitudine",
+      "label": "Latitudine",
+      "type": "number"
+    },
+    {
+      "key": "longitudine",
+      "label": "Longitudine",
+      "type": "number"
+    },
+    {
+      "key": "cheie_osm",
+      "label": "Cheie Osm",
+      "type": "string"
+    },
+    {
+      "key": "valoare_osm",
+      "label": "Valoare Osm",
+      "type": "string"
+    },
+    {
+      "key": "categorie_osm",
+      "label": "Categorie Osm",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nume": "Agrodor",
+      "latitudine": 45.13591,
+      "longitudine": 24.250595,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 2,
+      "nume": "Anghel",
+      "latitudine": 45.442434,
+      "longitudine": 28.036198,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 3,
+      "nume": "Antique Hostel",
+      "latitudine": 44.429678,
+      "longitudine": 26.099759,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 4,
+      "nume": "AO",
+      "latitudine": 45.706678,
+      "longitudine": 21.919785,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 5,
+      "nume": "Apartamente Apolonia",
+      "latitudine": 44.063342,
+      "longitudine": 28.638998,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 6,
+      "nume": "Arcadia",
+      "latitudine": 47.061128,
+      "longitudine": 22.141832,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 7,
+      "nume": "Articus",
+      "latitudine": 44.551628,
+      "longitudine": 24.557931,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 8,
+      "nume": "ArtMotel",
+      "latitudine": 45.61047,
+      "longitudine": 22.950136,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 9,
+      "nume": "Balta lui Pastorel",
+      "latitudine": 44.102278,
+      "longitudine": 23.047764,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 10,
+      "nume": "Biamin",
+      "latitudine": 47.471777,
+      "longitudine": 22.564276,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 11,
+      "nume": "Bucharest West Motel",
+      "latitudine": 44.410723,
+      "longitudine": 25.972721,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 12,
+      "nume": "Cabana",
+      "latitudine": 45.438981,
+      "longitudine": 25.047532,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 13,
+      "nume": "Cabana Brădet",
+      "latitudine": 47.228301,
+      "longitudine": 22.785422,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 14,
+      "nume": "Cabana Bâlea Cascadă",
+      "latitudine": 45.636429,
+      "longitudine": 24.606594,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 15,
+      "nume": "Cabana Bâlea Lac",
+      "latitudine": 45.604125,
+      "longitudine": 24.618282,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 16,
+      "nume": "Cabana Bâlea Lac 2",
+      "latitudine": 45.605,
+      "longitudine": 24.617988,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 17,
+      "nume": "Cabana Cetinița",
+      "latitudine": 47.781805,
+      "longitudine": 25.707561,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 18,
+      "nume": "Cabana cu Flori",
+      "latitudine": 45.217188,
+      "longitudine": 24.353478,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 19,
+      "nume": "Cabana Deltei",
+      "latitudine": 46.066818,
+      "longitudine": 21.284117,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 20,
+      "nume": "Cabana Gigig Kent",
+      "latitudine": 46.508847,
+      "longitudine": 26.268064,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 21,
+      "nume": "Cabana Paltinu",
+      "latitudine": 45.603664,
+      "longitudine": 24.614658,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 22,
+      "nume": "Cabana Simiriam",
+      "latitudine": 46.596475,
+      "longitudine": 22.734169,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 23,
+      "nume": "Cabana Traian și Ruxandra",
+      "latitudine": 45.320354,
+      "longitudine": 25.558635,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 24,
+      "nume": "Camere de închiriat",
+      "latitudine": 45.14348,
+      "longitudine": 26.824358,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 25,
+      "nume": "Casa \"Toth din Țipțerai\"",
+      "latitudine": 47.711825,
+      "longitudine": 24.422338,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 26,
+      "nume": "Casa Albă",
+      "latitudine": 45.663243,
+      "longitudine": 25.512719,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 27,
+      "nume": "Casa Buburuzilor 2",
+      "latitudine": 44.31611,
+      "longitudine": 28.600507,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 28,
+      "nume": "Casa Budișteanu",
+      "latitudine": 45.656282,
+      "longitudine": 27.161174,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 29,
+      "nume": "Casa de Vacanță FESTIVALE Inn Costinești",
+      "latitudine": 43.955368,
+      "longitudine": 28.640148,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 30,
+      "nume": "Casa Elegant",
+      "latitudine": 45.156419,
+      "longitudine": 29.652081,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 31,
+      "nume": "Casa Genny",
+      "latitudine": 45.164582,
+      "longitudine": 26.786552,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 32,
+      "nume": "Casa Ioana ***",
+      "latitudine": 46.982921,
+      "longitudine": 21.985459,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 33,
+      "nume": "Casa LaCostea",
+      "latitudine": 46.50863,
+      "longitudine": 24.612501,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 34,
+      "nume": "Casa Lidia",
+      "latitudine": 45.413497,
+      "longitudine": 25.535584,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 35,
+      "nume": "Casa Lux",
+      "latitudine": 47.733883,
+      "longitudine": 26.671359,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 36,
+      "nume": "Casa Maria",
+      "latitudine": 44.881933,
+      "longitudine": 22.411618,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 37,
+      "nume": "Casa Matei",
+      "latitudine": 45.286109,
+      "longitudine": 26.678374,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 38,
+      "nume": "Casa Miorița",
+      "latitudine": 45.419646,
+      "longitudine": 25.542974,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 39,
+      "nume": "Casa MITZA",
+      "latitudine": 45.84295,
+      "longitudine": 21.318456,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 40,
+      "nume": "Casa Romana",
+      "latitudine": 47.187132,
+      "longitudine": 23.15144,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 41,
+      "nume": "Casa Romană",
+      "latitudine": 45.801633,
+      "longitudine": 24.155587,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 42,
+      "nume": "Casa Tania",
+      "latitudine": 43.782173,
+      "longitudine": 28.578066,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 43,
+      "nume": "Casa Tirol",
+      "latitudine": 45.293124,
+      "longitudine": 25.070283,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 44,
+      "nume": "CasaRim",
+      "latitudine": 45.307139,
+      "longitudine": 25.073036,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 45,
+      "nume": "Cetatii",
+      "latitudine": 45.842514,
+      "longitudine": 23.60143,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 46,
+      "nume": "Ciobănașul",
+      "latitudine": 44.437301,
+      "longitudine": 25.965502,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 47,
+      "nume": "Complex Carol",
+      "latitudine": 45.141897,
+      "longitudine": 26.809065,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 48,
+      "nume": "Complex Cireșica",
+      "latitudine": 43.880905,
+      "longitudine": 28.60514,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 49,
+      "nume": "Complex Căprioara",
+      "latitudine": 47.742002,
+      "longitudine": 23.602829,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 50,
+      "nume": "Complex de căsuțe",
+      "latitudine": 46.285726,
+      "longitudine": 26.623174,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 51,
+      "nume": "Complex Europa",
+      "latitudine": 45.282804,
+      "longitudine": 21.888692,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 52,
+      "nume": "Complex VIA",
+      "latitudine": 46.508373,
+      "longitudine": 24.505272,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 53,
+      "nume": "Copfos Csárda",
+      "latitudine": 46.675516,
+      "longitudine": 23.45619,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 54,
+      "nume": "Cristina",
+      "latitudine": 46.938301,
+      "longitudine": 26.11272,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 55,
+      "nume": "Csillag",
+      "latitudine": 46.337857,
+      "longitudine": 25.807156,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 56,
+      "nume": "Căminul Militar",
+      "latitudine": 43.811092,
+      "longitudine": 28.584043,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 57,
+      "nume": "Darina",
+      "latitudine": 46.474944,
+      "longitudine": 24.448293,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 58,
+      "nume": "Darina",
+      "latitudine": 46.475798,
+      "longitudine": 24.449033,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 59,
+      "nume": "Dealu Hera",
+      "latitudine": 47.860518,
+      "longitudine": 24.117212,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 60,
+      "nume": "Didona B",
+      "latitudine": 45.414859,
+      "longitudine": 27.911282,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 61,
+      "nume": "Dora",
+      "latitudine": 47.473622,
+      "longitudine": 22.567096,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 62,
+      "nume": "Europa LG",
+      "latitudine": 44.957889,
+      "longitudine": 26.052571,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 63,
+      "nume": "Fântânița Mândrei",
+      "latitudine": 45.825818,
+      "longitudine": 25.035095,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 64,
+      "nume": "Han Anselmo",
+      "latitudine": 46.069986,
+      "longitudine": 26.386964,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 65,
+      "nume": "Han Km 17",
+      "latitudine": 46.837088,
+      "longitudine": 23.746365,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 66,
+      "nume": "Han Obcina Voronețului",
+      "latitudine": 47.520124,
+      "longitudine": 25.865076,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 67,
+      "nume": "Hanul Berchișești",
+      "latitudine": 47.514042,
+      "longitudine": 26.024037,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 68,
+      "nume": "Hanul Cocoșul",
+      "latitudine": 44.011747,
+      "longitudine": 25.417882,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 69,
+      "nume": "Hanul Codreanu",
+      "latitudine": 46.201015,
+      "longitudine": 26.525536,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 70,
+      "nume": "Hanul Conachi",
+      "latitudine": 45.593527,
+      "longitudine": 27.572914,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 71,
+      "nume": "Hanul Cotul Donului",
+      "latitudine": 45.524296,
+      "longitudine": 25.570274,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 72,
+      "nume": "Hanul Curtea Veche",
+      "latitudine": 45.534089,
+      "longitudine": 25.377936,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 73,
+      "nume": "Hanul Domnesc",
+      "latitudine": 45.725612,
+      "longitudine": 22.995696,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 74,
+      "nume": "Hanul Domnitorilor",
+      "latitudine": 45.504053,
+      "longitudine": 25.574249,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 75,
+      "nume": "Hanul Florilor",
+      "latitudine": 46.937372,
+      "longitudine": 27.823123,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 76,
+      "nume": "Hanul Găzarilor",
+      "latitudine": 44.9398,
+      "longitudine": 26.034631,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 77,
+      "nume": "Hanul Logofătului",
+      "latitudine": 44.932673,
+      "longitudine": 25.347315,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 78,
+      "nume": "Hanul lui Matei",
+      "latitudine": 46.498497,
+      "longitudine": 26.798071,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 79,
+      "nume": "Hanul Lui Mihai",
+      "latitudine": 45.662573,
+      "longitudine": 27.278399,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 80,
+      "nume": "Hanul Merei",
+      "latitudine": 45.103516,
+      "longitudine": 26.70039,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 81,
+      "nume": "Hanul Mărului",
+      "latitudine": 45.110513,
+      "longitudine": 25.215633,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 82,
+      "nume": "Hanul Neptun",
+      "latitudine": 45.237363,
+      "longitudine": 26.873802,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 83,
+      "nume": "Hanul Urșilor",
+      "latitudine": 47.204817,
+      "longitudine": 26.337194,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 84,
+      "nume": "Hanul Vlăsia",
+      "latitudine": 44.550934,
+      "longitudine": 25.882766,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 85,
+      "nume": "Hanul Voievozilor",
+      "latitudine": 45.343105,
+      "longitudine": 24.635976,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 86,
+      "nume": "Hotel Carpați",
+      "latitudine": 44.436475,
+      "longitudine": 26.095239,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 87,
+      "nume": "Hotel Odăii",
+      "latitudine": 44.530679,
+      "longitudine": 26.053517,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 88,
+      "nume": "Hotel Păsăreanu",
+      "latitudine": 46.512253,
+      "longitudine": 24.613331,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 89,
+      "nume": "Hotel SPA Dovinot",
+      "latitudine": 44.298253,
+      "longitudine": 25.885245,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 90,
+      "nume": "Il Capo Tour",
+      "latitudine": 44.31308,
+      "longitudine": 23.904349,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 91,
+      "nume": "Izvorul Rece",
+      "latitudine": 45.310918,
+      "longitudine": 25.57147,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 92,
+      "nume": "Izvorul Rece",
+      "latitudine": 45.906532,
+      "longitudine": 23.281843,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 93,
+      "nume": "Korona",
+      "latitudine": 45.78216,
+      "longitudine": 24.16199,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 94,
+      "nume": "La 5 căsuțe",
+      "latitudine": 46.596485,
+      "longitudine": 22.734827,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 95,
+      "nume": "La Cherry",
+      "latitudine": 46.244761,
+      "longitudine": 26.755193,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 96,
+      "nume": "La Căsuțe",
+      "latitudine": 43.791035,
+      "longitudine": 28.573085,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 97,
+      "nume": "La Gil",
+      "latitudine": 44.494377,
+      "longitudine": 26.083477,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 98,
+      "nume": "La John",
+      "latitudine": 43.754208,
+      "longitudine": 28.573758,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 99,
+      "nume": "La Livadă",
+      "latitudine": 46.622525,
+      "longitudine": 27.755175,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 100,
+      "nume": "La Rusu",
+      "latitudine": 45.869463,
+      "longitudine": 27.21051,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 101,
+      "nume": "La Strada",
+      "latitudine": 46.243789,
+      "longitudine": 26.754413,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 102,
+      "nume": "Lacul Boiereasca",
+      "latitudine": 46.539723,
+      "longitudine": 26.483376,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 103,
+      "nume": "LAS VISEU CABANA",
+      "latitudine": 47.713588,
+      "longitudine": 24.424898,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 104,
+      "nume": "Liad Hotel",
+      "latitudine": 44.434399,
+      "longitudine": 26.105952,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 105,
+      "nume": "Liliana",
+      "latitudine": 46.039629,
+      "longitudine": 25.203035,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 106,
+      "nume": "Lázár panzió",
+      "latitudine": 46.720209,
+      "longitudine": 25.599313,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 107,
+      "nume": "Marissa",
+      "latitudine": 47.473515,
+      "longitudine": 22.566983,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 108,
+      "nume": "Miracolo",
+      "latitudine": 47.17027,
+      "longitudine": 24.541414,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 109,
+      "nume": "Moara Veche",
+      "latitudine": 47.588339,
+      "longitudine": 23.560675,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 110,
+      "nume": "Montaniard Villa",
+      "latitudine": 45.410942,
+      "longitudine": 25.529809,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 111,
+      "nume": "Motel",
+      "latitudine": 45.518136,
+      "longitudine": 24.277137,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 112,
+      "nume": "Motel",
+      "latitudine": 45.866337,
+      "longitudine": 22.90677,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 113,
+      "nume": "Motel Adial",
+      "latitudine": 46.088988,
+      "longitudine": 27.189695,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 114,
+      "nume": "Motel Adjud",
+      "latitudine": 46.096452,
+      "longitudine": 27.186483,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 115,
+      "nume": "Motel Adriano",
+      "latitudine": 45.274136,
+      "longitudine": 27.955064,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 116,
+      "nume": "Motel African",
+      "latitudine": 44.865063,
+      "longitudine": 24.229372,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 117,
+      "nume": "Motel Aița",
+      "latitudine": 46.074381,
+      "longitudine": 25.599426,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 118,
+      "nume": "Motel Alexander",
+      "latitudine": 44.110872,
+      "longitudine": 26.640513,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 119,
+      "nume": "Motel Ana",
+      "latitudine": 46.952423,
+      "longitudine": 26.493997,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 120,
+      "nume": "Motel Anghel Oil",
+      "latitudine": 45.442297,
+      "longitudine": 28.036308,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 121,
+      "nume": "Motel Aqua Max Nonstop",
+      "latitudine": 45.168278,
+      "longitudine": 26.818227,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 122,
+      "nume": "Motel ARIS",
+      "latitudine": 46.929608,
+      "longitudine": 26.393652,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 123,
+      "nume": "Motel Azur",
+      "latitudine": 44.941733,
+      "longitudine": 23.035075,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 124,
+      "nume": "Motel Balcost",
+      "latitudine": 46.875274,
+      "longitudine": 26.447281,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 125,
+      "nume": "Motel Balș",
+      "latitudine": 44.35952,
+      "longitudine": 24.189133,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 126,
+      "nume": "Motel Buridava",
+      "latitudine": 45.088194,
+      "longitudine": 24.29537,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 127,
+      "nume": "Motel Carina",
+      "latitudine": 47.231307,
+      "longitudine": 22.815346,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 128,
+      "nume": "Motel Castel 2000",
+      "latitudine": 45.762612,
+      "longitudine": 24.571524,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 129,
+      "nume": "Motel Cerbul Apusean",
+      "latitudine": 46.449778,
+      "longitudine": 22.96164,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 130,
+      "nume": "Motel Cernica",
+      "latitudine": 45.268355,
+      "longitudine": 25.624754,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 131,
+      "nume": "Motel Cinciș",
+      "latitudine": 45.696733,
+      "longitudine": 22.872579,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 132,
+      "nume": "Motel Corsa",
+      "latitudine": 46.244965,
+      "longitudine": 24.756997,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 133,
+      "nume": "Motel Corsar",
+      "latitudine": 45.172129,
+      "longitudine": 28.749773,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 134,
+      "nume": "Motel Cozia",
+      "latitudine": 45.267706,
+      "longitudine": 24.317385,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 135,
+      "nume": "Motel de tranzit",
+      "latitudine": 44.630872,
+      "longitudine": 26.06833,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 136,
+      "nume": "Motel Delorean",
+      "latitudine": 45.608419,
+      "longitudine": 25.65799,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 137,
+      "nume": "Motel Dinastia",
+      "latitudine": 44.893338,
+      "longitudine": 24.82829,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 138,
+      "nume": "Motel Dumbrava",
+      "latitudine": 44.972724,
+      "longitudine": 22.492758,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 139,
+      "nume": "Motel EFM",
+      "latitudine": 45.332955,
+      "longitudine": 24.275563,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 140,
+      "nume": "Motel Ela",
+      "latitudine": 45.655819,
+      "longitudine": 24.263325,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 141,
+      "nume": "Motel Evrika",
+      "latitudine": 45.132566,
+      "longitudine": 24.056132,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 142,
+      "nume": "Motel Flora",
+      "latitudine": 45.947472,
+      "longitudine": 26.491454,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 143,
+      "nume": "Motel Făget Izvor",
+      "latitudine": 46.740373,
+      "longitudine": 23.545045,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 144,
+      "nume": "Motel Gilău",
+      "latitudine": 46.74684,
+      "longitudine": 23.369112,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 145,
+      "nume": "Motel Gilău",
+      "latitudine": 46.750321,
+      "longitudine": 23.412182,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 146,
+      "nume": "Motel Hanul Doctorului",
+      "latitudine": 44.314383,
+      "longitudine": 23.861856,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 147,
+      "nume": "Motel Igor",
+      "latitudine": 47.348182,
+      "longitudine": 26.337381,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 148,
+      "nume": "Motel Ioanis",
+      "latitudine": 46.149715,
+      "longitudine": 21.459349,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 149,
+      "nume": "Motel Jina",
+      "latitudine": 45.783888,
+      "longitudine": 23.680834,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 150,
+      "nume": "Motel Kiss",
+      "latitudine": 45.141008,
+      "longitudine": 25.704619,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 151,
+      "nume": "Motel La Pa-Pa ( închis)",
+      "latitudine": 45.164339,
+      "longitudine": 25.691448,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 152,
+      "nume": "Motel La Popescu",
+      "latitudine": 44.39499,
+      "longitudine": 27.859492,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 153,
+      "nume": "Motel Lainici",
+      "latitudine": 45.259399,
+      "longitudine": 23.387981,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 154,
+      "nume": "Motel Levisticum",
+      "latitudine": 46.509131,
+      "longitudine": 26.924962,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 155,
+      "nume": "Motel Mitică Apostol",
+      "latitudine": 44.910493,
+      "longitudine": 25.991824,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 156,
+      "nume": "Motel Monica",
+      "latitudine": 44.133697,
+      "longitudine": 27.274705,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 157,
+      "nume": "Motel Montana",
+      "latitudine": 46.917711,
+      "longitudine": 24.821563,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 158,
+      "nume": "Motel Nemere",
+      "latitudine": 45.851941,
+      "longitudine": 25.913782,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 159,
+      "nume": "Motel Oituz",
+      "latitudine": 46.04465,
+      "longitudine": 26.326654,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 160,
+      "nume": "Motel Olt",
+      "latitudine": 45.860087,
+      "longitudine": 25.788135,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 161,
+      "nume": "Motel Pacific",
+      "latitudine": 45.860412,
+      "longitudine": 22.93297,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 162,
+      "nume": "Motel Pararela 45",
+      "latitudine": 45.032477,
+      "longitudine": 25.819552,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 163,
+      "nume": "Motel Pasager",
+      "latitudine": 44.521088,
+      "longitudine": 26.271376,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 164,
+      "nume": "Motel Perth",
+      "latitudine": 45.871407,
+      "longitudine": 25.785721,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 165,
+      "nume": "Motel Perșani",
+      "latitudine": 45.78892,
+      "longitudine": 25.196374,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 166,
+      "nume": "Motel Petronius",
+      "latitudine": 45.480666,
+      "longitudine": 23.143449,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 167,
+      "nume": "Motel Popasul dintre vii",
+      "latitudine": 45.576144,
+      "longitudine": 27.100709,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 168,
+      "nume": "Motel Prietenia",
+      "latitudine": 43.908793,
+      "longitudine": 25.980376,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 169,
+      "nume": "Motel Prodana",
+      "latitudine": 46.202379,
+      "longitudine": 27.659835,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 170,
+      "nume": "Motel Regal",
+      "latitudine": 46.340396,
+      "longitudine": 21.307726,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 171,
+      "nume": "Motel Regina",
+      "latitudine": 46.597529,
+      "longitudine": 25.079923,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 172,
+      "nume": "Motel Restaurant Lotru",
+      "latitudine": 45.331954,
+      "longitudine": 24.276288,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 173,
+      "nume": "Motel Restaurant Mara",
+      "latitudine": 43.982015,
+      "longitudine": 25.31445,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 174,
+      "nume": "Motel restaurant Național",
+      "latitudine": 45.324673,
+      "longitudine": 25.563892,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 175,
+      "nume": "Motel Riden",
+      "latitudine": 44.710207,
+      "longitudine": 26.622588,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 176,
+      "nume": "Motel Rupea",
+      "latitudine": 46.014994,
+      "longitudine": 25.275066,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 177,
+      "nume": "Motel Rândunica",
+      "latitudine": 45.873341,
+      "longitudine": 24.066903,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 178,
+      "nume": "motel sara, garden",
+      "latitudine": 45.686996,
+      "longitudine": 24.257012,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 179,
+      "nume": "Motel Select",
+      "latitudine": 47.784847,
+      "longitudine": 22.853209,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 180,
+      "nume": "Motel Siret",
+      "latitudine": 47.948763,
+      "longitudine": 26.063103,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 181,
+      "nume": "Motel Stâna Costești",
+      "latitudine": 46.442676,
+      "longitudine": 27.809717,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 182,
+      "nume": "Motel Traffic",
+      "latitudine": 44.998301,
+      "longitudine": 24.617439,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 183,
+      "nume": "Motel Urban",
+      "latitudine": 45.872969,
+      "longitudine": 24.06763,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 184,
+      "nume": "Motel Viviana",
+      "latitudine": 45.418623,
+      "longitudine": 25.942301,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 185,
+      "nume": "Motel West",
+      "latitudine": 46.161776,
+      "longitudine": 21.410728,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 186,
+      "nume": "Motel Zemeș",
+      "latitudine": 46.561912,
+      "longitudine": 26.455001,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 187,
+      "nume": "Motel Șag",
+      "latitudine": 45.648905,
+      "longitudine": 21.17437,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 188,
+      "nume": "Motel-Restaurant Izabel",
+      "latitudine": 45.784002,
+      "longitudine": 23.999529,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 189,
+      "nume": "Motelețul",
+      "latitudine": 45.724729,
+      "longitudine": 21.29139,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 190,
+      "nume": "Mysterious Spa",
+      "latitudine": 46.675302,
+      "longitudine": 23.456461,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 191,
+      "nume": "Mythos Luxury Rooms",
+      "latitudine": 45.511393,
+      "longitudine": 25.580458,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 192,
+      "nume": "ND Global Rooms",
+      "latitudine": 46.081716,
+      "longitudine": 23.582674,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 193,
+      "nume": "Nemeth Resort",
+      "latitudine": 46.607982,
+      "longitudine": 25.078742,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 194,
+      "nume": "Nemeth Resort",
+      "latitudine": 46.608105,
+      "longitudine": 25.077475,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 195,
+      "nume": "New Safari",
+      "latitudine": 44.177029,
+      "longitudine": 28.657155,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 196,
+      "nume": "Nyiko motel & restaurant",
+      "latitudine": 46.376371,
+      "longitudine": 25.219351,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 197,
+      "nume": "Orion",
+      "latitudine": 45.511245,
+      "longitudine": 27.08102,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 198,
+      "nume": "Panorama Business Inn",
+      "latitudine": 46.779446,
+      "longitudine": 23.561704,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 199,
+      "nume": "Parohia Catolică",
+      "latitudine": 46.213131,
+      "longitudine": 26.445957,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 200,
+      "nume": "Pensiune Capra Neagră",
+      "latitudine": 47.654582,
+      "longitudine": 24.541973,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 201,
+      "nume": "Pensiune Pescareasca",
+      "latitudine": 44.896894,
+      "longitudine": 28.12215,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 202,
+      "nume": "Pensiunea \"Bye-Bye\"",
+      "latitudine": 45.647319,
+      "longitudine": 21.1779,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 203,
+      "nume": "Pensiunea 173 Acasă",
+      "latitudine": 44.168925,
+      "longitudine": 28.582627,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 204,
+      "nume": "Pensiunea Agro Junior",
+      "latitudine": 47.004589,
+      "longitudine": 23.258278,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 205,
+      "nume": "Pensiunea Andrei",
+      "latitudine": 48.178939,
+      "longitudine": 26.616727,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 206,
+      "nume": "Pensiunea Anica",
+      "latitudine": 46.790482,
+      "longitudine": 22.833763,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 207,
+      "nume": "Pensiunea Aris",
+      "latitudine": 46.914944,
+      "longitudine": 26.39111,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 208,
+      "nume": "Pensiunea Aurora",
+      "latitudine": 46.938048,
+      "longitudine": 26.091759,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 209,
+      "nume": "Pensiunea Bella Vista",
+      "latitudine": 45.331907,
+      "longitudine": 24.635533,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 210,
+      "nume": "Pensiunea Buburuza",
+      "latitudine": 45.412111,
+      "longitudine": 25.203839,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 211,
+      "nume": "Pensiunea Cabana Vânătorescă",
+      "latitudine": 47.265274,
+      "longitudine": 26.611451,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 212,
+      "nume": "Pensiunea Casa Boca",
+      "latitudine": 46.747025,
+      "longitudine": 23.569261,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 213,
+      "nume": "Pensiunea Casa Filip",
+      "latitudine": 46.79999,
+      "longitudine": 23.601481,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 214,
+      "nume": "Pensiunea Casa Moldoveană",
+      "latitudine": 46.939765,
+      "longitudine": 26.401405,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 215,
+      "nume": "Pensiunea Casa Verde",
+      "latitudine": 44.533945,
+      "longitudine": 26.074725,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 216,
+      "nume": "Pensiunea Colina",
+      "latitudine": 47.236374,
+      "longitudine": 23.061843,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 217,
+      "nume": "Pensiunea Constanța",
+      "latitudine": 45.510287,
+      "longitudine": 25.579954,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 218,
+      "nume": "Pensiunea Corunca",
+      "latitudine": 46.510263,
+      "longitudine": 24.615691,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 219,
+      "nume": "Pensiunea Cremona",
+      "latitudine": 47.653747,
+      "longitudine": 23.584672,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 220,
+      "nume": "Pensiunea Cyprinius",
+      "latitudine": 45.755108,
+      "longitudine": 21.097886,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 221,
+      "nume": "Pensiunea Domar-Alina",
+      "latitudine": 45.775775,
+      "longitudine": 24.148108,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 222,
+      "nume": "Pensiunea Domeniul Regilor",
+      "latitudine": 46.652249,
+      "longitudine": 23.53082,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 223,
+      "nume": "Pensiunea Elena",
+      "latitudine": 46.937479,
+      "longitudine": 26.452789,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 224,
+      "nume": "Pensiunea Ema",
+      "latitudine": 44.787196,
+      "longitudine": 24.854844,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 225,
+      "nume": "Pensiunea Havanna",
+      "latitudine": 47.200742,
+      "longitudine": 22.992177,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 226,
+      "nume": "Pensiunea Hermes",
+      "latitudine": 45.919469,
+      "longitudine": 22.874851,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 227,
+      "nume": "Pensiunea Jean Bart",
+      "latitudine": 45.156294,
+      "longitudine": 29.657603,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 228,
+      "nume": "Pensiunea JRB",
+      "latitudine": 46.527643,
+      "longitudine": 22.459296,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 229,
+      "nume": "Pensiunea Koket",
+      "latitudine": 48.185734,
+      "longitudine": 26.594229,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 230,
+      "nume": "Pensiunea Krystal",
+      "latitudine": 46.983669,
+      "longitudine": 21.985603,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 231,
+      "nume": "Pensiunea La Copilu",
+      "latitudine": 45.517246,
+      "longitudine": 25.580673,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 232,
+      "nume": "Pensiunea Lara",
+      "latitudine": 46.638221,
+      "longitudine": 23.363759,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 233,
+      "nume": "Pensiunea Lucreția",
+      "latitudine": 46.753142,
+      "longitudine": 25.076099,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 234,
+      "nume": "Pensiunea Maria",
+      "latitudine": 46.541099,
+      "longitudine": 23.750397,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 235,
+      "nume": "Pensiunea Maricor",
+      "latitudine": 45.319274,
+      "longitudine": 26.352926,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 236,
+      "nume": "Pensiunea Memo",
+      "latitudine": 45.65525,
+      "longitudine": 25.582558,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 237,
+      "nume": "Pensiunea Morariu",
+      "latitudine": 47.159706,
+      "longitudine": 24.509548,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 238,
+      "nume": "Pensiunea Mureșul",
+      "latitudine": 46.556409,
+      "longitudine": 24.565703,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 239,
+      "nume": "Pensiunea Nagy",
+      "latitudine": 47.718398,
+      "longitudine": 24.419948,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 240,
+      "nume": "Pensiunea Office",
+      "latitudine": 45.660539,
+      "longitudine": 25.585312,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 241,
+      "nume": "Pensiunea Papa La Soni",
+      "latitudine": 46.973571,
+      "longitudine": 25.559389,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 242,
+      "nume": "Pensiunea Piscina",
+      "latitudine": 47.967735,
+      "longitudine": 26.1497,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 243,
+      "nume": "Pensiunea Poiana Verde Tilișca",
+      "latitudine": 45.803772,
+      "longitudine": 23.829898,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 244,
+      "nume": "Pensiunea Privighetoarea",
+      "latitudine": 45.211572,
+      "longitudine": 26.765615,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 245,
+      "nume": "Pensiunea Ralu",
+      "latitudine": 46.953442,
+      "longitudine": 26.006027,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 246,
+      "nume": "Pensiunea Randra",
+      "latitudine": 47.212028,
+      "longitudine": 22.741045,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 247,
+      "nume": "Pensiunea Riviera Someșeană",
+      "latitudine": 47.48234,
+      "longitudine": 23.308537,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 248,
+      "nume": "Pensiunea Romanta",
+      "latitudine": 46.893688,
+      "longitudine": 22.879688,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 249,
+      "nume": "Pensiunea Roua",
+      "latitudine": 46.942619,
+      "longitudine": 26.308853,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 250,
+      "nume": "Pensiunea Răzvan și Vidra",
+      "latitudine": 45.417006,
+      "longitudine": 23.710199,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 251,
+      "nume": "Pensiunea Select",
+      "latitudine": 46.032456,
+      "longitudine": 23.55547,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 252,
+      "nume": "Pensiunea Soferul",
+      "latitudine": 46.605539,
+      "longitudine": 26.901733,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 253,
+      "nume": "Pensiunea Tiffany",
+      "latitudine": 45.773277,
+      "longitudine": 22.91413,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 254,
+      "nume": "Pensiunea Turist",
+      "latitudine": 45.774512,
+      "longitudine": 24.149084,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 255,
+      "nume": "Pensiunea Vakar",
+      "latitudine": 46.550359,
+      "longitudine": 25.127987,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 256,
+      "nume": "Pensiunea Valea Cernei",
+      "latitudine": 45.706518,
+      "longitudine": 22.879408,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 257,
+      "nume": "Pensiunea Vanesa",
+      "latitudine": 46.983888,
+      "longitudine": 21.986471,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 258,
+      "nume": "Pensiunea Vera",
+      "latitudine": 45.072749,
+      "longitudine": 24.322405,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 259,
+      "nume": "Pensiunea și Restaurantul Várdomb",
+      "latitudine": 46.383221,
+      "longitudine": 25.828062,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 260,
+      "nume": "Pensiunea Știbina",
+      "latitudine": 47.429001,
+      "longitudine": 26.297939,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 261,
+      "nume": "Perla Crasnei",
+      "latitudine": 47.161695,
+      "longitudine": 22.874643,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 262,
+      "nume": "PICOLO **",
+      "latitudine": 44.901763,
+      "longitudine": 25.500268,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 263,
+      "nume": "Poiana Sărată",
+      "latitudine": 46.129912,
+      "longitudine": 26.441279,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 264,
+      "nume": "Popas Azuga",
+      "latitudine": 45.427367,
+      "longitudine": 25.553135,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 265,
+      "nume": "Popas Baragan",
+      "latitudine": 45.14105,
+      "longitudine": 27.559681,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 266,
+      "nume": "Popas Doi Iepurași",
+      "latitudine": 44.867177,
+      "longitudine": 28.689537,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 267,
+      "nume": "Popas Mara",
+      "latitudine": 46.10526,
+      "longitudine": 21.653492,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 268,
+      "nume": "Popas Poiana",
+      "latitudine": 45.400471,
+      "longitudine": 25.535107,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 269,
+      "nume": "Popas Poiana Sărată",
+      "latitudine": 46.120816,
+      "longitudine": 26.429667,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 270,
+      "nume": "Popas Prislop",
+      "latitudine": 45.648409,
+      "longitudine": 22.887299,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 271,
+      "nume": "Popas Recaș",
+      "latitudine": 45.800262,
+      "longitudine": 21.492352,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 272,
+      "nume": "Popas Vânătoresc",
+      "latitudine": 45.469493,
+      "longitudine": 22.179132,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 273,
+      "nume": "Popasul Ciobănașul",
+      "latitudine": 44.11913,
+      "longitudine": 24.914551,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 274,
+      "nume": "Popasul Haiducilor",
+      "latitudine": 45.358454,
+      "longitudine": 25.53433,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 275,
+      "nume": "Popasul lui Bădălău",
+      "latitudine": 44.479555,
+      "longitudine": 25.674051,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 276,
+      "nume": "Prezident",
+      "latitudine": 45.8482,
+      "longitudine": 23.359292,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 277,
+      "nume": "Quality",
+      "latitudine": 45.361434,
+      "longitudine": 27.014749,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 278,
+      "nume": "Regineta",
+      "latitudine": 44.443703,
+      "longitudine": 26.110615,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 279,
+      "nume": "Richard",
+      "latitudine": 45.778315,
+      "longitudine": 24.148399,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 280,
+      "nume": "Romava",
+      "latitudine": 46.958217,
+      "longitudine": 27.942041,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 281,
+      "nume": "Royal60",
+      "latitudine": 47.050005,
+      "longitudine": 22.048685,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 282,
+      "nume": "SaloS Beach",
+      "latitudine": 44.302826,
+      "longitudine": 28.626317,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 283,
+      "nume": "Sans Rival",
+      "latitudine": 47.14823,
+      "longitudine": 27.619904,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 284,
+      "nume": "Santa Lucia",
+      "latitudine": 45.950786,
+      "longitudine": 26.501166,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 285,
+      "nume": "Sat Vacanță Ponor-Padiș",
+      "latitudine": 46.63906,
+      "longitudine": 22.815869,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 286,
+      "nume": "Sheriff",
+      "latitudine": 47.162981,
+      "longitudine": 24.530745,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 287,
+      "nume": "Silvia",
+      "latitudine": 45.255218,
+      "longitudine": 22.294793,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 288,
+      "nume": "Sorelo",
+      "latitudine": 44.890149,
+      "longitudine": 24.75929,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 289,
+      "nume": "Spot",
+      "latitudine": 45.385286,
+      "longitudine": 27.053172,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 290,
+      "nume": "Stefania's House",
+      "latitudine": 47.135007,
+      "longitudine": 22.981888,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 291,
+      "nume": "Stil",
+      "latitudine": 47.473654,
+      "longitudine": 22.56623,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 292,
+      "nume": "Teleptean Ileana Teodora",
+      "latitudine": 47.880006,
+      "longitudine": 23.943923,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 293,
+      "nume": "Timișul de Jos",
+      "latitudine": 45.572298,
+      "longitudine": 25.612924,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 294,
+      "nume": "Transilvania",
+      "latitudine": 46.224884,
+      "longitudine": 24.775983,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 295,
+      "nume": "Turist",
+      "latitudine": 45.24634,
+      "longitudine": 28.129457,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 296,
+      "nume": "Turnu",
+      "latitudine": 45.252403,
+      "longitudine": 24.336248,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 297,
+      "nume": "U.G.P.R. Filiala Eforie",
+      "latitudine": 44.065666,
+      "longitudine": 28.632222,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 298,
+      "nume": "UAR - Centrul de Odihnă și Cultură Arhitecturală",
+      "latitudine": 45.352554,
+      "longitudine": 25.543305,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 299,
+      "nume": "Vadvirág Vendégház",
+      "latitudine": 46.314429,
+      "longitudine": 25.294576,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 300,
+      "nume": "Veritas",
+      "latitudine": 46.580819,
+      "longitudine": 25.052056,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 301,
+      "nume": "Vila Ambiance",
+      "latitudine": 43.84486,
+      "longitudine": 28.597148,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 302,
+      "nume": "Vila Barbarossa",
+      "latitudine": 43.754482,
+      "longitudine": 28.572375,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 303,
+      "nume": "Vila Cascada",
+      "latitudine": 45.39435,
+      "longitudine": 25.537922,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 304,
+      "nume": "Vila Efor",
+      "latitudine": 44.068857,
+      "longitudine": 28.634882,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 305,
+      "nume": "Vila Engleza",
+      "latitudine": 45.517773,
+      "longitudine": 25.581179,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 306,
+      "nume": "Vila Esplanada",
+      "latitudine": 44.176913,
+      "longitudine": 28.658381,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 307,
+      "nume": "Vila Flamingo",
+      "latitudine": 45.77349,
+      "longitudine": 22.914201,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 308,
+      "nume": "Vila Gogu",
+      "latitudine": 44.519207,
+      "longitudine": 26.2432,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 309,
+      "nume": "Vila Kherim",
+      "latitudine": 43.751556,
+      "longitudine": 28.57535,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 310,
+      "nume": "Vila Lago",
+      "latitudine": 44.764837,
+      "longitudine": 21.48127,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 311,
+      "nume": "Vila Mario Residence",
+      "latitudine": 44.450861,
+      "longitudine": 26.093166,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 312,
+      "nume": "Vila Monaco",
+      "latitudine": 44.44223,
+      "longitudine": 26.104816,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 313,
+      "nume": "Vila Sanda Coada Lacului",
+      "latitudine": 46.776666,
+      "longitudine": 22.560143,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 314,
+      "nume": "Voll",
+      "latitudine": 44.311273,
+      "longitudine": 28.624883,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 315,
+      "nume": "Wolf",
+      "latitudine": 43.855989,
+      "longitudine": 28.599677,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 316,
+      "nume": "Xilai",
+      "latitudine": 45.854391,
+      "longitudine": 22.963849,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 317,
+      "nume": "Șura Lu' Pătru",
+      "latitudine": 45.367958,
+      "longitudine": 23.288581,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 318,
+      "nume": "Мотел Јоргован",
+      "latitudine": 44.659789,
+      "longitudine": 21.688357,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    },
+    {
+      "id": 319,
+      "nume": "Јелен",
+      "latitudine": 45.442997,
+      "longitudine": 20.870361,
+      "cheie_osm": "tourism",
+      "valoare_osm": "motel",
+      "categorie_osm": "tourism=motel"
+    }
+  ],
+  "meta": {
+    "title": "Moteluri din România - Descărcare gratuită",
+    "description": "Moteluri din România — 319 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `tourism=motel`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează. Conține 319 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Moteluri din România | ListBase",
+    "seo_description": "Descarcă Moteluri din România — 319 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 319 înregistrări / 7 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

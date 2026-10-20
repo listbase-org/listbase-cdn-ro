@@ -1,0 +1,166 @@
+{
+  "id": "ro-teleorman-licee",
+  "name": "Licee si colegii din judetul Teleorman",
+  "title": "Licee si colegii din judetul Teleorman",
+  "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Teleorman (20 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "COLEGIUL NAȚIONAL PEDAGOGIC \"MIRCEA SCARLAT\"",
+      "slug": "colegiul-national-pedagogic-mircea-scarlat",
+      "judet": "TELEORMAN",
+      "judet_slug": "teleorman"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"AL. D. GHICA\"",
+      "slug": "colegiul-national-al-d-ghica",
+      "judet": "TELEORMAN",
+      "judet_slug": "teleorman"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"AL. I. CUZA\"",
+      "slug": "colegiul-national-al-i-cuza",
+      "judet": "TELEORMAN",
+      "judet_slug": "teleorman"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"ANASTASESCU\"",
+      "slug": "colegiul-national-anastasescu",
+      "judet": "TELEORMAN",
+      "judet_slug": "teleorman"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"UNIREA\"",
+      "slug": "colegiul-national-unirea",
+      "judet": "TELEORMAN",
+      "judet_slug": "teleorman"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"ANGHEL SALIGNY\"",
+      "slug": "colegiul-tehnic-anghel-saligny",
+      "judet": "TELEORMAN",
+      "judet_slug": "teleorman"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"GENERAL DAVID PRAPORGESCU\"",
+      "slug": "colegiul-tehnic-general-david-praporgescu",
+      "judet": "TELEORMAN",
+      "judet_slug": "teleorman"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC DRAGANESTI-VLASCA",
+      "slug": "liceul-tehnologic-draganesti-vlasca",
+      "judet": "TELEORMAN",
+      "judet_slug": "teleorman"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC NR.1",
+      "slug": "liceul-tehnologic-nr-1",
+      "judet": "TELEORMAN",
+      "judet_slug": "teleorman"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"ANDREI SAGUNA\"",
+      "slug": "liceul-tehnologic-andrei-saguna",
+      "judet": "TELEORMAN",
+      "judet_slug": "teleorman"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"EMIL RACOVITA\"",
+      "slug": "liceul-tehnologic-emil-racovita",
+      "judet": "TELEORMAN",
+      "judet_slug": "teleorman"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"NICOLAE BALCESCU\"",
+      "slug": "liceul-tehnologic-nicolae-balcescu",
+      "judet": "TELEORMAN",
+      "judet_slug": "teleorman"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"SF. HARALAMBIE\"",
+      "slug": "liceul-tehnologic-sf-haralambie",
+      "judet": "TELEORMAN",
+      "judet_slug": "teleorman"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"VIRGIL MADGEARU\"",
+      "slug": "liceul-tehnologic-virgil-madgearu",
+      "judet": "TELEORMAN",
+      "judet_slug": "teleorman"
+    },
+    {
+      "nume": "LICEUL TEORETIC OLTENI",
+      "slug": "liceul-teoretic-olteni",
+      "judet": "TELEORMAN",
+      "judet_slug": "teleorman"
+    },
+    {
+      "nume": "LICEUL TEORETIC PIATRA",
+      "slug": "liceul-teoretic-piatra",
+      "judet": "TELEORMAN",
+      "judet_slug": "teleorman"
+    },
+    {
+      "nume": "LICEUL TEORETIC VIDELE",
+      "slug": "liceul-teoretic-videle",
+      "judet": "TELEORMAN",
+      "judet_slug": "teleorman"
+    },
+    {
+      "nume": "LICEUL TEORETIC ZIMNICEA",
+      "slug": "liceul-teoretic-zimnicea",
+      "judet": "TELEORMAN",
+      "judet_slug": "teleorman"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"CONSTANTIN NOICA\"",
+      "slug": "liceul-teoretic-constantin-noica",
+      "judet": "TELEORMAN",
+      "judet_slug": "teleorman"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"MARIN PREDA\"",
+      "slug": "liceul-teoretic-marin-preda",
+      "judet": "TELEORMAN",
+      "judet_slug": "teleorman"
+    }
+  ],
+  "meta": {
+    "title": "Licee si colegii din judetul Teleorman - Descărcare gratuită",
+    "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Teleorman (20 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor. Conține 20 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Licee si colegii din judetul Teleorman | ListBase",
+    "seo_description": "Descarcă Licee si colegii din judetul Teleorman — 20 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 20 înregistrări / 4 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

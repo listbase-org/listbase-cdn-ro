@@ -1,0 +1,406 @@
+{
+  "id": "ro-cluj-licee",
+  "name": "Licee si colegii din judetul Cluj",
+  "title": "Licee si colegii din judetul Cluj",
+  "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Cluj (60 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 60,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "COLEGIUL DE MUZICĂ \"SIGISMUND TODUȚĂ\" CLUJ-NAPOCA",
+      "slug": "colegiul-de-muzica-sigismund-toduta-cluj-napoca",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "COLEGIUL ECONOMIC \"IULIAN POP\" CLUJ-NAPOCA",
+      "slug": "colegiul-economic-iulian-pop-cluj-napoca",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "COLEGIUL NAŢIONAL PEDAGOGIC \"GHEORGHE LAZĂR\" CLUJ-NAPOCA",
+      "slug": "colegiul-national-pedagogic-gheorghe-lazar-cluj-napoca",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "COLEGIUL NAŢIONAL \"ANDREI MUREŞANU\" DEJ",
+      "slug": "colegiul-national-andrei-muresanu-dej",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "COLEGIUL NAŢIONAL \"EMIL RACOVIŢĂ\" CLUJ-NAPOCA",
+      "slug": "colegiul-national-emil-racovita-cluj-napoca",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "COLEGIUL NAŢIONAL \"GEORGE BARIŢIU\" CLUJ-NAPOCA",
+      "slug": "colegiul-national-george-baritiu-cluj-napoca",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "COLEGIUL NAŢIONAL \"GEORGE COŞBUC\" CLUJ-NAPOCA",
+      "slug": "colegiul-national-george-cosbuc-cluj-napoca",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "COLEGIUL NAŢIONAL \"MIHAI VITEAZUL\" TURDA",
+      "slug": "colegiul-national-mihai-viteazul-turda",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC DE COMUNICAŢII \"AUGUSTIN MAIOR\" CLUJ-NAPOCA",
+      "slug": "colegiul-tehnic-de-comunicatii-augustin-maior-cluj-napoca",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC DE TRANSPORTURI \"TRANSILVANIA\" CLUJ-NAPOCA",
+      "slug": "colegiul-tehnic-de-transporturi-transilvania-cluj-napoca",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC ENERGETIC CLUJ-NAPOCA",
+      "slug": "colegiul-tehnic-energetic-cluj-napoca",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC TURDA",
+      "slug": "colegiul-tehnic-turda",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"ANA ASLAN\" CLUJ-NAPOCA",
+      "slug": "colegiul-tehnic-ana-aslan-cluj-napoca",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"ANGHEL SALIGNY\" CLUJ-NAPOCA",
+      "slug": "colegiul-tehnic-anghel-saligny-cluj-napoca",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"DR.IOAN RAŢIU\" TURDA",
+      "slug": "colegiul-tehnic-dr-ioan-ratiu-turda",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"EDMOND NICOLAU\" CLUJ-NAPOCA",
+      "slug": "colegiul-tehnic-edmond-nicolau-cluj-napoca",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"NAPOCA\" CLUJ-NAPOCA",
+      "slug": "colegiul-tehnic-napoca-cluj-napoca",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"RALUCA RIPAN\" CLUJ-NAPOCA",
+      "slug": "colegiul-tehnic-raluca-ripan-cluj-napoca",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"VICTOR UNGUREANU\" CÂMPIA TURZII",
+      "slug": "colegiul-tehnic-victor-ungureanu-campia-turzii",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "COLEGIUL \"EMIL NEGRUȚIU\" TURDA",
+      "slug": "colegiul-emil-negrutiu-turda",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "LICEUL CU PROGRAM SPORTIV CLUJ-NAPOCA",
+      "slug": "liceul-cu-program-sportiv-cluj-napoca",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "LICEUL DE ARTE VIZUALE \"ROMULUS LADEA\" CLUJ-NAPOCA",
+      "slug": "liceul-de-arte-vizuale-romulus-ladea-cluj-napoca",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "LICEUL DE COREGRAFIE ŞI ARTĂ DRAMATICĂ \"OCTAVIAN STROIA\" CLUJ-NAPOCA",
+      "slug": "liceul-de-coregrafie-si-arta-dramatica-octavian-stroia-cluj-napoca",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "LICEUL DE INFORMATICĂ \"TIBERIU POPOVICIU\" CLUJ-NAPOCA",
+      "slug": "liceul-de-informatica-tiberiu-popoviciu-cluj-napoca",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "LICEUL GRECO-CATOLIC \"INOCHENTIE MICU\" CLUJ-NAPOCA",
+      "slug": "liceul-greco-catolic-inochentie-micu-cluj-napoca",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "LICEUL SPECIAL PENTRU DEFICIENȚI DE VEDERE",
+      "slug": "liceul-special-pentru-deficienti-de-vedere",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC GHERLA",
+      "slug": "liceul-tehnologic-gherla",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC NR.1 CLUJ-NAPOCA",
+      "slug": "liceul-tehnologic-nr-1-cluj-napoca",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC SPECIAL PENTRU DEFICIENȚI DE AUZ",
+      "slug": "liceul-tehnologic-special-pentru-deficienti-de-auz",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC SPECIAL \"SAMUS\" CLUJ-NAPOCA",
+      "slug": "liceul-tehnologic-special-samus-cluj-napoca",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"ALEXANDRU BORZA\" CLUJ-NAPOCA",
+      "slug": "liceul-tehnologic-alexandru-borza-cluj-napoca",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"AUREL VLAICU\" CLUJ-NAPOCA",
+      "slug": "liceul-tehnologic-aurel-vlaicu-cluj-napoca",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"CONSTANTIN BRÂNCUŞI\" DEJ",
+      "slug": "liceul-tehnologic-constantin-brancusi-dej",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"SOMEŞ\" DEJ",
+      "slug": "liceul-tehnologic-somes-dej",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"VLĂDEASA\" HUEDIN",
+      "slug": "liceul-tehnologic-vladeasa-huedin",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"ŞTEFAN PASCU\" APAHIDA",
+      "slug": "liceul-tehnologic-stefan-pascu-apahida",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "LICEUL TEOLOGIC ADVENTIST \"MARANATHA\" CLUJ-NAPOCA",
+      "slug": "liceul-teologic-adventist-maranatha-cluj-napoca",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "LICEUL TEOLOGIC BAPTIST \"EMANUEL\" CLUJ-NAPOCA",
+      "slug": "liceul-teologic-baptist-emanuel-cluj-napoca",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "LICEUL TEOLOGIC REFORMAT CLUJ-NAPOCA",
+      "slug": "liceul-teologic-reformat-cluj-napoca",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"ALEXANDRU PAPIU ILARIAN\" DEJ",
+      "slug": "liceul-teoretic-alexandru-papiu-ilarian-dej",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"ANA IPĂTESCU\" GHERLA",
+      "slug": "liceul-teoretic-ana-ipatescu-gherla",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"APACZAI CSERE JANOS\" CLUJ-NAPOCA",
+      "slug": "liceul-teoretic-apaczai-csere-janos-cluj-napoca",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"AVRAM IANCU\" CLUJ-NAPOCA",
+      "slug": "liceul-teoretic-avram-iancu-cluj-napoca",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"BATHORY ISTVAN\" CLUJ-NAPOCA",
+      "slug": "liceul-teoretic-bathory-istvan-cluj-napoca",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"BRASSAI SAMUEL \" CLUJ-NAPOCA",
+      "slug": "liceul-teoretic-brassai-samuel-cluj-napoca",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"EUGEN PORA\" CLUJ-NAPOCA",
+      "slug": "liceul-teoretic-eugen-pora-cluj-napoca",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"GELU VOIEVOD\" GILĂU, COM. GILĂU",
+      "slug": "liceul-teoretic-gelu-voievod-gilau-com-gilau",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"GHEORGHE ŞINCAI\" CLUJ-NAPOCA",
+      "slug": "liceul-teoretic-gheorghe-sincai-cluj-napoca",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"JOSIKA MIKLOS\" TURDA",
+      "slug": "liceul-teoretic-josika-miklos-turda",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"LIVIU REBREANU\" TURDA",
+      "slug": "liceul-teoretic-liviu-rebreanu-turda",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"LUCIAN BLAGA\" CLUJ-NAPOCA",
+      "slug": "liceul-teoretic-lucian-blaga-cluj-napoca",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"MIHAI EMINESCU\" CLUJ-NAPOCA",
+      "slug": "liceul-teoretic-mihai-eminescu-cluj-napoca",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"NICOLAE BĂLCESCU\" CLUJ-NAPOCA",
+      "slug": "liceul-teoretic-nicolae-balcescu-cluj-napoca",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"OCTAVIAN GOGA\" HUEDIN",
+      "slug": "liceul-teoretic-octavian-goga-huedin",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"ONISIFOR GHIBU\" CLUJ-NAPOCA",
+      "slug": "liceul-teoretic-onisifor-ghibu-cluj-napoca",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"PAVEL DAN\" CÂMPIA TURZII",
+      "slug": "liceul-teoretic-pavel-dan-campia-turzii",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"PETRU MAIOR\" GHERLA",
+      "slug": "liceul-teoretic-petru-maior-gherla",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"VICTOR BABEŞ\" CLUJ-NAPOCA",
+      "slug": "liceul-teoretic-victor-babes-cluj-napoca",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "LICEUL \"JANOS ZSIGMOND\" CLUJ-NAPOCA",
+      "slug": "liceul-janos-zsigmond-cluj-napoca",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    },
+    {
+      "nume": "SEMINARUL TEOLOGIC ORTODOX CLUJ-NAPOCA",
+      "slug": "seminarul-teologic-ortodox-cluj-napoca",
+      "judet": "CLUJ",
+      "judet_slug": "cluj"
+    }
+  ],
+  "meta": {
+    "title": "Licee si colegii din judetul Cluj - Descărcare gratuită",
+    "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Cluj (60 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor. Conține 60 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Licee si colegii din judetul Cluj | ListBase",
+    "seo_description": "Descarcă Licee si colegii din judetul Cluj — 60 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 60 înregistrări / 4 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

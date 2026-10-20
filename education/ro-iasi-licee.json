@@ -1,0 +1,310 @@
+{
+  "id": "ro-iasi-licee",
+  "name": "Licee si colegii din judetul Iași",
+  "title": "Licee si colegii din judetul Iași",
+  "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Iași (44 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 44,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "COLEGIUL AGRICOL ȘI DE INDUSTRIE ALIMENTARA \"VASILE ADAMACHI\" IAȘI",
+      "slug": "colegiul-agricol-si-de-industrie-alimentara-vasile-adamachi-iasi",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    },
+    {
+      "nume": "COLEGIUL ECONOMIC ADMINISTRATIV IAȘI",
+      "slug": "colegiul-economic-administrativ-iasi",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    },
+    {
+      "nume": "COLEGIUL NATIONAL DE ARTA \"OCTAV BANCILA\" IAȘI",
+      "slug": "colegiul-national-de-arta-octav-bancila-iasi",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    },
+    {
+      "nume": "COLEGIUL NATIONAL IAȘI",
+      "slug": "colegiul-national-iasi",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    },
+    {
+      "nume": "COLEGIUL NATIONAL \"COSTACHE NEGRUZZI\" IAȘI",
+      "slug": "colegiul-national-costache-negruzzi-iasi",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    },
+    {
+      "nume": "COLEGIUL NATIONAL \"EMIL RACOVITA\" IAȘI",
+      "slug": "colegiul-national-emil-racovita-iasi",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    },
+    {
+      "nume": "COLEGIUL NATIONAL \"GARABET IBRAILEANU\" IAȘI",
+      "slug": "colegiul-national-garabet-ibraileanu-iasi",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    },
+    {
+      "nume": "COLEGIUL NATIONAL \"MIHAI EMINESCU\" IAȘI",
+      "slug": "colegiul-national-mihai-eminescu-iasi",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    },
+    {
+      "nume": "COLEGIUL NATIONAL \"MIHAIL SADOVEANU\" PASCANI",
+      "slug": "colegiul-national-mihail-sadoveanu-pascani",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    },
+    {
+      "nume": "COLEGIUL NATIONAL \"STEFAN CEL MARE\" HIRLAU",
+      "slug": "colegiul-national-stefan-cel-mare-hirlau",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    },
+    {
+      "nume": "COLEGIUL PEDAGOGIC \"VASILE LUPU\" IAȘI",
+      "slug": "colegiul-pedagogic-vasile-lupu-iasi",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC DE CAI FERATE \"UNIREA\" PASCANI",
+      "slug": "colegiul-tehnic-de-cai-ferate-unirea-pascani",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC DE ELECTRONICA SI TELECOMUNICATII \"GHEORGHE MARZESCU\" IAȘI",
+      "slug": "colegiul-tehnic-de-electronica-si-telecomunicatii-gheorghe-marzescu-iasi",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC DE TRANSPORTURI SI CONSTRUCTII IAȘI",
+      "slug": "colegiul-tehnic-de-transporturi-si-constructii-iasi",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"DIMITRIE LEONIDA\" IAȘI",
+      "slug": "colegiul-tehnic-dimitrie-leonida-iasi",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"GHEORGHE ASACHI\" IAȘI",
+      "slug": "colegiul-tehnic-gheorghe-asachi-iasi",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"IOAN C. STEFANESCU\" IAȘI",
+      "slug": "colegiul-tehnic-ioan-c-stefanescu-iasi",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"ION HOLBAN\" IAȘI",
+      "slug": "colegiul-tehnic-ion-holban-iasi",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"MIHAIL STURDZA\" IAȘI",
+      "slug": "colegiul-tehnic-mihail-sturdza-iasi",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    },
+    {
+      "nume": "LICEUL CU PROGRAM SPORTIV IAȘI",
+      "slug": "liceul-cu-program-sportiv-iasi",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC AGRICOL \"MIHAIL KOGALNICEANU\" MIROSLAVA",
+      "slug": "liceul-tehnologic-agricol-mihail-kogalniceanu-miroslava",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC DE MECATRONICA SI AUTOMATIZARI IAȘI",
+      "slug": "liceul-tehnologic-de-mecatronica-si-automatizari-iasi",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC ECONOMIC DE TURISM IAȘI",
+      "slug": "liceul-tehnologic-economic-de-turism-iasi",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC ECONOMIC \"NICOLAE IORGA\" PASCANI",
+      "slug": "liceul-tehnologic-economic-nicolae-iorga-pascani",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC ECONOMIC \"VIRGIL MADGEARU\" IAȘI",
+      "slug": "liceul-tehnologic-economic-virgil-madgearu-iasi",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC HIRLAU",
+      "slug": "liceul-tehnologic-hirlau",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC VLADENI",
+      "slug": "liceul-tehnologic-vladeni",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"HARALAMB VASILIU\" PODU ILOAIEI",
+      "slug": "liceul-tehnologic-haralamb-vasiliu-podu-iloaiei",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"MIHAI BUSUIOC\" PASCANI",
+      "slug": "liceul-tehnologic-mihai-busuioc-pascani",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"PETRE P.CARP\" TIBANESTI",
+      "slug": "liceul-tehnologic-petre-p-carp-tibanesti",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"PETRU PONI\" IAȘI",
+      "slug": "liceul-tehnologic-petru-poni-iasi",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"PETRU RARES\" TARGU FRUMOS",
+      "slug": "liceul-tehnologic-petru-rares-targu-frumos",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"VICTOR MIHAILESCU CRAIU\" BELCESTI",
+      "slug": "liceul-tehnologic-victor-mihailescu-craiu-belcesti",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    },
+    {
+      "nume": "LICEUL TEORETIC DE INFORMATICA \"GRIGORE MOISIL\" IAȘI",
+      "slug": "liceul-teoretic-de-informatica-grigore-moisil-iasi",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    },
+    {
+      "nume": "LICEUL TEORETIC WALDORF IAȘI",
+      "slug": "liceul-teoretic-waldorf-iasi",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"ALEXANDRU IOAN CUZA\" IAȘI",
+      "slug": "liceul-teoretic-alexandru-ioan-cuza-iasi",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"BOGDAN VODA\" HALAUCESTI",
+      "slug": "liceul-teoretic-bogdan-voda-halaucesti",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"DIMITRIE CANTEMIR\" IAȘI",
+      "slug": "liceul-teoretic-dimitrie-cantemir-iasi",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"ION NECULCE\" TARGU FRUMOS",
+      "slug": "liceul-teoretic-ion-neculce-targu-frumos",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"LASCAR ROSETTI\" RADUCANENI",
+      "slug": "liceul-teoretic-lascar-rosetti-raducaneni",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"MIRON COSTIN\" IAȘI",
+      "slug": "liceul-teoretic-miron-costin-iasi",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"MIRON COSTIN\" PASCANI",
+      "slug": "liceul-teoretic-miron-costin-pascani",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"VASILE ALECSANDRI\" IAȘI",
+      "slug": "liceul-teoretic-vasile-alecsandri-iasi",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    },
+    {
+      "nume": "SEMINARUL TEOLOGIC ORTODOX \"SF. VASILE CEL MARE\" IAȘI",
+      "slug": "seminarul-teologic-ortodox-sf-vasile-cel-mare-iasi",
+      "judet": "IAȘI",
+      "judet_slug": "iasi"
+    }
+  ],
+  "meta": {
+    "title": "Licee si colegii din judetul Iași - Descărcare gratuită",
+    "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Iași (44 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor. Conține 44 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Licee si colegii din judetul Iași | ListBase",
+    "seo_description": "Descarcă Licee si colegii din judetul Iași — 44 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 44 înregistrări / 4 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

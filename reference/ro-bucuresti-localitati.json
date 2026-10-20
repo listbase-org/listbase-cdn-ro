@@ -1,0 +1,236 @@
+{
+  "id": "ro-bucuresti-localitati",
+  "name": "Localitățile județului București",
+  "title": "Localitățile județului București",
+  "description": "Lista celor 6 de localități (sate, localități componente, sectoare) din județul București (B) — extrasă din clasificatorul SIRUTA S1-2025 cu codul poștal și entitatea părinte (comună/oraș/municipiu).",
+  "category": "reference",
+  "source": "https://github.com/ionelmc/django-siruta",
+  "source_url": "https://github.com/ionelmc/django-siruta",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "siruta_code",
+      "label": "Siruta Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "codp",
+      "label": "Codp",
+      "type": "number"
+    },
+    {
+      "key": "judet_id",
+      "label": "Judet Id",
+      "type": "number"
+    },
+    {
+      "key": "judet_name",
+      "label": "Judet Name",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "parent_siruta",
+      "label": "Parent Siruta",
+      "type": "number"
+    },
+    {
+      "key": "parent_name",
+      "label": "Parent Name",
+      "type": "string"
+    },
+    {
+      "key": "parent_slug",
+      "label": "Parent Slug",
+      "type": "string"
+    },
+    {
+      "key": "parent_type",
+      "label": "Parent Type",
+      "type": "string"
+    },
+    {
+      "key": "tip_code",
+      "label": "Tip Code",
+      "type": "number"
+    },
+    {
+      "key": "tip_name",
+      "label": "Tip Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "area",
+      "label": "Area",
+      "type": "string"
+    },
+    {
+      "key": "regiune_id",
+      "label": "Regiune Id",
+      "type": "number"
+    },
+    {
+      "key": "nuts3",
+      "label": "Nuts3",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "siruta_code": 179141,
+      "name": "București Sectorul 1",
+      "slug": "bucuresti-sectorul-1",
+      "codp": "010013",
+      "judet_id": 40,
+      "judet_name": "București",
+      "judet_slug": "bucuresti",
+      "iso_3166_2": "RO-B",
+      "parent_siruta": 179132,
+      "parent_name": "București",
+      "parent_slug": "bucuresti",
+      "parent_type": "localitate",
+      "tip_code": 6,
+      "tip_name": "sector al municipiului București",
+      "category": "sector",
+      "area": "urban",
+      "regiune_id": 8,
+      "nuts3": "RO321"
+    },
+    {
+      "siruta_code": 179150,
+      "name": "București Sectorul 2",
+      "slug": "bucuresti-sectorul-2",
+      "codp": "020071",
+      "judet_id": 40,
+      "judet_name": "București",
+      "judet_slug": "bucuresti",
+      "iso_3166_2": "RO-B",
+      "parent_siruta": 179132,
+      "parent_name": "București",
+      "parent_slug": "bucuresti",
+      "parent_type": "localitate",
+      "tip_code": 6,
+      "tip_name": "sector al municipiului București",
+      "category": "sector",
+      "area": "urban",
+      "regiune_id": 8,
+      "nuts3": "RO321"
+    },
+    {
+      "siruta_code": 179169,
+      "name": "București Sectorul 3",
+      "slug": "bucuresti-sectorul-3",
+      "codp": "032804",
+      "judet_id": 40,
+      "judet_name": "București",
+      "judet_slug": "bucuresti",
+      "iso_3166_2": "RO-B",
+      "parent_siruta": 179132,
+      "parent_name": "București",
+      "parent_slug": "bucuresti",
+      "parent_type": "localitate",
+      "tip_code": 6,
+      "tip_name": "sector al municipiului București",
+      "category": "sector",
+      "area": "urban",
+      "regiune_id": 8,
+      "nuts3": "RO321"
+    },
+    {
+      "siruta_code": 179178,
+      "name": "București Sectorul 4",
+      "slug": "bucuresti-sectorul-4",
+      "codp": "040671",
+      "judet_id": 40,
+      "judet_name": "București",
+      "judet_slug": "bucuresti",
+      "iso_3166_2": "RO-B",
+      "parent_siruta": 179132,
+      "parent_name": "București",
+      "parent_slug": "bucuresti",
+      "parent_type": "localitate",
+      "tip_code": 6,
+      "tip_name": "sector al municipiului București",
+      "category": "sector",
+      "area": "urban",
+      "regiune_id": 8,
+      "nuts3": "RO321"
+    },
+    {
+      "siruta_code": 179187,
+      "name": "București Sectorul 5",
+      "slug": "bucuresti-sectorul-5",
+      "codp": "050341",
+      "judet_id": 40,
+      "judet_name": "București",
+      "judet_slug": "bucuresti",
+      "iso_3166_2": "RO-B",
+      "parent_siruta": 179132,
+      "parent_name": "București",
+      "parent_slug": "bucuresti",
+      "parent_type": "localitate",
+      "tip_code": 6,
+      "tip_name": "sector al municipiului București",
+      "category": "sector",
+      "area": "urban",
+      "regiune_id": 8,
+      "nuts3": "RO321"
+    },
+    {
+      "siruta_code": 179196,
+      "name": "București Sectorul 6",
+      "slug": "bucuresti-sectorul-6",
+      "codp": "060154",
+      "judet_id": 40,
+      "judet_name": "București",
+      "judet_slug": "bucuresti",
+      "iso_3166_2": "RO-B",
+      "parent_siruta": 179132,
+      "parent_name": "București",
+      "parent_slug": "bucuresti",
+      "parent_type": "localitate",
+      "tip_code": 6,
+      "tip_name": "sector al municipiului București",
+      "category": "sector",
+      "area": "urban",
+      "regiune_id": 8,
+      "nuts3": "RO321"
+    }
+  ],
+  "meta": {
+    "title": "Localitățile județului București - Descărcare gratuită",
+    "description": "Lista celor 6 de localități (sate, localități componente, sectoare) din județul București (B) — extrasă din clasificatorul SIRUTA S1-2025 cu codul poștal și entitatea părinte (comună/oraș/municipiu). Conține 6 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Localitățile județului București | ListBase",
+    "seo_description": "Descarcă Localitățile județului București — 6 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 6 înregistrări / 18 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: https://github.com/ionelmc/django-siruta"
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "id": "ro-mehedinti-orase",
+  "name": "Orașele și municipiile județului Mehedinți",
+  "title": "Orașele și municipiile județului Mehedinți",
+  "description": "Lista celor 5 de orașe, municipii din județul Mehedinți (MH) — unități administrativ-teritoriale urbane de nivel 2 conform SIRUTA. Reședința de județ este marcată cu is_resedinta_judet=true.",
+  "category": "geography",
+  "source": "https://github.com/ionelmc/django-siruta",
+  "source_url": "https://github.com/ionelmc/django-siruta",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "siruta_code",
+      "label": "Siruta Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_official",
+      "label": "Name Official",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet_id",
+      "label": "Judet Id",
+      "type": "number"
+    },
+    {
+      "key": "judet_name",
+      "label": "Judet Name",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "tip_code",
+      "label": "Tip Code",
+      "type": "number"
+    },
+    {
+      "key": "tip_name",
+      "label": "Tip Name",
+      "type": "string"
+    },
+    {
+      "key": "is_resedinta_judet",
+      "label": "Is Resedinta Judet",
+      "type": "boolean"
+    },
+    {
+      "key": "regiune_id",
+      "label": "Regiune Id",
+      "type": "number"
+    },
+    {
+      "key": "nuts3",
+      "label": "Nuts3",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "siruta_code": 109773,
+      "name": "Drobeta-Turnu Severin",
+      "name_official": "MUNICIPIUL DROBETA-TURNU SEVERIN",
+      "slug": "drobeta-turnu-severin",
+      "judet_id": 25,
+      "judet_name": "Mehedinți",
+      "judet_slug": "mehedinti",
+      "iso_3166_2": "RO-MH",
+      "tip_code": 1,
+      "tip_name": "municipiu reședință de județ",
+      "is_resedinta_judet": true,
+      "regiune_id": 4,
+      "nuts3": ""
+    },
+    {
+      "siruta_code": 109924,
+      "name": "Baia De Aramă",
+      "name_official": "ORAȘ BAIA DE ARAMĂ",
+      "slug": "baia-de-arama",
+      "judet_id": 25,
+      "judet_name": "Mehedinți",
+      "judet_slug": "mehedinti",
+      "iso_3166_2": "RO-MH",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 4,
+      "nuts3": ""
+    },
+    {
+      "siruta_code": 110063,
+      "name": "Orșova",
+      "name_official": "MUNICIPIUL ORȘOVA",
+      "slug": "orsova",
+      "judet_id": 25,
+      "judet_name": "Mehedinți",
+      "judet_slug": "mehedinti",
+      "iso_3166_2": "RO-MH",
+      "tip_code": 4,
+      "tip_name": "municipiu",
+      "is_resedinta_judet": false,
+      "regiune_id": 4,
+      "nuts3": ""
+    },
+    {
+      "siruta_code": 110116,
+      "name": "Strehaia",
+      "name_official": "ORAȘ STREHAIA",
+      "slug": "strehaia",
+      "judet_id": 25,
+      "judet_name": "Mehedinți",
+      "judet_slug": "mehedinti",
+      "iso_3166_2": "RO-MH",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 4,
+      "nuts3": ""
+    },
+    {
+      "siruta_code": 110232,
+      "name": "Vânju Mare",
+      "name_official": "ORAȘ VÂNJU MARE",
+      "slug": "vanju-mare",
+      "judet_id": 25,
+      "judet_name": "Mehedinți",
+      "judet_slug": "mehedinti",
+      "iso_3166_2": "RO-MH",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 4,
+      "nuts3": ""
+    }
+  ],
+  "meta": {
+    "title": "Orașele și municipiile județului Mehedinți - Descărcare gratuită",
+    "description": "Lista celor 5 de orașe, municipii din județul Mehedinți (MH) — unități administrativ-teritoriale urbane de nivel 2 conform SIRUTA. Reședința de județ este marcată cu is_resedinta_judet=true. Conține 5 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Orașele și municipiile județului Mehedinți | ListBase",
+    "seo_description": "Descarcă Orașele și municipiile județului Mehedinți — 5 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 5 înregistrări / 13 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: https://github.com/ionelmc/django-siruta"
+    ]
+  }
+}

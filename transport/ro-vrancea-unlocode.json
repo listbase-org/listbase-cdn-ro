@@ -1,0 +1,366 @@
+{
+  "id": "ro-vrancea-unlocode",
+  "name": "Coduri UN/LOCODE — judeţul Vrancea (porturi, aeroporturi, terminale)",
+  "title": "Coduri UN/LOCODE — judeţul Vrancea (porturi, aeroporturi, terminale)",
+  "description": "Cele 9 locaţii UN/LOCODE din judeţul Vrancea, România — cod LOCODE, denumire, funcţii de transport, status şi coordonate.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "locode",
+      "label": "Locode",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_wo_diacritics",
+      "label": "Name Wo Diacritics",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_code",
+      "label": "Subdivision Code",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_name",
+      "label": "Subdivision Name",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_type",
+      "label": "Subdivision Type",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "status_description",
+      "label": "Status Description",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function",
+      "type": "string"
+    },
+    {
+      "key": "functions",
+      "label": "Functions",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "date_updated",
+      "label": "Date Updated",
+      "type": "string"
+    },
+    {
+      "key": "remarks",
+      "label": "Remarks",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet_name",
+      "label": "Judet Name",
+      "type": "string"
+    },
+    {
+      "key": "judet_source",
+      "label": "Judet Source",
+      "type": "string"
+    },
+    {
+      "key": "judet_alternativ_siruta",
+      "label": "Judet Alternativ Siruta",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "locode": "ROADJ",
+      "country": "RO",
+      "location": "ADJ",
+      "name": "Adjud",
+      "name_wo_diacritics": "Adjud",
+      "subdivision_code": "VN",
+      "subdivision_name": "Vrancea",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-5---",
+      "functions": "Road transport, International Mail Processing Centre (UPU)",
+      "iata": "",
+      "coordinates": "4606N 02710E",
+      "latitude": 46.1,
+      "longitude": 27.1667,
+      "date_updated": "2016-07",
+      "remarks": "",
+      "judet_slug": "vrancea",
+      "judet_name": "Vrancea",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 2,
+      "locode": "ROAGH",
+      "country": "RO",
+      "location": "AGH",
+      "name": "Anghelesti",
+      "name_wo_diacritics": "Anghelesti",
+      "subdivision_code": "VN",
+      "subdivision_name": "Vrancea",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4605N 02703E",
+      "latitude": 46.0833,
+      "longitude": 27.05,
+      "date_updated": "2016-01",
+      "remarks": "",
+      "judet_slug": "vrancea",
+      "judet_name": "Vrancea",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 3,
+      "locode": "ROFOS",
+      "country": "RO",
+      "location": "FOS",
+      "name": "Focsani",
+      "name_wo_diacritics": "Focsani",
+      "subdivision_code": "",
+      "subdivision_name": "",
+      "subdivision_type": "",
+      "status": "AC",
+      "status_description": "Approved by Customs Authority",
+      "function": "-2------",
+      "functions": "Rail transport",
+      "iata": "",
+      "coordinates": "",
+      "latitude": "",
+      "longitude": "",
+      "date_updated": "1983-09",
+      "remarks": "",
+      "judet_slug": "vrancea",
+      "judet_name": "Vrancea",
+      "judet_source": "derived_name_join",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 4,
+      "locode": "ROJRT",
+      "country": "RO",
+      "location": "JRT",
+      "name": "Jaristea",
+      "name_wo_diacritics": "Jaristea",
+      "subdivision_code": "VN",
+      "subdivision_name": "Vrancea",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "1----6--",
+      "functions": "Maritime transport (sea port), Multimodal transport facility",
+      "iata": "",
+      "coordinates": "4547N 02704E",
+      "latitude": 45.7833,
+      "longitude": 27.0667,
+      "date_updated": "2012-01",
+      "remarks": "",
+      "judet_slug": "vrancea",
+      "judet_name": "Vrancea",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 5,
+      "locode": "ROOBE",
+      "country": "RO",
+      "location": "OBE",
+      "name": "Odobesti",
+      "name_wo_diacritics": "Odobesti",
+      "subdivision_code": "VN",
+      "subdivision_name": "Vrancea",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3--6--",
+      "functions": "Road transport, Multimodal transport facility",
+      "iata": "",
+      "coordinates": "4546N 02703E",
+      "latitude": 45.7667,
+      "longitude": 27.05,
+      "date_updated": "2011-07",
+      "remarks": "",
+      "judet_slug": "vrancea",
+      "judet_name": "Vrancea",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 6,
+      "locode": "ROPNC",
+      "country": "RO",
+      "location": "PNC",
+      "name": "Panciu",
+      "name_wo_diacritics": "Panciu",
+      "subdivision_code": "",
+      "subdivision_name": "",
+      "subdivision_type": "",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4554N 02705E",
+      "latitude": 45.9,
+      "longitude": 27.0833,
+      "date_updated": "2003-07",
+      "remarks": "",
+      "judet_slug": "vrancea",
+      "judet_name": "Vrancea",
+      "judet_source": "derived_name_join",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 7,
+      "locode": "ROSOV",
+      "country": "RO",
+      "location": "SOV",
+      "name": "Soveja",
+      "name_wo_diacritics": "Soveja",
+      "subdivision_code": "VN",
+      "subdivision_name": "Vrancea",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4600N 02639E",
+      "latitude": 46,
+      "longitude": 26.65,
+      "date_updated": "2017-07",
+      "remarks": "",
+      "judet_slug": "vrancea",
+      "judet_name": "Vrancea",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 8,
+      "locode": "ROTFT",
+      "country": "RO",
+      "location": "TFT",
+      "name": "Tifesti",
+      "name_wo_diacritics": "Tifesti",
+      "subdivision_code": "VN",
+      "subdivision_name": "Vrancea",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4551N 02706E",
+      "latitude": 45.85,
+      "longitude": 27.1,
+      "date_updated": "2015-01",
+      "remarks": "",
+      "judet_slug": "vrancea",
+      "judet_name": "Vrancea",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 9,
+      "locode": "ROVRA",
+      "country": "RO",
+      "location": "VRA",
+      "name": "Virtescoiu",
+      "name_wo_diacritics": "Virtescoiu",
+      "subdivision_code": "VN",
+      "subdivision_name": "Vrancea",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4544N 02705E",
+      "latitude": 45.7333,
+      "longitude": 27.0833,
+      "date_updated": "2017-01",
+      "remarks": "",
+      "judet_slug": "vrancea",
+      "judet_name": "Vrancea",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    }
+  ],
+  "meta": {
+    "title": "Coduri UN/LOCODE — judeţul Vrancea (porturi, aeroporturi, terminale) - Descărcare gratuită",
+    "description": "Cele 9 locaţii UN/LOCODE din judeţul Vrancea, România — cod LOCODE, denumire, funcţii de transport, status şi coordonate. Conține 9 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Coduri UN/LOCODE — judeţul Vrancea (porturi, aeroporturi, terminale) | ListBase",
+    "seo_description": "Descarcă Coduri UN/LOCODE — judeţul Vrancea (porturi, aeroporturi, terminale) — 9 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 9 înregistrări / 23 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

@@ -1,0 +1,1987 @@
+{
+  "id": "ro-cabane-turistice",
+  "name": "Cabane turistice din România",
+  "title": "Cabane turistice din România",
+  "description": "Cabane turistice din România — 214 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `tourism=chalet`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 214,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "latitudine",
+      "label": "Latitudine",
+      "type": "number"
+    },
+    {
+      "key": "longitudine",
+      "label": "Longitudine",
+      "type": "number"
+    },
+    {
+      "key": "cheie_osm",
+      "label": "Cheie Osm",
+      "type": "string"
+    },
+    {
+      "key": "valoare_osm",
+      "label": "Valoare Osm",
+      "type": "string"
+    },
+    {
+      "key": "categorie_osm",
+      "label": "Categorie Osm",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nume": "Agropensiunea Alexandra",
+      "latitudine": 45.189571,
+      "longitudine": 28.485951,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 2,
+      "nume": "Agropensiunea Olteanu",
+      "latitudine": 45.190913,
+      "longitudine": 28.475795,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 3,
+      "nume": "Apuseni Holidays",
+      "latitudine": 46.707676,
+      "longitudine": 22.88211,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 4,
+      "nume": "ART cabana, pensiune Valea Avrigulu",
+      "latitudine": 45.67104,
+      "longitudine": 24.446984,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 5,
+      "nume": "Barlog",
+      "latitudine": 45.253803,
+      "longitudine": 24.772877,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 6,
+      "nume": "Baza Salvamont Mehedinți",
+      "latitudine": 44.811838,
+      "longitudine": 22.520457,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 7,
+      "nume": "Baza turistică Buftea",
+      "latitudine": 44.566067,
+      "longitudine": 25.928191,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 8,
+      "nume": "Bl.Z20 sc A",
+      "latitudine": 46.19434,
+      "longitudine": 21.303812,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 9,
+      "nume": "Cabana \"La Cristian\"",
+      "latitudine": 45.251537,
+      "longitudine": 23.950324,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 10,
+      "nume": "Cabana 3 Stejari",
+      "latitudine": 45.984811,
+      "longitudine": 25.094211,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 11,
+      "nume": "Cabana Ancuța",
+      "latitudine": 46.462671,
+      "longitudine": 22.787767,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 12,
+      "nume": "Cabana Anda",
+      "latitudine": 45.32005,
+      "longitudine": 23.237255,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 13,
+      "nume": "Cabana Andre",
+      "latitudine": 46.515457,
+      "longitudine": 22.672632,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 14,
+      "nume": "Cabana Annastasia",
+      "latitudine": 46.960565,
+      "longitudine": 22.512626,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 15,
+      "nume": "Cabana Apusenilor",
+      "latitudine": 46.516248,
+      "longitudine": 22.675435,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 16,
+      "nume": "Cabana Ardeluța (acces MApN)",
+      "latitudine": 46.730613,
+      "longitudine": 26.196463,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 17,
+      "nume": "Cabana Arion",
+      "latitudine": 46.476234,
+      "longitudine": 22.741878,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 18,
+      "nume": "Cabana Bavareză",
+      "latitudine": 45.687524,
+      "longitudine": 24.496589,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 19,
+      "nume": "Cabana Beliș Dealu Negru",
+      "latitudine": 46.709965,
+      "longitudine": 23.040535,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 20,
+      "nume": "Cabana Beliș, Universitatea Babeș-Bolyai",
+      "latitudine": 46.682951,
+      "longitudine": 23.026746,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 21,
+      "nume": "Cabana Bucium",
+      "latitudine": 47.08567,
+      "longitudine": 27.655678,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 22,
+      "nume": "Cabana Bulvanu de la Reșca",
+      "latitudine": 44.186374,
+      "longitudine": 24.419545,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 23,
+      "nume": "Cabana Buru",
+      "latitudine": 46.505852,
+      "longitudine": 23.637673,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 24,
+      "nume": "Cabana Bârlogul Urșilor",
+      "latitudine": 45.697115,
+      "longitudine": 25.168908,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 25,
+      "nume": "Cabana Cascada",
+      "latitudine": 45.434091,
+      "longitudine": 22.893118,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 26,
+      "nume": "Cabana Ciobotani",
+      "latitudine": 46.948234,
+      "longitudine": 25.256451,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 27,
+      "nume": "Cabana Codrin",
+      "latitudine": 45.43394,
+      "longitudine": 22.893396,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 28,
+      "nume": "Cabana Cory",
+      "latitudine": 45.320037,
+      "longitudine": 23.237508,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 29,
+      "nume": "Cabana Cristina",
+      "latitudine": 46.456594,
+      "longitudine": 22.842383,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 30,
+      "nume": "Cabana Culda",
+      "latitudine": 46.503452,
+      "longitudine": 22.702534,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 31,
+      "nume": "Cabana Căldare",
+      "latitudine": 45.361019,
+      "longitudine": 22.464656,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 32,
+      "nume": "Cabana Denisa",
+      "latitudine": 46.46155,
+      "longitudine": 22.781272,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 33,
+      "nume": "Cabana din deal",
+      "latitudine": 46.951784,
+      "longitudine": 26.128242,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 34,
+      "nume": "Cabana Dintre Brazi",
+      "latitudine": 46.399351,
+      "longitudine": 22.955222,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 35,
+      "nume": "Cabana Dragoș Bejan (Valea lui Ivan)",
+      "latitudine": 45.495442,
+      "longitudine": 25.17411,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 36,
+      "nume": "Cabana Drum",
+      "latitudine": 45.433754,
+      "longitudine": 22.893937,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 37,
+      "nume": "Cabana Dunca",
+      "latitudine": 45.323214,
+      "longitudine": 22.549324,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 38,
+      "nume": "Cabana Falon",
+      "latitudine": 46.969237,
+      "longitudine": 25.979431,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 39,
+      "nume": "Cabana Farkas",
+      "latitudine": 46.91473,
+      "longitudine": 25.351128,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 40,
+      "nume": "Cabana FeeLing",
+      "latitudine": 47.031967,
+      "longitudine": 22.857408,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 41,
+      "nume": "Cabana Floare de Colț",
+      "latitudine": 46.613111,
+      "longitudine": 22.613329,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 42,
+      "nume": "Cabana Floare de Stâncă",
+      "latitudine": 45.445801,
+      "longitudine": 22.788793,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 43,
+      "nume": "Cabana Forestia",
+      "latitudine": 47.497287,
+      "longitudine": 23.685889,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 44,
+      "nume": "Cabana Fram",
+      "latitudine": 46.518798,
+      "longitudine": 22.675586,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 45,
+      "nume": "Cabana GEO",
+      "latitudine": 47.663568,
+      "longitudine": 23.889877,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 46,
+      "nume": "Cabana Ghetari",
+      "latitudine": 46.490659,
+      "longitudine": 22.816128,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 47,
+      "nume": "Cabana Gruia",
+      "latitudine": 45.736788,
+      "longitudine": 25.924861,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 48,
+      "nume": "Cabana Himalaya",
+      "latitudine": 45.522638,
+      "longitudine": 25.444849,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 49,
+      "nume": "Cabana Horia",
+      "latitudine": 46.40216,
+      "longitudine": 26.466546,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 50,
+      "nume": "Cabana La Știubei",
+      "latitudine": 46.661972,
+      "longitudine": 23.092139,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 51,
+      "nume": "Cabana Lazea",
+      "latitudine": 46.455094,
+      "longitudine": 22.836115,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 52,
+      "nume": "Cabana Luca & Cata",
+      "latitudine": 46.477869,
+      "longitudine": 22.734072,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 53,
+      "nume": "Cabana Lucica",
+      "latitudine": 46.454335,
+      "longitudine": 22.836197,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 54,
+      "nume": "Cabana Mary",
+      "latitudine": 46.476468,
+      "longitudine": 22.757326,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 55,
+      "nume": "Cabana Miorița",
+      "latitudine": 46.778198,
+      "longitudine": 25.784396,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 56,
+      "nume": "Cabana Monica",
+      "latitudine": 46.446358,
+      "longitudine": 22.771803,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 57,
+      "nume": "Cabana Montană",
+      "latitudine": 45.700074,
+      "longitudine": 24.803682,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 58,
+      "nume": "Cabana Montană",
+      "latitudine": 46.466978,
+      "longitudine": 22.739493,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 59,
+      "nume": "Cabana Morar",
+      "latitudine": 47.165066,
+      "longitudine": 24.204466,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 60,
+      "nume": "Cabana Nuța",
+      "latitudine": 45.584116,
+      "longitudine": 23.571454,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 61,
+      "nume": "Cabana Ortacilor",
+      "latitudine": 46.904841,
+      "longitudine": 22.608364,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 62,
+      "nume": "Cabana Pietricica",
+      "latitudine": 45.468691,
+      "longitudine": 25.209044,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 63,
+      "nume": "Cabana Pietrosul",
+      "latitudine": 46.805053,
+      "longitudine": 26.347945,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 64,
+      "nume": "Cabana Pirușca",
+      "latitudine": 45.525032,
+      "longitudine": 25.993898,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 65,
+      "nume": "Cabana Platoul Soarelui",
+      "latitudine": 45.319105,
+      "longitudine": 23.233257,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 66,
+      "nume": "Cabana Poiana",
+      "latitudine": 45.583923,
+      "longitudine": 23.571827,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 67,
+      "nume": "Cabana Poiana Galdei",
+      "latitudine": 46.243818,
+      "longitudine": 23.526183,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 68,
+      "nume": "Cabana Poiana Zânelor",
+      "latitudine": 46.720085,
+      "longitudine": 22.901439,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 69,
+      "nume": "Cabana Politehnica",
+      "latitudine": 46.701353,
+      "longitudine": 23.188891,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 70,
+      "nume": "Cabana Priod",
+      "latitudine": 44.673479,
+      "longitudine": 21.694012,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 71,
+      "nume": "Cabana Pârâul Casei",
+      "latitudine": 46.702003,
+      "longitudine": 23.172398,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 72,
+      "nume": "Cabana Roza Vânturilor Rețitiș",
+      "latitudine": 47.09723,
+      "longitudine": 25.246439,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 73,
+      "nume": "Cabana Scruba",
+      "latitudine": 46.916882,
+      "longitudine": 25.348832,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 74,
+      "nume": "Cabana Selatruc",
+      "latitudine": 47.867365,
+      "longitudine": 23.607435,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 75,
+      "nume": "Cabana Silva",
+      "latitudine": 45.33776,
+      "longitudine": 25.064232,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 76,
+      "nume": "Cabana SMB",
+      "latitudine": 46.942981,
+      "longitudine": 22.543831,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 77,
+      "nume": "Cabana Smida",
+      "latitudine": 45.425622,
+      "longitudine": 21.763161,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 78,
+      "nume": "Cabana SUVENIRURILOR",
+      "latitudine": 46.488876,
+      "longitudine": 22.814217,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 79,
+      "nume": "Cabana Ted's",
+      "latitudine": 46.392607,
+      "longitudine": 23.561742,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 80,
+      "nume": "Cabana Traian",
+      "latitudine": 46.490447,
+      "longitudine": 22.815832,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 81,
+      "nume": "Cabana Trei Brazi",
+      "latitudine": 46.51466,
+      "longitudine": 22.669163,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 82,
+      "nume": "Cabana Tăul Brazilor",
+      "latitudine": 46.303599,
+      "longitudine": 23.138446,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 83,
+      "nume": "Cabana UrsAles",
+      "latitudine": 46.080126,
+      "longitudine": 23.325254,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 84,
+      "nume": "Cabana Valea Dorului",
+      "latitudine": 45.356535,
+      "longitudine": 25.483726,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 85,
+      "nume": "Cabana Viselor",
+      "latitudine": 46.393839,
+      "longitudine": 22.968813,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 86,
+      "nume": "Cabana Visul Munților",
+      "latitudine": 46.680014,
+      "longitudine": 23.047269,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 87,
+      "nume": "Cabana Vulpeș",
+      "latitudine": 45.143069,
+      "longitudine": 22.423385,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 88,
+      "nume": "Cabana Vărășoaia",
+      "latitudine": 46.610231,
+      "longitudine": 22.709438,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 89,
+      "nume": "Cabana Zugreni",
+      "latitudine": 47.407445,
+      "longitudine": 25.51987,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 90,
+      "nume": "Cabane A-frame",
+      "latitudine": 45.146953,
+      "longitudine": 24.051869,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 91,
+      "nume": "Camping Turtle Camp",
+      "latitudine": 45.18606,
+      "longitudine": 28.222901,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 92,
+      "nume": "Canton Silvic",
+      "latitudine": 45.200284,
+      "longitudine": 22.164959,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 93,
+      "nume": "Canton silvic",
+      "latitudine": 46.294428,
+      "longitudine": 27.836592,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 94,
+      "nume": "Carpathian Beauties",
+      "latitudine": 45.16165,
+      "longitudine": 22.456603,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 95,
+      "nume": "Cartier SSM",
+      "latitudine": 44.787767,
+      "longitudine": 24.904841,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 96,
+      "nume": "Casa",
+      "latitudine": 46.785687,
+      "longitudine": 22.979698,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 97,
+      "nume": "Casa Ana Serena",
+      "latitudine": 44.671042,
+      "longitudine": 22.310658,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 98,
+      "nume": "Casa Anca",
+      "latitudine": 45.588674,
+      "longitudine": 25.642841,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 99,
+      "nume": "Casa Bella",
+      "latitudine": 46.394533,
+      "longitudine": 22.962923,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 100,
+      "nume": "Casa Boghez Ion",
+      "latitudine": 45.425536,
+      "longitudine": 25.24618,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 101,
+      "nume": "Casa Bucur",
+      "latitudine": 45.538134,
+      "longitudine": 25.438797,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 102,
+      "nume": "Casa Dana",
+      "latitudine": 47.672452,
+      "longitudine": 24.685754,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 103,
+      "nume": "Casa de vacanță mocănița",
+      "latitudine": 45.128816,
+      "longitudine": 28.175948,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 104,
+      "nume": "Casa Devin",
+      "latitudine": 46.549145,
+      "longitudine": 23.88681,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 105,
+      "nume": "Casa din Poiană",
+      "latitudine": 45.971592,
+      "longitudine": 23.037716,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 106,
+      "nume": "Casa Dintre Brazi",
+      "latitudine": 47.238128,
+      "longitudine": 26.261723,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 107,
+      "nume": "Casa Dorica",
+      "latitudine": 45.398694,
+      "longitudine": 22.547809,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 108,
+      "nume": "Casa Florian",
+      "latitudine": 46.846185,
+      "longitudine": 22.403198,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 109,
+      "nume": "Casa Ioana",
+      "latitudine": 47.244321,
+      "longitudine": 25.001187,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 110,
+      "nume": "Casa Maris",
+      "latitudine": 47.681526,
+      "longitudine": 24.121056,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 111,
+      "nume": "Casa Marmota",
+      "latitudine": 47.493493,
+      "longitudine": 25.483671,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 112,
+      "nume": "Casa Mathijs",
+      "latitudine": 45.16166,
+      "longitudine": 25.817485,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 113,
+      "nume": "Casa Mona",
+      "latitudine": 46.477397,
+      "longitudine": 22.73421,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 114,
+      "nume": "Casa Nova",
+      "latitudine": 46.583364,
+      "longitudine": 23.775889,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 115,
+      "nume": "Casa Olandeza",
+      "latitudine": 45.588618,
+      "longitudine": 25.643592,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 116,
+      "nume": "Casa Paraschiva",
+      "latitudine": 46.300591,
+      "longitudine": 23.45562,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 117,
+      "nume": "Casa Peter",
+      "latitudine": 45.161868,
+      "longitudine": 25.817433,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 118,
+      "nume": "Casa Pădureanca",
+      "latitudine": 45.686771,
+      "longitudine": 22.790065,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 119,
+      "nume": "Casa R&D",
+      "latitudine": 47.646258,
+      "longitudine": 24.586611,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 120,
+      "nume": "Casa Rodica",
+      "latitudine": 46.505411,
+      "longitudine": 22.704071,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 121,
+      "nume": "Casa Rustik",
+      "latitudine": 45.120337,
+      "longitudine": 23.120746,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 122,
+      "nume": "Casa Stefan",
+      "latitudine": 45.720253,
+      "longitudine": 23.999732,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 123,
+      "nume": "Casa Sultana",
+      "latitudine": 44.788802,
+      "longitudine": 25.235442,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 124,
+      "nume": "Casa Tony",
+      "latitudine": 46.744854,
+      "longitudine": 23.495534,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 125,
+      "nume": "Casdealulua familiei",
+      "latitudine": 44.368682,
+      "longitudine": 25.388864,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 126,
+      "nume": "Casutele Suhardul Mic",
+      "latitudine": 46.795332,
+      "longitudine": 25.800236,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 127,
+      "nume": "Casă",
+      "latitudine": 45.105104,
+      "longitudine": 25.345005,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 128,
+      "nume": "Cazare Arieșeni - Pensiunea Casa Motului 4****",
+      "latitudine": 46.479482,
+      "longitudine": 22.732333,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 129,
+      "nume": "Cazare cabana Arieseni - Cabana Liliana",
+      "latitudine": 46.481137,
+      "longitudine": 22.726971,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 130,
+      "nume": "Cazare Casuta de tip Camping",
+      "latitudine": 44.224197,
+      "longitudine": 26.933429,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 131,
+      "nume": "Cazare pensiune Arieșeni - Cabana Ada",
+      "latitudine": 46.516298,
+      "longitudine": 22.679196,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 132,
+      "nume": "Cazare Villa Snagov Belvedere Lake",
+      "latitudine": 44.673105,
+      "longitudine": 26.070052,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 133,
+      "nume": "Chalet du Lac",
+      "latitudine": 47.170794,
+      "longitudine": 24.92426,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 134,
+      "nume": "Complex Cabanele Florilor",
+      "latitudine": 46.944956,
+      "longitudine": 22.706836,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 135,
+      "nume": "Complex Turistic Nora",
+      "latitudine": 45.614753,
+      "longitudine": 24.043573,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 136,
+      "nume": "Complex Vile Neptun-Olimp",
+      "latitudine": 43.885471,
+      "longitudine": 28.608077,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 137,
+      "nume": "Căbănuțele „La Denisa”",
+      "latitudine": 44.60962,
+      "longitudine": 22.249858,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 138,
+      "nume": "Căsuța Didi",
+      "latitudine": 45.346614,
+      "longitudine": 24.179424,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 139,
+      "nume": "Căsuța din Luncă",
+      "latitudine": 45.163071,
+      "longitudine": 23.829289,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 140,
+      "nume": "Căsuța dintre brazi",
+      "latitudine": 45.694979,
+      "longitudine": 24.495789,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 141,
+      "nume": "Căsuțe",
+      "latitudine": 46.999889,
+      "longitudine": 25.917163,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 142,
+      "nume": "Căsuțe",
+      "latitudine": 47.464734,
+      "longitudine": 25.346488,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 143,
+      "nume": "Căsuțe Licaș",
+      "latitudine": 46.78576,
+      "longitudine": 25.78276,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 144,
+      "nume": "Căsuțe Obârșia Lotrului",
+      "latitudine": 45.436175,
+      "longitudine": 23.630815,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 145,
+      "nume": "Căsuțe Tip Camping Colibița",
+      "latitudine": 47.16774,
+      "longitudine": 24.937707,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 146,
+      "nume": "Delta Nature Resort",
+      "latitudine": 45.202691,
+      "longitudine": 28.626494,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 147,
+      "nume": "Eledor",
+      "latitudine": 46.630425,
+      "longitudine": 23.16551,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 148,
+      "nume": "Genius Hub",
+      "latitudine": 45.319851,
+      "longitudine": 25.733183,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 149,
+      "nume": "Green House",
+      "latitudine": 46.745866,
+      "longitudine": 25.684317,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 150,
+      "nume": "Gästehaus",
+      "latitudine": 45.850088,
+      "longitudine": 23.82737,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 151,
+      "nume": "Hotel la Comăna",
+      "latitudine": 46.517772,
+      "longitudine": 22.670643,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 152,
+      "nume": "La Căsuțe",
+      "latitudine": 45.186586,
+      "longitudine": 28.229296,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 153,
+      "nume": "Loc De Campare Cu Cortul",
+      "latitudine": 46.053156,
+      "longitudine": 25.088787,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 154,
+      "nume": "Lodge",
+      "latitudine": 45.390273,
+      "longitudine": 23.435607,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 155,
+      "nume": "Lovely Tarnita mountain lake chalet",
+      "latitudine": 46.718203,
+      "longitudine": 23.279567,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 156,
+      "nume": "Lupul Cenusiu",
+      "latitudine": 46.998652,
+      "longitudine": 25.924819,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 157,
+      "nume": "Moara Titului",
+      "latitudine": 46.473709,
+      "longitudine": 22.76169,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 158,
+      "nume": "Muma Hut",
+      "latitudine": 45.21637,
+      "longitudine": 22.312149,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 159,
+      "nume": "My home",
+      "latitudine": 43.785449,
+      "longitudine": 23.961058,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 160,
+      "nume": "Nashpa's Crib",
+      "latitudine": 47.067403,
+      "longitudine": 27.655451,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 161,
+      "nume": "Natura Chalets",
+      "latitudine": 46.553881,
+      "longitudine": 25.109583,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 162,
+      "nume": "Nordic Vila",
+      "latitudine": 47.280316,
+      "longitudine": 25.362008,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 163,
+      "nume": "Nr.145",
+      "latitudine": 46.16862,
+      "longitudine": 21.296952,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 164,
+      "nume": "Oberwood",
+      "latitudine": 45.717619,
+      "longitudine": 24.469558,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 165,
+      "nume": "Ozon Turist",
+      "latitudine": 46.647545,
+      "longitudine": 25.425623,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 166,
+      "nume": "Pensiune \"La Ionel\"",
+      "latitudine": 46.630081,
+      "longitudine": 23.167388,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 167,
+      "nume": "Pensiunea Aventura",
+      "latitudine": 45.326182,
+      "longitudine": 22.415388,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 168,
+      "nume": "Pensiunea Bella di Notte",
+      "latitudine": 46.599895,
+      "longitudine": 25.089126,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 169,
+      "nume": "Pensiunea Bizonul Negru",
+      "latitudine": 46.978306,
+      "longitudine": 25.433142,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 170,
+      "nume": "Pensiunea Casa Noastră",
+      "latitudine": 44.725488,
+      "longitudine": 22.362421,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 171,
+      "nume": "Pensiunea Cerbul",
+      "latitudine": 45.738761,
+      "longitudine": 25.938704,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 172,
+      "nume": "Pensiunea Drumul Vinului",
+      "latitudine": 45.187146,
+      "longitudine": 28.486502,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 173,
+      "nume": "Pensiunea Dulo",
+      "latitudine": 46.450938,
+      "longitudine": 23.570897,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 174,
+      "nume": "Pensiunea Ioana",
+      "latitudine": 45.325878,
+      "longitudine": 22.415607,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 175,
+      "nume": "Pensiunea Panoramic",
+      "latitudine": 46.516316,
+      "longitudine": 22.669576,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 176,
+      "nume": "Pensiunea Piatra Graitoare",
+      "latitudine": 46.518132,
+      "longitudine": 22.676396,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 177,
+      "nume": "Pensiunea Piatra Roșie",
+      "latitudine": 45.185053,
+      "longitudine": 28.488458,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 178,
+      "nume": "Pensiunea Rozmarin",
+      "latitudine": 46.450726,
+      "longitudine": 23.566155,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 179,
+      "nume": "Pensiunea Silfar",
+      "latitudine": 45.248256,
+      "longitudine": 28.126732,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 180,
+      "nume": "Pensiunea The Rock",
+      "latitudine": 46.513025,
+      "longitudine": 22.672842,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 181,
+      "nume": "Pensiunea Tănăsescu",
+      "latitudine": 46.452641,
+      "longitudine": 23.569368,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 182,
+      "nume": "Pesiunea River Sound",
+      "latitudine": 46.631787,
+      "longitudine": 22.596998,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 183,
+      "nume": "Popas Flora",
+      "latitudine": 44.881427,
+      "longitudine": 22.412876,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 184,
+      "nume": "Popasul Tihuta",
+      "latitudine": 47.257941,
+      "longitudine": 25.022401,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 185,
+      "nume": "Păpușa",
+      "latitudine": 45.302699,
+      "longitudine": 23.68261,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 186,
+      "nume": "Refugiul Florei",
+      "latitudine": 45.293927,
+      "longitudine": 25.631458,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 187,
+      "nume": "Royal Rucăr Villa",
+      "latitudine": 45.375316,
+      "longitudine": 25.169773,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 188,
+      "nume": "Rustic House",
+      "latitudine": 46.757601,
+      "longitudine": 22.556956,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 189,
+      "nume": "Sikaszói vízimalom",
+      "latitudine": 46.51502,
+      "longitudine": 25.466411,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 190,
+      "nume": "Sóhegy Guesthouse",
+      "latitudine": 46.54974,
+      "longitudine": 25.124499,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 191,
+      "nume": "Teren FLUX",
+      "latitudine": 46.466557,
+      "longitudine": 22.738372,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 192,
+      "nume": "The River Chalet",
+      "latitudine": 45.768369,
+      "longitudine": 23.916839,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 193,
+      "nume": "Tihuța Retreat",
+      "latitudine": 47.240935,
+      "longitudine": 25.008216,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 194,
+      "nume": "Tiny Transylvania",
+      "latitudine": 46.703088,
+      "longitudine": 23.580856,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 195,
+      "nume": "Traditional Casa",
+      "latitudine": 46.846704,
+      "longitudine": 22.399129,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 196,
+      "nume": "Transylvania Undiscovered",
+      "latitudine": 46.022854,
+      "longitudine": 23.136201,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 197,
+      "nume": "Valea Popii",
+      "latitudine": 44.964232,
+      "longitudine": 26.133898,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 198,
+      "nume": "Valea Viștișoarei",
+      "latitudine": 45.694655,
+      "longitudine": 24.757669,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 199,
+      "nume": "Vamandipity",
+      "latitudine": 43.760214,
+      "longitudine": 28.574895,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 200,
+      "nume": "Verada Tour Guest House",
+      "latitudine": 45.188363,
+      "longitudine": 28.665649,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 201,
+      "nume": "Vila 12",
+      "latitudine": 46.19314,
+      "longitudine": 21.310943,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 202,
+      "nume": "Vila 13",
+      "latitudine": 46.193604,
+      "longitudine": 21.31037,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 203,
+      "nume": "Vila Bijou",
+      "latitudine": 47.649713,
+      "longitudine": 24.680845,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 204,
+      "nume": "Vila Ciphy",
+      "latitudine": 45.472895,
+      "longitudine": 25.56337,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 205,
+      "nume": "Vila Cristina 2",
+      "latitudine": 46.998352,
+      "longitudine": 25.919401,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 206,
+      "nume": "Vila David",
+      "latitudine": 45.681022,
+      "longitudine": 24.158185,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 207,
+      "nume": "Vila Euro-Vacanta",
+      "latitudine": 46.599986,
+      "longitudine": 25.089311,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 208,
+      "nume": "Vila Fabiale",
+      "latitudine": 46.615983,
+      "longitudine": 22.61725,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 209,
+      "nume": "Vila Ghețaru",
+      "latitudine": 46.377043,
+      "longitudine": 22.802021,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 210,
+      "nume": "Vila Maria",
+      "latitudine": 45.681099,
+      "longitudine": 24.157946,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 211,
+      "nume": "Vila Ruxandra",
+      "latitudine": 46.915378,
+      "longitudine": 25.350734,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 212,
+      "nume": "Zada Nature Lounge",
+      "latitudine": 46.69978,
+      "longitudine": 23.573806,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 213,
+      "nume": "Zorra Chalet",
+      "latitudine": 44.6516,
+      "longitudine": 22.279982,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    },
+    {
+      "id": 214,
+      "nume": "Миловановић",
+      "latitudine": 44.763798,
+      "longitudine": 21.470455,
+      "cheie_osm": "tourism",
+      "valoare_osm": "chalet",
+      "categorie_osm": "tourism=chalet"
+    }
+  ],
+  "meta": {
+    "title": "Cabane turistice din România - Descărcare gratuită",
+    "description": "Cabane turistice din România — 214 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `tourism=chalet`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează. Conține 214 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Cabane turistice din România | ListBase",
+    "seo_description": "Descarcă Cabane turistice din România — 214 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 214 înregistrări / 7 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

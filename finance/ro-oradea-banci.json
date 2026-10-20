@@ -1,0 +1,100 @@
+{
+  "id": "ro-oradea-banci",
+  "name": "Bănci în Oradea — coduri SWIFT/BIC",
+  "title": "Bănci în Oradea — coduri SWIFT/BIC",
+  "description": "Instituții bancare și financiare înregistrate SWIFT/BIC cu sediul în Oradea, România (7 înregistrări). Subset al listei naționale `ro-banci` (263 înregistrări), grupat după câmpul `city` din sursă. Șirul literal din sursă este \"ORADEA\" — păstrat verbatim, fără diacritice și cu majuscule, exact așa cum este livrat de sursă; nu a fost tradus, normalizat sau completat cu diacritice. Câmpuri: id, bank, city, branch, swift_code.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 90,
+      "bank": "BANCA TRANSILVANIA S.A.",
+      "city": "ORADEA",
+      "branch": "(AG CANTEMIR)",
+      "swift_code": "BTRLRO21BH2"
+    },
+    {
+      "id": 91,
+      "bank": "BANCA TRANSILVANIA S.A.",
+      "city": "ORADEA",
+      "branch": "(AG LOTUS)",
+      "swift_code": "BTRLRO21BH3"
+    },
+    {
+      "id": 92,
+      "bank": "BANCA TRANSILVANIA S.A.",
+      "city": "ORADEA",
+      "branch": "(AG. REPUBLICII)",
+      "swift_code": "BTRLRO21BH1"
+    },
+    {
+      "id": 93,
+      "bank": "BANCA TRANSILVANIA S.A.",
+      "city": "ORADEA",
+      "branch": "(ORADEA BRANCH)",
+      "swift_code": "BTRLRO22BHA"
+    },
+    {
+      "id": 132,
+      "bank": "BANK LEUMI ROMANIA S.A.",
+      "city": "ORADEA",
+      "branch": "",
+      "swift_code": "DAFBRO22ORA"
+    },
+    {
+      "id": 232,
+      "bank": "S.S.I.F. ORIZONT VEST S.A.",
+      "city": "ORADEA",
+      "branch": "",
+      "swift_code": "SSOVRO21"
+    },
+    {
+      "id": 242,
+      "bank": "SSIF MOBINVEST S.A.",
+      "city": "ORADEA",
+      "branch": "",
+      "swift_code": "SSMORO21"
+    }
+  ],
+  "meta": {
+    "title": "Bănci în Oradea — coduri SWIFT/BIC - Descărcare gratuită",
+    "description": "Instituții bancare și financiare înregistrate SWIFT/BIC cu sediul în Oradea, România (7 înregistrări). Subset al listei naționale `ro-banci` (263 înregistrări), grupat după câmpul `city` din sursă. Șirul literal din sursă este \"ORADEA\" — păstrat verbatim, fără diacritice și cu majuscule, exact așa cum este livrat de sursă; nu a fost tradus, normalizat sau completat cu diacritice. Câmpuri: id, bank, city, branch, swift_code. Conține 7 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Bănci în Oradea — coduri SWIFT/BIC | ListBase",
+    "seo_description": "Descarcă Bănci în Oradea — coduri SWIFT/BIC — 7 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 7 înregistrări / 5 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

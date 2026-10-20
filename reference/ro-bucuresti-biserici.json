@@ -1,0 +1,625 @@
+{
+  "id": "ro-bucuresti-biserici",
+  "name": "Biserici din București",
+  "title": "Biserici din București",
+  "description": "Lăcașuri de cult creștine (biserici ortodoxe, romano-catolice și catedrale) din municipiul București, România (82 înregistrări). Fiecare înregistrare are denumirea și o scurtă descriere istorică în limba română, plus coordonatele (lat/lng) calculate ca centroid al conturului clădirii din sursă. Denumirile sunt păstrate verbatim din sursă (unele fără spațiere, exact cum sunt livrate); câmpul „Imagini” din sursă (căi de fișiere locale) a fost eliminat. Câmpuri: id, name, description, lat, lng.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 82,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lng",
+      "label": "Lng",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "Biserica Ortodoxă \"AcoperământulMaiciiDomnului-Titan\"",
+      "description": "Biserica Acoperamantul Maicii Domnului a luat fiinta in anul 2001, cu binecuvantarea Prea Fericitului Parinte Patriarh Teoctist, pe fatada Bisericii s-au aplicat in mozaic icoane cu hramurile bisericii.",
+      "lat": 44.41989,
+      "lng": 26.165644
+    },
+    {
+      "id": 2,
+      "name": "Biserica Ortodoxă \"SfântulCorneliuSutașul-BaltaAlbă\"",
+      "description": "Parohia numita \"BaltaAlba\" a fost infiintata in ziua de 1 aprilie 1938, iar primul preot slujitor, anume parintele Dumitru Popovici, a fost instalat in ziua de 15 noiembrie 1938.",
+      "lat": 44.434274,
+      "lng": 26.159845
+    },
+    {
+      "id": 3,
+      "name": "Biserica Ortodoxă \"SfântulIoanIacob\"",
+      "description": "In ziua de 5 august 1994, cand Biserica Ortodoxa facea praznuirea Sfantului Ioan Iacob, viitoarea biserica a primit aprobarea de ridicare, din partea Arhiepiscopiei din Bucuresti. In ziua de 21 octombrie 1998, parohia a reusit sa finalizeze biserica.",
+      "lat": 44.430486,
+      "lng": 26.149459
+    },
+    {
+      "id": 4,
+      "name": "Biserica Romano-Catolică Sfânta Cruce",
+      "description": "Biserica „Sfânta Cruce” este o biserică romano-catolică din București situată pe Șos. Mihai Bravu nr. 259, sector 3. A fost filială a Parohiei Bărăția și apoi a Parohiei Cioplea, până în anul 1987, când episcopul Ioan Robu i-a acordat",
+      "lat": 44.428626,
+      "lng": 26.139289
+    },
+    {
+      "id": 5,
+      "name": "Biserica Ortodoxă Sf Gheorghe Hozevitul",
+      "description": "",
+      "lat": 44.407827,
+      "lng": 26.146013
+    },
+    {
+      "id": 6,
+      "name": "Capela Ortodoxă \"SfințiiDoctorifărădeargințiCosmașiDamian\"",
+      "description": "În anul 2000, la Institutul Clinic Fundeni este numit preotul Toderiță Rusu, care începe demersurile pentru construirea bisericii actuale. Începe printr-o serie de hârtii adresate conducerii Patriarhiei, implicându-se din suflet în realizarea ace",
+      "lat": 44.428161,
+      "lng": 26.139468
+    },
+    {
+      "id": 7,
+      "name": "Biserica Ortodoxă Sf. Fanurie",
+      "description": "Biserica Sfantul Fanurie - Mihai Bravu a luat fiinta la 1 iulie 1940, in vremea pastoririi vrednicului de pomenire Patriarh al Romaniei, Nicodim. Biserica Sfantul Fanurie - Mihai Bravu are trei hramuri.",
+      "lat": 44.425279,
+      "lng": 26.13412
+    },
+    {
+      "id": 8,
+      "name": "Biserica Ortodoxă \"SfântulNicolaeTabacu\"",
+      "description": "",
+      "lat": 44.446479,
+      "lng": 26.091045
+    },
+    {
+      "id": 9,
+      "name": "Catedrala romano-catolică Sfântul Iosif",
+      "description": "",
+      "lat": 44.442059,
+      "lng": 26.091396
+    },
+    {
+      "id": 10,
+      "name": "Biserica Ortodoxă \"Crețulescu\"",
+      "description": "",
+      "lat": 44.438129,
+      "lng": 26.096696
+    },
+    {
+      "id": 11,
+      "name": "Biserica Ortodoxă „Cărămidarii de Jos”",
+      "description": "",
+      "lat": 44.412096,
+      "lng": 26.113367
+    },
+    {
+      "id": 12,
+      "name": "Biserica Ortodoxă „Sfântul Spiridon Nou”",
+      "description": "Biserica este construita dupa un plan arhitectural deosebit, Stilul constructiei este gotic, in care predomina elemente de arta moldoveneasca. In interior sunt de semnalat coloane de marmura, vitralii colorate artistic, cu scene biblice si sfinti.",
+      "lat": 44.423867,
+      "lng": 26.103514
+    },
+    {
+      "id": 13,
+      "name": "Biserica Ortodoxă „Sfântul Ilie - Rahova”",
+      "description": "",
+      "lat": 44.426091,
+      "lng": 26.097738
+    },
+    {
+      "id": 14,
+      "name": "Biserica Ortodoxă „Sfântul Ilie Gorgani”",
+      "description": "",
+      "lat": 44.434017,
+      "lng": 26.091312
+    },
+    {
+      "id": 15,
+      "name": "Biserica Foișor",
+      "description": "",
+      "lat": 44.41475,
+      "lng": 26.123184
+    },
+    {
+      "id": 16,
+      "name": "Biserica Ortodoxă „Doamnei”",
+      "description": "",
+      "lat": 44.434543,
+      "lng": 26.099016
+    },
+    {
+      "id": 17,
+      "name": "Biserica Sfântul Nicolae Udricani",
+      "description": "Biserica Udricani, una dintre cele mai vechi biserici din București, a fost construită în 1735 de către Clucerul Udricani, în vremea domniei lui Grigore II Ghica.",
+      "lat": 44.42966,
+      "lng": 26.110308
+    },
+    {
+      "id": 18,
+      "name": "Biserica Ortodoxă \"SfântulStelianLucaci\"",
+      "description": "Biserica Sfantul Stelian - Lucaci care adaposteste moastele Sfantului Stelian se afla in vecinatatea Colegiului National \"MateiBasarab\" din Bucuresti. Moastele Sfantului Stelian au ajuns in Muntele Athos dupa ce Asia Mica a fost cucerita de turcii selgi",
+      "lat": 44.431048,
+      "lng": 26.113517
+    },
+    {
+      "id": 19,
+      "name": "Biserica Ortodoxă „cu Sfinți”",
+      "description": "Biserica cu Sibile – sau Biserica Sfinţilor – din mahalaua Fierea a fost o biserică de lemn, ctitorită la finele veacului al XVII-lea de un anume Pană şi de tatăl său, preotul Fiera.",
+      "lat": 44.435445,
+      "lng": 26.108568
+    },
+    {
+      "id": 20,
+      "name": "Biserica Ortodoxă „Popa Chițu”",
+      "description": "",
+      "lat": 44.442437,
+      "lng": 26.111434
+    },
+    {
+      "id": 21,
+      "name": "Biserica Ortodoxă \"Batiștei\"",
+      "description": "",
+      "lat": 44.439059,
+      "lng": 26.10464
+    },
+    {
+      "id": 22,
+      "name": "Biserica Ortodoxă Manea Brutaru",
+      "description": "",
+      "lat": 44.443847,
+      "lng": 26.08879
+    },
+    {
+      "id": 23,
+      "name": "Biserica Ortodoxă \"Amzei\"",
+      "description": "",
+      "lat": 44.444363,
+      "lng": 26.093801
+    },
+    {
+      "id": 24,
+      "name": "Biserica Ortodoxă „Icoanei”",
+      "description": "",
+      "lat": 44.442957,
+      "lng": 26.106536
+    },
+    {
+      "id": 25,
+      "name": "Biserica Ortodoxă „Dobroteasa”",
+      "description": "",
+      "lat": 44.422531,
+      "lng": 26.112391
+    },
+    {
+      "id": 26,
+      "name": "Biserica Ortodoxă \"Colțea\"",
+      "description": "",
+      "lat": 44.434741,
+      "lng": 26.103449
+    },
+    {
+      "id": 27,
+      "name": "Biserica Ortodoxă „Popa Tatu”",
+      "description": "",
+      "lat": 44.440658,
+      "lng": 26.087076
+    },
+    {
+      "id": 28,
+      "name": "Biserica Ortodoxă \"SfântaVineriNouă\"",
+      "description": "",
+      "lat": 44.451296,
+      "lng": 26.071376
+    },
+    {
+      "id": 29,
+      "name": "Biserica Ortodoxă „Sfântul Nicolae - Buzești (Dulgheri)”",
+      "description": "",
+      "lat": 44.449291,
+      "lng": 26.082642
+    },
+    {
+      "id": 30,
+      "name": "Mănăstirea Ortodoxă „Stavropoleos”",
+      "description": "",
+      "lat": 44.431782,
+      "lng": 26.098857
+    },
+    {
+      "id": 31,
+      "name": "Biserica Ortodoxă „Popa Nan”",
+      "description": "",
+      "lat": 44.436407,
+      "lng": 26.125309
+    },
+    {
+      "id": 32,
+      "name": "Biserica Ortodoxă Hagiu - Adormirea Maicii Domnului",
+      "description": "",
+      "lat": 44.433973,
+      "lng": 26.121628
+    },
+    {
+      "id": 33,
+      "name": "Biserica Ortodoxă Sfântul Gheorghe - Plevna",
+      "description": "",
+      "lat": 44.440992,
+      "lng": 26.072948
+    },
+    {
+      "id": 34,
+      "name": "Biserica Ortodoxă „Albă”",
+      "description": "",
+      "lat": 44.442068,
+      "lng": 26.094781
+    },
+    {
+      "id": 35,
+      "name": "Biserica Ortodoxă „Sfântul Alexie”",
+      "description": "",
+      "lat": 44.41703,
+      "lng": 26.101141
+    },
+    {
+      "id": 36,
+      "name": "Biserica Ortodoxă Domnița Bălașa",
+      "description": "",
+      "lat": 44.428257,
+      "lng": 26.10024
+    },
+    {
+      "id": 37,
+      "name": "Biserica Sfântul Gheorghe Capra",
+      "description": "",
+      "lat": 44.44456,
+      "lng": 26.146354
+    },
+    {
+      "id": 38,
+      "name": "Biserica Ortodoxă „Sfântul Ioan Botezătorul”",
+      "description": "",
+      "lat": 44.442897,
+      "lng": 26.164147
+    },
+    {
+      "id": 39,
+      "name": "Biserica Ortodoxă „Oborul Nou”",
+      "description": "",
+      "lat": 44.446053,
+      "lng": 26.131522
+    },
+    {
+      "id": 40,
+      "name": "Biserica Ortodoxă \"BărbătescuVechi\"",
+      "description": "",
+      "lat": 44.416105,
+      "lng": 26.080187
+    },
+    {
+      "id": 41,
+      "name": "Biserica Ortodoxă Sfântul Vasile cel Mare - Victoria",
+      "description": "",
+      "lat": 44.448877,
+      "lng": 26.089272
+    },
+    {
+      "id": 42,
+      "name": "Biserica Ortodoxă \"CărămidariideSus\"",
+      "description": "",
+      "lat": 44.441949,
+      "lng": 26.061333
+    },
+    {
+      "id": 43,
+      "name": "Biserica Ortodoxă Sfânta Treime",
+      "description": "",
+      "lat": 44.420522,
+      "lng": 26.06686
+    },
+    {
+      "id": 44,
+      "name": "Biserica Ortodoxă \"SfântulAntoniecelMare-Titan\"",
+      "description": "",
+      "lat": 44.415788,
+      "lng": 26.179095
+    },
+    {
+      "id": 45,
+      "name": "Biserica Ortodoxă „Sfinții Împărați Constantin și Elena - Bariera Vergului”",
+      "description": "",
+      "lat": 44.432047,
+      "lng": 26.140739
+    },
+    {
+      "id": 46,
+      "name": "Biserica Ortodoxă „Sfinții Voievozi - Gherghiceanu”",
+      "description": "",
+      "lat": 44.441793,
+      "lng": 26.156862
+    },
+    {
+      "id": 47,
+      "name": "Biserica Vatra Luminoasă",
+      "description": "",
+      "lat": 44.438748,
+      "lng": 26.147935
+    },
+    {
+      "id": 48,
+      "name": "Biserica Ortodoxă Sfântul Nicolae",
+      "description": "",
+      "lat": 44.436763,
+      "lng": 26.099545
+    },
+    {
+      "id": 49,
+      "name": "Biserica Scaune",
+      "description": "",
+      "lat": 44.43518,
+      "lng": 26.105716
+    },
+    {
+      "id": 50,
+      "name": "Biserica Armeană \"SfințiiArhangheli\" București",
+      "description": "",
+      "lat": 44.437433,
+      "lng": 26.110714
+    },
+    {
+      "id": 51,
+      "name": "Biserica Ortodoxă „Pogorârea Sfântului Duh - Titan”",
+      "description": "",
+      "lat": 44.424909,
+      "lng": 26.159165
+    },
+    {
+      "id": 52,
+      "name": "Biserica Ortodoxă \"SfântulMareMucenicMercurie\"",
+      "description": "",
+      "lat": 44.429394,
+      "lng": 26.160582
+    },
+    {
+      "id": 53,
+      "name": "Biserica Ortodoxă „Sfântul Anton - Curtea Veche”",
+      "description": "",
+      "lat": 44.430098,
+      "lng": 26.102104
+    },
+    {
+      "id": 54,
+      "name": "Biserica Baptistă Harul",
+      "description": "",
+      "lat": 44.423976,
+      "lng": 26.173614
+    },
+    {
+      "id": 55,
+      "name": "Biserica Luterană",
+      "description": "",
+      "lat": 44.440613,
+      "lng": 26.09332
+    },
+    {
+      "id": 56,
+      "name": "Biserica Ortodoxă „Soborul Maicii Domnului”",
+      "description": "",
+      "lat": 44.428053,
+      "lng": 26.172546
+    },
+    {
+      "id": 57,
+      "name": "Biserica Ortodoxă \"SfântaVineriNouă-Olteni\"",
+      "description": "",
+      "lat": 44.428696,
+      "lng": 26.110465
+    },
+    {
+      "id": 58,
+      "name": "Mănăstirea Radu Vodă",
+      "description": "",
+      "lat": 44.424006,
+      "lng": 26.107793
+    },
+    {
+      "id": 59,
+      "name": "Biserica Ortodoxă \"Boteanu-Ienii\"",
+      "description": "",
+      "lat": 44.440304,
+      "lng": 26.099125
+    },
+    {
+      "id": 60,
+      "name": "Mănăstirea Ortodoxă „Antim”",
+      "description": "",
+      "lat": 44.426297,
+      "lng": 26.094012
+    },
+    {
+      "id": 61,
+      "name": "Biserica Ortodoxă „Sf. M. Mc. Gheorghe și Ier. Iosif cel Nou de la Partoș”",
+      "description": "",
+      "lat": 44.421584,
+      "lng": 26.071361
+    },
+    {
+      "id": 62,
+      "name": "Paraclisul Catedralei Mântuirii Neamului",
+      "description": "",
+      "lat": 44.425627,
+      "lng": 26.07895
+    },
+    {
+      "id": 63,
+      "name": "Biserica Baptistă Sfânta Treime",
+      "description": "",
+      "lat": 44.432354,
+      "lng": 26.116632
+    },
+    {
+      "id": 64,
+      "name": "Biserica Ortodoxă „Bucur Ciobanul”",
+      "description": "",
+      "lat": 44.423507,
+      "lng": 26.109006
+    },
+    {
+      "id": 65,
+      "name": "Biserica Ortodoxă „Sfântul Gheorghe - Titan”",
+      "description": "",
+      "lat": 44.418393,
+      "lng": 26.183173
+    },
+    {
+      "id": 66,
+      "name": "Capela Ortodoxă a Spitalului Universitar de Urgență",
+      "description": "",
+      "lat": 44.435058,
+      "lng": 26.071511
+    },
+    {
+      "id": 67,
+      "name": "Mănăstirea Ortodoxă „Schitul Dârvari”",
+      "description": "",
+      "lat": 44.442866,
+      "lng": 26.1071
+    },
+    {
+      "id": 68,
+      "name": "Biserica Ortodoxă „Eroii Revoluției”",
+      "description": "",
+      "lat": 44.406514,
+      "lng": 26.096421
+    },
+    {
+      "id": 69,
+      "name": "Biserica Ortodoxă „Izvorul Nou”",
+      "description": "",
+      "lat": 44.421151,
+      "lng": 26.14446
+    },
+    {
+      "id": 70,
+      "name": "Biserica Ortodoxă „Sfinții Români”",
+      "description": "",
+      "lat": 44.410106,
+      "lng": 26.172842
+    },
+    {
+      "id": 71,
+      "name": "Biserica Ortodoxă Sf. Dumitru - Slobozia",
+      "description": "",
+      "lat": 44.421827,
+      "lng": 26.10358
+    },
+    {
+      "id": 72,
+      "name": "Biserica Ortodoxă „Oțetari”",
+      "description": "",
+      "lat": 44.438905,
+      "lng": 26.107239
+    },
+    {
+      "id": 73,
+      "name": "Biserica Ortodoxă \"AdormireaMaiciiDomnului\" - Titan",
+      "description": "",
+      "lat": 44.423781,
+      "lng": 26.177797
+    },
+    {
+      "id": 74,
+      "name": "Biserica Sfântul Nicolae Balta Albă",
+      "description": "",
+      "lat": 44.436432,
+      "lng": 26.167164
+    },
+    {
+      "id": 75,
+      "name": "Biserica Ortodoxă \"SfântulDumitru\" - Poștă",
+      "description": "",
+      "lat": 44.430849,
+      "lng": 26.09881
+    },
+    {
+      "id": 76,
+      "name": "Biserica \"Sf.Gheorghe-Nou\"",
+      "description": "",
+      "lat": 44.432544,
+      "lng": 26.104698
+    },
+    {
+      "id": 77,
+      "name": "Biserica Fildeșului",
+      "description": "",
+      "lat": 44.426543,
+      "lng": 26.143295
+    },
+    {
+      "id": 78,
+      "name": "Biserica Ortodoxă „Sfântul Antonie cel Mare și Sfântul Ioan Casian Romanul”",
+      "description": "",
+      "lat": 44.407474,
+      "lng": 26.119364
+    },
+    {
+      "id": 79,
+      "name": "Biserica Ortodoxă „Adormirea Maicii Domnului - Cotroceni”",
+      "description": "",
+      "lat": 44.434047,
+      "lng": 26.062099
+    },
+    {
+      "id": 80,
+      "name": "Biserica Ortodoxă \"SfântulGheorgheVechi\"",
+      "description": "",
+      "lat": 44.430834,
+      "lng": 26.105161
+    },
+    {
+      "id": 81,
+      "name": "Biserica Ortodoxă „Sfântul Visarion Nou\"",
+      "description": "",
+      "lat": 44.448661,
+      "lng": 26.095395
+    },
+    {
+      "id": 82,
+      "name": "Biserica „Sf. Visarion Vechi“",
+      "description": "",
+      "lat": 44.448543,
+      "lng": 26.095348
+    }
+  ],
+  "meta": {
+    "title": "Biserici din București - Descărcare gratuită",
+    "description": "Lăcașuri de cult creștine (biserici ortodoxe, romano-catolice și catedrale) din municipiul București, România (82 înregistrări). Fiecare înregistrare are denumirea și o scurtă descriere istorică în limba română, plus coordonatele (lat/lng) calculate ca centroid al conturului clădirii din sursă. Denumirile sunt păstrate verbatim din sursă (unele fără spațiere, exact cum sunt livrate); câmpul „Imagini” din sursă (căi de fișiere locale) a fost eliminat. Câmpuri: id, name, description, lat, lng. Conține 82 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Biserici din București | ListBase",
+    "seo_description": "Descarcă Biserici din București — 82 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 82 înregistrări / 5 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

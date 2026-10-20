@@ -1,0 +1,166 @@
+{
+  "id": "ro-vrancea-orase",
+  "name": "Orașele și municipiile județului Vrancea",
+  "title": "Orașele și municipiile județului Vrancea",
+  "description": "Lista celor 5 de orașe, municipii din județul Vrancea (VN) — unități administrativ-teritoriale urbane de nivel 2 conform SIRUTA. Reședința de județ este marcată cu is_resedinta_judet=true.",
+  "category": "geography",
+  "source": "https://github.com/ionelmc/django-siruta",
+  "source_url": "https://github.com/ionelmc/django-siruta",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "siruta_code",
+      "label": "Siruta Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_official",
+      "label": "Name Official",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet_id",
+      "label": "Judet Id",
+      "type": "number"
+    },
+    {
+      "key": "judet_name",
+      "label": "Judet Name",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "tip_code",
+      "label": "Tip Code",
+      "type": "number"
+    },
+    {
+      "key": "tip_name",
+      "label": "Tip Name",
+      "type": "string"
+    },
+    {
+      "key": "is_resedinta_judet",
+      "label": "Is Resedinta Judet",
+      "type": "boolean"
+    },
+    {
+      "key": "regiune_id",
+      "label": "Regiune Id",
+      "type": "number"
+    },
+    {
+      "key": "nuts3",
+      "label": "Nuts3",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "siruta_code": 174744,
+      "name": "Focșani",
+      "name_official": "MUNICIPIUL FOCȘANI",
+      "slug": "focsani",
+      "judet_id": 39,
+      "judet_name": "Vrancea",
+      "judet_slug": "vrancea",
+      "iso_3166_2": "RO-VN",
+      "tip_code": 1,
+      "tip_name": "municipiu reședință de județ",
+      "is_resedinta_judet": true,
+      "regiune_id": 2,
+      "nuts3": "RO226"
+    },
+    {
+      "siruta_code": 174860,
+      "name": " Adjud",
+      "name_official": "MUNICIPIUL  ADJUD",
+      "slug": "adjud",
+      "judet_id": 39,
+      "judet_name": "Vrancea",
+      "judet_slug": "vrancea",
+      "iso_3166_2": "RO-VN",
+      "tip_code": 4,
+      "tip_name": "municipiu",
+      "is_resedinta_judet": false,
+      "regiune_id": 2,
+      "nuts3": "RO226"
+    },
+    {
+      "siruta_code": 174922,
+      "name": "Mărășești",
+      "name_official": "ORAȘ MĂRĂȘEȘTI",
+      "slug": "marasesti",
+      "judet_id": 39,
+      "judet_name": "Vrancea",
+      "judet_slug": "vrancea",
+      "iso_3166_2": "RO-VN",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 2,
+      "nuts3": "RO226"
+    },
+    {
+      "siruta_code": 175019,
+      "name": "Odobești",
+      "name_official": "ORAȘ ODOBEȘTI",
+      "slug": "odobesti",
+      "judet_id": 39,
+      "judet_name": "Vrancea",
+      "judet_slug": "vrancea",
+      "iso_3166_2": "RO-VN",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 2,
+      "nuts3": "RO226"
+    },
+    {
+      "siruta_code": 175055,
+      "name": "Panciu",
+      "name_official": "ORAȘ PANCIU",
+      "slug": "panciu",
+      "judet_id": 39,
+      "judet_name": "Vrancea",
+      "judet_slug": "vrancea",
+      "iso_3166_2": "RO-VN",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 2,
+      "nuts3": "RO226"
+    }
+  ],
+  "meta": {
+    "title": "Orașele și municipiile județului Vrancea - Descărcare gratuită",
+    "description": "Lista celor 5 de orașe, municipii din județul Vrancea (VN) — unități administrativ-teritoriale urbane de nivel 2 conform SIRUTA. Reședința de județ este marcată cu is_resedinta_judet=true. Conține 5 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Orașele și municipiile județului Vrancea | ListBase",
+    "seo_description": "Descarcă Orașele și municipiile județului Vrancea — 5 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 5 înregistrări / 13 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: https://github.com/ionelmc/django-siruta"
+    ]
+  }
+}

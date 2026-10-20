@@ -1,0 +1,226 @@
+{
+  "id": "ro-dambovita-licee",
+  "name": "Licee si colegii din judetul Dâmbovița",
+  "title": "Licee si colegii din judetul Dâmbovița",
+  "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Dâmbovița (30 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "COLEGIUL ECONOMIC \"ION GHICA\" TÂRGOVIȘTE",
+      "slug": "colegiul-economic-ion-ghica-targoviste",
+      "judet": "DÂMBOVIȚA",
+      "judet_slug": "dambovita"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"CONSTANTIN CANTACUZINO\" TÂRGOVIȘTE",
+      "slug": "colegiul-national-constantin-cantacuzino-targoviste",
+      "judet": "DÂMBOVIȚA",
+      "judet_slug": "dambovita"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"CONSTANTIN CARABELLA\" TÂRGOVIȘTE",
+      "slug": "colegiul-national-constantin-carabella-targoviste",
+      "judet": "DÂMBOVIȚA",
+      "judet_slug": "dambovita"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"IENĂCHIȚĂ VĂCĂRESCU\" TÂRGOVIȘTE",
+      "slug": "colegiul-national-ienachita-vacarescu-targoviste",
+      "judet": "DÂMBOVIȚA",
+      "judet_slug": "dambovita"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"ION LUCA CARAGIALE\" MORENI",
+      "slug": "colegiul-national-ion-luca-caragiale-moreni",
+      "judet": "DÂMBOVIȚA",
+      "judet_slug": "dambovita"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"NICOLAE TITULESCU\" PUCIOASA",
+      "slug": "colegiul-national-nicolae-titulescu-pucioasa",
+      "judet": "DÂMBOVIȚA",
+      "judet_slug": "dambovita"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"VLADIMIR STREINU\" GĂEȘTI",
+      "slug": "colegiul-national-vladimir-streinu-gaesti",
+      "judet": "DÂMBOVIȚA",
+      "judet_slug": "dambovita"
+    },
+    {
+      "nume": "LICEUL DE ARTE \"BĂLAȘA DOAMNA\" TÂRGOVIȘTE",
+      "slug": "liceul-de-arte-balasa-doamna-targoviste",
+      "judet": "DÂMBOVIȚA",
+      "judet_slug": "dambovita"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC COJASCA",
+      "slug": "liceul-tehnologic-cojasca",
+      "judet": "DÂMBOVIȚA",
+      "judet_slug": "dambovita"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC DE TRANSPORTURI AUTO TÂRGOVIȘTE",
+      "slug": "liceul-tehnologic-de-transporturi-auto-targoviste",
+      "judet": "DÂMBOVIȚA",
+      "judet_slug": "dambovita"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC NUCET",
+      "slug": "liceul-tehnologic-nucet",
+      "judet": "DÂMBOVIȚA",
+      "judet_slug": "dambovita"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC PETROL MORENI",
+      "slug": "liceul-tehnologic-petrol-moreni",
+      "judet": "DÂMBOVIȚA",
+      "judet_slug": "dambovita"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC PUCIOASA",
+      "slug": "liceul-tehnologic-pucioasa",
+      "judet": "DÂMBOVIȚA",
+      "judet_slug": "dambovita"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC VOINEȘTI",
+      "slug": "liceul-tehnologic-voinesti",
+      "judet": "DÂMBOVIȚA",
+      "judet_slug": "dambovita"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"AUREL RAINU\" FIENI",
+      "slug": "liceul-tehnologic-aurel-rainu-fieni",
+      "judet": "DÂMBOVIȚA",
+      "judet_slug": "dambovita"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"CONSTANTIN BRÂNCOVEANU\" TÂRGOVIȘTE",
+      "slug": "liceul-tehnologic-constantin-brancoveanu-targoviste",
+      "judet": "DÂMBOVIȚA",
+      "judet_slug": "dambovita"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"DR. C. ANGELESCU\" GĂEȘTI",
+      "slug": "liceul-tehnologic-dr-c-angelescu-gaesti",
+      "judet": "DÂMBOVIȚA",
+      "judet_slug": "dambovita"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"GOGA IONESCU\" TITU",
+      "slug": "liceul-tehnologic-goga-ionescu-titu",
+      "judet": "DÂMBOVIȚA",
+      "judet_slug": "dambovita"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"IORDACHE GOLESCU\" GĂEȘTI",
+      "slug": "liceul-tehnologic-iordache-golescu-gaesti",
+      "judet": "DÂMBOVIȚA",
+      "judet_slug": "dambovita"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"MARIN GRIGORE NĂSTASE\" TĂRTĂȘEȘTI",
+      "slug": "liceul-tehnologic-marin-grigore-nastase-tartasesti",
+      "judet": "DÂMBOVIȚA",
+      "judet_slug": "dambovita"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"NICOLAE CIORĂNESCU\" TÂRGOVIȘTE",
+      "slug": "liceul-tehnologic-nicolae-cioranescu-targoviste",
+      "judet": "DÂMBOVIȚA",
+      "judet_slug": "dambovita"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"SPIRU HARET\" TÂRGOVIȘTE",
+      "slug": "liceul-tehnologic-spiru-haret-targoviste",
+      "judet": "DÂMBOVIȚA",
+      "judet_slug": "dambovita"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"UDREA BĂLEANU\" BĂLENI",
+      "slug": "liceul-tehnologic-udrea-baleanu-baleni",
+      "judet": "DÂMBOVIȚA",
+      "judet_slug": "dambovita"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"IANCU C. VISSARION\" TITU",
+      "slug": "liceul-teoretic-iancu-c-vissarion-titu",
+      "judet": "DÂMBOVIȚA",
+      "judet_slug": "dambovita"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"ION GHICA\" RĂCARI",
+      "slug": "liceul-teoretic-ion-ghica-racari",
+      "judet": "DÂMBOVIȚA",
+      "judet_slug": "dambovita"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"ION HELIADE RĂDULESCU\" TÂRGOVIȘTE",
+      "slug": "liceul-teoretic-ion-heliade-radulescu-targoviste",
+      "judet": "DÂMBOVIȚA",
+      "judet_slug": "dambovita"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"MIHAI VITEAZUL\" VIȘINA",
+      "slug": "liceul-teoretic-mihai-viteazul-visina",
+      "judet": "DÂMBOVIȚA",
+      "judet_slug": "dambovita"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"PETRU CERCEL\" TÂRGOVIȘTE",
+      "slug": "liceul-teoretic-petru-cercel-targoviste",
+      "judet": "DÂMBOVIȚA",
+      "judet_slug": "dambovita"
+    },
+    {
+      "nume": "LICEUL \"VOIEVODUL MIRCEA\" TÂRGOVIȘTE",
+      "slug": "liceul-voievodul-mircea-targoviste",
+      "judet": "DÂMBOVIȚA",
+      "judet_slug": "dambovita"
+    },
+    {
+      "nume": "SEMINARUL TEOLOGIC ORTODOX \"SF IOAN GURĂ DE AUR\" TÂRGOVIȘTE",
+      "slug": "seminarul-teologic-ortodox-sf-ioan-gura-de-aur-targoviste",
+      "judet": "DÂMBOVIȚA",
+      "judet_slug": "dambovita"
+    }
+  ],
+  "meta": {
+    "title": "Licee si colegii din judetul Dâmbovița - Descărcare gratuită",
+    "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Dâmbovița (30 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor. Conține 30 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Licee si colegii din judetul Dâmbovița | ListBase",
+    "seo_description": "Descarcă Licee si colegii din judetul Dâmbovița — 30 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 30 înregistrări / 4 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

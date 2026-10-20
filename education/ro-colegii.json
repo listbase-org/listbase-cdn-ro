@@ -1,0 +1,2869 @@
+{
+  "id": "ro-colegii",
+  "name": "Colegii din România",
+  "title": "Colegii din România",
+  "description": "Colegii din România — 312 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `amenity=college`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 312,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "latitudine",
+      "label": "Latitudine",
+      "type": "number"
+    },
+    {
+      "key": "longitudine",
+      "label": "Longitudine",
+      "type": "number"
+    },
+    {
+      "key": "cheie_osm",
+      "label": "Cheie Osm",
+      "type": "string"
+    },
+    {
+      "key": "valoare_osm",
+      "label": "Valoare Osm",
+      "type": "string"
+    },
+    {
+      "key": "categorie_osm",
+      "label": "Categorie Osm",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nume": "Academia Comerciala",
+      "latitudine": 47.796208,
+      "longitudine": 22.88919,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 2,
+      "nume": "Academia Națională de Informații",
+      "latitudine": 44.529495,
+      "longitudine": 26.043177,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 3,
+      "nume": "Asociația Colegiul Nautic Român",
+      "latitudine": 44.175964,
+      "longitudine": 28.66017,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 4,
+      "nume": "Atelier",
+      "latitudine": 45.412983,
+      "longitudine": 23.378587,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 5,
+      "nume": "Cantină",
+      "latitudine": 45.413697,
+      "longitudine": 23.379341,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 6,
+      "nume": "Centrul de Formare Profesională",
+      "latitudine": 45.278203,
+      "longitudine": 27.979937,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 7,
+      "nume": "Colegiul \"Alexandru cel Bun\"",
+      "latitudine": 47.553187,
+      "longitudine": 25.899616,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 8,
+      "nume": "Colegiul \"Horea, Cloșca și Crișan\"",
+      "latitudine": 46.066494,
+      "longitudine": 23.563709,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 9,
+      "nume": "Colegiul A.T. Laurian",
+      "latitudine": 47.738844,
+      "longitudine": 26.664903,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 10,
+      "nume": "Colegiul Academic",
+      "latitudine": 46.068777,
+      "longitudine": 23.57403,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 11,
+      "nume": "Colegiul Agricol Danubius",
+      "latitudine": 43.782426,
+      "longitudine": 24.490728,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 12,
+      "nume": "Colegiul Agricol Dimitrie Cantemir -Huși",
+      "latitudine": 46.671847,
+      "longitudine": 28.047795,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 13,
+      "nume": "Colegiul Agricol Doctor Constantin Angelescu",
+      "latitudine": 45.147981,
+      "longitudine": 26.820882,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 14,
+      "nume": "Colegiul Agricol Traian Săvulescu",
+      "latitudine": 46.552146,
+      "longitudine": 24.55439,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 15,
+      "nume": "Colegiul Bethlen Gabor",
+      "latitudine": 46.310633,
+      "longitudine": 23.717494,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 16,
+      "nume": "Colegiul Comercial Virgil Madgeru",
+      "latitudine": 45.038541,
+      "longitudine": 23.286228,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 17,
+      "nume": "Colegiul de Arhitectură",
+      "latitudine": 45.658002,
+      "longitudine": 25.585667,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 18,
+      "nume": "Colegiul de Muzică și Arte Plastice Constantin Brăiloiu",
+      "latitudine": 45.04372,
+      "longitudine": 23.27825,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 19,
+      "nume": "Colegiul Economic Buzău",
+      "latitudine": 45.151174,
+      "longitudine": 26.823232,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 20,
+      "nume": "Colegiul Economic Emanuil Gojdu",
+      "latitudine": 45.758253,
+      "longitudine": 22.913503,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 21,
+      "nume": "Colegiul Economic Hermes",
+      "latitudine": 45.40727,
+      "longitudine": 23.374615,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 22,
+      "nume": "Colegiul Economic Nicolae Titulescu",
+      "latitudine": 47.652741,
+      "longitudine": 23.573159,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 23,
+      "nume": "Colegiul Economic Octav Onicescu",
+      "latitudine": 47.735274,
+      "longitudine": 26.659487,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 24,
+      "nume": "Colegiul economic Pintea Viteazul - Cavnic",
+      "latitudine": 47.648729,
+      "longitudine": 23.820404,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 25,
+      "nume": "Colegiul Economic Transilvania",
+      "latitudine": 46.541053,
+      "longitudine": 24.572438,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 26,
+      "nume": "Colegiul Economic Viilor",
+      "latitudine": 44.413056,
+      "longitudine": 26.086261,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 27,
+      "nume": "Colegiul Economic „Virgil Madgearu\"",
+      "latitudine": 45.416385,
+      "longitudine": 28.015051,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 28,
+      "nume": "Colegiul Emil Racoviță",
+      "latitudine": 45.659195,
+      "longitudine": 25.603598,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 29,
+      "nume": "Colegiul Industrial Blaj",
+      "latitudine": 46.178435,
+      "longitudine": 23.918516,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 30,
+      "nume": "Colegiul National de Informatica",
+      "latitudine": 46.935531,
+      "longitudine": 26.382594,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 31,
+      "nume": "Colegiul Nautic Român",
+      "latitudine": 44.179407,
+      "longitudine": 28.616411,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 32,
+      "nume": "Colegiul Național \"Ana Aslan\"",
+      "latitudine": 45.250422,
+      "longitudine": 27.954793,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 33,
+      "nume": "Colegiul Național \"Andrei Șaguna\"",
+      "latitudine": 45.638531,
+      "longitudine": 25.584233,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 34,
+      "nume": "Colegiul Național \"Aurel Vlaicu\"",
+      "latitudine": 45.837751,
+      "longitudine": 23.198679,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 35,
+      "nume": "Colegiul Național \"B. P. Hasdeu\"",
+      "latitudine": 45.147945,
+      "longitudine": 26.825739,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 36,
+      "nume": "Colegiul Național \"Calistrat Hogaș\"",
+      "latitudine": 46.933668,
+      "longitudine": 26.365507,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 37,
+      "nume": "Colegiul Național \"Mihai Viteazul\"",
+      "latitudine": 44.563972,
+      "longitudine": 27.35409,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 38,
+      "nume": "Colegiul Național \"Nicolae Iorga\"",
+      "latitudine": 45.269227,
+      "longitudine": 27.973367,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 39,
+      "nume": "Colegiul Național Al. Papiu Ilarian",
+      "latitudine": 46.545948,
+      "longitudine": 24.568434,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 40,
+      "nume": "Colegiul Național Alexandru Dimitrie Ghica",
+      "latitudine": 43.97542,
+      "longitudine": 25.32479,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 41,
+      "nume": "Colegiul Național Anastasescu",
+      "latitudine": 44.114031,
+      "longitudine": 24.984597,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 42,
+      "nume": "Colegiul Național Avram Iancu",
+      "latitudine": 46.129076,
+      "longitudine": 22.785383,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 43,
+      "nume": "Colegiul Național Avram Iancu",
+      "latitudine": 46.362491,
+      "longitudine": 23.045859,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 44,
+      "nume": "Colegiul Național Costache Negri",
+      "latitudine": 46.279389,
+      "longitudine": 26.614356,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 45,
+      "nume": "Colegiul Național de Informatică Traian Lalescu",
+      "latitudine": 45.750187,
+      "longitudine": 22.909502,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 46,
+      "nume": "Colegiul Național Iancu de Hunedoara",
+      "latitudine": 45.750738,
+      "longitudine": 22.903908,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 47,
+      "nume": "Colegiul Național Ion Maiorescu",
+      "latitudine": 43.892728,
+      "longitudine": 25.966644,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 48,
+      "nume": "Colegiul Național Mihai Eminescu",
+      "latitudine": 47.060336,
+      "longitudine": 21.930753,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 49,
+      "nume": "Colegiul Național Mihai Eminescu",
+      "latitudine": 47.655344,
+      "longitudine": 23.571904,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 50,
+      "nume": "Colegiul Național Militar \"Ștefan cel Mare\"",
+      "latitudine": 47.507783,
+      "longitudine": 25.611264,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 51,
+      "nume": "Colegiul Național Nicolae Titulescu",
+      "latitudine": 45.069807,
+      "longitudine": 25.436865,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 52,
+      "nume": "Colegiul Național Pedagogic \"Costache Negri\"",
+      "latitudine": 45.429484,
+      "longitudine": 28.032624,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 53,
+      "nume": "Colegiul Național Pedagogic Regina Maria",
+      "latitudine": 45.881289,
+      "longitudine": 22.897464,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 54,
+      "nume": "Colegiul Național Pedagogic ”Carol I”",
+      "latitudine": 45.26433,
+      "longitudine": 25.048382,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 55,
+      "nume": "Colegiul Național Petru Rareș",
+      "latitudine": 46.933034,
+      "longitudine": 26.370976,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 56,
+      "nume": "Colegiul Național Petru Rareș",
+      "latitudine": 47.176667,
+      "longitudine": 24.17622,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 57,
+      "nume": "Colegiul Național Petru Rareș",
+      "latitudine": 47.643209,
+      "longitudine": 26.252552,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 58,
+      "nume": "Colegiul Național Samuil Vulcan",
+      "latitudine": 46.667586,
+      "longitudine": 22.350718,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 59,
+      "nume": "Colegiul Național Sportiv Cetate",
+      "latitudine": 45.88718,
+      "longitudine": 22.901124,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 60,
+      "nume": "Colegiul Național Teodor Neș",
+      "latitudine": 46.805583,
+      "longitudine": 21.646328,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 61,
+      "nume": "Colegiul Național Traian Lalescu - Reșița",
+      "latitudine": 45.294456,
+      "longitudine": 21.879912,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 62,
+      "nume": "Colegiul Național Tudor Vladimirescu",
+      "latitudine": 45.037387,
+      "longitudine": 23.273789,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 63,
+      "nume": "Colegiul Național Unirea",
+      "latitudine": 43.744598,
+      "longitudine": 24.86825,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 64,
+      "nume": "Colegiul Național Unirea",
+      "latitudine": 46.547687,
+      "longitudine": 24.570627,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 65,
+      "nume": "Colegiul Național Vasile Alecsandri",
+      "latitudine": 45.440665,
+      "longitudine": 28.050392,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 66,
+      "nume": "Colegiul Național Vladimir Streinu",
+      "latitudine": 44.722179,
+      "longitudine": 25.314389,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 67,
+      "nume": "Colegiul Național Vlaicu-Vodă",
+      "latitudine": 45.133479,
+      "longitudine": 24.676512,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 68,
+      "nume": "Colegiul Național Vlaicu-Vodă",
+      "latitudine": 45.133962,
+      "longitudine": 24.676425,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 69,
+      "nume": "Colegiul Național Áprily Lajos",
+      "latitudine": 45.644753,
+      "longitudine": 25.588298,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 70,
+      "nume": "Colegiul Național ”Iancu de Hunedoara”",
+      "latitudine": 45.750863,
+      "longitudine": 22.904242,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 71,
+      "nume": "Colegiul Național „Alexandru Ioan Cuza\"",
+      "latitudine": 45.702787,
+      "longitudine": 27.189923,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 72,
+      "nume": "Colegiul Național „Mihai Eminescu”",
+      "latitudine": 45.150004,
+      "longitudine": 26.818531,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 73,
+      "nume": "Colegiul Național „Mihail Kogălniceanu”",
+      "latitudine": 45.426839,
+      "longitudine": 28.034114,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 74,
+      "nume": "Colegiul Național „Nicolae Iorga”",
+      "latitudine": 45.177397,
+      "longitudine": 26.037456,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 75,
+      "nume": "Colegiul Național „Unirea\"",
+      "latitudine": 45.698042,
+      "longitudine": 27.191402,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 76,
+      "nume": "Colegiul Național „Unirea” Brașov",
+      "latitudine": 45.643869,
+      "longitudine": 25.59616,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 77,
+      "nume": "Colegiul Nicolae Titulescu",
+      "latitudine": 45.66939,
+      "longitudine": 25.610262,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 78,
+      "nume": "Colegiul pentru Agricultură și Industrie Alimentară \"Țara Bârsei\"",
+      "latitudine": 45.718883,
+      "longitudine": 25.766434,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 79,
+      "nume": "Colegiul Preuniversitar \"Dr. I. Cantacuzino\"",
+      "latitudine": 44.455059,
+      "longitudine": 26.14417,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 80,
+      "nume": "Colegiul Silvic „Theodor Pietraru” Brănești",
+      "latitudine": 44.461622,
+      "longitudine": 26.328076,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 81,
+      "nume": "Colegiul Tehnic  Energetic \"Paul Dimo\"",
+      "latitudine": 45.449903,
+      "longitudine": 28.020073,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 82,
+      "nume": "Colegiul Tehnic \"Edmund Nicolau\"",
+      "latitudine": 45.688331,
+      "longitudine": 27.19014,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 83,
+      "nume": "Colegiul Tehnic \"Mihai Bravu\"",
+      "latitudine": 44.419437,
+      "longitudine": 26.135684,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 84,
+      "nume": "Colegiul Tehnic \"Traian Vuia\"",
+      "latitudine": 45.431892,
+      "longitudine": 28.020382,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 85,
+      "nume": "Colegiul Tehnic Alexandru Domșa",
+      "latitudine": 46.086893,
+      "longitudine": 23.586393,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 86,
+      "nume": "Colegiul Tehnic Anghel Saligny",
+      "latitudine": 47.651708,
+      "longitudine": 23.572473,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 87,
+      "nume": "Colegiul Tehnic Baia de Criș",
+      "latitudine": 46.177619,
+      "longitudine": 22.701418,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 88,
+      "nume": "Colegiul Tehnic Buzău",
+      "latitudine": 45.133776,
+      "longitudine": 26.833402,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 89,
+      "nume": "Colegiul Tehnic Carol I Valea Doftanei",
+      "latitudine": 45.303229,
+      "longitudine": 25.721297,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 90,
+      "nume": "Colegiul Tehnic Cibinium",
+      "latitudine": 45.793536,
+      "longitudine": 24.143349,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 91,
+      "nume": "Colegiul Tehnic Costin D. Nenițescu",
+      "latitudine": 45.25253,
+      "longitudine": 27.943357,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 92,
+      "nume": "Colegiul Tehnic Dimitrie Ghika",
+      "latitudine": 46.423651,
+      "longitudine": 26.453138,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 93,
+      "nume": "Colegiul Tehnic Dragomir Hurmuzescu",
+      "latitudine": 45.866709,
+      "longitudine": 22.900453,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 94,
+      "nume": "Colegiul Tehnic George Barițiu",
+      "latitudine": 47.655379,
+      "longitudine": 23.5708,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 95,
+      "nume": "Colegiul Tehnic Gheorghe Lazăr",
+      "latitudine": 45.044416,
+      "longitudine": 25.952405,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 96,
+      "nume": "Colegiul Tehnic Henri Coandă",
+      "latitudine": 46.529388,
+      "longitudine": 26.91497,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 97,
+      "nume": "Colegiul Tehnic Ioan Ciordaș Beiuș",
+      "latitudine": 46.665434,
+      "longitudine": 22.347754,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 98,
+      "nume": "Colegiul Tehnic Mircea Cristea",
+      "latitudine": 45.66696,
+      "longitudine": 25.612206,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 99,
+      "nume": "Colegiul Tehnic Remus Răduleț",
+      "latitudine": 45.646729,
+      "longitudine": 25.642068,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 100,
+      "nume": "Colegiul Tehnic Simion Mehedinți",
+      "latitudine": 45.687051,
+      "longitudine": 25.451628,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 101,
+      "nume": "Colegiul Tehnic Traian",
+      "latitudine": 45.452244,
+      "longitudine": 28.041475,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 102,
+      "nume": "Colegiul Tehnic Transilvania",
+      "latitudine": 45.649416,
+      "longitudine": 25.602269,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 103,
+      "nume": "Colegiul Tehnic Transilvania",
+      "latitudine": 45.871134,
+      "longitudine": 22.909185,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 104,
+      "nume": "Colegiul Tehnic Ștefan Milcu",
+      "latitudine": 43.996419,
+      "longitudine": 22.941988,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 105,
+      "nume": "Colegiul Tehnic „August Treboniu Laurian”",
+      "latitudine": 45.975028,
+      "longitudine": 24.628971,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 106,
+      "nume": "Colegiul Tehnic „Nicolae Titulescu”",
+      "latitudine": 44.260354,
+      "longitudine": 28.265589,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 107,
+      "nume": "Colegiul Tehnologic Grigore Antipa",
+      "latitudine": 46.533267,
+      "longitudine": 26.917209,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 108,
+      "nume": "Colegiul „Alexandru cel Bun”",
+      "latitudine": 47.553044,
+      "longitudine": 25.899623,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 109,
+      "nume": "Colegiului Economic \"Dionisie Pop Martian\"",
+      "latitudine": 46.065813,
+      "longitudine": 23.577861,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 110,
+      "nume": "Colegul Național \"Gheorghe Asachi\" Piatra Neamț",
+      "latitudine": 46.945942,
+      "longitudine": 26.388423,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 111,
+      "nume": "Colegul Național \"Gheorghe Asachi\" Piatra Neamț Corp B",
+      "latitudine": 46.945909,
+      "longitudine": 26.387834,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 112,
+      "nume": "Corpul A",
+      "latitudine": 45.952333,
+      "longitudine": 23.570006,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 113,
+      "nume": "Facultatea de Automatică, Calculatoare și Electronică",
+      "latitudine": 44.308874,
+      "longitudine": 23.835153,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 114,
+      "nume": "Facultatea de Educație Fizică și Sport",
+      "latitudine": 44.326261,
+      "longitudine": 23.773415,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 115,
+      "nume": "Facultatea de Nave",
+      "latitudine": 45.445711,
+      "longitudine": 28.052271,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 116,
+      "nume": "FPSE Buzău",
+      "latitudine": 45.153209,
+      "longitudine": 26.83303,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 117,
+      "nume": "Garajul A",
+      "latitudine": 45.134084,
+      "longitudine": 24.665791,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 118,
+      "nume": "Garajul B",
+      "latitudine": 45.133279,
+      "longitudine": 24.665364,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 119,
+      "nume": "Garajul C",
+      "latitudine": 45.133337,
+      "longitudine": 24.664971,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 120,
+      "nume": "Generala 1",
+      "latitudine": 47.131859,
+      "longitudine": 24.494812,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 121,
+      "nume": "Group Școlar Agricol Bărcănești",
+      "latitudine": 44.88703,
+      "longitudine": 26.048026,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 122,
+      "nume": "Grup școlar \"Anghel Saligny\"",
+      "latitudine": 45.440984,
+      "longitudine": 28.012654,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 123,
+      "nume": "Grup Școlar \"Grigore Moisil\"",
+      "latitudine": 45.28186,
+      "longitudine": 27.977512,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 124,
+      "nume": "Grup Școlar \"M.Eminescu\"",
+      "latitudine": 44.56905,
+      "longitudine": 27.361814,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 125,
+      "nume": "Grup Școlar Agricol",
+      "latitudine": 44.994132,
+      "longitudine": 26.86553,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 126,
+      "nume": "Grup Școlar Avrig",
+      "latitudine": 45.727511,
+      "longitudine": 24.382566,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 127,
+      "nume": "Grup Școlar Ciumbrud",
+      "latitudine": 46.305398,
+      "longitudine": 23.760918,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 128,
+      "nume": "Grup școlar de industrie alimentară \"Dimitrie Moțoc\" (MAIA)",
+      "latitudine": 45.449039,
+      "longitudine": 28.027532,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 129,
+      "nume": "Grup Școlar Dimitrie Leonida",
+      "latitudine": 45.412734,
+      "longitudine": 23.378378,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 130,
+      "nume": "Grup școlar Elena Doamna",
+      "latitudine": 45.455574,
+      "longitudine": 28.048017,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 131,
+      "nume": "Grup Școlar Grigore Moisil",
+      "latitudine": 45.86891,
+      "longitudine": 22.899882,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 132,
+      "nume": "Grup Școlar Grigore Moisil",
+      "latitudine": 47.128795,
+      "longitudine": 24.480141,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 133,
+      "nume": "Grup Școlar Industrial \"Sfânta Maria\"",
+      "latitudine": 45.434147,
+      "longitudine": 28.0301,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 134,
+      "nume": "Grup Școlar Industrial Horea",
+      "latitudine": 45.869705,
+      "longitudine": 22.897801,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 135,
+      "nume": "Grup școlar Industrial Metalurgic",
+      "latitudine": 45.448182,
+      "longitudine": 28.023873,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 136,
+      "nume": "Grup Școlar Industrie Ușoară",
+      "latitudine": 46.065893,
+      "longitudine": 23.562408,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 137,
+      "nume": "Grup Școlar Ion Mincu",
+      "latitudine": 45.865984,
+      "longitudine": 22.900578,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 138,
+      "nume": "Grup școlar Radu Negru",
+      "latitudine": 45.45774,
+      "longitudine": 28.045003,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 139,
+      "nume": "Grup Școlar Tehnologic Dimitrie Filipescu",
+      "latitudine": 45.137979,
+      "longitudine": 26.81956,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 140,
+      "nume": "Grup Școlar Teiuș",
+      "latitudine": 46.205546,
+      "longitudine": 23.676254,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 141,
+      "nume": "Grup Școlar Zagon",
+      "latitudine": 45.766769,
+      "longitudine": 26.111892,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 142,
+      "nume": "Grup Școlar Zlatna",
+      "latitudine": 46.109832,
+      "longitudine": 23.22689,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 143,
+      "nume": "Grupul Scolar Industrial \"Panait Istrati\"",
+      "latitudine": 45.287245,
+      "longitudine": 27.972412,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 144,
+      "nume": "Grupul Şcolar Industrial Minier Lupeni",
+      "latitudine": 45.344126,
+      "longitudine": 23.206117,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 145,
+      "nume": "Grupul Școlar Agricol",
+      "latitudine": 44.681498,
+      "longitudine": 26.385906,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 146,
+      "nume": "Grupul Școlar Agromontan „Romeo Constantinescu”",
+      "latitudine": 45.191799,
+      "longitudine": 26.043935,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 147,
+      "nume": "Grupul Școlar Constantin Dobrescu",
+      "latitudine": 45.155094,
+      "longitudine": 24.676254,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 148,
+      "nume": "Grupul școlar de Chimie Industrială Emil A. Dandea",
+      "latitudine": 46.518598,
+      "longitudine": 24.523309,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 149,
+      "nume": "Grupul Școlar Electromureș",
+      "latitudine": 46.534481,
+      "longitudine": 24.589111,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 150,
+      "nume": "Grupul Școlar I-XII Carol I Târnăveni",
+      "latitudine": 46.329586,
+      "longitudine": 24.281019,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 151,
+      "nume": "Grupul Școlar Industrial",
+      "latitudine": 44.89917,
+      "longitudine": 23.162277,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 152,
+      "nume": "Grupul școlar industrial \"Constantin Brâncoveanu\"",
+      "latitudine": 45.306032,
+      "longitudine": 27.962821,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 153,
+      "nume": "Grupul Școlar Industrial de Marină",
+      "latitudine": 45.43569,
+      "longitudine": 28.066458,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 154,
+      "nume": "Grupul Școlar Samoil Isopescu",
+      "latitudine": 47.63897,
+      "longitudine": 26.260934,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 155,
+      "nume": "Grupul Școlar Simion Bărnuțiu",
+      "latitudine": 47.684548,
+      "longitudine": 22.460825,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 156,
+      "nume": "Grupul școlar Tase Dumitrescu",
+      "latitudine": 45.003023,
+      "longitudine": 26.442772,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 157,
+      "nume": "Grupul Școlar Tigveni",
+      "latitudine": 45.137962,
+      "longitudine": 24.550203,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 158,
+      "nume": "Institutul Teologic Greco-Catolic \"Bunavestire\"",
+      "latitudine": 46.174031,
+      "longitudine": 23.923654,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 159,
+      "nume": "Laboratoare UTCN Dorobanților",
+      "latitudine": 46.774399,
+      "longitudine": 23.607604,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 160,
+      "nume": "Liceul \"Samuel Brukenthal\"",
+      "latitudine": 45.797268,
+      "longitudine": 24.14968,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 161,
+      "nume": "Liceul \"Timotei Cipariu\"",
+      "latitudine": 46.223977,
+      "longitudine": 24.57732,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 162,
+      "nume": "Liceul Agricol GH. K. Constantinescu",
+      "latitudine": 45.269782,
+      "longitudine": 27.927479,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 163,
+      "nume": "Liceul Andrei Mureșanu",
+      "latitudine": 47.132308,
+      "longitudine": 24.491284,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 164,
+      "nume": "Liceul CFR, Grup Școlar Industrial Transporturi Feroviare",
+      "latitudine": 45.447976,
+      "longitudine": 28.034653,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 165,
+      "nume": "Liceul Cobadin",
+      "latitudine": 44.062974,
+      "longitudine": 28.235039,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 166,
+      "nume": "Liceul cu program sportiv",
+      "latitudine": 45.257997,
+      "longitudine": 27.950738,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 167,
+      "nume": "Liceul cu Program Sportiv",
+      "latitudine": 45.415395,
+      "longitudine": 28.024766,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 168,
+      "nume": "Liceul cu Program Sportiv",
+      "latitudine": 47.737096,
+      "longitudine": 26.65965,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 169,
+      "nume": "Liceul cu Program Sportiv ,,Iolanda Balas Soter’’",
+      "latitudine": 45.153422,
+      "longitudine": 26.793201,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 170,
+      "nume": "Liceul cu Program Sportiv Szász Adalbert",
+      "latitudine": 46.551097,
+      "longitudine": 24.561131,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 171,
+      "nume": "Liceul de Arte Plastice Corneliu Baba",
+      "latitudine": 47.129843,
+      "longitudine": 24.490754,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 172,
+      "nume": "Liceul de artă \"Dimitrie Cuclin\"",
+      "latitudine": 45.44517,
+      "longitudine": 28.05397,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 173,
+      "nume": "Liceul de Artă Dinu Lipatti",
+      "latitudine": 44.846951,
+      "longitudine": 24.876987,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 174,
+      "nume": "Liceul de Artă Margareta Sterian",
+      "latitudine": 45.150882,
+      "longitudine": 26.826183,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 175,
+      "nume": "Liceul de Artă Sabin Păuță",
+      "latitudine": 45.324767,
+      "longitudine": 21.878896,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 176,
+      "nume": "Liceul de artă Victor Brauner corp A",
+      "latitudine": 46.932331,
+      "longitudine": 26.363536,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 177,
+      "nume": "Liceul de Artă „Ionel Perlea” Slobozia",
+      "latitudine": 44.563986,
+      "longitudine": 27.376488,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 178,
+      "nume": "Liceul de Informatică",
+      "latitudine": 45.412389,
+      "longitudine": 23.379726,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 179,
+      "nume": "Liceul de Muzica \"Tudor Jarda\"",
+      "latitudine": 47.12907,
+      "longitudine": 24.492372,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 180,
+      "nume": "Liceul de Muzică și Artă",
+      "latitudine": 46.073939,
+      "longitudine": 23.582476,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 181,
+      "nume": "Liceul Dimitrie Cantemir",
+      "latitudine": 47.644768,
+      "longitudine": 26.246187,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 182,
+      "nume": "Liceul Dimitrie Negreanu",
+      "latitudine": 47.735701,
+      "longitudine": 26.662452,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 183,
+      "nume": "Liceul Doctor Ioan Meșotă",
+      "latitudine": 45.654127,
+      "longitudine": 25.609216,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 184,
+      "nume": "Liceul Economic Administrativ",
+      "latitudine": 44.114695,
+      "longitudine": 24.984394,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 185,
+      "nume": "Liceul Forestier",
+      "latitudine": 45.153397,
+      "longitudine": 24.676888,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 186,
+      "nume": "Liceul German Sebeș",
+      "latitudine": 45.959406,
+      "longitudine": 23.561177,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 187,
+      "nume": "Liceul Gheorghe Surdu Brezoi",
+      "latitudine": 45.342793,
+      "longitudine": 24.240273,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 188,
+      "nume": "Liceul Gustav Gundisch",
+      "latitudine": 45.712027,
+      "longitudine": 24.150077,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 189,
+      "nume": "Liceul Horea Cloșca și Crișan",
+      "latitudine": 46.265121,
+      "longitudine": 23.082617,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 190,
+      "nume": "Liceul Industrial \"MIU\"",
+      "latitudine": 45.793789,
+      "longitudine": 24.139418,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 191,
+      "nume": "Liceul Industrial Avram Iancu",
+      "latitudine": 46.536741,
+      "longitudine": 24.557776,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 192,
+      "nume": "Liceul Iuliu Maniu",
+      "latitudine": 47.688021,
+      "longitudine": 22.467234,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 193,
+      "nume": "Liceul La Salle",
+      "latitudine": 46.999375,
+      "longitudine": 26.836248,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 194,
+      "nume": "Liceul Liviu Rebreanu",
+      "latitudine": 47.135734,
+      "longitudine": 24.495396,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 195,
+      "nume": "Liceul Militar Breaza",
+      "latitudine": 45.18164,
+      "longitudine": 25.66115,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 196,
+      "nume": "Liceul Mircea Eliade",
+      "latitudine": 46.21954,
+      "longitudine": 24.796409,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 197,
+      "nume": "Liceul Național cu Program de Atletism",
+      "latitudine": 45.280089,
+      "longitudine": 25.050185,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 198,
+      "nume": "Liceul nr. 1",
+      "latitudine": 45.688212,
+      "longitudine": 27.19096,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 199,
+      "nume": "Liceul nr. 5 Târgoviște",
+      "latitudine": 44.914728,
+      "longitudine": 25.468565,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 200,
+      "nume": "Liceul Particular Aurora Ouatu",
+      "latitudine": 46.941425,
+      "longitudine": 26.319204,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 201,
+      "nume": "Liceul Pedagogic",
+      "latitudine": 45.636735,
+      "longitudine": 25.582118,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 202,
+      "nume": "Liceul Pedagogic \"Bod Péter\"",
+      "latitudine": 46.002692,
+      "longitudine": 26.132835,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 203,
+      "nume": "Liceul Pedagogic \"M. Basarab\"",
+      "latitudine": 44.563169,
+      "longitudine": 27.354113,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 204,
+      "nume": "Liceul Pedagogic Bod Péter Tanítóképző",
+      "latitudine": 46.002752,
+      "longitudine": 26.132624,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 205,
+      "nume": "Liceul Pedagogic Mihai Eminescu",
+      "latitudine": 46.540587,
+      "longitudine": 24.574467,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 206,
+      "nume": "Liceul pedagogic ”D.P. Perpessicius”",
+      "latitudine": 45.262443,
+      "longitudine": 27.95604,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 207,
+      "nume": "Liceul pedagogic ”Gheorghe Șincai”",
+      "latitudine": 47.185348,
+      "longitudine": 23.053795,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 208,
+      "nume": "Liceul Popesti",
+      "latitudine": 47.236895,
+      "longitudine": 22.418642,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 209,
+      "nume": "Liceul Rovinari",
+      "latitudine": 44.899447,
+      "longitudine": 23.161395,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 210,
+      "nume": "Liceul Sanitar",
+      "latitudine": 47.133295,
+      "longitudine": 24.492558,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 211,
+      "nume": "Liceul Silvic",
+      "latitudine": 47.526417,
+      "longitudine": 25.568567,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 212,
+      "nume": "Liceul Sportiv",
+      "latitudine": 45.638284,
+      "longitudine": 25.587191,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 213,
+      "nume": "Liceul Tehnologic \"A.I.Cuza\" Slobozia",
+      "latitudine": 44.570075,
+      "longitudine": 27.359825,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 214,
+      "nume": "Liceul Tehnologic \"Anghel Saligny\"",
+      "latitudine": 45.278349,
+      "longitudine": 27.962902,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 215,
+      "nume": "Liceul Tehnologic \"Nicolae Iorga\"",
+      "latitudine": 46.836132,
+      "longitudine": 27.453075,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 216,
+      "nume": "Liceul Tehnologic \"Nicolae Teclu\"",
+      "latitudine": 46.110302,
+      "longitudine": 24.226262,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 217,
+      "nume": "Liceul Tehnologic Baia de Arieș",
+      "latitudine": 46.379939,
+      "longitudine": 23.277134,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 218,
+      "nume": "Liceul tehnologic Baia de Fier",
+      "latitudine": 45.1713,
+      "longitudine": 23.762309,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 219,
+      "nume": "Liceul Tehnologic Carol I",
+      "latitudine": 45.302443,
+      "longitudine": 25.720781,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 220,
+      "nume": "Liceul Tehnologic Constantin Brancusi",
+      "latitudine": 44.847809,
+      "longitudine": 24.87783,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 221,
+      "nume": "Liceul Tehnologic de Automobile",
+      "latitudine": 45.134182,
+      "longitudine": 24.665162,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 222,
+      "nume": "Liceul Tehnologic Dumitru Mangeron",
+      "latitudine": 46.53244,
+      "longitudine": 26.917385,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 223,
+      "nume": "Liceul Tehnologic Edwin Hubble",
+      "latitudine": 46.073769,
+      "longitudine": 23.583098,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 224,
+      "nume": "Liceul Tehnologic Elie Radu",
+      "latitudine": 47.742091,
+      "longitudine": 26.680034,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 225,
+      "nume": "Liceul Tehnologic Fierbinți-Târg",
+      "latitudine": 44.681984,
+      "longitudine": 26.384856,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 226,
+      "nume": "Liceul Tehnologic nr. 1",
+      "latitudine": 46.21455,
+      "longitudine": 24.789834,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 227,
+      "nume": "Liceul Tehnologic Rușețu",
+      "latitudine": 44.963267,
+      "longitudine": 27.216828,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 228,
+      "nume": "Liceul Tehnologic Sebeș",
+      "latitudine": 45.954098,
+      "longitudine": 23.579943,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 229,
+      "nume": "Liceul Tehnologic Special nr. 3",
+      "latitudine": 44.449752,
+      "longitudine": 26.112677,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 230,
+      "nume": "Liceul Tehnologic Special Sfântul Stelian",
+      "latitudine": 47.734589,
+      "longitudine": 26.66182,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 231,
+      "nume": "Liceul Tehnologic Transporturi Căi Ferate Galați",
+      "latitudine": 45.447813,
+      "longitudine": 28.034427,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 232,
+      "nume": "Liceul Tehnologic Turceni",
+      "latitudine": 44.681769,
+      "longitudine": 23.374363,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 233,
+      "nume": "Liceul Tehnologic Turceni",
+      "latitudine": 44.682004,
+      "longitudine": 23.375317,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 234,
+      "nume": "Liceul Tehnologic Voinești",
+      "latitudine": 45.067999,
+      "longitudine": 25.250997,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 235,
+      "nume": "Liceul Tehnologic „Cezar Nicolau” Brănești",
+      "latitudine": 44.463097,
+      "longitudine": 26.327011,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 236,
+      "nume": "Liceul Tehnologic „Dragomir Hurmuzescu”",
+      "latitudine": 44.24311,
+      "longitudine": 28.295475,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 237,
+      "nume": "Liceul Tehnologic „Sfântul Haralambie”",
+      "latitudine": 43.747287,
+      "longitudine": 24.871419,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 238,
+      "nume": "Liceul teologic Josephus Calasantius",
+      "latitudine": 47.68928,
+      "longitudine": 22.464512,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 239,
+      "nume": "Liceul Teoretic",
+      "latitudine": 46.073429,
+      "longitudine": 20.625258,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 240,
+      "nume": "Liceul Teoretic \"Benjamin Franklin\"",
+      "latitudine": 44.429904,
+      "longitudine": 26.152269,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 241,
+      "nume": "Liceul Teoretic \"Carol I\" Fetesti",
+      "latitudine": 44.409932,
+      "longitudine": 27.827614,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 242,
+      "nume": "Liceul Teoretic \"Constantin Noica\"",
+      "latitudine": 45.792704,
+      "longitudine": 24.143038,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 243,
+      "nume": "Liceul Teoretic \"Constantin Romanu Vivu\"",
+      "latitudine": 46.909235,
+      "longitudine": 24.502376,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 244,
+      "nume": "Liceul Teoretic \"Emil Racoviță\"",
+      "latitudine": 45.422213,
+      "longitudine": 28.032393,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 245,
+      "nume": "Liceul Teoretic \"Grigore Tocilescu\"",
+      "latitudine": 45.000485,
+      "longitudine": 26.441903,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 246,
+      "nume": "Liceul Teoretic \"Mihail Sebastian\"",
+      "latitudine": 45.278553,
+      "longitudine": 27.978988,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 247,
+      "nume": "Liceul Teoretic \"Mircea Eliade\"",
+      "latitudine": 45.448928,
+      "longitudine": 28.029,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 248,
+      "nume": "Liceul Teoretic \"Spiru Haret\"",
+      "latitudine": 46.475184,
+      "longitudine": 26.488455,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 249,
+      "nume": "Liceul Teoretic ,,Silviu Dragomir'' Ilia",
+      "latitudine": 45.933785,
+      "longitudine": 22.662242,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 250,
+      "nume": "Liceul teoretic Bogdan Vodă - Viseu de Mijloc",
+      "latitudine": 47.715251,
+      "longitudine": 24.405134,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 251,
+      "nume": "Liceul Teoretic Bólyai Farkas",
+      "latitudine": 46.543995,
+      "longitudine": 24.563268,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 252,
+      "nume": "Liceul Teoretic Callatis",
+      "latitudine": 43.824535,
+      "longitudine": 28.584479,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 253,
+      "nume": "Liceul Teoretic Carei",
+      "latitudine": 47.679666,
+      "longitudine": 22.466481,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 254,
+      "nume": "Liceul Teoretic Carmen Sylva",
+      "latitudine": 44.01993,
+      "longitudine": 28.652902,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 255,
+      "nume": "Liceul Teoretic Dumbrăveni",
+      "latitudine": 46.225941,
+      "longitudine": 24.577897,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 256,
+      "nume": "Liceul Teoretic Filipeștii de Pădure",
+      "latitudine": 44.997855,
+      "longitudine": 25.74117,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 257,
+      "nume": "Liceul Teoretic Gheorghe Surdu Brezoi",
+      "latitudine": 45.34255,
+      "longitudine": 24.240152,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 258,
+      "nume": "Liceul Teoretic Grigore Antipa",
+      "latitudine": 47.744829,
+      "longitudine": 26.654221,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 259,
+      "nume": "Liceul teoretic Horia Hulubei - Măgurele",
+      "latitudine": 44.349852,
+      "longitudine": 26.02744,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 260,
+      "nume": "Liceul teoretic Ioan Buteanu",
+      "latitudine": 47.499208,
+      "longitudine": 23.476205,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 261,
+      "nume": "Liceul Teoretic Ion Barbu",
+      "latitudine": 44.850259,
+      "longitudine": 24.868862,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 262,
+      "nume": "Liceul Teoretic Nicolae Iorga",
+      "latitudine": 47.743478,
+      "longitudine": 26.680315,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 263,
+      "nume": "Liceul teoretic Panait Cerna",
+      "latitudine": 45.2704,
+      "longitudine": 27.955441,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 264,
+      "nume": "Liceul Teoretic Tata Oancea",
+      "latitudine": 45.378375,
+      "longitudine": 21.769815,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 265,
+      "nume": "Liceul Teoretic Traian",
+      "latitudine": 45.865156,
+      "longitudine": 22.901322,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 266,
+      "nume": "Liceul Teoretic Tudor Vladimirescu",
+      "latitudine": 44.169864,
+      "longitudine": 24.522407,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 267,
+      "nume": "Liceul Teoretic Téglás Gábor",
+      "latitudine": 45.87137,
+      "longitudine": 22.903985,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 268,
+      "nume": "Liceul teoretic Vasile Alecsandri",
+      "latitudine": 47.015154,
+      "longitudine": 26.865315,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 269,
+      "nume": "Liceul teoretic Vasile Alecsandri",
+      "latitudine": 47.016108,
+      "longitudine": 26.864386,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 270,
+      "nume": "Liceul teoretic Șerban Vodă, Slănic",
+      "latitudine": 45.233718,
+      "longitudine": 25.93912,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 271,
+      "nume": "Liceul Teoretic „Grigore Moisil” Urziceni",
+      "latitudine": 44.711526,
+      "longitudine": 26.647794,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 272,
+      "nume": "Liceul Teoretic „Radu Vlădescu”",
+      "latitudine": 45.32116,
+      "longitudine": 26.358754,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 273,
+      "nume": "Liceul Teoretic „Traian Lalescu” Brănești",
+      "latitudine": 44.46362,
+      "longitudine": 26.327835,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 274,
+      "nume": "Liceul ucrainian Taras Sevcenko",
+      "latitudine": 47.928613,
+      "longitudine": 23.888306,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 275,
+      "nume": "Liceul Udriste Nasturel, Hotarele",
+      "latitudine": 44.177483,
+      "longitudine": 26.367784,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 276,
+      "nume": "Sala de sport",
+      "latitudine": 46.074609,
+      "longitudine": 23.583582,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 277,
+      "nume": "Sala de sport",
+      "latitudine": 46.666875,
+      "longitudine": 22.350478,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 278,
+      "nume": "Sala de sport Liceul teoretic Carei",
+      "latitudine": 47.680181,
+      "longitudine": 22.466301,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 279,
+      "nume": "Sală de Sport",
+      "latitudine": 45.407306,
+      "longitudine": 23.374812,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 280,
+      "nume": "Sală de Sport",
+      "latitudine": 45.4133,
+      "longitudine": 23.378962,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 281,
+      "nume": "Scoala Gimnazială ,,Vasile Goldiș,, Alba Iulia",
+      "latitudine": 46.074244,
+      "longitudine": 23.583837,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 282,
+      "nume": "Seminarul Teologic Liceal Ortodox Chesarie Episcopul",
+      "latitudine": 45.156839,
+      "longitudine": 26.820213,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 283,
+      "nume": "Seminarul Teologic Liceal Ortodox „Sfânta Filofteia” Brănești",
+      "latitudine": 44.462786,
+      "longitudine": 26.32647,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 284,
+      "nume": "Seminarul Teologic Ortodox Neagoe Vodă Basarab",
+      "latitudine": 45.155592,
+      "longitudine": 24.676353,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 285,
+      "nume": "Sindicatul Învăţământului Preuniversitar",
+      "latitudine": 45.344288,
+      "longitudine": 23.205306,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 286,
+      "nume": "Sixth Form College",
+      "latitudine": 44.438285,
+      "longitudine": 26.131549,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 287,
+      "nume": "Spiru Haret",
+      "latitudine": 44.936379,
+      "longitudine": 26.028118,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 288,
+      "nume": "The International School of Bucharest",
+      "latitudine": 44.430916,
+      "longitudine": 26.214636,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 289,
+      "nume": "UBB",
+      "latitudine": 47.789517,
+      "longitudine": 22.869477,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 290,
+      "nume": "Universitatea Adventus",
+      "latitudine": 44.422655,
+      "longitudine": 26.279721,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 291,
+      "nume": "Universitatea Spiru Haret",
+      "latitudine": 44.326489,
+      "longitudine": 23.796633,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 292,
+      "nume": "Școala de Agenți de Poliție Septimiu Mureșan",
+      "latitudine": 46.785632,
+      "longitudine": 23.571678,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 293,
+      "nume": "Școala de Perfecționare a Pregătirii Personalului Poliției de Frontieră Orșova - IGPFR",
+      "latitudine": 44.71463,
+      "longitudine": 22.40135,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 294,
+      "nume": "Școala Generală Gheorghe Bulgar Sanislau",
+      "latitudine": 47.637547,
+      "longitudine": 22.324902,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 295,
+      "nume": "Școala Generală Nr. 109 Șerban Vodă",
+      "latitudine": 44.388546,
+      "longitudine": 26.094808,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 296,
+      "nume": "Școala Gimnazială Avram Iancu",
+      "latitudine": 44.37701,
+      "longitudine": 26.114453,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 297,
+      "nume": "Școala Gimnazială Dumitru I. Ionescu",
+      "latitudine": 45.248575,
+      "longitudine": 26.299431,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 298,
+      "nume": "Școala Gimnazială George Bacovia",
+      "latitudine": 44.395908,
+      "longitudine": 26.099354,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 299,
+      "nume": "Școala Gimnazială nr. 110 \"George Topârceanu\"",
+      "latitudine": 44.387688,
+      "longitudine": 26.101502,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 300,
+      "nume": "Școala Gimnazială nr. 99",
+      "latitudine": 44.382274,
+      "longitudine": 26.105596,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 301,
+      "nume": "Școala Gimnazială nr.40",
+      "latitudine": 44.476986,
+      "longitudine": 26.150554,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 302,
+      "nume": "Școala Gimnazială nr.40",
+      "latitudine": 44.47748,
+      "longitudine": 26.150437,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 303,
+      "nume": "Școala nr. 308",
+      "latitudine": 44.385735,
+      "longitudine": 26.096906,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 304,
+      "nume": "Școala nr. 36 Ionel Teodoreanu",
+      "latitudine": 44.380609,
+      "longitudine": 26.101559,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 305,
+      "nume": "Școala Postliceală FEG Education Tecuci",
+      "latitudine": 45.84637,
+      "longitudine": 27.425679,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 306,
+      "nume": "Școala Postliceală Henri Coandă",
+      "latitudine": 44.197431,
+      "longitudine": 28.652622,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 307,
+      "nume": "Școala Postliceală Hipocrate",
+      "latitudine": 44.208317,
+      "longitudine": 28.621582,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 308,
+      "nume": "Școala Postliceală Sanitară",
+      "latitudine": 45.74985,
+      "longitudine": 22.902429,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 309,
+      "nume": "Școala Postliceală „Henri Coandă” Năvodari",
+      "latitudine": 44.319592,
+      "longitudine": 28.610712,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 310,
+      "nume": "Școala Profesională Germană Kronstadt",
+      "latitudine": 45.682119,
+      "longitudine": 25.614104,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 311,
+      "nume": "Școala Sanitară Postliceală \"Carol Davila",
+      "latitudine": 44.45088,
+      "longitudine": 26.117286,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    },
+    {
+      "id": 312,
+      "nume": "Școala Superioară de Aviație Civilă",
+      "latitudine": 44.922641,
+      "longitudine": 25.971702,
+      "cheie_osm": "amenity",
+      "valoare_osm": "college",
+      "categorie_osm": "amenity=college"
+    }
+  ],
+  "meta": {
+    "title": "Colegii din România - Descărcare gratuită",
+    "description": "Colegii din România — 312 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `amenity=college`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează. Conține 312 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Colegii din România | ListBase",
+    "seo_description": "Descarcă Colegii din România — 312 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 312 înregistrări / 7 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "id": "ro-suceava-licee",
+  "name": "Licee si colegii din judetul Suceava",
+  "title": "Licee si colegii din judetul Suceava",
+  "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Suceava (41 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "CENTRUL ȘCOLAR DE EDUCAȚIE INCLUZIVĂ SF.ANDREI GURA HUMORULUI",
+      "slug": "centrul-scolar-de-educatie-incluziva-sf-andrei-gura-humorului",
+      "judet": "SUCEAVA",
+      "judet_slug": "suceava"
+    },
+    {
+      "nume": "CENTRUL ȘCOLAR DE EDUCAȚIE INCLUZIVĂ SUCEAVA",
+      "slug": "centrul-scolar-de-educatie-incluziva-suceava",
+      "judet": "SUCEAVA",
+      "judet_slug": "suceava"
+    },
+    {
+      "nume": "COLEGIUL ALEXANDRU CEL BUN GURA HUMORULUI",
+      "slug": "colegiul-alexandru-cel-bun-gura-humorului",
+      "judet": "SUCEAVA",
+      "judet_slug": "suceava"
+    },
+    {
+      "nume": "COLEGIUL DE ARTE \"CIPRIAN PORUMBESCU\" SUCEAVA",
+      "slug": "colegiul-de-arte-ciprian-porumbescu-suceava",
+      "judet": "SUCEAVA",
+      "judet_slug": "suceava"
+    },
+    {
+      "nume": "COLEGIUL ECONOMIC \"DIMITRIE CANTEMIR\" SUCEAVA",
+      "slug": "colegiul-economic-dimitrie-cantemir-suceava",
+      "judet": "SUCEAVA",
+      "judet_slug": "suceava"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL DE INFORMATICĂ \"SPIRU HARET\" SUCEAVA",
+      "slug": "colegiul-national-de-informatica-spiru-haret-suceava",
+      "judet": "SUCEAVA",
+      "judet_slug": "suceava"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL DRAGOȘ VODĂ CÂMPULUNG MOLDOVENESC",
+      "slug": "colegiul-national-dragos-voda-campulung-moldovenesc",
+      "judet": "SUCEAVA",
+      "judet_slug": "suceava"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL EUDOXIU HURMUZACHI RĂDĂUȚI",
+      "slug": "colegiul-national-eudoxiu-hurmuzachi-radauti",
+      "judet": "SUCEAVA",
+      "judet_slug": "suceava"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL NICU GANE FĂLTICENI",
+      "slug": "colegiul-national-nicu-gane-falticeni",
+      "judet": "SUCEAVA",
+      "judet_slug": "suceava"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"MIHAI EMINESCU\" SUCEAVA",
+      "slug": "colegiul-national-mihai-eminescu-suceava",
+      "judet": "SUCEAVA",
+      "judet_slug": "suceava"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"PETRU RAREȘ\" SUCEAVA",
+      "slug": "colegiul-national-petru-rares-suceava",
+      "judet": "SUCEAVA",
+      "judet_slug": "suceava"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"ȘTEFAN CEL MARE\" SUCEAVA",
+      "slug": "colegiul-national-stefan-cel-mare-suceava",
+      "judet": "SUCEAVA",
+      "judet_slug": "suceava"
+    },
+    {
+      "nume": "COLEGIUL SILVIC \"BUCOVINA\"",
+      "slug": "colegiul-silvic-bucovina",
+      "judet": "SUCEAVA",
+      "judet_slug": "suceava"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC DE INDUSTRIE ALIMENTARĂ",
+      "slug": "colegiul-tehnic-de-industrie-alimentara",
+      "judet": "SUCEAVA",
+      "judet_slug": "suceava"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC LAȚCU VODĂ SIRET",
+      "slug": "colegiul-tehnic-latcu-voda-siret",
+      "judet": "SUCEAVA",
+      "judet_slug": "suceava"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC PETRU MUȘAT SUCEAVA",
+      "slug": "colegiul-tehnic-petru-musat-suceava",
+      "judet": "SUCEAVA",
+      "judet_slug": "suceava"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC RĂDĂUȚI",
+      "slug": "colegiul-tehnic-radauti",
+      "judet": "SUCEAVA",
+      "judet_slug": "suceava"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC SAMUIL ISOPESCU SUCEAVA",
+      "slug": "colegiul-tehnic-samuil-isopescu-suceava",
+      "judet": "SUCEAVA",
+      "judet_slug": "suceava"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"ALEXANDRU-IOAN CUZA\" SUCEAVA",
+      "slug": "colegiul-tehnic-alexandru-ioan-cuza-suceava",
+      "judet": "SUCEAVA",
+      "judet_slug": "suceava"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"MIHAI BĂCESCU\" FĂLTICENI",
+      "slug": "colegiul-tehnic-mihai-bacescu-falticeni",
+      "judet": "SUCEAVA",
+      "judet_slug": "suceava"
+    },
+    {
+      "nume": "COLEGIUL VASILE LOVINESCU FĂLTICENI",
+      "slug": "colegiul-vasile-lovinescu-falticeni",
+      "judet": "SUCEAVA",
+      "judet_slug": "suceava"
+    },
+    {
+      "nume": "COLEGIUL \"ANDRONIC MOTRESCU\" RĂDĂUȚI",
+      "slug": "colegiul-andronic-motrescu-radauti",
+      "judet": "SUCEAVA",
+      "judet_slug": "suceava"
+    },
+    {
+      "nume": "LICEUL CU PROGRAM SPORTIV SUCEAVA",
+      "slug": "liceul-cu-program-sportiv-suceava",
+      "judet": "SUCEAVA",
+      "judet_slug": "suceava"
+    },
+    {
+      "nume": "LICEUL MILITAR \"ȘTEFAN CEL MARE\" CÂMPULUNG",
+      "slug": "liceul-militar-stefan-cel-mare-campulung",
+      "judet": "SUCEAVA",
+      "judet_slug": "suceava"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC CAJVANA",
+      "slug": "liceul-tehnologic-cajvana",
+      "judet": "SUCEAVA",
+      "judet_slug": "suceava"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC DORNA CANDRENILOR",
+      "slug": "liceul-tehnologic-dorna-candrenilor",
+      "judet": "SUCEAVA",
+      "judet_slug": "suceava"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC ION NISTOR VICOVUL DE SUS",
+      "slug": "liceul-tehnologic-ion-nistor-vicovul-de-sus",
+      "judet": "SUCEAVA",
+      "judet_slug": "suceava"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC MIHAI EMINESCU DUMBRĂVENI",
+      "slug": "liceul-tehnologic-mihai-eminescu-dumbraveni",
+      "judet": "SUCEAVA",
+      "judet_slug": "suceava"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC NR. 1 CÂMPULUNG MOLDOVENESC",
+      "slug": "liceul-tehnologic-nr-1-campulung-moldovenesc",
+      "judet": "SUCEAVA",
+      "judet_slug": "suceava"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC OLTEA DOAMNA DOLHASCA",
+      "slug": "liceul-tehnologic-oltea-doamna-dolhasca",
+      "judet": "SUCEAVA",
+      "judet_slug": "suceava"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC SPECIAL BIVOLARIE",
+      "slug": "liceul-tehnologic-special-bivolarie",
+      "judet": "SUCEAVA",
+      "judet_slug": "suceava"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC TOMȘA VODĂ SOLCA",
+      "slug": "liceul-tehnologic-tomsa-voda-solca",
+      "judet": "SUCEAVA",
+      "judet_slug": "suceava"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC VASILEA DEAC VATRA DORNEI",
+      "slug": "liceul-tehnologic-vasilea-deac-vatra-dornei",
+      "judet": "SUCEAVA",
+      "judet_slug": "suceava"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"NICANOR MOROȘAN\" PÂRTEȘTII DE JOS",
+      "slug": "liceul-tehnologic-nicanor-morosan-partestii-de-jos",
+      "judet": "SUCEAVA",
+      "judet_slug": "suceava"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"NICOLAI NANU\" BROȘTENI",
+      "slug": "liceul-tehnologic-nicolai-nanu-brosteni",
+      "judet": "SUCEAVA",
+      "judet_slug": "suceava"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"VASILE COCEA\" MOLDOVIȚA",
+      "slug": "liceul-tehnologic-vasile-cocea-moldovita",
+      "judet": "SUCEAVA",
+      "judet_slug": "suceava"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"VASILE GHERASIM\" MARGINEA",
+      "slug": "liceul-tehnologic-vasile-gherasim-marginea",
+      "judet": "SUCEAVA",
+      "judet_slug": "suceava"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"VÂRNAV LITEANU\" LITENI",
+      "slug": "liceul-tehnologic-varnav-liteanu-liteni",
+      "judet": "SUCEAVA",
+      "judet_slug": "suceava"
+    },
+    {
+      "nume": "LICEUL TEORETIC FILADELFIA SUCEAVA",
+      "slug": "liceul-teoretic-filadelfia-suceava",
+      "judet": "SUCEAVA",
+      "judet_slug": "suceava"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"ION LUCA\" VATRA DORNEI",
+      "slug": "liceul-teoretic-ion-luca-vatra-dornei",
+      "judet": "SUCEAVA",
+      "judet_slug": "suceava"
+    },
+    {
+      "nume": "SEMINARUL TEOLOGIC LICEAL ORTODOX MITROPOLITUL DOSOFTIEI SUCEAVA",
+      "slug": "seminarul-teologic-liceal-ortodox-mitropolitul-dosoftiei-suceava",
+      "judet": "SUCEAVA",
+      "judet_slug": "suceava"
+    }
+  ],
+  "meta": {
+    "title": "Licee si colegii din judetul Suceava - Descărcare gratuită",
+    "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Suceava (41 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor. Conține 41 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Licee si colegii din judetul Suceava | ListBase",
+    "seo_description": "Descarcă Licee si colegii din judetul Suceava — 41 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 41 înregistrări / 4 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

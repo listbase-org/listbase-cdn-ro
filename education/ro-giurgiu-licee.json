@@ -1,0 +1,118 @@
+{
+  "id": "ro-giurgiu-licee",
+  "name": "Licee si colegii din judetul Giurgiu",
+  "title": "Licee si colegii din judetul Giurgiu",
+  "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Giurgiu (12 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "COLEGIUL NAȚIONAL \"ION MAIORESCU\" GIURGIU",
+      "slug": "colegiul-national-ion-maiorescu-giurgiu",
+      "judet": "GIURGIU",
+      "judet_slug": "giurgiu"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"VICEAMIRAL IOAN BĂLĂNESCU\" GIURGIU",
+      "slug": "colegiul-tehnic-viceamiral-ioan-balanescu-giurgiu",
+      "judet": "GIURGIU",
+      "judet_slug": "giurgiu"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC NR. 1 COMANA",
+      "slug": "liceul-tehnologic-nr-1-comana",
+      "judet": "GIURGIU",
+      "judet_slug": "giurgiu"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC NR. 1 PRUNDU",
+      "slug": "liceul-tehnologic-nr-1-prundu",
+      "judet": "GIURGIU",
+      "judet_slug": "giurgiu"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"DIMITRIE BOLINTINEANU\" BOLINTIN-VALE",
+      "slug": "liceul-tehnologic-dimitrie-bolintineanu-bolintin-vale",
+      "judet": "GIURGIU",
+      "judet_slug": "giurgiu"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"ION BARBU\" GIURGIU",
+      "slug": "liceul-tehnologic-ion-barbu-giurgiu",
+      "judet": "GIURGIU",
+      "judet_slug": "giurgiu"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"TIU DUMITRESCU\" MIHĂILEȘTI",
+      "slug": "liceul-tehnologic-tiu-dumitrescu-mihailesti",
+      "judet": "GIURGIU",
+      "judet_slug": "giurgiu"
+    },
+    {
+      "nume": "LICEUL TEOHNOLOGIC \"MIHAI VITEAZUL\" CĂLUGĂRENI",
+      "slug": "liceul-teohnologic-mihai-viteazul-calugareni",
+      "judet": "GIURGIU",
+      "judet_slug": "giurgiu"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"NICOLAE CARTOJAN\" GIURGIU",
+      "slug": "liceul-teoretic-nicolae-cartojan-giurgiu",
+      "judet": "GIURGIU",
+      "judet_slug": "giurgiu"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"TUDOR VIANU\" GIURGIU",
+      "slug": "liceul-teoretic-tudor-vianu-giurgiu",
+      "judet": "GIURGIU",
+      "judet_slug": "giurgiu"
+    },
+    {
+      "nume": "LICEUL \"UDRIȘTE NĂSTUREL\" HOTARELE",
+      "slug": "liceul-udriste-nasturel-hotarele",
+      "judet": "GIURGIU",
+      "judet_slug": "giurgiu"
+    },
+    {
+      "nume": "SEMINARUL TEOLOGIC ORTODOX TEOCTIST PATRIARHUL",
+      "slug": "seminarul-teologic-ortodox-teoctist-patriarhul",
+      "judet": "GIURGIU",
+      "judet_slug": "giurgiu"
+    }
+  ],
+  "meta": {
+    "title": "Licee si colegii din judetul Giurgiu - Descărcare gratuită",
+    "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Giurgiu (12 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor. Conține 12 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Licee si colegii din judetul Giurgiu | ListBase",
+    "seo_description": "Descarcă Licee si colegii din judetul Giurgiu — 12 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 12 înregistrări / 4 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

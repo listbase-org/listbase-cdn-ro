@@ -1,0 +1,331 @@
+{
+  "id": "ro-suceava-orase",
+  "name": "Orașele și municipiile județului Suceava",
+  "title": "Orașele și municipiile județului Suceava",
+  "description": "Lista celor 16 de orașe, municipii din județul Suceava (SV) — unități administrativ-teritoriale urbane de nivel 2 conform SIRUTA. Reședința de județ este marcată cu is_resedinta_judet=true.",
+  "category": "geography",
+  "source": "https://github.com/ionelmc/django-siruta",
+  "source_url": "https://github.com/ionelmc/django-siruta",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "siruta_code",
+      "label": "Siruta Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_official",
+      "label": "Name Official",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet_id",
+      "label": "Judet Id",
+      "type": "number"
+    },
+    {
+      "key": "judet_name",
+      "label": "Judet Name",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "tip_code",
+      "label": "Tip Code",
+      "type": "number"
+    },
+    {
+      "key": "tip_name",
+      "label": "Tip Name",
+      "type": "string"
+    },
+    {
+      "key": "is_resedinta_judet",
+      "label": "Is Resedinta Judet",
+      "type": "boolean"
+    },
+    {
+      "key": "regiune_id",
+      "label": "Regiune Id",
+      "type": "number"
+    },
+    {
+      "key": "nuts3",
+      "label": "Nuts3",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "siruta_code": 146263,
+      "name": "Suceava",
+      "name_official": "MUNICIPIUL SUCEAVA",
+      "slug": "suceava",
+      "judet_id": 33,
+      "judet_name": "Suceava",
+      "judet_slug": "suceava",
+      "iso_3166_2": "RO-SV",
+      "tip_code": 1,
+      "tip_name": "municipiu reședință de județ",
+      "is_resedinta_judet": true,
+      "regiune_id": 1,
+      "nuts3": ""
+    },
+    {
+      "siruta_code": 147358,
+      "name": "Broșteni",
+      "name_official": "ORAȘ BROȘTENI",
+      "slug": "brosteni",
+      "judet_id": 33,
+      "judet_name": "Suceava",
+      "judet_slug": "suceava",
+      "iso_3166_2": "RO-SV",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 1,
+      "nuts3": ""
+    },
+    {
+      "siruta_code": 147633,
+      "name": "Cajvana",
+      "name_official": "ORAȘ CAJVANA",
+      "slug": "cajvana",
+      "judet_id": 33,
+      "judet_name": "Suceava",
+      "judet_slug": "suceava",
+      "iso_3166_2": "RO-SV",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 1,
+      "nuts3": ""
+    },
+    {
+      "siruta_code": 146502,
+      "name": "Câmpulung Moldovenesc",
+      "name_official": "MUNICIPIUL CÂMPULUNG MOLDOVENESC",
+      "slug": "campulung-moldovenesc",
+      "judet_id": 33,
+      "judet_name": "Suceava",
+      "judet_slug": "suceava",
+      "iso_3166_2": "RO-SV",
+      "tip_code": 4,
+      "tip_name": "municipiu",
+      "is_resedinta_judet": false,
+      "regiune_id": 1,
+      "nuts3": ""
+    },
+    {
+      "siruta_code": 148006,
+      "name": "Dolhasca",
+      "name_official": "ORAȘ DOLHASCA",
+      "slug": "dolhasca",
+      "judet_id": 33,
+      "judet_name": "Suceava",
+      "judet_slug": "suceava",
+      "iso_3166_2": "RO-SV",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 1,
+      "nuts3": ""
+    },
+    {
+      "siruta_code": 148612,
+      "name": "Frasin",
+      "name_official": "ORAȘ FRASIN",
+      "slug": "frasin",
+      "judet_id": 33,
+      "judet_name": "Suceava",
+      "judet_slug": "suceava",
+      "iso_3166_2": "RO-SV",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 1,
+      "nuts3": ""
+    },
+    {
+      "siruta_code": 146539,
+      "name": "Fălticeni",
+      "name_official": "MUNICIPIUL FĂLTICENI",
+      "slug": "falticeni",
+      "judet_id": 33,
+      "judet_name": "Suceava",
+      "judet_slug": "suceava",
+      "iso_3166_2": "RO-SV",
+      "tip_code": 4,
+      "tip_name": "municipiu",
+      "is_resedinta_judet": false,
+      "regiune_id": 1,
+      "nuts3": ""
+    },
+    {
+      "siruta_code": 146584,
+      "name": "Gura Humorului",
+      "name_official": "ORAȘ GURA HUMORULUI",
+      "slug": "gura-humorului",
+      "judet_id": 33,
+      "judet_name": "Suceava",
+      "judet_slug": "suceava",
+      "iso_3166_2": "RO-SV",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 1,
+      "nuts3": ""
+    },
+    {
+      "siruta_code": 149227,
+      "name": "Liteni",
+      "name_official": "ORAȘ LITENI",
+      "slug": "liteni",
+      "judet_id": 33,
+      "judet_name": "Suceava",
+      "judet_slug": "suceava",
+      "iso_3166_2": "RO-SV",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 1,
+      "nuts3": ""
+    },
+    {
+      "siruta_code": 146931,
+      "name": "Milișăuți",
+      "name_official": "ORAȘ MILIȘĂUȚI",
+      "slug": "milisauti",
+      "judet_id": 33,
+      "judet_name": "Suceava",
+      "judet_slug": "suceava",
+      "iso_3166_2": "RO-SV",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 1,
+      "nuts3": ""
+    },
+    {
+      "siruta_code": 146628,
+      "name": "Rădăuți",
+      "name_official": "MUNICIPIUL RĂDĂUȚI",
+      "slug": "radauti",
+      "judet_id": 33,
+      "judet_name": "Suceava",
+      "judet_slug": "suceava",
+      "iso_3166_2": "RO-SV",
+      "tip_code": 4,
+      "tip_name": "municipiu",
+      "is_resedinta_judet": false,
+      "regiune_id": 1,
+      "nuts3": ""
+    },
+    {
+      "siruta_code": 146370,
+      "name": "Salcea",
+      "name_official": "ORAȘ SALCEA",
+      "slug": "salcea",
+      "judet_id": 33,
+      "judet_name": "Suceava",
+      "judet_slug": "suceava",
+      "iso_3166_2": "RO-SV",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 1,
+      "nuts3": ""
+    },
+    {
+      "siruta_code": 146655,
+      "name": "Siret",
+      "name_official": "ORAȘ SIRET",
+      "slug": "siret",
+      "judet_id": 33,
+      "judet_name": "Suceava",
+      "judet_slug": "suceava",
+      "iso_3166_2": "RO-SV",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 1,
+      "nuts3": ""
+    },
+    {
+      "siruta_code": 146708,
+      "name": "Solca",
+      "name_official": "ORAȘ SOLCA",
+      "slug": "solca",
+      "judet_id": 33,
+      "judet_name": "Suceava",
+      "judet_slug": "suceava",
+      "iso_3166_2": "RO-SV",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 1,
+      "nuts3": ""
+    },
+    {
+      "siruta_code": 146744,
+      "name": "Vatra Dornei",
+      "name_official": "MUNICIPIUL VATRA DORNEI",
+      "slug": "vatra-dornei",
+      "judet_id": 33,
+      "judet_name": "Suceava",
+      "judet_slug": "suceava",
+      "iso_3166_2": "RO-SV",
+      "tip_code": 4,
+      "tip_name": "municipiu",
+      "is_resedinta_judet": false,
+      "regiune_id": 1,
+      "nuts3": ""
+    },
+    {
+      "siruta_code": 151095,
+      "name": "Vicovu De Sus",
+      "name_official": "ORAȘ VICOVU DE SUS",
+      "slug": "vicovu-de-sus",
+      "judet_id": 33,
+      "judet_name": "Suceava",
+      "judet_slug": "suceava",
+      "iso_3166_2": "RO-SV",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 1,
+      "nuts3": "RO215"
+    }
+  ],
+  "meta": {
+    "title": "Orașele și municipiile județului Suceava - Descărcare gratuită",
+    "description": "Lista celor 16 de orașe, municipii din județul Suceava (SV) — unități administrativ-teritoriale urbane de nivel 2 conform SIRUTA. Reședința de județ este marcată cu is_resedinta_judet=true. Conține 16 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Orașele și municipiile județului Suceava | ListBase",
+    "seo_description": "Descarcă Orașele și municipiile județului Suceava — 16 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 16 înregistrări / 13 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: https://github.com/ionelmc/django-siruta"
+    ]
+  }
+}

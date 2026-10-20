@@ -1,0 +1,211 @@
+{
+  "id": "ro-canale-tv-copii",
+  "name": "Canale TV pentru copii din România (Kids TV channels)",
+  "title": "Canale TV pentru copii din România (Kids TV channels)",
+  "description": "Canalele de televiziune din România din categoria „kids” (pentru copii) — 8 canale din registrul deschis iptv-org/database. Include numele canalului, denumiri alternative, rețeaua, proprietarii, categoriile, data lansării și a închiderii, precum și site-ul oficial.",
+  "category": "entertainment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "date"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "DisneyChannel.ro",
+      "name": "Disney Channel",
+      "alt_names": "",
+      "network": "",
+      "owners": "Disney Entertainment",
+      "country": "RO",
+      "categories": "kids",
+      "is_nsfw": false,
+      "launched": "2009-09-19",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://tv.disney.ro/"
+    },
+    {
+      "id": 2,
+      "channel_id": "DisneyJunior.ro",
+      "name": "Disney Junior",
+      "alt_names": "",
+      "network": "",
+      "owners": "The Walt Disney Company",
+      "country": "RO",
+      "categories": "kids",
+      "is_nsfw": false,
+      "launched": "2012-03-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.disney.ro/disney-junior/"
+    },
+    {
+      "id": 3,
+      "channel_id": "JimJam.ro",
+      "name": "JimJam",
+      "alt_names": "",
+      "network": "",
+      "owners": "AMC Networks Inc.",
+      "country": "RO",
+      "categories": "kids",
+      "is_nsfw": false,
+      "launched": "2008-01-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://ro.jimjam.tv/"
+    },
+    {
+      "id": 4,
+      "channel_id": "NickJr.ro",
+      "name": "Nick Jr.",
+      "alt_names": "Nick Jr România",
+      "network": "Nickelodeon",
+      "owners": "",
+      "country": "RO",
+      "categories": "kids",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.nickjr.tv/"
+    },
+    {
+      "id": 5,
+      "channel_id": "Nickelodeon.ro",
+      "name": "Nickelodeon",
+      "alt_names": "Nickelodeon România",
+      "network": "Nickelodeon",
+      "owners": "Paramount Networks EMEAA",
+      "country": "RO",
+      "categories": "kids",
+      "is_nsfw": false,
+      "launched": "1998-11-15",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.nickelodeon.ro/"
+    },
+    {
+      "id": 6,
+      "channel_id": "Nicktoons.ro",
+      "name": "Nicktoons",
+      "alt_names": "Nicktoons România",
+      "network": "Nickelodeon",
+      "owners": "Paramount Global",
+      "country": "RO",
+      "categories": "kids",
+      "is_nsfw": false,
+      "launched": "2018-02-15",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.nicktoons.ro/"
+    },
+    {
+      "id": 7,
+      "channel_id": "TeenNick.ro",
+      "name": "TeenNick",
+      "alt_names": "",
+      "network": "Nickelodeon",
+      "owners": "",
+      "country": "RO",
+      "categories": "kids",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.nickelodeon.ro/"
+    },
+    {
+      "id": 8,
+      "channel_id": "TraLaLaTV.ro",
+      "name": "TraLaLa TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "RO",
+      "categories": "kids",
+      "is_nsfw": false,
+      "launched": "2021-10-20",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://tv.tralala.ro/"
+    }
+  ],
+  "meta": {
+    "title": "Canale TV pentru copii din România (Kids TV channels) - Descărcare gratuită",
+    "description": "Canalele de televiziune din România din categoria „kids” (pentru copii) — 8 canale din registrul deschis iptv-org/database. Include numele canalului, denumiri alternative, rețeaua, proprietarii, categoriile, data lansării și a închiderii, precum și site-ul oficial. Conține 8 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Canale TV pentru copii din România (Kids TV channels) | ListBase",
+    "seo_description": "Descarcă Canale TV pentru copii din România (Kids TV channels) — 8 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 8 înregistrări / 13 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

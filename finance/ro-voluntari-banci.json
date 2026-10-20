@@ -1,0 +1,72 @@
+{
+  "id": "ro-voluntari-banci",
+  "name": "Bănci în Voluntari — coduri SWIFT/BIC",
+  "title": "Bănci în Voluntari — coduri SWIFT/BIC",
+  "description": "Instituții bancare și financiare înregistrate SWIFT/BIC cu sediul în Voluntari, România (3 înregistrări). Subset al listei naționale `ro-banci` (263 înregistrări), grupat după câmpul `city` din sursă. Șirul literal din sursă este \"VOLUNTARI\" — păstrat verbatim, fără diacritice și cu majuscule, exact așa cum este livrat de sursă; nu a fost tradus, normalizat sau completat cu diacritice. Câmpuri: id, bank, city, branch, swift_code.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 217,
+      "bank": "PORSCHE BANK ROMANIA SA",
+      "city": "VOLUNTARI",
+      "branch": "",
+      "swift_code": "PORLROBU"
+    },
+    {
+      "id": 236,
+      "bank": "SAMSUNG ELECTRONICS ROMANIA SRL",
+      "city": "VOLUNTARI",
+      "branch": "",
+      "swift_code": "SECTRO21"
+    },
+    {
+      "id": 237,
+      "bank": "SAMSUNG ELECTRONICS ROMANIA SRL",
+      "city": "VOLUNTARI",
+      "branch": "",
+      "swift_code": "SECTRO214B6"
+    }
+  ],
+  "meta": {
+    "title": "Bănci în Voluntari — coduri SWIFT/BIC - Descărcare gratuită",
+    "description": "Instituții bancare și financiare înregistrate SWIFT/BIC cu sediul în Voluntari, România (3 înregistrări). Subset al listei naționale `ro-banci` (263 înregistrări), grupat după câmpul `city` din sursă. Șirul literal din sursă este \"VOLUNTARI\" — păstrat verbatim, fără diacritice și cu majuscule, exact așa cum este livrat de sursă; nu a fost tradus, normalizat sau completat cu diacritice. Câmpuri: id, bank, city, branch, swift_code. Conține 3 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Bănci în Voluntari — coduri SWIFT/BIC | ListBase",
+    "seo_description": "Descarcă Bănci în Voluntari — coduri SWIFT/BIC — 3 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 3 înregistrări / 5 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

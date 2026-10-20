@@ -1,0 +1,250 @@
+{
+  "id": "ro-buzau-licee",
+  "name": "Licee si colegii din judetul Buzău",
+  "title": "Licee si colegii din judetul Buzău",
+  "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Buzău (34 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "COLEGIUL AGRICOL \"DOCTOR CONSTANTIN ANGELESCU\"",
+      "slug": "colegiul-agricol-doctor-constantin-angelescu",
+      "judet": "BUZĂU",
+      "judet_slug": "buzau"
+    },
+    {
+      "nume": "COLEGIUL ECONOMIC BUZĂU",
+      "slug": "colegiul-economic-buzau",
+      "judet": "BUZĂU",
+      "judet_slug": "buzau"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"ALEXANDRU VLAHUȚĂ\"",
+      "slug": "colegiul-national-alexandru-vlahuta",
+      "judet": "BUZĂU",
+      "judet_slug": "buzau"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"BOGDAN PETRICEICU HASDEU\"",
+      "slug": "colegiul-national-bogdan-petriceicu-hasdeu",
+      "judet": "BUZĂU",
+      "judet_slug": "buzau"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"MIHAI EMINESCU\"",
+      "slug": "colegiul-national-mihai-eminescu",
+      "judet": "BUZĂU",
+      "judet_slug": "buzau"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC",
+      "slug": "colegiul-tehnic",
+      "judet": "BUZĂU",
+      "judet_slug": "buzau"
+    },
+    {
+      "nume": "GRUPUL ȘCOLAR AGRICOL RÂMNICU SĂRAT",
+      "slug": "grupul-scolar-agricol-ramnicu-sarat",
+      "judet": "BUZĂU",
+      "judet_slug": "buzau"
+    },
+    {
+      "nume": "GRUPUL ȘCOLAR AGRICOL SMEENI",
+      "slug": "grupul-scolar-agricol-smeeni",
+      "judet": "BUZĂU",
+      "judet_slug": "buzau"
+    },
+    {
+      "nume": "GRUPUL ȘCOLAR DE MESERII ȘI SERVICII BUZĂU",
+      "slug": "grupul-scolar-de-meserii-si-servicii-buzau",
+      "judet": "BUZĂU",
+      "judet_slug": "buzau"
+    },
+    {
+      "nume": "GRUPUL ȘCOLAR ECONOMIC RÂMNICU SĂRAT",
+      "slug": "grupul-scolar-economic-ramnicu-sarat",
+      "judet": "BUZĂU",
+      "judet_slug": "buzau"
+    },
+    {
+      "nume": "GRUPUL ȘCOLAR INDUSTRIAL DETRANSPORTURI CAI FERATE BUZĂU",
+      "slug": "grupul-scolar-industrial-detransporturi-cai-ferate-buzau",
+      "judet": "BUZĂU",
+      "judet_slug": "buzau"
+    },
+    {
+      "nume": "GRUPUL ȘCOLAR INDUSTRIAL RÂMNICU SĂRAT",
+      "slug": "grupul-scolar-industrial-ramnicu-sarat",
+      "judet": "BUZĂU",
+      "judet_slug": "buzau"
+    },
+    {
+      "nume": "GRUPUL ȘCOLAR TEHNIC NEHOIU",
+      "slug": "grupul-scolar-tehnic-nehoiu",
+      "judet": "BUZĂU",
+      "judet_slug": "buzau"
+    },
+    {
+      "nume": "GRUPUL ȘCOLAR TEHNIC \"SFÂNTUL MUCENIC SAVA\"",
+      "slug": "grupul-scolar-tehnic-sfantul-mucenic-sava",
+      "judet": "BUZĂU",
+      "judet_slug": "buzau"
+    },
+    {
+      "nume": "GRUPUL ȘCOLAR TEHNOLOGIC \"DIMITRIE FILIPESCU\"",
+      "slug": "grupul-scolar-tehnologic-dimitrie-filipescu",
+      "judet": "BUZĂU",
+      "judet_slug": "buzau"
+    },
+    {
+      "nume": "GRUPUL ȘCOLAR \"COSTIN NENIȚESCU\"",
+      "slug": "grupul-scolar-costin-nenitescu",
+      "judet": "BUZĂU",
+      "judet_slug": "buzau"
+    },
+    {
+      "nume": "LICEUL BECENI",
+      "slug": "liceul-beceni",
+      "judet": "BUZĂU",
+      "judet_slug": "buzau"
+    },
+    {
+      "nume": "LICEUL CU PROGRAM SPORTIV \"IOLANDA BALAS SOTER\"",
+      "slug": "liceul-cu-program-sportiv-iolanda-balas-soter",
+      "judet": "BUZĂU",
+      "judet_slug": "buzau"
+    },
+    {
+      "nume": "LICEUL DE ARTA \"MARGARETA STERIAN\"",
+      "slug": "liceul-de-arta-margareta-sterian",
+      "judet": "BUZĂU",
+      "judet_slug": "buzau"
+    },
+    {
+      "nume": "LICEUL PEDAGOGIC \"SPIRU HARET\"",
+      "slug": "liceul-pedagogic-spiru-haret",
+      "judet": "BUZĂU",
+      "judet_slug": "buzau"
+    },
+    {
+      "nume": "LICEUL TEORETIC POGOANELE",
+      "slug": "liceul-teoretic-pogoanele",
+      "judet": "BUZĂU",
+      "judet_slug": "buzau"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"ALEXANDRU MARGHILOMAN\"",
+      "slug": "liceul-teoretic-alexandru-marghiloman",
+      "judet": "BUZĂU",
+      "judet_slug": "buzau"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"RADU VLĂDESCU\"",
+      "slug": "liceul-teoretic-radu-vladescu",
+      "judet": "BUZĂU",
+      "judet_slug": "buzau"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"STEFAN CEL MARE\"",
+      "slug": "liceul-teoretic-stefan-cel-mare",
+      "judet": "BUZĂU",
+      "judet_slug": "buzau"
+    },
+    {
+      "nume": "SEMINARUL TEOLOGIC LICEAL ORTODOX \"CHESARIE EPISCOPUL\"",
+      "slug": "seminarul-teologic-liceal-ortodox-chesarie-episcopul",
+      "judet": "BUZĂU",
+      "judet_slug": "buzau"
+    },
+    {
+      "nume": "ȘCOALA DE ARTE ȘI MESERII BISOCA",
+      "slug": "scoala-de-arte-si-meserii-bisoca",
+      "judet": "BUZĂU",
+      "judet_slug": "buzau"
+    },
+    {
+      "nume": "ȘCOALA DE ARTE ȘI MESERII COSTEȘTI",
+      "slug": "scoala-de-arte-si-meserii-costesti",
+      "judet": "BUZĂU",
+      "judet_slug": "buzau"
+    },
+    {
+      "nume": "ȘCOALA DE ARTE ȘI MESERII LOPĂTARI",
+      "slug": "scoala-de-arte-si-meserii-lopatari",
+      "judet": "BUZĂU",
+      "judet_slug": "buzau"
+    },
+    {
+      "nume": "ȘCOALA DE ARTE ȘI MESERII POGOANELE",
+      "slug": "scoala-de-arte-si-meserii-pogoanele",
+      "judet": "BUZĂU",
+      "judet_slug": "buzau"
+    },
+    {
+      "nume": "ȘCOALA DE ARTE ȘI MESERII PĂTÂRLAGELE",
+      "slug": "scoala-de-arte-si-meserii-patarlagele",
+      "judet": "BUZĂU",
+      "judet_slug": "buzau"
+    },
+    {
+      "nume": "ȘCOALA DE ARTE ȘI MESERII RUȘEȚU",
+      "slug": "scoala-de-arte-si-meserii-rusetu",
+      "judet": "BUZĂU",
+      "judet_slug": "buzau"
+    },
+    {
+      "nume": "ȘCOALA DE ARTE ȘI MESERII RÂMNICU SĂRAT",
+      "slug": "scoala-de-arte-si-meserii-ramnicu-sarat",
+      "judet": "BUZĂU",
+      "judet_slug": "buzau"
+    },
+    {
+      "nume": "ȘCOALA DE ARTE ȘI MESERII VERNEȘTI",
+      "slug": "scoala-de-arte-si-meserii-vernesti",
+      "judet": "BUZĂU",
+      "judet_slug": "buzau"
+    },
+    {
+      "nume": "ȘCOALA POSTLICEALĂ SANITARĂ BUZĂU",
+      "slug": "scoala-postliceala-sanitara-buzau",
+      "judet": "BUZĂU",
+      "judet_slug": "buzau"
+    }
+  ],
+  "meta": {
+    "title": "Licee si colegii din judetul Buzău - Descărcare gratuită",
+    "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Buzău (34 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor. Conține 34 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Licee si colegii din judetul Buzău | ListBase",
+    "seo_description": "Descarcă Licee si colegii din judetul Buzău — 34 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 34 înregistrări / 4 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "id": "ro-ilfov-licee",
+  "name": "Licee si colegii din judetul Ilfov",
+  "title": "Licee si colegii din judetul Ilfov",
+  "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Ilfov (17 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "COLEGIUL SILVIC \"THEODOR PIETRARU\"",
+      "slug": "colegiul-silvic-theodor-pietraru",
+      "judet": "ILFOV",
+      "judet_slug": "ilfov"
+    },
+    {
+      "nume": "GRUPUL ȘCOLAR \"PAMFIL ȘEICARU\"",
+      "slug": "grupul-scolar-pamfil-seicaru",
+      "judet": "ILFOV",
+      "judet_slug": "ilfov"
+    },
+    {
+      "nume": "GRUPUL ȘCOLAR \"VINTILĂ BRĂTIANU\"",
+      "slug": "grupul-scolar-vintila-bratianu",
+      "judet": "ILFOV",
+      "judet_slug": "ilfov"
+    },
+    {
+      "nume": "LICEUL SPORTIV CLINCENI",
+      "slug": "liceul-sportiv-clinceni",
+      "judet": "ILFOV",
+      "judet_slug": "ilfov"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC DOAMNA",
+      "slug": "liceul-tehnologic-doamna",
+      "judet": "ILFOV",
+      "judet_slug": "ilfov"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"BARBU ȘTIRBEY\"",
+      "slug": "liceul-tehnologic-barbu-stirbey",
+      "judet": "ILFOV",
+      "judet_slug": "ilfov"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"CEZAR NICOLAU\"",
+      "slug": "liceul-tehnologic-cezar-nicolau",
+      "judet": "ILFOV",
+      "judet_slug": "ilfov"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"DUMITRU DUMITRESCU\"",
+      "slug": "liceul-tehnologic-dumitru-dumitrescu",
+      "judet": "ILFOV",
+      "judet_slug": "ilfov"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"NICOLAE BĂLCESCU\"",
+      "slug": "liceul-tehnologic-nicolae-balcescu",
+      "judet": "ILFOV",
+      "judet_slug": "ilfov"
+    },
+    {
+      "nume": "LICEUL TEORETIC NR. 1 PERIȘ",
+      "slug": "liceul-teoretic-nr-1-peris",
+      "judet": "ILFOV",
+      "judet_slug": "ilfov"
+    },
+    {
+      "nume": "LICEUL TEORETIC POPEȘTI-LEORDENI",
+      "slug": "liceul-teoretic-popesti-leordeni",
+      "judet": "ILFOV",
+      "judet_slug": "ilfov"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"C. A. ROSSETI\"",
+      "slug": "liceul-teoretic-c-a-rosseti",
+      "judet": "ILFOV",
+      "judet_slug": "ilfov"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"HORIA HULUBEI\"",
+      "slug": "liceul-teoretic-horia-hulubei",
+      "judet": "ILFOV",
+      "judet_slug": "ilfov"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"IOAN PETRUȘ\"",
+      "slug": "liceul-teoretic-ioan-petrus",
+      "judet": "ILFOV",
+      "judet_slug": "ilfov"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"MIHAIL KOGĂNICEANU\"",
+      "slug": "liceul-teoretic-mihail-koganiceanu",
+      "judet": "ILFOV",
+      "judet_slug": "ilfov"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"TRAIAN LALESCU\"",
+      "slug": "liceul-teoretic-traian-lalescu",
+      "judet": "ILFOV",
+      "judet_slug": "ilfov"
+    },
+    {
+      "nume": "SEMINARUL TEOLOGIC LICEAL ORTODOX \"SFÂNTA FILOFTEIA\"",
+      "slug": "seminarul-teologic-liceal-ortodox-sfanta-filofteia",
+      "judet": "ILFOV",
+      "judet_slug": "ilfov"
+    }
+  ],
+  "meta": {
+    "title": "Licee si colegii din judetul Ilfov - Descărcare gratuită",
+    "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Ilfov (17 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor. Conține 17 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Licee si colegii din judetul Ilfov | ListBase",
+    "seo_description": "Descarcă Licee si colegii din judetul Ilfov — 17 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 17 înregistrări / 4 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

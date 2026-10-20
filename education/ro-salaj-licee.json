@@ -1,0 +1,184 @@
+{
+  "id": "ro-salaj-licee",
+  "name": "Licee si colegii din judetul Sălaj",
+  "title": "Licee si colegii din judetul Sălaj",
+  "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Sălaj (23 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "COLEGIUL NAȚIONAL \"SILVANIA\"",
+      "slug": "colegiul-national-silvania",
+      "judet": "SĂLAJ",
+      "judet_slug": "salaj"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"SIMION BĂRNUȚIU\"",
+      "slug": "colegiul-national-simion-barnutiu",
+      "judet": "SĂLAJ",
+      "judet_slug": "salaj"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"ALESANDRU PAPIU ILARIAN\"",
+      "slug": "colegiul-tehnic-alesandru-papiu-ilarian",
+      "judet": "SĂLAJ",
+      "judet_slug": "salaj"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"IULIU MANIU\"",
+      "slug": "colegiul-tehnic-iuliu-maniu",
+      "judet": "SĂLAJ",
+      "judet_slug": "salaj"
+    },
+    {
+      "nume": "LICEUL DE ARTĂ \"IOAN SIMA\"",
+      "slug": "liceul-de-arta-ioan-sima",
+      "judet": "SĂLAJ",
+      "judet_slug": "salaj"
+    },
+    {
+      "nume": "LICEUL ORTODOX \"SFÂNTUL NICOLAE\"",
+      "slug": "liceul-ortodox-sfantul-nicolae",
+      "judet": "SĂLAJ",
+      "judet_slug": "salaj"
+    },
+    {
+      "nume": "LICEUL PEDAGOGIC \"GHEORGHE ȘINCAI\"",
+      "slug": "liceul-pedagogic-gheorghe-sincai",
+      "judet": "SĂLAJ",
+      "judet_slug": "salaj"
+    },
+    {
+      "nume": "LICEUL REFORMAT \"WESSELENYI\"",
+      "slug": "liceul-reformat-wesselenyi",
+      "judet": "SĂLAJ",
+      "judet_slug": "salaj"
+    },
+    {
+      "nume": "LICEUL SPORTIV \"AVRAM IANCU\"",
+      "slug": "liceul-sportiv-avram-iancu",
+      "judet": "SĂLAJ",
+      "judet_slug": "salaj"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC NR. 1 GÎLGĂU",
+      "slug": "liceul-tehnologic-nr-1-gilgau",
+      "judet": "SĂLAJ",
+      "judet_slug": "salaj"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC NR. 1 NUȘFALĂU",
+      "slug": "liceul-tehnologic-nr-1-nusfalau",
+      "judet": "SĂLAJ",
+      "judet_slug": "salaj"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC NR. 1 SURDUC",
+      "slug": "liceul-tehnologic-nr-1-surduc",
+      "judet": "SĂLAJ",
+      "judet_slug": "salaj"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC NR. 1 SÎG",
+      "slug": "liceul-tehnologic-nr-1-sig",
+      "judet": "SĂLAJ",
+      "judet_slug": "salaj"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC NR. 1 SĂRMĂȘAG",
+      "slug": "liceul-tehnologic-nr-1-sarmasag",
+      "judet": "SĂLAJ",
+      "judet_slug": "salaj"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"CSEREY-GOGA\"",
+      "slug": "liceul-tehnologic-cserey-goga",
+      "judet": "SĂLAJ",
+      "judet_slug": "salaj"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"GHEORGHE POP DE BASEȘTI\"",
+      "slug": "liceul-tehnologic-gheorghe-pop-de-basesti",
+      "judet": "SĂLAJ",
+      "judet_slug": "salaj"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"IOACHIM POP\"",
+      "slug": "liceul-tehnologic-ioachim-pop",
+      "judet": "SĂLAJ",
+      "judet_slug": "salaj"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"IOAN OSSIAN\"",
+      "slug": "liceul-tehnologic-ioan-ossian",
+      "judet": "SĂLAJ",
+      "judet_slug": "salaj"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"LIVIU REBREANU\"",
+      "slug": "liceul-tehnologic-liviu-rebreanu",
+      "judet": "SĂLAJ",
+      "judet_slug": "salaj"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"MIHAI VITEAZUL\"",
+      "slug": "liceul-tehnologic-mihai-viteazul",
+      "judet": "SĂLAJ",
+      "judet_slug": "salaj"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"OCTAVIAN GOGA\"",
+      "slug": "liceul-tehnologic-octavian-goga",
+      "judet": "SĂLAJ",
+      "judet_slug": "salaj"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"VOIEVODUL GELU\"",
+      "slug": "liceul-tehnologic-voievodul-gelu",
+      "judet": "SĂLAJ",
+      "judet_slug": "salaj"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"ION AGÂRBICEANU\"",
+      "slug": "liceul-teoretic-ion-agarbiceanu",
+      "judet": "SĂLAJ",
+      "judet_slug": "salaj"
+    }
+  ],
+  "meta": {
+    "title": "Licee si colegii din judetul Sălaj - Descărcare gratuită",
+    "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Sălaj (23 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor. Conține 23 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Licee si colegii din judetul Sălaj | ListBase",
+    "seo_description": "Descarcă Licee si colegii din judetul Sălaj — 23 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 23 înregistrări / 4 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

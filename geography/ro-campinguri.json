@@ -1,0 +1,3319 @@
+{
+  "id": "ro-campinguri",
+  "name": "Campinguri din România",
+  "title": "Campinguri din România",
+  "description": "Campinguri din România — 362 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `tourism=camp_site`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 362,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "latitudine",
+      "label": "Latitudine",
+      "type": "number"
+    },
+    {
+      "key": "longitudine",
+      "label": "Longitudine",
+      "type": "number"
+    },
+    {
+      "key": "cheie_osm",
+      "label": "Cheie Osm",
+      "type": "string"
+    },
+    {
+      "key": "valoare_osm",
+      "label": "Valoare Osm",
+      "type": "string"
+    },
+    {
+      "key": "categorie_osm",
+      "label": "Categorie Osm",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nume": "3 Ape",
+      "latitudine": 45.214992,
+      "longitudine": 22.141876,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 2,
+      "nume": "7 Izvoare",
+      "latitudine": 44.918107,
+      "longitudine": 22.440192,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 3,
+      "nume": "7 Izvoare",
+      "latitudine": 44.918568,
+      "longitudine": 22.441203,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 4,
+      "nume": "Aghireș",
+      "latitudine": 47.161883,
+      "longitudine": 23.001426,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 5,
+      "nume": "Albamont",
+      "latitudine": 46.467364,
+      "longitudine": 23.576722,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 6,
+      "nume": "Arges",
+      "latitudine": 45.095484,
+      "longitudine": 24.653873,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 7,
+      "nume": "Aviator",
+      "latitudine": 45.392895,
+      "longitudine": 25.539579,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 8,
+      "nume": "Babou Maramureș",
+      "latitudine": 47.745995,
+      "longitudine": 23.893312,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 9,
+      "nume": "Balta Cu Tei",
+      "latitudine": 45.347396,
+      "longitudine": 24.210299,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 10,
+      "nume": "Balta Roșie",
+      "latitudine": 45.491552,
+      "longitudine": 22.846325,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 11,
+      "nume": "Banca",
+      "latitudine": 45.424705,
+      "longitudine": 25.970777,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 12,
+      "nume": "Bază de odihnă",
+      "latitudine": 47.240355,
+      "longitudine": 27.762447,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 13,
+      "nume": "Beach Plase Camping",
+      "latitudine": 43.967944,
+      "longitudine": 28.644767,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 14,
+      "nume": "Black Sheep Camp",
+      "latitudine": 46.607602,
+      "longitudine": 22.91258,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 15,
+      "nume": "Borșa Tourism",
+      "latitudine": 47.647737,
+      "longitudine": 24.66898,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 16,
+      "nume": "Butucea",
+      "latitudine": 47.596827,
+      "longitudine": 25.85433,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 17,
+      "nume": "Cabana Curmătura",
+      "latitudine": 45.5498,
+      "longitudine": 25.254997,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 18,
+      "nume": "Cabana Căprioara",
+      "latitudine": 45.888201,
+      "longitudine": 22.861512,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 19,
+      "nume": "Cabana Dorina Lepsa",
+      "latitudine": 45.929989,
+      "longitudine": 26.597345,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 20,
+      "nume": "Cabana Moților",
+      "latitudine": 46.661977,
+      "longitudine": 23.10346,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 21,
+      "nume": "Cabanas",
+      "latitudine": 46.915913,
+      "longitudine": 25.350912,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 22,
+      "nume": "Camp La Bambu",
+      "latitudine": 44.544489,
+      "longitudine": 22.159172,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 23,
+      "nume": "Camp U Medvěda",
+      "latitudine": 44.54515,
+      "longitudine": 22.158041,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 24,
+      "nume": "Camp Virtus",
+      "latitudine": 46.687287,
+      "longitudine": 23.549459,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 25,
+      "nume": "Campare",
+      "latitudine": 45.456508,
+      "longitudine": 26.615659,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 26,
+      "nume": "Campare Baleia",
+      "latitudine": 45.415261,
+      "longitudine": 23.034911,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 27,
+      "nume": "Campare Bucura",
+      "latitudine": 45.358087,
+      "longitudine": 22.875553,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 28,
+      "nume": "Campare Drăcșanu",
+      "latitudine": 45.314,
+      "longitudine": 22.863971,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 29,
+      "nume": "Campare lângă Cabana Pietrele",
+      "latitudine": 45.407184,
+      "longitudine": 22.880055,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 30,
+      "nume": "Campare Piatra Lată",
+      "latitudine": 46.961938,
+      "longitudine": 25.949399,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 31,
+      "nume": "Campare Poiana Pelegii",
+      "latitudine": 45.340158,
+      "longitudine": 22.894006,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 32,
+      "nume": "Campare rulote neamenajat",
+      "latitudine": 44.014906,
+      "longitudine": 28.660672,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 33,
+      "nume": "Campare Stefan",
+      "latitudine": 47.000318,
+      "longitudine": 21.989738,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 34,
+      "nume": "Campare Zănoaga",
+      "latitudine": 45.344822,
+      "longitudine": 22.824699,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 35,
+      "nume": "Camping",
+      "latitudine": 44.070311,
+      "longitudine": 28.63434,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 36,
+      "nume": "Camping",
+      "latitudine": 45.175948,
+      "longitudine": 24.003262,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 37,
+      "nume": "Camping",
+      "latitudine": 45.213308,
+      "longitudine": 24.226675,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 38,
+      "nume": "Camping",
+      "latitudine": 45.542002,
+      "longitudine": 25.52692,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 39,
+      "nume": "Camping",
+      "latitudine": 45.562152,
+      "longitudine": 25.199479,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 40,
+      "nume": "Camping",
+      "latitudine": 46.424974,
+      "longitudine": 25.386614,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 41,
+      "nume": "camping",
+      "latitudine": 47.088,
+      "longitudine": 27.647662,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 42,
+      "nume": "Camping & Glamping Amonte",
+      "latitudine": 45.804957,
+      "longitudine": 23.620873,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 43,
+      "nume": "Camping 125",
+      "latitudine": 47.32885,
+      "longitudine": 25.118786,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 44,
+      "nume": "Camping 2 Mai",
+      "latitudine": 43.787934,
+      "longitudine": 28.580057,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 45,
+      "nume": "Camping Ananas",
+      "latitudine": 45.706454,
+      "longitudine": 24.105134,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 46,
+      "nume": "Camping Antonyo",
+      "latitudine": 47.671457,
+      "longitudine": 22.455229,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 47,
+      "nume": "Camping Aquaris",
+      "latitudine": 46.223415,
+      "longitudine": 24.79699,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 48,
+      "nume": "Camping Arakis",
+      "latitudine": 43.750592,
+      "longitudine": 28.574125,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 49,
+      "nume": "Camping Asin",
+      "latitudine": 44.641068,
+      "longitudine": 21.839305,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 50,
+      "nume": "Camping Aurel Vlaicu",
+      "latitudine": 45.914426,
+      "longitudine": 23.27952,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 51,
+      "nume": "Camping Autoturist",
+      "latitudine": 47.348034,
+      "longitudine": 25.348582,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 52,
+      "nume": "Camping Aventura",
+      "latitudine": 45.68803,
+      "longitudine": 22.86006,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 53,
+      "nume": "Camping Baleia",
+      "latitudine": 45.501741,
+      "longitudine": 23.095828,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 54,
+      "nume": "Camping Bradova - Bârsana",
+      "latitudine": 47.838165,
+      "longitudine": 24.053085,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 55,
+      "nume": "Camping București Belvedere",
+      "latitudine": 44.376569,
+      "longitudine": 25.967921,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 56,
+      "nume": "Camping Burluși",
+      "latitudine": 45.1113,
+      "longitudine": 24.520211,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 57,
+      "nume": "Camping Bya",
+      "latitudine": 44.324153,
+      "longitudine": 28.634093,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 58,
+      "nume": "Camping Băile Valea nustiucum",
+      "latitudine": 47.614833,
+      "longitudine": 24.014429,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 59,
+      "nume": "Camping Camelot",
+      "latitudine": 45.260065,
+      "longitudine": 24.322582,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 60,
+      "nume": "Camping Carmena",
+      "latitudine": 46.986534,
+      "longitudine": 21.986128,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 61,
+      "nume": "Camping Casa Alba",
+      "latitudine": 44.517413,
+      "longitudine": 26.092167,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 62,
+      "nume": "Camping Cezar",
+      "latitudine": 43.747379,
+      "longitudine": 28.569907,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 63,
+      "nume": "camping Cheile Cibului",
+      "latitudine": 46.036669,
+      "longitudine": 23.178264,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 64,
+      "nume": "Camping Cheile Trascăului",
+      "latitudine": 46.374334,
+      "longitudine": 23.58378,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 65,
+      "nume": "Camping Cheile Turzii",
+      "latitudine": 46.560337,
+      "longitudine": 23.692735,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 66,
+      "nume": "Camping cheile-turzii.com",
+      "latitudine": 46.572039,
+      "longitudine": 23.667179,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 67,
+      "nume": "Camping Colibita",
+      "latitudine": 47.165978,
+      "longitudine": 24.900948,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 68,
+      "nume": "Camping Countryside Retezat",
+      "latitudine": 45.482074,
+      "longitudine": 22.920474,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 69,
+      "nume": "Camping Curtea Larga",
+      "latitudine": 46.13936,
+      "longitudine": 24.789331,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 70,
+      "nume": "Camping Dacii Liberi",
+      "latitudine": 47.83005,
+      "longitudine": 24.216707,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 71,
+      "nume": "Camping Dan Pescarul",
+      "latitudine": 45.040408,
+      "longitudine": 29.156304,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 72,
+      "nume": "Camping Danubius",
+      "latitudine": 45.190614,
+      "longitudine": 28.803006,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 73,
+      "nume": "Camping De oude walnoot - Turda",
+      "latitudine": 46.542563,
+      "longitudine": 23.765651,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 74,
+      "nume": "Camping Delta",
+      "latitudine": 45.037707,
+      "longitudine": 29.166441,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 75,
+      "nume": "Camping Deni",
+      "latitudine": 46.309294,
+      "longitudine": 23.740669,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 76,
+      "nume": "Camping donaris",
+      "latitudine": 45.215109,
+      "longitudine": 27.923236,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 77,
+      "nume": "Camping Doua Lumi (Blăjel)",
+      "latitudine": 46.209842,
+      "longitudine": 24.32497,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 78,
+      "nume": "Camping Dracula",
+      "latitudine": 45.349986,
+      "longitudine": 24.633083,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 79,
+      "nume": "Camping Dragomirna Suceava",
+      "latitudine": 47.756491,
+      "longitudine": 26.2255,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 80,
+      "nume": "Camping Ena",
+      "latitudine": 44.310497,
+      "longitudine": 28.626722,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 81,
+      "nume": "Camping Eti",
+      "latitudine": 46.978029,
+      "longitudine": 25.568846,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 82,
+      "nume": "Camping Fain",
+      "latitudine": 46.935134,
+      "longitudine": 25.083195,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 83,
+      "nume": "Camping Green Place",
+      "latitudine": 47.77911,
+      "longitudine": 23.931167,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 84,
+      "nume": "Camping Gyopár",
+      "latitudine": 46.471219,
+      "longitudine": 23.582627,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 85,
+      "nume": "Camping Hacienda",
+      "latitudine": 43.790622,
+      "longitudine": 28.57757,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 86,
+      "nume": "Camping Hercules",
+      "latitudine": 44.869175,
+      "longitudine": 22.388447,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 87,
+      "nume": "Camping Holiday GPM Mamaia Nord",
+      "latitudine": 44.274378,
+      "longitudine": 28.619074,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 88,
+      "nume": "Camping Honigberg",
+      "latitudine": 45.714486,
+      "longitudine": 25.684001,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 89,
+      "nume": "Camping Hóvirág",
+      "latitudine": 46.977698,
+      "longitudine": 25.569647,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 90,
+      "nume": "camping IC Ponor-Padiș",
+      "latitudine": 46.638207,
+      "longitudine": 22.820014,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 91,
+      "nume": "Camping Internațional",
+      "latitudine": 45.770155,
+      "longitudine": 21.266038,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 92,
+      "nume": "Camping Irimescu",
+      "latitudine": 46.977072,
+      "longitudine": 25.571777,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 93,
+      "nume": "Camping KRAUS",
+      "latitudine": 43.958965,
+      "longitudine": 28.637912,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 94,
+      "nume": "Camping La Andrei",
+      "latitudine": 46.998459,
+      "longitudine": 25.917413,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 95,
+      "nume": "Camping La Cetate",
+      "latitudine": 45.889268,
+      "longitudine": 22.892575,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 96,
+      "nume": "Camping la Danut",
+      "latitudine": 46.456668,
+      "longitudine": 22.807107,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 97,
+      "nume": "Camping La Doi Sturioni",
+      "latitudine": 45.036284,
+      "longitudine": 29.166397,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 98,
+      "nume": "Camping La Gigi",
+      "latitudine": 45.572354,
+      "longitudine": 25.452004,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 99,
+      "nume": "Camping La Gradina",
+      "latitudine": 46.435862,
+      "longitudine": 26.392939,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 100,
+      "nume": "Camping La Hangar",
+      "latitudine": 45.347131,
+      "longitudine": 26.710118,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 101,
+      "nume": "Camping La Mal Pirivoli",
+      "latitudine": 44.316158,
+      "longitudine": 28.63101,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 102,
+      "nume": "Camping La Mariana",
+      "latitudine": 43.751204,
+      "longitudine": 28.571061,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 103,
+      "nume": "Camping Lac Murighiol",
+      "latitudine": 45.041312,
+      "longitudine": 29.156579,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 104,
+      "nume": "Camping Lacu Roșu",
+      "latitudine": 46.779554,
+      "longitudine": 25.752735,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 105,
+      "nume": "Camping Lotrioara",
+      "latitudine": 45.564714,
+      "longitudine": 24.237884,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 106,
+      "nume": "Camping Lotus Tăşnad",
+      "latitudine": 47.472077,
+      "longitudine": 22.562849,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 107,
+      "nume": "Camping Mala în Clisura Dunării",
+      "latitudine": 44.686365,
+      "longitudine": 22.3452,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 108,
+      "nume": "Camping MHT",
+      "latitudine": 43.829388,
+      "longitudine": 28.583917,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 109,
+      "nume": "Camping Mădălina Cinciș",
+      "latitudine": 45.685467,
+      "longitudine": 22.871599,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 110,
+      "nume": "Camping Mărtești",
+      "latitudine": 46.358662,
+      "longitudine": 22.863336,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 111,
+      "nume": "Camping Noroc",
+      "latitudine": 47.583825,
+      "longitudine": 23.566033,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 112,
+      "nume": "Camping Oliver",
+      "latitudine": 45.570968,
+      "longitudine": 25.989751,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 113,
+      "nume": "Camping Otilia",
+      "latitudine": 44.048354,
+      "longitudine": 28.602267,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 114,
+      "nume": "Camping Pensiunea Cheile Rasnoavei",
+      "latitudine": 45.546951,
+      "longitudine": 25.508555,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 115,
+      "nume": "Camping Perla Lacului",
+      "latitudine": 46.597526,
+      "longitudine": 25.078005,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 116,
+      "nume": "Camping Petru Vodă",
+      "latitudine": 47.170199,
+      "longitudine": 26.013276,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 117,
+      "nume": "Camping Pietrosu Rodnei",
+      "latitudine": 47.633853,
+      "longitudine": 24.662145,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 118,
+      "nume": "Camping Podul Cetății",
+      "latitudine": 45.826427,
+      "longitudine": 23.605883,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 119,
+      "nume": "Camping Pruni",
+      "latitudine": 45.694239,
+      "longitudine": 22.871364,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 120,
+      "nume": "Camping Rascalla",
+      "latitudine": 43.751205,
+      "longitudine": 28.574082,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 121,
+      "nume": "Camping Rast",
+      "latitudine": 43.858854,
+      "longitudine": 23.275959,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 122,
+      "nume": "Camping Rebis",
+      "latitudine": 45.216299,
+      "longitudine": 27.917438,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 123,
+      "nume": "Camping Robinson Country Club",
+      "latitudine": 47.068376,
+      "longitudine": 21.940385,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 124,
+      "nume": "Camping Route Roemenie",
+      "latitudine": 46.133454,
+      "longitudine": 21.59879,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 125,
+      "nume": "Camping S",
+      "latitudine": 44.284522,
+      "longitudine": 28.620347,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 126,
+      "nume": "Camping Salcia",
+      "latitudine": 45.043833,
+      "longitudine": 29.155058,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 127,
+      "nume": "Camping Sargetia-Costesti",
+      "latitudine": 45.674348,
+      "longitudine": 23.167115,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 128,
+      "nume": "Camping Scorila",
+      "latitudine": 45.400254,
+      "longitudine": 22.537125,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 129,
+      "nume": "Camping Silvia",
+      "latitudine": 45.255673,
+      "longitudine": 22.293997,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 130,
+      "nume": "Camping Slănic-Moldova",
+      "latitudine": 46.188772,
+      "longitudine": 26.416528,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 131,
+      "nume": "Camping Sophia",
+      "latitudine": 43.753698,
+      "longitudine": 28.567089,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 132,
+      "nume": "Camping Stefanos Maramureș",
+      "latitudine": 47.776959,
+      "longitudine": 23.884556,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 133,
+      "nume": "Camping stichting Timulazu",
+      "latitudine": 46.485343,
+      "longitudine": 24.378394,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 134,
+      "nume": "Camping Strand Termal",
+      "latitudine": 47.671447,
+      "longitudine": 22.457481,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 135,
+      "nume": "Camping Stâna de Vale",
+      "latitudine": 46.60846,
+      "longitudine": 25.100567,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 136,
+      "nume": "Camping Tanti Elena",
+      "latitudine": 43.752183,
+      "longitudine": 28.573258,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 137,
+      "nume": "Camping Transylvanian",
+      "latitudine": 46.216694,
+      "longitudine": 24.663415,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 138,
+      "nume": "Camping Tranzit Deva",
+      "latitudine": 45.856415,
+      "longitudine": 22.955438,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 139,
+      "nume": "Camping Trotuș Valley",
+      "latitudine": 46.401011,
+      "longitudine": 26.481592,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 140,
+      "nume": "Camping Tulcea -",
+      "latitudine": 45.187988,
+      "longitudine": 28.814456,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 141,
+      "nume": "Camping Turul",
+      "latitudine": 46.73395,
+      "longitudine": 22.345475,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 142,
+      "nume": "Camping Tătăuș",
+      "latitudine": 45.694048,
+      "longitudine": 22.856275,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 143,
+      "nume": "Camping Univers",
+      "latitudine": 46.143609,
+      "longitudine": 25.854971,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 144,
+      "nume": "Camping Valea Iarului",
+      "latitudine": 45.261718,
+      "longitudine": 22.864454,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 145,
+      "nume": "Camping Valea Iarului",
+      "latitudine": 45.261767,
+      "longitudine": 22.86663,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 146,
+      "nume": "Camping Valea Zânelor",
+      "latitudine": 45.841646,
+      "longitudine": 26.215632,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 147,
+      "nume": "Camping Varalja",
+      "latitudine": 46.729309,
+      "longitudine": 25.644509,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 148,
+      "nume": "Camping Veverița Buziaș",
+      "latitudine": 45.646715,
+      "longitudine": 21.595515,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 149,
+      "nume": "Camping Vladimir",
+      "latitudine": 47.495824,
+      "longitudine": 25.258837,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 150,
+      "nume": "Camping Zamolxe",
+      "latitudine": 45.513461,
+      "longitudine": 22.772336,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 151,
+      "nume": "Camping Zori",
+      "latitudine": 46.148473,
+      "longitudine": 24.995725,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 152,
+      "nume": "Camping Zwaluwnest",
+      "latitudine": 47.119337,
+      "longitudine": 23.967611,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 153,
+      "nume": "Camping Zănoaga",
+      "latitudine": 45.331546,
+      "longitudine": 25.427915,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 154,
+      "nume": "Camping Ștrand Tășnad",
+      "latitudine": 47.471692,
+      "longitudine": 22.566289,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 155,
+      "nume": "Campinng Căprioara",
+      "latitudine": 47.635947,
+      "longitudine": 25.908081,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 156,
+      "nume": "Campo Euro Club",
+      "latitudine": 45.19265,
+      "longitudine": 28.95373,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 157,
+      "nume": "Canasta Camping",
+      "latitudine": 43.93693,
+      "longitudine": 28.630411,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 158,
+      "nume": "Capra",
+      "latitudine": 45.599984,
+      "longitudine": 24.628594,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 159,
+      "nume": "Carul cu stele",
+      "latitudine": 45.807533,
+      "longitudine": 22.328102,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 160,
+      "nume": "Casa de Piatră",
+      "latitudine": 46.532853,
+      "longitudine": 22.781929,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 161,
+      "nume": "Casa Dușe",
+      "latitudine": 45.731879,
+      "longitudine": 24.582905,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 162,
+      "nume": "Casa Ferch",
+      "latitudine": 45.395357,
+      "longitudine": 21.223511,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 163,
+      "nume": "Casa julia",
+      "latitudine": 45.873028,
+      "longitudine": 24.06369,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 164,
+      "nume": "Cazanele Dunarii",
+      "latitudine": 44.686334,
+      "longitudine": 22.369269,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 165,
+      "nume": "Cazare Camping Mostiștea",
+      "latitudine": 44.227642,
+      "longitudine": 26.933608,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 166,
+      "nume": "Cazare Turnu",
+      "latitudine": 45.280177,
+      "longitudine": 24.310146,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 167,
+      "nume": "Centrul Cercetășesc Nocrich H.C. Habermann",
+      "latitudine": 45.896231,
+      "longitudine": 24.453441,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 168,
+      "nume": "Centrul Tinerilor Naturaliști din Leova",
+      "latitudine": 46.472341,
+      "longitudine": 28.246747,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 169,
+      "nume": "Colibița",
+      "latitudine": 47.163651,
+      "longitudine": 24.882919,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 170,
+      "nume": "Colina",
+      "latitudine": 46.746797,
+      "longitudine": 23.537744,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 171,
+      "nume": "Complex Touristic Eden",
+      "latitudine": 44.688917,
+      "longitudine": 29.004775,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 172,
+      "nume": "Complex Turistic Meledic",
+      "latitudine": 45.497058,
+      "longitudine": 26.620605,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 173,
+      "nume": "Conacul Ursului",
+      "latitudine": 45.569684,
+      "longitudine": 24.611259,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 174,
+      "nume": "Corabia",
+      "latitudine": 45.602283,
+      "longitudine": 24.710248,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 175,
+      "nume": "Cormoran",
+      "latitudine": 45.071936,
+      "longitudine": 29.227871,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 176,
+      "nume": "Cosmos",
+      "latitudine": 44.024533,
+      "longitudine": 28.653294,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 177,
+      "nume": "Curmătura Brătilei",
+      "latitudine": 45.582676,
+      "longitudine": 24.936424,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 178,
+      "nume": "Curmătura Tihu",
+      "latitudine": 47.119609,
+      "longitudine": 25.109887,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 179,
+      "nume": "Curmătura Zărnei",
+      "latitudine": 45.593472,
+      "longitudine": 24.879098,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 180,
+      "nume": "Cârțișoara",
+      "latitudine": 45.696635,
+      "longitudine": 24.571938,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 181,
+      "nume": "Căbănuțe Daniela",
+      "latitudine": 46.945292,
+      "longitudine": 22.539663,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 182,
+      "nume": "Călțun",
+      "latitudine": 45.581558,
+      "longitudine": 24.573911,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 183,
+      "nume": "Căsuțe",
+      "latitudine": 45.932995,
+      "longitudine": 23.161905,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 184,
+      "nume": "Căsuțele de la Groși",
+      "latitudine": 45.91418,
+      "longitudine": 22.286868,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 185,
+      "nume": "De Inchiriat",
+      "latitudine": 45.276021,
+      "longitudine": 25.727035,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 186,
+      "nume": "De oude Wilg",
+      "latitudine": 45.783984,
+      "longitudine": 24.566754,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 187,
+      "nume": "de Vuurplaats",
+      "latitudine": 47.535714,
+      "longitudine": 25.415865,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 188,
+      "nume": "DM",
+      "latitudine": 44.313163,
+      "longitudine": 28.631536,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 189,
+      "nume": "DREN CAMPING",
+      "latitudine": 46.185491,
+      "longitudine": 26.415559,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 190,
+      "nume": "Drencona Inn",
+      "latitudine": 44.637456,
+      "longitudine": 21.966936,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 191,
+      "nume": "Edelweiss glamping and camping",
+      "latitudine": 43.742544,
+      "longitudine": 25.240864,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 192,
+      "nume": "EKE Vándortábor",
+      "latitudine": 46.529553,
+      "longitudine": 25.962926,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 193,
+      "nume": "ENPI Dorobanț - CS ENPI Baza Sportivă",
+      "latitudine": 47.230663,
+      "longitudine": 27.588008,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 194,
+      "nume": "Eurovelo 6 Camping Rasova",
+      "latitudine": 44.24888,
+      "longitudine": 27.945065,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 195,
+      "nume": "Fereastra Mică",
+      "latitudine": 45.605383,
+      "longitudine": 24.787482,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 196,
+      "nume": "Ferma Vietii",
+      "latitudine": 45.269828,
+      "longitudine": 26.012805,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 197,
+      "nume": "Filigorie Hinchiris",
+      "latitudine": 46.583435,
+      "longitudine": 22.35778,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 198,
+      "nume": "Forest Glamping",
+      "latitudine": 45.615223,
+      "longitudine": 25.383874,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 199,
+      "nume": "Free camp site near Vatra Dornei",
+      "latitudine": 47.351647,
+      "longitudine": 25.350098,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 200,
+      "nume": "free campsite",
+      "latitudine": 45.353406,
+      "longitudine": 25.42095,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 201,
+      "nume": "Fântânița Crăiesei",
+      "latitudine": 45.827932,
+      "longitudine": 24.947683,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 202,
+      "nume": "Glamping",
+      "latitudine": 45.001155,
+      "longitudine": 22.484541,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 203,
+      "nume": "Glamping & Camping Orange Valley",
+      "latitudine": 45.080627,
+      "longitudine": 26.392301,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 204,
+      "nume": "Glamping Brâncoveanu",
+      "latitudine": 45.16664,
+      "longitudine": 24.058395,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 205,
+      "nume": "Goa Canabis",
+      "latitudine": 43.750248,
+      "longitudine": 28.574193,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 206,
+      "nume": "Grand Corona",
+      "latitudine": 44.070436,
+      "longitudine": 28.635054,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 207,
+      "nume": "Green camp",
+      "latitudine": 45.524845,
+      "longitudine": 26.454009,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 208,
+      "nume": "Green Dolphin Camping (Delfinul)",
+      "latitudine": 44.892766,
+      "longitudine": 29.604304,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 209,
+      "nume": "Gura Oticu",
+      "latitudine": 45.45491,
+      "longitudine": 24.63198,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 210,
+      "nume": "Hanul Piraților",
+      "latitudine": 44.28789,
+      "longitudine": 28.618207,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 211,
+      "nume": "Horizon",
+      "latitudine": 44.787057,
+      "longitudine": 21.380409,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 212,
+      "nume": "Hotelul de Bumbac",
+      "latitudine": 47.768521,
+      "longitudine": 23.919221,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 213,
+      "nume": "Huluzu",
+      "latitudine": 45.363357,
+      "longitudine": 23.84816,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 214,
+      "nume": "Izvoru Muntelui",
+      "latitudine": 46.954269,
+      "longitudine": 25.987531,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 215,
+      "nume": "Kamp Bela Crkva",
+      "latitudine": 44.892748,
+      "longitudine": 21.405303,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 216,
+      "nume": "Kemp - Terasa u Hánů",
+      "latitudine": 44.676961,
+      "longitudine": 21.712705,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 217,
+      "nume": "Kemping",
+      "latitudine": 44.996281,
+      "longitudine": 22.526991,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 218,
+      "nume": "Kentaur Centru de Recreere",
+      "latitudine": 47.863752,
+      "longitudine": 22.794142,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 219,
+      "nume": "KOA lac sporturi nautice camping",
+      "latitudine": 45.721308,
+      "longitudine": 25.671701,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 220,
+      "nume": "La 3 Stejari",
+      "latitudine": 45.247414,
+      "longitudine": 24.377676,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 221,
+      "nume": "La Bubu în Transilvania",
+      "latitudine": 46.161183,
+      "longitudine": 24.662235,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 222,
+      "nume": "La Busuri",
+      "latitudine": 46.842726,
+      "longitudine": 22.386282,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 223,
+      "nume": "La curtea",
+      "latitudine": 46.09756,
+      "longitudine": 24.47983,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 224,
+      "nume": "La Căsuțe",
+      "latitudine": 43.750934,
+      "longitudine": 28.575642,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 225,
+      "nume": "La Doichița -",
+      "latitudine": 46.978445,
+      "longitudine": 26.108612,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 226,
+      "nume": "La Jgheaburi",
+      "latitudine": 47.585784,
+      "longitudine": 24.474958,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 227,
+      "nume": "La Jupânu' si jupâneasa",
+      "latitudine": 45.699336,
+      "longitudine": 24.570822,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 228,
+      "nume": "La Rulote",
+      "latitudine": 43.75584,
+      "longitudine": 28.572878,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 229,
+      "nume": "Lacul Avrig",
+      "latitudine": 45.579209,
+      "longitudine": 24.481561,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 230,
+      "nume": "Lacul Podragu",
+      "latitudine": 45.610216,
+      "longitudine": 24.689561,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 231,
+      "nume": "Lacul Scărișoara",
+      "latitudine": 45.257772,
+      "longitudine": 22.7176,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 232,
+      "nume": "Laguna Albastră (Camping)",
+      "latitudine": 45.830607,
+      "longitudine": 24.994387,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 233,
+      "nume": "LaRulote",
+      "latitudine": 46.950877,
+      "longitudine": 22.526164,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 234,
+      "nume": "Leon",
+      "latitudine": 47.003089,
+      "longitudine": 25.910899,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 235,
+      "nume": "Loc campare PADIȘ",
+      "latitudine": 46.594641,
+      "longitudine": 22.732214,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 236,
+      "nume": "loc de 2 corturi",
+      "latitudine": 45.369743,
+      "longitudine": 23.792862,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 237,
+      "nume": "loc de 6 corturi",
+      "latitudine": 45.289044,
+      "longitudine": 25.332983,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 238,
+      "nume": "Loc de campare",
+      "latitudine": 46.023205,
+      "longitudine": 25.462391,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 239,
+      "nume": "Loc de campare",
+      "latitudine": 46.457188,
+      "longitudine": 22.798999,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 240,
+      "nume": "Loc de campare",
+      "latitudine": 47.030947,
+      "longitudine": 24.912463,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 241,
+      "nume": "Loc de Campare din Lacul Gilău",
+      "latitudine": 46.745912,
+      "longitudine": 23.36403,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 242,
+      "nume": "Loc de cort",
+      "latitudine": 44.129329,
+      "longitudine": 27.478666,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 243,
+      "nume": "Loc de cort",
+      "latitudine": 44.918102,
+      "longitudine": 25.630616,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 244,
+      "nume": "Loc de cort",
+      "latitudine": 46.035284,
+      "longitudine": 25.490649,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 245,
+      "nume": "Loc temporar campare",
+      "latitudine": 45.633603,
+      "longitudine": 22.559597,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 246,
+      "nume": "Lotus Mellow",
+      "latitudine": 45.755705,
+      "longitudine": 21.953586,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 247,
+      "nume": "Malul Mării",
+      "latitudine": 44.36491,
+      "longitudine": 28.701162,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 248,
+      "nume": "Marina Park Camping",
+      "latitudine": 43.755041,
+      "longitudine": 28.56927,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 249,
+      "nume": "Mc stramba",
+      "latitudine": 45.724707,
+      "longitudine": 25.223432,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 250,
+      "nume": "MC Stramba Camping & BBQ",
+      "latitudine": 45.724189,
+      "longitudine": 25.22267,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 251,
+      "nume": "Medina Camping",
+      "latitudine": 46.682828,
+      "longitudine": 25.407545,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 252,
+      "nume": "Meduza",
+      "latitudine": 44.072865,
+      "longitudine": 28.635248,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 253,
+      "nume": "Mini Camping Andra",
+      "latitudine": 45.040109,
+      "longitudine": 29.157064,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 254,
+      "nume": "Misha & Bogdan",
+      "latitudine": 43.747273,
+      "longitudine": 28.569791,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 255,
+      "nume": "Moara de Vânt",
+      "latitudine": 46.671396,
+      "longitudine": 23.556793,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 256,
+      "nume": "Moș Martin",
+      "latitudine": 45.454317,
+      "longitudine": 25.93639,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 257,
+      "nume": "MY Kemp",
+      "latitudine": 44.660494,
+      "longitudine": 22.105934,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 258,
+      "nume": "místo pro stan",
+      "latitudine": 45.04579,
+      "longitudine": 29.524014,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 259,
+      "nume": "Nemeth Resort",
+      "latitudine": 46.608487,
+      "longitudine": 25.077473,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 260,
+      "nume": "Neptun",
+      "latitudine": 43.862177,
+      "longitudine": 28.599538,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 261,
+      "nume": "Nice flat spot for wild camping",
+      "latitudine": 45.658782,
+      "longitudine": 23.621781,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 262,
+      "nume": "Nomad Camp",
+      "latitudine": 46.668571,
+      "longitudine": 25.008155,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 263,
+      "nume": "Official campground in Pasul Rotunda",
+      "latitudine": 47.543214,
+      "longitudine": 25.007583,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 264,
+      "nume": "Oneus Camping",
+      "latitudine": 43.986823,
+      "longitudine": 28.641099,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 265,
+      "nume": "Oz",
+      "latitudine": 43.755023,
+      "longitudine": 28.573256,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 266,
+      "nume": "Padurea Mitreni",
+      "latitudine": 44.162505,
+      "longitudine": 26.615246,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 267,
+      "nume": "Palatul Brukenthal",
+      "latitudine": 45.731506,
+      "longitudine": 24.377898,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 268,
+      "nume": "Panorama",
+      "latitudine": 45.405293,
+      "longitudine": 25.188497,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 269,
+      "nume": "Parcul Tineretului",
+      "latitudine": 44.845233,
+      "longitudine": 24.883112,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 270,
+      "nume": "Pelikan",
+      "latitudine": 45.038057,
+      "longitudine": 29.180825,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 271,
+      "nume": "Pension Camping Detonata",
+      "latitudine": 46.257613,
+      "longitudine": 23.093266,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 272,
+      "nume": "Pensiunea & camping Cristiana",
+      "latitudine": 47.603024,
+      "longitudine": 25.852453,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 273,
+      "nume": "Pensiunea Cascada Crișului",
+      "latitudine": 46.977149,
+      "longitudine": 22.507304,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 274,
+      "nume": "Pensiunea Vital",
+      "latitudine": 45.413175,
+      "longitudine": 29.282602,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 275,
+      "nume": "Perla Vlahitei",
+      "latitudine": 46.336847,
+      "longitudine": 25.547322,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 276,
+      "nume": "Pescuit la buni",
+      "latitudine": 45.797094,
+      "longitudine": 24.684591,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 277,
+      "nume": "PICNIC",
+      "latitudine": 46.275062,
+      "longitudine": 23.195002,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 278,
+      "nume": "Platou Brâul de Aur Bărbătești",
+      "latitudine": 45.191951,
+      "longitudine": 24.114996,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 279,
+      "nume": "Platou Camping",
+      "latitudine": 46.939569,
+      "longitudine": 22.54528,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 280,
+      "nume": "Poarta Oilor",
+      "latitudine": 45.866351,
+      "longitudine": 23.728618,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 281,
+      "nume": "Poiana Ciunta",
+      "latitudine": 46.952179,
+      "longitudine": 22.519871,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 282,
+      "nume": "Poiana Runcu",
+      "latitudine": 46.512239,
+      "longitudine": 26.491746,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 283,
+      "nume": "Poiana Vărbilău",
+      "latitudine": 45.148368,
+      "longitudine": 25.980989,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 284,
+      "nume": "Poieni",
+      "latitudine": 47.947817,
+      "longitudine": 23.698426,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 285,
+      "nume": "Popas Zodiac",
+      "latitudine": 43.859253,
+      "longitudine": 28.598946,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 286,
+      "nume": "Popasul Cârnic",
+      "latitudine": 45.434461,
+      "longitudine": 22.893493,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 287,
+      "nume": "Popasul Turistic Lovasfogadó",
+      "latitudine": 46.592295,
+      "longitudine": 24.81774,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 288,
+      "nume": "Relax Camping",
+      "latitudine": 47.056466,
+      "longitudine": 25.938144,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 289,
+      "nume": "Rulotistii Muntelui",
+      "latitudine": 45.033904,
+      "longitudine": 29.1709,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 290,
+      "nume": "Râul Șes",
+      "latitudine": 45.221989,
+      "longitudine": 22.639044,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 291,
+      "nume": "SC offRoadventure srl",
+      "latitudine": 47.672627,
+      "longitudine": 24.641865,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 292,
+      "nume": "Sibiel Camper",
+      "latitudine": 45.764901,
+      "longitudine": 23.913755,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 293,
+      "nume": "Sibiu City Camping",
+      "latitudine": 45.789072,
+      "longitudine": 24.108068,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 294,
+      "nume": "Siret",
+      "latitudine": 46.323695,
+      "longitudine": 27.04943,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 295,
+      "nume": "St. Mokranjac",
+      "latitudine": 44.324739,
+      "longitudine": 22.536392,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 296,
+      "nume": "Strand . strada Schitul",
+      "latitudine": 46.927782,
+      "longitudine": 26.350943,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 297,
+      "nume": "Stâna de Râu",
+      "latitudine": 45.370383,
+      "longitudine": 22.939695,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 298,
+      "nume": "stână",
+      "latitudine": 45.407188,
+      "longitudine": 23.825541,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 299,
+      "nume": "Sólyomkővári Baptista Tábor",
+      "latitudine": 47.104736,
+      "longitudine": 22.519034,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 300,
+      "nume": "Sólyomkővári Baptista Tábor",
+      "latitudine": 47.123473,
+      "longitudine": 22.52441,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 301,
+      "nume": "Sălișteanca",
+      "latitudine": 45.794393,
+      "longitudine": 23.890576,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 302,
+      "nume": "Tabara ABC",
+      "latitudine": 46.590173,
+      "longitudine": 22.584965,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 303,
+      "nume": "Tabara Cerbul",
+      "latitudine": 45.280027,
+      "longitudine": 25.401638,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 304,
+      "nume": "Tabara Cristia",
+      "latitudine": 47.158343,
+      "longitudine": 22.427332,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 305,
+      "nume": "Tabara Muncelu de Sus",
+      "latitudine": 47.133626,
+      "longitudine": 26.746388,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 306,
+      "nume": "Tabăra Baptistă",
+      "latitudine": 45.667691,
+      "longitudine": 22.697156,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 307,
+      "nume": "Tabăra Camp-Cristia Voroneț",
+      "latitudine": 47.492368,
+      "longitudine": 25.883158,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 308,
+      "nume": "Tabăra Căprioara",
+      "latitudine": 45.254091,
+      "longitudine": 25.413592,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 309,
+      "nume": "Tabăra Nemțișor",
+      "latitudine": 47.277636,
+      "longitudine": 26.191785,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 310,
+      "nume": "Tabăra Tineret",
+      "latitudine": 44.393089,
+      "longitudine": 28.643643,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 311,
+      "nume": "Tabăra Trepteni",
+      "latitudine": 44.870341,
+      "longitudine": 24.378536,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 312,
+      "nume": "Tabăra Turist",
+      "latitudine": 44.264276,
+      "longitudine": 28.618961,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 313,
+      "nume": "Tabăra Școlară de la Lăpușna",
+      "latitudine": 46.768869,
+      "longitudine": 25.228057,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 314,
+      "nume": "Tabăra Școlară Poieni Strâmbu",
+      "latitudine": 45.77263,
+      "longitudine": 22.451225,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 315,
+      "nume": "Tabără AZȘ",
+      "latitudine": 46.757086,
+      "longitudine": 25.058485,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 316,
+      "nume": "Teepee",
+      "latitudine": 44.366536,
+      "longitudine": 28.701367,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 317,
+      "nume": "Teleconstruc",
+      "latitudine": 47.145675,
+      "longitudine": 27.599441,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 318,
+      "nume": "Teren camping",
+      "latitudine": 46.688522,
+      "longitudine": 25.780548,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 319,
+      "nume": "Teren de Camping",
+      "latitudine": 45.208629,
+      "longitudine": 24.248331,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 320,
+      "nume": "Tina Neagră",
+      "latitudine": 45.247352,
+      "longitudine": 26.681418,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 321,
+      "nume": "Traffic Camping",
+      "latitudine": 44.996895,
+      "longitudine": 24.617362,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 322,
+      "nume": "Transilvania camping",
+      "latitudine": 47.164368,
+      "longitudine": 23.843446,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 323,
+      "nume": "Transylvania Velo Camp",
+      "latitudine": 46.114519,
+      "longitudine": 23.486475,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 324,
+      "nume": "traseu offroad",
+      "latitudine": 45.312669,
+      "longitudine": 22.354778,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 325,
+      "nume": "Trei Ape",
+      "latitudine": 45.22529,
+      "longitudine": 22.145078,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 326,
+      "nume": "Trei Stejari",
+      "latitudine": 45.140442,
+      "longitudine": 23.980247,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 327,
+      "nume": "Tusnad Glamping",
+      "latitudine": 46.157369,
+      "longitudine": 25.872171,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 328,
+      "nume": "Urlatoare",
+      "latitudine": 45.566241,
+      "longitudine": 25.982337,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 329,
+      "nume": "Urlătoarea",
+      "latitudine": 45.568019,
+      "longitudine": 25.987374,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 330,
+      "nume": "Ursulețul",
+      "latitudine": 47.004042,
+      "longitudine": 25.910061,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 331,
+      "nume": "uz",
+      "latitudine": 46.351519,
+      "longitudine": 26.242683,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 332,
+      "nume": "Vadvízország tábor",
+      "latitudine": 47.958275,
+      "longitudine": 22.877159,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 333,
+      "nume": "Valea Bârgăului",
+      "latitudine": 47.217127,
+      "longitudine": 24.894408,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 334,
+      "nume": "Valea Iadului Base Camp",
+      "latitudine": 46.906166,
+      "longitudine": 22.648721,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 335,
+      "nume": "Vampire Camping",
+      "latitudine": 45.529056,
+      "longitudine": 25.369973,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 336,
+      "nume": "Vasskert Camping",
+      "latitudine": 46.591033,
+      "longitudine": 25.072795,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 337,
+      "nume": "Vidraru",
+      "latitudine": 45.407824,
+      "longitudine": 24.658978,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 338,
+      "nume": "Yabba Dabba Doo",
+      "latitudine": 45.507798,
+      "longitudine": 26.242615,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 339,
+      "nume": "Zenovia",
+      "latitudine": 46.933115,
+      "longitudine": 22.547795,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 340,
+      "nume": "Zona campare",
+      "latitudine": 45.823079,
+      "longitudine": 22.363,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 341,
+      "nume": "Zona de picnic",
+      "latitudine": 44.075834,
+      "longitudine": 24.328363,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 342,
+      "nume": "Zonă de campare și parking rulote",
+      "latitudine": 44.761233,
+      "longitudine": 28.885725,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 343,
+      "nume": "Zonă iarbă verde",
+      "latitudine": 46.176685,
+      "longitudine": 26.839655,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 344,
+      "nume": "Zorile albe",
+      "latitudine": 44.943646,
+      "longitudine": 28.857639,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 345,
+      "nume": "Örökzöld Camping",
+      "latitudine": 46.597158,
+      "longitudine": 25.07924,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 346,
+      "nume": "Șaua Sărata",
+      "latitudine": 45.582557,
+      "longitudine": 24.40033,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 347,
+      "nume": "Șincai ( desființat - camparea interzisă de primărie)",
+      "latitudine": 44.058492,
+      "longitudine": 28.623338,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 348,
+      "nume": "Știbina",
+      "latitudine": 47.428341,
+      "longitudine": 26.298126,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 349,
+      "nume": "Ștrandul Salus",
+      "latitudine": 45.073407,
+      "longitudine": 24.190676,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 350,
+      "nume": "Ștrandul Termal Curtici",
+      "latitudine": 46.340372,
+      "longitudine": 21.304516,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 351,
+      "nume": "Галявина з вогнищем",
+      "latitudine": 47.918702,
+      "longitudine": 24.356756,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 352,
+      "nume": "Кампинг одмориште Калиновац",
+      "latitudine": 44.765941,
+      "longitudine": 21.395204,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 353,
+      "nume": "Кемпінг під Піп-Іваном Мармороськім",
+      "latitudine": 47.917507,
+      "longitudine": 24.350564,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 354,
+      "nume": "Място за къмпингуване близо до Батин",
+      "latitudine": 43.669361,
+      "longitudine": 25.637649,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 355,
+      "nume": "Місце для наметів без води",
+      "latitudine": 47.933662,
+      "longitudine": 24.380376,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 356,
+      "nume": "Місце для наметів без води",
+      "latitudine": 47.958275,
+      "longitudine": 24.487595,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 357,
+      "nume": "Наметове містечко Струнґи",
+      "latitudine": 47.922912,
+      "longitudine": 24.297694,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 358,
+      "nume": "Оаза",
+      "latitudine": 44.889477,
+      "longitudine": 21.387294,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 359,
+      "nume": "Під Неняскою",
+      "latitudine": 47.964529,
+      "longitudine": 24.479492,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 360,
+      "nume": "Рекреаційний пункт кв. 22 виділ 3",
+      "latitudine": 47.92698,
+      "longitudine": 24.211713,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 361,
+      "nume": "Сребрно језеро",
+      "latitudine": 44.76136,
+      "longitudine": 21.474861,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    },
+    {
+      "id": 362,
+      "nume": "Тихая полянка у дороги",
+      "latitudine": 44.40311,
+      "longitudine": 22.494064,
+      "cheie_osm": "tourism",
+      "valoare_osm": "camp_site",
+      "categorie_osm": "tourism=camp_site"
+    }
+  ],
+  "meta": {
+    "title": "Campinguri din România - Descărcare gratuită",
+    "description": "Campinguri din România — 362 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `tourism=camp_site`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează. Conține 362 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Campinguri din România | ListBase",
+    "seo_description": "Descarcă Campinguri din România — 362 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 362 înregistrări / 7 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

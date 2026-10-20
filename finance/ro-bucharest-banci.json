@@ -1,0 +1,891 @@
+{
+  "id": "ro-bucharest-banci",
+  "name": "Bănci în Bucharest — coduri SWIFT/BIC",
+  "title": "Bănci în Bucharest — coduri SWIFT/BIC",
+  "description": "Instituții bancare și financiare înregistrate SWIFT/BIC cu sediul în Bucharest, România (120 înregistrări). Subset al listei naționale `ro-banci` (263 înregistrări), grupat după câmpul `city` din sursă. Șirul literal din sursă este \"BUCHAREST\" — păstrat verbatim, fără diacritice și cu majuscule, exact așa cum este livrat de sursă; nu a fost tradus, normalizat sau completat cu diacritice. Câmpuri: id, bank, city, branch, swift_code.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 120,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 2,
+      "bank": "ACTIVE INTERNATIONAL SA",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "ACIRROB1"
+    },
+    {
+      "id": 3,
+      "bank": "ALIOR BANK SA WARSAW BUCHAREST BRANCH",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "ALBPROBU"
+    },
+    {
+      "id": 4,
+      "bank": "ALPHA BANK ROMANIA SA",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "BUCUROBU"
+    },
+    {
+      "id": 5,
+      "bank": "ALPHA FINANCE ROMANIA SA",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "ALNRROB1"
+    },
+    {
+      "id": 10,
+      "bank": "AUSTRO-ROM S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "AUSMROB1"
+    },
+    {
+      "id": 11,
+      "bank": "B.C.R. SECURITIES S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "BCERROB1"
+    },
+    {
+      "id": 12,
+      "bank": "BANC POST S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "BPOSROBU"
+    },
+    {
+      "id": 13,
+      "bank": "BANCA CENTRALA COOPERATISTA CREDITCOOP",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "CRCOROBU"
+    },
+    {
+      "id": 14,
+      "bank": "BANCA COMERCIALA FEROVIARA S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "BFERROBU"
+    },
+    {
+      "id": 16,
+      "bank": "BANCA COMERCIALA ROMANA S.A",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "RNCBROBU"
+    },
+    {
+      "id": 17,
+      "bank": "BANCA COMERCIALA ROMANA S.A",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "RNCBROBUT2S"
+    },
+    {
+      "id": 21,
+      "bank": "BANCA ROMANA DE CREDITE SI INVESTITII S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "MINDROBU"
+    },
+    {
+      "id": 22,
+      "bank": "BANCA ROMANEASCA S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "BRMAROBU"
+    },
+    {
+      "id": 37,
+      "bank": "BANCA TRANSILVANIA S.A.",
+      "city": "BUCHAREST",
+      "branch": "(AG. DOROBANTI)",
+      "swift_code": "BTRLRO22BB4"
+    },
+    {
+      "id": 38,
+      "bank": "BANCA TRANSILVANIA S.A.",
+      "city": "BUCHAREST",
+      "branch": "(AG. MAGHERU)",
+      "swift_code": "BTRLRO22BB3"
+    },
+    {
+      "id": 39,
+      "bank": "BANCA TRANSILVANIA S.A.",
+      "city": "BUCHAREST",
+      "branch": "(AG. MARRIOTT)",
+      "swift_code": "BTRLRO22BB2"
+    },
+    {
+      "id": 40,
+      "bank": "BANCA TRANSILVANIA S.A.",
+      "city": "BUCHAREST",
+      "branch": "(BUCURESTI CHIBRIT)",
+      "swift_code": "BTRLRO22BBC"
+    },
+    {
+      "id": 41,
+      "bank": "BANCA TRANSILVANIA S.A.",
+      "city": "BUCHAREST",
+      "branch": "(BUCURESTI OTOPENI)",
+      "swift_code": "BTRLRO22BOT"
+    },
+    {
+      "id": 42,
+      "bank": "BANCA TRANSILVANIA S.A.",
+      "city": "BUCHAREST",
+      "branch": "(BUCURESTI VOLUNTARI)",
+      "swift_code": "BTRLRO22BVO"
+    },
+    {
+      "id": 43,
+      "bank": "BANCA TRANSILVANIA S.A.",
+      "city": "BUCHAREST",
+      "branch": "(CENTRE NOUVEAU BRANCH)",
+      "swift_code": "BTRLRO22BBL"
+    },
+    {
+      "id": 44,
+      "bank": "BANCA TRANSILVANIA S.A.",
+      "city": "BUCHAREST",
+      "branch": "(MILITARI BRANCH)",
+      "swift_code": "BTRLRO22BB1"
+    },
+    {
+      "id": 45,
+      "bank": "BANCA TRANSILVANIA S.A.",
+      "city": "BUCHAREST",
+      "branch": "(OBOR BRANCH)",
+      "swift_code": "BTRLRO22BBB"
+    },
+    {
+      "id": 46,
+      "bank": "BANCA TRANSILVANIA S.A.",
+      "city": "BUCHAREST",
+      "branch": "(PANTELIMON BRANCH)",
+      "swift_code": "BTRLRO22BBP"
+    },
+    {
+      "id": 47,
+      "bank": "BANCA TRANSILVANIA S.A.",
+      "city": "BUCHAREST",
+      "branch": "(PIATA ALBA-IULIA BRANCH)",
+      "swift_code": "BTRLRO22BBA"
+    },
+    {
+      "id": 48,
+      "bank": "BANCA TRANSILVANIA S.A.",
+      "city": "BUCHAREST",
+      "branch": "(ROSETTI BRANCH)",
+      "swift_code": "BTRLRO21BBT"
+    },
+    {
+      "id": 49,
+      "bank": "BANCA TRANSILVANIA S.A.",
+      "city": "BUCHAREST",
+      "branch": "(VICTORIEI BRANCH)",
+      "swift_code": "BTRLRO22BBV"
+    },
+    {
+      "id": 128,
+      "bank": "BANK LEUMI ROMANIA S.A.",
+      "city": "BUCHAREST",
+      "branch": "(HEAD OFFICE)",
+      "swift_code": "DAFBRO22"
+    },
+    {
+      "id": 129,
+      "bank": "BANK LEUMI ROMANIA S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "DAFBRO22BUC"
+    },
+    {
+      "id": 134,
+      "bank": "BANK OF CYPRUS PCL NICOSIA, ROMANIAN BRANCH",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "BCYPROBU"
+    },
+    {
+      "id": 135,
+      "bank": "BCR BANCA PENTRU LOCUINTE S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "BCRLROBU"
+    },
+    {
+      "id": 136,
+      "bank": "BFOREX GLOBAL TRADING S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "BGLTROB1"
+    },
+    {
+      "id": 137,
+      "bank": "BLOM BANK FRANCE S.A. ROMANIA BRANCH",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "BLOMROBU"
+    },
+    {
+      "id": 138,
+      "bank": "BLUE ROCK FINANCIAL SERVICES",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "TRPTRO21"
+    },
+    {
+      "id": 139,
+      "bank": "BNP PARIBAS S.A. PARIS SUCURSALA BUCURESTI",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "FTSBROBU"
+    },
+    {
+      "id": 140,
+      "bank": "BRD - GROUPE SOCIETE GENERALE SA",
+      "city": "BUCHAREST",
+      "branch": "(CAMPINEANU BRANCH)",
+      "swift_code": "BRDEROBUCAM"
+    },
+    {
+      "id": 141,
+      "bank": "BRD - GROUPE SOCIETE GENERALE SA",
+      "city": "BUCHAREST",
+      "branch": "(SECURITIES DIVISION)",
+      "swift_code": "BRDEROBUTIT"
+    },
+    {
+      "id": 142,
+      "bank": "BRD - GROUPE SOCIETE GENERALE SA",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "BRDEROBU"
+    },
+    {
+      "id": 143,
+      "bank": "BRD SECURITIES-GROUPE SOCIETE GENERALE S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "BSGSROB1"
+    },
+    {
+      "id": 145,
+      "bank": "BUCURESTI GLOBAL INVEST S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "BUGIROB1"
+    },
+    {
+      "id": 146,
+      "bank": "BURSA DE VALORI BUCURESTI SA",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "XBSEROB1"
+    },
+    {
+      "id": 147,
+      "bank": "BURSA ROMANA DE MARFURI (ROMANIAN COMMODITIES EXCHANGE) SA",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "BURMROB1"
+    },
+    {
+      "id": 148,
+      "bank": "CAPA FINANCE IFN SA",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "PATRROB1"
+    },
+    {
+      "id": 149,
+      "bank": "CAPITAL FINANCIAL SERVICES SA",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "CPFSROBU"
+    },
+    {
+      "id": 150,
+      "bank": "CAPITOL S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "CATLROB1"
+    },
+    {
+      "id": 152,
+      "bank": "CASA DE COMPENSARE BUCURESTI S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "CCBUROB1"
+    },
+    {
+      "id": 154,
+      "bank": "CEC BANK-S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "CECEROBU"
+    },
+    {
+      "id": 155,
+      "bank": "CENTRAL EUROPEAN INVESTMENTS S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "CEENROB1"
+    },
+    {
+      "id": 156,
+      "bank": "CITIBANK EUROPE PLC, DUBLIN-SUCURSALA ROMANIA",
+      "city": "BUCHAREST",
+      "branch": "(TARGET 2)",
+      "swift_code": "CITIROBUTGT"
+    },
+    {
+      "id": 157,
+      "bank": "CITIBANK EUROPE PLC, DUBLIN-SUCURSALA ROMANIA",
+      "city": "BUCHAREST",
+      "branch": "(TRADE SERVICES DEPT.)",
+      "swift_code": "CITIROBUTRD"
+    },
+    {
+      "id": 158,
+      "bank": "CITIBANK EUROPE PLC, DUBLIN-SUCURSALA ROMANIA",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "CITIROBU"
+    },
+    {
+      "id": 160,
+      "bank": "CONFIDENT INVEST BUCHAREST S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "COIHROB1"
+    },
+    {
+      "id": 161,
+      "bank": "CREDIT AGRICOLE BANK ROMANIA S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "BSEAROBU"
+    },
+    {
+      "id": 162,
+      "bank": "CREDIT EUROPE BANK (ROMANIA) S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "FNNBROBU"
+    },
+    {
+      "id": 163,
+      "bank": "DELTA VALORI MOBILIARE (D.V.M.) S.A",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "DVMDROB1"
+    },
+    {
+      "id": 164,
+      "bank": "DEPOZITARUL CENTRAL S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "DECNROBU"
+    },
+    {
+      "id": 165,
+      "bank": "DORINVEST S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "DORNROB1"
+    },
+    {
+      "id": 166,
+      "bank": "EASTERN SECURITIES S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "EASCROB1"
+    },
+    {
+      "id": 167,
+      "bank": "EGNATIA SECURITIES S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "EGNTROB1"
+    },
+    {
+      "id": 169,
+      "bank": "EQUITY INVEST S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "EQIVROB1"
+    },
+    {
+      "id": 170,
+      "bank": "ESTEURO CAPITAL S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "ESCPROB1"
+    },
+    {
+      "id": 172,
+      "bank": "ETEBA ROMANIA S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "ETROROB1"
+    },
+    {
+      "id": 173,
+      "bank": "ETR ROMANIA",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "ETRMROB1"
+    },
+    {
+      "id": 174,
+      "bank": "EUROBANK SECURITIES S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "EFESROB1"
+    },
+    {
+      "id": 176,
+      "bank": "EXIMBANK OF ROMANIA",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "EXIMROBU"
+    },
+    {
+      "id": 177,
+      "bank": "FAIRWIND SECURITIES S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "UNSUROB1"
+    },
+    {
+      "id": 178,
+      "bank": "FINACO SECURITIES S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "FIUEROB1"
+    },
+    {
+      "id": 179,
+      "bank": "G.I.F.-GRUPUL DE INTERMEDIERE FINANCIARA S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "GGIFROB1"
+    },
+    {
+      "id": 180,
+      "bank": "G.M. INVEST S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "IVTEROB1"
+    },
+    {
+      "id": 181,
+      "bank": "GARANTI BANK S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "UGBIROBU"
+    },
+    {
+      "id": 182,
+      "bank": "GLOBAL VALORI MOBILIARE S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "GLVMROB1"
+    },
+    {
+      "id": 186,
+      "bank": "HTI VALORI MOBILIARE S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "HTVMROB1"
+    },
+    {
+      "id": 187,
+      "bank": "IDEA BANK SA",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "ROINROBU"
+    },
+    {
+      "id": 188,
+      "bank": "IEBA TRUST S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "IETRROB1"
+    },
+    {
+      "id": 190,
+      "bank": "ING BANK N.V., BUCHAREST BRANCH",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "INGBROBU"
+    },
+    {
+      "id": 191,
+      "bank": "INTERCAPITAL INVEST S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "ITINROB1"
+    },
+    {
+      "id": 194,
+      "bank": "INTERVAM S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "ITTRROB1"
+    },
+    {
+      "id": 195,
+      "bank": "INTESA SANPAOLO ROMANIA S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "WBANRO22"
+    },
+    {
+      "id": 197,
+      "bank": "KD CAPITAL MANAGEMENT S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "CPMAROB1"
+    },
+    {
+      "id": 199,
+      "bank": "KMG ROMPETROL",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "KMGRROBU"
+    },
+    {
+      "id": 200,
+      "bank": "LIBRA BANK S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "BRELROBU"
+    },
+    {
+      "id": 201,
+      "bank": "LIBRA BANK S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "BRELROBUCAM"
+    },
+    {
+      "id": 202,
+      "bank": "MARFIN BANK (ROMANIA) S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "EGNAROBX"
+    },
+    {
+      "id": 203,
+      "bank": "MINISTRY OF PUBLIC FINANCE",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "TREZROBU"
+    },
+    {
+      "id": 205,
+      "bank": "MUNTENIA GLOBAL INVEST S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "MUGIROB1"
+    },
+    {
+      "id": 206,
+      "bank": "NATIONAL BANK OF ROMANIA",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "NBORROBP"
+    },
+    {
+      "id": 207,
+      "bank": "NATIONAL BANK OF ROMANIA",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "NBORROBS"
+    },
+    {
+      "id": 208,
+      "bank": "NATIONAL BANK OF ROMANIA",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "NBORROBU"
+    },
+    {
+      "id": 209,
+      "bank": "NATIONAL BANK OF ROMANIA - REGIS",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "NBORROBA"
+    },
+    {
+      "id": 210,
+      "bank": "NATIONAL BANK OF ROMANIA - SAFIR",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "NBORROBB"
+    },
+    {
+      "id": 211,
+      "bank": "NHL SECURITIES S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "SMRSROB1"
+    },
+    {
+      "id": 214,
+      "bank": "OTP BANK ROMANIA S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "OTPVROBU"
+    },
+    {
+      "id": 216,
+      "bank": "PIRAEUS BANK ROMANIA",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "PIRBROBU"
+    },
+    {
+      "id": 218,
+      "bank": "PRIME TRANSACTION S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "PRTAROB1"
+    },
+    {
+      "id": 219,
+      "bank": "PROCREDITBANK S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "MIROROBU"
+    },
+    {
+      "id": 220,
+      "bank": "RAIFFEISEN BANCA PENTRU LOCUINTE S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "RZBLROBU"
+    },
+    {
+      "id": 221,
+      "bank": "RAIFFEISEN BANK S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "RZBRROBU"
+    },
+    {
+      "id": 222,
+      "bank": "RAIFFEISEN CAPITAL AND INVESTMENT S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "RACIROB1"
+    },
+    {
+      "id": 223,
+      "bank": "RASDAQ",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "XRASROB1"
+    },
+    {
+      "id": 224,
+      "bank": "RBS SECURITIES (ROMANIA) S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "AASOROB1"
+    },
+    {
+      "id": 226,
+      "bank": "ROMANIAN POST NATIONAL COMPANY",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "RONCROB1"
+    },
+    {
+      "id": 227,
+      "bank": "ROMBELL SECURITIES S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "ROECROB1"
+    },
+    {
+      "id": 231,
+      "bank": "S.S.I.F. FORTIUS FINANCE S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "SSFIROB1"
+    },
+    {
+      "id": 233,
+      "bank": "S.S.I.F. PIRAEUS SECURITIES ROMANIA S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "SPSMROB1"
+    },
+    {
+      "id": 235,
+      "bank": "S.S.I.F. VIENNA INVESTMENT TRUST S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "FIEFROB1"
+    },
+    {
+      "id": 238,
+      "bank": "SC SMITH AND SMITH SRL",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "SSRRROB1"
+    },
+    {
+      "id": 240,
+      "bank": "SOCIETATEA NATIONALA DE COMPENSARE, DECONTARE SI DEPOZITARE PENTRU VALORI MOBILIARE SA",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "SNCDROB1"
+    },
+    {
+      "id": 241,
+      "bank": "SPEED TRANSFER FINANCIAR SRL",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "SRFSROB1"
+    },
+    {
+      "id": 245,
+      "bank": "SWISS CAPITAL SA",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "KSRSROB1"
+    },
+    {
+      "id": 248,
+      "bank": "TBI BANK EAD SOFIA BUCHAREST BRANCH",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "TBIBROBU"
+    },
+    {
+      "id": 249,
+      "bank": "TRADEVILLE SA",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "VANGROB1"
+    },
+    {
+      "id": 250,
+      "bank": "TRANSFOND S.A.",
+      "city": "BUCHAREST",
+      "branch": "(BACK OFFICE APPLICATION)",
+      "swift_code": "TRFDROBSSNT"
+    },
+    {
+      "id": 251,
+      "bank": "TRANSFOND S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "TRFDROBS"
+    },
+    {
+      "id": 252,
+      "bank": "TRANSFOND S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "TRFDROBU"
+    },
+    {
+      "id": 254,
+      "bank": "UNICAPITAL S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "UNCPROB1"
+    },
+    {
+      "id": 255,
+      "bank": "UNICREDIT BANK SA",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "BACXROBU"
+    },
+    {
+      "id": 256,
+      "bank": "UNICREDIT CA-IB SECURITIES SA",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "CAUEROB1"
+    },
+    {
+      "id": 257,
+      "bank": "URSUS BREWERIES SA",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "SABMROB1"
+    },
+    {
+      "id": 258,
+      "bank": "VALAHIA CAPITAL SA",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "VACTROB1"
+    },
+    {
+      "id": 260,
+      "bank": "VENETO BANCA S.P.A. ITALIA MONTEBELLUNA SUCURSALA BUCURESTI",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "BITRROBU"
+    },
+    {
+      "id": 263,
+      "bank": "W.B.S. ROMANIA S.A.",
+      "city": "BUCHAREST",
+      "branch": "",
+      "swift_code": "WBROROB1"
+    }
+  ],
+  "meta": {
+    "title": "Bănci în Bucharest — coduri SWIFT/BIC - Descărcare gratuită",
+    "description": "Instituții bancare și financiare înregistrate SWIFT/BIC cu sediul în Bucharest, România (120 înregistrări). Subset al listei naționale `ro-banci` (263 înregistrări), grupat după câmpul `city` din sursă. Șirul literal din sursă este \"BUCHAREST\" — păstrat verbatim, fără diacritice și cu majuscule, exact așa cum este livrat de sursă; nu a fost tradus, normalizat sau completat cu diacritice. Câmpuri: id, bank, city, branch, swift_code. Conține 120 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Bănci în Bucharest — coduri SWIFT/BIC | ListBase",
+    "seo_description": "Descarcă Bănci în Bucharest — coduri SWIFT/BIC — 120 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 120 înregistrări / 5 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

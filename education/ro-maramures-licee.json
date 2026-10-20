@@ -1,0 +1,232 @@
+{
+  "id": "ro-maramures-licee",
+  "name": "Licee si colegii din judetul Maramureș",
+  "title": "Licee si colegii din judetul Maramureș",
+  "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Maramureș (31 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "COLEGIUL DE ARTE BAIA MARE",
+      "slug": "colegiul-de-arte-baia-mare",
+      "judet": "MARAMUREȘ",
+      "judet_slug": "maramures"
+    },
+    {
+      "nume": "COLEGIUL ECONOMIC \"NICOLAE TITULESCU\" BAIA MARE",
+      "slug": "colegiul-economic-nicolae-titulescu-baia-mare",
+      "judet": "MARAMUREȘ",
+      "judet_slug": "maramures"
+    },
+    {
+      "nume": "COLEGIUL ECONOMIC \"PINTEA VITEAZUL\" CAVNIC",
+      "slug": "colegiul-economic-pintea-viteazul-cavnic",
+      "judet": "MARAMUREȘ",
+      "judet_slug": "maramures"
+    },
+    {
+      "nume": "COLEGIUL NATIONAL \"DRAGOS VODA\" SIGHETU MARȚAIEI",
+      "slug": "colegiul-national-dragos-voda-sighetu-martaiei",
+      "judet": "MARAMUREȘ",
+      "judet_slug": "maramures"
+    },
+    {
+      "nume": "COLEGIUL NATIONAL \"GHEORGHE SINCAI\" BAIA MARE",
+      "slug": "colegiul-national-gheorghe-sincai-baia-mare",
+      "judet": "MARAMUREȘ",
+      "judet_slug": "maramures"
+    },
+    {
+      "nume": "COLEGIUL NATIONAL \"MIHAI EMINESCU\" BAIA MARE",
+      "slug": "colegiul-national-mihai-eminescu-baia-mare",
+      "judet": "MARAMUREȘ",
+      "judet_slug": "maramures"
+    },
+    {
+      "nume": "COLEGIUL NATIONAL \"VASILE LUCACIU\" BAIA MARE",
+      "slug": "colegiul-national-vasile-lucaciu-baia-mare",
+      "judet": "MARAMUREȘ",
+      "judet_slug": "maramures"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC DE TRANSPORTURI AUTO BAIA SPRIE",
+      "slug": "colegiul-tehnic-de-transporturi-auto-baia-sprie",
+      "judet": "MARAMUREȘ",
+      "judet_slug": "maramures"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"ANGHEL SALIGNY\" BAIA MARE",
+      "slug": "colegiul-tehnic-anghel-saligny-baia-mare",
+      "judet": "MARAMUREȘ",
+      "judet_slug": "maramures"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"AUREL VLAICU\" BAIA MARE",
+      "slug": "colegiul-tehnic-aurel-vlaicu-baia-mare",
+      "judet": "MARAMUREȘ",
+      "judet_slug": "maramures"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"C.D. NENITESCU\" BAIA MARE",
+      "slug": "colegiul-tehnic-c-d-nenitescu-baia-mare",
+      "judet": "MARAMUREȘ",
+      "judet_slug": "maramures"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"GEORGE BARITIU\" BAIA MARE",
+      "slug": "colegiul-tehnic-george-baritiu-baia-mare",
+      "judet": "MARAMUREȘ",
+      "judet_slug": "maramures"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"TRANSILVANIA\" BAIA MARE",
+      "slug": "colegiul-tehnic-transilvania-baia-mare",
+      "judet": "MARAMUREȘ",
+      "judet_slug": "maramures"
+    },
+    {
+      "nume": "LICEUL BORSA",
+      "slug": "liceul-borsa",
+      "judet": "MARAMUREȘ",
+      "judet_slug": "maramures"
+    },
+    {
+      "nume": "LICEUL CU PROGRAM SPORTIV BAIA MARE",
+      "slug": "liceul-cu-program-sportiv-baia-mare",
+      "judet": "MARAMUREȘ",
+      "judet_slug": "maramures"
+    },
+    {
+      "nume": "LICEUL PEDAGOGIC \"REGELE FERDINAND\" SIGHETU MARMAȚIEI",
+      "slug": "liceul-pedagogic-regele-ferdinand-sighetu-marmatiei",
+      "judet": "MARAMUREȘ",
+      "judet_slug": "maramures"
+    },
+    {
+      "nume": "LICEUL PEDAGOGIC \"TARAS SEVCENKO\" SIGHETU MARMAȚIEI",
+      "slug": "liceul-pedagogic-taras-sevcenko-sighetu-marmatiei",
+      "judet": "MARAMUREȘ",
+      "judet_slug": "maramures"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC AGRICOL \"ALEXIU BERINDE\" SEINI",
+      "slug": "liceul-tehnologic-agricol-alexiu-berinde-seini",
+      "judet": "MARAMUREȘ",
+      "judet_slug": "maramures"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC FORESTIER SIGHETU MARMAȚIEI",
+      "slug": "liceul-tehnologic-forestier-sighetu-marmatiei",
+      "judet": "MARAMUREȘ",
+      "judet_slug": "maramures"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC MARMATIA SIGHETU MARMAȚIEI",
+      "slug": "liceul-tehnologic-marmatia-sighetu-marmatiei",
+      "judet": "MARAMUREȘ",
+      "judet_slug": "maramures"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"DR. FLORIAN ULMEANU\" ULMENI",
+      "slug": "liceul-tehnologic-dr-florian-ulmeanu-ulmeni",
+      "judet": "MARAMUREȘ",
+      "judet_slug": "maramures"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"GRIGORE MOISIL\" TARGU LĂPUȘ",
+      "slug": "liceul-tehnologic-grigore-moisil-targu-lapus",
+      "judet": "MARAMUREȘ",
+      "judet_slug": "maramures"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"TRAIAN VUIA\" TAUTII MAGHERAUS",
+      "slug": "liceul-tehnologic-traian-vuia-tautii-magheraus",
+      "judet": "MARAMUREȘ",
+      "judet_slug": "maramures"
+    },
+    {
+      "nume": "LICEUL TEOLOGIC PENTICOSTAL BAIA MARE",
+      "slug": "liceul-teologic-penticostal-baia-mare",
+      "judet": "MARAMUREȘ",
+      "judet_slug": "maramures"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"BOGDAN VODA\" VIȘEU DE SUS",
+      "slug": "liceul-teoretic-bogdan-voda-viseu-de-sus",
+      "judet": "MARAMUREȘ",
+      "judet_slug": "maramures"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"EMIL RACOVITA\" BAIA MARE",
+      "slug": "liceul-teoretic-emil-racovita-baia-mare",
+      "judet": "MARAMUREȘ",
+      "judet_slug": "maramures"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"IOAN BUTEANU\" ȘOMCUȚA MARE",
+      "slug": "liceul-teoretic-ioan-buteanu-somcuta-mare",
+      "judet": "MARAMUREȘ",
+      "judet_slug": "maramures"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"LEOWEY KLARA\" SIGHETU MARMAȚIEI",
+      "slug": "liceul-teoretic-leowey-klara-sighetu-marmatiei",
+      "judet": "MARAMUREȘ",
+      "judet_slug": "maramures"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"NEMETH LASZLO\" BAIA MARE",
+      "slug": "liceul-teoretic-nemeth-laszlo-baia-mare",
+      "judet": "MARAMUREȘ",
+      "judet_slug": "maramures"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"PETRU RARES\" TARGU LĂPUȘ",
+      "slug": "liceul-teoretic-petru-rares-targu-lapus",
+      "judet": "MARAMUREȘ",
+      "judet_slug": "maramures"
+    },
+    {
+      "nume": "SEMINARUL TEOLOGIC LICEAL \"SF. IOSIF MARTURISITORUL\" BAIA MARE",
+      "slug": "seminarul-teologic-liceal-sf-iosif-marturisitorul-baia-mare",
+      "judet": "MARAMUREȘ",
+      "judet_slug": "maramures"
+    }
+  ],
+  "meta": {
+    "title": "Licee si colegii din judetul Maramureș - Descărcare gratuită",
+    "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Maramureș (31 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor. Conține 31 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Licee si colegii din judetul Maramureș | ListBase",
+    "seo_description": "Descarcă Licee si colegii din judetul Maramureș — 31 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 31 înregistrări / 4 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "id": "ro-centrale-nucleare",
+  "name": "Centrale nucleare în România",
+  "title": "Centrale nucleare în România",
+  "description": "Centrale nucleare în România — reactor-level list of nuclear power plant units from the GeoNuclearData database (WNA/IAEA-sourced), including shutdown and under-construction units with reactor type/model, construction and operational dates, and capacity (MW). Complements the power-plants datasets (which cover operating plants of all fuels, plant-level): this list is reactor-unit level and includes historical (shutdown) and future (under construction) units. Names are ASCII/English as published by the source; native-script names not in source. Snapshot at source commit date (2024-era database; per-record LastUpdatedAt varies).",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "reactor_type",
+      "label": "Reactor Type",
+      "type": "string"
+    },
+    {
+      "key": "reactor_model",
+      "label": "Reactor Model",
+      "type": "string"
+    },
+    {
+      "key": "construction_start",
+      "label": "Construction Start",
+      "type": "date"
+    },
+    {
+      "key": "operational_from",
+      "label": "Operational From",
+      "type": "date"
+    },
+    {
+      "key": "operational_to",
+      "label": "Operational To",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "iaea_id",
+      "label": "Iaea Id",
+      "type": "number"
+    },
+    {
+      "key": "data_source",
+      "label": "Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Cernavoda-1",
+      "latitude": 44.322,
+      "longitude": 28.061,
+      "status": "Operational",
+      "reactor_type": "PHWR",
+      "reactor_model": "CANDU 6",
+      "construction_start": "1983-03-31",
+      "operational_from": "1996-12-02",
+      "operational_to": "",
+      "capacity_mw": 650,
+      "iaea_id": 442,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Cernavoda-2",
+      "latitude": 44.322,
+      "longitude": 28.061,
+      "status": "Operational",
+      "reactor_type": "PHWR",
+      "reactor_model": "CANDU 6",
+      "construction_start": "1983-07-01",
+      "operational_from": "2007-11-01",
+      "operational_to": "",
+      "capacity_mw": 650,
+      "iaea_id": 443,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Cernavoda-3",
+      "latitude": 44.322,
+      "longitude": 28.061,
+      "status": "Suspended Construction",
+      "reactor_type": "PHWR",
+      "reactor_model": "",
+      "construction_start": "1984-02-09",
+      "operational_from": "",
+      "operational_to": "",
+      "capacity_mw": 655,
+      "iaea_id": "",
+      "data_source": "WNA/IAEA/Wikipedia"
+    },
+    {
+      "name": "Cernavoda-4",
+      "latitude": 44.322,
+      "longitude": 28.061,
+      "status": "Suspended Construction",
+      "reactor_type": "PHWR",
+      "reactor_model": "",
+      "construction_start": "1985-08-15",
+      "operational_from": "",
+      "operational_to": "",
+      "capacity_mw": 655,
+      "iaea_id": "",
+      "data_source": "IAEA/Wikipedia"
+    },
+    {
+      "name": "Cernavoda-5",
+      "latitude": 44.322,
+      "longitude": 28.061,
+      "status": "Cancelled Construction",
+      "reactor_type": "PHWR",
+      "reactor_model": "",
+      "construction_start": "1987-05-12",
+      "operational_from": "",
+      "operational_to": "",
+      "capacity_mw": 655,
+      "iaea_id": "",
+      "data_source": "IAEA/Wikipedia"
+    }
+  ],
+  "meta": {
+    "title": "Centrale nucleare în România - Descărcare gratuită",
+    "description": "Centrale nucleare în România — reactor-level list of nuclear power plant units from the GeoNuclearData database (WNA/IAEA-sourced), including shutdown and under-construction units with reactor type/model, construction and operational dates, and capacity (MW). Complements the power-plants datasets (which cover operating plants of all fuels, plant-level): this list is reactor-unit level and includes historical (shutdown) and future (under construction) units. Names are ASCII/English as published by the source; native-script names not in source. Snapshot at source commit date (2024-era database; per-record LastUpdatedAt varies). Conține 5 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Centrale nucleare în România | ListBase",
+    "seo_description": "Descarcă Centrale nucleare în România — 5 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 5 înregistrări / 12 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

@@ -1,0 +1,6415 @@
+{
+  "id": "ro-atractii-turistice",
+  "name": "Atracții turistice din România",
+  "title": "Atracții turistice din România",
+  "description": "Atracții turistice din România — 706 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `tourism=attraction`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 706,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "latitudine",
+      "label": "Latitudine",
+      "type": "number"
+    },
+    {
+      "key": "longitudine",
+      "label": "Longitudine",
+      "type": "number"
+    },
+    {
+      "key": "cheie_osm",
+      "label": "Cheie Osm",
+      "type": "string"
+    },
+    {
+      "key": "valoare_osm",
+      "label": "Valoare Osm",
+      "type": "string"
+    },
+    {
+      "key": "categorie_osm",
+      "label": "Categorie Osm",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nume": "Acul Nebun",
+      "latitudine": 44.502369,
+      "longitudine": 28.427098,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 2,
+      "nume": "Aerodrom Ciocănești",
+      "latitudine": 44.580078,
+      "longitudine": 25.854785,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 3,
+      "nume": "Aerodrom Dumesti",
+      "latitudine": 47.213981,
+      "longitudine": 27.336682,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 4,
+      "nume": "Aleea Balului",
+      "latitudine": 45.795891,
+      "longitudine": 24.149528,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 5,
+      "nume": "Amfiteatru",
+      "latitudine": 46.712336,
+      "longitudine": 23.59007,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 6,
+      "nume": "Amphitheatre",
+      "latitudine": 46.598633,
+      "longitudine": 25.082887,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 7,
+      "nume": "Ansamblul conacului Teodor Brătianu",
+      "latitudine": 45.13867,
+      "longitudine": 24.549615,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 8,
+      "nume": "Ansamblul culei Drugănescu",
+      "latitudine": 45.14081,
+      "longitudine": 24.841497,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 9,
+      "nume": "Ansamblul culei Sultănica",
+      "latitudine": 45.243195,
+      "longitudine": 24.529609,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 10,
+      "nume": "Ansamblul Curții Boierilor Jieni",
+      "latitudine": 44.267218,
+      "longitudine": 23.845794,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 11,
+      "nume": "Ansamblul Glogoveanu",
+      "latitudine": 44.937586,
+      "longitudine": 22.899756,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 12,
+      "nume": "Arhiepiscopia Ortodoxă de Alba Iulia",
+      "latitudine": 46.068394,
+      "longitudine": 23.569583,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 13,
+      "nume": "Aria protejată Călinești - Brezoi",
+      "latitudine": 45.347305,
+      "longitudine": 24.25205,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 14,
+      "nume": "Avenul Piciorul Boului",
+      "latitudine": 45.577123,
+      "longitudine": 24.386923,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 15,
+      "nume": "Babovici",
+      "latitudine": 45.924474,
+      "longitudine": 26.45073,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 16,
+      "nume": "Baile Romane - Cheile Cetii",
+      "latitudine": 46.249056,
+      "longitudine": 23.553603,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 17,
+      "nume": "Balon cú aer cald",
+      "latitudine": 46.720558,
+      "longitudine": 23.589559,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 18,
+      "nume": "Balta Dracului",
+      "latitudine": 45.845498,
+      "longitudine": 26.170604,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 19,
+      "nume": "Balta Vladnic",
+      "latitudine": 46.874227,
+      "longitudine": 28.088836,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 20,
+      "nume": "Barajul Poneasca",
+      "latitudine": 45.025164,
+      "longitudine": 21.948528,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 21,
+      "nume": "Barza",
+      "latitudine": 44.301256,
+      "longitudine": 23.806419,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 22,
+      "nume": "Bastionul Sașilor",
+      "latitudine": 46.065982,
+      "longitudine": 23.573463,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 23,
+      "nume": "Bastionul Sfânta Elisabeta",
+      "latitudine": 46.071145,
+      "longitudine": 23.574648,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 24,
+      "nume": "Bastionul Sfântul Capistrano",
+      "latitudine": 46.06837,
+      "longitudine": 23.57549,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 25,
+      "nume": "Bastionul Sfântul Carol",
+      "latitudine": 46.071868,
+      "longitudine": 23.570556,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 26,
+      "nume": "Bastionul Sfântul Eugen",
+      "latitudine": 46.065827,
+      "longitudine": 23.574015,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 27,
+      "nume": "Bastionul Sfântul Mihail",
+      "latitudine": 46.069587,
+      "longitudine": 23.567831,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 28,
+      "nume": "Bastionul Sfântul Stephani",
+      "latitudine": 46.064872,
+      "longitudine": 23.570705,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 29,
+      "nume": "Bastionul Trinitarienilor",
+      "latitudine": 46.066733,
+      "longitudine": 23.567883,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 30,
+      "nume": "Beciul Domnesc",
+      "latitudine": 45.921371,
+      "longitudine": 27.106302,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 31,
+      "nume": "Betegosu",
+      "latitudine": 45.812382,
+      "longitudine": 26.439477,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 32,
+      "nume": "Biblioteca Centrală Universitară \"Mihai Eminescu\"",
+      "latitudine": 47.170051,
+      "longitudine": 27.575806,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 33,
+      "nume": "Biblioteca stradală",
+      "latitudine": 47.161569,
+      "longitudine": 22.87696,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 34,
+      "nume": "Biserica de lemn a Mănăstirii Lupșa",
+      "latitudine": 46.37499,
+      "longitudine": 23.173579,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 35,
+      "nume": "Biserica de lemn „Buna Vestire“ Iernatic (sec. 18-19)",
+      "latitudine": 45.164413,
+      "longitudine": 24.115675,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 36,
+      "nume": "Biserica de lemn „Cuvioasa Parascheva” Capu Dealului (1849)",
+      "latitudine": 44.985704,
+      "longitudine": 24.238486,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 37,
+      "nume": "Biserica de lemn „Sfânta Parascheva” Igoiu (1752)",
+      "latitudine": 45.041332,
+      "longitudine": 23.814246,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 38,
+      "nume": "Biserica de lemn „Sfântul Nicolae Vechi”",
+      "latitudine": 44.934578,
+      "longitudine": 24.445387,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 39,
+      "nume": "Biserica de lemn „Sfântul Nicolae“ Poieni (1790)",
+      "latitudine": 45.176041,
+      "longitudine": 24.116473,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 40,
+      "nume": "Biserica de zid „Cuvioasa Parascheva“ Măleni (1913)",
+      "latitudine": 45.169934,
+      "longitudine": 24.11408,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 41,
+      "nume": "Biserica Parohială „Sfântul Ierarh Nicolae” (1808)",
+      "latitudine": 44.878783,
+      "longitudine": 24.276366,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 42,
+      "nume": "Biserica Sfântul Ilie",
+      "latitudine": 44.925025,
+      "longitudine": 24.441811,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 43,
+      "nume": "Biserica Unitariană Martin (1841)",
+      "latitudine": 46.305546,
+      "longitudine": 23.132403,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 44,
+      "nume": "Biserica „Buna Vestire” Inătești (1751)",
+      "latitudine": 45.099642,
+      "longitudine": 24.359603,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 45,
+      "nume": "Biserica „Cuvioasa Parascheva” Colțești (1981)",
+      "latitudine": 44.981801,
+      "longitudine": 23.822774,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 46,
+      "nume": "Biserica „Intrarea Maicii Domnului în Biserică” Drăgănești (1735)",
+      "latitudine": 45.146031,
+      "longitudine": 24.115385,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 47,
+      "nume": "Biserica „Intrarea Maicii Domnului în Biserică” Mierlești (1776)",
+      "latitudine": 45.173892,
+      "longitudine": 24.121108,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 48,
+      "nume": "Biserica „Nașterea Maicii Domnului“ Zăvoaie (1925)",
+      "latitudine": 45.162055,
+      "longitudine": 24.118018,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 49,
+      "nume": "Biserica „Nașterea Maicii Domnului” a Schitului Jgheaburi (1310/1640)",
+      "latitudine": 45.175452,
+      "longitudine": 24.16718,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 50,
+      "nume": "Biserica „Sfinții Arhangheli Mihail și Gavril” Bodești (1737)",
+      "latitudine": 45.067705,
+      "longitudine": 23.819093,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 51,
+      "nume": "Biserica „Sfânta Treime” Bodești (1732)",
+      "latitudine": 45.140298,
+      "longitudine": 24.115301,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 52,
+      "nume": "Biserica „Sfânta Treime” și „Sfântul Nicolae” (1731)",
+      "latitudine": 45.101868,
+      "longitudine": 24.305463,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 53,
+      "nume": "Biserica „Sfântul Dumitru” Valea Mare (1849)",
+      "latitudine": 44.926615,
+      "longitudine": 24.235383,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 54,
+      "nume": "Biserica „Sfântul Gheorghe și Sfântul Dumitru” (1726)",
+      "latitudine": 45.094759,
+      "longitudine": 24.283653,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 55,
+      "nume": "Biserica „Sfântul Ierarh Nicolae” Alunu (1919)",
+      "latitudine": 45.022108,
+      "longitudine": 23.822575,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 56,
+      "nume": "Biserica „Sfântul Ioan Botezătorul” și „Intrarea în Biserică” (1800)",
+      "latitudine": 45.145931,
+      "longitudine": 23.991904,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 57,
+      "nume": "Biserica „Sfântul Nicolae“ Vătășești (1712)",
+      "latitudine": 45.173037,
+      "longitudine": 24.115354,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 58,
+      "nume": "Biserica „Sfântul Nicolae” Slătioarele (1568)",
+      "latitudine": 45.071873,
+      "longitudine": 24.25018,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 59,
+      "nume": "Biserica „Sfântul Prooroc Ilie” (1520/1684)",
+      "latitudine": 45.241202,
+      "longitudine": 24.123286,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 60,
+      "nume": "Bisericile rupestre din Munții Buzăului",
+      "latitudine": 45.42245,
+      "longitudine": 26.435608,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 61,
+      "nume": "Biserică Fortificată",
+      "latitudine": 45.898402,
+      "longitudine": 24.73947,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 62,
+      "nume": "Blocul Adriatica-Trieste",
+      "latitudine": 44.430228,
+      "longitudine": 26.097052,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 63,
+      "nume": "Blocuri de sare",
+      "latitudine": 46.606648,
+      "longitudine": 25.085969,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 64,
+      "nume": "BobVarsag - Vărșag",
+      "latitudine": 46.531798,
+      "longitudine": 25.385038,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 65,
+      "nume": "Bolnița Mănăstirii Bistrița (1494)",
+      "latitudine": 45.18849,
+      "longitudine": 24.038735,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 66,
+      "nume": "Bolta Apei",
+      "latitudine": 45.667811,
+      "longitudine": 22.693003,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 67,
+      "nume": "Bowling",
+      "latitudine": 44.217143,
+      "longitudine": 28.633153,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 68,
+      "nume": "Braila Boat",
+      "latitudine": 45.300301,
+      "longitudine": 27.982083,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 69,
+      "nume": "Brașov sign",
+      "latitudine": 45.634629,
+      "longitudine": 25.593462,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 70,
+      "nume": "Bricul \"Mircea\"",
+      "latitudine": 44.157504,
+      "longitudine": 28.660895,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 71,
+      "nume": "Brontozaurul",
+      "latitudine": 45.238433,
+      "longitudine": 28.197587,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 72,
+      "nume": "Brâul Cioranga Mare",
+      "latitudine": 45.548236,
+      "longitudine": 25.223466,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 73,
+      "nume": "Bucătăria",
+      "latitudine": 45.431675,
+      "longitudine": 26.45102,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 74,
+      "nume": "Băile Figa",
+      "latitudine": 47.16357,
+      "longitudine": 24.20684,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 75,
+      "nume": "Bănuții Dobrogei",
+      "latitudine": 44.497481,
+      "longitudine": 28.219126,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 76,
+      "nume": "Bărci, hidrobiciclete",
+      "latitudine": 47.030727,
+      "longitudine": 23.905901,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 77,
+      "nume": "Cabana de vânătoare Bulvanu de la Reșca - Nicolae Ceaușescu",
+      "latitudine": 44.186743,
+      "longitudine": 24.418451,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 78,
+      "nume": "Cabana Vulpărie",
+      "latitudine": 45.36353,
+      "longitudine": 25.535098,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 79,
+      "nume": "Camera cu Minuni Galerie de artă",
+      "latitudine": 45.603377,
+      "longitudine": 25.993547,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 80,
+      "nume": "Camera de tortură",
+      "latitudine": 46.065838,
+      "longitudine": 23.574551,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 81,
+      "nume": "Camera împăcării",
+      "latitudine": 45.919872,
+      "longitudine": 24.159114,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 82,
+      "nume": "Canaraua lui Nicu, Canaraua Fetei",
+      "latitudine": 44.002255,
+      "longitudine": 28.070429,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 83,
+      "nume": "Canguri",
+      "latitudine": 46.552208,
+      "longitudine": 24.590373,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 84,
+      "nume": "Canion Cheile Dâmbovicioarei",
+      "latitudine": 45.418608,
+      "longitudine": 25.209169,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 85,
+      "nume": "Canion Dâmbovița",
+      "latitudine": 45.42225,
+      "longitudine": 25.19249,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 86,
+      "nume": "Canionul Orății",
+      "latitudine": 45.413243,
+      "longitudine": 25.218421,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 87,
+      "nume": "Canionul Sighistelului",
+      "latitudine": 46.533381,
+      "longitudine": 22.587699,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 88,
+      "nume": "Canionul Șapte Scări",
+      "latitudine": 45.567402,
+      "longitudine": 25.643675,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 89,
+      "nume": "Capela Calimachi",
+      "latitudine": 47.749436,
+      "longitudine": 26.601181,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 90,
+      "nume": "Capela Gotică",
+      "latitudine": 45.810667,
+      "longitudine": 24.182331,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 91,
+      "nume": "Capela Monteoru",
+      "latitudine": 45.145193,
+      "longitudine": 26.643336,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 92,
+      "nume": "Caponiera",
+      "latitudine": 46.06562,
+      "longitudine": 23.572132,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 93,
+      "nume": "Capre",
+      "latitudine": 44.301832,
+      "longitudine": 23.805796,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 94,
+      "nume": "Capucin",
+      "latitudine": 44.301143,
+      "longitudine": 23.806017,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 95,
+      "nume": "Capul Buival",
+      "latitudine": 44.881318,
+      "longitudine": 29.620541,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 96,
+      "nume": "Cariera Sitorman",
+      "latitudine": 44.41571,
+      "longitudine": 28.523081,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 97,
+      "nume": "Casa Albastră",
+      "latitudine": 45.796161,
+      "longitudine": 24.150576,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 98,
+      "nume": "Casa Albă",
+      "latitudine": 45.621467,
+      "longitudine": 28.1323,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 99,
+      "nume": "Casa Binder",
+      "latitudine": 45.95687,
+      "longitudine": 23.56854,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 100,
+      "nume": "Casa Breslei Aurarilor",
+      "latitudine": 45.798474,
+      "longitudine": 24.152142,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 101,
+      "nume": "Casa Brucken (1884)",
+      "latitudine": 45.800664,
+      "longitudine": 24.147965,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 102,
+      "nume": "Casa Bulina",
+      "latitudine": 45.163168,
+      "longitudine": 24.117232,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 103,
+      "nume": "Casa Böbel (Secol 14)",
+      "latitudine": 45.798142,
+      "longitudine": 24.153906,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 104,
+      "nume": "Casa Bădescu",
+      "latitudine": 44.670076,
+      "longitudine": 24.879817,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 105,
+      "nume": "Casa calfelor",
+      "latitudine": 45.797979,
+      "longitudine": 24.149665,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 106,
+      "nume": "Casa Caracostea",
+      "latitudine": 44.430615,
+      "longitudine": 24.362234,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 107,
+      "nume": "Casa Celibidache",
+      "latitudine": 46.923772,
+      "longitudine": 26.930176,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 108,
+      "nume": "Casa cu Cariatide",
+      "latitudine": 45.795953,
+      "longitudine": 24.149221,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 109,
+      "nume": "Casa de Apă",
+      "latitudine": 46.193012,
+      "longitudine": 26.422254,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 110,
+      "nume": "Casa Fântâneanu",
+      "latitudine": 44.43057,
+      "longitudine": 24.360413,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 111,
+      "nume": "Casa Ghivercea",
+      "latitudine": 45.087996,
+      "longitudine": 24.296801,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 112,
+      "nume": "Casa groazei",
+      "latitudine": 44.464557,
+      "longitudine": 26.120874,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 113,
+      "nume": "Casa Haller",
+      "latitudine": 45.796024,
+      "longitudine": 24.152696,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 114,
+      "nume": "Casa Hans Wal",
+      "latitudine": 45.796214,
+      "longitudine": 24.152638,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 115,
+      "nume": "Casa Hecht",
+      "latitudine": 45.796027,
+      "longitudine": 24.152005,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 116,
+      "nume": "Casa Ion Pillat",
+      "latitudine": 44.8684,
+      "longitudine": 24.938743,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 117,
+      "nume": "Casa Irinei Loghin",
+      "latitudine": 45.152523,
+      "longitudine": 26.038303,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 118,
+      "nume": "Casa Kirchenstein (1541)",
+      "latitudine": 45.640908,
+      "longitudine": 25.589977,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 119,
+      "nume": "Casa Lykiardopoulos(fosta Casă de copii)",
+      "latitudine": 45.273837,
+      "longitudine": 27.976008,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 120,
+      "nume": "Casa Memorială Marin Preda",
+      "latitudine": 44.385275,
+      "longitudine": 25.007136,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 121,
+      "nume": "Casa memorială Mihai Drumeș",
+      "latitudine": 44.347831,
+      "longitudine": 24.111011,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 122,
+      "nume": "Casa Memorială Vasile Alecsandri",
+      "latitudine": 47.066858,
+      "longitudine": 26.850175,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 123,
+      "nume": "Casa memorială Ștefan Luchian",
+      "latitudine": 47.741718,
+      "longitudine": 26.672826,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 124,
+      "nume": "Casa Mövert",
+      "latitudine": 45.796519,
+      "longitudine": 24.150094,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 125,
+      "nume": "Casa Nicolau",
+      "latitudine": 44.662592,
+      "longitudine": 24.877262,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 126,
+      "nume": "Casa Petre Ștefănescu Goangă (sf.sec XIX-cântăreț operă)",
+      "latitudine": 45.272878,
+      "longitudine": 27.975708,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 127,
+      "nume": "Casa Poynár",
+      "latitudine": 47.056539,
+      "longitudine": 21.930789,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 128,
+      "nume": "Casa Presei Libere",
+      "latitudine": 44.481249,
+      "longitudine": 26.071076,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 129,
+      "nume": "Casa Racovitză",
+      "latitudine": 44.461452,
+      "longitudine": 26.08736,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 130,
+      "nume": "Casa Răsturnată (Upside Down House)",
+      "latitudine": 46.551515,
+      "longitudine": 25.128898,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 131,
+      "nume": "Casa Teleki",
+      "latitudine": 46.546524,
+      "longitudine": 24.564937,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 132,
+      "nume": "Casa Tineretului (Casa Științei)",
+      "latitudine": 45.096571,
+      "longitudine": 24.374844,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 133,
+      "nume": "Casa Verde",
+      "latitudine": 44.896811,
+      "longitudine": 21.718635,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 134,
+      "nume": "Casa Întoarsă",
+      "latitudine": 45.679924,
+      "longitudine": 24.451021,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 135,
+      "nume": "Casa „Darvas-La Roche”",
+      "latitudine": 47.056064,
+      "longitudine": 21.93254,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 136,
+      "nume": "Cascada \" Șoimu \"",
+      "latitudine": 45.575706,
+      "longitudine": 22.430116,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 137,
+      "nume": "Cascada Berea",
+      "latitudine": 46.47673,
+      "longitudine": 26.386597,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 138,
+      "nume": "Cascada Beușnița",
+      "latitudine": 44.935104,
+      "longitudine": 21.803867,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 139,
+      "nume": "Cascada Bigăr",
+      "latitudine": 45.003476,
+      "longitudine": 21.959531,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 140,
+      "nume": "Cascada Bâlea",
+      "latitudine": 45.626403,
+      "longitudine": 24.612267,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 141,
+      "nume": "Cascada Cailor",
+      "latitudine": 47.590271,
+      "longitudine": 24.802259,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 142,
+      "nume": "Cascada Capra",
+      "latitudine": 45.586284,
+      "longitudine": 24.630976,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 143,
+      "nume": "Cascada Duras",
+      "latitudine": 46.809314,
+      "longitudine": 26.312266,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 144,
+      "nume": "Cascada Duruitoarea",
+      "latitudine": 46.972569,
+      "longitudine": 25.935339,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 145,
+      "nume": "Cascada Duruitoarea (pragul inferior)",
+      "latitudine": 46.972732,
+      "longitudine": 25.935309,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 146,
+      "nume": "Cascada Dușul Pădurarului",
+      "latitudine": 45.410498,
+      "longitudine": 23.483254,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 147,
+      "nume": "Cascada Gardului",
+      "latitudine": 45.306551,
+      "longitudine": 24.335242,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 148,
+      "nume": "Cascada Gârliște",
+      "latitudine": 45.161245,
+      "longitudine": 21.854584,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 149,
+      "nume": "Cascada Lotrisor",
+      "latitudine": 45.300552,
+      "longitudine": 24.260565,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 150,
+      "nume": "Cascada Magura",
+      "latitudine": 47.618581,
+      "longitudine": 24.570067,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 151,
+      "nume": "Cascada Mezotermală Toplița",
+      "latitudine": 46.917657,
+      "longitudine": 25.350831,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 152,
+      "nume": "Cascada Moara Dracului",
+      "latitudine": 46.686076,
+      "longitudine": 22.702592,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 153,
+      "nume": "Cascada Muntioru",
+      "latitudine": 45.623896,
+      "longitudine": 26.68461,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 154,
+      "nume": "Cascada Oșelu",
+      "latitudine": 46.607365,
+      "longitudine": 22.670296,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 155,
+      "nume": "Cascada Putnei",
+      "latitudine": 45.929667,
+      "longitudine": 26.598711,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 156,
+      "nume": "Cascada Saritoarea",
+      "latitudine": 46.1684,
+      "longitudine": 22.997806,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 157,
+      "nume": "Cascada Scorușul",
+      "latitudine": 45.335799,
+      "longitudine": 24.011427,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 158,
+      "nume": "Cascada Slănic",
+      "latitudine": 46.197095,
+      "longitudine": 26.421284,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 159,
+      "nume": "Cascada Spumoasă",
+      "latitudine": 45.408373,
+      "longitudine": 25.510438,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 160,
+      "nume": "Cascada Tamina",
+      "latitudine": 45.533817,
+      "longitudine": 25.61049,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 161,
+      "nume": "Cascada Tigăi",
+      "latitudine": 45.877423,
+      "longitudine": 25.366721,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 162,
+      "nume": "Cascada Timișului",
+      "latitudine": 45.670916,
+      "longitudine": 21.288754,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 163,
+      "nume": "Cascada Urlătoarea",
+      "latitudine": 45.396205,
+      "longitudine": 25.515741,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 164,
+      "nume": "Cascada Valea Oltenei (Șucu)",
+      "latitudine": 45.349043,
+      "longitudine": 22.517544,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 165,
+      "nume": "Cascada Valea Zânelor",
+      "latitudine": 45.836639,
+      "longitudine": 26.223558,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 166,
+      "nume": "Cascada Voalul Miresei",
+      "latitudine": 45.411098,
+      "longitudine": 23.480319,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 167,
+      "nume": "Cascada Văioaga",
+      "latitudine": 44.916225,
+      "longitudine": 21.764014,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 168,
+      "nume": "Cascada Vălul Miresei",
+      "latitudine": 46.710758,
+      "longitudine": 22.829256,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 169,
+      "nume": "Cascada Șipote",
+      "latitudine": 46.405696,
+      "longitudine": 23.466474,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 170,
+      "nume": "Cascada Șușara",
+      "latitudine": 44.85838,
+      "longitudine": 21.751932,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 171,
+      "nume": "Cascadele Șipotului",
+      "latitudine": 45.512197,
+      "longitudine": 23.219212,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 172,
+      "nume": "Casele de Piatra",
+      "latitudine": 44.01479,
+      "longitudine": 28.04539,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 173,
+      "nume": "Castelul de Apă",
+      "latitudine": 45.275414,
+      "longitudine": 27.978531,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 174,
+      "nume": "Castelul Gyulay Ferencz",
+      "latitudine": 45.92501,
+      "longitudine": 22.856399,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 175,
+      "nume": "Castelul Kendeffy",
+      "latitudine": 45.588682,
+      "longitudine": 22.966676,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 176,
+      "nume": "Castelul Sturdza",
+      "latitudine": 47.09656,
+      "longitudine": 26.923371,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 177,
+      "nume": "Castrul Roman Titești (ne-exploatat)",
+      "latitudine": 45.415109,
+      "longitudine": 24.378254,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 178,
+      "nume": "Casuta Weekend",
+      "latitudine": 46.560816,
+      "longitudine": 24.575567,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 179,
+      "nume": "Casă Art Deco",
+      "latitudine": 45.109224,
+      "longitudine": 24.366484,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 180,
+      "nume": "Catacombele Sibiului - Mănăstirea Ursulinelor",
+      "latitudine": 45.798064,
+      "longitudine": 24.155173,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 181,
+      "nume": "Cataractele Lotrului",
+      "latitudine": 45.464142,
+      "longitudine": 23.868693,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 182,
+      "nume": "Cataractele Lotrului",
+      "latitudine": 45.470186,
+      "longitudine": 23.864382,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 183,
+      "nume": "Cazino Govora",
+      "latitudine": 45.081854,
+      "longitudine": 24.175789,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 184,
+      "nume": "Ceas Floral",
+      "latitudine": 45.755067,
+      "longitudine": 21.231241,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 185,
+      "nume": "Cel mai jos punct al orașului Iași (30m)",
+      "latitudine": 47.140665,
+      "longitudine": 27.691797,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 186,
+      "nume": "Celula din Poartă",
+      "latitudine": 46.067239,
+      "longitudine": 23.574507,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 187,
+      "nume": "Centrul de Agrement Cozia",
+      "latitudine": 45.268935,
+      "longitudine": 24.315853,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 188,
+      "nume": "Centrul Vechi",
+      "latitudine": 44.928506,
+      "longitudine": 25.458647,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 189,
+      "nume": "Cerb Lopătar",
+      "latitudine": 44.301978,
+      "longitudine": 23.80623,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 190,
+      "nume": "Cerdacul Stanciului",
+      "latitudine": 45.506569,
+      "longitudine": 25.194779,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 191,
+      "nume": "Cetatea nobiliară Mălăiești",
+      "latitudine": 45.483199,
+      "longitudine": 22.947463,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 192,
+      "nume": "Cetatea Tricule",
+      "latitudine": 44.479933,
+      "longitudine": 22.142641,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 193,
+      "nume": "Cetății Paganilor",
+      "latitudine": 46.450594,
+      "longitudine": 25.653872,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 194,
+      "nume": "Cheile Babei",
+      "latitudine": 47.321721,
+      "longitudine": 23.744004,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 195,
+      "nume": "Cheile Bicăjelului",
+      "latitudine": 46.761938,
+      "longitudine": 25.831303,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 196,
+      "nume": "Cheile Borzești",
+      "latitudine": 46.515766,
+      "longitudine": 23.637966,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 197,
+      "nume": "Cheile Dobrogei",
+      "latitudine": 44.502448,
+      "longitudine": 28.425512,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 198,
+      "nume": "Cheile Duruitoarei",
+      "latitudine": 46.769883,
+      "longitudine": 25.83607,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 199,
+      "nume": "Cheile Galbenei",
+      "latitudine": 46.555198,
+      "longitudine": 22.676861,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 200,
+      "nume": "Cheile Gardisoarei",
+      "latitudine": 46.546618,
+      "longitudine": 22.766396,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 201,
+      "nume": "Cheile Lăpușului",
+      "latitudine": 47.431933,
+      "longitudine": 23.6782,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 202,
+      "nume": "Cheile Moara Dracului",
+      "latitudine": 47.474862,
+      "longitudine": 25.6117,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 203,
+      "nume": "Cheile Oltețului",
+      "latitudine": 45.199053,
+      "longitudine": 23.784564,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 204,
+      "nume": "Cheile Ordâncușei",
+      "latitudine": 46.46653,
+      "longitudine": 22.840115,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 205,
+      "nume": "Cheile Orzei",
+      "latitudine": 45.306995,
+      "longitudine": 25.415457,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 206,
+      "nume": "Cheile Panicenilor",
+      "latitudine": 46.801124,
+      "longitudine": 23.18958,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 207,
+      "nume": "Cheile Pârâul Alb",
+      "latitudine": 45.479436,
+      "longitudine": 25.996157,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 208,
+      "nume": "Cheile Râmețului",
+      "latitudine": 46.293053,
+      "longitudine": 23.474741,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 209,
+      "nume": "Cheile Sohodolului",
+      "latitudine": 45.136037,
+      "longitudine": 23.14246,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 210,
+      "nume": "Cheile Strâmbu",
+      "latitudine": 45.527003,
+      "longitudine": 25.989856,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 211,
+      "nume": "Cheile Turului",
+      "latitudine": 46.607689,
+      "longitudine": 23.707476,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 212,
+      "nume": "Cheile Turzii",
+      "latitudine": 46.563241,
+      "longitudine": 23.69019,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 213,
+      "nume": "Cheile Zărneștilor",
+      "latitudine": 45.524792,
+      "longitudine": 25.280964,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 214,
+      "nume": "Chiliile rupestre de la Canaraua Fetii",
+      "latitudine": 44.064304,
+      "longitudine": 27.645782,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 215,
+      "nume": "Cimitirul Central",
+      "latitudine": 46.762711,
+      "longitudine": 23.594045,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 216,
+      "nume": "Cimitirul de Vagonete",
+      "latitudine": 46.39964,
+      "longitudine": 22.662079,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 217,
+      "nume": "Cimitirul Eroilor Titești",
+      "latitudine": 45.424484,
+      "longitudine": 24.383368,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 218,
+      "nume": "Cimitirul Săracilor",
+      "latitudine": 47.931365,
+      "longitudine": 23.860814,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 219,
+      "nume": "Cimitirul Vesel",
+      "latitudine": 47.971407,
+      "longitudine": 23.694464,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 220,
+      "nume": "Cinema 9D VR & Games",
+      "latitudine": 44.063226,
+      "longitudine": 28.636404,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 221,
+      "nume": "Ciuperca de vreme din Nufaru",
+      "latitudine": 45.14655,
+      "longitudine": 28.902684,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 222,
+      "nume": "Cișmeaua Eroilor",
+      "latitudine": 45.145785,
+      "longitudine": 24.113636,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 223,
+      "nume": "Cloșca cu puii de aur",
+      "latitudine": 45.105509,
+      "longitudine": 26.571876,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 224,
+      "nume": "Clubul Sportiv PROGRESUL Spartan",
+      "latitudine": 44.380261,
+      "longitudine": 26.088469,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 225,
+      "nume": "Clădirea Băilor",
+      "latitudine": 47.345005,
+      "longitudine": 25.356852,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 226,
+      "nume": "Colac de puț",
+      "latitudine": 44.562127,
+      "longitudine": 27.351832,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 227,
+      "nume": "Colții Nitrii",
+      "latitudine": 45.527337,
+      "longitudine": 25.916979,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 228,
+      "nume": "Complex Europa",
+      "latitudine": 44.217884,
+      "longitudine": 28.638069,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 229,
+      "nume": "Complexul Muzeal Măldărești",
+      "latitudine": 45.119074,
+      "longitudine": 24.003038,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 230,
+      "nume": "Conacul familiei Baich de Vărădia",
+      "latitudine": 45.083114,
+      "longitudine": 21.541808,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 231,
+      "nume": "Conacul Grigorescu (1930)",
+      "latitudine": 45.297768,
+      "longitudine": 26.641516,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 232,
+      "nume": "Conacul Iliescu",
+      "latitudine": 45.17579,
+      "longitudine": 24.120694,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 233,
+      "nume": "Conacul Lahovary (1903)",
+      "latitudine": 45.065434,
+      "longitudine": 24.388623,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 234,
+      "nume": "Conacul Neamțu din Olari",
+      "latitudine": 44.303294,
+      "longitudine": 24.203546,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 235,
+      "nume": "Conacul Olănescu-Schitul Inătești",
+      "latitudine": 45.099844,
+      "longitudine": 24.359546,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 236,
+      "nume": "Conacul Otetelișanu",
+      "latitudine": 44.659171,
+      "longitudine": 23.908711,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 237,
+      "nume": "Conacul Stember",
+      "latitudine": 44.304427,
+      "longitudine": 24.744292,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 238,
+      "nume": "Conacul Zichy",
+      "latitudine": 46.701777,
+      "longitudine": 24.626636,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 239,
+      "nume": "Cornișa Aquapark & Sports Botoșani",
+      "latitudine": 47.739622,
+      "longitudine": 26.63589,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 240,
+      "nume": "Cosmobaza Arca",
+      "latitudine": 45.151266,
+      "longitudine": 24.156443,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 241,
+      "nume": "Crama Avincis",
+      "latitudine": 44.638999,
+      "longitudine": 24.208893,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 242,
+      "nume": "Crama Spârleni",
+      "latitudine": 44.714769,
+      "longitudine": 24.125744,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 243,
+      "nume": "Cramele Recaș",
+      "latitudine": 45.827334,
+      "longitudine": 21.525734,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 244,
+      "nume": "Crucea Bijii",
+      "latitudine": 45.65887,
+      "longitudine": 23.76731,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 245,
+      "nume": "Crucea Cornu",
+      "latitudine": 45.172773,
+      "longitudine": 25.706658,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 246,
+      "nume": "Crucea de la halta",
+      "latitudine": 43.943441,
+      "longitudine": 25.894859,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 247,
+      "nume": "Crucea de pe Muchia Pănătăului",
+      "latitudine": 45.312185,
+      "longitudine": 26.457758,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 248,
+      "nume": "Crucea Grănicerului",
+      "latitudine": 45.502242,
+      "longitudine": 25.183617,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 249,
+      "nume": "Crucea Memorială",
+      "latitudine": 46.223821,
+      "longitudine": 24.776529,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 250,
+      "nume": "Crucile Moșilor",
+      "latitudine": 45.201797,
+      "longitudine": 24.17816,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 251,
+      "nume": "Csikóslak - műemlék",
+      "latitudine": 46.30492,
+      "longitudine": 20.824391,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 252,
+      "nume": "Cula Sfântul Mina - Orchidan",
+      "latitudine": 44.878783,
+      "longitudine": 24.917813,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 253,
+      "nume": "Cula Turcească",
+      "latitudine": 45.514926,
+      "longitudine": 21.122324,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 254,
+      "nume": "Cuptoare Medievale",
+      "latitudine": 47.745652,
+      "longitudine": 26.666657,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 255,
+      "nume": "Cuptorul de pâine",
+      "latitudine": 44.468474,
+      "longitudine": 26.079161,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 256,
+      "nume": "Curte interioara",
+      "latitudine": 47.64499,
+      "longitudine": 26.270271,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 257,
+      "nume": "Curtea boierilor Budişteanu",
+      "latitudine": 44.915516,
+      "longitudine": 24.837057,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 258,
+      "nume": "Curtea boierilor Vlădescu",
+      "latitudine": 45.172861,
+      "longitudine": 24.916459,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 259,
+      "nume": "Curtea exterioara",
+      "latitudine": 47.64477,
+      "longitudine": 26.27069,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 260,
+      "nume": "Curtea Sticlarilor",
+      "latitudine": 44.430711,
+      "longitudine": 26.101025,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 261,
+      "nume": "Călugării spa",
+      "latitudine": 46.377404,
+      "longitudine": 25.828209,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 262,
+      "nume": "Căminul cultural",
+      "latitudine": 45.064605,
+      "longitudine": 24.225097,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 263,
+      "nume": "Căprioare",
+      "latitudine": 44.301948,
+      "longitudine": 23.806074,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 264,
+      "nume": "Căsuța rasturnata",
+      "latitudine": 45.138954,
+      "longitudine": 23.766449,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 265,
+      "nume": "Dacii Liberi",
+      "latitudine": 47.829497,
+      "longitudine": 24.216099,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 266,
+      "nume": "Dealul cu lilieci",
+      "latitudine": 45.276363,
+      "longitudine": 26.739482,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 267,
+      "nume": "Debarcader",
+      "latitudine": 44.422799,
+      "longitudine": 26.157205,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 268,
+      "nume": "Debarcader",
+      "latitudine": 44.436121,
+      "longitudine": 26.091072,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 269,
+      "nume": "Delfinariu",
+      "latitudine": 44.205556,
+      "longitudine": 28.642973,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 270,
+      "nume": "Delta Olănești",
+      "latitudine": 45.098567,
+      "longitudine": 24.376277,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 271,
+      "nume": "Delta Tamasesti",
+      "latitudine": 44.99798,
+      "longitudine": 23.199371,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 272,
+      "nume": "Dexiworkld Park Malaia Tickets",
+      "latitudine": 45.350529,
+      "longitudine": 24.079627,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 273,
+      "nume": "Dexiworld Park Malaia",
+      "latitudine": 45.350774,
+      "longitudine": 24.079667,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 274,
+      "nume": "Digul Capul Turcului (ESN2)",
+      "latitudine": 44.028163,
+      "longitudine": 28.658132,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 275,
+      "nume": "Digul de la Epavă",
+      "latitudine": 43.960041,
+      "longitudine": 28.648616,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 276,
+      "nume": "Digul Movilă (ESN3)",
+      "latitudine": 44.037497,
+      "longitudine": 28.654166,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 277,
+      "nume": "Digul Pescărie (ESN1)",
+      "latitudine": 44.021309,
+      "longitudine": 28.661881,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 278,
+      "nume": "Domeniul Inculeț",
+      "latitudine": 47.08179,
+      "longitudine": 27.62354,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 279,
+      "nume": "Domeniul KELARU",
+      "latitudine": 44.966946,
+      "longitudine": 26.171149,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 280,
+      "nume": "Drapelul României",
+      "latitudine": 47.152902,
+      "longitudine": 27.587375,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 281,
+      "nume": "Dâmbul Romanilor",
+      "latitudine": 45.935588,
+      "longitudine": 23.16187,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 282,
+      "nume": "Eldorado",
+      "latitudine": 44.467918,
+      "longitudine": 28.48277,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 283,
+      "nume": "Electric Castle",
+      "latitudine": 46.909606,
+      "longitudine": 23.80817,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 284,
+      "nume": "Epava elicopterului SMURD",
+      "latitudine": 47.201255,
+      "longitudine": 24.913744,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 285,
+      "nume": "Execution area",
+      "latitudine": 47.64463,
+      "longitudine": 26.270731,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 286,
+      "nume": "Expozitie de sculptura in aer liber",
+      "latitudine": 46.749442,
+      "longitudine": 25.530516,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 287,
+      "nume": "Eșafod",
+      "latitudine": 46.06476,
+      "longitudine": 23.572651,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 288,
+      "nume": "Fabrica de Muștar",
+      "latitudine": 45.828423,
+      "longitudine": 27.435537,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 289,
+      "nume": "Fabrică de Țigle din Buzău (1951)",
+      "latitudine": 45.158054,
+      "longitudine": 26.829482,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 290,
+      "nume": "Festő-borvíz",
+      "latitudine": 46.316916,
+      "longitudine": 25.59706,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 291,
+      "nume": "Fierbătorile din Berca",
+      "latitudine": 45.296639,
+      "longitudine": 26.694334,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 292,
+      "nume": "Focul Viu",
+      "latitudine": 45.535896,
+      "longitudine": 26.548756,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 293,
+      "nume": "Focul Viu",
+      "latitudine": 45.750799,
+      "longitudine": 26.832825,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 294,
+      "nume": "Foișor",
+      "latitudine": 45.274507,
+      "longitudine": 27.978801,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 295,
+      "nume": "Formațiune carstică de suprafață",
+      "latitudine": 46.563784,
+      "longitudine": 23.678967,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 296,
+      "nume": "former mine-Valea Blaznei",
+      "latitudine": 47.479944,
+      "longitudine": 24.908677,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 297,
+      "nume": "Fortress Map Cobblestone",
+      "latitudine": 45.757639,
+      "longitudine": 21.228975,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 298,
+      "nume": "Fosta Casă de Vară Samuel von Brukenthal",
+      "latitudine": 45.79032,
+      "longitudine": 24.152274,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 299,
+      "nume": "Fosta clădire a Primăriei Bărbătești",
+      "latitudine": 45.171968,
+      "longitudine": 24.117819,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 300,
+      "nume": "Fosta grădiniță Dobriceni",
+      "latitudine": 45.159531,
+      "longitudine": 24.141033,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 301,
+      "nume": "Fosta Moară Turcească",
+      "latitudine": 44.865299,
+      "longitudine": 21.741184,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 302,
+      "nume": "Fostul Palat al Cancelariei Comandamentului Militar",
+      "latitudine": 45.79519,
+      "longitudine": 24.150484,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 303,
+      "nume": "Fundătura Ponorului",
+      "latitudine": 45.551147,
+      "longitudine": 23.173152,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 304,
+      "nume": "Fântâna Acoperită",
+      "latitudine": 43.990447,
+      "longitudine": 22.93824,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 305,
+      "nume": "Fântâna lui Ferdinand",
+      "latitudine": 46.04015,
+      "longitudine": 26.535399,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 306,
+      "nume": "Fântâna Sărindar",
+      "latitudine": 44.435056,
+      "longitudine": 26.097617,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 307,
+      "nume": "Fântână arteziene",
+      "latitudine": 46.720853,
+      "longitudine": 23.589658,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 308,
+      "nume": "Gară Anina",
+      "latitudine": 45.089616,
+      "longitudine": 21.852078,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 309,
+      "nume": "Gară Oravița",
+      "latitudine": 45.037332,
+      "longitudine": 21.686781,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 310,
+      "nume": "Gaura turela",
+      "latitudine": 44.504709,
+      "longitudine": 26.201873,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 311,
+      "nume": "Gaura Turela",
+      "latitudine": 44.50526,
+      "longitudine": 26.201225,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 312,
+      "nume": "Gaura turela",
+      "latitudine": 44.505324,
+      "longitudine": 26.202084,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 313,
+      "nume": "Ginkgo Biloba",
+      "latitudine": 47.174102,
+      "longitudine": 27.57028,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 314,
+      "nume": "Golul Pietrosului",
+      "latitudine": 45.768322,
+      "longitudine": 26.528659,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 315,
+      "nume": "Golul Roibului",
+      "latitudine": 45.886597,
+      "longitudine": 26.550218,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 316,
+      "nume": "Gomoiu",
+      "latitudine": 45.913234,
+      "longitudine": 26.451044,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 317,
+      "nume": "Gorun",
+      "latitudine": 46.167942,
+      "longitudine": 22.736318,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 318,
+      "nume": "Gorun plantat de Regina Maria",
+      "latitudine": 46.168016,
+      "longitudine": 22.736312,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 319,
+      "nume": "Gorunul lui Ferdinand",
+      "latitudine": 46.167923,
+      "longitudine": 22.735877,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 320,
+      "nume": "Gorunul lui Iancu",
+      "latitudine": 46.168314,
+      "longitudine": 22.735509,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 321,
+      "nume": "Gravity Hill",
+      "latitudine": 47.096317,
+      "longitudine": 27.650071,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 322,
+      "nume": "Gravity Hill Budești Cavnic",
+      "latitudine": 47.704563,
+      "longitudine": 23.918012,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 323,
+      "nume": "Gravity Hill Măgura",
+      "latitudine": 46.552269,
+      "longitudine": 26.825996,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 324,
+      "nume": "Gravity Hill Strunga",
+      "latitudine": 47.174262,
+      "longitudine": 26.954069,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 325,
+      "nume": "Grota",
+      "latitudine": 45.558247,
+      "longitudine": 25.240179,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 326,
+      "nume": "grotă",
+      "latitudine": 47.087834,
+      "longitudine": 27.644158,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 327,
+      "nume": "gróf Teleki Sándor sírja",
+      "latitudine": 47.60034,
+      "longitudine": 23.52377,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 328,
+      "nume": "Grădina păsărilor ornamentale",
+      "latitudine": 46.467638,
+      "longitudine": 25.188111,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 329,
+      "nume": "Grădina senzorială",
+      "latitudine": 45.423384,
+      "longitudine": 28.030196,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 330,
+      "nume": "Grădina Valorilor Românești",
+      "latitudine": 44.405066,
+      "longitudine": 26.118844,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 331,
+      "nume": "Grădina Zmeilor",
+      "latitudine": 47.199627,
+      "longitudine": 23.308772,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 332,
+      "nume": "Gura de vărsare în mare a Brațului Sfântu Gheorghe",
+      "latitudine": 44.878905,
+      "longitudine": 29.618885,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 333,
+      "nume": "Gârla de Mijloc",
+      "latitudine": 44.876547,
+      "longitudine": 29.592153,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 334,
+      "nume": "Hala Centrala",
+      "latitudine": 47.743411,
+      "longitudine": 26.66707,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 335,
+      "nume": "Hanul cu Tei",
+      "latitudine": 44.432018,
+      "longitudine": 26.102108,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 336,
+      "nume": "Hanul Gabroveni-Universal",
+      "latitudine": 44.430959,
+      "longitudine": 26.101873,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 337,
+      "nume": "Hanul Roșu",
+      "latitudine": 44.430025,
+      "longitudine": 26.100633,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 338,
+      "nume": "Hanul Zamfir Simeon",
+      "latitudine": 44.432646,
+      "longitudine": 26.101842,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 339,
+      "nume": "Herghelia și Castelul",
+      "latitudine": 45.807166,
+      "longitudine": 24.814197,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 340,
+      "nume": "Hotel Mon Jardin",
+      "latitudine": 45.089786,
+      "longitudine": 29.088322,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 341,
+      "nume": "Hotelul Împăratul Traian din Corabia",
+      "latitudine": 43.773489,
+      "longitudine": 24.508924,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 342,
+      "nume": "Hotelul Ștefănescu (1910)",
+      "latitudine": 45.080575,
+      "longitudine": 24.178351,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 343,
+      "nume": "Iezerele Berhinei",
+      "latitudine": 45.282574,
+      "longitudine": 22.764803,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 344,
+      "nume": "Insula Copiilor",
+      "latitudine": 44.480187,
+      "longitudine": 26.07694,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 345,
+      "nume": "Insula de pe râul Argeș",
+      "latitudine": 44.905888,
+      "longitudine": 24.838804,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 346,
+      "nume": "Insula Lacul Morii",
+      "latitudine": 44.459207,
+      "longitudine": 26.029363,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 347,
+      "nume": "Insula Sacalin",
+      "latitudine": 44.783711,
+      "longitudine": 29.509138,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 348,
+      "nume": "Intrare",
+      "latitudine": 44.504929,
+      "longitudine": 26.2016,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 349,
+      "nume": "Intrare Catacombe",
+      "latitudine": 45.696087,
+      "longitudine": 27.184972,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 350,
+      "nume": "Intrarea în Fostul Teatru Național",
+      "latitudine": 44.436937,
+      "longitudine": 26.097471,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 351,
+      "nume": "IQM TechnoPark",
+      "latitudine": 44.587984,
+      "longitudine": 26.064001,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 352,
+      "nume": "Izvoare ape sulfuroase",
+      "latitudine": 45.164348,
+      "longitudine": 24.16455,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 353,
+      "nume": "Izvoarele",
+      "latitudine": 45.836212,
+      "longitudine": 26.469326,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 354,
+      "nume": "Izvor apa termala",
+      "latitudine": 46.92432,
+      "longitudine": 25.346567,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 355,
+      "nume": "Izvor apă minerală",
+      "latitudine": 45.84559,
+      "longitudine": 26.170288,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 356,
+      "nume": "Izvor apă minerală",
+      "latitudine": 45.846846,
+      "longitudine": 26.169516,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 357,
+      "nume": "Izvor Apă Minerală Valea Cornii",
+      "latitudine": 47.434516,
+      "longitudine": 24.883476,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 358,
+      "nume": "Izvor apă sulfuroasă",
+      "latitudine": 45.130864,
+      "longitudine": 24.03618,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 359,
+      "nume": "Izvorul apa minerala Kati",
+      "latitudine": 45.844544,
+      "longitudine": 26.176553,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 360,
+      "nume": "Izvorul Ferdinand",
+      "latitudine": 45.079524,
+      "longitudine": 24.174203,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 361,
+      "nume": "Izvorul Mureșului",
+      "latitudine": 46.621375,
+      "longitudine": 25.715824,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 362,
+      "nume": "Jaguar",
+      "latitudine": 44.301879,
+      "longitudine": 23.807067,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 363,
+      "nume": "Jgheabu lui Vodă",
+      "latitudine": 46.95849,
+      "longitudine": 25.930813,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 364,
+      "nume": "Jgheabul Armenilor",
+      "latitudine": 46.946499,
+      "longitudine": 25.963459,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 365,
+      "nume": "Kisbaconi vízimalom",
+      "latitudine": 46.105195,
+      "longitudine": 25.696195,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 366,
+      "nume": "Károly angol király birtoka",
+      "latitudine": 46.009789,
+      "longitudine": 25.762726,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 367,
+      "nume": "La avion",
+      "latitudine": 45.856899,
+      "longitudine": 22.184604,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 368,
+      "nume": "La Buturugă",
+      "latitudine": 44.436972,
+      "longitudine": 26.09024,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 369,
+      "nume": "La Cetate",
+      "latitudine": 44.439046,
+      "longitudine": 26.087634,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 370,
+      "nume": "La chilii",
+      "latitudine": 45.099541,
+      "longitudine": 26.30891,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 371,
+      "nume": "La Insecte",
+      "latitudine": 45.190002,
+      "longitudine": 28.268858,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 372,
+      "nume": "La Lanțuri",
+      "latitudine": 45.485277,
+      "longitudine": 25.97868,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 373,
+      "nume": "La Picnic",
+      "latitudine": 44.46739,
+      "longitudine": 28.479701,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 374,
+      "nume": "La Pitici",
+      "latitudine": 44.467797,
+      "longitudine": 28.48121,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 375,
+      "nume": "La Pleșe",
+      "latitudine": 46.91273,
+      "longitudine": 23.23003,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 376,
+      "nume": "La Prepeleag",
+      "latitudine": 45.50296,
+      "longitudine": 25.192268,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 377,
+      "nume": "La Pîrîul Țiganului",
+      "latitudine": 45.898478,
+      "longitudine": 26.447042,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 378,
+      "nume": "La Troiță",
+      "latitudine": 45.290618,
+      "longitudine": 24.322665,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 379,
+      "nume": "La Tunele",
+      "latitudine": 44.902202,
+      "longitudine": 21.747466,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 380,
+      "nume": "La Vagon",
+      "latitudine": 46.955574,
+      "longitudine": 25.930846,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 381,
+      "nume": "La Vulturul De Mare Cu Peștele În Ghiare",
+      "latitudine": 44.430623,
+      "longitudine": 26.10462,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 382,
+      "nume": "La Șahiști",
+      "latitudine": 44.436292,
+      "longitudine": 26.08951,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 383,
+      "nume": "Lacul cu Nuferi",
+      "latitudine": 45.199751,
+      "longitudine": 24.244905,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 384,
+      "nume": "Lacul cu Ochiu",
+      "latitudine": 45.115264,
+      "longitudine": 24.815247,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 385,
+      "nume": "Lacul Gâlcescu",
+      "latitudine": 45.350231,
+      "longitudine": 23.612237,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 386,
+      "nume": "Lacurile Sărate Telega",
+      "latitudine": 45.141424,
+      "longitudine": 25.794512,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 387,
+      "nume": "Ladók-völgyhíd",
+      "latitudine": 46.529888,
+      "longitudine": 25.894803,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 388,
+      "nume": "Laguna Albastră",
+      "latitudine": 45.831056,
+      "longitudine": 24.994655,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 389,
+      "nume": "Lama",
+      "latitudine": 44.301758,
+      "longitudine": 23.805654,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 390,
+      "nume": "Lavanda Harmanesti",
+      "latitudine": 47.296853,
+      "longitudine": 26.807443,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 391,
+      "nume": "Lei de Mare",
+      "latitudine": 44.205182,
+      "longitudine": 28.642733,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 392,
+      "nume": "Leu",
+      "latitudine": 44.301657,
+      "longitudine": 23.807054,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 393,
+      "nume": "Loc fosilifer Aliman",
+      "latitudine": 44.176736,
+      "longitudine": 27.866358,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 394,
+      "nume": "Locomotiva",
+      "latitudine": 45.423456,
+      "longitudine": 23.367755,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 395,
+      "nume": "Locomotivă",
+      "latitudine": 44.448414,
+      "longitudine": 26.073156,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 396,
+      "nume": "Locomotivă cu aburi",
+      "latitudine": 45.66117,
+      "longitudine": 25.615846,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 397,
+      "nume": "LostPlace Natura Parc",
+      "latitudine": 45.762856,
+      "longitudine": 25.821482,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 398,
+      "nume": "Lup",
+      "latitudine": 44.302078,
+      "longitudine": 23.80674,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 399,
+      "nume": "Magazinul Voaleta",
+      "latitudine": 44.431903,
+      "longitudine": 26.102951,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 400,
+      "nume": "Malul cu sare și Trovanții din Sărățel",
+      "latitudine": 45.299892,
+      "longitudine": 26.487729,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 401,
+      "nume": "Masa lui Vodă",
+      "latitudine": 46.045998,
+      "longitudine": 26.539439,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 402,
+      "nume": "MB Divert Land",
+      "latitudine": 45.243083,
+      "longitudine": 24.825059,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 403,
+      "nume": "Mihaileni Canyon",
+      "latitudine": 45.979742,
+      "longitudine": 24.352755,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 404,
+      "nume": "Mina de Aragonit",
+      "latitudine": 46.490473,
+      "longitudine": 25.171826,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 405,
+      "nume": "Mina Făget",
+      "latitudine": 47.466448,
+      "longitudine": 24.926343,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 406,
+      "nume": "Mini Romania Original Park",
+      "latitudine": 46.230382,
+      "longitudine": 24.79372,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 407,
+      "nume": "Mlaștina Mosoroasa",
+      "latitudine": 45.151323,
+      "longitudine": 24.290818,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 408,
+      "nume": "Moara de apă",
+      "latitudine": 46.789457,
+      "longitudine": 22.388949,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 409,
+      "nume": "Mocanita Maramures",
+      "latitudine": 47.714864,
+      "longitudine": 24.442783,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 410,
+      "nume": "Mocănița Vișeu de Sus",
+      "latitudine": 47.714747,
+      "longitudine": 24.443018,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 411,
+      "nume": "Mofeta (gázfürdő)",
+      "latitudine": 46.11202,
+      "longitudine": 25.957966,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 412,
+      "nume": "Mofeta Bardocz",
+      "latitudine": 45.845066,
+      "longitudine": 26.172671,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 413,
+      "nume": "Mofeta Bene",
+      "latitudine": 45.84487,
+      "longitudine": 26.172148,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 414,
+      "nume": "Moldovița",
+      "latitudine": 47.688728,
+      "longitudine": 25.536608,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 415,
+      "nume": "Monetaria din sec XVII",
+      "latitudine": 47.644914,
+      "longitudine": 26.270679,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 416,
+      "nume": "Morile de apa de la Rudaria",
+      "latitudine": 44.868093,
+      "longitudine": 22.100486,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 417,
+      "nume": "Morminte tracice",
+      "latitudine": 45.111793,
+      "longitudine": 26.502193,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 418,
+      "nume": "Mormântul Preotului Tudorel Marin",
+      "latitudine": 45.696114,
+      "longitudine": 27.185538,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 419,
+      "nume": "Mormântul Turcului",
+      "latitudine": 45.249747,
+      "longitudine": 28.194113,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 420,
+      "nume": "Mormântul Țuțuianului",
+      "latitudine": 47.09564,
+      "longitudine": 25.754852,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 421,
+      "nume": "Movilele de la Șona",
+      "latitudine": 45.855341,
+      "longitudine": 25.065952,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 422,
+      "nume": "Muflon",
+      "latitudine": 44.301672,
+      "longitudine": 23.805484,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 423,
+      "nume": "Muntele de Sare de la Lopătari",
+      "latitudine": 45.485878,
+      "longitudine": 26.615879,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 424,
+      "nume": "Muntele Dănturașu Mic",
+      "latitudine": 46.795292,
+      "longitudine": 25.737702,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 425,
+      "nume": "Muntele Stogu",
+      "latitudine": 45.284863,
+      "longitudine": 24.130947,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 426,
+      "nume": "Murighiol Harbor",
+      "latitudine": 45.037376,
+      "longitudine": 29.184029,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 427,
+      "nume": "Muzeu",
+      "latitudine": 45.590532,
+      "longitudine": 25.467858,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 428,
+      "nume": "Muzeul Astra Sibiu",
+      "latitudine": 45.755186,
+      "longitudine": 24.116125,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 429,
+      "nume": "Muzeul Aviației - Rachete",
+      "latitudine": 46.158371,
+      "longitudine": 24.346199,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 430,
+      "nume": "Muzeul de Aragonit",
+      "latitudine": 46.490084,
+      "longitudine": 25.168431,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 431,
+      "nume": "Muzeul de Istorie, Etnografie și Artă Plastică",
+      "latitudine": 45.682765,
+      "longitudine": 21.903433,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 432,
+      "nume": "Muzeul Satului",
+      "latitudine": 47.66676,
+      "longitudine": 23.578564,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 433,
+      "nume": "Mystical Transylvania",
+      "latitudine": 46.219311,
+      "longitudine": 24.791739,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 434,
+      "nume": "Mária-forrás [borvízforrás]",
+      "latitudine": 46.34952,
+      "longitudine": 25.47081,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 435,
+      "nume": "Máté Károly Meșter Taplar",
+      "latitudine": 46.470572,
+      "longitudine": 25.184279,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 436,
+      "nume": "Mâna lui Dumnezeu",
+      "latitudine": 45.254058,
+      "longitudine": 28.190662,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 437,
+      "nume": "Múlt Idők Háza",
+      "latitudine": 46.223879,
+      "longitudine": 25.39582,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 438,
+      "nume": "Mănăstirea Berislăvești",
+      "latitudine": 45.255919,
+      "longitudine": 24.415167,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 439,
+      "nume": "Mănăstirea Moldovița",
+      "latitudine": 47.656302,
+      "longitudine": 25.56932,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 440,
+      "nume": "Mănăstirea Stavropoleos",
+      "latitudine": 44.431803,
+      "longitudine": 26.098709,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 441,
+      "nume": "NICOSMAIL",
+      "latitudine": 45.159214,
+      "longitudine": 24.673085,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 442,
+      "nume": "Nutrii",
+      "latitudine": 44.301414,
+      "longitudine": 23.806388,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 443,
+      "nume": "Nárciszmező",
+      "latitudine": 46.320941,
+      "longitudine": 25.494276,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 444,
+      "nume": "Of of",
+      "latitudine": 46.20031,
+      "longitudine": 22.085253,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 445,
+      "nume": "Ot11378 campu mare",
+      "latitudine": 44.756523,
+      "longitudine": 24.310463,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 446,
+      "nume": "Pacha Beach",
+      "latitudine": 44.060015,
+      "longitudine": 28.640403,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 447,
+      "nume": "Palatul Apollo",
+      "latitudine": 46.546242,
+      "longitudine": 24.56242,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 448,
+      "nume": "Palatul C.E.C.",
+      "latitudine": 44.431987,
+      "longitudine": 26.096657,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 449,
+      "nume": "Palatul Filek",
+      "latitudine": 45.796431,
+      "longitudine": 24.153192,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 450,
+      "nume": "Palatul Lupescu",
+      "latitudine": 45.383093,
+      "longitudine": 27.045346,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 451,
+      "nume": "Palatul Poștelor",
+      "latitudine": 44.431401,
+      "longitudine": 26.097757,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 452,
+      "nume": "Palatul Regelui Arthur",
+      "latitudine": 45.03073,
+      "longitudine": 26.320636,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 453,
+      "nume": "Palatul Sturdza",
+      "latitudine": 47.151015,
+      "longitudine": 27.237128,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 454,
+      "nume": "Palatul Vulturul Negru",
+      "latitudine": 47.054714,
+      "longitudine": 21.930095,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 455,
+      "nume": "Panteonul din Pasul Vâlcan",
+      "latitudine": 45.299544,
+      "longitudine": 23.310005,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 456,
+      "nume": "Parcul comunal",
+      "latitudine": 48.074536,
+      "longitudine": 26.646824,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 457,
+      "nume": "Parcul dendrologic Bazoș",
+      "latitudine": 45.75619,
+      "longitudine": 21.425652,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 458,
+      "nume": "partie schi - ski slope",
+      "latitudine": 47.467868,
+      "longitudine": 24.89914,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 459,
+      "nume": "Pasajul Scărilor",
+      "latitudine": 45.797451,
+      "longitudine": 24.149164,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 460,
+      "nume": "Pavilion tigri",
+      "latitudine": 46.552466,
+      "longitudine": 24.594178,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 461,
+      "nume": "Pelicanii",
+      "latitudine": 45.39924,
+      "longitudine": 29.552378,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 462,
+      "nume": "Peretele 3M",
+      "latitudine": 45.201627,
+      "longitudine": 28.261386,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 463,
+      "nume": "Peretele Amurg",
+      "latitudine": 45.184143,
+      "longitudine": 28.272415,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 464,
+      "nume": "Peretele cu Hornuri",
+      "latitudine": 44.50324,
+      "longitudine": 28.427643,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 465,
+      "nume": "Peretele De Jos",
+      "latitudine": 45.184295,
+      "longitudine": 28.272203,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 466,
+      "nume": "Peretele De Sus",
+      "latitudine": 45.184296,
+      "longitudine": 28.272447,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 467,
+      "nume": "Peretele Memorial",
+      "latitudine": 45.210769,
+      "longitudine": 28.253059,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 468,
+      "nume": "Peretele Peșterii",
+      "latitudine": 44.506777,
+      "longitudine": 28.431054,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 469,
+      "nume": "Peretele Taberei",
+      "latitudine": 45.18503,
+      "longitudine": 28.272341,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 470,
+      "nume": "Peștera de la cuptor",
+      "latitudine": 45.136536,
+      "longitudine": 23.140248,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 471,
+      "nume": "Peștera Rac",
+      "latitudine": 45.267603,
+      "longitudine": 24.13657,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 472,
+      "nume": "Piata veche",
+      "latitudine": 46.167664,
+      "longitudine": 21.318024,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 473,
+      "nume": "Piatra cu lilieci",
+      "latitudine": 45.344057,
+      "longitudine": 26.569891,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 474,
+      "nume": "Piatra Goala",
+      "latitudine": 47.881306,
+      "longitudine": 23.766827,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 475,
+      "nume": "Piatra Iepei",
+      "latitudine": 47.888072,
+      "longitudine": 23.761723,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 476,
+      "nume": "Piatra Râioasă",
+      "latitudine": 45.252852,
+      "longitudine": 28.194214,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 477,
+      "nume": "Piața Aurarilor",
+      "latitudine": 45.799006,
+      "longitudine": 24.152378,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 478,
+      "nume": "Piața Corneliu Coposu",
+      "latitudine": 46.162635,
+      "longitudine": 24.347523,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 479,
+      "nume": "Piața Friedrich von Schiller",
+      "latitudine": 45.794911,
+      "longitudine": 24.152756,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 480,
+      "nume": "Piața Mare",
+      "latitudine": 45.796817,
+      "longitudine": 24.151654,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 481,
+      "nume": "Piața Rățuștelor,",
+      "latitudine": 46.218762,
+      "longitudine": 24.792148,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 482,
+      "nume": "Piața Universității",
+      "latitudine": 44.434928,
+      "longitudine": 26.101006,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 483,
+      "nume": "Picnic Seinel",
+      "latitudine": 47.765404,
+      "longitudine": 23.329724,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 484,
+      "nume": "Pietrele Dobrei",
+      "latitudine": 45.369759,
+      "longitudine": 24.268725,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 485,
+      "nume": "Pietrele Roșiei",
+      "latitudine": 45.300983,
+      "longitudine": 24.311648,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 486,
+      "nume": "Piramidele din Slătioara",
+      "latitudine": 45.107688,
+      "longitudine": 23.888057,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 487,
+      "nume": "Piramidele din Valea Stăncioiului",
+      "latitudine": 45.111677,
+      "longitudine": 24.413347,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 488,
+      "nume": "Piua lui Pătă",
+      "latitudine": 45.740883,
+      "longitudine": 23.980005,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 489,
+      "nume": "Plaiul Fasinului",
+      "latitudine": 46.015634,
+      "longitudine": 26.579729,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 490,
+      "nume": "Plaja Acapulco Eforie Nord",
+      "latitudine": 44.070763,
+      "longitudine": 28.639608,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 491,
+      "nume": "Plaja Azur",
+      "latitudine": 44.049897,
+      "longitudine": 28.644216,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 492,
+      "nume": "Plaja Belona Eforie Nord",
+      "latitudine": 44.061587,
+      "longitudine": 28.640381,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 493,
+      "nume": "Plaja Debarcader Eforie Nord",
+      "latitudine": 44.068613,
+      "longitudine": 28.640228,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 494,
+      "nume": "Plaja Euforia",
+      "latitudine": 44.066046,
+      "longitudine": 28.640456,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 495,
+      "nume": "Plaja Gostinu",
+      "latitudine": 43.986699,
+      "longitudine": 26.138929,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 496,
+      "nume": "Plaja Ingrid",
+      "latitudine": 44.058898,
+      "longitudine": 28.640574,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 497,
+      "nume": "Planeta Petrila",
+      "latitudine": 45.438986,
+      "longitudine": 23.375354,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 498,
+      "nume": "Platforma de artilerie",
+      "latitudine": 46.065492,
+      "longitudine": 23.572798,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 499,
+      "nume": "Platou",
+      "latitudine": 45.442462,
+      "longitudine": 25.451465,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 500,
+      "nume": "Plopii Fără Soț",
+      "latitudine": 47.119374,
+      "longitudine": 27.630041,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 501,
+      "nume": "Poarta castru roman",
+      "latitudine": 46.066388,
+      "longitudine": 23.572599,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 502,
+      "nume": "Poarta de Piatra",
+      "latitudine": 46.808386,
+      "longitudine": 25.813521,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 503,
+      "nume": "Poarta din Lemn",
+      "latitudine": 46.168263,
+      "longitudine": 22.779784,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 504,
+      "nume": "Poarta ladului",
+      "latitudine": 46.812261,
+      "longitudine": 25.820223,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 505,
+      "nume": "Poarta Monetăriei",
+      "latitudine": 46.066947,
+      "longitudine": 23.572803,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 506,
+      "nume": "Poarta Stânișoarei",
+      "latitudine": 45.299594,
+      "longitudine": 24.325381,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 507,
+      "nume": "Poarta V",
+      "latitudine": 46.067711,
+      "longitudine": 23.567355,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 508,
+      "nume": "Poarta VI",
+      "latitudine": 46.067256,
+      "longitudine": 23.566797,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 509,
+      "nume": "Poarta VII",
+      "latitudine": 46.071503,
+      "longitudine": 23.574391,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 510,
+      "nume": "Poartă secuiască",
+      "latitudine": 46.455083,
+      "longitudine": 25.857461,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 511,
+      "nume": "Pod vechi turcesc",
+      "latitudine": 48.183488,
+      "longitudine": 26.962542,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 512,
+      "nume": "Podul Cearcănul",
+      "latitudine": 47.654281,
+      "longitudine": 24.811437,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 513,
+      "nume": "Podul de Piatră",
+      "latitudine": 47.157419,
+      "longitudine": 27.575077,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 514,
+      "nume": "Podul medieval din Coșula",
+      "latitudine": 47.621355,
+      "longitudine": 26.773912,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 515,
+      "nume": "Poiana Ciungilor",
+      "latitudine": 47.372276,
+      "longitudine": 25.544324,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 516,
+      "nume": "Poiana cu Statui",
+      "latitudine": 46.986257,
+      "longitudine": 27.584874,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 517,
+      "nume": "Poiana lui Iocan",
+      "latitudine": 44.386227,
+      "longitudine": 25.007082,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 518,
+      "nume": "Poiană",
+      "latitudine": 46.785899,
+      "longitudine": 25.800985,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 519,
+      "nume": "Polița cu Ariniș",
+      "latitudine": 46.965499,
+      "longitudine": 25.938578,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 520,
+      "nume": "Polița Scăiuș",
+      "latitudine": 46.969231,
+      "longitudine": 25.937901,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 521,
+      "nume": "Ponei",
+      "latitudine": 44.301886,
+      "longitudine": 23.805903,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 522,
+      "nume": "Ponoarele",
+      "latitudine": 44.974715,
+      "longitudine": 22.75915,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 523,
+      "nume": "Ponton Înbarcare pasageri",
+      "latitudine": 45.407216,
+      "longitudine": 29.546795,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 524,
+      "nume": "Popas",
+      "latitudine": 45.599366,
+      "longitudine": 22.384055,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 525,
+      "nume": "Porc mistreț",
+      "latitudine": 44.301329,
+      "longitudine": 23.806933,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 526,
+      "nume": "Porc pitic vietnamez",
+      "latitudine": 44.301269,
+      "longitudine": 23.806654,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 527,
+      "nume": "Portița Caraimanului",
+      "latitudine": 45.414024,
+      "longitudine": 25.50243,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 528,
+      "nume": "Portul Cultural Cetate",
+      "latitudine": 44.087233,
+      "longitudine": 23.035901,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 529,
+      "nume": "Poșta Veche",
+      "latitudine": 44.929372,
+      "longitudine": 25.458255,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 530,
+      "nume": "Poșta veche",
+      "latitudine": 45.080558,
+      "longitudine": 24.176984,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 531,
+      "nume": "Poșta Veche",
+      "latitudine": 45.104579,
+      "longitudine": 24.364998,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 532,
+      "nume": "Pridvorul ladului",
+      "latitudine": 46.811592,
+      "longitudine": 25.822319,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 533,
+      "nume": "Primul Sediu al Primăriei (1324-1470)",
+      "latitudine": 45.797846,
+      "longitudine": 24.152006,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 534,
+      "nume": "Prăpăstiile Zărneștilor",
+      "latitudine": 45.523702,
+      "longitudine": 25.275638,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 535,
+      "nume": "Pump Track Arini",
+      "latitudine": 45.947847,
+      "longitudine": 23.563109,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 536,
+      "nume": "punte",
+      "latitudine": 45.862032,
+      "longitudine": 26.783262,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 537,
+      "nume": "Pârtia Cocoș",
+      "latitudine": 47.152246,
+      "longitudine": 24.55992,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 538,
+      "nume": "Pârtia de schi \"Metropol\" Băbana",
+      "latitudine": 44.859273,
+      "longitudine": 24.761122,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 539,
+      "nume": "Pârtia de schi Copou",
+      "latitudine": 47.188904,
+      "longitudine": 27.566089,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 540,
+      "nume": "Pădurea colorată",
+      "latitudine": 45.142556,
+      "longitudine": 23.770224,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 541,
+      "nume": "Pădurea de liliac",
+      "latitudine": 44.961154,
+      "longitudine": 22.764734,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 542,
+      "nume": "Pădurea Silea",
+      "latitudine": 44.612881,
+      "longitudine": 24.191703,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 543,
+      "nume": "Păstrăvărie",
+      "latitudine": 45.003231,
+      "longitudine": 21.966644,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 544,
+      "nume": "Păstrăvărie",
+      "latitudine": 45.165442,
+      "longitudine": 21.993661,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 545,
+      "nume": "Păsări",
+      "latitudine": 44.301336,
+      "longitudine": 23.805655,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 546,
+      "nume": "Păsări exotice",
+      "latitudine": 44.472151,
+      "longitudine": 26.080541,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 547,
+      "nume": "Păsări exotice",
+      "latitudine": 44.481331,
+      "longitudine": 26.083147,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 548,
+      "nume": "Păsări exotice și de decor",
+      "latitudine": 44.205888,
+      "longitudine": 28.642603,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 549,
+      "nume": "Păsări răpitoare",
+      "latitudine": 46.550962,
+      "longitudine": 24.593354,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 550,
+      "nume": "Păun",
+      "latitudine": 44.301289,
+      "longitudine": 23.806243,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 551,
+      "nume": "Radio Metronom FM",
+      "latitudine": 45.10257,
+      "longitudine": 24.361724,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 552,
+      "nume": "Ravelinul Sfântul Francisc de Paola",
+      "latitudine": 46.064328,
+      "longitudine": 23.572744,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 553,
+      "nume": "Rechini pirania, pinguini",
+      "latitudine": 44.205732,
+      "longitudine": 28.642466,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 554,
+      "nume": "Red Pole",
+      "latitudine": 44.453605,
+      "longitudine": 26.180981,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 555,
+      "nume": "Registrul Auto Român",
+      "latitudine": 43.894525,
+      "longitudine": 25.959306,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 556,
+      "nume": "Repezișurile Ianuș",
+      "latitudine": 46.854044,
+      "longitudine": 26.14662,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 557,
+      "nume": "Replica \"Arcul Academiei Mihailene\"",
+      "latitudine": 47.185659,
+      "longitudine": 27.561298,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 558,
+      "nume": "Rezervația Cristești",
+      "latitudine": 45.520879,
+      "longitudine": 23.783367,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 559,
+      "nume": "Rezervația Miru-Bora",
+      "latitudine": 45.393685,
+      "longitudine": 23.676558,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 560,
+      "nume": "Rezervația Naturală \"Valea Zimbrilor Vama Buzău\"",
+      "latitudine": 45.632063,
+      "longitudine": 25.994569,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 561,
+      "nume": "Rezervația paleontologică Golești",
+      "latitudine": 45.143005,
+      "longitudine": 24.457815,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 562,
+      "nume": "Rezervația Rădița - Mânzu",
+      "latitudine": 45.253959,
+      "longitudine": 24.192507,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 563,
+      "nume": "Rezervația Sterpu-Dealul Negru",
+      "latitudine": 45.506125,
+      "longitudine": 24.068368,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 564,
+      "nume": "Romanța Lavandei Călărași",
+      "latitudine": 44.372258,
+      "longitudine": 27.126536,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 565,
+      "nume": "Rondul de Trandafiri",
+      "latitudine": 44.409331,
+      "longitudine": 26.107497,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 566,
+      "nume": "Rosarium",
+      "latitudine": 47.183541,
+      "longitudine": 27.554435,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 567,
+      "nume": "Rotonda Scriitorilor",
+      "latitudine": 44.436757,
+      "longitudine": 26.089158,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 568,
+      "nume": "Ruine",
+      "latitudine": 45.679498,
+      "longitudine": 23.153036,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 569,
+      "nume": "Ruine Mănăstirea Crișan",
+      "latitudine": 46.169106,
+      "longitudine": 22.780364,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 570,
+      "nume": "Ruinele Bisericii Sf. Anton",
+      "latitudine": 44.429905,
+      "longitudine": 26.10292,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 571,
+      "nume": "Ruinele bisericii vechi „Sfântul Nicolae\"",
+      "latitudine": 46.569274,
+      "longitudine": 26.912571,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 572,
+      "nume": "Ruinele Hanului Verde",
+      "latitudine": 44.429728,
+      "longitudine": 26.100371,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 573,
+      "nume": "Râpa Coasta Râului",
+      "latitudine": 45.106919,
+      "longitudine": 24.78597,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 574,
+      "nume": "Râpa Dadelor",
+      "latitudine": 45.13996,
+      "longitudine": 24.813179,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 575,
+      "nume": "Râpa Evantai",
+      "latitudine": 45.07503,
+      "longitudine": 24.285657,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 576,
+      "nume": "Rîpa Galbenă",
+      "latitudine": 47.168601,
+      "longitudine": 27.576164,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 577,
+      "nume": "Sahaja Yoga - cursuri inițiere",
+      "latitudine": 46.564355,
+      "longitudine": 26.913758,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 578,
+      "nume": "Sala Armelor",
+      "latitudine": 46.066178,
+      "longitudine": 23.574122,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 579,
+      "nume": "Salcia lui Petrache Lupu",
+      "latitudine": 44.033789,
+      "longitudine": 23.058429,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 580,
+      "nume": "Salina Center",
+      "latitudine": 47.157246,
+      "longitudine": 27.622086,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 581,
+      "nume": "Salina Ocnele Mari",
+      "latitudine": 45.086155,
+      "longitudine": 24.308948,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 582,
+      "nume": "Salina Romană",
+      "latitudine": 45.872356,
+      "longitudine": 24.063488,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 583,
+      "nume": "Salina Târgu Ocna",
+      "latitudine": 46.2876,
+      "longitudine": 26.603447,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 584,
+      "nume": "Sanatoriul Vila Silva (ruină)",
+      "latitudine": 45.079248,
+      "longitudine": 24.177374,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 585,
+      "nume": "Sanctuar",
+      "latitudine": 45.678823,
+      "longitudine": 23.155209,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 586,
+      "nume": "Sanctuar",
+      "latitudine": 45.679772,
+      "longitudine": 23.154598,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 587,
+      "nume": "Sanctuar",
+      "latitudine": 45.680948,
+      "longitudine": 23.155259,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 588,
+      "nume": "Santul de aparare",
+      "latitudine": 47.644357,
+      "longitudine": 26.270444,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 589,
+      "nume": "Scara Acoperită",
+      "latitudine": 46.218515,
+      "longitudine": 24.791339,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 590,
+      "nume": "Scara Școlarilor",
+      "latitudine": 46.218874,
+      "longitudine": 24.791571,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 591,
+      "nume": "Scenă",
+      "latitudine": 45.261815,
+      "longitudine": 27.969794,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 592,
+      "nume": "Schela Arbănași",
+      "latitudine": 45.397398,
+      "longitudine": 26.726928,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 593,
+      "nume": "Scările de lemn",
+      "latitudine": 45.015793,
+      "longitudine": 22.547527,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 594,
+      "nume": "Semnul Mioveni",
+      "latitudine": 44.923547,
+      "longitudine": 24.903974,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 595,
+      "nume": "Sera aridă",
+      "latitudine": 47.187618,
+      "longitudine": 27.556187,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 596,
+      "nume": "Sera azaleelor",
+      "latitudine": 47.187403,
+      "longitudine": 27.556049,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 597,
+      "nume": "Sera cactușilor",
+      "latitudine": 47.187662,
+      "longitudine": 27.555895,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 598,
+      "nume": "Sera cameliilor",
+      "latitudine": 47.187339,
+      "longitudine": 27.556086,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 599,
+      "nume": "Sera cicadatelor",
+      "latitudine": 47.187473,
+      "longitudine": 27.556009,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 600,
+      "nume": "Sera exotică",
+      "latitudine": 47.187536,
+      "longitudine": 27.556424,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 601,
+      "nume": "Sera expozițîonală",
+      "latitudine": 47.18811,
+      "longitudine": 27.555532,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 602,
+      "nume": "Sera mediteraneană",
+      "latitudine": 47.187324,
+      "longitudine": 27.556374,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 603,
+      "nume": "Sera plantelor utile",
+      "latitudine": 47.187896,
+      "longitudine": 27.555986,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 604,
+      "nume": "Sera suculentelor",
+      "latitudine": 47.187601,
+      "longitudine": 27.555932,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 605,
+      "nume": "Sera tropicală",
+      "latitudine": 47.187535,
+      "longitudine": 27.555976,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 606,
+      "nume": "Sfinxul Buștea (fixme)",
+      "latitudine": 45.512442,
+      "longitudine": 26.585684,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 607,
+      "nume": "Skigyimes",
+      "latitudine": 46.520361,
+      "longitudine": 25.955105,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 608,
+      "nume": "Societatea pentru Cultura Metarsis",
+      "latitudine": 45.290909,
+      "longitudine": 21.895208,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 609,
+      "nume": "St. Florian statue",
+      "latitudine": 46.147587,
+      "longitudine": 21.329141,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 610,
+      "nume": "Stabilimentul băilor (ruină)",
+      "latitudine": 45.080716,
+      "longitudine": 24.174304,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 611,
+      "nume": "Stancaria lui Borza",
+      "latitudine": 46.559359,
+      "longitudine": 23.682322,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 612,
+      "nume": "Statuia vânătorului de munte",
+      "latitudine": 46.472584,
+      "longitudine": 22.474519,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 613,
+      "nume": "Statuie Korosi Csoma Sandor",
+      "latitudine": 45.844921,
+      "longitudine": 26.168497,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 614,
+      "nume": "Stejar secular",
+      "latitudine": 45.093135,
+      "longitudine": 25.915487,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 615,
+      "nume": "Stejar secular 1- Cernica",
+      "latitudine": 44.436111,
+      "longitudine": 26.258621,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 616,
+      "nume": "Stejar secular 2 - Cernica",
+      "latitudine": 44.431471,
+      "longitudine": 26.255232,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 617,
+      "nume": "Stejar secular Baba Groasă",
+      "latitudine": 44.297533,
+      "longitudine": 25.775128,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 618,
+      "nume": "Stejarul Bătrân",
+      "latitudine": 44.282128,
+      "longitudine": 24.985558,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 619,
+      "nume": "Strada Sforii",
+      "latitudine": 45.639586,
+      "longitudine": 25.588541,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 620,
+      "nume": "Struț",
+      "latitudine": 44.301524,
+      "longitudine": 23.805428,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 621,
+      "nume": "Strâmtoarea Turnu",
+      "latitudine": 45.284532,
+      "longitudine": 24.305693,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 622,
+      "nume": "Sturii Puturoasei",
+      "latitudine": 45.297234,
+      "longitudine": 24.275213,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 623,
+      "nume": "Stâna Zănoaga Câinenilor",
+      "latitudine": 45.552748,
+      "longitudine": 24.355097,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 624,
+      "nume": "Sunday Marquet",
+      "latitudine": 45.81617,
+      "longitudine": 24.150422,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 625,
+      "nume": "Szent István forrás",
+      "latitudine": 46.349359,
+      "longitudine": 25.469777,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 626,
+      "nume": "Székely kopjafák",
+      "latitudine": 46.452909,
+      "longitudine": 25.581794,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 627,
+      "nume": "Székelyföld legrégebbi eredeti helyén álló székelykapu",
+      "latitudine": 46.32127,
+      "longitudine": 25.957023,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 628,
+      "nume": "Széndioxid kiáramlás",
+      "latitudine": 46.130997,
+      "longitudine": 25.893618,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 629,
+      "nume": "Sărătura",
+      "latitudine": 47.005112,
+      "longitudine": 23.904264,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 630,
+      "nume": "Sărăturile V Ilenei",
+      "latitudine": 47.232377,
+      "longitudine": 27.375615,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 631,
+      "nume": "Tabăra de sculptură în lemn",
+      "latitudine": 45.080122,
+      "longitudine": 25.429899,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 632,
+      "nume": "Tabăra Medievală Arbănași",
+      "latitudine": 45.399269,
+      "longitudine": 26.736947,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 633,
+      "nume": "Tabără de sculptură",
+      "latitudine": 45.054795,
+      "longitudine": 23.060388,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 634,
+      "nume": "Tabără sculptură lemn",
+      "latitudine": 47.287336,
+      "longitudine": 26.932478,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 635,
+      "nume": "Tatár-dombi kápolna",
+      "latitudine": 46.766097,
+      "longitudine": 25.509856,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 636,
+      "nume": "Telegondola",
+      "latitudine": 46.927351,
+      "longitudine": 26.361316,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 637,
+      "nume": "Telescaun Terminal Jos",
+      "latitudine": 47.341601,
+      "longitudine": 25.344065,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 638,
+      "nume": "Telescaun Terminal Sus",
+      "latitudine": 47.318091,
+      "longitudine": 25.334039,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 639,
+      "nume": "Temnița",
+      "latitudine": 46.065616,
+      "longitudine": 23.574493,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 640,
+      "nume": "Terasa cu pergole",
+      "latitudine": 45.082795,
+      "longitudine": 24.173442,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 641,
+      "nume": "Tigru",
+      "latitudine": 44.302024,
+      "longitudine": 23.807073,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 642,
+      "nume": "Tiroliana",
+      "latitudine": 45.578741,
+      "longitudine": 25.636282,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 643,
+      "nume": "Treptele lui Vodă",
+      "latitudine": 45.79251,
+      "longitudine": 26.511598,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 644,
+      "nume": "Troița - Malul Alb",
+      "latitudine": 45.342375,
+      "longitudine": 26.539614,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 645,
+      "nume": "Trovanți",
+      "latitudine": 46.704391,
+      "longitudine": 23.576009,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 646,
+      "nume": "Trovanți",
+      "latitudine": 46.708038,
+      "longitudine": 23.581225,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 647,
+      "nume": "Trovanții",
+      "latitudine": 45.137764,
+      "longitudine": 24.067863,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 648,
+      "nume": "Trovanții de la Glodurile",
+      "latitudine": 45.341822,
+      "longitudine": 26.548271,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 649,
+      "nume": "Trovanții de la Valea Banului",
+      "latitudine": 45.342699,
+      "longitudine": 26.516268,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 650,
+      "nume": "Trovanții din Sălătrucel",
+      "latitudine": 45.240649,
+      "longitudine": 24.381041,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 651,
+      "nume": "Tulcea sign",
+      "latitudine": 45.186921,
+      "longitudine": 28.814588,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 652,
+      "nume": "Tun",
+      "latitudine": 45.106395,
+      "longitudine": 24.363402,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 653,
+      "nume": "Turbaria Laptici",
+      "latitudine": 45.371222,
+      "longitudine": 25.43635,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 654,
+      "nume": "Turn Locuinta",
+      "latitudine": 45.679374,
+      "longitudine": 23.153735,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 655,
+      "nume": "Turn Locuinta",
+      "latitudine": 45.680359,
+      "longitudine": 23.15433,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 656,
+      "nume": "Turnul Bisericii Franciscane",
+      "latitudine": 46.545473,
+      "longitudine": 24.561704,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 657,
+      "nume": "Turnul Croitorilor",
+      "latitudine": 45.955646,
+      "longitudine": 23.572863,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 658,
+      "nume": "Turnul de Artă",
+      "latitudine": 44.44154,
+      "longitudine": 26.167057,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 659,
+      "nume": "Turnul de observatie",
+      "latitudine": 45.679433,
+      "longitudine": 23.155373,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 660,
+      "nume": "Turnul Semicircular",
+      "latitudine": 45.958915,
+      "longitudine": 23.566631,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 661,
+      "nume": "Turnul teutonic de la Pârscov",
+      "latitudine": 45.289702,
+      "longitudine": 26.54911,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 662,
+      "nume": "Tábori forrás",
+      "latitudine": 46.300267,
+      "longitudine": 25.582054,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 663,
+      "nume": "Uliu",
+      "latitudine": 44.30135,
+      "longitudine": 23.806244,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 664,
+      "nume": "Urs",
+      "latitudine": 44.301415,
+      "longitudine": 23.806947,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 665,
+      "nume": "Ursuleți Coati",
+      "latitudine": 44.301397,
+      "longitudine": 23.806216,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 666,
+      "nume": "Uzina Electrică",
+      "latitudine": 45.080041,
+      "longitudine": 24.175025,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 667,
+      "nume": "Valea Beiului",
+      "latitudine": 44.936004,
+      "longitudine": 21.791595,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 668,
+      "nume": "Valea lui Liman",
+      "latitudine": 45.754658,
+      "longitudine": 22.329615,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 669,
+      "nume": "Valea lui Stan - intrare traseu",
+      "latitudine": 45.362109,
+      "longitudine": 24.616741,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 670,
+      "nume": "Valtoare",
+      "latitudine": 47.968681,
+      "longitudine": 23.699985,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 671,
+      "nume": "Valtoare, Cazan Tuica",
+      "latitudine": 47.754671,
+      "longitudine": 23.939465,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 672,
+      "nume": "Vapor",
+      "latitudine": 44.01599,
+      "longitudine": 28.641907,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 673,
+      "nume": "Vasul Mureș",
+      "latitudine": 45.266693,
+      "longitudine": 27.977462,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 674,
+      "nume": "Via Ferrata Dezna",
+      "latitudine": 46.407229,
+      "longitudine": 22.253912,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 675,
+      "nume": "Viaductul Caracău",
+      "latitudine": 46.524589,
+      "longitudine": 25.872102,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 676,
+      "nume": "Vila Alexandru Iliescu",
+      "latitudine": 45.081324,
+      "longitudine": 24.177517,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 677,
+      "nume": "Vila Constanța-Marieta (1900)",
+      "latitudine": 45.080464,
+      "longitudine": 24.181926,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 678,
+      "nume": "Vila Dr. Grigore Țăranu",
+      "latitudine": 45.080738,
+      "longitudine": 24.177582,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 679,
+      "nume": "Vila Eftimie",
+      "latitudine": 45.080377,
+      "longitudine": 24.179855,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 680,
+      "nume": "Vila Elisabeta",
+      "latitudine": 44.888922,
+      "longitudine": 22.423736,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 681,
+      "nume": "Vila Mircea",
+      "latitudine": 44.305558,
+      "longitudine": 23.86241,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 682,
+      "nume": "Vila Nedelcu",
+      "latitudine": 45.078928,
+      "longitudine": 24.18252,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 683,
+      "nume": "Viscri Blacksmith",
+      "latitudine": 46.05956,
+      "longitudine": 25.099909,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 684,
+      "nume": "VULCANII NOROIOSI",
+      "latitudine": 45.167969,
+      "longitudine": 25.919353,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 685,
+      "nume": "Vâltoare",
+      "latitudine": 47.879913,
+      "longitudine": 23.937973,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 686,
+      "nume": "Vâltoare",
+      "latitudine": 47.881779,
+      "longitudine": 23.936766,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 687,
+      "nume": "Zete vára",
+      "latitudine": 46.429504,
+      "longitudine": 25.399845,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 688,
+      "nume": "Zona Țăncuri",
+      "latitudine": 45.249373,
+      "longitudine": 28.196448,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 689,
+      "nume": "Șaua Ciucaș",
+      "latitudine": 45.531649,
+      "longitudine": 25.933266,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 690,
+      "nume": "Școala unde a învățat spiru haret",
+      "latitudine": 47.952773,
+      "longitudine": 26.395796,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 691,
+      "nume": "Șirul Canonicilor",
+      "latitudine": 47.069279,
+      "longitudine": 21.932862,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 692,
+      "nume": "Șoimăria",
+      "latitudine": 45.814396,
+      "longitudine": 26.492869,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 693,
+      "nume": "Șteamp",
+      "latitudine": 46.306237,
+      "longitudine": 23.130623,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 694,
+      "nume": "Ștrand",
+      "latitudine": 47.789858,
+      "longitudine": 23.939357,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 695,
+      "nume": "Ștrand termal Căciulata",
+      "latitudine": 45.257492,
+      "longitudine": 24.316273,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 696,
+      "nume": "Ștrand termal venus",
+      "latitudine": 47.000614,
+      "longitudine": 21.991234,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 697,
+      "nume": "Ștrandul Ostroveni (1962)",
+      "latitudine": 45.081111,
+      "longitudine": 24.361926,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 698,
+      "nume": "Țara lui Luca",
+      "latitudine": 44.768335,
+      "longitudine": 22.851716,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 699,
+      "nume": "Архитектурен резерват \"Рибарска Махала\"",
+      "latitudine": 44.051649,
+      "longitudine": 26.614364,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 700,
+      "nume": "Ворота Свято-Миколаївського монастира",
+      "latitudine": 45.340019,
+      "longitudine": 28.814227,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 701,
+      "nume": "ГЕС Перкалаба",
+      "latitudine": 47.74647,
+      "longitudine": 25.000606,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 702,
+      "nume": "Клявза Баюрівка",
+      "latitudine": 47.744762,
+      "longitudine": 24.926384,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 703,
+      "nume": "Клявза Лостунець",
+      "latitudine": 47.851041,
+      "longitudine": 24.822345,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 704,
+      "nume": "Морський Вокзал",
+      "latitudine": 45.453157,
+      "longitudine": 28.275814,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 705,
+      "nume": "Паметник Ангел Кънчев",
+      "latitudine": 43.847043,
+      "longitudine": 25.947441,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    },
+    {
+      "id": 706,
+      "nume": "Природен феномен “Дикили таш”",
+      "latitudine": 43.71735,
+      "longitudine": 25.79677,
+      "cheie_osm": "tourism",
+      "valoare_osm": "attraction",
+      "categorie_osm": "tourism=attraction"
+    }
+  ],
+  "meta": {
+    "title": "Atracții turistice din România - Descărcare gratuită",
+    "description": "Atracții turistice din România — 706 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `tourism=attraction`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează. Conține 706 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Atracții turistice din România | ListBase",
+    "seo_description": "Descarcă Atracții turistice din România — 706 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 706 înregistrări / 7 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

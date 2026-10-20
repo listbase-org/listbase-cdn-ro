@@ -1,0 +1,304 @@
+{
+  "id": "ro-arges-licee",
+  "name": "Licee si colegii din judetul Argeș",
+  "title": "Licee si colegii din judetul Argeș",
+  "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Argeș (43 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "COLEGIUL ECONOMIC MARIA TEIULEANU",
+      "slug": "colegiul-economic-maria-teiuleanu",
+      "judet": "ARGEȘ",
+      "judet_slug": "arges"
+    },
+    {
+      "nume": "COLEGIUL NATIONAL PEDAGOGIC \"CAROL I\" CAMPULUNG",
+      "slug": "colegiul-national-pedagogic-carol-i-campulung",
+      "judet": "ARGEȘ",
+      "judet_slug": "arges"
+    },
+    {
+      "nume": "COLEGIUL NATIONAL \"ALEXANDRU ODOBESCU\"",
+      "slug": "colegiul-national-alexandru-odobescu",
+      "judet": "ARGEȘ",
+      "judet_slug": "arges"
+    },
+    {
+      "nume": "COLEGIUL NATIONAL \"DINICU GOLESCU\"",
+      "slug": "colegiul-national-dinicu-golescu",
+      "judet": "ARGEȘ",
+      "judet_slug": "arges"
+    },
+    {
+      "nume": "COLEGIUL NATIONAL \"I.C. BRATIANU\"",
+      "slug": "colegiul-national-i-c-bratianu",
+      "judet": "ARGEȘ",
+      "judet_slug": "arges"
+    },
+    {
+      "nume": "COLEGIUL NATIONAL \"VLAICU VODA\"",
+      "slug": "colegiul-national-vlaicu-voda",
+      "judet": "ARGEȘ",
+      "judet_slug": "arges"
+    },
+    {
+      "nume": "COLEGIUL NATIONAL \"ZINCA GOLESCU\"",
+      "slug": "colegiul-national-zinca-golescu",
+      "judet": "ARGEȘ",
+      "judet_slug": "arges"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC CAMPULUNG",
+      "slug": "colegiul-tehnic-campulung",
+      "judet": "ARGEȘ",
+      "judet_slug": "arges"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"ARMAND CALINESCU\"",
+      "slug": "colegiul-tehnic-armand-calinescu",
+      "judet": "ARGEȘ",
+      "judet_slug": "arges"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"COSTIN D. NENITESCU\"",
+      "slug": "colegiul-tehnic-costin-d-nenitescu",
+      "judet": "ARGEȘ",
+      "judet_slug": "arges"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"DIMITRIE DIMA\"",
+      "slug": "colegiul-tehnic-dimitrie-dima",
+      "judet": "ARGEȘ",
+      "judet_slug": "arges"
+    },
+    {
+      "nume": "GRUP SCOLAR VEDEA",
+      "slug": "grup-scolar-vedea",
+      "judet": "ARGEȘ",
+      "judet_slug": "arges"
+    },
+    {
+      "nume": "LICEUL FEG PITESTI",
+      "slug": "liceul-feg-pitesti",
+      "judet": "ARGEȘ",
+      "judet_slug": "arges"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC ASTRA",
+      "slug": "liceul-tehnologic-astra",
+      "judet": "ARGEȘ",
+      "judet_slug": "arges"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC AUTO CAMPULUNG",
+      "slug": "liceul-tehnologic-auto-campulung",
+      "judet": "ARGEȘ",
+      "judet_slug": "arges"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC AUTO CURTEA DE AG",
+      "slug": "liceul-tehnologic-auto-curtea-de-ag",
+      "judet": "ARGEȘ",
+      "judet_slug": "arges"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC CONSTANTIN BRANCUSI",
+      "slug": "liceul-tehnologic-constantin-brancusi",
+      "judet": "ARGEȘ",
+      "judet_slug": "arges"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC CONSTANTIN DOBRESCU",
+      "slug": "liceul-tehnologic-constantin-dobrescu",
+      "judet": "ARGEȘ",
+      "judet_slug": "arges"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC CONSTRUCTII DE MASINI",
+      "slug": "liceul-tehnologic-constructii-de-masini",
+      "judet": "ARGEȘ",
+      "judet_slug": "arges"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC COSTESTI",
+      "slug": "liceul-tehnologic-costesti",
+      "judet": "ARGEȘ",
+      "judet_slug": "arges"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC DACIA",
+      "slug": "liceul-tehnologic-dacia",
+      "judet": "ARGEȘ",
+      "judet_slug": "arges"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC DINU BRATIANU",
+      "slug": "liceul-tehnologic-dinu-bratianu",
+      "judet": "ARGEȘ",
+      "judet_slug": "arges"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC FORESTIER CURTEA DE ARGES",
+      "slug": "liceul-tehnologic-forestier-curtea-de-arges",
+      "judet": "ARGEȘ",
+      "judet_slug": "arges"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC I.C. PETRESCU STALPENI",
+      "slug": "liceul-tehnologic-i-c-petrescu-stalpeni",
+      "judet": "ARGEȘ",
+      "judet_slug": "arges"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC ION MINCU",
+      "slug": "liceul-tehnologic-ion-mincu",
+      "judet": "ARGEȘ",
+      "judet_slug": "arges"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC LIVIU REBREANU MOZACENI",
+      "slug": "liceul-tehnologic-liviu-rebreanu-mozaceni",
+      "judet": "ARGEȘ",
+      "judet_slug": "arges"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC MIHAI VITEAZUL",
+      "slug": "liceul-tehnologic-mihai-viteazul",
+      "judet": "ARGEȘ",
+      "judet_slug": "arges"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC NR.1 MARACINENI",
+      "slug": "liceul-tehnologic-nr-1-maracineni",
+      "judet": "ARGEȘ",
+      "judet_slug": "arges"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC PETRE IONESCU MUSCEL",
+      "slug": "liceul-tehnologic-petre-ionescu-muscel",
+      "judet": "ARGEȘ",
+      "judet_slug": "arges"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC VICTOR SLAVESCU RUCAR",
+      "slug": "liceul-tehnologic-victor-slavescu-rucar",
+      "judet": "ARGEȘ",
+      "judet_slug": "arges"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"FERDINAND I\"",
+      "slug": "liceul-tehnologic-ferdinand-i",
+      "judet": "ARGEȘ",
+      "judet_slug": "arges"
+    },
+    {
+      "nume": "LICEUL TEORETIC COSTESTI",
+      "slug": "liceul-teoretic-costesti",
+      "judet": "ARGEȘ",
+      "judet_slug": "arges"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"DAN BARBILIAN\"",
+      "slug": "liceul-teoretic-dan-barbilian",
+      "judet": "ARGEȘ",
+      "judet_slug": "arges"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"ION BARBU\"",
+      "slug": "liceul-teoretic-ion-barbu",
+      "judet": "ARGEȘ",
+      "judet_slug": "arges"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"ION CANTACUZINO\"",
+      "slug": "liceul-teoretic-ion-cantacuzino",
+      "judet": "ARGEȘ",
+      "judet_slug": "arges"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"ION MIHALACHE\"",
+      "slug": "liceul-teoretic-ion-mihalache",
+      "judet": "ARGEȘ",
+      "judet_slug": "arges"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"IULIA ZAMFIRESCU\"",
+      "slug": "liceul-teoretic-iulia-zamfirescu",
+      "judet": "ARGEȘ",
+      "judet_slug": "arges"
+    },
+    {
+      "nume": "LICEUL VOCATIONAL PENTICOSTAL ELIM",
+      "slug": "liceul-vocational-penticostal-elim",
+      "judet": "ARGEȘ",
+      "judet_slug": "arges"
+    },
+    {
+      "nume": "LICEUL VOCATIONAL \"IUSTIN PATRIARHUL\" CAMPULUNG",
+      "slug": "liceul-vocational-iustin-patriarhul-campulung",
+      "judet": "ARGEȘ",
+      "judet_slug": "arges"
+    },
+    {
+      "nume": "LICEUL VOCATIONAL \"NEAGOE VODA BASARAB\" CURTEA DE ARGES",
+      "slug": "liceul-vocational-neagoe-voda-basarab-curtea-de-arges",
+      "judet": "ARGEȘ",
+      "judet_slug": "arges"
+    },
+    {
+      "nume": "LICEUL CU PROGRAM SPORTIV CAMPULUNG",
+      "slug": "liceul-cu-program-sportiv-campulung",
+      "judet": "ARGEȘ",
+      "judet_slug": "arges"
+    },
+    {
+      "nume": "LICEUL CU PROGRAM SPORTIV",
+      "slug": "liceul-cu-program-sportiv",
+      "judet": "ARGEȘ",
+      "judet_slug": "arges"
+    },
+    {
+      "nume": "LICEUL DE ARTA \"DINU LIPATTI\"",
+      "slug": "liceul-de-arta-dinu-lipatti",
+      "judet": "ARGEȘ",
+      "judet_slug": "arges"
+    }
+  ],
+  "meta": {
+    "title": "Licee si colegii din judetul Argeș - Descărcare gratuită",
+    "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Argeș (43 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor. Conține 43 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Licee si colegii din judetul Argeș | ListBase",
+    "seo_description": "Descarcă Licee si colegii din judetul Argeș — 43 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 43 înregistrări / 4 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

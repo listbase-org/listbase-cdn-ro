@@ -1,0 +1,196 @@
+{
+  "id": "ro-bistrita-nasaud-licee",
+  "name": "Licee si colegii din judetul Bistrița-Năsăud",
+  "title": "Licee si colegii din judetul Bistrița-Năsăud",
+  "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Bistrița-Năsăud (25 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "COLEGIUL NAȚIONAL \"ANDREI MUREȘANU\" BISTRIȚA",
+      "slug": "colegiul-national-andrei-muresanu-bistrita",
+      "judet": "BISTRIȚA-NĂSĂUD",
+      "judet_slug": "bistrita-nasaud"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"GEORGE COȘBUC\" NĂSĂUD",
+      "slug": "colegiul-national-george-cosbuc-nasaud",
+      "judet": "BISTRIȚA-NĂSĂUD",
+      "judet_slug": "bistrita-nasaud"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"LIVIU REBREANU\" BISTRIȚA",
+      "slug": "colegiul-national-liviu-rebreanu-bistrita",
+      "judet": "BISTRIȚA-NĂSĂUD",
+      "judet_slug": "bistrita-nasaud"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"PETRU RAREȘ\" BECLEAN",
+      "slug": "colegiul-national-petru-rares-beclean",
+      "judet": "BISTRIȚA-NĂSĂUD",
+      "judet_slug": "bistrita-nasaud"
+    },
+    {
+      "nume": "COLEGIUL SILVIC TRANSILVANIA",
+      "slug": "colegiul-silvic-transilvania",
+      "judet": "BISTRIȚA-NĂSĂUD",
+      "judet_slug": "bistrita-nasaud"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC INFOEL BISTRIȚA",
+      "slug": "colegiul-tehnic-infoel-bistrita",
+      "judet": "BISTRIȚA-NĂSĂUD",
+      "judet_slug": "bistrita-nasaud"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"GRIGORE MOISIL\" BISTRIȚA",
+      "slug": "colegiul-tehnic-grigore-moisil-bistrita",
+      "judet": "BISTRIȚA-NĂSĂUD",
+      "judet_slug": "bistrita-nasaud"
+    },
+    {
+      "nume": "LICEUL CREȘTIN LOGOS BISTRIȚA",
+      "slug": "liceul-crestin-logos-bistrita",
+      "judet": "BISTRIȚA-NĂSĂUD",
+      "judet_slug": "bistrita-nasaud"
+    },
+    {
+      "nume": "LICEUL CU PROGRAM SPORTIV BISTRIȚA",
+      "slug": "liceul-cu-program-sportiv-bistrita",
+      "judet": "BISTRIȚA-NĂSĂUD",
+      "judet_slug": "bistrita-nasaud"
+    },
+    {
+      "nume": "LICEUL DE ARTE PLASTICE \"CORNELIU BABA\" BISTRIȚA",
+      "slug": "liceul-de-arte-plastice-corneliu-baba-bistrita",
+      "judet": "BISTRIȚA-NĂSĂUD",
+      "judet_slug": "bistrita-nasaud"
+    },
+    {
+      "nume": "LICEUL DE MUZICĂ \"TUDOR JARDA\" BISTRIȚA",
+      "slug": "liceul-de-muzica-tudor-jarda-bistrita",
+      "judet": "BISTRIȚA-NĂSĂUD",
+      "judet_slug": "bistrita-nasaud"
+    },
+    {
+      "nume": "LICEUL ECONOMIC NĂSĂUD",
+      "slug": "liceul-economic-nasaud",
+      "judet": "BISTRIȚA-NĂSĂUD",
+      "judet_slug": "bistrita-nasaud"
+    },
+    {
+      "nume": "LICEUL FORESTIER BISTRIȚA",
+      "slug": "liceul-forestier-bistrita",
+      "judet": "BISTRIȚA-NĂSĂUD",
+      "judet_slug": "bistrita-nasaud"
+    },
+    {
+      "nume": "LICEUL SANITAR BISTRIȚA",
+      "slug": "liceul-sanitar-bistrita",
+      "judet": "BISTRIȚA-NĂSĂUD",
+      "judet_slug": "bistrita-nasaud"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC AGRICOL BECLEAN",
+      "slug": "liceul-tehnologic-agricol-beclean",
+      "judet": "BISTRIȚA-NĂSĂUD",
+      "judet_slug": "bistrita-nasaud"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC AGRICOL BISTRIȚA",
+      "slug": "liceul-tehnologic-agricol-bistrita",
+      "judet": "BISTRIȚA-NĂSĂUD",
+      "judet_slug": "bistrita-nasaud"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC DE SERVICII BISTRIȚA",
+      "slug": "liceul-tehnologic-de-servicii-bistrita",
+      "judet": "BISTRIȚA-NĂSĂUD",
+      "judet_slug": "bistrita-nasaud"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC FELDRU",
+      "slug": "liceul-tehnologic-feldru",
+      "judet": "BISTRIȚA-NĂSĂUD",
+      "judet_slug": "bistrita-nasaud"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC LECHINȚA",
+      "slug": "liceul-tehnologic-lechinta",
+      "judet": "BISTRIȚA-NĂSĂUD",
+      "judet_slug": "bistrita-nasaud"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC TELCIU",
+      "slug": "liceul-tehnologic-telciu",
+      "judet": "BISTRIȚA-NĂSĂUD",
+      "judet_slug": "bistrita-nasaud"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"ION CĂIAN ROMÂNUL\" CĂIANU MIC",
+      "slug": "liceul-tehnologic-ion-caian-romanul-caianu-mic",
+      "judet": "BISTRIȚA-NĂSĂUD",
+      "judet_slug": "bistrita-nasaud"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"LIVIU REBREANU\" MAIERU",
+      "slug": "liceul-tehnologic-liviu-rebreanu-maieru",
+      "judet": "BISTRIȚA-NĂSĂUD",
+      "judet_slug": "bistrita-nasaud"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"CONSTANTIN ROMANU-VIVU\" TEACA",
+      "slug": "liceul-teoretic-constantin-romanu-vivu-teaca",
+      "judet": "BISTRIȚA-NĂSĂUD",
+      "judet_slug": "bistrita-nasaud"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"SOLOMON HALIȚĂ\" SÂNGEORZ-BĂI",
+      "slug": "liceul-teoretic-solomon-halita-sangeorz-bai",
+      "judet": "BISTRIȚA-NĂSĂUD",
+      "judet_slug": "bistrita-nasaud"
+    },
+    {
+      "nume": "LICEUL \"RADU PETRESCU\" PRUNDU-BÎRGĂULUI",
+      "slug": "liceul-radu-petrescu-prundu-birgaului",
+      "judet": "BISTRIȚA-NĂSĂUD",
+      "judet_slug": "bistrita-nasaud"
+    }
+  ],
+  "meta": {
+    "title": "Licee si colegii din judetul Bistrița-Năsăud - Descărcare gratuită",
+    "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Bistrița-Năsăud (25 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor. Conține 25 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Licee si colegii din judetul Bistrița-Năsăud | ListBase",
+    "seo_description": "Descarcă Licee si colegii din judetul Bistrița-Năsăud — 25 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 25 înregistrări / 4 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

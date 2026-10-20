@@ -1,0 +1,256 @@
+{
+  "id": "ro-mures-orase",
+  "name": "Orașele și municipiile județului Mureș",
+  "title": "Orașele și municipiile județului Mureș",
+  "description": "Lista celor 11 de orașe, municipii din județul Mureș (MS) — unități administrativ-teritoriale urbane de nivel 2 conform SIRUTA. Reședința de județ este marcată cu is_resedinta_judet=true.",
+  "category": "geography",
+  "source": "https://github.com/ionelmc/django-siruta",
+  "source_url": "https://github.com/ionelmc/django-siruta",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "siruta_code",
+      "label": "Siruta Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_official",
+      "label": "Name Official",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet_id",
+      "label": "Judet Id",
+      "type": "number"
+    },
+    {
+      "key": "judet_name",
+      "label": "Judet Name",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "tip_code",
+      "label": "Tip Code",
+      "type": "number"
+    },
+    {
+      "key": "tip_name",
+      "label": "Tip Name",
+      "type": "string"
+    },
+    {
+      "key": "is_resedinta_judet",
+      "label": "Is Resedinta Judet",
+      "type": "boolean"
+    },
+    {
+      "key": "regiune_id",
+      "label": "Regiune Id",
+      "type": "number"
+    },
+    {
+      "key": "nuts3",
+      "label": "Nuts3",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "siruta_code": 114319,
+      "name": "Târgu Mureș",
+      "name_official": "MUNICIPIUL TÂRGU MUREȘ",
+      "slug": "targu-mures",
+      "judet_id": 26,
+      "judet_name": "Mureș",
+      "judet_slug": "mures",
+      "iso_3166_2": "RO-MS",
+      "tip_code": 1,
+      "tip_name": "municipiu reședință de județ",
+      "is_resedinta_judet": true,
+      "regiune_id": 7,
+      "nuts3": ""
+    },
+    {
+      "siruta_code": 117827,
+      "name": "Iernut",
+      "name_official": "ORAȘ IERNUT",
+      "slug": "iernut",
+      "judet_id": 26,
+      "judet_name": "Mureș",
+      "judet_slug": "mures",
+      "iso_3166_2": "RO-MS",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 7,
+      "nuts3": ""
+    },
+    {
+      "siruta_code": 114710,
+      "name": "Luduș",
+      "name_official": "ORAȘ LUDUȘ",
+      "slug": "ludus",
+      "judet_id": 26,
+      "judet_name": "Mureș",
+      "judet_slug": "mures",
+      "iso_3166_2": "RO-MS",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 7,
+      "nuts3": ""
+    },
+    {
+      "siruta_code": 118281,
+      "name": "Miercurea Nirajului",
+      "name_official": "ORAȘ MIERCUREA NIRAJULUI",
+      "slug": "miercurea-nirajului",
+      "judet_id": 26,
+      "judet_name": "Mureș",
+      "judet_slug": "mures",
+      "iso_3166_2": "RO-MS",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 7,
+      "nuts3": "RO125"
+    },
+    {
+      "siruta_code": 114809,
+      "name": "Reghin",
+      "name_official": "MUNICIPIUL REGHIN",
+      "slug": "reghin",
+      "judet_id": 26,
+      "judet_name": "Mureș",
+      "judet_slug": "mures",
+      "iso_3166_2": "RO-MS",
+      "tip_code": 4,
+      "tip_name": "municipiu",
+      "is_resedinta_judet": false,
+      "regiune_id": 7,
+      "nuts3": ""
+    },
+    {
+      "siruta_code": 114514,
+      "name": "Sighișoara",
+      "name_official": "MUNICIPIUL SIGHIȘOARA",
+      "slug": "sighisoara",
+      "judet_id": 26,
+      "judet_name": "Mureș",
+      "judet_slug": "mures",
+      "iso_3166_2": "RO-MS",
+      "tip_code": 4,
+      "tip_name": "municipiu",
+      "is_resedinta_judet": false,
+      "regiune_id": 7,
+      "nuts3": ""
+    },
+    {
+      "siruta_code": 114854,
+      "name": "Sovata",
+      "name_official": "ORAȘ SOVATA",
+      "slug": "sovata",
+      "judet_id": 26,
+      "judet_name": "Mureș",
+      "judet_slug": "mures",
+      "iso_3166_2": "RO-MS",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 7,
+      "nuts3": "RO125"
+    },
+    {
+      "siruta_code": 119331,
+      "name": "Sângeorgiu De Pădure",
+      "name_official": "ORAȘ SÂNGEORGIU DE PĂDURE",
+      "slug": "sangeorgiu-de-padure",
+      "judet_id": 26,
+      "judet_name": "Mureș",
+      "judet_slug": "mures",
+      "iso_3166_2": "RO-MS",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 7,
+      "nuts3": "RO125"
+    },
+    {
+      "siruta_code": 119242,
+      "name": "Sărmașu",
+      "name_official": "ORAȘ SĂRMAȘU",
+      "slug": "sarmasu",
+      "judet_id": 26,
+      "judet_name": "Mureș",
+      "judet_slug": "mures",
+      "iso_3166_2": "RO-MS",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 7,
+      "nuts3": "RO125"
+    },
+    {
+      "siruta_code": 114925,
+      "name": "Târnăveni",
+      "name_official": "MUNICIPIUL TÂRNĂVENI",
+      "slug": "tarnaveni",
+      "judet_id": 26,
+      "judet_name": "Mureș",
+      "judet_slug": "mures",
+      "iso_3166_2": "RO-MS",
+      "tip_code": 4,
+      "tip_name": "municipiu",
+      "is_resedinta_judet": false,
+      "regiune_id": 7,
+      "nuts3": ""
+    },
+    {
+      "siruta_code": 119894,
+      "name": "Ungheni",
+      "name_official": "ORAȘ UNGHENI",
+      "slug": "ungheni",
+      "judet_id": 26,
+      "judet_name": "Mureș",
+      "judet_slug": "mures",
+      "iso_3166_2": "RO-MS",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 7,
+      "nuts3": "RO125"
+    }
+  ],
+  "meta": {
+    "title": "Orașele și municipiile județului Mureș - Descărcare gratuită",
+    "description": "Lista celor 11 de orașe, municipii din județul Mureș (MS) — unități administrativ-teritoriale urbane de nivel 2 conform SIRUTA. Reședința de județ este marcată cu is_resedinta_judet=true. Conține 11 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Orașele și municipiile județului Mureș | ListBase",
+    "seo_description": "Descarcă Orașele și municipiile județului Mureș — 11 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 11 înregistrări / 13 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: https://github.com/ionelmc/django-siruta"
+    ]
+  }
+}

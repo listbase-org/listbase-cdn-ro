@@ -1,0 +1,148 @@
+{
+  "id": "ro-covasna-licee",
+  "name": "Licee si colegii din judetul Covasna",
+  "title": "Licee si colegii din judetul Covasna",
+  "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Covasna (17 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "COLEGIUL NAȚIONAL \"MIHAI VITEAZUL\" SFÂNTU GHEORGHE",
+      "slug": "colegiul-national-mihai-viteazul-sfantu-gheorghe",
+      "judet": "COVASNA",
+      "judet_slug": "covasna"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"SZÈKELY MIKÓ\" SFÂNTU GHEORGHE",
+      "slug": "colegiul-national-szekely-miko-sfantu-gheorghe",
+      "judet": "COVASNA",
+      "judet_slug": "covasna"
+    },
+    {
+      "nume": "LICEUL DE ARTE \"PLUGOR SÁNDOR\" SFÂNTU GHEORGHE",
+      "slug": "liceul-de-arte-plugor-sandor-sfantu-gheorghe",
+      "judet": "COVASNA",
+      "judet_slug": "covasna"
+    },
+    {
+      "nume": "LICEUL PEDAGOGIC \"BOB PÉTER\" TÂRGU SECUIESC",
+      "slug": "liceul-pedagogic-bob-peter-targu-secuiesc",
+      "judet": "COVASNA",
+      "judet_slug": "covasna"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC ECONOMIC-ADMINISTRATIV \"BERDE ÁRON\" SFÂNTU GHEORGHE",
+      "slug": "liceul-tehnologic-economic-administrativ-berde-aron-sfantu-gheorghe",
+      "judet": "COVASNA",
+      "judet_slug": "covasna"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"APOR PÉTER\" TÂRGU SECUIESC",
+      "slug": "liceul-tehnologic-apor-peter-targu-secuiesc",
+      "judet": "COVASNA",
+      "judet_slug": "covasna"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"BARÓTI SZABÓ DÁVID\" BARAOLT",
+      "slug": "liceul-tehnologic-baroti-szabo-david-baraolt",
+      "judet": "COVASNA",
+      "judet_slug": "covasna"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"CONSTANTIN BRANCUŞI\" SFÂNTU GHEORGHE",
+      "slug": "liceul-tehnologic-constantin-brancusi-sfantu-gheorghe",
+      "judet": "COVASNA",
+      "judet_slug": "covasna"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"GÁBOR ÁRON\" TÂRGU SECUIESC",
+      "slug": "liceul-tehnologic-gabor-aron-targu-secuiesc",
+      "judet": "COVASNA",
+      "judet_slug": "covasna"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"NICOLAE BĂLCESCU\" ÎNTORSURA BUZĂULUI",
+      "slug": "liceul-tehnologic-nicolae-balcescu-intorsura-buzaului",
+      "judet": "COVASNA",
+      "judet_slug": "covasna"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"PUSKÁS TIVADAR\" SFÂNTU GHEORGHE",
+      "slug": "liceul-tehnologic-puskas-tivadar-sfantu-gheorghe",
+      "judet": "COVASNA",
+      "judet_slug": "covasna"
+    },
+    {
+      "nume": "LICEUL TEOLOGIC REFORMAT SFÂNTU GHEORGHE",
+      "slug": "liceul-teologic-reformat-sfantu-gheorghe",
+      "judet": "COVASNA",
+      "judet_slug": "covasna"
+    },
+    {
+      "nume": "LICEUL TEOLOGIC REFORMAT TÂRGU SECUIESC",
+      "slug": "liceul-teologic-reformat-targu-secuiesc",
+      "judet": "COVASNA",
+      "judet_slug": "covasna"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"MIKES KELEMEN\" SFÂNTU GHEORGHE",
+      "slug": "liceul-teoretic-mikes-kelemen-sfantu-gheorghe",
+      "judet": "COVASNA",
+      "judet_slug": "covasna"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"MIRCEA ELIADE\" ÎNTORSURA BUZĂULUI",
+      "slug": "liceul-teoretic-mircea-eliade-intorsura-buzaului",
+      "judet": "COVASNA",
+      "judet_slug": "covasna"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"NAGY MÓZES\" TÂRGU SECUIESC",
+      "slug": "liceul-teoretic-nagy-mozes-targu-secuiesc",
+      "judet": "COVASNA",
+      "judet_slug": "covasna"
+    },
+    {
+      "nume": "LICEUL \"KŐRÖSI CSOMA SÁNDOR\" COVASNA",
+      "slug": "liceul-korosi-csoma-sandor-covasna",
+      "judet": "COVASNA",
+      "judet_slug": "covasna"
+    }
+  ],
+  "meta": {
+    "title": "Licee si colegii din judetul Covasna - Descărcare gratuită",
+    "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Covasna (17 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor. Conține 17 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Licee si colegii din judetul Covasna | ListBase",
+    "seo_description": "Descarcă Licee si colegii din judetul Covasna — 17 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 17 înregistrări / 4 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

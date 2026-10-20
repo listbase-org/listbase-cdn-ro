@@ -1,0 +1,2941 @@
+{
+  "id": "ro-cabinete-veterinare",
+  "name": "Cabinete veterinare din România",
+  "title": "Cabinete veterinare din România",
+  "description": "Cabinete veterinare din România — 320 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `amenity=veterinary`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 320,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "latitudine",
+      "label": "Latitudine",
+      "type": "number"
+    },
+    {
+      "key": "longitudine",
+      "label": "Longitudine",
+      "type": "number"
+    },
+    {
+      "key": "cheie_osm",
+      "label": "Cheie Osm",
+      "type": "string"
+    },
+    {
+      "key": "valoare_osm",
+      "label": "Valoare Osm",
+      "type": "string"
+    },
+    {
+      "key": "categorie_osm",
+      "label": "Categorie Osm",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nume": "A&A Medical Vet",
+      "latitudine": 44.415335,
+      "longitudine": 26.035381,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 2,
+      "nume": "Abraham Vet",
+      "latitudine": 46.57586,
+      "longitudine": 23.777861,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 3,
+      "nume": "AcuM Vet",
+      "latitudine": 44.427245,
+      "longitudine": 26.03491,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 4,
+      "nume": "Agenția Națională Veterinară",
+      "latitudine": 45.203666,
+      "longitudine": 24.243624,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 5,
+      "nume": "Akama Vet",
+      "latitudine": 45.643699,
+      "longitudine": 25.625652,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 6,
+      "nume": "AlcorVET",
+      "latitudine": 44.43268,
+      "longitudine": 26.019934,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 7,
+      "nume": "Alfa Dog",
+      "latitudine": 47.799534,
+      "longitudine": 22.878013,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 8,
+      "nume": "Alpha Vetexpert",
+      "latitudine": 44.427746,
+      "longitudine": 26.047536,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 9,
+      "nume": "Alvet",
+      "latitudine": 46.756946,
+      "longitudine": 23.563874,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 10,
+      "nume": "Alvet",
+      "latitudine": 46.776009,
+      "longitudine": 23.627964,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 11,
+      "nume": "Amon Vet Care",
+      "latitudine": 46.574842,
+      "longitudine": 26.912669,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 12,
+      "nume": "Andivet",
+      "latitudine": 45.869548,
+      "longitudine": 22.921174,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 13,
+      "nume": "Angels Vet",
+      "latitudine": 44.392127,
+      "longitudine": 26.123844,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 14,
+      "nume": "Anima FloreVet",
+      "latitudine": 46.744673,
+      "longitudine": 23.499609,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 15,
+      "nume": "Anima Sanvet",
+      "latitudine": 45.130801,
+      "longitudine": 26.680091,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 16,
+      "nume": "Anima Vet Concept",
+      "latitudine": 44.411248,
+      "longitudine": 26.014123,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 17,
+      "nume": "Animal Care Center",
+      "latitudine": 44.143977,
+      "longitudine": 28.623357,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 18,
+      "nume": "Animal Heaven Pet",
+      "latitudine": 44.387672,
+      "longitudine": 26.060741,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 19,
+      "nume": "Animalhel",
+      "latitudine": 44.380443,
+      "longitudine": 26.153758,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 20,
+      "nume": "Animed Plus",
+      "latitudine": 45.881091,
+      "longitudine": 22.904853,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 21,
+      "nume": "Animăluțul Meu",
+      "latitudine": 47.167321,
+      "longitudine": 27.595029,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 22,
+      "nume": "Anivet",
+      "latitudine": 47.679797,
+      "longitudine": 22.469507,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 23,
+      "nume": "Arca Lui Noe",
+      "latitudine": 46.5542,
+      "longitudine": 24.567867,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 24,
+      "nume": "Arcadia Vet",
+      "latitudine": 47.155962,
+      "longitudine": 27.563013,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 25,
+      "nume": "Armonia Studio",
+      "latitudine": 44.365824,
+      "longitudine": 26.146628,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 26,
+      "nume": "Atogold House Vet",
+      "latitudine": 46.200832,
+      "longitudine": 21.299353,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 27,
+      "nume": "Auxilium Vet",
+      "latitudine": 45.394867,
+      "longitudine": 25.538546,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 28,
+      "nume": "Axa Vet",
+      "latitudine": 47.143395,
+      "longitudine": 27.577747,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 29,
+      "nume": "BalkaniVet",
+      "latitudine": 44.398846,
+      "longitudine": 26.104945,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 30,
+      "nume": "Ben Doky Vet",
+      "latitudine": 46.558278,
+      "longitudine": 24.576229,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 31,
+      "nume": "Biji's",
+      "latitudine": 44.473392,
+      "longitudine": 26.054016,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 32,
+      "nume": "Biovet",
+      "latitudine": 46.637634,
+      "longitudine": 27.723141,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 33,
+      "nume": "Biovet",
+      "latitudine": 46.753627,
+      "longitudine": 23.553102,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 34,
+      "nume": "Borghiu Mihai_Cabinet Veterniar Individual",
+      "latitudine": 46.204315,
+      "longitudine": 27.38605,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 35,
+      "nume": "cabinet",
+      "latitudine": 44.493047,
+      "longitudine": 26.196319,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 36,
+      "nume": "Cabinet Medical Veterinar",
+      "latitudine": 45.093965,
+      "longitudine": 24.373855,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 37,
+      "nume": "Cabinet Medical Veterinar",
+      "latitudine": 45.807674,
+      "longitudine": 24.143213,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 38,
+      "nume": "Cabinet Medical Veterinar",
+      "latitudine": 46.041446,
+      "longitudine": 26.293574,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 39,
+      "nume": "Cabinet Medical Veterinar",
+      "latitudine": 46.073854,
+      "longitudine": 20.618428,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 40,
+      "nume": "Cabinet medical veterinar",
+      "latitudine": 46.209022,
+      "longitudine": 21.270767,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 41,
+      "nume": "Cabinet Medical Veterinar",
+      "latitudine": 46.950617,
+      "longitudine": 25.757157,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 42,
+      "nume": "Cabinet Medical Veterinar Dr. Bejenaru Alexandru",
+      "latitudine": 46.938881,
+      "longitudine": 26.348533,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 43,
+      "nume": "Cabinet Medical Veterinar Individual",
+      "latitudine": 45.162039,
+      "longitudine": 26.8156,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 44,
+      "nume": "Cabinet veterinar",
+      "latitudine": 43.784058,
+      "longitudine": 23.972481,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 45,
+      "nume": "Cabinet Veterinar",
+      "latitudine": 43.808327,
+      "longitudine": 28.579722,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 46,
+      "nume": "Cabinet veterinar",
+      "latitudine": 44.381446,
+      "longitudine": 26.116582,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 47,
+      "nume": "Cabinet veterinar",
+      "latitudine": 44.38452,
+      "longitudine": 26.110194,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 48,
+      "nume": "Cabinet veterinar",
+      "latitudine": 44.388339,
+      "longitudine": 26.116394,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 49,
+      "nume": "Cabinet Veterinar",
+      "latitudine": 44.415399,
+      "longitudine": 26.15406,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 50,
+      "nume": "Cabinet Veterinar",
+      "latitudine": 44.416137,
+      "longitudine": 26.165623,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 51,
+      "nume": "Cabinet Veterinar",
+      "latitudine": 44.418707,
+      "longitudine": 26.023666,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 52,
+      "nume": "Cabinet veterinar",
+      "latitudine": 44.442048,
+      "longitudine": 26.139473,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 53,
+      "nume": "Cabinet veterinar",
+      "latitudine": 44.868721,
+      "longitudine": 24.885338,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 54,
+      "nume": "Cabinet veterinar",
+      "latitudine": 45.146493,
+      "longitudine": 23.990385,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 55,
+      "nume": "Cabinet Veterinar",
+      "latitudine": 45.207671,
+      "longitudine": 27.055646,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 56,
+      "nume": "Cabinet Veterinar",
+      "latitudine": 45.214529,
+      "longitudine": 24.666726,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 57,
+      "nume": "Cabinet Veterinar",
+      "latitudine": 45.344525,
+      "longitudine": 24.244334,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 58,
+      "nume": "Cabinet Veterinar",
+      "latitudine": 45.447417,
+      "longitudine": 23.410479,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 59,
+      "nume": "Cabinet veterinar",
+      "latitudine": 45.639269,
+      "longitudine": 25.612929,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 60,
+      "nume": "Cabinet veterinar",
+      "latitudine": 45.699742,
+      "longitudine": 25.24391,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 61,
+      "nume": "Cabinet veterinar",
+      "latitudine": 45.702955,
+      "longitudine": 27.171408,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 62,
+      "nume": "Cabinet Veterinar",
+      "latitudine": 45.773574,
+      "longitudine": 21.216604,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 63,
+      "nume": "Cabinet Veterinar",
+      "latitudine": 45.793216,
+      "longitudine": 23.879758,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 64,
+      "nume": "Cabinet Veterinar",
+      "latitudine": 45.840622,
+      "longitudine": 23.359199,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 65,
+      "nume": "Cabinet Veterinar",
+      "latitudine": 46.233246,
+      "longitudine": 27.670708,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 66,
+      "nume": "Cabinet veterinar",
+      "latitudine": 46.474686,
+      "longitudine": 25.177363,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 67,
+      "nume": "Cabinet veterinar",
+      "latitudine": 46.805381,
+      "longitudine": 25.490919,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 68,
+      "nume": "Cabinet Veterinar",
+      "latitudine": 47.061035,
+      "longitudine": 22.393187,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 69,
+      "nume": "Cabinet Veterinar - Vetalvet S.R.L.",
+      "latitudine": 44.941721,
+      "longitudine": 26.032462,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 70,
+      "nume": "Cabinet Veterinar Aviației",
+      "latitudine": 44.479067,
+      "longitudine": 26.099469,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 71,
+      "nume": "Cabinet Veterinar Berca",
+      "latitudine": 45.285686,
+      "longitudine": 26.680986,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 72,
+      "nume": "Cabinet veterinar Clavet",
+      "latitudine": 44.368756,
+      "longitudine": 26.147319,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 73,
+      "nume": "Cabinet veterinar Click Vet",
+      "latitudine": 47.030476,
+      "longitudine": 21.960925,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 74,
+      "nume": "Cabinet Veterinar Crisdan-Vet",
+      "latitudine": 45.686299,
+      "longitudine": 21.898418,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 75,
+      "nume": "Cabinet Veterinar Dr Ioachim Stănuleț din Movilița",
+      "latitudine": 45.9523,
+      "longitudine": 27.103419,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 76,
+      "nume": "Cabinet veterinar Dr. Bociu",
+      "latitudine": 44.658595,
+      "longitudine": 24.26549,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 77,
+      "nume": "Cabinet Veterinar Dr. Bogdan Suciu",
+      "latitudine": 46.567025,
+      "longitudine": 23.781653,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 78,
+      "nume": "Cabinet veterinar Dr. Cojocaru Marius",
+      "latitudine": 45.300466,
+      "longitudine": 25.721517,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 79,
+      "nume": "Cabinet Veterinar Dr. Crețu A&O",
+      "latitudine": 44.933961,
+      "longitudine": 26.033544,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 80,
+      "nume": "CABINET VETERINAR DR. GEORGESCU RODICA",
+      "latitudine": 46.436106,
+      "longitudine": 26.738712,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 81,
+      "nume": "Cabinet Veterinar Dr. Ion Paul",
+      "latitudine": 44.112501,
+      "longitudine": 24.332015,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 82,
+      "nume": "Cabinet Veterinar Dr. Stefan",
+      "latitudine": 44.533723,
+      "longitudine": 26.057509,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 83,
+      "nume": "Cabinet Veterinar Dr. Stefanescu",
+      "latitudine": 44.855643,
+      "longitudine": 24.865825,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 84,
+      "nume": "Cabinet Veterinar Mitreni",
+      "latitudine": 44.171668,
+      "longitudine": 26.607776,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 85,
+      "nume": "Cabinet Veterinar Muereasca",
+      "latitudine": 45.194313,
+      "longitudine": 24.299976,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 86,
+      "nume": "Cabinet veterinar Proveterinaria",
+      "latitudine": 47.042039,
+      "longitudine": 22.031169,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 87,
+      "nume": "Cabinet veterinar Proveterinaria",
+      "latitudine": 47.045804,
+      "longitudine": 21.957917,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 88,
+      "nume": "Cabinet Veterinar Silvanian Farmvet",
+      "latitudine": 47.162248,
+      "longitudine": 22.872737,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 89,
+      "nume": "Cabinet Veterinar Sohodol",
+      "latitudine": 46.336638,
+      "longitudine": 23.01053,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 90,
+      "nume": "Cabinet veterinar, Dr. Dobre ionel",
+      "latitudine": 44.423968,
+      "longitudine": 24.379372,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 91,
+      "nume": "Cabinet veterinar, farmacie veterinară",
+      "latitudine": 44.396535,
+      "longitudine": 26.113041,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 92,
+      "nume": "Cabinet și magazin veterinar",
+      "latitudine": 45.845221,
+      "longitudine": 26.165157,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 93,
+      "nume": "Centrovet",
+      "latitudine": 44.422727,
+      "longitudine": 26.131307,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 94,
+      "nume": "Centru de endoscopie",
+      "latitudine": 45.76199,
+      "longitudine": 21.260033,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 95,
+      "nume": "Centru de imagistică veterinară",
+      "latitudine": 47.135603,
+      "longitudine": 27.574199,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 96,
+      "nume": "Centru veterinar",
+      "latitudine": 44.390875,
+      "longitudine": 26.086461,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 97,
+      "nume": "Centrul de Reabilitare a Animalelor Luana",
+      "latitudine": 44.429894,
+      "longitudine": 26.127133,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 98,
+      "nume": "Centrul de Reabilitare a Animalelor Salbatice Luana",
+      "latitudine": 44.391467,
+      "longitudine": 26.188198,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 99,
+      "nume": "Centrul Veterinar Non Stop Vetservice",
+      "latitudine": 44.486455,
+      "longitudine": 26.045072,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 100,
+      "nume": "Ceres Vet",
+      "latitudine": 45.652343,
+      "longitudine": 25.616049,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 101,
+      "nume": "Charlie's Clinic Vet",
+      "latitudine": 44.409863,
+      "longitudine": 26.115663,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 102,
+      "nume": "Circumscripția sanitară veterinară Peciu Nou",
+      "latitudine": 45.60274,
+      "longitudine": 21.054203,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 103,
+      "nume": "Circumscripția sanitară veterinară Poiana Mărului",
+      "latitudine": 45.606337,
+      "longitudine": 25.305417,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 104,
+      "nume": "Clinica de Animale Mici",
+      "latitudine": 46.174795,
+      "longitudine": 21.306566,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 105,
+      "nume": "Clinica Facultatea de Medicină Veterinară",
+      "latitudine": 44.430082,
+      "longitudine": 26.08086,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 106,
+      "nume": "Clinica PET",
+      "latitudine": 44.153289,
+      "longitudine": 28.627335,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 107,
+      "nume": "Clinica Veterinara Regatul Animalelor",
+      "latitudine": 44.395869,
+      "longitudine": 26.103827,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 108,
+      "nume": "Clinica Veterinara Vetcon",
+      "latitudine": 45.782312,
+      "longitudine": 24.16782,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 109,
+      "nume": "Clinica veterinară",
+      "latitudine": 45.445102,
+      "longitudine": 28.021446,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 110,
+      "nume": "Clinica Veterinară",
+      "latitudine": 45.784502,
+      "longitudine": 24.155942,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 111,
+      "nume": "Clinica Veterinară",
+      "latitudine": 47.196083,
+      "longitudine": 27.554725,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 112,
+      "nume": "Clinica veterinară Calvaria",
+      "latitudine": 46.760893,
+      "longitudine": 23.556166,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 113,
+      "nume": "Clinica Veterinară FlipperVET",
+      "latitudine": 44.442315,
+      "longitudine": 26.07894,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 114,
+      "nume": "Clinica Veterinară HelpVet",
+      "latitudine": 45.149464,
+      "longitudine": 26.82682,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 115,
+      "nume": "Clinică veterinara",
+      "latitudine": 44.400461,
+      "longitudine": 26.101969,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 116,
+      "nume": "Clinică Veterinară",
+      "latitudine": 44.458892,
+      "longitudine": 26.095918,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 117,
+      "nume": "Clinică Veterinară Dr. Popa O&R",
+      "latitudine": 45.808419,
+      "longitudine": 21.257327,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 118,
+      "nume": "CMVI Dr. Andrei Florin",
+      "latitudine": 45.059929,
+      "longitudine": 27.06471,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 119,
+      "nume": "Colegiul medicilor veterinari",
+      "latitudine": 44.868465,
+      "longitudine": 24.885044,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 120,
+      "nume": "Crick & Puka Med",
+      "latitudine": 44.409386,
+      "longitudine": 26.137885,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 121,
+      "nume": "Crivet",
+      "latitudine": 44.424829,
+      "longitudine": 26.144233,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 122,
+      "nume": "Cromavet",
+      "latitudine": 46.778748,
+      "longitudine": 23.62713,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 123,
+      "nume": "Crystal Vet 24-7",
+      "latitudine": 44.484202,
+      "longitudine": 26.046821,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 124,
+      "nume": "Crystal Vet Non-Stop",
+      "latitudine": 44.442533,
+      "longitudine": 26.146698,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 125,
+      "nume": "Cynara Vet",
+      "latitudine": 45.802296,
+      "longitudine": 21.209528,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 126,
+      "nume": "Dacia Supervet",
+      "latitudine": 47.168241,
+      "longitudine": 27.548255,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 127,
+      "nume": "Daisy Vet",
+      "latitudine": 44.489698,
+      "longitudine": 26.084907,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 128,
+      "nume": "Dalgi Val Vet",
+      "latitudine": 44.885548,
+      "longitudine": 24.793901,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 129,
+      "nume": "DayVet",
+      "latitudine": 44.408051,
+      "longitudine": 25.991808,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 130,
+      "nume": "Denvet Prax",
+      "latitudine": 46.779985,
+      "longitudine": 23.626623,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 131,
+      "nume": "Di-Pet Centrum",
+      "latitudine": 44.452527,
+      "longitudine": 26.049788,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 132,
+      "nume": "Di-Vet",
+      "latitudine": 44.457365,
+      "longitudine": 26.097016,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 133,
+      "nume": "Dinspensar C.S.V.S.A.O.",
+      "latitudine": 46.787631,
+      "longitudine": 24.700782,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 134,
+      "nume": "Directiea Veterinara Prahova",
+      "latitudine": 44.874949,
+      "longitudine": 26.186265,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 135,
+      "nume": "DIRECŢIA SANITARĂ-VETERINARĂ",
+      "latitudine": 46.976558,
+      "longitudine": 26.341465,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 136,
+      "nume": "Direcția Sanitar-Veterinară",
+      "latitudine": 47.639619,
+      "longitudine": 26.24236,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 137,
+      "nume": "Dispensar Sanitar Veterinar",
+      "latitudine": 45.055092,
+      "longitudine": 26.766445,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 138,
+      "nume": "Dispensar Veterinar",
+      "latitudine": 45.300474,
+      "longitudine": 25.721513,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 139,
+      "nume": "Dispensar veterinar",
+      "latitudine": 46.555852,
+      "longitudine": 23.513554,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 140,
+      "nume": "Dispensar Veterinar",
+      "latitudine": 46.955621,
+      "longitudine": 26.499163,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 141,
+      "nume": "Dispensarul Veterinar",
+      "latitudine": 44.885961,
+      "longitudine": 26.516406,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 142,
+      "nume": "Dispensarul Veterinar Saru Dornei",
+      "latitudine": 47.289609,
+      "longitudine": 25.368505,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 143,
+      "nume": "Dispensarul veterinar Slănic",
+      "latitudine": 45.226279,
+      "longitudine": 25.930337,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 144,
+      "nume": "Dobos Zoo Vet",
+      "latitudine": 46.769441,
+      "longitudine": 24.706778,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 145,
+      "nume": "Dodo Vet",
+      "latitudine": 45.757918,
+      "longitudine": 21.20819,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 146,
+      "nume": "Dr. Cucu Vlad Andrei",
+      "latitudine": 45.179228,
+      "longitudine": 28.79325,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 147,
+      "nume": "Dr. Heim Lajos állatorvos",
+      "latitudine": 46.530795,
+      "longitudine": 21.2529,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 148,
+      "nume": "Dr. Revnic Cristian",
+      "latitudine": 46.679892,
+      "longitudine": 23.732878,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 149,
+      "nume": "Dr. Vet",
+      "latitudine": 45.655123,
+      "longitudine": 25.710053,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 150,
+      "nume": "Dr. Vișinescu",
+      "latitudine": 44.807875,
+      "longitudine": 25.083643,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 151,
+      "nume": "Ecovet Nou Nou",
+      "latitudine": 44.632362,
+      "longitudine": 22.667359,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 152,
+      "nume": "Elite Vet",
+      "latitudine": 47.121078,
+      "longitudine": 27.554655,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 153,
+      "nume": "Enlexion",
+      "latitudine": 44.425587,
+      "longitudine": 26.017776,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 154,
+      "nume": "Eqvine Vet",
+      "latitudine": 44.408944,
+      "longitudine": 26.137788,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 155,
+      "nume": "Eris Vet",
+      "latitudine": 47.12488,
+      "longitudine": 27.621241,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 156,
+      "nume": "Estela Pet",
+      "latitudine": 44.425981,
+      "longitudine": 26.051316,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 157,
+      "nume": "Exotic Vet Center",
+      "latitudine": 44.447577,
+      "longitudine": 26.122264,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 158,
+      "nume": "Farmacia si cabinet veterinar",
+      "latitudine": 47.645602,
+      "longitudine": 22.89107,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 159,
+      "nume": "Farmacia Veterinaria Niego",
+      "latitudine": 44.426808,
+      "longitudine": 24.365447,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 160,
+      "nume": "Farmacia Veterinară",
+      "latitudine": 45.241209,
+      "longitudine": 24.342206,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 161,
+      "nume": "Farmacia Veterinară",
+      "latitudine": 45.798704,
+      "longitudine": 24.149303,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 162,
+      "nume": "Farmacia Veterinară Tetravet",
+      "latitudine": 44.439045,
+      "longitudine": 26.02835,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 163,
+      "nume": "Farmacie veterinara",
+      "latitudine": 43.891375,
+      "longitudine": 25.967074,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 164,
+      "nume": "Farmacie veterinara",
+      "latitudine": 46.194683,
+      "longitudine": 21.301311,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 165,
+      "nume": "Farmacie Veterinara Medivet",
+      "latitudine": 44.922882,
+      "longitudine": 25.442127,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 166,
+      "nume": "Farmacie Veterinară",
+      "latitudine": 44.714449,
+      "longitudine": 24.125219,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 167,
+      "nume": "Farmacie veterinară",
+      "latitudine": 44.849795,
+      "longitudine": 24.852189,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 168,
+      "nume": "Farmacie Veterinară",
+      "latitudine": 44.873801,
+      "longitudine": 26.649707,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 169,
+      "nume": "Farmacie Veterinară",
+      "latitudine": 45.033603,
+      "longitudine": 25.87428,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 170,
+      "nume": "Farmacie Veterinară",
+      "latitudine": 45.437276,
+      "longitudine": 28.046726,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 171,
+      "nume": "Farmacie Veterinară",
+      "latitudine": 45.439263,
+      "longitudine": 28.047147,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 172,
+      "nume": "Farmacie Veterinară",
+      "latitudine": 46.77723,
+      "longitudine": 23.610362,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 173,
+      "nume": "Farmacie Veterinară",
+      "latitudine": 46.784028,
+      "longitudine": 23.588921,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 174,
+      "nume": "Farmacie veterinară",
+      "latitudine": 47.088761,
+      "longitudine": 25.970418,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 175,
+      "nume": "Farmacie veterinară",
+      "latitudine": 47.164752,
+      "longitudine": 27.583735,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 176,
+      "nume": "Farmacie Veterninară",
+      "latitudine": 44.254462,
+      "longitudine": 24.315571,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 177,
+      "nume": "Farmavet",
+      "latitudine": 46.774751,
+      "longitudine": 23.592944,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 178,
+      "nume": "Fistivet",
+      "latitudine": 45.664252,
+      "longitudine": 25.506742,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 179,
+      "nume": "Gea Vet Solution",
+      "latitudine": 44.948979,
+      "longitudine": 26.006063,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 180,
+      "nume": "Genvet",
+      "latitudine": 46.196733,
+      "longitudine": 21.303375,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 181,
+      "nume": "Green Vet",
+      "latitudine": 47.17279,
+      "longitudine": 27.539586,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 182,
+      "nume": "H-Vet",
+      "latitudine": 45.651401,
+      "longitudine": 25.616742,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 183,
+      "nume": "Happy",
+      "latitudine": 46.535468,
+      "longitudine": 24.558426,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 184,
+      "nume": "Happy Pet",
+      "latitudine": 44.458245,
+      "longitudine": 26.074937,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 185,
+      "nume": "Happy Taz Vet",
+      "latitudine": 44.4322,
+      "longitudine": 26.141855,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 186,
+      "nume": "Help Vet Medical",
+      "latitudine": 44.200398,
+      "longitudine": 28.629583,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 187,
+      "nume": "HELP Vet+",
+      "latitudine": 45.763519,
+      "longitudine": 21.254662,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 188,
+      "nume": "Hera's Vet",
+      "latitudine": 44.486317,
+      "longitudine": 26.039115,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 189,
+      "nume": "IDISVET",
+      "latitudine": 44.386001,
+      "longitudine": 26.099189,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 190,
+      "nume": "In Lumea Animalelor",
+      "latitudine": 46.781749,
+      "longitudine": 23.608097,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 191,
+      "nume": "Isravet",
+      "latitudine": 44.431648,
+      "longitudine": 26.142547,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 192,
+      "nume": "Izavet",
+      "latitudine": 47.142508,
+      "longitudine": 27.531232,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 193,
+      "nume": "Jack Medical Vet",
+      "latitudine": 45.779081,
+      "longitudine": 24.164397,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 194,
+      "nume": "K+2",
+      "latitudine": 45.85912,
+      "longitudine": 25.807968,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 195,
+      "nume": "Kiss Barna",
+      "latitudine": 46.563298,
+      "longitudine": 24.547137,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 196,
+      "nume": "Kronvet",
+      "latitudine": 45.623927,
+      "longitudine": 25.642234,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 197,
+      "nume": "Kronvet",
+      "latitudine": 46.849667,
+      "longitudine": 23.554551,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 198,
+      "nume": "Lamy Vet",
+      "latitudine": 44.418872,
+      "longitudine": 26.021194,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 199,
+      "nume": "Loyal Vet",
+      "latitudine": 44.305347,
+      "longitudine": 23.812778,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 200,
+      "nume": "Lăbuțe roz",
+      "latitudine": 44.386046,
+      "longitudine": 26.110178,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 201,
+      "nume": "MacoVet",
+      "latitudine": 44.359308,
+      "longitudine": 26.134386,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 202,
+      "nume": "Mari Marc - farmacie Veterinara",
+      "latitudine": 45.661944,
+      "longitudine": 25.593327,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 203,
+      "nume": "Masal Med",
+      "latitudine": 44.452446,
+      "longitudine": 26.203282,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 204,
+      "nume": "Medi Vet Constanța",
+      "latitudine": 44.198832,
+      "longitudine": 28.654448,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 205,
+      "nume": "Medic veterinar",
+      "latitudine": 45.848076,
+      "longitudine": 26.178755,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 206,
+      "nume": "MEDICAVET",
+      "latitudine": 46.471601,
+      "longitudine": 22.47459,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 207,
+      "nume": "Medicină veterinară",
+      "latitudine": 45.847211,
+      "longitudine": 26.167888,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 208,
+      "nume": "MegaVetPet",
+      "latitudine": 44.202399,
+      "longitudine": 28.635796,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 209,
+      "nume": "Menaj de cai izlandezi",
+      "latitudine": 46.457115,
+      "longitudine": 25.452555,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 210,
+      "nume": "Metavet",
+      "latitudine": 44.381829,
+      "longitudine": 26.125471,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 211,
+      "nume": "Mobile Vet",
+      "latitudine": 44.415441,
+      "longitudine": 26.12401,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 212,
+      "nume": "Mobile Vet",
+      "latitudine": 44.460408,
+      "longitudine": 26.135516,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 213,
+      "nume": "Mobile Vet",
+      "latitudine": 44.483539,
+      "longitudine": 26.04335,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 214,
+      "nume": "Moon's Vet",
+      "latitudine": 44.484934,
+      "longitudine": 26.034988,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 215,
+      "nume": "Multiserv Animalia",
+      "latitudine": 46.735701,
+      "longitudine": 23.475952,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 216,
+      "nume": "My Vet",
+      "latitudine": 44.438493,
+      "longitudine": 26.017612,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 217,
+      "nume": "N&A Urban Pets",
+      "latitudine": 44.426009,
+      "longitudine": 26.051561,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 218,
+      "nume": "Natura Vet",
+      "latitudine": 44.455116,
+      "longitudine": 26.097201,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 219,
+      "nume": "NIEGO FARMACIE VETERINARA",
+      "latitudine": 44.428956,
+      "longitudine": 24.373794,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 220,
+      "nume": "Nord Vet",
+      "latitudine": 47.655972,
+      "longitudine": 26.256328,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 221,
+      "nume": "Nory Vet",
+      "latitudine": 45.108922,
+      "longitudine": 24.365579,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 222,
+      "nume": "Oli Vet",
+      "latitudine": 44.448879,
+      "longitudine": 25.981771,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 223,
+      "nume": "OLIVER-VET",
+      "latitudine": 46.537342,
+      "longitudine": 26.91962,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 224,
+      "nume": "OneVet",
+      "latitudine": 44.439727,
+      "longitudine": 26.027604,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 225,
+      "nume": "Opti meal",
+      "latitudine": 47.16673,
+      "longitudine": 27.548655,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 226,
+      "nume": "Optima Vet",
+      "latitudine": 44.444036,
+      "longitudine": 25.983159,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 227,
+      "nume": "Ovidius Impex vet",
+      "latitudine": 47.152422,
+      "longitudine": 27.567603,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 228,
+      "nume": "Pantelimon Vet",
+      "latitudine": 44.453171,
+      "longitudine": 26.205994,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 229,
+      "nume": "Pantera Med",
+      "latitudine": 46.540934,
+      "longitudine": 24.544682,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 230,
+      "nume": "Pet Home",
+      "latitudine": 44.46054,
+      "longitudine": 26.078156,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 231,
+      "nume": "Pet Life",
+      "latitudine": 46.77628,
+      "longitudine": 23.611602,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 232,
+      "nume": "Pet Love",
+      "latitudine": 46.754187,
+      "longitudine": 23.628954,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 233,
+      "nume": "Pet Shop",
+      "latitudine": 44.450939,
+      "longitudine": 26.12213,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 234,
+      "nume": "Pet Shop",
+      "latitudine": 44.461616,
+      "longitudine": 26.118181,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 235,
+      "nume": "Pet Stuff",
+      "latitudine": 44.435878,
+      "longitudine": 26.021141,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 236,
+      "nume": "Pet Vet",
+      "latitudine": 44.93761,
+      "longitudine": 25.995643,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 237,
+      "nume": "Petcu",
+      "latitudine": 45.092156,
+      "longitudine": 26.576094,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 238,
+      "nume": "Petkit Pro",
+      "latitudine": 46.54237,
+      "longitudine": 24.573167,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 239,
+      "nume": "Policlinica Veterinară",
+      "latitudine": 44.409709,
+      "longitudine": 26.15952,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 240,
+      "nume": "Prima Vet",
+      "latitudine": 44.434021,
+      "longitudine": 26.038623,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 241,
+      "nume": "Prima Vet",
+      "latitudine": 46.784022,
+      "longitudine": 23.647172,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 242,
+      "nume": "Pro Vet",
+      "latitudine": 47.157921,
+      "longitudine": 27.593239,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 243,
+      "nume": "Pro-Vet",
+      "latitudine": 44.155101,
+      "longitudine": 28.628737,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 244,
+      "nume": "Provet",
+      "latitudine": 44.468873,
+      "longitudine": 26.0555,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 245,
+      "nume": "PumaVet",
+      "latitudine": 47.16307,
+      "longitudine": 27.561931,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 246,
+      "nume": "Puricel Vet",
+      "latitudine": 44.455804,
+      "longitudine": 26.043119,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 247,
+      "nume": "QincyVet",
+      "latitudine": 44.459728,
+      "longitudine": 26.113779,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 248,
+      "nume": "Regal Vet",
+      "latitudine": 44.374812,
+      "longitudine": 26.119639,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 249,
+      "nume": "Regele Leu Cabinet Veterinar",
+      "latitudine": 46.753005,
+      "longitudine": 23.593478,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 250,
+      "nume": "Royal Canin",
+      "latitudine": 44.387845,
+      "longitudine": 26.109185,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 251,
+      "nume": "S.C. TUDOR DOC-VET SRL",
+      "latitudine": 46.933289,
+      "longitudine": 26.349177,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 252,
+      "nume": "Sal-Vet",
+      "latitudine": 45.763671,
+      "longitudine": 21.182104,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 253,
+      "nume": "Salon canin Sara",
+      "latitudine": 46.197472,
+      "longitudine": 21.299969,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 254,
+      "nume": "Salvanim",
+      "latitudine": 47.164896,
+      "longitudine": 27.574638,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 255,
+      "nume": "Sanita Vet",
+      "latitudine": 44.417828,
+      "longitudine": 26.013976,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 256,
+      "nume": "SanVete",
+      "latitudine": 46.765478,
+      "longitudine": 23.619024,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 257,
+      "nume": "SC Bad Vet SRL",
+      "latitudine": 46.088451,
+      "longitudine": 23.129826,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 258,
+      "nume": "SC Purice Adriana Cabinet Medical Veterinar",
+      "latitudine": 45.101538,
+      "longitudine": 24.361325,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 259,
+      "nume": "Servicii Publice",
+      "latitudine": 46.767789,
+      "longitudine": 23.60018,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 260,
+      "nume": "SIL UNIVET",
+      "latitudine": 45.755651,
+      "longitudine": 21.222029,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 261,
+      "nume": "Skyvet",
+      "latitudine": 45.790096,
+      "longitudine": 24.118774,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 262,
+      "nume": "Snowvet",
+      "latitudine": 47.170487,
+      "longitudine": 27.56582,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 263,
+      "nume": "Speed Vet",
+      "latitudine": 44.425001,
+      "longitudine": 26.047572,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 264,
+      "nume": "SpeedVet",
+      "latitudine": 44.414552,
+      "longitudine": 26.067281,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 265,
+      "nume": "Spitalul de urgență M.V.",
+      "latitudine": 46.759806,
+      "longitudine": 23.569194,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 266,
+      "nume": "Spitalul Veterinar Transilvania",
+      "latitudine": 45.792406,
+      "longitudine": 24.162074,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 267,
+      "nume": "Spitalul Veterinar Transilvania",
+      "latitudine": 46.779086,
+      "longitudine": 23.620792,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 268,
+      "nume": "Spring Terravet Srl",
+      "latitudine": 44.976973,
+      "longitudine": 23.321858,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 269,
+      "nume": "T&T Vet",
+      "latitudine": 45.646756,
+      "longitudine": 25.627862,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 270,
+      "nume": "Taras Vet",
+      "latitudine": 44.452755,
+      "longitudine": 26.040367,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 271,
+      "nume": "tazi vet",
+      "latitudine": 44.419133,
+      "longitudine": 26.179892,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 272,
+      "nume": "Tekhnomed",
+      "latitudine": 47.146163,
+      "longitudine": 27.526025,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 273,
+      "nume": "Tetravet",
+      "latitudine": 44.438967,
+      "longitudine": 26.029395,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 274,
+      "nume": "The Vets",
+      "latitudine": 44.422363,
+      "longitudine": 26.070937,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 275,
+      "nume": "The Vets",
+      "latitudine": 44.453783,
+      "longitudine": 26.104637,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 276,
+      "nume": "The Vets Tineretului",
+      "latitudine": 44.408651,
+      "longitudine": 26.118216,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 277,
+      "nume": "Tiger Vet Farmacie Veterinara",
+      "latitudine": 44.944091,
+      "longitudine": 26.024913,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 278,
+      "nume": "Titvet",
+      "latitudine": 46.681191,
+      "longitudine": 22.491301,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 279,
+      "nume": "Transilvania Animal Care",
+      "latitudine": 46.772825,
+      "longitudine": 23.557351,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 280,
+      "nume": "Tri Vet",
+      "latitudine": 44.434076,
+      "longitudine": 26.107437,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 281,
+      "nume": "TrioVet",
+      "latitudine": 47.745733,
+      "longitudine": 26.660205,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 282,
+      "nume": "Trivet",
+      "latitudine": 46.765869,
+      "longitudine": 23.604567,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 283,
+      "nume": "Univet",
+      "latitudine": 44.203603,
+      "longitudine": 28.648551,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 284,
+      "nume": "Urgențe medical veterinare",
+      "latitudine": 46.759286,
+      "longitudine": 23.568911,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 285,
+      "nume": "Urgo Vet",
+      "latitudine": 47.160072,
+      "longitudine": 27.607036,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 286,
+      "nume": "Valvet",
+      "latitudine": 44.311748,
+      "longitudine": 23.78924,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 287,
+      "nume": "Vet",
+      "latitudine": 46.756999,
+      "longitudine": 23.586393,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 288,
+      "nume": "Vet & Pet",
+      "latitudine": 44.441667,
+      "longitudine": 26.166103,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 289,
+      "nume": "Vet & Vet",
+      "latitudine": 46.759398,
+      "longitudine": 23.612269,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 290,
+      "nume": "Vet Expert",
+      "latitudine": 47.680035,
+      "longitudine": 26.251598,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 291,
+      "nume": "Vet Select",
+      "latitudine": 45.779913,
+      "longitudine": 24.136874,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 292,
+      "nume": "Vet Stef",
+      "latitudine": 46.449283,
+      "longitudine": 24.237298,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 293,
+      "nume": "Vet Stil",
+      "latitudine": 44.482931,
+      "longitudine": 26.097868,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 294,
+      "nume": "Vetagrica",
+      "latitudine": 46.199502,
+      "longitudine": 21.295348,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 295,
+      "nume": "Vetagrica Lumea Animalelor",
+      "latitudine": 46.178749,
+      "longitudine": 21.349535,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 296,
+      "nume": "VetCare",
+      "latitudine": 47.161775,
+      "longitudine": 27.60761,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 297,
+      "nume": "VetConsult",
+      "latitudine": 46.769339,
+      "longitudine": 23.60862,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 298,
+      "nume": "Vetepet",
+      "latitudine": 44.43628,
+      "longitudine": 26.15915,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 299,
+      "nume": "Veterinar",
+      "latitudine": 47.328039,
+      "longitudine": 27.622749,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 300,
+      "nume": "Veterinar / Pet Shop",
+      "latitudine": 45.110043,
+      "longitudine": 24.366924,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 301,
+      "nume": "Veterinaria",
+      "latitudine": 45.639122,
+      "longitudine": 25.619191,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 302,
+      "nume": "Veterra Pet Shop Farmacie Veterinară",
+      "latitudine": 43.893745,
+      "longitudine": 25.96139,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 303,
+      "nume": "Vetex Com",
+      "latitudine": 46.533363,
+      "longitudine": 24.578262,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 304,
+      "nume": "Vetomed",
+      "latitudine": 46.752752,
+      "longitudine": 23.596047,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 305,
+      "nume": "Vetricare",
+      "latitudine": 46.750472,
+      "longitudine": 23.576972,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 306,
+      "nume": "Vetsana",
+      "latitudine": 44.432444,
+      "longitudine": 26.139271,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 307,
+      "nume": "Vivavet",
+      "latitudine": 45.726475,
+      "longitudine": 21.203242,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 308,
+      "nume": "Vox Vet",
+      "latitudine": 46.204405,
+      "longitudine": 26.631137,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 309,
+      "nume": "Witing",
+      "latitudine": 44.443607,
+      "longitudine": 26.072505,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 310,
+      "nume": "World Wide Vets",
+      "latitudine": 44.41644,
+      "longitudine": 26.045095,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 311,
+      "nume": "Yogo Vet",
+      "latitudine": 44.450474,
+      "longitudine": 26.123974,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 312,
+      "nume": "Your Vets",
+      "latitudine": 44.431282,
+      "longitudine": 26.146582,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 313,
+      "nume": "ZELFARM",
+      "latitudine": 46.204803,
+      "longitudine": 27.38329,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 314,
+      "nume": "ZEN PET CLUB",
+      "latitudine": 44.39999,
+      "longitudine": 25.989116,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 315,
+      "nume": "Zolivet",
+      "latitudine": 45.763432,
+      "longitudine": 21.209826,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 316,
+      "nume": "Zuza vet",
+      "latitudine": 44.423364,
+      "longitudine": 26.13764,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 317,
+      "nume": "Állatorvosi rendelő",
+      "latitudine": 46.700749,
+      "longitudine": 25.510715,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 318,
+      "nume": "állatorvosi rendelő",
+      "latitudine": 46.770038,
+      "longitudine": 23.552578,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 319,
+      "nume": "Șoșon",
+      "latitudine": 44.535059,
+      "longitudine": 26.068121,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    },
+    {
+      "id": 320,
+      "nume": "Ветаптека",
+      "latitudine": 48.014161,
+      "longitudine": 23.575081,
+      "cheie_osm": "amenity",
+      "valoare_osm": "veterinary",
+      "categorie_osm": "amenity=veterinary"
+    }
+  ],
+  "meta": {
+    "title": "Cabinete veterinare din România - Descărcare gratuită",
+    "description": "Cabinete veterinare din România — 320 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `amenity=veterinary`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează. Conține 320 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Cabinete veterinare din România | ListBase",
+    "seo_description": "Descarcă Cabinete veterinare din România — 320 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 320 înregistrări / 7 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

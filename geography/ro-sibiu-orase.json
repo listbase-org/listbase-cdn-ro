@@ -1,0 +1,256 @@
+{
+  "id": "ro-sibiu-orase",
+  "name": "Orașele și municipiile județului Sibiu",
+  "title": "Orașele și municipiile județului Sibiu",
+  "description": "Lista celor 11 de orașe, municipii din județul Sibiu (SB) — unități administrativ-teritoriale urbane de nivel 2 conform SIRUTA. Reședința de județ este marcată cu is_resedinta_judet=true.",
+  "category": "geography",
+  "source": "https://github.com/ionelmc/django-siruta",
+  "source_url": "https://github.com/ionelmc/django-siruta",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "siruta_code",
+      "label": "Siruta Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_official",
+      "label": "Name Official",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet_id",
+      "label": "Judet Id",
+      "type": "number"
+    },
+    {
+      "key": "judet_name",
+      "label": "Judet Name",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "tip_code",
+      "label": "Tip Code",
+      "type": "number"
+    },
+    {
+      "key": "tip_name",
+      "label": "Tip Name",
+      "type": "string"
+    },
+    {
+      "key": "is_resedinta_judet",
+      "label": "Is Resedinta Judet",
+      "type": "boolean"
+    },
+    {
+      "key": "regiune_id",
+      "label": "Regiune Id",
+      "type": "number"
+    },
+    {
+      "key": "nuts3",
+      "label": "Nuts3",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "siruta_code": 143450,
+      "name": "Sibiu",
+      "name_official": "MUNICIPIUL SIBIU",
+      "slug": "sibiu",
+      "judet_id": 32,
+      "judet_name": "Sibiu",
+      "judet_slug": "sibiu",
+      "iso_3166_2": "RO-SB",
+      "tip_code": 1,
+      "tip_name": "municipiu reședință de județ",
+      "is_resedinta_judet": true,
+      "regiune_id": 7,
+      "nuts3": "RO126"
+    },
+    {
+      "siruta_code": 143682,
+      "name": "Agnita",
+      "name_official": "ORAȘ AGNITA",
+      "slug": "agnita",
+      "judet_id": 32,
+      "judet_name": "Sibiu",
+      "judet_slug": "sibiu",
+      "iso_3166_2": "RO-SB",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 7,
+      "nuts3": "RO126"
+    },
+    {
+      "siruta_code": 144054,
+      "name": "Avrig",
+      "name_official": "ORAȘ AVRIG",
+      "slug": "avrig",
+      "judet_id": 32,
+      "judet_name": "Sibiu",
+      "judet_slug": "sibiu",
+      "iso_3166_2": "RO-SB",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 7,
+      "nuts3": "RO126"
+    },
+    {
+      "siruta_code": 143735,
+      "name": "Cisnădie",
+      "name_official": "ORAȘ CISNĂDIE",
+      "slug": "cisnadie",
+      "judet_id": 32,
+      "judet_name": "Sibiu",
+      "judet_slug": "sibiu",
+      "iso_3166_2": "RO-SB",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 7,
+      "nuts3": "RO126"
+    },
+    {
+      "siruta_code": 143771,
+      "name": "Copșa Mică",
+      "name_official": "ORAȘ COPȘA MICĂ",
+      "slug": "copsa-mica",
+      "judet_id": 32,
+      "judet_name": "Sibiu",
+      "judet_slug": "sibiu",
+      "iso_3166_2": "RO-SB",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 7,
+      "nuts3": "RO126"
+    },
+    {
+      "siruta_code": 143806,
+      "name": "Dumbrăveni",
+      "name_official": "ORAȘ DUMBRĂVENI",
+      "slug": "dumbraveni",
+      "judet_id": 32,
+      "judet_name": "Sibiu",
+      "judet_slug": "sibiu",
+      "iso_3166_2": "RO-SB",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 7,
+      "nuts3": "RO126"
+    },
+    {
+      "siruta_code": 143619,
+      "name": "Mediaș",
+      "name_official": "MUNICIPIUL MEDIAȘ",
+      "slug": "medias",
+      "judet_id": 32,
+      "judet_name": "Sibiu",
+      "judet_slug": "sibiu",
+      "iso_3166_2": "RO-SB",
+      "tip_code": 4,
+      "tip_name": "municipiu",
+      "is_resedinta_judet": false,
+      "regiune_id": 7,
+      "nuts3": "RO126"
+    },
+    {
+      "siruta_code": 144928,
+      "name": "Miercurea Sibiului",
+      "name_official": "ORAȘ MIERCUREA SIBIULUI",
+      "slug": "miercurea-sibiului",
+      "judet_id": 32,
+      "judet_name": "Sibiu",
+      "judet_slug": "sibiu",
+      "iso_3166_2": "RO-SB",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 7,
+      "nuts3": "RO126"
+    },
+    {
+      "siruta_code": 143851,
+      "name": "Ocna Sibiului",
+      "name_official": "ORAȘ OCNA SIBIULUI",
+      "slug": "ocna-sibiului",
+      "judet_id": 32,
+      "judet_name": "Sibiu",
+      "judet_slug": "sibiu",
+      "iso_3166_2": "RO-SB",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 7,
+      "nuts3": "RO126"
+    },
+    {
+      "siruta_code": 145499,
+      "name": "Săliște",
+      "name_official": "ORAȘ SĂLIȘTE",
+      "slug": "saliste",
+      "judet_id": 32,
+      "judet_name": "Sibiu",
+      "judet_slug": "sibiu",
+      "iso_3166_2": "RO-SB",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 7,
+      "nuts3": "RO126"
+    },
+    {
+      "siruta_code": 145827,
+      "name": "Tălmaciu",
+      "name_official": "ORAȘ TĂLMACIU",
+      "slug": "talmaciu",
+      "judet_id": 32,
+      "judet_name": "Sibiu",
+      "judet_slug": "sibiu",
+      "iso_3166_2": "RO-SB",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 7,
+      "nuts3": "RO126"
+    }
+  ],
+  "meta": {
+    "title": "Orașele și municipiile județului Sibiu - Descărcare gratuită",
+    "description": "Lista celor 11 de orașe, municipii din județul Sibiu (SB) — unități administrativ-teritoriale urbane de nivel 2 conform SIRUTA. Reședința de județ este marcată cu is_resedinta_judet=true. Conține 11 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Orașele și municipiile județului Sibiu | ListBase",
+    "seo_description": "Descarcă Orașele și municipiile județului Sibiu — 11 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 11 înregistrări / 13 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: https://github.com/ionelmc/django-siruta"
+    ]
+  }
+}

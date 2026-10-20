@@ -1,0 +1,448 @@
+{
+  "id": "ro-constanta-licee",
+  "name": "Licee si colegii din judetul Constanța",
+  "title": "Licee si colegii din judetul Constanța",
+  "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Constanța (67 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 67,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "CENTRUL ŞCOLAR DE EDUCAŢIE INCLUZIVĂ \"ALBATROS\" CONSTANŢA",
+      "slug": "centrul-scolar-de-educatie-incluziva-albatros-constanta",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "COLEGIUL AGRICOL POARTA ALBĂ",
+      "slug": "colegiul-agricol-poarta-alba",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "COLEGIUL COMERCIAL \"CAROL I\" CONSTANȚA",
+      "slug": "colegiul-comercial-carol-i-constanta",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "COLEGIUL ECONOMIC MANGALIA",
+      "slug": "colegiul-economic-mangalia",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL DE ARTE \"REGINA MARIA\" CONSTANȚA",
+      "slug": "colegiul-national-de-arte-regina-maria-constanta",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL PEDAGOGIC \"CONSTANTIN BRĂTESCU\" CONSTANȚA",
+      "slug": "colegiul-national-pedagogic-constantin-bratescu-constanta",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"KEMAL ATATURK\" MEDGIDIA",
+      "slug": "colegiul-national-kemal-ataturk-medgidia",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"MIHAI EMINESCU\" CONSTANȚA",
+      "slug": "colegiul-national-mihai-eminescu-constanta",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"MIRCEA CEL BĂTRÂN\" CONSTANȚA",
+      "slug": "colegiul-national-mircea-cel-batran-constanta",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC DE MARINĂ \"ALEXANDRU IOAN CUZA\" CONSTANȚA",
+      "slug": "colegiul-tehnic-de-marina-alexandru-ioan-cuza-constanta",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC ENERGETIC CONSTANȚA",
+      "slug": "colegiul-tehnic-energetic-constanta",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"NICOLAE TITULESCU\" MEDGIDIA",
+      "slug": "colegiul-tehnic-nicolae-titulescu-medgidia",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"PONTICA\" CONSTANȚA",
+      "slug": "colegiul-tehnic-pontica-constanta",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"TOMIS\" CONSTANȚA",
+      "slug": "colegiul-tehnic-tomis-constanta",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"VASILE PÂRVAN\" CONSTANȚA",
+      "slug": "colegiul-tehnic-vasile-parvan-constanta",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "COLEGIUL \"DOBROGEA\" CASTELU",
+      "slug": "colegiul-dobrogea-castelu",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL COBADIN",
+      "slug": "liceul-cobadin",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL CU PROGRAM SPORTIV \"NICOLAE ROTARU\" CONSTANȚA",
+      "slug": "liceul-cu-program-sportiv-nicolae-rotaru-constanta",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL INTERNAȚIONAL DE INFORMATICĂ",
+      "slug": "liceul-international-de-informatica",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC CIOBANU",
+      "slug": "liceul-tehnologic-ciobanu",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC COGEALAC",
+      "slug": "liceul-tehnologic-cogealac",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC CRUCEA",
+      "slug": "liceul-tehnologic-crucea",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC DE COOPERAȚIE CONSTANȚA",
+      "slug": "liceul-tehnologic-de-cooperatie-constanta",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC DE ELECTROTEHNICĂ SI TELECOMUNICAȚII CONSTANȚA",
+      "slug": "liceul-tehnologic-de-electrotehnica-si-telecomunicatii-constanta",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC INDEPENDENȚA",
+      "slug": "liceul-tehnologic-independenta",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC TOPRAISAR",
+      "slug": "liceul-tehnologic-topraisar",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC UCECOM \"SPIRU HARET\" CONSTANȚA",
+      "slug": "liceul-tehnologic-ucecom-spiru-haret-constanta",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"AXIOPOLIS\" CERNAVODĂ",
+      "slug": "liceul-tehnologic-axiopolis-cernavoda",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"C. A. ROSETTI\" CONSTANȚA",
+      "slug": "liceul-tehnologic-c-a-rosetti-constanta",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"CARSIUM\" HÂRȘOVA",
+      "slug": "liceul-tehnologic-carsium-harsova",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"CONCORD\" CONSTANȚA",
+      "slug": "liceul-tehnologic-concord-constanta",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"DIMITRIE LEONIDA\" CONSTANȚA",
+      "slug": "liceul-tehnologic-dimitrie-leonida-constanta",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"DRAGOMIR HURMUZESCU\" MEDGIDIA",
+      "slug": "liceul-tehnologic-dragomir-hurmuzescu-medgidia",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"GHEORGHE DUCA\" CONSTANȚA",
+      "slug": "liceul-tehnologic-gheorghe-duca-constanta",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"GHEORGHE MIRON COSTIN\" CONSTANȚA",
+      "slug": "liceul-tehnologic-gheorghe-miron-costin-constanta",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"I. C. BRĂTIANU\" NICOLAE BĂLCESCU",
+      "slug": "liceul-tehnologic-i-c-bratianu-nicolae-balcescu",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"IOAN N. ROMAN\" CONSTANȚA",
+      "slug": "liceul-tehnologic-ioan-n-roman-constanta",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"ION BĂNESCU\" MANGALIA",
+      "slug": "liceul-tehnologic-ion-banescu-mangalia",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"ION PODARU\" OVIDIU",
+      "slug": "liceul-tehnologic-ion-podaru-ovidiu",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"JEAN DINU\" ADAMCLISI",
+      "slug": "liceul-tehnologic-jean-dinu-adamclisi",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"LAZĂR EDELEANU\" NĂVODARI",
+      "slug": "liceul-tehnologic-lazar-edeleanu-navodari",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"MIHAI VITEAZUL\" MIHAI VITEAZU",
+      "slug": "liceul-tehnologic-mihai-viteazul-mihai-viteazu",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"NICOLAE DUMITRESCU\" CUMPĂNA",
+      "slug": "liceul-tehnologic-nicolae-dumitrescu-cumpana",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"NICOLAE ISTRĂȚOIU\" DELENI",
+      "slug": "liceul-tehnologic-nicolae-istratoiu-deleni",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"RADU PRIȘCU\" DOBROMIR",
+      "slug": "liceul-tehnologic-radu-priscu-dobromir",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"VIRGIL MADGEARU\" CONSTANȚA",
+      "slug": "liceul-tehnologic-virgil-madgearu-constanta",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"ANGHEL SALIGNY\"",
+      "slug": "liceul-teoretic-anghel-saligny",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"BĂNEASA\"",
+      "slug": "liceul-teoretic-baneasa",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"CALLATIS\" MANGALIA",
+      "slug": "liceul-teoretic-callatis-mangalia",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"CARMEN SYLVA\" EFORIE",
+      "slug": "liceul-teoretic-carmen-sylva-eforie",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"DECEBAL\" CONSTANȚA",
+      "slug": "liceul-teoretic-decebal-constanta",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"EDUCATIONAL CENTER\" CONSTANȚA",
+      "slug": "liceul-teoretic-educational-center-constanta",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"EMIL RACOVIȚĂ\" TECHIRGHIOL",
+      "slug": "liceul-teoretic-emil-racovita-techirghiol",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"GEORGE CĂLINESCU\" CONSTANȚA",
+      "slug": "liceul-teoretic-george-calinescu-constanta",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"GEORGE EMIL PALADE\" CONSTANȚA",
+      "slug": "liceul-teoretic-george-emil-palade-constanta",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"IOAN COTOVU\" HÂRȘOVA",
+      "slug": "liceul-teoretic-ioan-cotovu-harsova",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"LUCIAN BLAGA\" CONSTANȚA",
+      "slug": "liceul-teoretic-lucian-blaga-constanta",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"MIHAIL KOGĂLNICEANU\"",
+      "slug": "liceul-teoretic-mihail-kogalniceanu",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"MURFATLAR\"",
+      "slug": "liceul-teoretic-murfatlar",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"NEGRU VODĂ\"",
+      "slug": "liceul-teoretic-negru-voda",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"NICOLAE BĂLCESCU\" MEDGIDIA",
+      "slug": "liceul-teoretic-nicolae-balcescu-medgidia",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"OVIDIUS\" CONSTANȚA",
+      "slug": "liceul-teoretic-ovidius-constanta",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"PONTUS EUXINUS\" CONSTANȚA",
+      "slug": "liceul-teoretic-pontus-euxinus-constanta",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"TRAIAN\" CONSTANȚA",
+      "slug": "liceul-teoretic-traian-constanta",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL \"OMNIA\" CONSTANȚA",
+      "slug": "liceul-omnia-constanta",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "LICEUL \"REGELE CAROL I\" OSTROV",
+      "slug": "liceul-regele-carol-i-ostrov",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    },
+    {
+      "nume": "SEMINARUL LICEAL TEOLOGIC",
+      "slug": "seminarul-liceal-teologic",
+      "judet": "CONSTANȚA",
+      "judet_slug": "constanta"
+    }
+  ],
+  "meta": {
+    "title": "Licee si colegii din judetul Constanța - Descărcare gratuită",
+    "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Constanța (67 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor. Conține 67 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Licee si colegii din judetul Constanța | ListBase",
+    "seo_description": "Descarcă Licee si colegii din judetul Constanța — 67 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 67 înregistrări / 4 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

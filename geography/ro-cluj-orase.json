@@ -1,0 +1,181 @@
+{
+  "id": "ro-cluj-orase",
+  "name": "Orașele și municipiile județului Cluj",
+  "title": "Orașele și municipiile județului Cluj",
+  "description": "Lista celor 6 de orașe, municipii din județul Cluj (CJ) — unități administrativ-teritoriale urbane de nivel 2 conform SIRUTA. Reședința de județ este marcată cu is_resedinta_judet=true.",
+  "category": "geography",
+  "source": "https://github.com/ionelmc/django-siruta",
+  "source_url": "https://github.com/ionelmc/django-siruta",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "siruta_code",
+      "label": "Siruta Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_official",
+      "label": "Name Official",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet_id",
+      "label": "Judet Id",
+      "type": "number"
+    },
+    {
+      "key": "judet_name",
+      "label": "Judet Name",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "tip_code",
+      "label": "Tip Code",
+      "type": "number"
+    },
+    {
+      "key": "tip_name",
+      "label": "Tip Name",
+      "type": "string"
+    },
+    {
+      "key": "is_resedinta_judet",
+      "label": "Is Resedinta Judet",
+      "type": "boolean"
+    },
+    {
+      "key": "regiune_id",
+      "label": "Regiune Id",
+      "type": "number"
+    },
+    {
+      "key": "nuts3",
+      "label": "Nuts3",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "siruta_code": 54975,
+      "name": "Cluj-Napoca",
+      "name_official": "MUNICIPIUL CLUJ-NAPOCA",
+      "slug": "cluj-napoca",
+      "judet_id": 12,
+      "judet_name": "Cluj",
+      "judet_slug": "cluj",
+      "iso_3166_2": "RO-CJ",
+      "tip_code": 1,
+      "tip_name": "municipiu reședință de județ",
+      "is_resedinta_judet": true,
+      "regiune_id": 6,
+      "nuts3": "RO113"
+    },
+    {
+      "siruta_code": 55357,
+      "name": "Câmpia Turzii",
+      "name_official": "MUNICIPIUL CÂMPIA TURZII",
+      "slug": "campia-turzii",
+      "judet_id": 12,
+      "judet_name": "Cluj",
+      "judet_slug": "cluj",
+      "iso_3166_2": "RO-CJ",
+      "tip_code": 4,
+      "tip_name": "municipiu",
+      "is_resedinta_judet": false,
+      "regiune_id": 6,
+      "nuts3": "RO113"
+    },
+    {
+      "siruta_code": 55008,
+      "name": "Dej",
+      "name_official": "MUNICIPIUL DEJ",
+      "slug": "dej",
+      "judet_id": 12,
+      "judet_name": "Cluj",
+      "judet_slug": "cluj",
+      "iso_3166_2": "RO-CJ",
+      "tip_code": 4,
+      "tip_name": "municipiu",
+      "is_resedinta_judet": false,
+      "regiune_id": 6,
+      "nuts3": "RO113"
+    },
+    {
+      "siruta_code": 55384,
+      "name": "Gherla",
+      "name_official": "MUNICIPIUL GHERLA",
+      "slug": "gherla",
+      "judet_id": 12,
+      "judet_name": "Cluj",
+      "judet_slug": "cluj",
+      "iso_3166_2": "RO-CJ",
+      "tip_code": 4,
+      "tip_name": "municipiu",
+      "is_resedinta_judet": false,
+      "regiune_id": 6,
+      "nuts3": "RO113"
+    },
+    {
+      "siruta_code": 55446,
+      "name": "Huedin",
+      "name_official": "ORAȘ HUEDIN",
+      "slug": "huedin",
+      "judet_id": 12,
+      "judet_name": "Cluj",
+      "judet_slug": "cluj",
+      "iso_3166_2": "RO-CJ",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 6,
+      "nuts3": "RO113"
+    },
+    {
+      "siruta_code": 55259,
+      "name": "Turda",
+      "name_official": "MUNICIPIUL TURDA",
+      "slug": "turda",
+      "judet_id": 12,
+      "judet_name": "Cluj",
+      "judet_slug": "cluj",
+      "iso_3166_2": "RO-CJ",
+      "tip_code": 4,
+      "tip_name": "municipiu",
+      "is_resedinta_judet": false,
+      "regiune_id": 6,
+      "nuts3": "RO113"
+    }
+  ],
+  "meta": {
+    "title": "Orașele și municipiile județului Cluj - Descărcare gratuită",
+    "description": "Lista celor 6 de orașe, municipii din județul Cluj (CJ) — unități administrativ-teritoriale urbane de nivel 2 conform SIRUTA. Reședința de județ este marcată cu is_resedinta_judet=true. Conține 6 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Orașele și municipiile județului Cluj | ListBase",
+    "seo_description": "Descarcă Orașele și municipiile județului Cluj — 6 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 6 înregistrări / 13 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: https://github.com/ionelmc/django-siruta"
+    ]
+  }
+}

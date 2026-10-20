@@ -1,0 +1,178 @@
+{
+  "id": "ro-vaslui-licee",
+  "name": "Licee si colegii din judetul Vaslui",
+  "title": "Licee si colegii din judetul Vaslui",
+  "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Vaslui (22 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "COLEGIUL AGRICOL \"DIMITRIE CANTEMIR\"",
+      "slug": "colegiul-agricol-dimitrie-cantemir",
+      "judet": "VASLUI",
+      "judet_slug": "vaslui"
+    },
+    {
+      "nume": "COLEGIUL ECONOMIC \"ANGHEL RUGINĂ\"",
+      "slug": "colegiul-economic-anghel-rugina",
+      "judet": "VASLUI",
+      "judet_slug": "vaslui"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"CUZA VODĂ\"",
+      "slug": "colegiul-national-cuza-voda",
+      "judet": "VASLUI",
+      "judet_slug": "vaslui"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"GHEORGHE ROȘCA CODREANU\"",
+      "slug": "colegiul-national-gheorghe-rosca-codreanu",
+      "judet": "VASLUI",
+      "judet_slug": "vaslui"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"ALEXANDRU IOAN CUZA\"",
+      "slug": "colegiul-tehnic-alexandru-ioan-cuza",
+      "judet": "VASLUI",
+      "judet_slug": "vaslui"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"MARCEL GUGUIANU\" ZORLENI",
+      "slug": "colegiul-tehnic-marcel-guguianu-zorleni",
+      "judet": "VASLUI",
+      "judet_slug": "vaslui"
+    },
+    {
+      "nume": "LICEUL CU PROGRAM SPORTIV",
+      "slug": "liceul-cu-program-sportiv",
+      "judet": "VASLUI",
+      "judet_slug": "vaslui"
+    },
+    {
+      "nume": "LICEUL PEDAGOGIC \"IOAN POPESCU\"",
+      "slug": "liceul-pedagogic-ioan-popescu",
+      "judet": "VASLUI",
+      "judet_slug": "vaslui"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC PUIEȘTI",
+      "slug": "liceul-tehnologic-puiesti",
+      "judet": "VASLUI",
+      "judet_slug": "vaslui"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC VLADIA DRAGOMIREȘTI",
+      "slug": "liceul-tehnologic-vladia-dragomiresti",
+      "judet": "VASLUI",
+      "judet_slug": "vaslui"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"DIMITRIE CANTEMIR\" FĂLCIU",
+      "slug": "liceul-tehnologic-dimitrie-cantemir-falciu",
+      "judet": "VASLUI",
+      "judet_slug": "vaslui"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"GHENUȚĂ COMAN\"",
+      "slug": "liceul-tehnologic-ghenuta-coman",
+      "judet": "VASLUI",
+      "judet_slug": "vaslui"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"IOAN CORIVAN\"",
+      "slug": "liceul-tehnologic-ioan-corivan",
+      "judet": "VASLUI",
+      "judet_slug": "vaslui"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"ION MINCU\"",
+      "slug": "liceul-tehnologic-ion-mincu",
+      "judet": "VASLUI",
+      "judet_slug": "vaslui"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"NICOLAE IORGA\"",
+      "slug": "liceul-tehnologic-nicolae-iorga",
+      "judet": "VASLUI",
+      "judet_slug": "vaslui"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"PETRU RAREȘ\" VETRIȘOAIA",
+      "slug": "liceul-tehnologic-petru-rares-vetrisoaia",
+      "judet": "VASLUI",
+      "judet_slug": "vaslui"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"PETRU RAREȘ\"",
+      "slug": "liceul-tehnologic-petru-rares",
+      "judet": "VASLUI",
+      "judet_slug": "vaslui"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"EMIL RACOVIȚĂ\"",
+      "slug": "liceul-teoretic-emil-racovita",
+      "judet": "VASLUI",
+      "judet_slug": "vaslui"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"MIHAI EMINESCU\"",
+      "slug": "liceul-teoretic-mihai-eminescu",
+      "judet": "VASLUI",
+      "judet_slug": "vaslui"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"MIHAIL KOGĂLNICEANU\"",
+      "slug": "liceul-teoretic-mihail-kogalniceanu",
+      "judet": "VASLUI",
+      "judet_slug": "vaslui"
+    },
+    {
+      "nume": "LICEUL \"ȘTEFAN CEL MARE\" CODĂEȘTI",
+      "slug": "liceul-stefan-cel-mare-codaesti",
+      "judet": "VASLUI",
+      "judet_slug": "vaslui"
+    },
+    {
+      "nume": "LICEUL \"ȘTEFAN PROCOPIU\"",
+      "slug": "liceul-stefan-procopiu",
+      "judet": "VASLUI",
+      "judet_slug": "vaslui"
+    }
+  ],
+  "meta": {
+    "title": "Licee si colegii din judetul Vaslui - Descărcare gratuită",
+    "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Vaslui (22 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor. Conține 22 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Licee si colegii din judetul Vaslui | ListBase",
+    "seo_description": "Descarcă Licee si colegii din judetul Vaslui — 22 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 22 înregistrări / 4 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "id": "ro-mehedinti-licee",
+  "name": "Licee si colegii din judetul Mehedinți",
+  "title": "Licee si colegii din judetul Mehedinți",
+  "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Mehedinți (19 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "COLEGIUL NAȚIONAL ECONOMIC \"THEODOR COSTESCU\"",
+      "slug": "colegiul-national-economic-theodor-costescu",
+      "judet": "MEHEDINȚI",
+      "judet_slug": "mehedinti"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL PEDAGOGIC \"ȘTEFAN ODOBLEJA\"",
+      "slug": "colegiul-national-pedagogic-stefan-odobleja",
+      "judet": "MEHEDINȚI",
+      "judet_slug": "mehedinti"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"GHEORGHE ȚIȚEICA\"",
+      "slug": "colegiul-national-gheorghe-titeica",
+      "judet": "MEHEDINȚI",
+      "judet_slug": "mehedinti"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"TRAIAN\"",
+      "slug": "colegiul-national-traian",
+      "judet": "MEHEDINȚI",
+      "judet_slug": "mehedinti"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC DE TRANSPORTURI AUTO",
+      "slug": "colegiul-tehnic-de-transporturi-auto",
+      "judet": "MEHEDINȚI",
+      "judet_slug": "mehedinti"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"DECEBAL\"",
+      "slug": "colegiul-tehnic-decebal",
+      "judet": "MEHEDINȚI",
+      "judet_slug": "mehedinti"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"DIERNA\"",
+      "slug": "colegiul-tehnic-dierna",
+      "judet": "MEHEDINȚI",
+      "judet_slug": "mehedinti"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"DOMNUL TUDOR\"",
+      "slug": "colegiul-tehnic-domnul-tudor",
+      "judet": "MEHEDINȚI",
+      "judet_slug": "mehedinti"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"LORIN SĂLĂGEAN\"",
+      "slug": "colegiul-tehnic-lorin-salagean",
+      "judet": "MEHEDINȚI",
+      "judet_slug": "mehedinti"
+    },
+    {
+      "nume": "COLEGIUL TEHNOLOGIC \"CONSTANTIN BRÂNCOVEANU\"",
+      "slug": "colegiul-tehnologic-constantin-brancoveanu",
+      "judet": "MEHEDINȚI",
+      "judet_slug": "mehedinti"
+    },
+    {
+      "nume": "LICEUL DE ARTE \"IOAN ȘTEFAN PAULIAN\"",
+      "slug": "liceul-de-arte-ioan-stefan-paulian",
+      "judet": "MEHEDINȚI",
+      "judet_slug": "mehedinti"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"HALÂNGA\"",
+      "slug": "liceul-tehnologic-halanga",
+      "judet": "MEHEDINȚI",
+      "judet_slug": "mehedinti"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"MATEI BASARAB\"",
+      "slug": "liceul-tehnologic-matei-basarab",
+      "judet": "MEHEDINȚI",
+      "judet_slug": "mehedinti"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"TUDOR VLADIMIRESCU\"",
+      "slug": "liceul-tehnologic-tudor-vladimirescu",
+      "judet": "MEHEDINȚI",
+      "judet_slug": "mehedinti"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"CUJMIR\"",
+      "slug": "liceul-teoretic-cujmir",
+      "judet": "MEHEDINȚI",
+      "judet_slug": "mehedinti"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"DR. VICTOR GOMOIU\"",
+      "slug": "liceul-teoretic-dr-victor-gomoiu",
+      "judet": "MEHEDINȚI",
+      "judet_slug": "mehedinti"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"GHEORGHE IONESCU ȘIȘEȘTI\"",
+      "slug": "liceul-teoretic-gheorghe-ionescu-sisesti",
+      "judet": "MEHEDINȚI",
+      "judet_slug": "mehedinti"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"TRAIAN LALESCU\"",
+      "slug": "liceul-teoretic-traian-lalescu",
+      "judet": "MEHEDINȚI",
+      "judet_slug": "mehedinti"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"ȘERBAN CIOCULESCU\"",
+      "slug": "liceul-teoretic-serban-cioculescu",
+      "judet": "MEHEDINȚI",
+      "judet_slug": "mehedinti"
+    }
+  ],
+  "meta": {
+    "title": "Licee si colegii din judetul Mehedinți - Descărcare gratuită",
+    "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Mehedinți (19 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor. Conține 19 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Licee si colegii din judetul Mehedinți | ListBase",
+    "seo_description": "Descarcă Licee si colegii din judetul Mehedinți — 19 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 19 înregistrări / 4 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

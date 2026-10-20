@@ -1,0 +1,6 @@
+﻿"Name","Latitude","Longitude","Status","Reactor Type","Reactor Model","Construction Start","Operational From","Operational To","Capacity Mw","Iaea Id","Data Source"
+"Cernavoda-1","44.322","28.061","Operational","PHWR","CANDU 6","1983-03-31","1996-12-02","","650","442","WNA/IAEA"
+"Cernavoda-2","44.322","28.061","Operational","PHWR","CANDU 6","1983-07-01","2007-11-01","","650","443","WNA/IAEA"
+"Cernavoda-3","44.322","28.061","Suspended Construction","PHWR","","1984-02-09","","","655","","WNA/IAEA/Wikipedia"
+"Cernavoda-4","44.322","28.061","Suspended Construction","PHWR","","1985-08-15","","","655","","IAEA/Wikipedia"
+"Cernavoda-5","44.322","28.061","Cancelled Construction","PHWR","","1987-05-12","","","655","","IAEA/Wikipedia"

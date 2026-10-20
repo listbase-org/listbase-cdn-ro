@@ -1,0 +1,170 @@
+{
+  "id": "ro-maramures-monumente",
+  "name": "Monumente din Maramureș — biserici de lemn UNESCO și Cimitirul Vesel",
+  "title": "Monumente din Maramureș — biserici de lemn UNESCO și Cimitirul Vesel",
+  "description": "Monumente istorice și de patrimoniu din județul Maramureș, România (9 înregistrări): cele opt biserici de lemn înscrise în patrimoniul mondial UNESCO din 1999 (Bârsana, Desești, Ieud Deal, Poienile Izei, Rogoz, Plopiș, Budești-Josani, Șurdești) și Cimitirul Vesel din Săpânța. Fiecare înregistrare are denumirea, anul, o descriere și localitatea în română și engleză, plus statutul și tipul monumentului. Câmpuri: id, name, name_en, year, description, description_en, location, status, type.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "description_en",
+      "label": "Description En",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "Bârsana",
+      "name_en": "Bârsana",
+      "year": 1711,
+      "description": "Biserica din Bârsana, cunoscută pentru turnul înălțat și decorul interior.",
+      "description_en": "The Bârsana Church, known for its tall tower and interior decoration.",
+      "location": "Bârsana",
+      "status": "UNESCO (din 1999)",
+      "type": "Biserică de lemn"
+    },
+    {
+      "id": 2,
+      "name": "Desești",
+      "name_en": "Desești",
+      "year": 1770,
+      "description": "Biserica din Desești are o planimetrie specifică şi pictură interioară remarcabilă.",
+      "description_en": "The Desești Church has a specific layout and remarkable interior painting.",
+      "location": "Sat Desești (Valea Marei) — ~35 km de Baia Mare",
+      "status": "UNESCO (din 1999)",
+      "type": "Biserică de lemn"
+    },
+    {
+      "id": 3,
+      "name": "Ieud Deal",
+      "name_en": "Ieud Hill",
+      "year": 1600,
+      "description": "Biserica din Ieud are elemente vechi şi o importanţă istorică majoră.",
+      "description_en": "The Ieud Church has ancient elements and major historical importance.",
+      "location": "Ieud",
+      "status": "UNESCO (din 1999)",
+      "type": "Biserică de lemn"
+    },
+    {
+      "id": 4,
+      "name": "Poienile Izei",
+      "name_en": "Poienile Izei",
+      "year": 1632,
+      "description": "Poienile Izei păstrează tradiţiile locale şi pictura specifică.",
+      "description_en": "Poienile Izei preserves local traditions and specific painting.",
+      "location": "Poienile Izei",
+      "status": "UNESCO (din 1999)",
+      "type": "Biserică de lemn"
+    },
+    {
+      "id": 5,
+      "name": "Rogoz",
+      "name_en": "Rogoz",
+      "year": 1663,
+      "description": "Biserica din Rogoz este un exemplu reprezentativ de arhitectură de lemn.",
+      "description_en": "The Rogoz Church is a representative example of wooden architecture.",
+      "location": "Rogoz",
+      "status": "UNESCO (din 1999)",
+      "type": "Biserică de lemn"
+    },
+    {
+      "id": 6,
+      "name": "Plopiș",
+      "name_en": "Plopiș",
+      "year": 1798,
+      "description": "Biserica Plopiș are elemente de tâmplărie locale și proporţii armonioase.",
+      "description_en": "The Plopiș Church has local carpentry elements and harmonious proportions.",
+      "location": "Plopiș",
+      "status": "UNESCO (din 1999)",
+      "type": "Biserică de lemn"
+    },
+    {
+      "id": 7,
+      "name": "Budești (Josani)",
+      "name_en": "Budești (Josani)",
+      "year": 1643,
+      "description": "Budești păstrează un interior bogat pictat şi artefacte istorice.",
+      "description_en": "Budești preserves a richly painted interior and historical artifacts.",
+      "location": "Budești (Joșani)",
+      "status": "UNESCO (din 1999)",
+      "type": "Biserică de lemn"
+    },
+    {
+      "id": 8,
+      "name": "Șurdești",
+      "name_en": "Șurdești",
+      "year": 1721,
+      "description": "Șurdești este remarcabilă prin proporţiile turnului şi decorul său.",
+      "description_en": "Șurdești is remarkable for its tower proportions and decoration.",
+      "location": "Șurdești",
+      "status": "UNESCO (din 1999)",
+      "type": "Biserică de lemn"
+    },
+    {
+      "id": 9,
+      "name": "Cimitirul Vesel",
+      "name_en": "Merry Cemetery",
+      "year": 1935,
+      "description": "Cimitirul Vesel din Săpânța este celebru pentru crucile sale colorate cu epitafuri naive și vesele.",
+      "description_en": "The Merry Cemetery in Săpânța is famous for its colorful crosses with naive and cheerful epitaphs.",
+      "location": "Săpânța",
+      "status": "Monument istoric",
+      "type": "Cimitir tradițional"
+    }
+  ],
+  "meta": {
+    "title": "Monumente din Maramureș — biserici de lemn UNESCO și Cimitirul Vesel - Descărcare gratuită",
+    "description": "Monumente istorice și de patrimoniu din județul Maramureș, România (9 înregistrări): cele opt biserici de lemn înscrise în patrimoniul mondial UNESCO din 1999 (Bârsana, Desești, Ieud Deal, Poienile Izei, Rogoz, Plopiș, Budești-Josani, Șurdești) și Cimitirul Vesel din Săpânța. Fiecare înregistrare are denumirea, anul, o descriere și localitatea în română și engleză, plus statutul și tipul monumentului. Câmpuri: id, name, name_en, year, description, description_en, location, status, type. Conține 9 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Monumente din Maramureș — biserici de lemn UNESCO și Cimitirul Vesel | ListBase",
+    "seo_description": "Descarcă Monumente din Maramureș — biserici de lemn UNESCO și Cimitirul Vesel — 9 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 9 înregistrări / 9 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

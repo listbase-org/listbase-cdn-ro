@@ -1,0 +1,211 @@
+{
+  "id": "ro-caras-severin-orase",
+  "name": "Orașele și municipiile județului Caraș-Severin",
+  "title": "Orașele și municipiile județului Caraș-Severin",
+  "description": "Lista celor 8 de orașe, municipii din județul Caraș-Severin (CS) — unități administrativ-teritoriale urbane de nivel 2 conform SIRUTA. Reședința de județ este marcată cu is_resedinta_judet=true.",
+  "category": "geography",
+  "source": "https://github.com/ionelmc/django-siruta",
+  "source_url": "https://github.com/ionelmc/django-siruta",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "siruta_code",
+      "label": "Siruta Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_official",
+      "label": "Name Official",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet_id",
+      "label": "Judet Id",
+      "type": "number"
+    },
+    {
+      "key": "judet_name",
+      "label": "Judet Name",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "tip_code",
+      "label": "Tip Code",
+      "type": "number"
+    },
+    {
+      "key": "tip_name",
+      "label": "Tip Name",
+      "type": "string"
+    },
+    {
+      "key": "is_resedinta_judet",
+      "label": "Is Resedinta Judet",
+      "type": "boolean"
+    },
+    {
+      "key": "regiune_id",
+      "label": "Regiune Id",
+      "type": "number"
+    },
+    {
+      "key": "nuts3",
+      "label": "Nuts3",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "siruta_code": 50790,
+      "name": "Reșița",
+      "name_official": "MUNICIPIUL REȘIȚA",
+      "slug": "resita",
+      "judet_id": 11,
+      "judet_name": "Caraș-Severin",
+      "judet_slug": "caras-severin",
+      "iso_3166_2": "RO-CS",
+      "tip_code": 1,
+      "tip_name": "municipiu reședință de județ",
+      "is_resedinta_judet": true,
+      "regiune_id": 5,
+      "nuts3": "RO422"
+    },
+    {
+      "siruta_code": 50889,
+      "name": "Anina",
+      "name_official": "ORAȘ ANINA",
+      "slug": "anina",
+      "judet_id": 11,
+      "judet_name": "Caraș-Severin",
+      "judet_slug": "caras-severin",
+      "iso_3166_2": "RO-CS",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 5,
+      "nuts3": "RO422"
+    },
+    {
+      "siruta_code": 50969,
+      "name": "Bocșa",
+      "name_official": "ORAȘ BOCȘA",
+      "slug": "bocsa",
+      "judet_id": 11,
+      "judet_name": "Caraș-Severin",
+      "judet_slug": "caras-severin",
+      "iso_3166_2": "RO-CS",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 5,
+      "nuts3": "RO422"
+    },
+    {
+      "siruta_code": 50923,
+      "name": "Băile Herculane",
+      "name_official": "ORAȘ BĂILE HERCULANE",
+      "slug": "baile-herculane",
+      "judet_id": 11,
+      "judet_name": "Caraș-Severin",
+      "judet_slug": "caras-severin",
+      "iso_3166_2": "RO-CS",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 5,
+      "nuts3": "RO422"
+    },
+    {
+      "siruta_code": 51010,
+      "name": "Caransebeș",
+      "name_official": "MUNICIPIUL CARANSEBEȘ",
+      "slug": "caransebes",
+      "judet_id": 11,
+      "judet_name": "Caraș-Severin",
+      "judet_slug": "caras-severin",
+      "iso_3166_2": "RO-CS",
+      "tip_code": 4,
+      "tip_name": "municipiu",
+      "is_resedinta_judet": false,
+      "regiune_id": 5,
+      "nuts3": "RO422"
+    },
+    {
+      "siruta_code": 51056,
+      "name": "Moldova Nouă",
+      "name_official": "ORAȘ MOLDOVA NOUĂ",
+      "slug": "moldova-noua",
+      "judet_id": 11,
+      "judet_name": "Caraș-Severin",
+      "judet_slug": "caras-severin",
+      "iso_3166_2": "RO-CS",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 5,
+      "nuts3": "RO422"
+    },
+    {
+      "siruta_code": 51118,
+      "name": "Oravița",
+      "name_official": "ORAȘ ORAVIȚA",
+      "slug": "oravita",
+      "judet_id": 11,
+      "judet_name": "Caraș-Severin",
+      "judet_slug": "caras-severin",
+      "iso_3166_2": "RO-CS",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 5,
+      "nuts3": "RO422"
+    },
+    {
+      "siruta_code": 51207,
+      "name": "Oțelu Roșu",
+      "name_official": "ORAȘ OȚELU ROȘU",
+      "slug": "otelu-rosu",
+      "judet_id": 11,
+      "judet_name": "Caraș-Severin",
+      "judet_slug": "caras-severin",
+      "iso_3166_2": "RO-CS",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 5,
+      "nuts3": "RO422"
+    }
+  ],
+  "meta": {
+    "title": "Orașele și municipiile județului Caraș-Severin - Descărcare gratuită",
+    "description": "Lista celor 8 de orașe, municipii din județul Caraș-Severin (CS) — unități administrativ-teritoriale urbane de nivel 2 conform SIRUTA. Reședința de județ este marcată cu is_resedinta_judet=true. Conține 8 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Orașele și municipiile județului Caraș-Severin | ListBase",
+    "seo_description": "Descarcă Orașele și municipiile județului Caraș-Severin — 8 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 8 înregistrări / 13 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: https://github.com/ionelmc/django-siruta"
+    ]
+  }
+}

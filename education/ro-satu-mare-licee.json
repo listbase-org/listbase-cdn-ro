@@ -1,0 +1,226 @@
+{
+  "id": "ro-satu-mare-licee",
+  "name": "Licee si colegii din judetul Satu-Mare",
+  "title": "Licee si colegii din judetul Satu-Mare",
+  "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Satu-Mare (30 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "COLEGIUL ECONOMIC \"GHEORGHE DRAGOS\" SATU MARE",
+      "slug": "colegiul-economic-gheorghe-dragos-satu-mare",
+      "judet": "SATU-MARE",
+      "judet_slug": "satu-mare"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL MIHAI EMINESCU\" SATU MARE",
+      "slug": "colegiul-national-mihai-eminescu-satu-mare",
+      "judet": "SATU-MARE",
+      "judet_slug": "satu-mare"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"DOAMNA STANCA\" SATU MARE",
+      "slug": "colegiul-national-doamna-stanca-satu-mare",
+      "judet": "SATU-MARE",
+      "judet_slug": "satu-mare"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"IOAN SLAVICI\" SATU MARE",
+      "slug": "colegiul-national-ioan-slavici-satu-mare",
+      "judet": "SATU-MARE",
+      "judet_slug": "satu-mare"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"KOLCSEY FERENC\" SATU MARE",
+      "slug": "colegiul-national-kolcsey-ferenc-satu-mare",
+      "judet": "SATU-MARE",
+      "judet_slug": "satu-mare"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC DE TRANSPORTURI SI TELECOMUNICATII \"ION I. C. BRATIANU\" SATU MARE",
+      "slug": "colegiul-tehnic-de-transporturi-si-telecomunicatii-ion-i-c-bratianu-satu-mare",
+      "judet": "SATU-MARE",
+      "judet_slug": "satu-mare"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"ELISA ZAMFIRESCU\" SATU MARE",
+      "slug": "colegiul-tehnic-elisa-zamfirescu-satu-mare",
+      "judet": "SATU-MARE",
+      "judet_slug": "satu-mare"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"IULIU MANIU\" CAREI",
+      "slug": "colegiul-tehnic-iuliu-maniu-carei",
+      "judet": "SATU-MARE",
+      "judet_slug": "satu-mare"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"UNIO-TRAIAN VUIA\" SATU MARE",
+      "slug": "colegiul-tehnic-unio-traian-vuia-satu-mare",
+      "judet": "SATU-MARE",
+      "judet_slug": "satu-mare"
+    },
+    {
+      "nume": "LICEUL CU PROGRAM SPORTIV SATU MARE",
+      "slug": "liceul-cu-program-sportiv-satu-mare",
+      "judet": "SATU-MARE",
+      "judet_slug": "satu-mare"
+    },
+    {
+      "nume": "LICEUL DE ARTE \"AUREL POPP\" SATU MARE",
+      "slug": "liceul-de-arte-aurel-popp-satu-mare",
+      "judet": "SATU-MARE",
+      "judet_slug": "satu-mare"
+    },
+    {
+      "nume": "LICEUL REFORMAT SATU MARE",
+      "slug": "liceul-reformat-satu-mare",
+      "judet": "SATU-MARE",
+      "judet_slug": "satu-mare"
+    },
+    {
+      "nume": "LICEUL ROMANO-CATOLIC \"JOSEPHUS CALASANTIUS\" CAREI",
+      "slug": "liceul-romano-catolic-josephus-calasantius-carei",
+      "judet": "SATU-MARE",
+      "judet_slug": "satu-mare"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC ARDUD",
+      "slug": "liceul-tehnologic-ardud",
+      "judet": "SATU-MARE",
+      "judet_slug": "satu-mare"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC CONSTRUCTII DE MASINI \"UNIO\" SATU MARE",
+      "slug": "liceul-tehnologic-constructii-de-masini-unio-satu-mare",
+      "judet": "SATU-MARE",
+      "judet_slug": "satu-mare"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC DE INDUSTRIE ALIMENTARA \"GEORGE EMIL PALADE\" SATU MARE",
+      "slug": "liceul-tehnologic-de-industrie-alimentara-george-emil-palade-satu-mare",
+      "judet": "SATU-MARE",
+      "judet_slug": "satu-mare"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC TARNA MARE",
+      "slug": "liceul-tehnologic-tarna-mare",
+      "judet": "SATU-MARE",
+      "judet_slug": "satu-mare"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC TASNAD",
+      "slug": "liceul-tehnologic-tasnad",
+      "judet": "SATU-MARE",
+      "judet_slug": "satu-mare"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"ANGHEL SALIGNY\" TURT",
+      "slug": "liceul-tehnologic-anghel-saligny-turt",
+      "judet": "SATU-MARE",
+      "judet_slug": "satu-mare"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"CONSTANTIN BRANCUSI\" SATU MARE",
+      "slug": "liceul-tehnologic-constantin-brancusi-satu-mare",
+      "judet": "SATU-MARE",
+      "judet_slug": "satu-mare"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"GEORGE BARITIU\" LIVADA",
+      "slug": "liceul-tehnologic-george-baritiu-livada",
+      "judet": "SATU-MARE",
+      "judet_slug": "satu-mare"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"IONITA G. ANDRON\" NEGRESTI-OAS",
+      "slug": "liceul-tehnologic-ionita-g-andron-negresti-oas",
+      "judet": "SATU-MARE",
+      "judet_slug": "satu-mare"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"PETRU CUPCEA\" SUPURU DE JOS",
+      "slug": "liceul-tehnologic-petru-cupcea-supuru-de-jos",
+      "judet": "SATU-MARE",
+      "judet_slug": "satu-mare"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"SIMION BARNUTIU\" CAREI",
+      "slug": "liceul-tehnologic-simion-barnutiu-carei",
+      "judet": "SATU-MARE",
+      "judet_slug": "satu-mare"
+    },
+    {
+      "nume": "LICEUL TEOLOGIC ORTODOX \"NICOLAE STEINHARDT\" SATU MARE",
+      "slug": "liceul-teologic-ortodox-nicolae-steinhardt-satu-mare",
+      "judet": "SATU-MARE",
+      "judet_slug": "satu-mare"
+    },
+    {
+      "nume": "LICEUL TEOLOGIC ROMANO-CATOLIC \"HAM JANOS\" SATU MARE",
+      "slug": "liceul-teologic-romano-catolic-ham-janos-satu-mare",
+      "judet": "SATU-MARE",
+      "judet_slug": "satu-mare"
+    },
+    {
+      "nume": "LICEUL TEORETIC CAREI",
+      "slug": "liceul-teoretic-carei",
+      "judet": "SATU-MARE",
+      "judet_slug": "satu-mare"
+    },
+    {
+      "nume": "LICEUL TEORETIC GERMAN \"JOHANN ETTINGER\" SATU MARE",
+      "slug": "liceul-teoretic-german-johann-ettinger-satu-mare",
+      "judet": "SATU-MARE",
+      "judet_slug": "satu-mare"
+    },
+    {
+      "nume": "LICEUL TEORETIC NEGRESTI OAS",
+      "slug": "liceul-teoretic-negresti-oas",
+      "judet": "SATU-MARE",
+      "judet_slug": "satu-mare"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"GEORGE POP DE BASESTI\" SATU MARE",
+      "slug": "liceul-teoretic-george-pop-de-basesti-satu-mare",
+      "judet": "SATU-MARE",
+      "judet_slug": "satu-mare"
+    }
+  ],
+  "meta": {
+    "title": "Licee si colegii din judetul Satu-Mare - Descărcare gratuită",
+    "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Satu-Mare (30 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor. Conține 30 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Licee si colegii din judetul Satu-Mare | ListBase",
+    "seo_description": "Descarcă Licee si colegii din judetul Satu-Mare — 30 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 30 înregistrări / 4 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

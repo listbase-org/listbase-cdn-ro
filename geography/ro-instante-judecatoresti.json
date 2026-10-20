@@ -1,0 +1,1735 @@
+{
+  "id": "ro-instante-judecatoresti",
+  "name": "Instanțe judecătorești din România",
+  "title": "Instanțe judecătorești din România",
+  "description": "Instanțe judecătorești din România — 186 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `amenity=courthouse`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 186,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "latitudine",
+      "label": "Latitudine",
+      "type": "number"
+    },
+    {
+      "key": "longitudine",
+      "label": "Longitudine",
+      "type": "number"
+    },
+    {
+      "key": "cheie_osm",
+      "label": "Cheie Osm",
+      "type": "string"
+    },
+    {
+      "key": "valoare_osm",
+      "label": "Valoare Osm",
+      "type": "string"
+    },
+    {
+      "key": "categorie_osm",
+      "label": "Categorie Osm",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nume": "Casa de Cultură",
+      "latitudine": 47.480485,
+      "longitudine": 25.278191,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 2,
+      "nume": "Consiliul Național de Soluționare a Contestațiilor",
+      "latitudine": 44.431765,
+      "longitudine": 26.09922,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 3,
+      "nume": "Curtea Constituțională a României",
+      "latitudine": 44.426347,
+      "longitudine": 26.088547,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 4,
+      "nume": "Curtea de Apel",
+      "latitudine": 44.858653,
+      "longitudine": 24.871199,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 5,
+      "nume": "Curtea de Apel",
+      "latitudine": 45.631994,
+      "longitudine": 25.631703,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 6,
+      "nume": "Curtea de Apel Bacău",
+      "latitudine": 46.568218,
+      "longitudine": 26.906182,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 7,
+      "nume": "Curtea de Apel București",
+      "latitudine": 44.429023,
+      "longitudine": 26.09889,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 8,
+      "nume": "Curtea de Apel Cluj",
+      "latitudine": 46.77057,
+      "longitudine": 23.598083,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 9,
+      "nume": "Curtea de Apel Constanța",
+      "latitudine": 44.175939,
+      "longitudine": 28.65284,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 10,
+      "nume": "Curtea de Apel Ploieşti",
+      "latitudine": 44.94582,
+      "longitudine": 26.016447,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 11,
+      "nume": "Curtea Locală Căuaș",
+      "latitudine": 47.569076,
+      "longitudine": 22.545515,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 12,
+      "nume": "DIICOT - Structura Centrala",
+      "latitudine": 44.444733,
+      "longitudine": 26.08775,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 13,
+      "nume": "Inspectoratul Teritorial de Muncă",
+      "latitudine": 44.928036,
+      "longitudine": 25.460397,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 14,
+      "nume": "Judecatoria Alesd",
+      "latitudine": 47.059648,
+      "longitudine": 22.395877,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 15,
+      "nume": "Judecatoria Corabia",
+      "latitudine": 43.774566,
+      "longitudine": 24.505486,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 16,
+      "nume": "Judecatoria Mangalia",
+      "latitudine": 43.808388,
+      "longitudine": 28.581667,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 17,
+      "nume": "Judecatoria Motru",
+      "latitudine": 44.804301,
+      "longitudine": 22.970158,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 18,
+      "nume": "Judecatoria Pogoanele",
+      "latitudine": 44.910393,
+      "longitudine": 26.987802,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 19,
+      "nume": "Judecatoria Simleu Silvaniei",
+      "latitudine": 47.231797,
+      "longitudine": 22.796663,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 20,
+      "nume": "Judecatoria Targoviste",
+      "latitudine": 44.921144,
+      "longitudine": 25.447279,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 21,
+      "nume": "Judecătoria Aiud",
+      "latitudine": 46.313687,
+      "longitudine": 23.725402,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 22,
+      "nume": "Judecătoria Alba Iulia",
+      "latitudine": 46.071056,
+      "longitudine": 23.582712,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 23,
+      "nume": "Judecătoria Arad",
+      "latitudine": 46.177074,
+      "longitudine": 21.321276,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 24,
+      "nume": "Judecătoria Avrig",
+      "latitudine": 45.726381,
+      "longitudine": 24.375196,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 25,
+      "nume": "Judecătoria Bacău",
+      "latitudine": 46.568052,
+      "longitudine": 26.906033,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 26,
+      "nume": "Judecătoria Bolintin-Vale",
+      "latitudine": 44.446788,
+      "longitudine": 25.758663,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 27,
+      "nume": "Judecătoria Botoșani",
+      "latitudine": 47.741915,
+      "longitudine": 26.657244,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 28,
+      "nume": "Judecătoria Brezoi",
+      "latitudine": 45.343659,
+      "longitudine": 24.243778,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 29,
+      "nume": "Judecătoria Buftea",
+      "latitudine": 44.561162,
+      "longitudine": 25.94256,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 30,
+      "nume": "Judecătoria Buzău",
+      "latitudine": 45.164209,
+      "longitudine": 26.814324,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 31,
+      "nume": "Judecătoria Calafat",
+      "latitudine": 43.99252,
+      "longitudine": 22.933878,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 32,
+      "nume": "Judecătoria Caracal",
+      "latitudine": 44.108725,
+      "longitudine": 24.344991,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 33,
+      "nume": "Judecătoria Caransebeș",
+      "latitudine": 45.413017,
+      "longitudine": 22.214886,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 34,
+      "nume": "Judecătoria Cluj-Napoca",
+      "latitudine": 46.771022,
+      "longitudine": 23.598784,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 35,
+      "nume": "Judecătoria Constanța",
+      "latitudine": 44.175344,
+      "longitudine": 28.653169,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 36,
+      "nume": "Judecătoria Craiova",
+      "latitudine": 44.317763,
+      "longitudine": 23.802853,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 37,
+      "nume": "Judecătoria Curtea de Argeș",
+      "latitudine": 45.136923,
+      "longitudine": 24.675583,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 38,
+      "nume": "Judecătoria Câmpulung",
+      "latitudine": 45.274242,
+      "longitudine": 25.045155,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 39,
+      "nume": "Judecătoria Dej",
+      "latitudine": 47.144949,
+      "longitudine": 23.87622,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 40,
+      "nume": "Judecătoria Dorohoi",
+      "latitudine": 47.95191,
+      "longitudine": 26.395309,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 41,
+      "nume": "Judecătoria Drăgășani",
+      "latitudine": 44.660496,
+      "longitudine": 24.262649,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 42,
+      "nume": "Judecătoria Făget",
+      "latitudine": 45.856621,
+      "longitudine": 22.177387,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 43,
+      "nume": "Judecătoria Făgăraș",
+      "latitudine": 45.844376,
+      "longitudine": 24.96613,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 44,
+      "nume": "Judecătoria Gherla",
+      "latitudine": 47.032882,
+      "longitudine": 23.908965,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 45,
+      "nume": "Judecătoria Gura Humorului",
+      "latitudine": 47.553635,
+      "longitudine": 25.893956,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 46,
+      "nume": "Judecătoria Horezu",
+      "latitudine": 45.146045,
+      "longitudine": 23.989847,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 47,
+      "nume": "Judecătoria Hunedoara",
+      "latitudine": 45.751055,
+      "longitudine": 22.903058,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 48,
+      "nume": "Judecătoria Hârșova",
+      "latitudine": 44.691104,
+      "longitudine": 27.961503,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 49,
+      "nume": "Judecătoria Iași",
+      "latitudine": 47.159607,
+      "longitudine": 27.589744,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 50,
+      "nume": "Judecătoria Ilia",
+      "latitudine": 45.930857,
+      "longitudine": 22.660023,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 51,
+      "nume": "Judecătoria Lipova",
+      "latitudine": 46.090632,
+      "longitudine": 21.696229,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 52,
+      "nume": "Judecătoria Orșova",
+      "latitudine": 44.724651,
+      "longitudine": 22.398329,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 53,
+      "nume": "Judecătoria Pașcani",
+      "latitudine": 47.244315,
+      "longitudine": 26.725236,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 54,
+      "nume": "Judecătoria Piatra Neamț",
+      "latitudine": 46.932849,
+      "longitudine": 26.365397,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 55,
+      "nume": "Judecătoria Pitești",
+      "latitudine": 44.85109,
+      "longitudine": 24.867381,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 56,
+      "nume": "Judecătoria Ploiești",
+      "latitudine": 44.939425,
+      "longitudine": 26.027325,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 57,
+      "nume": "Judecătoria Podu Turcului",
+      "latitudine": 46.200575,
+      "longitudine": 27.384871,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 58,
+      "nume": "Judecătoria Pucioasa",
+      "latitudine": 45.0759,
+      "longitudine": 25.432287,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 59,
+      "nume": "Judecătoria Pătârlagele",
+      "latitudine": 45.310872,
+      "longitudine": 26.363493,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 60,
+      "nume": "Judecătoria Reghin",
+      "latitudine": 46.78096,
+      "longitudine": 24.701488,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 61,
+      "nume": "Judecătoria Rm Vâlcea",
+      "latitudine": 45.104323,
+      "longitudine": 24.362591,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 62,
+      "nume": "Judecătoria Roșiori de Vede",
+      "latitudine": 44.111601,
+      "longitudine": 24.998385,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 63,
+      "nume": "Judecătoria Rupea",
+      "latitudine": 46.038935,
+      "longitudine": 25.220555,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 64,
+      "nume": "Judecătoria Sebeș",
+      "latitudine": 45.956502,
+      "longitudine": 23.574883,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 65,
+      "nume": "Judecătoria Sectorului 1",
+      "latitudine": 44.429071,
+      "longitudine": 26.097591,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 66,
+      "nume": "Judecătoria Sectorului 2",
+      "latitudine": 44.427198,
+      "longitudine": 26.110615,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 67,
+      "nume": "Judecătoria Sectorului 3",
+      "latitudine": 44.431868,
+      "longitudine": 26.095207,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 68,
+      "nume": "Judecătoria Sectorului 4",
+      "latitudine": 44.429032,
+      "longitudine": 26.097493,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 69,
+      "nume": "Judecătoria Sectorului 5",
+      "latitudine": 44.428851,
+      "longitudine": 26.098199,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 70,
+      "nume": "Judecătoria Sectorului 6",
+      "latitudine": 44.438366,
+      "longitudine": 26.079175,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 71,
+      "nume": "Judecătoria Secția Civilă",
+      "latitudine": 47.159153,
+      "longitudine": 27.590657,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 72,
+      "nume": "Judecătoria Segarcea",
+      "latitudine": 44.095838,
+      "longitudine": 23.745214,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 73,
+      "nume": "Judecătoria Sighișoara",
+      "latitudine": 46.215727,
+      "longitudine": 24.792786,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 74,
+      "nume": "Judecătoria Slatina",
+      "latitudine": 44.430572,
+      "longitudine": 24.359762,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 75,
+      "nume": "Judecătoria Sânnicolau Mare",
+      "latitudine": 46.069698,
+      "longitudine": 20.620364,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 76,
+      "nume": "Judecătoria Săliște",
+      "latitudine": 45.79473,
+      "longitudine": 23.882603,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 77,
+      "nume": "Judecătoria Tecuci",
+      "latitudine": 45.845456,
+      "longitudine": 27.424557,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 78,
+      "nume": "Judecătoria Tg. Neamț",
+      "latitudine": 47.207114,
+      "longitudine": 26.364601,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 79,
+      "nume": "Judecătoria Timișoara",
+      "latitudine": 45.75722,
+      "longitudine": 21.231787,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 80,
+      "nume": "Judecătoria Toplița",
+      "latitudine": 46.924764,
+      "longitudine": 25.353204,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 81,
+      "nume": "Judecătoria Turda",
+      "latitudine": 46.565599,
+      "longitudine": 23.778792,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 82,
+      "nume": "Judecătoria Târgu Neamț",
+      "latitudine": 47.20136,
+      "longitudine": 26.358511,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 83,
+      "nume": "Judecătoria Târgu Secuiesc",
+      "latitudine": 45.999847,
+      "longitudine": 26.131258,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 84,
+      "nume": "Judecătoria Vaslui",
+      "latitudine": 46.638004,
+      "longitudine": 27.729454,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 85,
+      "nume": "Judecătoria Vatra Dornei",
+      "latitudine": 47.347741,
+      "longitudine": 25.357823,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 86,
+      "nume": "Judecătoria Videle",
+      "latitudine": 44.275194,
+      "longitudine": 25.524559,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 87,
+      "nume": "Judecătoria Zimnicea",
+      "latitudine": 43.656184,
+      "longitudine": 25.364874,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 88,
+      "nume": "Judecătoria Zărnești",
+      "latitudine": 45.576128,
+      "longitudine": 25.362799,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 89,
+      "nume": "Judecătorie",
+      "latitudine": 45.172468,
+      "longitudine": 23.66502,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 90,
+      "nume": "Judecătorie",
+      "latitudine": 45.794617,
+      "longitudine": 23.883589,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 91,
+      "nume": "Judecătorie Răducăneni",
+      "latitudine": 46.959037,
+      "longitudine": 27.940991,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 92,
+      "nume": "Notar Public Vasiu Mariana",
+      "latitudine": 45.444097,
+      "longitudine": 25.554654,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 93,
+      "nume": "Oficiul Registrului de Comerț de pe lângă Tribunalul Vâlcea",
+      "latitudine": 45.123402,
+      "longitudine": 24.363668,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 94,
+      "nume": "Ordinul Arhitecților din România",
+      "latitudine": 44.929579,
+      "longitudine": 25.458995,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 95,
+      "nume": "Palace of Justice",
+      "latitudine": 47.742128,
+      "longitudine": 26.656236,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 96,
+      "nume": "Palatul de Justiție",
+      "latitudine": 44.424079,
+      "longitudine": 24.37092,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 97,
+      "nume": "Palatul de Justiție",
+      "latitudine": 45.789496,
+      "longitudine": 24.144662,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 98,
+      "nume": "Palatul de Justiție",
+      "latitudine": 47.641186,
+      "longitudine": 26.253151,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 99,
+      "nume": "Palatul de justiție-Tribunalul Vâlcea",
+      "latitudine": 45.104888,
+      "longitudine": 24.362843,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 100,
+      "nume": "Palatul Justiției",
+      "latitudine": 46.354919,
+      "longitudine": 25.803554,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 101,
+      "nume": "Palatul Justiției",
+      "latitudine": 47.655949,
+      "longitudine": 23.556415,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 102,
+      "nume": "Palatul Justiției",
+      "latitudine": 47.795148,
+      "longitudine": 22.877625,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 103,
+      "nume": "Parchet",
+      "latitudine": 45.37748,
+      "longitudine": 27.044227,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 104,
+      "nume": "Parchetul Corabia",
+      "latitudine": 43.776059,
+      "longitudine": 24.503913,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 105,
+      "nume": "Parchetul de pe langa curtea de apel Brașov",
+      "latitudine": 45.643783,
+      "longitudine": 25.593316,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 106,
+      "nume": "Parchetul de pe langa Judecătoria Hârșova",
+      "latitudine": 44.690766,
+      "longitudine": 27.960619,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 107,
+      "nume": "Parchetul de pe langa Judecătoria Rm Sarat",
+      "latitudine": 45.377493,
+      "longitudine": 27.044243,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 108,
+      "nume": "Parchetul de pe lângă Curtea de Apel",
+      "latitudine": 44.316958,
+      "longitudine": 23.811214,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 109,
+      "nume": "Parchetul De Pe Lângă Curtea De Apel București",
+      "latitudine": 44.43539,
+      "longitudine": 26.105358,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 110,
+      "nume": "Parchetul de pe lângă Curtea de Apel Timișoara",
+      "latitudine": 45.75664,
+      "longitudine": 21.231564,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 111,
+      "nume": "Parchetul de pe lângă Judecătoria Brezoi",
+      "latitudine": 45.343938,
+      "longitudine": 24.243888,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 112,
+      "nume": "Parchetul de pe lângă judecătoria Buftea",
+      "latitudine": 44.564773,
+      "longitudine": 25.942747,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 113,
+      "nume": "Parchetul de pe lângă Judecătoria Făgăraș",
+      "latitudine": 45.84545,
+      "longitudine": 24.967467,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 114,
+      "nume": "Parchetul de pe lângă Judecătoria Gura Humorului",
+      "latitudine": 47.555077,
+      "longitudine": 25.888582,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 115,
+      "nume": "Parchetul de pe lângă Judecătoria Podu Turcului",
+      "latitudine": 46.205331,
+      "longitudine": 27.385923,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 116,
+      "nume": "Parchetul de pe lângă Judecătoria Reghin",
+      "latitudine": 46.779526,
+      "longitudine": 24.700846,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 117,
+      "nume": "Parchetul de pe lângă Judecătoria Râmnicu Vâlcea",
+      "latitudine": 45.106971,
+      "longitudine": 24.364804,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 118,
+      "nume": "Parchetul de pe lângă Judecătoria Sebeș",
+      "latitudine": 45.958281,
+      "longitudine": 23.568965,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 119,
+      "nume": "Parchetul de pe lângă Judecătoria Sector 4 și Sector 1",
+      "latitudine": 44.43214,
+      "longitudine": 26.105271,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 120,
+      "nume": "Parchetul De Pe Lângă Judecătoria Sectorului 1",
+      "latitudine": 44.435384,
+      "longitudine": 26.10508,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 121,
+      "nume": "Parchetul De Pe Lângă Judecătoria Sectorului 2",
+      "latitudine": 44.435362,
+      "longitudine": 26.105099,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 122,
+      "nume": "Parchetul De Pe Lângă Judecătoria Sectorului 3",
+      "latitudine": 44.435341,
+      "longitudine": 26.105125,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 123,
+      "nume": "Parchetul De Pe Lângă Judecătoria Sectorului 4",
+      "latitudine": 44.435326,
+      "longitudine": 26.105154,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 124,
+      "nume": "Parchetul De Pe Lângă Judecătoria Sectorului 5",
+      "latitudine": 44.435331,
+      "longitudine": 26.105183,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 125,
+      "nume": "Parchetul De Pe Lângă Judecătoria Sectorului 6",
+      "latitudine": 44.43534,
+      "longitudine": 26.105213,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 126,
+      "nume": "Parchetul de pe lângă Judecătoria Suceava",
+      "latitudine": 47.642099,
+      "longitudine": 26.258939,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 127,
+      "nume": "Parchetul de pe lângă Judecătoria Tecuci",
+      "latitudine": 45.843181,
+      "longitudine": 27.431045,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 128,
+      "nume": "Parchetul de pe lângă tribunalul Vâlcea",
+      "latitudine": 45.104847,
+      "longitudine": 24.36242,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 129,
+      "nume": "Parchetul Drăgășani",
+      "latitudine": 44.660586,
+      "longitudine": 24.259947,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 130,
+      "nume": "Parchetul Novaci",
+      "latitudine": 45.175073,
+      "longitudine": 23.664008,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 131,
+      "nume": "Parchetul Piatra Neamț",
+      "latitudine": 46.930893,
+      "longitudine": 26.365312,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 132,
+      "nume": "Parchetul Tribunalul Ialomita",
+      "latitudine": 44.562502,
+      "longitudine": 27.356668,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 133,
+      "nume": "Principala",
+      "latitudine": 45.757675,
+      "longitudine": 28.072948,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 134,
+      "nume": "Procuratura Toplița",
+      "latitudine": 46.924338,
+      "longitudine": 25.355459,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 135,
+      "nume": "Registratura Judecătoriei",
+      "latitudine": 47.158814,
+      "longitudine": 27.590732,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 136,
+      "nume": "Registratura Judecătoriei Timiș",
+      "latitudine": 45.757003,
+      "longitudine": 21.230811,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 137,
+      "nume": "Str primăverii nr 26",
+      "latitudine": 45.381243,
+      "longitudine": 27.044978,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 138,
+      "nume": "Tribunal",
+      "latitudine": 44.564381,
+      "longitudine": 27.364015,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 139,
+      "nume": "Tribunal",
+      "latitudine": 44.624247,
+      "longitudine": 22.66193,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 140,
+      "nume": "Tribunal",
+      "latitudine": 45.861959,
+      "longitudine": 25.78794,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 141,
+      "nume": "Tribunal",
+      "latitudine": 47.058159,
+      "longitudine": 21.935973,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 142,
+      "nume": "Tribunalul Alexandria",
+      "latitudine": 43.970499,
+      "longitudine": 25.326579,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 143,
+      "nume": "Tribunalul Arad",
+      "latitudine": 46.177045,
+      "longitudine": 21.32181,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 144,
+      "nume": "Tribunalul Argeș",
+      "latitudine": 44.858137,
+      "longitudine": 24.873916,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 145,
+      "nume": "Tribunalul Bacău Sediul Principal",
+      "latitudine": 46.568216,
+      "longitudine": 26.906006,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 146,
+      "nume": "Tribunalul Bacău Sediul Secundar",
+      "latitudine": 46.573872,
+      "longitudine": 26.915821,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 147,
+      "nume": "Tribunalul Bistrița",
+      "latitudine": 47.126916,
+      "longitudine": 24.494369,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 148,
+      "nume": "Tribunalul Botoșani",
+      "latitudine": 47.742064,
+      "longitudine": 26.656352,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 149,
+      "nume": "Tribunalul Brăila",
+      "latitudine": 45.265509,
+      "longitudine": 27.970912,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 150,
+      "nume": "Tribunalul București",
+      "latitudine": 44.427105,
+      "longitudine": 26.110254,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 151,
+      "nume": "Tribunalul București -Secţia a-VI-a Civilă",
+      "latitudine": 44.443709,
+      "longitudine": 26.045084,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 152,
+      "nume": "Tribunalul Buftea",
+      "latitudine": 44.561284,
+      "longitudine": 25.942378,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 153,
+      "nume": "Tribunalul Buzău",
+      "latitudine": 45.153483,
+      "longitudine": 26.819017,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 154,
+      "nume": "Tribunalul Cluj",
+      "latitudine": 46.770853,
+      "longitudine": 23.59805,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 155,
+      "nume": "Tribunalul Constanța",
+      "latitudine": 44.175073,
+      "longitudine": 28.653645,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 156,
+      "nume": "Tribunalul Câmpina",
+      "latitudine": 45.128986,
+      "longitudine": 25.734864,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 157,
+      "nume": "Tribunalul Dolj",
+      "latitudine": 44.322038,
+      "longitudine": 23.788959,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 158,
+      "nume": "Tribunalul Dâmbovița",
+      "latitudine": 44.920805,
+      "longitudine": 25.47709,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 159,
+      "nume": "Tribunalul Giurgiu",
+      "latitudine": 43.889326,
+      "longitudine": 25.967355,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 160,
+      "nume": "Tribunalul Gorj",
+      "latitudine": 45.039673,
+      "longitudine": 23.275697,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 161,
+      "nume": "Tribunalul Hunedoara",
+      "latitudine": 45.884945,
+      "longitudine": 22.898821,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 162,
+      "nume": "Tribunalul Iași, Curtea de Apel Iași",
+      "latitudine": 47.164428,
+      "longitudine": 27.592523,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 163,
+      "nume": "Tribunalul Județean",
+      "latitudine": 45.649817,
+      "longitudine": 25.606303,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 164,
+      "nume": "Tribunalul Județean Galați",
+      "latitudine": 45.428171,
+      "longitudine": 28.037027,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 165,
+      "nume": "Tribunalul Lugoj",
+      "latitudine": 45.688215,
+      "longitudine": 21.904385,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 166,
+      "nume": "Tribunalul Medgidia",
+      "latitudine": 44.259531,
+      "longitudine": 28.263295,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 167,
+      "nume": "Tribunalul Militar",
+      "latitudine": 47.159957,
+      "longitudine": 27.598806,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 168,
+      "nume": "Tribunalul Militar București",
+      "latitudine": 44.445578,
+      "longitudine": 26.06655,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 169,
+      "nume": "Tribunalul Mureș",
+      "latitudine": 46.541909,
+      "longitudine": 24.564577,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 170,
+      "nume": "Tribunalul Neamț",
+      "latitudine": 46.928977,
+      "longitudine": 26.365744,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 171,
+      "nume": "Tribunalul Olt",
+      "latitudine": 44.424075,
+      "longitudine": 24.370897,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 172,
+      "nume": "Tribunalul Prahova",
+      "latitudine": 44.945579,
+      "longitudine": 26.016876,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 173,
+      "nume": "Tribunalul si Parchetul Mediaș",
+      "latitudine": 46.16107,
+      "longitudine": 24.353453,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 174,
+      "nume": "Tribunalul Specializat (Comercial) Cluj",
+      "latitudine": 46.770902,
+      "longitudine": 23.598321,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 175,
+      "nume": "Tribunalul Specializat Mureș",
+      "latitudine": 46.544198,
+      "longitudine": 24.561687,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 176,
+      "nume": "Tribunalul Timiș",
+      "latitudine": 45.757238,
+      "longitudine": 21.231379,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 177,
+      "nume": "Tribunalul Turnu Măgurele",
+      "latitudine": 43.745483,
+      "longitudine": 24.866103,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 178,
+      "nume": "Tribunalul Vaslui",
+      "latitudine": 46.631688,
+      "longitudine": 27.73037,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 179,
+      "nume": "Tribunalul Vrancea",
+      "latitudine": 45.698747,
+      "longitudine": 27.187598,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 180,
+      "nume": "Tribunalul și Judecătoria Caraș-Severin",
+      "latitudine": 45.29034,
+      "longitudine": 21.889163,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 181,
+      "nume": "Tribunalul și Judecătoria Călărași",
+      "latitudine": 44.194064,
+      "longitudine": 27.328244,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 182,
+      "nume": "Törvényszék",
+      "latitudine": 46.722159,
+      "longitudine": 25.597596,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 183,
+      "nume": "Înalta Curte de Casație și Justiție",
+      "latitudine": 44.423014,
+      "longitudine": 26.110876,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 184,
+      "nume": "Районен съд",
+      "latitudine": 43.705518,
+      "longitudine": 24.894792,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 185,
+      "nume": "Районний Суд",
+      "latitudine": 48.010424,
+      "longitudine": 23.576292,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    },
+    {
+      "id": 186,
+      "nume": "ЧСИ Виолета Томова",
+      "latitudine": 43.985013,
+      "longitudine": 22.876351,
+      "cheie_osm": "amenity",
+      "valoare_osm": "courthouse",
+      "categorie_osm": "amenity=courthouse"
+    }
+  ],
+  "meta": {
+    "title": "Instanțe judecătorești din România - Descărcare gratuită",
+    "description": "Instanțe judecătorești din România — 186 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `amenity=courthouse`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează. Conține 186 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Instanțe judecătorești din România | ListBase",
+    "seo_description": "Descarcă Instanțe judecătorești din România — 186 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 186 înregistrări / 7 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

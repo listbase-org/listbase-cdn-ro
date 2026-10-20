@@ -1,0 +1,244 @@
+{
+  "id": "ro-bacau-licee",
+  "name": "Licee si colegii din judetul Bacău",
+  "title": "Licee si colegii din judetul Bacău",
+  "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Bacău (33 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "COLEGIUL ECONOMIC \"ION GHICA\" BACĂU",
+      "slug": "colegiul-economic-ion-ghica-bacau",
+      "judet": "BACĂU",
+      "judet_slug": "bacau"
+    },
+    {
+      "nume": "COLEGIUL NAŢIONAL CATOLIC \"SF.IOSIF\" BACĂU",
+      "slug": "colegiul-national-catolic-sf-iosif-bacau",
+      "judet": "BACĂU",
+      "judet_slug": "bacau"
+    },
+    {
+      "nume": "COLEGIUL NAŢIONAL DE ARTĂ \"GEORGE APOSTU\" BACĂU",
+      "slug": "colegiul-national-de-arta-george-apostu-bacau",
+      "judet": "BACĂU",
+      "judet_slug": "bacau"
+    },
+    {
+      "nume": "COLEGIUL NAŢIONAL PEDAGOGIC \"ŞTEFAN CEL MARE\" BACĂU",
+      "slug": "colegiul-national-pedagogic-stefan-cel-mare-bacau",
+      "judet": "BACĂU",
+      "judet_slug": "bacau"
+    },
+    {
+      "nume": "COLEGIUL NAŢIONAL \"COSTACHE NEGRI\" TÂRGU OCNA",
+      "slug": "colegiul-national-costache-negri-targu-ocna",
+      "judet": "BACĂU",
+      "judet_slug": "bacau"
+    },
+    {
+      "nume": "COLEGIUL NAŢIONAL \"DIMITRIE CANTEMIR\" ONEŞTI",
+      "slug": "colegiul-national-dimitrie-cantemir-onesti",
+      "judet": "BACĂU",
+      "judet_slug": "bacau"
+    },
+    {
+      "nume": "COLEGIUL NAŢIONAL \"FERDINAND I\" BACĂU",
+      "slug": "colegiul-national-ferdinand-i-bacau",
+      "judet": "BACĂU",
+      "judet_slug": "bacau"
+    },
+    {
+      "nume": "COLEGIUL NAŢIONAL \"GHEORGHE VRĂNCEANU\" BACĂU",
+      "slug": "colegiul-national-gheorghe-vranceanu-bacau",
+      "judet": "BACĂU",
+      "judet_slug": "bacau"
+    },
+    {
+      "nume": "COLEGIUL NAŢIONAL \"GRIGORE MOISIL\" ONEŞTI",
+      "slug": "colegiul-national-grigore-moisil-onesti",
+      "judet": "BACĂU",
+      "judet_slug": "bacau"
+    },
+    {
+      "nume": "COLEGIUL NAŢIONAL \"VASILE ALECSANDRI\" BACAU",
+      "slug": "colegiul-national-vasile-alecsandri-bacau",
+      "judet": "BACĂU",
+      "judet_slug": "bacau"
+    },
+    {
+      "nume": "COLEGIUL SPORTIV \"NADIA COMĂNECI\" ONEŞTI",
+      "slug": "colegiul-sportiv-nadia-comaneci-onesti",
+      "judet": "BACĂU",
+      "judet_slug": "bacau"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC DE COMUNICAŢII \"N.VASILESCU-KARPEN\" BACĂU",
+      "slug": "colegiul-tehnic-de-comunicatii-n-vasilescu-karpen-bacau",
+      "judet": "BACĂU",
+      "judet_slug": "bacau"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"ANGHEL SALIGNY\" BACĂU",
+      "slug": "colegiul-tehnic-anghel-saligny-bacau",
+      "judet": "BACĂU",
+      "judet_slug": "bacau"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"DIMITRIE GHIKA\" COMĂNEŞTI",
+      "slug": "colegiul-tehnic-dimitrie-ghika-comanesti",
+      "judet": "BACĂU",
+      "judet_slug": "bacau"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"DUMITRU MANGERON\" BACĂU",
+      "slug": "colegiul-tehnic-dumitru-mangeron-bacau",
+      "judet": "BACĂU",
+      "judet_slug": "bacau"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"GHEORGHE ASACHI\" ONEŞTI",
+      "slug": "colegiul-tehnic-gheorghe-asachi-onesti",
+      "judet": "BACĂU",
+      "judet_slug": "bacau"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"GRIGORE COBĂLCESCU\" MOINEŞTI",
+      "slug": "colegiul-tehnic-grigore-cobalcescu-moinesti",
+      "judet": "BACĂU",
+      "judet_slug": "bacau"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"ION BORCEA\" BUHUŞI",
+      "slug": "colegiul-tehnic-ion-borcea-buhusi",
+      "judet": "BACĂU",
+      "judet_slug": "bacau"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"PETRU PONI\" ONEŞTI",
+      "slug": "colegiul-tehnic-petru-poni-onesti",
+      "judet": "BACĂU",
+      "judet_slug": "bacau"
+    },
+    {
+      "nume": "COLEGIUL \"GRIGORE ANTIPA\" BACĂU",
+      "slug": "colegiul-grigore-antipa-bacau",
+      "judet": "BACĂU",
+      "judet_slug": "bacau"
+    },
+    {
+      "nume": "COLEGIUL \"HENRI COANDĂ\" BACĂU",
+      "slug": "colegiul-henri-coanda-bacau",
+      "judet": "BACĂU",
+      "judet_slug": "bacau"
+    },
+    {
+      "nume": "COLEGIUL \"MIHAI EMINESCU\" BACĂU",
+      "slug": "colegiul-mihai-eminescu-bacau",
+      "judet": "BACĂU",
+      "judet_slug": "bacau"
+    },
+    {
+      "nume": "LICEUL CU PROGRAM SPORTIV BACĂU",
+      "slug": "liceul-cu-program-sportiv-bacau",
+      "judet": "BACĂU",
+      "judet_slug": "bacau"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC DĂRMĂNEŞTI",
+      "slug": "liceul-tehnologic-darmanesti",
+      "judet": "BACĂU",
+      "judet_slug": "bacau"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC FĂGET",
+      "slug": "liceul-tehnologic-faget",
+      "judet": "BACĂU",
+      "judet_slug": "bacau"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC ONEŞTI",
+      "slug": "liceul-tehnologic-onesti",
+      "judet": "BACĂU",
+      "judet_slug": "bacau"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC RĂCHITOASA",
+      "slug": "liceul-tehnologic-rachitoasa",
+      "judet": "BACĂU",
+      "judet_slug": "bacau"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"ALEXANDRU VLAHUŢĂ\" PODU TURCULUI",
+      "slug": "liceul-tehnologic-alexandru-vlahuta-podu-turcului",
+      "judet": "BACĂU",
+      "judet_slug": "bacau"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"GEORGETA J. CANCICOV\" PARINCEA",
+      "slug": "liceul-tehnologic-georgeta-j-cancicov-parincea",
+      "judet": "BACĂU",
+      "judet_slug": "bacau"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"JACQUES M. ELIAS\" SASCUT",
+      "slug": "liceul-tehnologic-jacques-m-elias-sascut",
+      "judet": "BACĂU",
+      "judet_slug": "bacau"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"PETRU RAREŞ\" BACĂU",
+      "slug": "liceul-tehnologic-petru-rares-bacau",
+      "judet": "BACĂU",
+      "judet_slug": "bacau"
+    },
+    {
+      "nume": "LICEUL TEOLOGIC \"FERICITUL IEREMIA\" ONEŞTI",
+      "slug": "liceul-teologic-fericitul-ieremia-onesti",
+      "judet": "BACĂU",
+      "judet_slug": "bacau"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"SPIRU HARET\" MOINEŞTI",
+      "slug": "liceul-teoretic-spiru-haret-moinesti",
+      "judet": "BACĂU",
+      "judet_slug": "bacau"
+    }
+  ],
+  "meta": {
+    "title": "Licee si colegii din judetul Bacău - Descărcare gratuită",
+    "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Bacău (33 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor. Conține 33 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Licee si colegii din judetul Bacău | ListBase",
+    "seo_description": "Descarcă Licee si colegii din judetul Bacău — 33 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 33 înregistrări / 4 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

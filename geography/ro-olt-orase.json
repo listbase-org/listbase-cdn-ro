@@ -1,0 +1,211 @@
+{
+  "id": "ro-olt-orase",
+  "name": "Orașele și municipiile județului Olt",
+  "title": "Orașele și municipiile județului Olt",
+  "description": "Lista celor 8 de orașe, municipii din județul Olt (OT) — unități administrativ-teritoriale urbane de nivel 2 conform SIRUTA. Reședința de județ este marcată cu is_resedinta_judet=true.",
+  "category": "geography",
+  "source": "https://github.com/ionelmc/django-siruta",
+  "source_url": "https://github.com/ionelmc/django-siruta",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "siruta_code",
+      "label": "Siruta Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_official",
+      "label": "Name Official",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet_id",
+      "label": "Judet Id",
+      "type": "number"
+    },
+    {
+      "key": "judet_name",
+      "label": "Judet Name",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "tip_code",
+      "label": "Tip Code",
+      "type": "number"
+    },
+    {
+      "key": "tip_name",
+      "label": "Tip Name",
+      "type": "string"
+    },
+    {
+      "key": "is_resedinta_judet",
+      "label": "Is Resedinta Judet",
+      "type": "boolean"
+    },
+    {
+      "key": "regiune_id",
+      "label": "Regiune Id",
+      "type": "number"
+    },
+    {
+      "key": "nuts3",
+      "label": "Nuts3",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "siruta_code": 125347,
+      "name": "Slatina",
+      "name_official": "MUNICIPIUL SLATINA",
+      "slug": "slatina",
+      "judet_id": 28,
+      "judet_name": "Olt",
+      "judet_slug": "olt",
+      "iso_3166_2": "RO-OT",
+      "tip_code": 1,
+      "tip_name": "municipiu reședință de județ",
+      "is_resedinta_judet": true,
+      "regiune_id": 4,
+      "nuts3": "RO414"
+    },
+    {
+      "siruta_code": 125418,
+      "name": "Balș",
+      "name_official": "ORAȘ BALȘ",
+      "slug": "bals",
+      "judet_id": 28,
+      "judet_name": "Olt",
+      "judet_slug": "olt",
+      "iso_3166_2": "RO-OT",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 4,
+      "nuts3": "RO414"
+    },
+    {
+      "siruta_code": 125472,
+      "name": "Caracal",
+      "name_official": "MUNICIPIUL CARACAL",
+      "slug": "caracal",
+      "judet_id": 28,
+      "judet_name": "Olt",
+      "judet_slug": "olt",
+      "iso_3166_2": "RO-OT",
+      "tip_code": 4,
+      "tip_name": "municipiu",
+      "is_resedinta_judet": false,
+      "regiune_id": 4,
+      "nuts3": "RO414"
+    },
+    {
+      "siruta_code": 125542,
+      "name": "Corabia",
+      "name_official": "ORAȘ CORABIA",
+      "slug": "corabia",
+      "judet_id": 28,
+      "judet_name": "Olt",
+      "judet_slug": "olt",
+      "iso_3166_2": "RO-OT",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 4,
+      "nuts3": "RO414"
+    },
+    {
+      "siruta_code": 125622,
+      "name": "Drăgănești-Olt",
+      "name_official": "ORAȘ DRĂGĂNEȘTI-OLT",
+      "slug": "draganesti-olt",
+      "judet_id": 28,
+      "judet_name": "Olt",
+      "judet_slug": "olt",
+      "iso_3166_2": "RO-OT",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 4,
+      "nuts3": "RO414"
+    },
+    {
+      "siruta_code": 128105,
+      "name": "Piatra-Olt",
+      "name_official": "ORAȘ PIATRA-OLT",
+      "slug": "piatra-olt",
+      "judet_id": 28,
+      "judet_name": "Olt",
+      "judet_slug": "olt",
+      "iso_3166_2": "RO-OT",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 4,
+      "nuts3": "RO414"
+    },
+    {
+      "siruta_code": 128374,
+      "name": "Potcoava",
+      "name_official": "ORAȘ POTCOAVA",
+      "slug": "potcoava",
+      "judet_id": 28,
+      "judet_name": "Olt",
+      "judet_slug": "olt",
+      "iso_3166_2": "RO-OT",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 4,
+      "nuts3": "RO414"
+    },
+    {
+      "siruta_code": 128711,
+      "name": "Scornicești",
+      "name_official": "ORAȘ SCORNICEȘTI",
+      "slug": "scornicesti",
+      "judet_id": 28,
+      "judet_name": "Olt",
+      "judet_slug": "olt",
+      "iso_3166_2": "RO-OT",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 4,
+      "nuts3": "RO414"
+    }
+  ],
+  "meta": {
+    "title": "Orașele și municipiile județului Olt - Descărcare gratuită",
+    "description": "Lista celor 8 de orașe, municipii din județul Olt (OT) — unități administrativ-teritoriale urbane de nivel 2 conform SIRUTA. Reședința de județ este marcată cu is_resedinta_judet=true. Conține 8 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Orașele și municipiile județului Olt | ListBase",
+    "seo_description": "Descarcă Orașele și municipiile județului Olt — 8 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 8 înregistrări / 13 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: https://github.com/ionelmc/django-siruta"
+    ]
+  }
+}

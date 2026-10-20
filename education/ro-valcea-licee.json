@@ -1,0 +1,208 @@
+{
+  "id": "ro-valcea-licee",
+  "name": "Licee si colegii din judetul Vâlcea",
+  "title": "Licee si colegii din judetul Vâlcea",
+  "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Vâlcea (27 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "COLEGIUL DE SILVICULTURĂ ȘI PROTECȚIA MEDIULUI",
+      "slug": "colegiul-de-silvicultura-si-protectia-mediului",
+      "judet": "VÂLCEA",
+      "judet_slug": "valcea"
+    },
+    {
+      "nume": "COLEGIUL ECONOMIC",
+      "slug": "colegiul-economic",
+      "judet": "VÂLCEA",
+      "judet_slug": "valcea"
+    },
+    {
+      "nume": "COLEGIUL ENERGETIC",
+      "slug": "colegiul-energetic",
+      "judet": "VÂLCEA",
+      "judet_slug": "valcea"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL DE INFORMATICĂ \"MATEI BASARAB\"",
+      "slug": "colegiul-national-de-informatica-matei-basarab",
+      "judet": "VÂLCEA",
+      "judet_slug": "valcea"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"ALEXANDRU LAHOVARI\"",
+      "slug": "colegiul-national-alexandru-lahovari",
+      "judet": "VÂLCEA",
+      "judet_slug": "valcea"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"GIB MIHĂIESCU\"",
+      "slug": "colegiul-national-gib-mihaiescu",
+      "judet": "VÂLCEA",
+      "judet_slug": "valcea"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"MIRCEA CEL BĂTRÂN\"",
+      "slug": "colegiul-national-mircea-cel-batran",
+      "judet": "VÂLCEA",
+      "judet_slug": "valcea"
+    },
+    {
+      "nume": "LICEUL CONSTANTIN BRÂNCOVEANU",
+      "slug": "liceul-constantin-brancoveanu",
+      "judet": "VÂLCEA",
+      "judet_slug": "valcea"
+    },
+    {
+      "nume": "LICEUL DE ARTE VICTOR GIULEANU",
+      "slug": "liceul-de-arte-victor-giuleanu",
+      "judet": "VÂLCEA",
+      "judet_slug": "valcea"
+    },
+    {
+      "nume": "LICEUL FERDINAND I",
+      "slug": "liceul-ferdinand-i",
+      "judet": "VÂLCEA",
+      "judet_slug": "valcea"
+    },
+    {
+      "nume": "LICEUL GEORGE ȚĂRNEA BĂBENI",
+      "slug": "liceul-george-tarnea-babeni",
+      "judet": "VÂLCEA",
+      "judet_slug": "valcea"
+    },
+    {
+      "nume": "LICEUL GHEORGHE SURDU BREZOI",
+      "slug": "liceul-gheorghe-surdu-brezoi",
+      "judet": "VÂLCEA",
+      "judet_slug": "valcea"
+    },
+    {
+      "nume": "LICEUL PREDA BUZESCU BERBEȘTI",
+      "slug": "liceul-preda-buzescu-berbesti",
+      "judet": "VÂLCEA",
+      "judet_slug": "valcea"
+    },
+    {
+      "nume": "LICEUL SANITAR \"ANTIM IVIREAUNU\"",
+      "slug": "liceul-sanitar-antim-ivireaunu",
+      "judet": "VÂLCEA",
+      "judet_slug": "valcea"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC BRĂTIANU DRĂGĂȘANI",
+      "slug": "liceul-tehnologic-bratianu-dragasani",
+      "judet": "VÂLCEA",
+      "judet_slug": "valcea"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC BĂILE GOVORA",
+      "slug": "liceul-tehnologic-baile-govora",
+      "judet": "VÂLCEA",
+      "judet_slug": "valcea"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC CĂPITAN NICOLAE PLEȘOIANU",
+      "slug": "liceul-tehnologic-capitan-nicolae-plesoianu",
+      "judet": "VÂLCEA",
+      "judet_slug": "valcea"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC DE TURISM CĂLIMĂNEȘTI",
+      "slug": "liceul-tehnologic-de-turism-calimanesti",
+      "judet": "VÂLCEA",
+      "judet_slug": "valcea"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC HENRI COANDĂ",
+      "slug": "liceul-tehnologic-henri-coanda",
+      "judet": "VÂLCEA",
+      "judet_slug": "valcea"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC IUSTINIAN MARINA",
+      "slug": "liceul-tehnologic-iustinian-marina",
+      "judet": "VÂLCEA",
+      "judet_slug": "valcea"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC OLTCHIM",
+      "slug": "liceul-tehnologic-oltchim",
+      "judet": "VÂLCEA",
+      "judet_slug": "valcea"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC PETRACHE POENARU",
+      "slug": "liceul-tehnologic-petrache-poenaru",
+      "judet": "VÂLCEA",
+      "judet_slug": "valcea"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"GENERAL MAGHERU\"",
+      "slug": "liceul-tehnologic-general-magheru",
+      "judet": "VÂLCEA",
+      "judet_slug": "valcea"
+    },
+    {
+      "nume": "LICEUL TEORETIC GRĂDIȘTEA",
+      "slug": "liceul-teoretic-gradistea",
+      "judet": "VÂLCEA",
+      "judet_slug": "valcea"
+    },
+    {
+      "nume": "LICEUL TEORETIC MĂCIUCA",
+      "slug": "liceul-teoretic-maciuca",
+      "judet": "VÂLCEA",
+      "judet_slug": "valcea"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"VIRGIL IERUNCA\"",
+      "slug": "liceul-teoretic-virgil-ierunca",
+      "judet": "VÂLCEA",
+      "judet_slug": "valcea"
+    },
+    {
+      "nume": "SEMINARUL TEOLOGIC ORTODOX LICEAL SFÂNTUL NICOLAE",
+      "slug": "seminarul-teologic-ortodox-liceal-sfantul-nicolae",
+      "judet": "VÂLCEA",
+      "judet_slug": "valcea"
+    }
+  ],
+  "meta": {
+    "title": "Licee si colegii din judetul Vâlcea - Descărcare gratuită",
+    "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Vâlcea (27 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor. Conține 27 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Licee si colegii din judetul Vâlcea | ListBase",
+    "seo_description": "Descarcă Licee si colegii din judetul Vâlcea — 27 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 27 înregistrări / 4 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

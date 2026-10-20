@@ -1,0 +1,364 @@
+{
+  "id": "ro-dolj-licee",
+  "name": "Licee si colegii din judetul Dolj",
+  "title": "Licee si colegii din judetul Dolj",
+  "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Dolj (53 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 53,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "CENTRUL ȘCOLAR CRAIOVA (PT. ELEVI CU DEF. AUDITIVE)",
+      "slug": "centrul-scolar-craiova-pt-elevi-cu-def-auditive",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"CAROL I\"",
+      "slug": "colegiul-national-carol-i",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"ELENA CUZA\"",
+      "slug": "colegiul-national-elena-cuza",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"FRAȚII BUZEȘTI\"",
+      "slug": "colegiul-national-fratii-buzesti",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"ȘTEFAN VELOVAN\"",
+      "slug": "colegiul-national-stefan-velovan",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC DE ARTE ȘI MESERII \"C. BRÂNCUȘI\"",
+      "slug": "colegiul-tehnic-de-arte-si-meserii-c-brancusi",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"ION MINCU\"",
+      "slug": "colegiul-tehnic-ion-mincu",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "GRUP ŞCOLAR IND. \"CONSTANTIN NICOLAESCU-PLOPŞOR\"",
+      "slug": "grup-scolar-ind-constantin-nicolaescu-plopsor",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "GRUP ȘCOLAR \"CHARLES LAUGIER\"",
+      "slug": "grup-scolar-charles-laugier",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "GRUPUL ŞCOLAR AGRICOL CÂRCEA",
+      "slug": "grupul-scolar-agricol-carcea",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "GRUPUL ŞCOLAR AGRICOL MALU MARE",
+      "slug": "grupul-scolar-agricol-malu-mare",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "GRUPUL ŞCOLAR AGRICOL \"STEFAN ANGHEL\" BĂILEȘTI",
+      "slug": "grupul-scolar-agricol-stefan-anghel-bailesti",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "GRUPUL ŞCOLAR INDUSTRIAL ENERGETIC CRAIOVA",
+      "slug": "grupul-scolar-industrial-energetic-craiova",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "GRUPUL ŞCOLAR INDUSTRIAL \"ELECTROPUTERE\"",
+      "slug": "grupul-scolar-industrial-electroputere",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "GRUPUL ŞCOLAR \"ALEXANDRU MACEDONSKI\"",
+      "slug": "grupul-scolar-alexandru-macedonski",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "GRUPUL ŞCOLAR \"ANGHEL SALIGNY\"",
+      "slug": "grupul-scolar-anghel-saligny",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "GRUPUL ŞCOLAR \"ILIE MURGULESCU\"",
+      "slug": "grupul-scolar-ilie-murgulescu",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "GRUPUL ȘCOLAR AGRICOL DĂBULENI",
+      "slug": "grupul-scolar-agricol-dabuleni",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "GRUPUL ȘCOLAR DE TRANSPORTURI AUTO CRAIOVA",
+      "slug": "grupul-scolar-de-transporturi-auto-craiova",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "GRUPUL ȘCOLAR IC. M. NR. 2",
+      "slug": "grupul-scolar-ic-m-nr-2",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "GRUPUL ȘCOLAR IND. CONSTRUCȚII DE MAȘINI \"GEORGE BIBESCU\"",
+      "slug": "grupul-scolar-ind-constructii-de-masini-george-bibescu",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "GRUPUL ȘCOLAR INDUSTRIAL DE TRANSPORTURI CĂI FERATE",
+      "slug": "grupul-scolar-industrial-de-transporturi-cai-ferate",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "GRUPUL ȘCOLAR \"COSTIN D. NENIȚESCU\"",
+      "slug": "grupul-scolar-costin-d-nenitescu",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "GRUPUL ȘCOLAR \"DIMITRIE FILIȘANU\"",
+      "slug": "grupul-scolar-dimitrie-filisanu",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "GRUPUL ȘCOLAR \"HORIA VINTILĂ",
+      "slug": "grupul-scolar-horia-vintila",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "GRUPUL ȘCOLAR \"MATEI BASARAB\"",
+      "slug": "grupul-scolar-matei-basarab",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "GRUPUL ȘCOLAR \"TRAIAN DEMETRESCU\"",
+      "slug": "grupul-scolar-traian-demetrescu",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "GRUPUL ȘCOLAR \"TRAIAN VUIA\"",
+      "slug": "grupul-scolar-traian-vuia",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "GRUPUL ȘCOLAR \"ȘTEFAN MILCU\"",
+      "slug": "grupul-scolar-stefan-milcu",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "LICEUL ARGETOAIA",
+      "slug": "liceul-argetoaia",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "LICEUL BARBU LOCUȘTEANU",
+      "slug": "liceul-barbu-locusteanu",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "LICEUL BISTREȚ",
+      "slug": "liceul-bistret",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "LICEUL CELARU",
+      "slug": "liceul-celaru",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "LICEUL CU PROGRAM SPORTIV \"PETRACHE TRIȘCU\"",
+      "slug": "liceul-cu-program-sportiv-petrache-triscu",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "LICEUL DE ARTĂ \"MARIN SORESCU\"",
+      "slug": "liceul-de-arta-marin-sorescu",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "LICEUL DE INFORMATICĂ \"ȘTEFAN ODOBLEJA\"",
+      "slug": "liceul-de-informatica-stefan-odobleja",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "LICEUL DIOȘTI",
+      "slug": "liceul-diosti",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "LICEUL DĂNEȚI",
+      "slug": "liceul-daneti",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "LICEUL ECOLOGIC CRAIOVA (PARTICULAR)",
+      "slug": "liceul-ecologic-craiova-particular",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "LICEUL PREDEȘTI",
+      "slug": "liceul-predesti",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "LICEUL TEOLOGIC ADVENTIST CRAIOVA",
+      "slug": "liceul-teologic-adventist-craiova",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "LICEUL TEORETIC AMĂRĂȘTII DE JOS",
+      "slug": "liceul-teoretic-amarastii-de-jos",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "LICEUL TEORETIC BECHET",
+      "slug": "liceul-teoretic-bechet",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"ADRIAN PĂUNESCU\"",
+      "slug": "liceul-teoretic-adrian-paunescu",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"GHEORGHE MAGHERU\"",
+      "slug": "liceul-teoretic-gheorghe-magheru",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"HENRI COANDĂ\"",
+      "slug": "liceul-teoretic-henri-coanda",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"INDEPENDENȚA\"",
+      "slug": "liceul-teoretic-independenta",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"JULES JAVET\" (PARTICULAR)",
+      "slug": "liceul-teoretic-jules-javet-particular",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"TUDOR ARGHEZI\"",
+      "slug": "liceul-teoretic-tudor-arghezi",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "LICEUL VALEA STANCIULUI",
+      "slug": "liceul-valea-stanciului",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "LICEUL \"GEORGE ST. MARINCU\"",
+      "slug": "liceul-george-st-marincu",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "LICEUL \"MIHAI VITEAZUL\" BĂILEȘTI",
+      "slug": "liceul-mihai-viteazul-bailesti",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    },
+    {
+      "nume": "SEMINARUL TEOLOGIC LICEAL ORTODOX CRAIOVA",
+      "slug": "seminarul-teologic-liceal-ortodox-craiova",
+      "judet": "DOLJ",
+      "judet_slug": "dolj"
+    }
+  ],
+  "meta": {
+    "title": "Licee si colegii din judetul Dolj - Descărcare gratuită",
+    "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Dolj (53 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor. Conține 53 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Licee si colegii din judetul Dolj | ListBase",
+    "seo_description": "Descarcă Licee si colegii din judetul Dolj — 53 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 53 înregistrări / 4 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

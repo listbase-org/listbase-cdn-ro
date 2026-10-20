@@ -1,0 +1,1825 @@
+{
+  "id": "ro-cluburi-de-noapte",
+  "name": "Cluburi de noapte din România",
+  "title": "Cluburi de noapte din România",
+  "description": "Cluburi de noapte din România — 196 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `amenity=nightclub`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 196,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "latitudine",
+      "label": "Latitudine",
+      "type": "number"
+    },
+    {
+      "key": "longitudine",
+      "label": "Longitudine",
+      "type": "number"
+    },
+    {
+      "key": "cheie_osm",
+      "label": "Cheie Osm",
+      "type": "string"
+    },
+    {
+      "key": "valoare_osm",
+      "label": "Valoare Osm",
+      "type": "string"
+    },
+    {
+      "key": "categorie_osm",
+      "label": "Categorie Osm",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nume": "/Form Space",
+      "latitudine": 46.767648,
+      "longitudine": 23.572876,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 2,
+      "nume": "Afrodita Sexi Club",
+      "latitudine": 46.169449,
+      "longitudine": 21.316618,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 3,
+      "nume": "After 8",
+      "latitudine": 46.772629,
+      "longitudine": 23.59321,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 4,
+      "nume": "Aftăr Hours",
+      "latitudine": 45.653603,
+      "longitudine": 25.610633,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 5,
+      "nume": "Agartha Club",
+      "latitudine": 44.430667,
+      "longitudine": 26.101319,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 6,
+      "nume": "Alexander",
+      "latitudine": 44.865032,
+      "longitudine": 24.868845,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 7,
+      "nume": "Amazonic Club",
+      "latitudine": 44.6169,
+      "longitudine": 23.939331,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 8,
+      "nume": "ANT",
+      "latitudine": 46.361079,
+      "longitudine": 25.803672,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 9,
+      "nume": "Aqua Club Elatis",
+      "latitudine": 45.737436,
+      "longitudine": 24.389249,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 10,
+      "nume": "Astera",
+      "latitudine": 44.317198,
+      "longitudine": 23.820963,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 11,
+      "nume": "Atmosphere the CLUB",
+      "latitudine": 47.133851,
+      "longitudine": 24.504303,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 12,
+      "nume": "Baha Club & Lounge",
+      "latitudine": 44.952729,
+      "longitudine": 26.000076,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 13,
+      "nume": "Bamboo Beach",
+      "latitudine": 44.271185,
+      "longitudine": 28.621443,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 14,
+      "nume": "Bamboo by OXYA",
+      "latitudine": 44.467502,
+      "longitudine": 26.118016,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 15,
+      "nume": "Bar&Club Perla Nopții",
+      "latitudine": 44.890788,
+      "longitudine": 24.230548,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 16,
+      "nume": "Beluga Music & Cocktails",
+      "latitudine": 44.431876,
+      "longitudine": 26.100362,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 17,
+      "nume": "Blanquita Club",
+      "latitudine": 44.892664,
+      "longitudine": 29.603793,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 18,
+      "nume": "Boa Club",
+      "latitudine": 44.475168,
+      "longitudine": 26.076016,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 19,
+      "nume": "Chandelier Bamboo",
+      "latitudine": 45.260102,
+      "longitudine": 27.955592,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 20,
+      "nume": "Club 24",
+      "latitudine": 44.445704,
+      "longitudine": 26.057262,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 21,
+      "nume": "Club 300",
+      "latitudine": 44.299861,
+      "longitudine": 23.795284,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 22,
+      "nume": "Club Agronomia",
+      "latitudine": 46.766153,
+      "longitudine": 23.57751,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 23,
+      "nume": "Club Ambasador Saes",
+      "latitudine": 46.157367,
+      "longitudine": 24.765378,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 24,
+      "nume": "Club Amnesia",
+      "latitudine": 45.132639,
+      "longitudine": 25.733146,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 25,
+      "nume": "Club Andu",
+      "latitudine": 44.332465,
+      "longitudine": 23.781928,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 26,
+      "nume": "Club Angy",
+      "latitudine": 44.320453,
+      "longitudine": 23.814952,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 27,
+      "nume": "Club Babylon",
+      "latitudine": 44.88522,
+      "longitudine": 23.396217,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 28,
+      "nume": "Club Bamboo",
+      "latitudine": 46.774239,
+      "longitudine": 23.59342,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 29,
+      "nume": "Club Crazybeach",
+      "latitudine": 44.26638,
+      "longitudine": 28.620568,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 30,
+      "nume": "Club Crush",
+      "latitudine": 44.172621,
+      "longitudine": 28.628327,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 31,
+      "nume": "Club DAF",
+      "latitudine": 45.703522,
+      "longitudine": 21.239071,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 32,
+      "nume": "Club Daimon",
+      "latitudine": 44.404477,
+      "longitudine": 26.111827,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 33,
+      "nume": "Club de noapte",
+      "latitudine": 45.305865,
+      "longitudine": 24.657749,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 34,
+      "nume": "Club Diamond",
+      "latitudine": 46.777338,
+      "longitudine": 23.61436,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 35,
+      "nume": "Club Edi",
+      "latitudine": 44.170729,
+      "longitudine": 26.606901,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 36,
+      "nume": "Club EGO",
+      "latitudine": 44.269567,
+      "longitudine": 28.62047,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 37,
+      "nume": "Club Flamingo",
+      "latitudine": 44.315976,
+      "longitudine": 23.826326,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 38,
+      "nume": "Club Forest",
+      "latitudine": 47.203753,
+      "longitudine": 26.363114,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 39,
+      "nume": "Club Keops",
+      "latitudine": 45.409327,
+      "longitudine": 23.37624,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 40,
+      "nume": "Club King",
+      "latitudine": 44.437005,
+      "longitudine": 26.136209,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 41,
+      "nume": "Club Mango",
+      "latitudine": 45.789105,
+      "longitudine": 24.145398,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 42,
+      "nume": "Club Miorița",
+      "latitudine": 45.144714,
+      "longitudine": 23.991003,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 43,
+      "nume": "Club Mirage",
+      "latitudine": 46.533704,
+      "longitudine": 24.799773,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 44,
+      "nume": "Club Mono",
+      "latitudine": 44.436784,
+      "longitudine": 26.101314,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 45,
+      "nume": "Club NOA (Nest of Angels)",
+      "latitudine": 46.756775,
+      "longitudine": 23.594576,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 46,
+      "nume": "Club OK",
+      "latitudine": 45.069061,
+      "longitudine": 26.600124,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 47,
+      "nume": "Club Paradis",
+      "latitudine": 44.308123,
+      "longitudine": 23.80376,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 48,
+      "nume": "Club Quatro",
+      "latitudine": 46.958585,
+      "longitudine": 27.938402,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 49,
+      "nume": "Club R",
+      "latitudine": 45.227652,
+      "longitudine": 24.340492,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 50,
+      "nume": "Club Sandro",
+      "latitudine": 46.162008,
+      "longitudine": 21.413574,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 51,
+      "nume": "Club Spartacus",
+      "latitudine": 46.127266,
+      "longitudine": 23.532377,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 52,
+      "nume": "Club Stephany",
+      "latitudine": 45.103028,
+      "longitudine": 24.346371,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 53,
+      "nume": "Club Topaz",
+      "latitudine": 43.871659,
+      "longitudine": 28.599667,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 54,
+      "nume": "Club Trakia",
+      "latitudine": 45.017561,
+      "longitudine": 24.011667,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 55,
+      "nume": "Club Viena",
+      "latitudine": 44.429616,
+      "longitudine": 24.366847,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 56,
+      "nume": "Club XS",
+      "latitudine": 44.444329,
+      "longitudine": 26.098578,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 57,
+      "nume": "Club-Come",
+      "latitudine": 46.76477,
+      "longitudine": 23.575599,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 58,
+      "nume": "Clubul Fetelor",
+      "latitudine": 46.764223,
+      "longitudine": 23.610725,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 59,
+      "nume": "Clubul Iclod",
+      "latitudine": 46.983484,
+      "longitudine": 23.808632,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 60,
+      "nume": "Clubul Keops",
+      "latitudine": 45.408997,
+      "longitudine": 23.376582,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 61,
+      "nume": "Cluj Arena VIP Lounge",
+      "latitudine": 46.768288,
+      "longitudine": 23.571215,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 62,
+      "nume": "Colonial club Cernica",
+      "latitudine": 44.436869,
+      "longitudine": 26.246209,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 63,
+      "nume": "Comics Club",
+      "latitudine": 44.424399,
+      "longitudine": 26.118409,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 64,
+      "nume": "Control Club",
+      "latitudine": 44.435597,
+      "longitudine": 26.096987,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 65,
+      "nume": "Copacabana",
+      "latitudine": 45.75861,
+      "longitudine": 21.228528,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 66,
+      "nume": "Coyote Ugli",
+      "latitudine": 44.219327,
+      "longitudine": 28.632772,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 67,
+      "nume": "Crazy Beach",
+      "latitudine": 44.266373,
+      "longitudine": 28.620578,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 68,
+      "nume": "Crazy Bubble",
+      "latitudine": 47.070987,
+      "longitudine": 21.929338,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 69,
+      "nume": "Crema Summer Club Mamaia",
+      "latitudine": 44.232222,
+      "longitudine": 28.626985,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 70,
+      "nume": "Cucaracha",
+      "latitudine": 44.24901,
+      "longitudine": 28.622385,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 71,
+      "nume": "D.F.N",
+      "latitudine": 45.139909,
+      "longitudine": 28.889023,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 72,
+      "nume": "DASO CADO",
+      "latitudine": 44.926088,
+      "longitudine": 25.408624,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 73,
+      "nume": "database",
+      "latitudine": 45.754038,
+      "longitudine": 21.247449,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 74,
+      "nume": "Delirio",
+      "latitudine": 46.770986,
+      "longitudine": 23.590963,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 75,
+      "nume": "Diamond Club",
+      "latitudine": 46.757043,
+      "longitudine": 23.593685,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 76,
+      "nume": "Disco bar No Limit",
+      "latitudine": 44.263165,
+      "longitudine": 27.603908,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 77,
+      "nume": "Disco Club Max",
+      "latitudine": 43.945223,
+      "longitudine": 28.636849,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 78,
+      "nume": "Disco Evrika",
+      "latitudine": 44.23399,
+      "longitudine": 24.78882,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 79,
+      "nume": "Disco la Rudaru din Olt",
+      "latitudine": 44.164051,
+      "longitudine": 24.532912,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 80,
+      "nume": "Disco Latino Ring",
+      "latitudine": 44.744444,
+      "longitudine": 27.857425,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 81,
+      "nume": "Discoteca",
+      "latitudine": 45.713675,
+      "longitudine": 25.6838,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 82,
+      "nume": "Discoteca Ring",
+      "latitudine": 43.943325,
+      "longitudine": 28.637198,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 83,
+      "nume": "Discoteca Ring",
+      "latitudine": 47.032512,
+      "longitudine": 23.902855,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 84,
+      "nume": "Discoteka Nicșeni",
+      "latitudine": 47.858745,
+      "longitudine": 26.63425,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 85,
+      "nume": "Dovinot",
+      "latitudine": 44.316588,
+      "longitudine": 25.900516,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 86,
+      "nume": "Eden Club",
+      "latitudine": 44.089834,
+      "longitudine": 26.652174,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 87,
+      "nume": "El Comandante Grande - Closed until September",
+      "latitudine": 44.443754,
+      "longitudine": 26.110778,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 88,
+      "nume": "El Comandante Junior",
+      "latitudine": 44.432423,
+      "longitudine": 26.101048,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 89,
+      "nume": "El Dictador",
+      "latitudine": 44.432163,
+      "longitudine": 26.100974,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 90,
+      "nume": "El Passo Club",
+      "latitudine": 44.396409,
+      "longitudine": 24.278208,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 91,
+      "nume": "Enigma",
+      "latitudine": 45.04624,
+      "longitudine": 25.953435,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 92,
+      "nume": "ERA Club",
+      "latitudine": 45.417541,
+      "longitudine": 26.301831,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 93,
+      "nume": "Escape Underground Hub",
+      "latitudine": 45.76092,
+      "longitudine": 21.221132,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 94,
+      "nume": "Exotic Cigars Club The Buddhist",
+      "latitudine": 44.43468,
+      "longitudine": 26.088556,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 95,
+      "nume": "exxod",
+      "latitudine": 45.696263,
+      "longitudine": 27.186655,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 96,
+      "nume": "Face Club",
+      "latitudine": 44.478065,
+      "longitudine": 26.069596,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 97,
+      "nume": "Fellas",
+      "latitudine": 46.837103,
+      "longitudine": 27.459621,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 98,
+      "nume": "Flying Circus",
+      "latitudine": 46.770555,
+      "longitudine": 23.588711,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 99,
+      "nume": "Fratelli",
+      "latitudine": 47.155594,
+      "longitudine": 27.588442,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 100,
+      "nume": "Fratelli Beach & Club",
+      "latitudine": 44.268907,
+      "longitudine": 28.620624,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 101,
+      "nume": "Fratelli Lounge & Club",
+      "latitudine": 44.178598,
+      "longitudine": 28.650812,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 102,
+      "nume": "Fratelli Lounge & Club",
+      "latitudine": 44.472468,
+      "longitudine": 26.112971,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 103,
+      "nume": "Fratelli Social Club",
+      "latitudine": 44.472499,
+      "longitudine": 26.113225,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 104,
+      "nume": "Fratelli Studios",
+      "latitudine": 44.472219,
+      "longitudine": 26.113274,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 105,
+      "nume": "Gentlemen's Poker Club",
+      "latitudine": 45.755122,
+      "longitudine": 21.232979,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 106,
+      "nume": "Heaven Club",
+      "latitudine": 45.7406,
+      "longitudine": 21.249328,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 107,
+      "nume": "Ice Cube",
+      "latitudine": 45.176122,
+      "longitudine": 25.670603,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 108,
+      "nume": "Imperium Society Club",
+      "latitudine": 45.794001,
+      "longitudine": 24.149911,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 109,
+      "nume": "Insieme",
+      "latitudine": 44.517631,
+      "longitudine": 26.140122,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 110,
+      "nume": "Insieme Bar",
+      "latitudine": 44.517642,
+      "longitudine": 26.140083,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 111,
+      "nume": "Insieme Club",
+      "latitudine": 44.517682,
+      "longitudine": 26.139795,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 112,
+      "nume": "Insomnia",
+      "latitudine": 45.668234,
+      "longitudine": 24.260753,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 113,
+      "nume": "IpaNera",
+      "latitudine": 44.265942,
+      "longitudine": 28.620223,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 114,
+      "nume": "J'adore Mamaia",
+      "latitudine": 44.232335,
+      "longitudine": 28.626904,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 115,
+      "nume": "Jazz & Blues Club",
+      "latitudine": 46.552148,
+      "longitudine": 24.55706,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 116,
+      "nume": "Joy Club",
+      "latitudine": 44.44953,
+      "longitudine": 26.111634,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 117,
+      "nume": "JOY CLUB",
+      "latitudine": 47.473715,
+      "longitudine": 22.567271,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 118,
+      "nume": "Joy Club",
+      "latitudine": 47.672446,
+      "longitudine": 22.456216,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 119,
+      "nume": "KAYO Club",
+      "latitudine": 44.476776,
+      "longitudine": 26.088356,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 120,
+      "nume": "King's",
+      "latitudine": 44.425405,
+      "longitudine": 24.352602,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 121,
+      "nume": "Kiss Club",
+      "latitudine": 44.430579,
+      "longitudine": 26.100554,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 122,
+      "nume": "Kristal Glam Club",
+      "latitudine": 44.434824,
+      "longitudine": 26.095821,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 123,
+      "nume": "Kruhnen Musik Halle",
+      "latitudine": 45.647863,
+      "longitudine": 25.607656,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 124,
+      "nume": "L'Exces Simeria",
+      "latitudine": 45.847541,
+      "longitudine": 23.016788,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 125,
+      "nume": "La Academie",
+      "latitudine": 44.804777,
+      "longitudine": 22.968908,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 126,
+      "nume": "La bază",
+      "latitudine": 47.162707,
+      "longitudine": 27.581466,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 127,
+      "nume": "La Feroviari",
+      "latitudine": 45.142885,
+      "longitudine": 26.82286,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 128,
+      "nume": "La Lăutarii",
+      "latitudine": 44.217033,
+      "longitudine": 28.633592,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 129,
+      "nume": "La Pescărie",
+      "latitudine": 43.758466,
+      "longitudine": 28.574521,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 130,
+      "nume": "La Vella Yachting Club",
+      "latitudine": 44.632912,
+      "longitudine": 22.269472,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 131,
+      "nume": "LeGaga",
+      "latitudine": 47.10248,
+      "longitudine": 27.520065,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 132,
+      "nume": "Limoncello Club",
+      "latitudine": 44.431716,
+      "longitudine": 26.102262,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 133,
+      "nume": "Liquid The Club",
+      "latitudine": 45.78776,
+      "longitudine": 24.148025,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 134,
+      "nume": "LOFT",
+      "latitudine": 44.452437,
+      "longitudine": 26.097072,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 135,
+      "nume": "Luv Constanța",
+      "latitudine": 44.195853,
+      "longitudine": 28.632495,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 136,
+      "nume": "Luv Instinct",
+      "latitudine": 45.189735,
+      "longitudine": 28.234219,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 137,
+      "nume": "Magic club",
+      "latitudine": 45.420209,
+      "longitudine": 25.538221,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 138,
+      "nume": "Malibu",
+      "latitudine": 45.65384,
+      "longitudine": 25.593808,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 139,
+      "nume": "Marianes's Club",
+      "latitudine": 45.74388,
+      "longitudine": 21.206163,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 140,
+      "nume": "Maxi Club",
+      "latitudine": 44.988289,
+      "longitudine": 23.868077,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 141,
+      "nume": "Mega Discoteca Tineretului",
+      "latitudine": 43.950294,
+      "longitudine": 28.636768,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 142,
+      "nume": "Megalos Club",
+      "latitudine": 44.235187,
+      "longitudine": 28.625896,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 143,
+      "nume": "Million Dollars Club",
+      "latitudine": 44.432534,
+      "longitudine": 26.13906,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 144,
+      "nume": "Monarch",
+      "latitudine": 44.28544,
+      "longitudine": 26.441607,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 145,
+      "nume": "Nefertiti Club",
+      "latitudine": 45.166849,
+      "longitudine": 24.671036,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 146,
+      "nume": "New Age Club",
+      "latitudine": 44.1171,
+      "longitudine": 24.330922,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 147,
+      "nume": "Night Club Pussy Cat",
+      "latitudine": 44.437447,
+      "longitudine": 26.100996,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 148,
+      "nume": "No Limit",
+      "latitudine": 45.151713,
+      "longitudine": 26.814044,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 149,
+      "nume": "NOX Club",
+      "latitudine": 47.788866,
+      "longitudine": 22.871313,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 150,
+      "nume": "Nu-mă-uita",
+      "latitudine": 45.443335,
+      "longitudine": 25.585489,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 151,
+      "nume": "Nuba Beach Club",
+      "latitudine": 44.270717,
+      "longitudine": 28.6206,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 152,
+      "nume": "Nuba Summervibes",
+      "latitudine": 44.477619,
+      "longitudine": 26.086068,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 153,
+      "nume": "Oxigen Club",
+      "latitudine": 44.395878,
+      "longitudine": 26.123266,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 154,
+      "nume": "OZN Club",
+      "latitudine": 46.535493,
+      "longitudine": 28.012968,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 155,
+      "nume": "Paradiso",
+      "latitudine": 43.816145,
+      "longitudine": 28.586544,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 156,
+      "nume": "Park Place",
+      "latitudine": 45.745085,
+      "longitudine": 21.227505,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 157,
+      "nume": "Picnic",
+      "latitudine": 45.149231,
+      "longitudine": 26.826919,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 158,
+      "nume": "Plaja H2O",
+      "latitudine": 44.266768,
+      "longitudine": 28.620409,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 159,
+      "nume": "Play Club Beceni",
+      "latitudine": 45.384497,
+      "longitudine": 26.76422,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 160,
+      "nume": "Podz Musicpub",
+      "latitudine": 47.053968,
+      "longitudine": 21.931199,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 161,
+      "nume": "Princess Club",
+      "latitudine": 44.445369,
+      "longitudine": 26.058632,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 162,
+      "nume": "Princess Summer Club",
+      "latitudine": 44.239333,
+      "longitudine": 28.624717,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 163,
+      "nume": "Princess Summer Club & Beach",
+      "latitudine": 44.238751,
+      "longitudine": 28.625068,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 164,
+      "nume": "Q Club",
+      "latitudine": 44.419429,
+      "longitudine": 26.109077,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 165,
+      "nume": "Queens Bucharest Club",
+      "latitudine": 44.437803,
+      "longitudine": 26.113708,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 166,
+      "nume": "Ramatuelle by MRS",
+      "latitudine": 44.973683,
+      "longitudine": 25.932297,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 167,
+      "nume": "Regal Manele",
+      "latitudine": 44.196099,
+      "longitudine": 28.632543,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 168,
+      "nume": "Retro",
+      "latitudine": 46.71389,
+      "longitudine": 25.5683,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 169,
+      "nume": "Retro- Bistro",
+      "latitudine": 46.718894,
+      "longitudine": 25.601846,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 170,
+      "nume": "Revival",
+      "latitudine": 45.414444,
+      "longitudine": 23.373509,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 171,
+      "nume": "Revolution",
+      "latitudine": 46.769563,
+      "longitudine": 23.587456,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 172,
+      "nume": "Revolution Club",
+      "latitudine": 47.790665,
+      "longitudine": 22.874307,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 173,
+      "nume": "Road Patrol Motorcycle Clubhouse Hunedoara",
+      "latitudine": 45.531443,
+      "longitudine": 22.848698,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 174,
+      "nume": "SAGA",
+      "latitudine": 45.724023,
+      "longitudine": 24.700089,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 175,
+      "nume": "Salon Onix",
+      "latitudine": 46.143028,
+      "longitudine": 21.321019,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 176,
+      "nume": "Season Club",
+      "latitudine": 46.516164,
+      "longitudine": 22.667858,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 177,
+      "nume": "St. Patrick",
+      "latitudine": 44.431485,
+      "longitudine": 26.099876,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 178,
+      "nume": "Studio 80",
+      "latitudine": 45.643874,
+      "longitudine": 25.588999,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 179,
+      "nume": "Subway Club",
+      "latitudine": 48.185184,
+      "longitudine": 26.596643,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 180,
+      "nume": "Tao",
+      "latitudine": 45.096322,
+      "longitudine": 24.375807,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 181,
+      "nume": "Tao Masaj",
+      "latitudine": 47.059033,
+      "longitudine": 21.927372,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 182,
+      "nume": "Taverna Music-Pub",
+      "latitudine": 47.162863,
+      "longitudine": 27.58127,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 183,
+      "nume": "The One",
+      "latitudine": 46.555866,
+      "longitudine": 26.913315,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 184,
+      "nume": "The Queens",
+      "latitudine": 44.314153,
+      "longitudine": 23.83643,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 185,
+      "nume": "The Wild Garden by After Eight",
+      "latitudine": 46.727349,
+      "longitudine": 23.555189,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 186,
+      "nume": "Time's  Live Music",
+      "latitudine": 46.555826,
+      "longitudine": 26.913323,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 187,
+      "nume": "True Social Club",
+      "latitudine": 44.43046,
+      "longitudine": 26.102517,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 188,
+      "nume": "Urbana",
+      "latitudine": 47.16311,
+      "longitudine": 27.581247,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 189,
+      "nume": "Ursus Cotton Pub",
+      "latitudine": 45.791518,
+      "longitudine": 24.14291,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 190,
+      "nume": "Victoriei Ballroom",
+      "latitudine": 44.433551,
+      "longitudine": 26.097815,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 191,
+      "nume": "Vox Maris Disco",
+      "latitudine": 43.941523,
+      "longitudine": 28.63666,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 192,
+      "nume": "Yoyo's Irish Pub",
+      "latitudine": 45.421087,
+      "longitudine": 23.370785,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 193,
+      "nume": "Zen Club & Pool",
+      "latitudine": 45.077788,
+      "longitudine": 26.630202,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 194,
+      "nume": "Zion",
+      "latitudine": 44.865872,
+      "longitudine": 24.86211,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 195,
+      "nume": "Дискотека \"Чайка\"",
+      "latitudine": 44.165055,
+      "longitudine": 22.784803,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    },
+    {
+      "id": 196,
+      "nume": "Силует",
+      "latitudine": 43.98347,
+      "longitudine": 22.876492,
+      "cheie_osm": "amenity",
+      "valoare_osm": "nightclub",
+      "categorie_osm": "amenity=nightclub"
+    }
+  ],
+  "meta": {
+    "title": "Cluburi de noapte din România - Descărcare gratuită",
+    "description": "Cluburi de noapte din România — 196 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `amenity=nightclub`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează. Conține 196 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Cluburi de noapte din România | ListBase",
+    "seo_description": "Descarcă Cluburi de noapte din România — 196 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 196 înregistrări / 7 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

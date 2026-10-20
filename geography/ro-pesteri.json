@@ -1,0 +1,4021 @@
+{
+  "id": "ro-pesteri",
+  "name": "Peșteri din România",
+  "title": "Peșteri din România",
+  "description": "Peșteri din România — 440 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `natural=cave_entrance`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 440,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "latitudine",
+      "label": "Latitudine",
+      "type": "number"
+    },
+    {
+      "key": "longitudine",
+      "label": "Longitudine",
+      "type": "number"
+    },
+    {
+      "key": "cheie_osm",
+      "label": "Cheie Osm",
+      "type": "string"
+    },
+    {
+      "key": "valoare_osm",
+      "label": "Valoare Osm",
+      "type": "string"
+    },
+    {
+      "key": "categorie_osm",
+      "label": "Categorie Osm",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nume": "\"Hotel Gălbenele\"",
+      "latitudine": 45.431545,
+      "longitudine": 25.494118,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 2,
+      "nume": "Agatonul Nou",
+      "latitudine": 45.431677,
+      "longitudine": 26.445587,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 3,
+      "nume": "Agatonul Vechi",
+      "latitudine": 45.430833,
+      "longitudine": 26.444874,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 4,
+      "nume": "Av 2238/83",
+      "latitudine": 45.196136,
+      "longitudine": 21.918199,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 5,
+      "nume": "Av 8 martie",
+      "latitudine": 45.235354,
+      "longitudine": 21.970102,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 6,
+      "nume": "Av Bizonului",
+      "latitudine": 45.246819,
+      "longitudine": 21.956287,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 7,
+      "nume": "Av Calului",
+      "latitudine": 45.223738,
+      "longitudine": 21.959858,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 8,
+      "nume": "Av Crapaturii",
+      "latitudine": 45.173439,
+      "longitudine": 21.921544,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 9,
+      "nume": "Av cu cuib",
+      "latitudine": 45.251577,
+      "longitudine": 21.980481,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 10,
+      "nume": "Av cu Lumanari",
+      "latitudine": 45.249891,
+      "longitudine": 21.974569,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 11,
+      "nume": "Av cu Sala de pe Teria",
+      "latitudine": 45.170997,
+      "longitudine": 21.912567,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 12,
+      "nume": "Av cu trei intrari",
+      "latitudine": 44.988368,
+      "longitudine": 21.911599,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 13,
+      "nume": "Av de la cant Pin",
+      "latitudine": 45.249602,
+      "longitudine": 21.968854,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 14,
+      "nume": "Av de la Fagul Gaunos",
+      "latitudine": 45.196275,
+      "longitudine": 21.92356,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 15,
+      "nume": "Av de la fantana",
+      "latitudine": 45.169827,
+      "longitudine": 21.909341,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 16,
+      "nume": "Av de la km 23",
+      "latitudine": 45.013321,
+      "longitudine": 21.827616,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 17,
+      "nume": "Av de la Padina seaca",
+      "latitudine": 45.202038,
+      "longitudine": 21.940352,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 18,
+      "nume": "Av de pe Șareneac",
+      "latitudine": 45.187159,
+      "longitudine": 21.877984,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 19,
+      "nume": "Av de sub creasta",
+      "latitudine": 45.240265,
+      "longitudine": 21.979619,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 20,
+      "nume": "Av Dibaci",
+      "latitudine": 45.193143,
+      "longitudine": 21.917082,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 21,
+      "nume": "Av din Cioaca mare",
+      "latitudine": 45.220474,
+      "longitudine": 21.972508,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 22,
+      "nume": "Av din Dosul Locsorului",
+      "latitudine": 45.532339,
+      "longitudine": 23.15664,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 23,
+      "nume": "Av din Lapiezuri",
+      "latitudine": 45.168588,
+      "longitudine": 21.917198,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 24,
+      "nume": "Av din Padina cu Spini",
+      "latitudine": 45.183931,
+      "longitudine": 21.931627,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 25,
+      "nume": "Av din Poiana Gropii",
+      "latitudine": 45.233103,
+      "longitudine": 21.976678,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 26,
+      "nume": "Av din Uvala",
+      "latitudine": 45.2494,
+      "longitudine": 21.966032,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 27,
+      "nume": "Av din valea Pietroasa",
+      "latitudine": 45.169767,
+      "longitudine": 21.919756,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 28,
+      "nume": "Av dintre doline",
+      "latitudine": 45.196584,
+      "longitudine": 21.925986,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 29,
+      "nume": "Av Frumos",
+      "latitudine": 45.162587,
+      "longitudine": 21.920557,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 30,
+      "nume": "Av Groapa iepii",
+      "latitudine": 45.203974,
+      "longitudine": 21.921069,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 31,
+      "nume": "Av Groazei",
+      "latitudine": 45.216496,
+      "longitudine": 21.966983,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 32,
+      "nume": "Av Incepatorilor",
+      "latitudine": 45.249491,
+      "longitudine": 21.957574,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 33,
+      "nume": "Av lui Didi",
+      "latitudine": 45.188157,
+      "longitudine": 21.908345,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 34,
+      "nume": "Av lui George",
+      "latitudine": 45.208808,
+      "longitudine": 21.966973,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 35,
+      "nume": "Av lui Luta",
+      "latitudine": 45.23677,
+      "longitudine": 21.949301,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 36,
+      "nume": "Av lui Nichi",
+      "latitudine": 45.185981,
+      "longitudine": 21.910441,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 37,
+      "nume": "Av Mamut",
+      "latitudine": 45.546762,
+      "longitudine": 22.189414,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 38,
+      "nume": "Av Manusa lui Ioji",
+      "latitudine": 45.208959,
+      "longitudine": 21.953349,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 39,
+      "nume": "Av Mare Maciova",
+      "latitudine": 45.56841,
+      "longitudine": 22.226685,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 40,
+      "nume": "Av Mortii",
+      "latitudine": 45.179108,
+      "longitudine": 21.918097,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 41,
+      "nume": "Av Necunoscut",
+      "latitudine": 45.245911,
+      "longitudine": 21.976456,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 42,
+      "nume": "Av nr 5 Socolovat",
+      "latitudine": 45.188582,
+      "longitudine": 21.917658,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 43,
+      "nume": "Av P cu tug",
+      "latitudine": 45.562618,
+      "longitudine": 22.222265,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 44,
+      "nume": "Av Padurarului",
+      "latitudine": 45.001206,
+      "longitudine": 21.918937,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 45,
+      "nume": "Av Socolovat",
+      "latitudine": 45.182336,
+      "longitudine": 21.91538,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 46,
+      "nume": "Av Spiralat",
+      "latitudine": 45.17996,
+      "longitudine": 21.929009,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 47,
+      "nume": "Av Stana lui Ivascu",
+      "latitudine": 44.933803,
+      "longitudine": 21.873843,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 48,
+      "nume": "Av Tolosu",
+      "latitudine": 45.200198,
+      "longitudine": 21.921659,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 49,
+      "nume": "Av Tomita",
+      "latitudine": 45.552133,
+      "longitudine": 22.177833,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 50,
+      "nume": "Av Verde",
+      "latitudine": 45.20866,
+      "longitudine": 21.967119,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 51,
+      "nume": "Av. Carasovenilor",
+      "latitudine": 45.191927,
+      "longitudine": 21.866459,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 52,
+      "nume": "Aven -25m",
+      "latitudine": 45.192804,
+      "longitudine": 21.91566,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 53,
+      "nume": "Aven Peștera Liliecilor",
+      "latitudine": 44.467183,
+      "longitudine": 28.481382,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 54,
+      "nume": "Avenul 110",
+      "latitudine": 45.23518,
+      "longitudine": 21.958184,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 55,
+      "nume": "Avenul Acoperit",
+      "latitudine": 46.563195,
+      "longitudine": 22.733957,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 56,
+      "nume": "Avenul albastru",
+      "latitudine": 45.087951,
+      "longitudine": 21.875921,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 57,
+      "nume": "Avenul Albota",
+      "latitudine": 45.753247,
+      "longitudine": 22.425344,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 58,
+      "nume": "Avenul Borțig",
+      "latitudine": 46.560458,
+      "longitudine": 22.694335,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 59,
+      "nume": "Avenul cu Gheață",
+      "latitudine": 45.018074,
+      "longitudine": 21.765586,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 60,
+      "nume": "Avenul de 100",
+      "latitudine": 45.00803,
+      "longitudine": 21.758513,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 61,
+      "nume": "Avenul de la Fața Răchitei",
+      "latitudine": 46.584191,
+      "longitudine": 22.702385,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 62,
+      "nume": "Avenul de sub Grind",
+      "latitudine": 45.518719,
+      "longitudine": 25.20804,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 63,
+      "nume": "Avenul din Bătrâna",
+      "latitudine": 46.575841,
+      "longitudine": 22.783789,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 64,
+      "nume": "Avenul Din Sesuri",
+      "latitudine": 46.493928,
+      "longitudine": 22.811342,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 65,
+      "nume": "Avenul din taul morii",
+      "latitudine": 46.36917,
+      "longitudine": 23.462423,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 66,
+      "nume": "Avenul din valea Răchitei",
+      "latitudine": 46.589572,
+      "longitudine": 22.726349,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 67,
+      "nume": "Avenul Dosul Simionului",
+      "latitudine": 45.040673,
+      "longitudine": 21.756137,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 68,
+      "nume": "Avenul Gemănata",
+      "latitudine": 46.561689,
+      "longitudine": 22.732686,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 69,
+      "nume": "Avenul Gorun",
+      "latitudine": 45.059567,
+      "longitudine": 21.741463,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 70,
+      "nume": "Avenul Groapa de Aur",
+      "latitudine": 45.559428,
+      "longitudine": 25.526666,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 71,
+      "nume": "Avenul Licaș",
+      "latitudine": 46.813986,
+      "longitudine": 25.735223,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 72,
+      "nume": "Avenul Mare",
+      "latitudine": 45.194553,
+      "longitudine": 21.924882,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 73,
+      "nume": "Avenul mare din dealul Simionului",
+      "latitudine": 45.033659,
+      "longitudine": 21.755533,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 74,
+      "nume": "Avenul Negoita",
+      "latitudine": 45.76201,
+      "longitudine": 22.420994,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 75,
+      "nume": "Avenul Negru",
+      "latitudine": 46.55994,
+      "longitudine": 22.735423,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 76,
+      "nume": "Avenul Pionierilor",
+      "latitudine": 46.563456,
+      "longitudine": 22.734643,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 77,
+      "nume": "Avenul Uteris",
+      "latitudine": 45.03895,
+      "longitudine": 21.851349,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 78,
+      "nume": "Avenul Ștefania",
+      "latitudine": 45.697378,
+      "longitudine": 22.302785,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 79,
+      "nume": "Biserica din Lunca Acră",
+      "latitudine": 46.812888,
+      "longitudine": 22.546516,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 80,
+      "nume": "Biserica rupetră Dumbrăveni",
+      "latitudine": 43.913369,
+      "longitudine": 27.998728,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 81,
+      "nume": "Bisericuța lui Iosif",
+      "latitudine": 45.426792,
+      "longitudine": 26.439707,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 82,
+      "nume": "Bârlogul Hoților",
+      "latitudine": 45.776535,
+      "longitudine": 22.468228,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 83,
+      "nume": "Cave",
+      "latitudine": 45.37264,
+      "longitudine": 22.898222,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 84,
+      "nume": "Cave / Shelter",
+      "latitudine": 45.385626,
+      "longitudine": 22.846971,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 85,
+      "nume": "Cetatea Mare",
+      "latitudine": 46.566477,
+      "longitudine": 23.673076,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 86,
+      "nume": "Cetatea Mică",
+      "latitudine": 46.566544,
+      "longitudine": 23.674083,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 87,
+      "nume": "Chilia lui Ambrozie",
+      "latitudine": 45.119076,
+      "longitudine": 26.530601,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 88,
+      "nume": "Chilia lui Daniil Sihastrul",
+      "latitudine": 47.865274,
+      "longitudine": 25.618088,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 89,
+      "nume": "Chilia lui Dionisie Torcătorul",
+      "latitudine": 45.423313,
+      "longitudine": 26.437054,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 90,
+      "nume": "Chilii",
+      "latitudine": 45.40931,
+      "longitudine": 26.413912,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 91,
+      "nume": "Ciocârdie",
+      "latitudine": 44.81301,
+      "longitudine": 22.559669,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 92,
+      "nume": "Coiba Mare",
+      "latitudine": 46.537276,
+      "longitudine": 22.777965,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 93,
+      "nume": "Coiba Mică",
+      "latitudine": 46.539004,
+      "longitudine": 22.774385,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 94,
+      "nume": "Cotețul Dobreștilor",
+      "latitudine": 46.478221,
+      "longitudine": 22.809298,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 95,
+      "nume": "Coșul Hilii",
+      "latitudine": 46.565385,
+      "longitudine": 23.67742,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 96,
+      "nume": "Cripta Contelui Bethlen",
+      "latitudine": 47.090843,
+      "longitudine": 24.314097,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 97,
+      "nume": "Cripta Inima Reginei Maria",
+      "latitudine": 45.514196,
+      "longitudine": 25.365423,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 98,
+      "nume": "Crăpătura Zorilor",
+      "latitudine": 47.672684,
+      "longitudine": 23.697259,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 99,
+      "nume": "Dolina",
+      "latitudine": 46.219575,
+      "longitudine": 25.541873,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 100,
+      "nume": "Dosu Muncelului",
+      "latitudine": 46.522165,
+      "longitudine": 22.626904,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 101,
+      "nume": "Filipova díra",
+      "latitudine": 44.754099,
+      "longitudine": 21.787445,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 102,
+      "nume": "FRUNCELE",
+      "latitudine": 46.496523,
+      "longitudine": 22.580048,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 103,
+      "nume": "Fundul Peșterii",
+      "latitudine": 45.423221,
+      "longitudine": 26.439317,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 104,
+      "nume": "Galeria Melia",
+      "latitudine": 45.352757,
+      "longitudine": 21.782667,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 105,
+      "nume": "Galerie",
+      "latitudine": 44.591195,
+      "longitudine": 22.255435,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 106,
+      "nume": "Galerie de Prospecțiune",
+      "latitudine": 45.100549,
+      "longitudine": 28.284282,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 107,
+      "nume": "Galerie de Prospecțiune",
+      "latitudine": 45.168082,
+      "longitudine": 28.654234,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 108,
+      "nume": "Galerie de Prospecțiune",
+      "latitudine": 45.171921,
+      "longitudine": 28.647046,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 109,
+      "nume": "Galerie de Prospecțiune",
+      "latitudine": 45.251671,
+      "longitudine": 28.191001,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 110,
+      "nume": "Gaura cu Muscă",
+      "latitudine": 44.664931,
+      "longitudine": 21.699283,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 111,
+      "nume": "Gaura Hicleană",
+      "latitudine": 44.893812,
+      "longitudine": 21.79457,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 112,
+      "nume": "Gaura Turceasca",
+      "latitudine": 44.731367,
+      "longitudine": 21.739338,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 113,
+      "nume": "Gaura Turcului",
+      "latitudine": 45.252862,
+      "longitudine": 21.955574,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 114,
+      "nume": "Ghetarul de la Zgurasti",
+      "latitudine": 46.466806,
+      "longitudine": 22.837053,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 115,
+      "nume": "Ghețarul de la Barsa",
+      "latitudine": 46.582566,
+      "longitudine": 22.681068,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 116,
+      "nume": "Ghețarul de la Barsa 2",
+      "latitudine": 46.582452,
+      "longitudine": 22.681356,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 117,
+      "nume": "Ghețarul de la Vârtop",
+      "latitudine": 46.54082,
+      "longitudine": 22.7807,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 118,
+      "nume": "Ghețarul Vârtop",
+      "latitudine": 46.665963,
+      "longitudine": 22.780889,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 119,
+      "nume": "Grota",
+      "latitudine": 44.878712,
+      "longitudine": 21.802519,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 120,
+      "nume": "Grota",
+      "latitudine": 45.444765,
+      "longitudine": 25.473717,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 121,
+      "nume": "Grota Bethlen",
+      "latitudine": 45.634566,
+      "longitudine": 25.593114,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 122,
+      "nume": "Grota Chilie",
+      "latitudine": 45.102198,
+      "longitudine": 26.302309,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 123,
+      "nume": "Grota Coșul Boului",
+      "latitudine": 46.492063,
+      "longitudine": 23.380773,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 124,
+      "nume": "Grota cu Aburi",
+      "latitudine": 44.898303,
+      "longitudine": 22.427076,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 125,
+      "nume": "Grota Haiducilor",
+      "latitudine": 44.801178,
+      "longitudine": 28.614827,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 126,
+      "nume": "Grota Haiducilor",
+      "latitudine": 44.896252,
+      "longitudine": 22.428472,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 127,
+      "nume": "Grota Haiducilor",
+      "latitudine": 45.933745,
+      "longitudine": 23.157583,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 128,
+      "nume": "Grota Solovan",
+      "latitudine": 47.909113,
+      "longitudine": 23.881772,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 129,
+      "nume": "Grota studenților",
+      "latitudine": 46.4375,
+      "longitudine": 23.582835,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 130,
+      "nume": "Grota Sulfuroasă",
+      "latitudine": 46.119767,
+      "longitudine": 25.948503,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 131,
+      "nume": "Grota Timsós",
+      "latitudine": 46.118981,
+      "longitudine": 25.94941,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 132,
+      "nume": "Grota Tâlharului",
+      "latitudine": 47.669727,
+      "longitudine": 23.554799,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 133,
+      "nume": "Grota Ucigașă",
+      "latitudine": 46.121766,
+      "longitudine": 25.949446,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 134,
+      "nume": "Grota Ursilor",
+      "latitudine": 46.965503,
+      "longitudine": 25.567304,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 135,
+      "nume": "Grota Ursului",
+      "latitudine": 45.190675,
+      "longitudine": 28.265529,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 136,
+      "nume": "Grota Ursului",
+      "latitudine": 46.466613,
+      "longitudine": 22.259432,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 137,
+      "nume": "Grota Zmeilor",
+      "latitudine": 44.883975,
+      "longitudine": 28.836382,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 138,
+      "nume": "grotă",
+      "latitudine": 47.087769,
+      "longitudine": 27.64407,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 139,
+      "nume": "Hotel Spelaeus",
+      "latitudine": 46.218748,
+      "longitudine": 25.54407,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 140,
+      "nume": "Huda de Lapte",
+      "latitudine": 46.46816,
+      "longitudine": 22.92656,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 141,
+      "nume": "Intr 3",
+      "latitudine": 45.563049,
+      "longitudine": 22.221607,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 142,
+      "nume": "Intrare Mina",
+      "latitudine": 47.685219,
+      "longitudine": 23.552719,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 143,
+      "nume": "Intrare tunel",
+      "latitudine": 45.647632,
+      "longitudine": 25.612007,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 144,
+      "nume": "Intrarea Ponicova",
+      "latitudine": 45.168719,
+      "longitudine": 21.944268,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 145,
+      "nume": "Izbuc D Steniului",
+      "latitudine": 45.539656,
+      "longitudine": 22.18377,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 146,
+      "nume": "Izbuc Oravița",
+      "latitudine": 45.058938,
+      "longitudine": 21.770781,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 147,
+      "nume": "Izbucul Gura Apei (Izbucul Gârdișoarei)",
+      "latitudine": 46.561548,
+      "longitudine": 22.761617,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 148,
+      "nume": "Izbucul Ponor",
+      "latitudine": 46.576712,
+      "longitudine": 22.716874,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 149,
+      "nume": "Izbucul Zanelor",
+      "latitudine": 45.548687,
+      "longitudine": 22.170091,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 150,
+      "nume": "Kis árok barlang",
+      "latitudine": 46.452449,
+      "longitudine": 23.583113,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 151,
+      "nume": "La Uluce",
+      "latitudine": 45.409561,
+      "longitudine": 25.263591,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 152,
+      "nume": "Lopó barlang",
+      "latitudine": 46.454504,
+      "longitudine": 23.588061,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 153,
+      "nume": "Mina",
+      "latitudine": 45.270216,
+      "longitudine": 21.727791,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 154,
+      "nume": "Mina",
+      "latitudine": 45.345562,
+      "longitudine": 22.518195,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 155,
+      "nume": "Mina",
+      "latitudine": 45.530265,
+      "longitudine": 23.15176,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 156,
+      "nume": "Mina",
+      "latitudine": 45.533148,
+      "longitudine": 23.155035,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 157,
+      "nume": "Mina",
+      "latitudine": 45.643134,
+      "longitudine": 22.401551,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 158,
+      "nume": "Mina Simon si Iuda",
+      "latitudine": 45.31636,
+      "longitudine": 21.746888,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 159,
+      "nume": "Mina Wilhelm",
+      "latitudine": 47.715928,
+      "longitudine": 23.53323,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 160,
+      "nume": "Mină",
+      "latitudine": 45.364411,
+      "longitudine": 24.148583,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 161,
+      "nume": "Mină",
+      "latitudine": 45.366539,
+      "longitudine": 24.149137,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 162,
+      "nume": "Mină închisă",
+      "latitudine": 45.848203,
+      "longitudine": 22.746435,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 163,
+      "nume": "Nările",
+      "latitudine": 45.1388,
+      "longitudine": 23.138924,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 164,
+      "nume": "Orbán Balázs-barlang",
+      "latitudine": 46.218429,
+      "longitudine": 25.544803,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 165,
+      "nume": "P alba din v Minisului",
+      "latitudine": 45.01324,
+      "longitudine": 21.929522,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 166,
+      "nume": "P cu apa din Garliste",
+      "latitudine": 45.164825,
+      "longitudine": 21.853526,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 167,
+      "nume": "P cu aven din poiana Liciovacea",
+      "latitudine": 44.993635,
+      "longitudine": 21.911394,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 168,
+      "nume": "P cu nisip",
+      "latitudine": 44.865607,
+      "longitudine": 21.739488,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 169,
+      "nume": "P de la Carsa rosie",
+      "latitudine": 45.020693,
+      "longitudine": 21.896799,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 170,
+      "nume": "P din Socolovat",
+      "latitudine": 45.185707,
+      "longitudine": 21.921898,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 171,
+      "nume": "P Gaura de la capul Baciului",
+      "latitudine": 45.243291,
+      "longitudine": 21.949984,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 172,
+      "nume": "P Gaura Frantoanei",
+      "latitudine": 45.528738,
+      "longitudine": 23.14741,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 173,
+      "nume": "P Gaura Oanei",
+      "latitudine": 45.464919,
+      "longitudine": 23.217288,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 174,
+      "nume": "P Gaura Parsului de la C.B.",
+      "latitudine": 45.244161,
+      "longitudine": 21.950322,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 175,
+      "nume": "P nr 2 de la Bogda",
+      "latitudine": 45.993451,
+      "longitudine": 21.593859,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 176,
+      "nume": "P nr 3 din valea Toplita",
+      "latitudine": 45.202871,
+      "longitudine": 21.969751,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 177,
+      "nume": "P nr1 de la Bogda",
+      "latitudine": 45.969094,
+      "longitudine": 21.566832,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 178,
+      "nume": "P nr3 Socolovat",
+      "latitudine": 45.186025,
+      "longitudine": 21.921689,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 179,
+      "nume": "P Ponor Plopa",
+      "latitudine": 45.02844,
+      "longitudine": 21.837598,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 180,
+      "nume": "P Strategica",
+      "latitudine": 45.180518,
+      "longitudine": 21.950914,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 181,
+      "nume": "P. Zidita nr 1",
+      "latitudine": 45.176579,
+      "longitudine": 21.923668,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 182,
+      "nume": "P. Zăpodie",
+      "latitudine": 46.581156,
+      "longitudine": 22.676602,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 183,
+      "nume": "Pestera Bisericuta",
+      "latitudine": 46.20117,
+      "longitudine": 23.336752,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 184,
+      "nume": "Pestera Cerbului",
+      "latitudine": 45.168951,
+      "longitudine": 21.930651,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 185,
+      "nume": "Pestera Corbasca",
+      "latitudine": 46.533506,
+      "longitudine": 22.573262,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 186,
+      "nume": "Pestera Cornii",
+      "latitudine": 46.524581,
+      "longitudine": 22.561246,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 187,
+      "nume": "Pestera Craniilor",
+      "latitudine": 44.503288,
+      "longitudine": 28.421258,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 188,
+      "nume": "Pestera Cristal",
+      "latitudine": 45.645303,
+      "longitudine": 22.397706,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 189,
+      "nume": "Pestera cu 2 intrari",
+      "latitudine": 44.994574,
+      "longitudine": 22.512588,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 190,
+      "nume": "PESTERA CURECEA",
+      "latitudine": 44.879291,
+      "longitudine": 22.609963,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 191,
+      "nume": "PESTERA CURECEA EXIT",
+      "latitudine": 44.875599,
+      "longitudine": 22.601767,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 192,
+      "nume": "Pestera Dambu Steniului",
+      "latitudine": 45.542328,
+      "longitudine": 22.18504,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 193,
+      "nume": "Pestera de la Grosi",
+      "latitudine": 46.413573,
+      "longitudine": 23.475399,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 194,
+      "nume": "Pestera din Bradet",
+      "latitudine": 45.239576,
+      "longitudine": 21.979246,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 195,
+      "nume": "Pestera din valea seaca",
+      "latitudine": 45.79465,
+      "longitudine": 22.501267,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 196,
+      "nume": "Pestera Ferice",
+      "latitudine": 46.641822,
+      "longitudine": 22.523582,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 197,
+      "nume": "Pestera Fugarilor",
+      "latitudine": 46.914558,
+      "longitudine": 22.611597,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 198,
+      "nume": "Pestera Galatiului",
+      "latitudine": 45.165715,
+      "longitudine": 21.854431,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 199,
+      "nume": "Pestera Gradina Zmeilor",
+      "latitudine": 47.198326,
+      "longitudine": 23.302712,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 200,
+      "nume": "Pestera Izvorani",
+      "latitudine": 45.471113,
+      "longitudine": 23.226764,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 201,
+      "nume": "Pestera Lui Mocanu",
+      "latitudine": 45.284738,
+      "longitudine": 25.811739,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 202,
+      "nume": "Pestera Mare de la Șoroniște",
+      "latitudine": 44.872913,
+      "longitudine": 22.429106,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 203,
+      "nume": "Pestera Marghitas-",
+      "latitudine": 45.107675,
+      "longitudine": 21.881516,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 204,
+      "nume": "Pestera Munticelu",
+      "latitudine": 46.833441,
+      "longitudine": 25.852066,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 205,
+      "nume": "Pestera Palariei",
+      "latitudine": 45.510731,
+      "longitudine": 23.22344,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 206,
+      "nume": "Pestera Paleontologica",
+      "latitudine": 45.758425,
+      "longitudine": 22.42692,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 207,
+      "nume": "Pestera Pietroasa",
+      "latitudine": 45.826758,
+      "longitudine": 22.414839,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 208,
+      "nume": "Pestera Ponorul cu Tug",
+      "latitudine": 45.563132,
+      "longitudine": 22.223029,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 209,
+      "nume": "Pestera Roland",
+      "latitudine": 44.997819,
+      "longitudine": 22.51205,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 210,
+      "nume": "Pestera Salitrari",
+      "latitudine": 44.993845,
+      "longitudine": 22.511664,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 211,
+      "nume": "Pestera Surduc",
+      "latitudine": 46.530219,
+      "longitudine": 23.577671,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 212,
+      "nume": "Pestera Ungurească",
+      "latitudine": 46.562701,
+      "longitudine": 23.681253,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 213,
+      "nume": "Pestera Unguru Mare",
+      "latitudine": 46.932472,
+      "longitudine": 22.547417,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 214,
+      "nume": "Pestera Ursului",
+      "latitudine": 45.230978,
+      "longitudine": 21.966527,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 215,
+      "nume": "Pestera Vacii",
+      "latitudine": 46.84091,
+      "longitudine": 22.371,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 216,
+      "nume": "Pestera Vida",
+      "latitudine": 46.893768,
+      "longitudine": 22.375205,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 217,
+      "nume": "Pestera Vidra",
+      "latitudine": 45.14593,
+      "longitudine": 21.817833,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 218,
+      "nume": "Pestera Zanelor",
+      "latitudine": 45.547656,
+      "longitudine": 22.175486,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 219,
+      "nume": "Pestera Zeicului",
+      "latitudine": 45.280997,
+      "longitudine": 22.897986,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 220,
+      "nume": "Pesteruta",
+      "latitudine": 45.761131,
+      "longitudine": 22.423415,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 221,
+      "nume": "Petera Pagodelor",
+      "latitudine": 45.270505,
+      "longitudine": 24.129613,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 222,
+      "nume": "Peştera cu Apă din Valea Leşului",
+      "latitudine": 46.824754,
+      "longitudine": 22.556269,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 223,
+      "nume": "Peştera Câmpeneaasca",
+      "latitudine": 46.452561,
+      "longitudine": 22.462491,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 224,
+      "nume": "Peştera din Vârful Păltinetu",
+      "latitudine": 45.286028,
+      "longitudine": 25.807583,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 225,
+      "nume": "Peştera Movile",
+      "latitudine": 43.826751,
+      "longitudine": 28.56178,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 226,
+      "nume": "Peştera Tăuşoare",
+      "latitudine": 47.445823,
+      "longitudine": 24.527158,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 227,
+      "nume": "Peştera Şuşman",
+      "latitudine": 46.708316,
+      "longitudine": 22.831993,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 228,
+      "nume": "Peștera 2 de la Petroșani",
+      "latitudine": 44.015359,
+      "longitudine": 28.04675,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 229,
+      "nume": "Peștera 25",
+      "latitudine": 46.531141,
+      "longitudine": 22.597908,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 230,
+      "nume": "Peștera 6S",
+      "latitudine": 45.49937,
+      "longitudine": 26.620246,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 231,
+      "nume": "Peștera 7S",
+      "latitudine": 45.499656,
+      "longitudine": 26.617478,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 232,
+      "nume": "Peștera 9S",
+      "latitudine": 45.49926,
+      "longitudine": 26.621053,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 233,
+      "nume": "Peștera Alunului",
+      "latitudine": 46.638329,
+      "longitudine": 22.772792,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 234,
+      "nume": "Peștera Arnăuților",
+      "latitudine": 45.289174,
+      "longitudine": 24.12959,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 235,
+      "nume": "Peștera Babei",
+      "latitudine": 44.501896,
+      "longitudine": 28.423652,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 236,
+      "nume": "Peștera Balta",
+      "latitudine": 44.874431,
+      "longitudine": 22.626863,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 237,
+      "nume": "Peștera Bardócz",
+      "latitudine": 46.8161,
+      "longitudine": 25.821921,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 238,
+      "nume": "Peștera Bictir",
+      "latitudine": 44.002128,
+      "longitudine": 28.070531,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 239,
+      "nume": "Peștera Bijuteria",
+      "latitudine": 45.017716,
+      "longitudine": 21.765427,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 240,
+      "nume": "Peștera Boilor",
+      "latitudine": 44.878855,
+      "longitudine": 21.802324,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 241,
+      "nume": "Peștera Bolii",
+      "latitudine": 45.453652,
+      "longitudine": 23.318369,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 242,
+      "nume": "Peștera Bucșoiului",
+      "latitudine": 45.455824,
+      "longitudine": 25.460022,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 243,
+      "nume": "Peștera Buhui",
+      "latitudine": 45.086817,
+      "longitudine": 21.886946,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 244,
+      "nume": "Peștera Buhui (Exurgență)",
+      "latitudine": 45.096162,
+      "longitudine": 21.879874,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 245,
+      "nume": "Peștera Buhui (intrarea 2)",
+      "latitudine": 45.093459,
+      "longitudine": 21.885549,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 246,
+      "nume": "Peștera Bătrânului",
+      "latitudine": 46.938856,
+      "longitudine": 22.465738,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 247,
+      "nume": "Peștera Bătrână",
+      "latitudine": 45.154508,
+      "longitudine": 21.932331,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 248,
+      "nume": "Peștera Caprei",
+      "latitudine": 46.966001,
+      "longitudine": 22.513333,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 249,
+      "nume": "Peștera Caprelor",
+      "latitudine": 45.269904,
+      "longitudine": 24.126229,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 250,
+      "nume": "Peștera Casa Mare",
+      "latitudine": 44.01409,
+      "longitudine": 28.044425,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 251,
+      "nume": "Peștera Casele Zmeilor",
+      "latitudine": 46.468728,
+      "longitudine": 23.400418,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 252,
+      "nume": "Peștera Casian",
+      "latitudine": 44.491828,
+      "longitudine": 28.454922,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 253,
+      "nume": "Peștera Cetatea Rădesei",
+      "latitudine": 46.630192,
+      "longitudine": 22.708063,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 254,
+      "nume": "Peștera Cetățile Ponorului - intrare secundară",
+      "latitudine": 46.562709,
+      "longitudine": 22.700525,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 255,
+      "nume": "Peștera Cetățile Ponorului - intrarea principală",
+      "latitudine": 46.563788,
+      "longitudine": 22.702185,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 256,
+      "nume": "Peștera Cioclovina",
+      "latitudine": 45.575266,
+      "longitudine": 23.136024,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 257,
+      "nume": "Peștera Clopot",
+      "latitudine": 45.270395,
+      "longitudine": 24.130896,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 258,
+      "nume": "Peștera Colțul Chiliilor",
+      "latitudine": 45.570255,
+      "longitudine": 25.248773,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 259,
+      "nume": "Peștera Colțul Surpat",
+      "latitudine": 45.420697,
+      "longitudine": 25.192749,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 260,
+      "nume": "Peștera Comarnic",
+      "latitudine": 45.178264,
+      "longitudine": 21.94742,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 261,
+      "nume": "Peștera Comăna (Mănăstirii)",
+      "latitudine": 45.883172,
+      "longitudine": 25.306005,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 262,
+      "nume": "Peștera Cotită de la Cotu Văii",
+      "latitudine": 43.822091,
+      "longitudine": 28.348373,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 263,
+      "nume": "Peștera Craniilor",
+      "latitudine": 44.503108,
+      "longitudine": 28.424153,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 264,
+      "nume": "Peștera cu 5 intrări",
+      "latitudine": 46.716876,
+      "longitudine": 22.810274,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 265,
+      "nume": "Peștera cu Apă din Valea Firii",
+      "latitudine": 46.670569,
+      "longitudine": 22.821661,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 266,
+      "nume": "Peștera cu cristale Farcu",
+      "latitudine": 46.817194,
+      "longitudine": 22.423702,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 267,
+      "nume": "Peștera cu Iederă",
+      "latitudine": 45.010534,
+      "longitudine": 21.757544,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 268,
+      "nume": "Peștera cu Lac",
+      "latitudine": 45.270378,
+      "longitudine": 24.127299,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 269,
+      "nume": "Peștera cu Oase",
+      "latitudine": 45.188808,
+      "longitudine": 21.927353,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 270,
+      "nume": "Peștera cu Oase",
+      "latitudine": 47.569909,
+      "longitudine": 24.021493,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 271,
+      "nume": "Peștera cu puț",
+      "latitudine": 45.189064,
+      "longitudine": 21.927563,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 272,
+      "nume": "Peștera cu Săliță",
+      "latitudine": 43.814124,
+      "longitudine": 28.346058,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 273,
+      "nume": "Peștera Cuptorul Ciumei",
+      "latitudine": 45.193636,
+      "longitudine": 21.922977,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 274,
+      "nume": "Peștera Cuptorul Porcului",
+      "latitudine": 45.186861,
+      "longitudine": 21.927381,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 275,
+      "nume": "Peștera Cuv Teodora",
+      "latitudine": 47.150258,
+      "longitudine": 26.179545,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 276,
+      "nume": "Peștera Cuvioasei Teodora",
+      "latitudine": 47.150264,
+      "longitudine": 26.179588,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 277,
+      "nume": "Peștera Cârneală",
+      "latitudine": 45.07197,
+      "longitudine": 21.931429,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 278,
+      "nume": "Peștera Călăștur",
+      "latitudine": 46.566812,
+      "longitudine": 23.67905,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 279,
+      "nume": "Peștera Căput",
+      "latitudine": 46.56432,
+      "longitudine": 22.712774,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 280,
+      "nume": "Peștera Căsoaia lui Ladaș",
+      "latitudine": 46.957073,
+      "longitudine": 25.042897,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 281,
+      "nume": "Peștera de după Cârșă",
+      "latitudine": 45.202907,
+      "longitudine": 21.876262,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 282,
+      "nume": "Peștera de gheață",
+      "latitudine": 45.270893,
+      "longitudine": 23.067597,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 283,
+      "nume": "Peștera de Gheață",
+      "latitudine": 45.568411,
+      "longitudine": 25.665374,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 284,
+      "nume": "Peștera de Gheață",
+      "latitudine": 46.963966,
+      "longitudine": 25.574006,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 285,
+      "nume": "Peștera de la Haldină",
+      "latitudine": 45.142425,
+      "longitudine": 21.901289,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 286,
+      "nume": "Peștera de la Moară",
+      "latitudine": 45.031162,
+      "longitudine": 28.509624,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 287,
+      "nume": "Peștera de la Stâncă",
+      "latitudine": 45.030819,
+      "longitudine": 28.500005,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 288,
+      "nume": "Peștera de Lapte",
+      "latitudine": 45.590913,
+      "longitudine": 25.564702,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 289,
+      "nume": "Peștera de Nisip",
+      "latitudine": 43.810998,
+      "longitudine": 28.343368,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 290,
+      "nume": "Peștera de pe Piciorul Babelor",
+      "latitudine": 45.405969,
+      "longitudine": 25.461199,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 291,
+      "nume": "Peștera Devențului I",
+      "latitudine": 46.96638,
+      "longitudine": 22.51273,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 292,
+      "nume": "Peștera Devențului II",
+      "latitudine": 46.966472,
+      "longitudine": 22.512662,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 293,
+      "nume": "Peștera Devențului III",
+      "latitudine": 46.96658,
+      "longitudine": 22.51252,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 294,
+      "nume": "Peștera din Colțul Fisurii",
+      "latitudine": 45.115616,
+      "longitudine": 28.857641,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 295,
+      "nume": "Peștera Din Piatra Rea",
+      "latitudine": 47.589297,
+      "longitudine": 24.803607,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 296,
+      "nume": "Peștera din Poiana Vărășoaia - V11",
+      "latitudine": 46.609879,
+      "longitudine": 22.709059,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 297,
+      "nume": "Peștera din valea seacă",
+      "latitudine": 45.080758,
+      "longitudine": 21.920008,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 298,
+      "nume": "Peștera Dodoconi",
+      "latitudine": 45.334133,
+      "longitudine": 23.070747,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 299,
+      "nume": "Peștera Dracilor",
+      "latitudine": 45.347554,
+      "longitudine": 23.266082,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 300,
+      "nume": "Peștera Drăcoaia",
+      "latitudine": 46.533486,
+      "longitudine": 22.583712,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 301,
+      "nume": "Peștera Dubova",
+      "latitudine": 44.891227,
+      "longitudine": 21.779978,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 302,
+      "nume": "Peștera Dâmbovicioara",
+      "latitudine": 45.443953,
+      "longitudine": 25.22282,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 303,
+      "nume": "Peștera Fagului",
+      "latitudine": 46.551722,
+      "longitudine": 22.61093,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 304,
+      "nume": "Peștera Frunzari",
+      "latitudine": 45.894098,
+      "longitudine": 25.301196,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 305,
+      "nume": "Peștera Fugarilor",
+      "latitudine": 45.187012,
+      "longitudine": 21.923135,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 306,
+      "nume": "Peștera Fugarilor",
+      "latitudine": 46.959075,
+      "longitudine": 22.519011,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 307,
+      "nume": "Peștera Galeria de Prospecțiune",
+      "latitudine": 45.120532,
+      "longitudine": 28.85513,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 308,
+      "nume": "Peștera Gang",
+      "latitudine": 45.720042,
+      "longitudine": 25.345747,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 309,
+      "nume": "Peștera Ghețarul de la Focul Viu",
+      "latitudine": 46.575322,
+      "longitudine": 22.679876,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 310,
+      "nume": "Peștera Ghețarul de la Scărișoara",
+      "latitudine": 46.489922,
+      "longitudine": 22.810487,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 311,
+      "nume": "Peștera Ghilingic",
+      "latitudine": 44.49213,
+      "longitudine": 28.432523,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 312,
+      "nume": "Peștera Gramei",
+      "latitudine": 44.843349,
+      "longitudine": 22.581237,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 313,
+      "nume": "Peștera Grota Ursului",
+      "latitudine": 45.36477,
+      "longitudine": 25.425808,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 314,
+      "nume": "Peștera Gugului",
+      "latitudine": 45.291745,
+      "longitudine": 22.687356,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 315,
+      "nume": "Peștera Hagieni",
+      "latitudine": 43.804857,
+      "longitudine": 28.470014,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 316,
+      "nume": "Peștera Honu",
+      "latitudine": 46.640363,
+      "longitudine": 22.716564,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 317,
+      "nume": "Peștera Hoților",
+      "latitudine": 44.178781,
+      "longitudine": 27.881298,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 318,
+      "nume": "Peștera Hoților",
+      "latitudine": 45.991309,
+      "longitudine": 25.471891,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 319,
+      "nume": "Peștera Huda lui Papara",
+      "latitudine": 46.380809,
+      "longitudine": 23.462046,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 320,
+      "nume": "Peștera Humpleu",
+      "latitudine": 46.668742,
+      "longitudine": 22.817626,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 321,
+      "nume": "Peștera Ialomiței",
+      "latitudine": 45.393237,
+      "longitudine": 25.436773,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 322,
+      "nume": "Peștera Iederei",
+      "latitudine": 45.160273,
+      "longitudine": 21.910406,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 323,
+      "nume": "Peștera Izbuc de la Coliba Ghiobului",
+      "latitudine": 46.554177,
+      "longitudine": 22.764975,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 324,
+      "nume": "Peștera Izei",
+      "latitudine": 47.584767,
+      "longitudine": 24.563412,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 325,
+      "nume": "Peștera Jgheabul cu Gaură",
+      "latitudine": 46.89446,
+      "longitudine": 25.834801,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 326,
+      "nume": "Peștera Kolik",
+      "latitudine": 45.96339,
+      "longitudine": 26.317769,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 327,
+      "nume": "Peștera La Izvor",
+      "latitudine": 44.506971,
+      "longitudine": 28.431267,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 328,
+      "nume": "Peștera Lenuța",
+      "latitudine": 45.024188,
+      "longitudine": 21.77481,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 329,
+      "nume": "Peștera Lesiana",
+      "latitudine": 46.8993,
+      "longitudine": 22.528358,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 330,
+      "nume": "Peștera Liliecilor",
+      "latitudine": 44.467179,
+      "longitudine": 28.481102,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 331,
+      "nume": "Peștera Liliecilor",
+      "latitudine": 45.205362,
+      "longitudine": 21.876364,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 332,
+      "nume": "Peștera Liliecilor",
+      "latitudine": 45.507618,
+      "longitudine": 25.292449,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 333,
+      "nume": "Peștera Liliecilor",
+      "latitudine": 46.456323,
+      "longitudine": 22.251584,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 334,
+      "nume": "Peștera liliecilor",
+      "latitudine": 46.565274,
+      "longitudine": 23.673386,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 335,
+      "nume": "Peștera Liliecilor",
+      "latitudine": 47.455417,
+      "longitudine": 25.560211,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 336,
+      "nume": "Peștera Liliecilor (Sfântului Grigore Decapolitul)",
+      "latitudine": 45.191916,
+      "longitudine": 24.040402,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 337,
+      "nume": "Peștera Limanu",
+      "latitudine": 43.808132,
+      "longitudine": 28.521553,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 338,
+      "nume": "Peștera lui Săbăreanu",
+      "latitudine": 45.198501,
+      "longitudine": 23.785955,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 339,
+      "nume": "Peștera lui Terente",
+      "latitudine": 45.11125,
+      "longitudine": 28.24569,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 340,
+      "nume": "Peștera lui Varlan",
+      "latitudine": 44.91625,
+      "longitudine": 28.547684,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 341,
+      "nume": "Peștera lui Șerban",
+      "latitudine": 44.881397,
+      "longitudine": 22.429448,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 342,
+      "nume": "Peștera Luterie",
+      "latitudine": 45.201485,
+      "longitudine": 28.223611,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 343,
+      "nume": "Peștera Mare",
+      "latitudine": 45.485811,
+      "longitudine": 26.609623,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 344,
+      "nume": "Peștera Meziad",
+      "latitudine": 46.76257,
+      "longitudine": 22.478926,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 345,
+      "nume": "Peștera Mică a Lespezilor",
+      "latitudine": 46.710285,
+      "longitudine": 22.838896,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 346,
+      "nume": "Peștera Moanei",
+      "latitudine": 46.899642,
+      "longitudine": 22.528077,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 347,
+      "nume": "Peștera Muierilor (ieșire)",
+      "latitudine": 45.187729,
+      "longitudine": 23.75595,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 348,
+      "nume": "Peștera Muierilor (intrare)",
+      "latitudine": 45.192225,
+      "longitudine": 23.753833,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 349,
+      "nume": "Peștera Munteanu-Murgoci",
+      "latitudine": 45.27058,
+      "longitudine": 24.12574,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 350,
+      "nume": "Peștera Măgura",
+      "latitudine": 46.531648,
+      "longitudine": 22.594352,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 351,
+      "nume": "Peștera Neagră",
+      "latitudine": 46.576925,
+      "longitudine": 22.685586,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 352,
+      "nume": "Peștera nr. 2 de la Cârneală",
+      "latitudine": 45.082825,
+      "longitudine": 21.932181,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 353,
+      "nume": "Peștera nr. 3 de la Cârneală",
+      "latitudine": 45.068718,
+      "longitudine": 21.915338,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 354,
+      "nume": "Peștera Osoi",
+      "latitudine": 46.958516,
+      "longitudine": 22.331943,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 355,
+      "nume": "Peștera Padina Hotarului",
+      "latitudine": 45.564091,
+      "longitudine": 25.256631,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 356,
+      "nume": "Peștera Padiș (inchisa)",
+      "latitudine": 46.607018,
+      "longitudine": 22.70496,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 357,
+      "nume": "Peștera Pepii",
+      "latitudine": 46.640167,
+      "longitudine": 22.736895,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 358,
+      "nume": "Peștera Perlelor",
+      "latitudine": 45.269861,
+      "longitudine": 24.127967,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 359,
+      "nume": "Peștera Poarta lui Ionele",
+      "latitudine": 46.466828,
+      "longitudine": 22.838433,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 360,
+      "nume": "Peștera Podireului II",
+      "latitudine": 46.974307,
+      "longitudine": 22.508137,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 361,
+      "nume": "Peștera Podului",
+      "latitudine": 44.973555,
+      "longitudine": 22.758005,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 362,
+      "nume": "Peștera Podului",
+      "latitudine": 44.97501,
+      "longitudine": 22.760535,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 363,
+      "nume": "Peștera Polovragi",
+      "latitudine": 45.200468,
+      "longitudine": 23.78354,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 364,
+      "nume": "Peștera Ponicova",
+      "latitudine": 44.595135,
+      "longitudine": 22.255697,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 365,
+      "nume": "Peștera Ponicova",
+      "latitudine": 44.595316,
+      "longitudine": 22.261159,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 366,
+      "nume": "Peștera Ponorici",
+      "latitudine": 45.56797,
+      "longitudine": 23.151609,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 367,
+      "nume": "Peștera Popovăț",
+      "latitudine": 45.171053,
+      "longitudine": 21.928817,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 368,
+      "nume": "Peștera Porcariului",
+      "latitudine": 44.891574,
+      "longitudine": 21.787898,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 369,
+      "nume": "Peștera Porcilor",
+      "latitudine": 45.159878,
+      "longitudine": 21.910129,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 370,
+      "nume": "Peștera Rac",
+      "latitudine": 45.268303,
+      "longitudine": 24.134834,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 371,
+      "nume": "Peștera Racoviță",
+      "latitudine": 45.181883,
+      "longitudine": 21.927217,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 372,
+      "nume": "Peștera Rolului",
+      "latitudine": 44.900162,
+      "longitudine": 21.77362,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 373,
+      "nume": "Peștera Românești",
+      "latitudine": 45.796949,
+      "longitudine": 22.350915,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 374,
+      "nume": "Peștera Roșie",
+      "latitudine": 46.962053,
+      "longitudine": 22.514649,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 375,
+      "nume": "Peștera Râșnoavei",
+      "latitudine": 45.57525,
+      "longitudine": 25.489036,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 376,
+      "nume": "Peștera Răsuflarea Blidarului",
+      "latitudine": 46.534237,
+      "longitudine": 22.580591,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 377,
+      "nume": "Peștera Sf. Elena",
+      "latitudine": 45.025594,
+      "longitudine": 21.774887,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 378,
+      "nume": "Peștera Sfântului",
+      "latitudine": 45.215908,
+      "longitudine": 25.210582,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 379,
+      "nume": "Peștera Sfântului Antonie de la Iezer",
+      "latitudine": 45.205704,
+      "longitudine": 24.176867,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 380,
+      "nume": "Peștera Sfântului Apostol Andrei",
+      "latitudine": 44.090036,
+      "longitudine": 27.825887,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 381,
+      "nume": "Peștera Simetrică",
+      "latitudine": 43.814163,
+      "longitudine": 28.340854,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 382,
+      "nume": "Peștera Smeilor de la Onceasa",
+      "latitudine": 46.657188,
+      "longitudine": 22.7655,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 383,
+      "nume": "Peștera Stanciului",
+      "latitudine": 45.507191,
+      "longitudine": 25.194724,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 384,
+      "nume": "Peștera Stracoș",
+      "latitudine": 46.924508,
+      "longitudine": 22.138166,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 385,
+      "nume": "Peștera Tașaul",
+      "latitudine": 44.408109,
+      "longitudine": 28.549395,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 386,
+      "nume": "Peștera Topolnița",
+      "latitudine": 44.81989,
+      "longitudine": 22.560786,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 387,
+      "nume": "Peștera Tunel",
+      "latitudine": 46.830836,
+      "longitudine": 25.851419,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 388,
+      "nume": "Peștera Tășad",
+      "latitudine": 46.921571,
+      "longitudine": 22.12181,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 389,
+      "nume": "Peștera Urșilor",
+      "latitudine": 46.553915,
+      "longitudine": 22.569324,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 390,
+      "nume": "Peștera Vadu Crișului",
+      "latitudine": 46.961984,
+      "longitudine": 22.510977,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 391,
+      "nume": "Peștera Valea Bistriței (Peștera Urșilor)",
+      "latitudine": 45.195232,
+      "longitudine": 24.034666,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 392,
+      "nume": "Peștera Valea Cetății",
+      "latitudine": 45.582574,
+      "longitudine": 25.496664,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 393,
+      "nume": "Peștera Veterani",
+      "latitudine": 44.599257,
+      "longitudine": 22.263132,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 394,
+      "nume": "Peștera Voinii",
+      "latitudine": 44.879819,
+      "longitudine": 21.80427,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 395,
+      "nume": "Peștera Vântului",
+      "latitudine": 46.939291,
+      "longitudine": 22.543715,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 396,
+      "nume": "Peștera Văleaga",
+      "latitudine": 45.201476,
+      "longitudine": 21.875274,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 397,
+      "nume": "Peștera Zidită",
+      "latitudine": 46.00738,
+      "longitudine": 23.128886,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 398,
+      "nume": "Peștera Șugău",
+      "latitudine": 46.681478,
+      "longitudine": 25.674797,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 399,
+      "nume": "Peștera Șura Boghil (inchisa)",
+      "latitudine": 46.606664,
+      "longitudine": 22.692657,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 400,
+      "nume": "Peștera Șura Mică",
+      "latitudine": 45.512819,
+      "longitudine": 23.14881,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 401,
+      "nume": "Peștera Șura Popii",
+      "latitudine": 46.557406,
+      "longitudine": 22.762875,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 402,
+      "nume": "Peștera Țolosu",
+      "latitudine": 45.199306,
+      "longitudine": 21.922458,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 403,
+      "nume": "Peștera „La Adam”",
+      "latitudine": 44.464535,
+      "longitudine": 28.471368,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 404,
+      "nume": "Peșterea Șefului de Gară",
+      "latitudine": 46.95652,
+      "longitudine": 25.055889,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 405,
+      "nume": "Peșterile lui Vit",
+      "latitudine": 44.878798,
+      "longitudine": 21.80226,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 406,
+      "nume": "Peșteră",
+      "latitudine": 45.162287,
+      "longitudine": 21.854301,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 407,
+      "nume": "Piatra îngăurită",
+      "latitudine": 45.432073,
+      "longitudine": 26.430575,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 408,
+      "nume": "Poarta Bihorului",
+      "latitudine": 46.502099,
+      "longitudine": 22.624151,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 409,
+      "nume": "Poarta de Piatră",
+      "latitudine": 45.333313,
+      "longitudine": 24.354162,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 410,
+      "nume": "Poarta lui Beneș",
+      "latitudine": 47.511671,
+      "longitudine": 24.797266,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 411,
+      "nume": "Poarta Zmeilor",
+      "latitudine": 46.413866,
+      "longitudine": 23.475586,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 412,
+      "nume": "Ponor spre Tolosu",
+      "latitudine": 45.232182,
+      "longitudine": 21.966169,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 413,
+      "nume": "ponor uscata",
+      "latitudine": 45.030322,
+      "longitudine": 21.833189,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 414,
+      "nume": "Ponorul din Barsa Cohanului",
+      "latitudine": 46.557144,
+      "longitudine": 22.707675,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 415,
+      "nume": "Prosăc",
+      "latitudine": 44.818164,
+      "longitudine": 22.563744,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 416,
+      "nume": "Prăbușire Mină",
+      "latitudine": 47.690612,
+      "longitudine": 23.512822,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 417,
+      "nume": "Puțul Vodarului",
+      "latitudine": 45.034481,
+      "longitudine": 21.731592,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 418,
+      "nume": "R2",
+      "latitudine": 46.599634,
+      "longitudine": 22.699064,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 419,
+      "nume": "Schitul Fundătura",
+      "latitudine": 45.425033,
+      "longitudine": 26.447904,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 420,
+      "nume": "Sipot",
+      "latitudine": 45.513205,
+      "longitudine": 23.214524,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 421,
+      "nume": "Tolvaj-barlang",
+      "latitudine": 46.636927,
+      "longitudine": 25.874225,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 422,
+      "nume": "Toplita de Rosia",
+      "latitudine": 46.831054,
+      "longitudine": 22.384958,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 423,
+      "nume": "Toplița",
+      "latitudine": 46.238813,
+      "longitudine": 22.773968,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 424,
+      "nume": "Tunel",
+      "latitudine": 45.872852,
+      "longitudine": 22.826037,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 425,
+      "nume": "Tunel",
+      "latitudine": 45.879409,
+      "longitudine": 22.825446,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 426,
+      "nume": "Tunel (închis)",
+      "latitudine": 45.891257,
+      "longitudine": 22.84996,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 427,
+      "nume": "Tunel închis",
+      "latitudine": 45.880762,
+      "longitudine": 22.832678,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 428,
+      "nume": "Tunelul Grota Ursului",
+      "latitudine": 45.3627,
+      "longitudine": 25.432841,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 429,
+      "nume": "Tunelul Mic",
+      "latitudine": 46.633795,
+      "longitudine": 22.709602,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 430,
+      "nume": "Velebný žlábek",
+      "latitudine": 44.665428,
+      "longitudine": 21.732501,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 431,
+      "nume": "Vranovec",
+      "latitudine": 44.703977,
+      "longitudine": 21.729538,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 432,
+      "nume": "Vulcan carbogazos 1",
+      "latitudine": 45.949458,
+      "longitudine": 21.396219,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 433,
+      "nume": "Vânătările Ponorului",
+      "latitudine": 46.370357,
+      "longitudine": 23.459524,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 434,
+      "nume": "Zamonica",
+      "latitudine": 44.684648,
+      "longitudine": 22.097318,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 435,
+      "nume": "Ércesi borvíz",
+      "latitudine": 46.152742,
+      "longitudine": 25.755778,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 436,
+      "nume": "Șura cailor",
+      "latitudine": 46.219412,
+      "longitudine": 25.544808,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 437,
+      "nume": "Șura de piatră",
+      "latitudine": 46.215905,
+      "longitudine": 25.546437,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 438,
+      "nume": "Șura lui Balica",
+      "latitudine": 46.567551,
+      "longitudine": 23.671751,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 439,
+      "nume": "Șura Mare",
+      "latitudine": 46.668527,
+      "longitudine": 22.819113,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    },
+    {
+      "id": 440,
+      "nume": "Нижня штольня",
+      "latitudine": 47.942314,
+      "longitudine": 24.114685,
+      "cheie_osm": "natural",
+      "valoare_osm": "cave_entrance",
+      "categorie_osm": "natural=cave_entrance"
+    }
+  ],
+  "meta": {
+    "title": "Peșteri din România - Descărcare gratuită",
+    "description": "Peșteri din România — 440 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `natural=cave_entrance`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează. Conține 440 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Peșteri din România | ListBase",
+    "seo_description": "Descarcă Peșteri din România — 440 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 440 înregistrări / 7 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

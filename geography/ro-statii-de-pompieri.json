@@ -1,0 +1,2239 @@
+{
+  "id": "ro-statii-de-pompieri",
+  "name": "Stații de pompieri din România",
+  "title": "Stații de pompieri din România",
+  "description": "Stații de pompieri din România — 242 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `amenity=fire_station`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 242,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "latitudine",
+      "label": "Latitudine",
+      "type": "number"
+    },
+    {
+      "key": "longitudine",
+      "label": "Longitudine",
+      "type": "number"
+    },
+    {
+      "key": "cheie_osm",
+      "label": "Cheie Osm",
+      "type": "string"
+    },
+    {
+      "key": "valoare_osm",
+      "label": "Valoare Osm",
+      "type": "string"
+    },
+    {
+      "key": "categorie_osm",
+      "label": "Categorie Osm",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nume": "Bloc Pompieri",
+      "latitudine": 45.167982,
+      "longitudine": 24.671469,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 2,
+      "nume": "Brigada de pompieri",
+      "latitudine": 46.531391,
+      "longitudine": 22.458789,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 3,
+      "nume": "Comandamentul Pompieri Huși",
+      "latitudine": 46.675972,
+      "longitudine": 28.060145,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 4,
+      "nume": "Compania de pompieri Zărnești",
+      "latitudine": 45.560751,
+      "longitudine": 25.32065,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 5,
+      "nume": "Detasamentul de Pompieri \"13 Septembrie\"",
+      "latitudine": 44.42185,
+      "longitudine": 26.071026,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 6,
+      "nume": "Detasamentul de Pompieri \"Obor - Garda Obor\"",
+      "latitudine": 44.447974,
+      "longitudine": 26.137887,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 7,
+      "nume": "Detasamentul de Pompieri \"Obor - Garda Pache\"",
+      "latitudine": 44.440009,
+      "longitudine": 26.127738,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 8,
+      "nume": "Detasamentul de Pompieri Chimiștilor",
+      "latitudine": 44.405257,
+      "longitudine": 26.188134,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 9,
+      "nume": "Detasamentul de Pompierii",
+      "latitudine": 47.847683,
+      "longitudine": 25.914427,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 10,
+      "nume": "Detaşamentul de pompieri 1 Ploieşti",
+      "latitudine": 44.931153,
+      "longitudine": 26.018386,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 11,
+      "nume": "Detaşamentul de Pompieri Câmpulung Muscel",
+      "latitudine": 45.265322,
+      "longitudine": 25.045847,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 12,
+      "nume": "Detaşamentului de pompieri voluntari Turulung",
+      "latitudine": 47.935005,
+      "longitudine": 23.082768,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 13,
+      "nume": "Detașamentul 1 de Pompieri Iași",
+      "latitudine": 47.177804,
+      "longitudine": 27.575036,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 14,
+      "nume": "Detașamentul 2 de Pompieri",
+      "latitudine": 44.296599,
+      "longitudine": 23.836169,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 15,
+      "nume": "Detașamentul 2 de Pompieri Cluj-Napoca",
+      "latitudine": 46.75156,
+      "longitudine": 23.540169,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 16,
+      "nume": "Detașamentul 2 de Pompieri Cluj-Napoca - Punct de lucru Florești",
+      "latitudine": 46.731791,
+      "longitudine": 23.483045,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 17,
+      "nume": "Detașamentul 2 de Pompieri Iași",
+      "latitudine": 47.142803,
+      "longitudine": 27.638691,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 18,
+      "nume": "Detașamentul 2 Pompieri",
+      "latitudine": 45.740618,
+      "longitudine": 21.210658,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 19,
+      "nume": "Detașamentul 2 Pompieri Ploieşti",
+      "latitudine": 44.91506,
+      "longitudine": 26.027612,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 20,
+      "nume": "Detașamentul de Pompieri",
+      "latitudine": 43.660421,
+      "longitudine": 25.356341,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 21,
+      "nume": "Detașamentul de Pompieri",
+      "latitudine": 44.260754,
+      "longitudine": 28.27627,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 22,
+      "nume": "Detașamentul de Pompieri",
+      "latitudine": 45.168245,
+      "longitudine": 24.67214,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 23,
+      "nume": "Detașamentul de Pompieri",
+      "latitudine": 45.374819,
+      "longitudine": 27.056915,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 24,
+      "nume": "Detașamentul de Pompieri",
+      "latitudine": 46.867896,
+      "longitudine": 23.025965,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 25,
+      "nume": "Detașamentul de Pompieri",
+      "latitudine": 47.928142,
+      "longitudine": 23.893302,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 26,
+      "nume": "Detașamentul de Pompieri \"Băneasa\"",
+      "latitudine": 44.487421,
+      "longitudine": 26.093849,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 27,
+      "nume": "Detașamentul de Pompieri \"Mihai Vodă\"",
+      "latitudine": 44.433538,
+      "longitudine": 26.093117,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 28,
+      "nume": "Detașamentul de pompieri Apărătorii Patriei",
+      "latitudine": 44.387375,
+      "longitudine": 26.139745,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 29,
+      "nume": "Detașamentul de Pompieri Botoșani",
+      "latitudine": 47.752107,
+      "longitudine": 26.648056,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 30,
+      "nume": "Detașamentul de Pompieri Calafat",
+      "latitudine": 43.982008,
+      "longitudine": 22.93182,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 31,
+      "nume": "Detașamentul de Pompieri Caransebes",
+      "latitudine": 45.39191,
+      "longitudine": 22.230261,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 32,
+      "nume": "Detașamentul de Pompieri Caransebeș",
+      "latitudine": 45.391187,
+      "longitudine": 22.230317,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 33,
+      "nume": "Detașamentul de pompieri Constanța - Palas",
+      "latitudine": 44.172149,
+      "longitudine": 28.582539,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 34,
+      "nume": "Detașamentul de Pompieri Drobeta Tr. Severin",
+      "latitudine": 44.629313,
+      "longitudine": 22.673566,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 35,
+      "nume": "Detașamentul de Pompieri Drăgășani",
+      "latitudine": 44.655227,
+      "longitudine": 24.262719,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 36,
+      "nume": "Detașamentul de pompieri Fundeni",
+      "latitudine": 44.467672,
+      "longitudine": 26.152262,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 37,
+      "nume": "Detașamentul de Pompieri Gheorgheni",
+      "latitudine": 46.721679,
+      "longitudine": 25.590879,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 38,
+      "nume": "Detașamentul de Pompieri Grozavești",
+      "latitudine": 44.439013,
+      "longitudine": 26.057765,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 39,
+      "nume": "Detașamentul de Pompieri Lugoj",
+      "latitudine": 45.69568,
+      "longitudine": 21.925267,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 40,
+      "nume": "Detașamentul de Pompieri Lupeni",
+      "latitudine": 46.382683,
+      "longitudine": 25.219337,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 41,
+      "nume": "Detașamentul de Pompieri Miercurea-Ciuc",
+      "latitudine": 46.360194,
+      "longitudine": 25.81232,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 42,
+      "nume": "Detașamentul de Pompieri Onești",
+      "latitudine": 46.258251,
+      "longitudine": 26.773914,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 43,
+      "nume": "Detașamentul de Pompieri Piatra Neamț",
+      "latitudine": 46.925684,
+      "longitudine": 26.368638,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 44,
+      "nume": "Detașamentul de Pompieri Reghin",
+      "latitudine": 46.774928,
+      "longitudine": 24.693735,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 45,
+      "nume": "Detașamentul de Pompieri Resita",
+      "latitudine": 45.290436,
+      "longitudine": 21.923764,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 46,
+      "nume": "Detașamentul de Pompieri Roman",
+      "latitudine": 46.930655,
+      "longitudine": 26.921243,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 47,
+      "nume": "Detașamentul de Pompieri Roșiori de Vede",
+      "latitudine": 44.108043,
+      "longitudine": 24.98727,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 48,
+      "nume": "Detașamentul de pompieri Snagov",
+      "latitudine": 44.693776,
+      "longitudine": 26.145983,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 49,
+      "nume": "Detașamentul de Pompieri Turda",
+      "latitudine": 46.559605,
+      "longitudine": 23.797666,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 50,
+      "nume": "Detașamentul de Pompieri Vitan",
+      "latitudine": 44.417758,
+      "longitudine": 26.129901,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 51,
+      "nume": "Detașamentul de pompieri Vălenii de Munte - punctul de lucru Cheia",
+      "latitudine": 45.459983,
+      "longitudine": 25.934684,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 52,
+      "nume": "Detașamentul de pompieri “Bujoreni”",
+      "latitudine": 44.427345,
+      "longitudine": 26.026421,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 53,
+      "nume": "Detașamentul de Pompieri ”Pieptănari”",
+      "latitudine": 44.402066,
+      "longitudine": 26.093058,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 54,
+      "nume": "Detașamentul de Pompierii",
+      "latitudine": 46.806754,
+      "longitudine": 25.492921,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 55,
+      "nume": "Detașamentul de Pompierii Ojdula",
+      "latitudine": 45.987713,
+      "longitudine": 26.25564,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 56,
+      "nume": "Detașamentul I de Pompieri Brașov",
+      "latitudine": 45.656902,
+      "longitudine": 25.596058,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 57,
+      "nume": "Detașamentul II de Pompieri Brașov",
+      "latitudine": 45.637077,
+      "longitudine": 25.621433,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 58,
+      "nume": "Detașamentul Otopeni",
+      "latitudine": 44.572767,
+      "longitudine": 26.088968,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 59,
+      "nume": "Detașamentul Pompieri",
+      "latitudine": 46.17646,
+      "longitudine": 21.305934,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 60,
+      "nume": "Detașamentul Pompieri",
+      "latitudine": 46.668265,
+      "longitudine": 22.351203,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 61,
+      "nume": "DRIMAND CONSULT SRL",
+      "latitudine": 44.930346,
+      "longitudine": 25.459567,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 62,
+      "nume": "Farkaslaki tűzoltóság",
+      "latitudine": 46.382469,
+      "longitudine": 25.21928,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 63,
+      "nume": "Fire Station",
+      "latitudine": 45.648445,
+      "longitudine": 24.335259,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 64,
+      "nume": "Formație de Pompieri",
+      "latitudine": 45.731918,
+      "longitudine": 24.943353,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 65,
+      "nume": "Garda de Intervenție Blaj",
+      "latitudine": 46.176463,
+      "longitudine": 23.917054,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 66,
+      "nume": "Garda de Intervenție ISU Tinca",
+      "latitudine": 46.772328,
+      "longitudine": 21.9304,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 67,
+      "nume": "Garda de Intervenție Nr. 2 Bălan",
+      "latitudine": 46.646871,
+      "longitudine": 25.818202,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 68,
+      "nume": "Garda de Intervenție Nușfalău",
+      "latitudine": 47.212075,
+      "longitudine": 22.694482,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 69,
+      "nume": "Garda de Intervenție Ștefănești",
+      "latitudine": 47.79318,
+      "longitudine": 27.198871,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 70,
+      "nume": "Grup Voluntar Cricău",
+      "latitudine": 46.177706,
+      "longitudine": 23.564715,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 71,
+      "nume": "Grupul de intervenție nr.3 - Secția de pompieri nr. 3 Morarilor",
+      "latitudine": 44.438334,
+      "longitudine": 26.169504,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 72,
+      "nume": "Grupul de Pompieri Horea",
+      "latitudine": 46.546343,
+      "longitudine": 24.55595,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 73,
+      "nume": "Grupul Voluntarilor Șieu",
+      "latitudine": 46.999599,
+      "longitudine": 24.613987,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 74,
+      "nume": "Gyergyóremetei Önkéntes Tűzoltóegylet",
+      "latitudine": 46.793334,
+      "longitudine": 25.452443,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 75,
+      "nume": "I.S.U. Gorj",
+      "latitudine": 45.03888,
+      "longitudine": 23.303097,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 76,
+      "nume": "I.S.U. POMPIERI",
+      "latitudine": 47.638196,
+      "longitudine": 26.248514,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 77,
+      "nume": "IGSU Petroșani",
+      "latitudine": 45.404034,
+      "longitudine": 23.37181,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 78,
+      "nume": "Inspectoratul pentru Situatii de Urgenta \"Tara Barsei\" al judetului Brasov",
+      "latitudine": 45.656958,
+      "longitudine": 25.596207,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 79,
+      "nume": "INSPECTORATUL PENTRU SITUAŢII DE URGENŢĂ „VASILE GOLDIŞ” ARAD",
+      "latitudine": 46.176248,
+      "longitudine": 21.306622,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 80,
+      "nume": "Inspectoratul pentru Situații de Urgentă “SEMENIC” al Județului Caras-Severin",
+      "latitudine": 45.290971,
+      "longitudine": 21.923284,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 81,
+      "nume": "Inspectoratul pentru Situații de Urgență",
+      "latitudine": 44.314584,
+      "longitudine": 23.800391,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 82,
+      "nume": "Inspectoratul pentru Situații de Urgență",
+      "latitudine": 45.119856,
+      "longitudine": 24.368215,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 83,
+      "nume": "Inspectoratul pentru Situații de Urgență \"Anghel Saligny\"",
+      "latitudine": 45.694683,
+      "longitudine": 27.180678,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 84,
+      "nume": "Inspectoratul pentru Situații de Urgență \"Barbu Catargiu\"",
+      "latitudine": 44.569034,
+      "longitudine": 27.358103,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 85,
+      "nume": "Inspectoratul pentru Situații de Urgență \"Mihail Grigore Sturdza\" al Județului Iași",
+      "latitudine": 47.177651,
+      "longitudine": 27.57486,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 86,
+      "nume": "Inspectoratul pentru Situații de Urgență \"Mr. Constantin Ene\" al județului Bacău",
+      "latitudine": 46.550997,
+      "longitudine": 26.922242,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 87,
+      "nume": "Inspectoratul pentru Situații de Urgență 112",
+      "latitudine": 45.150014,
+      "longitudine": 26.824795,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 88,
+      "nume": "Inspectoratul pentru Situații de Urgență Avram Iancu",
+      "latitudine": 46.775715,
+      "longitudine": 23.60198,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 89,
+      "nume": "Inspectoratul pentru Situații de Urgență Crișana",
+      "latitudine": 47.051685,
+      "longitudine": 21.926319,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 90,
+      "nume": "Inspectoratul pentru Situații de Urgență Iancu de Hunedoara",
+      "latitudine": 45.879844,
+      "longitudine": 22.907789,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 91,
+      "nume": "Inspectoratul pentru Situații de Urgență „Dobrogea” al Județului Constanța",
+      "latitudine": 44.183939,
+      "longitudine": 28.649133,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 92,
+      "nume": "Inspectoratul pentru Situații de Urgență „Petrodava” al Județului Neamț",
+      "latitudine": 46.92526,
+      "longitudine": 26.368925,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 93,
+      "nume": "Inspectoratul Situațiilor de Urgență Coțușca",
+      "latitudine": 48.130994,
+      "longitudine": 26.853156,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 94,
+      "nume": "ISU Alexandria",
+      "latitudine": 43.971805,
+      "longitudine": 25.329545,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 95,
+      "nume": "ISU Arad - Punct de lucru Curtici",
+      "latitudine": 46.34254,
+      "longitudine": 21.304423,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 96,
+      "nume": "ISU Argeș",
+      "latitudine": 44.852917,
+      "longitudine": 24.870155,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 97,
+      "nume": "ISU Caracal",
+      "latitudine": 44.115699,
+      "longitudine": 24.363526,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 98,
+      "nume": "ISU Covasna",
+      "latitudine": 45.865791,
+      "longitudine": 25.794087,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 99,
+      "nume": "ISU Călărași",
+      "latitudine": 44.189605,
+      "longitudine": 27.35583,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 100,
+      "nume": "ISU Delta Tulcea",
+      "latitudine": 45.169623,
+      "longitudine": 28.78478,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 101,
+      "nume": "ISU Galați",
+      "latitudine": 45.447872,
+      "longitudine": 28.055864,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 102,
+      "nume": "ISU Ilfov",
+      "latitudine": 44.57161,
+      "longitudine": 26.070908,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 103,
+      "nume": "ISU Neamț",
+      "latitudine": 46.925195,
+      "longitudine": 26.368675,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 104,
+      "nume": "ISU Pompieri",
+      "latitudine": 45.841798,
+      "longitudine": 23.185946,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 105,
+      "nume": "ISU Sibiu",
+      "latitudine": 45.791412,
+      "longitudine": 24.137199,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 106,
+      "nume": "ISU Sălaj",
+      "latitudine": 47.199819,
+      "longitudine": 23.055767,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 107,
+      "nume": "Pompieri",
+      "latitudine": 43.757251,
+      "longitudine": 24.87715,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 108,
+      "nume": "Pompieri",
+      "latitudine": 43.785131,
+      "longitudine": 23.959241,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 109,
+      "nume": "Pompieri",
+      "latitudine": 44.079089,
+      "longitudine": 26.637363,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 110,
+      "nume": "Pompieri",
+      "latitudine": 44.727138,
+      "longitudine": 22.397294,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 111,
+      "nume": "Pompieri",
+      "latitudine": 45.179294,
+      "longitudine": 25.669816,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 112,
+      "nume": "Pompieri",
+      "latitudine": 45.409617,
+      "longitudine": 25.532337,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 113,
+      "nume": "Pompieri",
+      "latitudine": 45.590774,
+      "longitudine": 24.625563,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 114,
+      "nume": "Pompieri",
+      "latitudine": 45.590823,
+      "longitudine": 25.464431,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 115,
+      "nume": "pompieri",
+      "latitudine": 45.696021,
+      "longitudine": 25.45299,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 116,
+      "nume": "Pompieri",
+      "latitudine": 45.720531,
+      "longitudine": 25.773617,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 117,
+      "nume": "Pompieri",
+      "latitudine": 45.816887,
+      "longitudine": 24.965189,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 118,
+      "nume": "Pompieri",
+      "latitudine": 45.818461,
+      "longitudine": 24.84026,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 119,
+      "nume": "Pompieri",
+      "latitudine": 46.207829,
+      "longitudine": 26.439899,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 120,
+      "nume": "Pompieri",
+      "latitudine": 46.469887,
+      "longitudine": 25.187044,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 121,
+      "nume": "Pompieri",
+      "latitudine": 46.619707,
+      "longitudine": 23.701601,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 122,
+      "nume": "Pompieri",
+      "latitudine": 46.78579,
+      "longitudine": 24.129199,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 123,
+      "nume": "Pompieri",
+      "latitudine": 46.884634,
+      "longitudine": 24.653528,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 124,
+      "nume": "Pompieri",
+      "latitudine": 46.912368,
+      "longitudine": 22.675851,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 125,
+      "nume": "Pompieri",
+      "latitudine": 46.959056,
+      "longitudine": 27.937163,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 126,
+      "nume": "Pompieri",
+      "latitudine": 47.751906,
+      "longitudine": 26.648065,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 127,
+      "nume": "Pompieri Aghireșu",
+      "latitudine": 46.8704,
+      "longitudine": 23.239622,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 128,
+      "nume": "Pompieri Agnita",
+      "latitudine": 45.97769,
+      "longitudine": 24.624704,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 129,
+      "nume": "Pompieri Almașu",
+      "latitudine": 46.945982,
+      "longitudine": 23.13012,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 130,
+      "nume": "Pompieri Azuga",
+      "latitudine": 45.445063,
+      "longitudine": 25.565046,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 131,
+      "nume": "Pompieri Bichiș",
+      "latitudine": 46.373576,
+      "longitudine": 24.086903,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 132,
+      "nume": "Pompieri Bistrița",
+      "latitudine": 47.125048,
+      "longitudine": 24.475246,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 133,
+      "nume": "Pompieri Blaj",
+      "latitudine": 46.176397,
+      "longitudine": 23.917032,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 134,
+      "nume": "Pompieri Brezoi",
+      "latitudine": 45.342132,
+      "longitudine": 24.248514,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 135,
+      "nume": "Pompieri Brăduleț",
+      "latitudine": 45.276742,
+      "longitudine": 24.783609,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 136,
+      "nume": "Pompieri Brănișca",
+      "latitudine": 45.915022,
+      "longitudine": 22.772735,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 137,
+      "nume": "Pompieri Băicoi",
+      "latitudine": 45.035162,
+      "longitudine": 25.844302,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 138,
+      "nume": "Pompieri Băița",
+      "latitudine": 46.030538,
+      "longitudine": 22.891824,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 139,
+      "nume": "Pompieri Ciorani",
+      "latitudine": 44.823146,
+      "longitudine": 26.413675,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 140,
+      "nume": "Pompieri Ciprian Porumbescu",
+      "latitudine": 47.569419,
+      "longitudine": 26.06438,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 141,
+      "nume": "Pompieri Codlea",
+      "latitudine": 45.696106,
+      "longitudine": 25.453045,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 142,
+      "nume": "Pompieri Cojocna",
+      "latitudine": 46.750325,
+      "longitudine": 23.832474,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 143,
+      "nume": "Pompieri Cornești",
+      "latitudine": 47.033418,
+      "longitudine": 23.680734,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 144,
+      "nume": "Pompieri Crasna",
+      "latitudine": 47.163062,
+      "longitudine": 22.874048,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 145,
+      "nume": "Pompieri Crăciunești",
+      "latitudine": 46.477439,
+      "longitudine": 24.574139,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 146,
+      "nume": "Pompieri Câmpina",
+      "latitudine": 45.127343,
+      "longitudine": 25.730126,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 147,
+      "nume": "Pompieri Căianu construită anului (1963)",
+      "latitudine": 46.792721,
+      "longitudine": 23.918152,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 148,
+      "nume": "Pompieri Gilau",
+      "latitudine": 46.753122,
+      "longitudine": 23.38904,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 149,
+      "nume": "Pompieri Hunedoara",
+      "latitudine": 45.759497,
+      "longitudine": 22.901529,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 150,
+      "nume": "Pompieri Ilia",
+      "latitudine": 45.931572,
+      "longitudine": 22.663268,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 151,
+      "nume": "Pompieri Ip",
+      "latitudine": 47.230824,
+      "longitudine": 22.603461,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 152,
+      "nume": "Pompieri Lopadea Nouă",
+      "latitudine": 46.290997,
+      "longitudine": 23.822589,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 153,
+      "nume": "Pompieri Mediaș",
+      "latitudine": 46.161533,
+      "longitudine": 24.350036,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 154,
+      "nume": "Pompieri Misentea",
+      "latitudine": 46.329697,
+      "longitudine": 25.883798,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 155,
+      "nume": "Pompieri Mizil",
+      "latitudine": 44.99877,
+      "longitudine": 26.447696,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 156,
+      "nume": "Pompieri Mociu",
+      "latitudine": 46.799852,
+      "longitudine": 24.035749,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 157,
+      "nume": "Pompieri Panticeu",
+      "latitudine": 47.042138,
+      "longitudine": 23.556943,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 158,
+      "nume": "Pompieri Pâncota",
+      "latitudine": 46.330839,
+      "longitudine": 21.689077,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 159,
+      "nume": "Pompieri Pălatca",
+      "latitudine": 46.839702,
+      "longitudine": 23.986245,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 160,
+      "nume": "Pompieri Păsăreni",
+      "latitudine": 46.492373,
+      "longitudine": 24.694196,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 161,
+      "nume": "Pompieri Păuleni-Ciuc",
+      "latitudine": 46.39548,
+      "longitudine": 25.834146,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 162,
+      "nume": "Pompieri Rimetea",
+      "latitudine": 46.453274,
+      "longitudine": 23.567434,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 163,
+      "nume": "Pompieri Sighișoara",
+      "latitudine": 46.229695,
+      "longitudine": 24.818261,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 164,
+      "nume": "Pompieri Slatina",
+      "latitudine": 44.427888,
+      "longitudine": 24.375355,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 165,
+      "nume": "Pompieri Solca",
+      "latitudine": 47.697421,
+      "longitudine": 25.832054,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 166,
+      "nume": "Pompieri Suatu",
+      "latitudine": 46.771537,
+      "longitudine": 23.969262,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 167,
+      "nume": "Pompieri Tigveni",
+      "latitudine": 45.136323,
+      "longitudine": 24.559905,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 168,
+      "nume": "Pompieri Urlați",
+      "latitudine": 44.99422,
+      "longitudine": 26.230431,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 169,
+      "nume": "Pompieri Voluntari",
+      "latitudine": 43.914438,
+      "longitudine": 23.068124,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 170,
+      "nume": "Pompieri Șag",
+      "latitudine": 45.6525,
+      "longitudine": 21.164869,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 171,
+      "nume": "Pompieri și Jandarmeria",
+      "latitudine": 46.729121,
+      "longitudine": 24.70522,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 172,
+      "nume": "Pompierii",
+      "latitudine": 44.459064,
+      "longitudine": 26.36064,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 173,
+      "nume": "Pompierii",
+      "latitudine": 46.316094,
+      "longitudine": 25.293908,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 174,
+      "nume": "Pompierii",
+      "latitudine": 46.922545,
+      "longitudine": 25.346764,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 175,
+      "nume": "Pompierii (Tűzoltőság)",
+      "latitudine": 47.508299,
+      "longitudine": 22.144808,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 176,
+      "nume": "Pompierii -SMURD",
+      "latitudine": 45.668559,
+      "longitudine": 26.032042,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 177,
+      "nume": "Pompierii Aiud",
+      "latitudine": 46.309228,
+      "longitudine": 23.716415,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 178,
+      "nume": "Pompierii Mihai Viteazu",
+      "latitudine": 46.540007,
+      "longitudine": 23.745714,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 179,
+      "nume": "Pompierii Militari",
+      "latitudine": 45.763504,
+      "longitudine": 21.243741,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 180,
+      "nume": "Pompierii Orastioara de Sus",
+      "latitudine": 45.736474,
+      "longitudine": 23.171998,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 181,
+      "nume": "Pompierii Porumbenii Mari",
+      "latitudine": 46.27445,
+      "longitudine": 25.133293,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 182,
+      "nume": "Pompierii SMURD",
+      "latitudine": 45.415651,
+      "longitudine": 28.025696,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 183,
+      "nume": "Pompierii SMURD Cluj",
+      "latitudine": 46.776046,
+      "longitudine": 23.602016,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 184,
+      "nume": "Pompierii voluntari",
+      "latitudine": 47.095238,
+      "longitudine": 27.563099,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 185,
+      "nume": "Pompierii Voluntari Cobor- Asociația de Pompieri SISUR",
+      "latitudine": 45.943566,
+      "longitudine": 25.055228,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 186,
+      "nume": "Post de Pompieri",
+      "latitudine": 45.119636,
+      "longitudine": 24.368174,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 187,
+      "nume": "Post de Pompieri",
+      "latitudine": 45.791575,
+      "longitudine": 24.137395,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 188,
+      "nume": "Post Pompieri",
+      "latitudine": 47.645077,
+      "longitudine": 25.916936,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 189,
+      "nume": "PT Serviciul Voluntarilor Călimănești",
+      "latitudine": 45.241068,
+      "longitudine": 24.341928,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 190,
+      "nume": "Punct de Intervenție",
+      "latitudine": 45.303424,
+      "longitudine": 25.722386,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 191,
+      "nume": "Punct de Lucru Deda",
+      "latitudine": 46.947168,
+      "longitudine": 24.872716,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 192,
+      "nume": "Punct de lucru Pompieri Brusturoasa",
+      "latitudine": 46.522216,
+      "longitudine": 26.178443,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 193,
+      "nume": "Remiza PSI SVSU Paulesti",
+      "latitudine": 47.777436,
+      "longitudine": 22.925464,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 194,
+      "nume": "Remiză P.S.I",
+      "latitudine": 47.780217,
+      "longitudine": 25.716929,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 195,
+      "nume": "Remiză Pompieri Voluntari",
+      "latitudine": 45.764029,
+      "longitudine": 25.167368,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 196,
+      "nume": "RFFS",
+      "latitudine": 44.574712,
+      "longitudine": 26.097042,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 197,
+      "nume": "S.M.U.R.D",
+      "latitudine": 47.067195,
+      "longitudine": 24.475791,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 198,
+      "nume": "S.V.S.U. Șagu (formația de pompieri voluntari)",
+      "latitudine": 46.062797,
+      "longitudine": 21.285011,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 199,
+      "nume": "Sectia de Pompieri Expozitie",
+      "latitudine": 44.474468,
+      "longitudine": 26.064567,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 200,
+      "nume": "Secția de Pompieri Baia Mare",
+      "latitudine": 47.662218,
+      "longitudine": 23.5934,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 201,
+      "nume": "Secția de Pompieri Craiova",
+      "latitudine": 44.385594,
+      "longitudine": 23.724006,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 202,
+      "nume": "Secția de Pompieri Jibou",
+      "latitudine": 47.270799,
+      "longitudine": 23.256776,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 203,
+      "nume": "Secția de Pompieri Măcin",
+      "latitudine": 45.251309,
+      "longitudine": 28.137708,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 204,
+      "nume": "Secția de Pompieri Turceni",
+      "latitudine": 44.690389,
+      "longitudine": 23.387911,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 205,
+      "nume": "Secția de Pompieri Târgu Secuiesc",
+      "latitudine": 46.003302,
+      "longitudine": 26.131838,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 206,
+      "nume": "Secția de pompieri Târnăveni",
+      "latitudine": 46.333965,
+      "longitudine": 24.290112,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 207,
+      "nume": "Secția Pompieri Oravița",
+      "latitudine": 45.042993,
+      "longitudine": 21.681996,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 208,
+      "nume": "Secție de Pompieri Crișcior",
+      "latitudine": 46.118321,
+      "longitudine": 22.845974,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 209,
+      "nume": "Sediul de Pompierii al Voluntarilor din Giarmata",
+      "latitudine": 45.840087,
+      "longitudine": 21.316096,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 210,
+      "nume": "Serviciul de Ambulanță",
+      "latitudine": 44.921641,
+      "longitudine": 25.450603,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 211,
+      "nume": "Serviciul de Intervenție Săliște",
+      "latitudine": 45.795221,
+      "longitudine": 23.887439,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 212,
+      "nume": "Serviciul de Mașini de Pompieri",
+      "latitudine": 45.119907,
+      "longitudine": 24.367605,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 213,
+      "nume": "Serviciul de Mașini de Pompieri",
+      "latitudine": 45.791444,
+      "longitudine": 24.136712,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 214,
+      "nume": "Serviciul de Mașini de Pompierii Baia Mare",
+      "latitudine": 47.662327,
+      "longitudine": 23.59374,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 215,
+      "nume": "Serviciul de Pompieri Măneciu",
+      "latitudine": 45.317761,
+      "longitudine": 25.993326,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 216,
+      "nume": "Serviciul de Pompierii Brâncovenești",
+      "latitudine": 46.857141,
+      "longitudine": 24.759902,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 217,
+      "nume": "Serviciul Mobil de Urgență, Reanimare și Descarcerare",
+      "latitudine": 46.19725,
+      "longitudine": 27.362227,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 218,
+      "nume": "Serviciul pregătire pentru Intervenție și Reziliența Comunităților (SPIRC)",
+      "latitudine": 45.71565,
+      "longitudine": 21.234273,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 219,
+      "nume": "Serviciul public de pompieri civili",
+      "latitudine": 47.03152,
+      "longitudine": 23.916898,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 220,
+      "nume": "Serviciul Voluntar pentru Situatii de Urgenta Turnu Roșu",
+      "latitudine": 45.639426,
+      "longitudine": 24.298552,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 221,
+      "nume": "Serviciul Voluntar pentru Situații de Urgență",
+      "latitudine": 46.449562,
+      "longitudine": 24.233595,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 222,
+      "nume": "SMURD - Pompieri",
+      "latitudine": 47.853934,
+      "longitudine": 23.409826,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 223,
+      "nume": "Statia de Pompieri Alesd",
+      "latitudine": 47.053044,
+      "longitudine": 22.400873,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 224,
+      "nume": "Statia de Pompieri Brad",
+      "latitudine": 46.133603,
+      "longitudine": 22.782354,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 225,
+      "nume": "Staţia de Pompieri Scorniceşti",
+      "latitudine": 44.595824,
+      "longitudine": 24.54934,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 226,
+      "nume": "Stația de Intervenție Băișoara ISU",
+      "latitudine": 46.577473,
+      "longitudine": 23.462681,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 227,
+      "nume": "Stația de Pompieri",
+      "latitudine": 47.217355,
+      "longitudine": 27.006386,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 228,
+      "nume": "Stația de pompieri",
+      "latitudine": 47.347968,
+      "longitudine": 25.35921,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 229,
+      "nume": "Stația Pompierii (Tűzoltóság)",
+      "latitudine": 47.50766,
+      "longitudine": 22.143191,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 230,
+      "nume": "Stație de Pompieri",
+      "latitudine": 46.909532,
+      "longitudine": 24.501524,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 231,
+      "nume": "Stație de Pompieri",
+      "latitudine": 47.552444,
+      "longitudine": 25.892322,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 232,
+      "nume": "Stație Pompieri",
+      "latitudine": 45.866076,
+      "longitudine": 25.794272,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 233,
+      "nume": "Subunitate Intervenție Pompieri Militari Bunești Vâlcea",
+      "latitudine": 45.105717,
+      "longitudine": 24.200247,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 234,
+      "nume": "SVSU",
+      "latitudine": 48.186207,
+      "longitudine": 26.593312,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 235,
+      "nume": "SVSU Curtici",
+      "latitudine": 46.344786,
+      "longitudine": 21.308101,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 236,
+      "nume": "SVSU Macea",
+      "latitudine": 46.38594,
+      "longitudine": 21.30997,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 237,
+      "nume": "Tűzoltószertár",
+      "latitudine": 46.426647,
+      "longitudine": 25.152213,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 238,
+      "nume": "UM 0629",
+      "latitudine": 44.69084,
+      "longitudine": 26.082558,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 239,
+      "nume": "Unitate Pompieri",
+      "latitudine": 45.888783,
+      "longitudine": 23.793639,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 240,
+      "nume": "Unitatea de Pompieri Cristian",
+      "latitudine": 45.624919,
+      "longitudine": 25.480233,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 241,
+      "nume": "Unitatea de pompieri Novaci",
+      "latitudine": 45.17292,
+      "longitudine": 23.663393,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    },
+    {
+      "id": 242,
+      "nume": "Vatrogasni dom",
+      "latitudine": 45.875756,
+      "longitudine": 20.57217,
+      "cheie_osm": "amenity",
+      "valoare_osm": "fire_station",
+      "categorie_osm": "amenity=fire_station"
+    }
+  ],
+  "meta": {
+    "title": "Stații de pompieri din România - Descărcare gratuită",
+    "description": "Stații de pompieri din România — 242 înregistrări denumite, extrase din tile-urile OpenStreetMap la zoom 12 pentru teritoriul României publicate de EU-POIS/RO. Partiția este autoritativă la sursă pe coloana `t` (eticheta OSM `amenity=fire_station`), care are exact o valoare per înregistrare. Fiecare rând păstoră numele OSM verbatim și coordonatele WGS84 (6 zecimale). Au fost incluse doar înregistrările cu nume; nodurile fără nume nu constituie intrări de listă. 0 duplicat(e) exact(e) (nume + coordonate) au fost eliminate. Fără splituri pe județe: sursa nu conține niciun atribut administrativ, iar derivarea lui ar necesita point-in-polygon pe limite pe care acest depozit nu le livrează. Conține 242 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Stații de pompieri din România | ListBase",
+    "seo_description": "Descarcă Stații de pompieri din România — 242 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 242 înregistrări / 7 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

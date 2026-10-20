@@ -1,0 +1,391 @@
+{
+  "id": "ro-ilfov-unlocode",
+  "name": "Coduri UN/LOCODE — judeţul Ilfov (porturi, aeroporturi, terminale)",
+  "title": "Coduri UN/LOCODE — judeţul Ilfov (porturi, aeroporturi, terminale)",
+  "description": "Cele 10 locaţii UN/LOCODE din judeţul Ilfov, România — cod LOCODE, denumire, funcţii de transport, status şi coordonate.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "locode",
+      "label": "Locode",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_wo_diacritics",
+      "label": "Name Wo Diacritics",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_code",
+      "label": "Subdivision Code",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_name",
+      "label": "Subdivision Name",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_type",
+      "label": "Subdivision Type",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "status_description",
+      "label": "Status Description",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function",
+      "type": "string"
+    },
+    {
+      "key": "functions",
+      "label": "Functions",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "date_updated",
+      "label": "Date Updated",
+      "type": "string"
+    },
+    {
+      "key": "remarks",
+      "label": "Remarks",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet_name",
+      "label": "Judet Name",
+      "type": "string"
+    },
+    {
+      "key": "judet_source",
+      "label": "Judet Source",
+      "type": "string"
+    },
+    {
+      "key": "judet_alternativ_siruta",
+      "label": "Judet Alternativ Siruta",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "locode": "ROBTS",
+      "country": "RO",
+      "location": "BTS",
+      "name": "Branesti",
+      "name_wo_diacritics": "Branesti",
+      "subdivision_code": "IF",
+      "subdivision_name": "Ilfov",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4427N 02620E",
+      "latitude": 44.45,
+      "longitude": 26.3333,
+      "date_updated": "2015-01",
+      "remarks": "",
+      "judet_slug": "ilfov",
+      "judet_name": "Ilfov",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 2,
+      "locode": "ROCJA",
+      "country": "RO",
+      "location": "CJA",
+      "name": "Chiajna",
+      "name_wo_diacritics": "Chiajna",
+      "subdivision_code": "",
+      "subdivision_name": "",
+      "subdivision_type": "",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-23-----",
+      "functions": "Rail transport, Road transport",
+      "iata": "",
+      "coordinates": "4428N 02558E",
+      "latitude": 44.4667,
+      "longitude": 25.9667,
+      "date_updated": "2006-01",
+      "remarks": "",
+      "judet_slug": "ilfov",
+      "judet_name": "Ilfov",
+      "judet_source": "derived_name_join",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 3,
+      "locode": "ROCIO",
+      "country": "RO",
+      "location": "CIO",
+      "name": "Ciorogârla",
+      "name_wo_diacritics": "Ciorogarla",
+      "subdivision_code": "IF",
+      "subdivision_name": "Ilfov",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4426N 02553E",
+      "latitude": 44.4333,
+      "longitude": 25.8833,
+      "date_updated": "2017-07",
+      "remarks": "",
+      "judet_slug": "ilfov",
+      "judet_name": "Ilfov",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 4,
+      "locode": "ROBDM",
+      "country": "RO",
+      "location": "BDM",
+      "name": "Domnesti",
+      "name_wo_diacritics": "Domnesti",
+      "subdivision_code": "IF",
+      "subdivision_name": "Ilfov",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4424N 02555E",
+      "latitude": 44.4,
+      "longitude": 25.9167,
+      "date_updated": "2017-07",
+      "remarks": "",
+      "judet_slug": "ilfov",
+      "judet_name": "Ilfov",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 5,
+      "locode": "ROMGR",
+      "country": "RO",
+      "location": "MGR",
+      "name": "Magurele",
+      "name_wo_diacritics": "Magurele",
+      "subdivision_code": "IF",
+      "subdivision_name": "Ilfov",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4421N 02602E",
+      "latitude": 44.35,
+      "longitude": 26.0333,
+      "date_updated": "2015-01",
+      "remarks": "",
+      "judet_slug": "ilfov",
+      "judet_name": "Ilfov",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 6,
+      "locode": "ROOTI",
+      "country": "RO",
+      "location": "OTI",
+      "name": "Otopeni",
+      "name_wo_diacritics": "Otopeni",
+      "subdivision_code": "IF",
+      "subdivision_name": "Ilfov",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4433N 02604E",
+      "latitude": 44.55,
+      "longitude": 26.0667,
+      "date_updated": "2014-07",
+      "remarks": "",
+      "judet_slug": "ilfov",
+      "judet_name": "Ilfov",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 7,
+      "locode": "ROOTP",
+      "country": "RO",
+      "location": "OTP",
+      "name": "Otopeni Apt/Bucuresti",
+      "name_wo_diacritics": "Otopeni Apt/Bucuresti",
+      "subdivision_code": "IF",
+      "subdivision_name": "Ilfov",
+      "subdivision_type": "Departments",
+      "status": "AI",
+      "status_description": "Code adopted by international organisation (IATA or ECLAC)",
+      "function": "---4----",
+      "functions": "Air transport (airport)",
+      "iata": "",
+      "coordinates": "4434N 02605E",
+      "latitude": 44.5667,
+      "longitude": 26.0833,
+      "date_updated": "2014-07",
+      "remarks": "",
+      "judet_slug": "ilfov",
+      "judet_name": "Ilfov",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 8,
+      "locode": "ROSGV",
+      "country": "RO",
+      "location": "SGV",
+      "name": "Snagov",
+      "name_wo_diacritics": "Snagov",
+      "subdivision_code": "",
+      "subdivision_name": "",
+      "subdivision_type": "",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-23-----",
+      "functions": "Rail transport, Road transport",
+      "iata": "",
+      "coordinates": "4442N 02611E",
+      "latitude": 44.7,
+      "longitude": 26.1833,
+      "date_updated": "2006-01",
+      "remarks": "",
+      "judet_slug": "ilfov",
+      "judet_name": "Ilfov",
+      "judet_source": "derived_name_join",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 9,
+      "locode": "ROBNS",
+      "country": "RO",
+      "location": "BNS",
+      "name": "Tancabesti",
+      "name_wo_diacritics": "Tancabesti",
+      "subdivision_code": "IF",
+      "subdivision_name": "Ilfov",
+      "subdivision_type": "Departments",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4442N 02610E",
+      "latitude": 44.7,
+      "longitude": 26.1667,
+      "date_updated": "2018-01",
+      "remarks": "",
+      "judet_slug": "ilfov",
+      "judet_name": "Ilfov",
+      "judet_source": "source_subdivision",
+      "judet_alternativ_siruta": ""
+    },
+    {
+      "id": 10,
+      "locode": "ROVAR",
+      "country": "RO",
+      "location": "VAR",
+      "name": "Voluntari",
+      "name_wo_diacritics": "Voluntari",
+      "subdivision_code": "",
+      "subdivision_name": "",
+      "subdivision_type": "",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4429N 02611E",
+      "latitude": 44.4833,
+      "longitude": 26.1833,
+      "date_updated": "2013-01",
+      "remarks": "",
+      "judet_slug": "ilfov",
+      "judet_name": "Ilfov",
+      "judet_source": "derived_name_join",
+      "judet_alternativ_siruta": ""
+    }
+  ],
+  "meta": {
+    "title": "Coduri UN/LOCODE — judeţul Ilfov (porturi, aeroporturi, terminale) - Descărcare gratuită",
+    "description": "Cele 10 locaţii UN/LOCODE din judeţul Ilfov, România — cod LOCODE, denumire, funcţii de transport, status şi coordonate. Conține 10 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Coduri UN/LOCODE — judeţul Ilfov (porturi, aeroporturi, terminale) | ListBase",
+    "seo_description": "Descarcă Coduri UN/LOCODE — judeţul Ilfov (porturi, aeroporturi, terminale) — 10 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 10 înregistrări / 23 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

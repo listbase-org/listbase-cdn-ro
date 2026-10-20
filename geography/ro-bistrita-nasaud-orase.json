@@ -1,0 +1,151 @@
+{
+  "id": "ro-bistrita-nasaud-orase",
+  "name": "Orașele și municipiile județului Bistrița-Năsăud",
+  "title": "Orașele și municipiile județului Bistrița-Năsăud",
+  "description": "Lista celor 4 de orașe, municipii din județul Bistrița-Năsăud (BN) — unități administrativ-teritoriale urbane de nivel 2 conform SIRUTA. Reședința de județ este marcată cu is_resedinta_judet=true.",
+  "category": "geography",
+  "source": "https://github.com/ionelmc/django-siruta",
+  "source_url": "https://github.com/ionelmc/django-siruta",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "siruta_code",
+      "label": "Siruta Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_official",
+      "label": "Name Official",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet_id",
+      "label": "Judet Id",
+      "type": "number"
+    },
+    {
+      "key": "judet_name",
+      "label": "Judet Name",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "tip_code",
+      "label": "Tip Code",
+      "type": "number"
+    },
+    {
+      "key": "tip_name",
+      "label": "Tip Name",
+      "type": "string"
+    },
+    {
+      "key": "is_resedinta_judet",
+      "label": "Is Resedinta Judet",
+      "type": "boolean"
+    },
+    {
+      "key": "regiune_id",
+      "label": "Regiune Id",
+      "type": "number"
+    },
+    {
+      "key": "nuts3",
+      "label": "Nuts3",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "siruta_code": 32394,
+      "name": "Bistrița",
+      "name_official": "MUNICIPIUL BISTRIȚA",
+      "slug": "bistrita",
+      "judet_id": 6,
+      "judet_name": "Bistrița-Năsăud",
+      "judet_slug": "bistrita-nasaud",
+      "iso_3166_2": "RO-BN",
+      "tip_code": 1,
+      "tip_name": "municipiu reședință de județ",
+      "is_resedinta_judet": true,
+      "regiune_id": 6,
+      "nuts3": "RO112"
+    },
+    {
+      "siruta_code": 32483,
+      "name": "Beclean",
+      "name_official": "ORAȘ BECLEAN",
+      "slug": "beclean",
+      "judet_id": 6,
+      "judet_name": "Bistrița-Năsăud",
+      "judet_slug": "bistrita-nasaud",
+      "iso_3166_2": "RO-BN",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 6,
+      "nuts3": "RO112"
+    },
+    {
+      "siruta_code": 32544,
+      "name": "Năsăud",
+      "name_official": "ORAȘ NĂSĂUD",
+      "slug": "nasaud",
+      "judet_id": 6,
+      "judet_name": "Bistrița-Năsăud",
+      "judet_slug": "bistrita-nasaud",
+      "iso_3166_2": "RO-BN",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 6,
+      "nuts3": "RO112"
+    },
+    {
+      "siruta_code": 32599,
+      "name": "Sângeorz-Băi",
+      "name_official": "ORAȘ SÂNGEORZ-BĂI",
+      "slug": "sangeorz-bai",
+      "judet_id": 6,
+      "judet_name": "Bistrița-Năsăud",
+      "judet_slug": "bistrita-nasaud",
+      "iso_3166_2": "RO-BN",
+      "tip_code": 2,
+      "tip_name": "oraș",
+      "is_resedinta_judet": false,
+      "regiune_id": 6,
+      "nuts3": "RO112"
+    }
+  ],
+  "meta": {
+    "title": "Orașele și municipiile județului Bistrița-Năsăud - Descărcare gratuită",
+    "description": "Lista celor 4 de orașe, municipii din județul Bistrița-Năsăud (BN) — unități administrativ-teritoriale urbane de nivel 2 conform SIRUTA. Reședința de județ este marcată cu is_resedinta_judet=true. Conține 4 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Orașele și municipiile județului Bistrița-Năsăud | ListBase",
+    "seo_description": "Descarcă Orașele și municipiile județului Bistrița-Năsăud — 4 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 4 înregistrări / 13 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: https://github.com/ionelmc/django-siruta"
+    ]
+  }
+}

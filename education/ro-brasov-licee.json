@@ -1,0 +1,292 @@
+{
+  "id": "ro-brasov-licee",
+  "name": "Licee si colegii din judetul Brașov",
+  "title": "Licee si colegii din judetul Brașov",
+  "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Brașov (41 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "COLEGIUL DE ȘTIINȚE \"GRIGORE ANTIPA\" BRAȘOV",
+      "slug": "colegiul-de-stiinte-grigore-antipa-brasov",
+      "judet": "BRAȘOV",
+      "judet_slug": "brasov"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL DE INFORMATICĂ \"GRIGORE MOISIL\" BRAȘOV",
+      "slug": "colegiul-national-de-informatica-grigore-moisil-brasov",
+      "judet": "BRAȘOV",
+      "judet_slug": "brasov"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL ECONOMIC \"ANDREI BÂRSEANU\" BRAȘOV",
+      "slug": "colegiul-national-economic-andrei-barseanu-brasov",
+      "judet": "BRAȘOV",
+      "judet_slug": "brasov"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"ANDREI ȘAGUNA\" BRAȘOV",
+      "slug": "colegiul-national-andrei-saguna-brasov",
+      "judet": "BRAȘOV",
+      "judet_slug": "brasov"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"APRILY LAJOS\" BRAȘOV",
+      "slug": "colegiul-national-aprily-lajos-brasov",
+      "judet": "BRAȘOV",
+      "judet_slug": "brasov"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"DOAMNA STANCA\" FĂGĂRAȘ",
+      "slug": "colegiul-national-doamna-stanca-fagaras",
+      "judet": "BRAȘOV",
+      "judet_slug": "brasov"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"DR. IOAN MEȘOTĂ\" BRAȘOV",
+      "slug": "colegiul-national-dr-ioan-mesota-brasov",
+      "judet": "BRAȘOV",
+      "judet_slug": "brasov"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"RADU NEGRU\" FĂGĂRAȘ",
+      "slug": "colegiul-national-radu-negru-fagaras",
+      "judet": "BRAȘOV",
+      "judet_slug": "brasov"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"UNIREA\" BRAȘOV",
+      "slug": "colegiul-national-unirea-brasov",
+      "judet": "BRAȘOV",
+      "judet_slug": "brasov"
+    },
+    {
+      "nume": "COLEGIUL PENTRU AGRICULTURĂ ȘI INDUSTRIE ALIMENTARĂ \"ȚARA BÂRSEI\" PREJMER",
+      "slug": "colegiul-pentru-agricultura-si-industrie-alimentara-tara-barsei-prejmer",
+      "judet": "BRAȘOV",
+      "judet_slug": "brasov"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC DE TRANSPORTURI BRAȘOV",
+      "slug": "colegiul-tehnic-de-transporturi-brasov",
+      "judet": "BRAȘOV",
+      "judet_slug": "brasov"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"ALEXANDRU BĂRBAT\" VICTORIA",
+      "slug": "colegiul-tehnic-alexandru-barbat-victoria",
+      "judet": "BRAȘOV",
+      "judet_slug": "brasov"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"MARIA BAIULESCU\" BRAȘOV",
+      "slug": "colegiul-tehnic-maria-baiulescu-brasov",
+      "judet": "BRAȘOV",
+      "judet_slug": "brasov"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"MIRCEA CRISTEA\" BRAȘOV",
+      "slug": "colegiul-tehnic-mircea-cristea-brasov",
+      "judet": "BRAȘOV",
+      "judet_slug": "brasov"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"REMUS RĂDULEȚ\" BRAȘOV",
+      "slug": "colegiul-tehnic-remus-radulet-brasov",
+      "judet": "BRAȘOV",
+      "judet_slug": "brasov"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"SIMION MEHEDINȚI\" CODLEA",
+      "slug": "colegiul-tehnic-simion-mehedinti-codlea",
+      "judet": "BRAȘOV",
+      "judet_slug": "brasov"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"TRANSILVANIA\" BRAȘOV",
+      "slug": "colegiul-tehnic-transilvania-brasov",
+      "judet": "BRAȘOV",
+      "judet_slug": "brasov"
+    },
+    {
+      "nume": "COLEGIUL \"AUREL VIJOLI\" FĂGĂRAȘ",
+      "slug": "colegiul-aurel-vijoli-fagaras",
+      "judet": "BRAȘOV",
+      "judet_slug": "brasov"
+    },
+    {
+      "nume": "COLEGIUL \"EMIL RACOVIȚĂ\" BRAȘOV",
+      "slug": "colegiul-emil-racovita-brasov",
+      "judet": "BRAȘOV",
+      "judet_slug": "brasov"
+    },
+    {
+      "nume": "COLEGIUL \"NICOLAE TITULESCU\" BRAȘOV",
+      "slug": "colegiul-nicolae-titulescu-brasov",
+      "judet": "BRAȘOV",
+      "judet_slug": "brasov"
+    },
+    {
+      "nume": "LICEUL CU PROGRAM SPORTIV BRAȘOV",
+      "slug": "liceul-cu-program-sportiv-brasov",
+      "judet": "BRAȘOV",
+      "judet_slug": "brasov"
+    },
+    {
+      "nume": "LICEUL DE ARTE PLASTICE \"HANS MATTIS-TEUTSCH\" BRAȘOV",
+      "slug": "liceul-de-arte-plastice-hans-mattis-teutsch-brasov",
+      "judet": "BRAȘOV",
+      "judet_slug": "brasov"
+    },
+    {
+      "nume": "LICEUL DE MUZICĂ \"TUDOR CIORTEA\" BRAȘOV",
+      "slug": "liceul-de-muzica-tudor-ciortea-brasov",
+      "judet": "BRAȘOV",
+      "judet_slug": "brasov"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC RÂȘNOV",
+      "slug": "liceul-tehnologic-rasnov",
+      "judet": "BRAȘOV",
+      "judet_slug": "brasov"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC SILVIC \"DR. NICOLAE RUCĂREANU\" BRAȘOV",
+      "slug": "liceul-tehnologic-silvic-dr-nicolae-rucareanu-brasov",
+      "judet": "BRAȘOV",
+      "judet_slug": "brasov"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"DR. IOAN ȘENCHEA\" FĂGĂRAȘ",
+      "slug": "liceul-tehnologic-dr-ioan-senchea-fagaras",
+      "judet": "BRAȘOV",
+      "judet_slug": "brasov"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"MALAXA\" ZĂRNEȘTI",
+      "slug": "liceul-tehnologic-malaxa-zarnesti",
+      "judet": "BRAȘOV",
+      "judet_slug": "brasov"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"SEXTIL PUȘCARIU\" BRAN",
+      "slug": "liceul-tehnologic-sextil-puscariu-bran",
+      "judet": "BRAȘOV",
+      "judet_slug": "brasov"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"VICTOR JINGA\" SĂCELE",
+      "slug": "liceul-tehnologic-victor-jinga-sacele",
+      "judet": "BRAȘOV",
+      "judet_slug": "brasov"
+    },
+    {
+      "nume": "LICEUL TEOLOGIC ORTODOX \"SF. CONSTANTIN BRÂNCOVEANU\" FĂGĂRAȘ",
+      "slug": "liceul-teologic-ortodox-sf-constantin-brancoveanu-fagaras",
+      "judet": "BRAȘOV",
+      "judet_slug": "brasov"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"GEORGE MOROIANU\" SĂCELE",
+      "slug": "liceul-teoretic-george-moroianu-sacele",
+      "judet": "BRAȘOV",
+      "judet_slug": "brasov"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"I. C. DRĂGUȘANU\" VICTORIA",
+      "slug": "liceul-teoretic-i-c-dragusanu-victoria",
+      "judet": "BRAȘOV",
+      "judet_slug": "brasov"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"IOAN PASCU\" CODLEA",
+      "slug": "liceul-teoretic-ioan-pascu-codlea",
+      "judet": "BRAȘOV",
+      "judet_slug": "brasov"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"JOHANNES HONTERUS\" BRAȘOV",
+      "slug": "liceul-teoretic-johannes-honterus-brasov",
+      "judet": "BRAȘOV",
+      "judet_slug": "brasov"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"MIHAIL SĂULESCU\" PREDEAL",
+      "slug": "liceul-teoretic-mihail-saulescu-predeal",
+      "judet": "BRAȘOV",
+      "judet_slug": "brasov"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"MITROPOLIT IOAN MEȚIANU\" ZĂRNEȘTI",
+      "slug": "liceul-teoretic-mitropolit-ioan-metianu-zarnesti",
+      "judet": "BRAȘOV",
+      "judet_slug": "brasov"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"ZAJZONI RAB ISTVAN\" SĂCELE",
+      "slug": "liceul-teoretic-zajzoni-rab-istvan-sacele",
+      "judet": "BRAȘOV",
+      "judet_slug": "brasov"
+    },
+    {
+      "nume": "LICEUL \"ANDREI MUREȘANU\" BRAȘOV",
+      "slug": "liceul-andrei-muresanu-brasov",
+      "judet": "BRAȘOV",
+      "judet_slug": "brasov"
+    },
+    {
+      "nume": "LICEUL \"PETRU RAREȘ\" FELDIOARA",
+      "slug": "liceul-petru-rares-feldioara",
+      "judet": "BRAȘOV",
+      "judet_slug": "brasov"
+    },
+    {
+      "nume": "LICEUL \"ȘT. O. IOSIF\" RUPEA",
+      "slug": "liceul-st-o-iosif-rupea",
+      "judet": "BRAȘOV",
+      "judet_slug": "brasov"
+    },
+    {
+      "nume": "ȘCOALA PROFESIONALĂ GERMANĂ \"KRONSTADT\" BRAȘOV",
+      "slug": "scoala-profesionala-germana-kronstadt-brasov",
+      "judet": "BRAȘOV",
+      "judet_slug": "brasov"
+    }
+  ],
+  "meta": {
+    "title": "Licee si colegii din judetul Brașov - Descărcare gratuită",
+    "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Brașov (41 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor. Conține 41 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Licee si colegii din judetul Brașov | ListBase",
+    "seo_description": "Descarcă Licee si colegii din judetul Brașov — 41 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 41 înregistrări / 4 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

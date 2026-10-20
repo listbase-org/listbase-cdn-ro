@@ -1,0 +1,274 @@
+{
+  "id": "ro-harghita-licee",
+  "name": "Licee si colegii din judetul Harghita",
+  "title": "Licee si colegii din judetul Harghita",
+  "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Harghita (38 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "judet_slug",
+      "label": "Judet Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "COLEGIUL NAȚIONAL \"MIHAI EMINESCU\" TOPLITA",
+      "slug": "colegiul-national-mihai-eminescu-toplita",
+      "judet": "HARGHITA",
+      "judet_slug": "harghita"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"MÁRTON ÁRON\" MIERCUREA CIUC",
+      "slug": "colegiul-national-marton-aron-miercurea-ciuc",
+      "judet": "HARGHITA",
+      "judet_slug": "harghita"
+    },
+    {
+      "nume": "COLEGIUL NAȚIONAL \"OCTAVIAN GOGA\" MIERCUREA CIUC",
+      "slug": "colegiul-national-octavian-goga-miercurea-ciuc",
+      "judet": "HARGHITA",
+      "judet_slug": "harghita"
+    },
+    {
+      "nume": "COLEGIUL REFORMAT \"BACZKAMADARASI KIS GERGELY\" ODORHEIU SECUIESC",
+      "slug": "colegiul-reformat-baczkamadarasi-kis-gergely-odorheiu-secuiesc",
+      "judet": "HARGHITA",
+      "judet_slug": "harghita"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"BATTHYÁNY IGNÁC\" GHEORGHENI",
+      "slug": "colegiul-tehnic-batthyany-ignac-gheorgheni",
+      "judet": "HARGHITA",
+      "judet_slug": "harghita"
+    },
+    {
+      "nume": "COLEGIUL TEHNIC \"BÁNYAI JÁNOS\" ODORHEIU SECUIESC",
+      "slug": "colegiul-tehnic-banyai-janos-odorheiu-secuiesc",
+      "judet": "HARGHITA",
+      "judet_slug": "harghita"
+    },
+    {
+      "nume": "LICEUL DE ARTE \"DR. PALLÓ IMRE\" ODORHEIU SECUIESC",
+      "slug": "liceul-de-arte-dr-pallo-imre-odorheiu-secuiesc",
+      "judet": "HARGHITA",
+      "judet_slug": "harghita"
+    },
+    {
+      "nume": "LICEUL DE ARTE \"NAGY ISTVÁN\" MIERCUREA CIUC",
+      "slug": "liceul-de-arte-nagy-istvan-miercurea-ciuc",
+      "judet": "HARGHITA",
+      "judet_slug": "harghita"
+    },
+    {
+      "nume": "LICEUL PEDAGOGIC \"BENEDEK ELEK\" ODORHEIU SECUIESC",
+      "slug": "liceul-pedagogic-benedek-elek-odorheiu-secuiesc",
+      "judet": "HARGHITA",
+      "judet_slug": "harghita"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC CORBU",
+      "slug": "liceul-tehnologic-corbu",
+      "judet": "HARGHITA",
+      "judet_slug": "harghita"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC CORUND",
+      "slug": "liceul-tehnologic-corund",
+      "judet": "HARGHITA",
+      "judet_slug": "harghita"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"EÖTVÖS JÓZSEF\" ODORHEIU SECUIESC",
+      "slug": "liceul-tehnologic-eotvos-jozsef-odorheiu-secuiesc",
+      "judet": "HARGHITA",
+      "judet_slug": "harghita"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"FOGARASY MIHÁLY\" GHEORGHENI",
+      "slug": "liceul-tehnologic-fogarasy-mihaly-gheorgheni",
+      "judet": "HARGHITA",
+      "judet_slug": "harghita"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"GÁBOR ÁRON\" VLAHITA",
+      "slug": "liceul-tehnologic-gabor-aron-vlahita",
+      "judet": "HARGHITA",
+      "judet_slug": "harghita"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"JOANNES KÁJONI\" MIERCUREA CIUC",
+      "slug": "liceul-tehnologic-joannes-kajoni-miercurea-ciuc",
+      "judet": "HARGHITA",
+      "judet_slug": "harghita"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"KÓS KÁROLY\" MIERCUREA CIUC",
+      "slug": "liceul-tehnologic-kos-karoly-miercurea-ciuc",
+      "judet": "HARGHITA",
+      "judet_slug": "harghita"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"KÓS KÁROLY\" ODORHEIU SECUIESC",
+      "slug": "liceul-tehnologic-kos-karoly-odorheiu-secuiesc",
+      "judet": "HARGHITA",
+      "judet_slug": "harghita"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"LIVIU REBREANU\" BALAN",
+      "slug": "liceul-tehnologic-liviu-rebreanu-balan",
+      "judet": "HARGHITA",
+      "judet_slug": "harghita"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"PETOFI SÁNDOR\" DANESTI",
+      "slug": "liceul-tehnologic-petofi-sandor-danesti",
+      "judet": "HARGHITA",
+      "judet_slug": "harghita"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"PUSKÁS TIVADAR\" DITRAU",
+      "slug": "liceul-tehnologic-puskas-tivadar-ditrau",
+      "judet": "HARGHITA",
+      "judet_slug": "harghita"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"SZÉKELY KÁROLY\" MIERCUREA CIUC",
+      "slug": "liceul-tehnologic-szekely-karoly-miercurea-ciuc",
+      "judet": "HARGHITA",
+      "judet_slug": "harghita"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"SÖVÉR ELEK\" JOSENI",
+      "slug": "liceul-tehnologic-sover-elek-joseni",
+      "judet": "HARGHITA",
+      "judet_slug": "harghita"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"TIVAI NAGY IMRE\" SÂNMARTIN",
+      "slug": "liceul-tehnologic-tivai-nagy-imre-sanmartin",
+      "judet": "HARGHITA",
+      "judet_slug": "harghita"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"VENCZEL JÓZSEF\" MIERCUREA CIUC",
+      "slug": "liceul-tehnologic-venczel-jozsef-miercurea-ciuc",
+      "judet": "HARGHITA",
+      "judet_slug": "harghita"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"ZEYK DOMOKOS\" CRISTURU SECUIESC",
+      "slug": "liceul-tehnologic-zeyk-domokos-cristuru-secuiesc",
+      "judet": "HARGHITA",
+      "judet_slug": "harghita"
+    },
+    {
+      "nume": "LICEUL TEHNOLOGIC \"ZIMMETHAUSEN\" BORSEC",
+      "slug": "liceul-tehnologic-zimmethausen-borsec",
+      "judet": "HARGHITA",
+      "judet_slug": "harghita"
+    },
+    {
+      "nume": "LICEUL TEOLOGIC ROMANO-CATOLIC \"SEGITO MÁRIA\" MIERCUREA CIUC",
+      "slug": "liceul-teologic-romano-catolic-segito-maria-miercurea-ciuc",
+      "judet": "HARGHITA",
+      "judet_slug": "harghita"
+    },
+    {
+      "nume": "LICEUL TEOLOGIC ROMANO-CATOLIC \"SZENT ERZSÉBET\" LUNCA DE SUS",
+      "slug": "liceul-teologic-romano-catolic-szent-erzsebet-lunca-de-sus",
+      "judet": "HARGHITA",
+      "judet_slug": "harghita"
+    },
+    {
+      "nume": "LICEUL TEOLOGIC UNITARIAN \"BERDE MOZES\" CRISTURU SECUIESC",
+      "slug": "liceul-teologic-unitarian-berde-mozes-cristuru-secuiesc",
+      "judet": "HARGHITA",
+      "judet_slug": "harghita"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"DR. P. BOROS FORTUNAT\" ZETEA",
+      "slug": "liceul-teoretic-dr-p-boros-fortunat-zetea",
+      "judet": "HARGHITA",
+      "judet_slug": "harghita"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"KEMÉNY JÁNOS\" TOPLITA",
+      "slug": "liceul-teoretic-kemeny-janos-toplita",
+      "judet": "HARGHITA",
+      "judet_slug": "harghita"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"O. C.TASLAUANU\" TOPLITA",
+      "slug": "liceul-teoretic-o-c-taslauanu-toplita",
+      "judet": "HARGHITA",
+      "judet_slug": "harghita"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"ORBÁN BALÁZS\" CRISTURU SECUIESC",
+      "slug": "liceul-teoretic-orban-balazs-cristuru-secuiesc",
+      "judet": "HARGHITA",
+      "judet_slug": "harghita"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"SALAMON ERNO\" GHEORGHENI",
+      "slug": "liceul-teoretic-salamon-erno-gheorgheni",
+      "judet": "HARGHITA",
+      "judet_slug": "harghita"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"SFÂNTU NICOLAE\" GHEORGHENI",
+      "slug": "liceul-teoretic-sfantu-nicolae-gheorgheni",
+      "judet": "HARGHITA",
+      "judet_slug": "harghita"
+    },
+    {
+      "nume": "LICEUL TEORETIC \"TAMÁSI ÁRON\" ODORHEIU SECUIESC",
+      "slug": "liceul-teoretic-tamasi-aron-odorheiu-secuiesc",
+      "judet": "HARGHITA",
+      "judet_slug": "harghita"
+    },
+    {
+      "nume": "LICEUL \"MARIN PREDA\" ODORHEIU SECUIESC",
+      "slug": "liceul-marin-preda-odorheiu-secuiesc",
+      "judet": "HARGHITA",
+      "judet_slug": "harghita"
+    },
+    {
+      "nume": "LICEUL \"MIRON CRISTEA\" SUBCETATE",
+      "slug": "liceul-miron-cristea-subcetate",
+      "judet": "HARGHITA",
+      "judet_slug": "harghita"
+    }
+  ],
+  "meta": {
+    "title": "Licee si colegii din judetul Harghita - Descărcare gratuită",
+    "description": "Lista liceelor, colegiilor si grupurilor scolare din judetul Harghita (38 unitati de invatamant secundar/preuniversitar). Extrasa din setul de date rennokki/romania.json (json/institutions.json), compilat de Consiliul National al Elevilor. Conține 38 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Licee si colegii din judetul Harghita | ListBase",
+    "seo_description": "Descarcă Licee si colegii din judetul Harghita — 38 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 38 înregistrări / 4 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

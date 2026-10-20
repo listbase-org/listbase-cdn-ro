@@ -1,0 +1,93 @@
+{
+  "id": "ro-sibiu-banci",
+  "name": "Bănci în Sibiu — coduri SWIFT/BIC",
+  "title": "Bănci în Sibiu — coduri SWIFT/BIC",
+  "description": "Instituții bancare și financiare înregistrate SWIFT/BIC cu sediul în Sibiu, România (6 înregistrări). Subset al listei naționale `ro-banci` (263 înregistrări), grupat după câmpul `city` din sursă. Șirul literal din sursă este \"SIBIU\" — păstrat verbatim, fără diacritice și cu majuscule, exact așa cum este livrat de sursă; nu a fost tradus, normalizat sau completat cu diacritice. Câmpuri: id, bank, city, branch, swift_code.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 107,
+      "bank": "BANCA TRANSILVANIA S.A.",
+      "city": "SIBIU",
+      "branch": "(SIBIU BRANCH)",
+      "swift_code": "BTRLRO21SB2"
+    },
+    {
+      "id": 108,
+      "bank": "BANCA TRANSILVANIA S.A.",
+      "city": "SIBIU",
+      "branch": "(SIBIU BRANCH)",
+      "swift_code": "BTRLRO22SBA"
+    },
+    {
+      "id": 151,
+      "bank": "CARPATICA INVEST SA",
+      "city": "SIBIU",
+      "branch": "",
+      "swift_code": "CRNVRO21"
+    },
+    {
+      "id": 153,
+      "bank": "CASA ROMANA DE COMPENSATIE S.A.",
+      "city": "SIBIU",
+      "branch": "",
+      "swift_code": "CSRCRO21"
+    },
+    {
+      "id": 215,
+      "bank": "PATRIA BANK S.A.",
+      "city": "SIBIU",
+      "branch": "",
+      "swift_code": "CARPRO22"
+    },
+    {
+      "id": 230,
+      "bank": "S.C. DEPOZITARUL SIBEX S.A.",
+      "city": "SIBIU",
+      "branch": "",
+      "swift_code": "DESXRO21"
+    }
+  ],
+  "meta": {
+    "title": "Bănci în Sibiu — coduri SWIFT/BIC - Descărcare gratuită",
+    "description": "Instituții bancare și financiare înregistrate SWIFT/BIC cu sediul în Sibiu, România (6 înregistrări). Subset al listei naționale `ro-banci` (263 înregistrări), grupat după câmpul `city` din sursă. Șirul literal din sursă este \"SIBIU\" — păstrat verbatim, fără diacritice și cu majuscule, exact așa cum este livrat de sursă; nu a fost tradus, normalizat sau completat cu diacritice. Câmpuri: id, bank, city, branch, swift_code. Conține 6 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Bănci în Sibiu — coduri SWIFT/BIC | ListBase",
+    "seo_description": "Descarcă Bănci în Sibiu — coduri SWIFT/BIC — 6 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 6 înregistrări / 5 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}

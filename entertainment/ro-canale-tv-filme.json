@@ -1,0 +1,271 @@
+{
+  "id": "ro-canale-tv-filme",
+  "name": "Canale TV de filme din România (Movies TV channels)",
+  "title": "Canale TV de filme din România (Movies TV channels)",
+  "description": "Canalele de televiziune din România din categoria „movies” (de filme) — 12 canale din registrul deschis iptv-org/database. Include numele canalului, denumiri alternative, rețeaua, proprietarii, categoriile, data lansării și a închiderii, precum și site-ul oficial.",
+  "category": "entertainment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "date"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "date"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "BollywoodClassic.ro",
+      "name": "Bollywood Classic",
+      "alt_names": "Bollywood Clasic",
+      "network": "",
+      "owners": "",
+      "country": "RO",
+      "categories": "movies, classic",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.bollywoodtv.ro/"
+    },
+    {
+      "id": 2,
+      "channel_id": "BollywoodFilm.ro",
+      "name": "Bollywood Film",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "RO",
+      "categories": "movies, classic",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.bollywoodtv.ro/"
+    },
+    {
+      "id": 3,
+      "channel_id": "BollywoodHD.ro",
+      "name": "Bollywood HD",
+      "alt_names": "",
+      "network": "",
+      "owners": "ISG Media",
+      "country": "RO",
+      "categories": "movies",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.isgmedia.com/channels.php?channel=bollywood-hd"
+    },
+    {
+      "id": 4,
+      "channel_id": "BollywoodTV.ro",
+      "name": "Bollywood TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "RO",
+      "categories": "movies",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.bollywoodtv.ro/"
+    },
+    {
+      "id": 5,
+      "channel_id": "CineMaraton.ro",
+      "name": "CineMaraton",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "RO",
+      "categories": "movies",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.cinemaraton.ro/"
+    },
+    {
+      "id": 6,
+      "channel_id": "FilmNow.ro",
+      "name": "Film Now",
+      "alt_names": "",
+      "network": "",
+      "owners": "RCS & RDS",
+      "country": "RO",
+      "categories": "movies",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.digi-film.ro/"
+    },
+    {
+      "id": 7,
+      "channel_id": "HBO.ro",
+      "name": "HBO",
+      "alt_names": "",
+      "network": "",
+      "owners": "Warner Bros. Discovery",
+      "country": "RO",
+      "categories": "movies, series",
+      "is_nsfw": false,
+      "launched": "1998-01-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.hbo.ro/"
+    },
+    {
+      "id": 8,
+      "channel_id": "HBO2.ro",
+      "name": "HBO 2",
+      "alt_names": "",
+      "network": "HBO Europe",
+      "owners": "Warner Bros. Discovery",
+      "country": "RO",
+      "categories": "movies, series",
+      "is_nsfw": false,
+      "launched": "2016-03-21",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.hbo.ro/"
+    },
+    {
+      "id": 9,
+      "channel_id": "ParamountNetwork.ro",
+      "name": "Paramount Network",
+      "alt_names": "",
+      "network": "",
+      "owners": "Paramount Global",
+      "country": "RO",
+      "categories": "series, movies",
+      "is_nsfw": false,
+      "launched": "2014-05-28",
+      "closed": "2021-01-12",
+      "replaced_by": "",
+      "website": "https://www.paramountnetwork.hu/"
+    },
+    {
+      "id": 10,
+      "channel_id": "ProCinema.ro",
+      "name": "Pro Cinema",
+      "alt_names": "",
+      "network": "Pro TV",
+      "owners": "Pro TV SRL",
+      "country": "RO",
+      "categories": "movies",
+      "is_nsfw": false,
+      "launched": "2004-04-19",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://procinema.protv.ro/"
+    },
+    {
+      "id": 11,
+      "channel_id": "TV1000.ro",
+      "name": "TV1000",
+      "alt_names": "",
+      "network": "Viasat",
+      "owners": "",
+      "country": "RO",
+      "categories": "movies",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://tv1000.com.ro/"
+    },
+    {
+      "id": 12,
+      "channel_id": "WarnerTV.ro",
+      "name": "Warner TV",
+      "alt_names": "TNT Romania, Turner Classic Movies Romania, TNT Classic Movies Romania",
+      "network": "",
+      "owners": "Warner Bros. Discovery",
+      "country": "RO",
+      "categories": "movies",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://warnertv.ro/"
+    }
+  ],
+  "meta": {
+    "title": "Canale TV de filme din România (Movies TV channels) - Descărcare gratuită",
+    "description": "Canalele de televiziune din România din categoria „movies” (de filme) — 12 canale din registrul deschis iptv-org/database. Include numele canalului, denumiri alternative, rețeaua, proprietarii, categoriile, data lansării și a închiderii, precum și site-ul oficial. Conține 12 înregistrări. Descarcă în format Excel, CSV, PDF.",
+    "seo_title": "Canale TV de filme din România (Movies TV channels) | ListBase",
+    "seo_description": "Descarcă Canale TV de filme din România (Movies TV channels) — 12 înregistrări. Disponibil în format Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Conține 12 înregistrări / 13 câmpuri",
+      "Descărcare gratuită în format Excel, CSV și PDF",
+      "Sursa datelor: open data"
+    ]
+  }
+}
