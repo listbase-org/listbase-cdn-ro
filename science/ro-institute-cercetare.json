@@ -1,0 +1,536 @@
+{
+  "id": "ro-institute-cercetare",
+  "name": "Institute de cercetare din România",
+  "title": "Institute de cercetare din România",
+  "description": "Lista institutelor naționale și companiilor de cercetare-dezvoltare din România, grupate pe domenii.",
+  "category": "science",
+  "source": "https://ro.wikipedia.org/wiki/Listă_de_companii_și_institute_de_cercetări_din_România",
+  "source_url": "https://ro.wikipedia.org/wiki/Listă_de_companii_și_institute_de_cercetări_din_România",
+  "updated": "2026-10",
+  "record_count": 125,
+  "columns": [
+    {
+      "key": "institut",
+      "label": "Institut",
+      "type": "string"
+    },
+    {
+      "key": "domeniu",
+      "label": "Domeniu",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "institut": "Institutul Național de Cercetări Științifice pentru Muncă și Protecție Socială — INCSMPS",
+      "domeniu": "Muncă"
+    },
+    {
+      "institut": "Institutul Național de Cercetare-Dezvoltare pentru Protecția Muncii „Alexandru Darabonț” — INPM",
+      "domeniu": "Muncă"
+    },
+    {
+      "institut": "Institutul de Cercetare al Beneficiilor Angajaților (ICBA) -",
+      "domeniu": "Muncă"
+    },
+    {
+      "institut": "Institutul de Lingvistică „Iorgu Iordan - Alexandru Rosetti”",
+      "domeniu": "Lingvistică"
+    },
+    {
+      "institut": "Institutul de Lingvistică și Istorie Literară „Sextil Pușcariu”",
+      "domeniu": "Lingvistică"
+    },
+    {
+      "institut": "Institutul de Cercetări Eco - Muzeale Tulcea - ICEM",
+      "domeniu": "Istorie"
+    },
+    {
+      "institut": "Institutul Național de Cercetare-Dezvoltare pentru Geologie și Geoecologie Marină — GeoEcoMar",
+      "domeniu": "Geografie, Geologie"
+    },
+    {
+      "institut": "Institutul Geologic al României — IGR",
+      "domeniu": "Geografie, Geologie"
+    },
+    {
+      "institut": "Institutul Român de Cercetări Polare — IRCP",
+      "domeniu": "Geografie, Geologie"
+    },
+    {
+      "institut": "Institutul de Geografie al Academiei Romane — IGAR",
+      "domeniu": "Geografie, Geologie"
+    },
+    {
+      "institut": "ECOIND — ECOIND",
+      "domeniu": "Mediu"
+    },
+    {
+      "institut": "Institutul de Cercetare - Dezvoltare pentru Ecologie Acvatică, Pescuit și Acvacultură — ICDEAPA",
+      "domeniu": "Mediu"
+    },
+    {
+      "institut": "Institutul Național de Cercetare-Dezvoltare pentru Protecția Mediului — INCDPM",
+      "domeniu": "Mediu"
+    },
+    {
+      "institut": "Institutul Român de Cercetări Marine „Grigore Antipa” — IRCM, numit și Institutul Național de Cercetare-Dezvoltare Marină „Grigore Antipa” - INCDM Constanța",
+      "domeniu": "Mediu"
+    },
+    {
+      "institut": "Institutul Național de Cercetare-Dezvoltare „Delta Dunării” — INCDD Tulcea",
+      "domeniu": "Mediu"
+    },
+    {
+      "institut": "Institutul de Cercetări Avansate de Mediu (ICAM) din Timișoara - icam.uvt.ro",
+      "domeniu": "Mediu"
+    },
+    {
+      "institut": "Centrul Național de Cercetări Geotermale din Oradea",
+      "domeniu": "Mediu"
+    },
+    {
+      "institut": "Institutul Național de Cercetare Dezvoltare Agricolă Fundulea — INCDA Fundulea",
+      "domeniu": "Agricultură - Biologie"
+    },
+    {
+      "institut": "Institutul de Biologie București — IBB",
+      "domeniu": "Agricultură - Biologie"
+    },
+    {
+      "institut": "Institutul de Cercetare-Dezvoltare pentru Protecția Plantelor — ICDPP",
+      "domeniu": "Agricultură - Biologie"
+    },
+    {
+      "institut": "Institutul de Cercetări și Amenajări Silvice — ICAS",
+      "domeniu": "Agricultură - Biologie"
+    },
+    {
+      "institut": "Institutul de Cercetare-Dezvoltare pentru Pajiști Brașov ICDP",
+      "domeniu": "Agricultură - Biologie"
+    },
+    {
+      "institut": "Institutul Național de Cercetare Dezvoltare pentru Microbiologie și Imunologie „Cantacuzino”",
+      "domeniu": "Agricultură - Biologie"
+    },
+    {
+      "institut": "Institutul Național de Cercetare-Dezvoltare în Domeniul Patologiei și Științelor Biomedicale „Victor Babeș”",
+      "domeniu": "Agricultură - Biologie"
+    },
+    {
+      "institut": "Institutul Național de Cercetare-Dezvoltare pentru Științe Biologice — INCDSB",
+      "domeniu": "Agricultură - Biologie"
+    },
+    {
+      "institut": "Institutul Național de Cercetare-Dezvoltare pentru Pedologie, Agrochmie și Protecția Mediului — ICPA",
+      "domeniu": "Agricultură - Biologie"
+    },
+    {
+      "institut": "Stațiunea de Cercetare-Dezvoltare pentru Pomicultură Constanța — www.cercetarepomicola-constanta.ro",
+      "domeniu": "Agricultură - Biologie"
+    },
+    {
+      "institut": "Institutul Pasteur — www.pasteur.ro",
+      "domeniu": "Agricultură - Biologie"
+    },
+    {
+      "institut": "Institutul de Cercetare pentru Legumicultură și Floricultură Vidra -",
+      "domeniu": "Agricultură - Biologie"
+    },
+    {
+      "institut": "Institutul de Bioresurse Alimentare din București - www.bioresurse.ro -",
+      "domeniu": "Agricultură - Biologie"
+    },
+    {
+      "institut": "Institutul Național de Cercetare - Dezvoltare pentru Chimie și Petrochimie — ICECHIM",
+      "domeniu": "Chimie"
+    },
+    {
+      "institut": "Institutul de Cercetări pentru Acoperiri Avansate — ICAA, fost ICEPALV",
+      "domeniu": "Chimie"
+    },
+    {
+      "institut": "Institutul de Tehnologie Chimică — ITEC Brazi",
+      "domeniu": "Chimie"
+    },
+    {
+      "institut": "Institutul de Cercetări Alimentare — ICA",
+      "domeniu": "Chimie"
+    },
+    {
+      "institut": "Institutul de Cercetări pentru Fibre Sintetice — ICEFS Săvinești",
+      "domeniu": "Chimie"
+    },
+    {
+      "institut": "Institutul de Cercetare și Inginerie Tehnologică Fibresin Iași — ICIT Fibresin",
+      "domeniu": "Chimie"
+    },
+    {
+      "institut": "Institutul de Cercetări Produse Auxiliare Organice Mediaș — ICPAO",
+      "domeniu": "Chimie"
+    },
+    {
+      "institut": "Institutul de Cercetări în Chimie „Raluca Ripan” din Cluj-Napoca -",
+      "domeniu": "Chimie"
+    },
+    {
+      "institut": "Institutul Național de Geriatrie și Gerontologie \"Ana Aslan\"",
+      "domeniu": "Chimie"
+    },
+    {
+      "institut": "Institutul Național de Cercetări Chimico-Farmaceutice — ICCF",
+      "domeniu": "Chimie"
+    },
+    {
+      "institut": "Centrul de Evaluare a Medicamentului — CME",
+      "domeniu": "Chimie"
+    },
+    {
+      "institut": "Centrul de Cercetări pentru Antibiotice Iași",
+      "domeniu": "Chimie"
+    },
+    {
+      "institut": "Institutul Național de Cercetare-Dezvoltare pentru Utilaj Petrolier — IPCUP",
+      "domeniu": "Chimie"
+    },
+    {
+      "institut": "Institutul de Cercetări Pentru Hidraulică și Pneumatică — IHP",
+      "domeniu": "Mecanică, Motoare, Echipamente electrice, Informatică"
+    },
+    {
+      "institut": "Institutul de Cercetare și proiectare Tehnologică pentru Construcții Mașini — ICTCM",
+      "domeniu": "Mecanică, Motoare, Echipamente electrice, Informatică"
+    },
+    {
+      "institut": "Institutul Național de Motoare Termice - INMT, în prezent se numește Master București",
+      "domeniu": "Mecanică, Motoare, Echipamente electrice, Informatică"
+    },
+    {
+      "institut": "Institutul Național de Cercetare-Dezvoltare pentru Mașini și Instalații destinate Agriculturii și Industriei Alimentare — INMA",
+      "domeniu": "Mecanică, Motoare, Echipamente electrice, Informatică"
+    },
+    {
+      "institut": "Institutul Național de Autovehicule Rutiere — INAR",
+      "domeniu": "Mecanică, Motoare, Echipamente electrice, Informatică"
+    },
+    {
+      "institut": "CEPROM Satu Mare — Institut de Cercetare și Dezvoltare din România pentru utilaj minier — www.ceprom.ro",
+      "domeniu": "Mecanică, Motoare, Echipamente electrice, Informatică"
+    },
+    {
+      "institut": "Institutul de Cercetare Proiectare Rulmenți și Organe de Asamblare Brașov — ICPROA",
+      "domeniu": "Mecanică, Motoare, Echipamente electrice, Informatică"
+    },
+    {
+      "institut": "INFO SIT S.A. - Centrul de Cercetare și Proiectare Sisteme Tehnologice și de Producție - http://www.infosit.ro",
+      "domeniu": "Mecanică, Motoare, Echipamente electrice, Informatică"
+    },
+    {
+      "institut": "Institutul Național de Cercetare - Dezvoltare Aerospațială „Elie Carafoli\" — INCAS",
+      "domeniu": "Mecanică, Motoare, Echipamente electrice, Informatică"
+    },
+    {
+      "institut": "Institutul pentru Calculul și Experimentarea Structurilor Aero-Astronautice — STRAERO",
+      "domeniu": "Mecanică, Motoare, Echipamente electrice, Informatică"
+    },
+    {
+      "institut": "Institutul Național de Cercetare-Dezvoltare Turbomotoare — COMOTI [ nefuncțională – arhivă ]",
+      "domeniu": "Mecanică, Motoare, Echipamente electrice, Informatică"
+    },
+    {
+      "institut": "Institutul de Cercetare și Proiectare pentru Construcții Navale - Icepronav",
+      "domeniu": "Mecanică, Motoare, Echipamente electrice, Informatică"
+    },
+    {
+      "institut": "Institutul Național de Cercetare-Dezvoltare pentru Optoelectronică — INOE",
+      "domeniu": "Mecanică, Motoare, Echipamente electrice, Informatică"
+    },
+    {
+      "institut": "Institutul Național de Cercetare-Dezvoltare pentru Mecatronică și Tehnica Măsurării — INCDMTM (fost CEFIN",
+      "domeniu": "Mecanică, Motoare, Echipamente electrice, Informatică"
+    },
+    {
+      "institut": "Institutul de Cercetări și Proiectări Electrotehnice — ICPE",
+      "domeniu": "Mecanică, Motoare, Echipamente electrice, Informatică"
+    },
+    {
+      "institut": "Institutul Național De Cercetare-Dezvoltare Pentru Inginerie Electrică — INCDIE ICPE-CA [ nefuncțională – arhivă ]",
+      "domeniu": "Mecanică, Motoare, Echipamente electrice, Informatică"
+    },
+    {
+      "institut": "Institutul Național de Cercetare-Dezvoltare și Încercări pentru Electrotehnică — ICMET Craiova",
+      "domeniu": "Mecanică, Motoare, Echipamente electrice, Informatică"
+    },
+    {
+      "institut": "Institutul Național de Cercetare-Dezvoltare în Informatică - ICI (administratorul domeniilor.ro)",
+      "domeniu": "IT"
+    },
+    {
+      "institut": "Institutul Național de Studii și Cercetări pentru Comunicații - INSCC",
+      "domeniu": "IT"
+    },
+    {
+      "institut": "Institutul eAustria - IeAT",
+      "domeniu": "IT"
+    },
+    {
+      "institut": "Institutul Român de Știință și Tehnologie - RIST (Romanian Institute of Science and Technology) - http://www.rist.ro, Cluj-Napoca",
+      "domeniu": "IT"
+    },
+    {
+      "institut": "Institutul de Cercetări și Modernizări Energetice — ICEMENERG",
+      "domeniu": "Energetică"
+    },
+    {
+      "institut": "Institutul de Studii și Proiectări Energetice — ISPE",
+      "domeniu": "Energetică"
+    },
+    {
+      "institut": "Institutul de Studii și Proiectări Hidroenergetice — ISPH",
+      "domeniu": "Energetică"
+    },
+    {
+      "institut": "AIP -",
+      "domeniu": "Fizică, Materiale"
+    },
+    {
+      "institut": "Institutul Național de Cercetare-Dezvoltare pentru Fizica Pământului — INFP",
+      "domeniu": "Fizică, Materiale"
+    },
+    {
+      "institut": "Institutul Național de Cercetare-Dezvoltare pentru Fizica Materialelor — INCDFM",
+      "domeniu": "Fizică, Materiale"
+    },
+    {
+      "institut": "Institutul Național de Cercetare-Dezvoltare pentru Fizica Laserilor, Plasmei și Radiației — INFLPR",
+      "domeniu": "Fizică, Materiale"
+    },
+    {
+      "institut": "Institutul Național de Cercetare-Dezvoltare pentru Fizică Tehnică — IFT Iași",
+      "domeniu": "Fizică, Materiale"
+    },
+    {
+      "institut": "Institutul Național de Cercetare-Dezvoltare pentru Tehnologii Criogenice și Izotopice - ICSI Râmnicu Vâlcea",
+      "domeniu": "Fizică, Materiale"
+    },
+    {
+      "institut": "Institutul Național de Cercetare-Dezvoltare pentru Tehnologii Izotopice și Moleculare — INCDTIM Cluj-Napoca",
+      "domeniu": "Fizică, Materiale"
+    },
+    {
+      "institut": "Institutul Național de Cercetare-Dezvoltare pentru Microtehnologie - IMT",
+      "domeniu": "Fizică, Materiale"
+    },
+    {
+      "institut": "INAV — Institut de cercetare și dezvoltare în știinte fizice și naturale",
+      "domeniu": "Fizică, Materiale"
+    },
+    {
+      "institut": "Institutul de Cercetări Metalurgice — ICEM",
+      "domeniu": "Fizică, Materiale"
+    },
+    {
+      "institut": "Institutul de Metale Neferoase și Rare — IMNR",
+      "domeniu": "Fizică, Materiale"
+    },
+    {
+      "institut": "Institutul Național de Sticlă — INS",
+      "domeniu": "Fizică, Materiale"
+    },
+    {
+      "institut": "Institutul Național al Lemnului — INL",
+      "domeniu": "Fizică, Materiale"
+    },
+    {
+      "institut": "Institutul de Cercetare Dezvoltare pentru Sectoare Calde — INTEC",
+      "domeniu": "Fizică, Materiale"
+    },
+    {
+      "institut": "Institutul de Sudură și Încercări de Materiale — ISIM Timișoara",
+      "domeniu": "Fizică, Materiale"
+    },
+    {
+      "institut": "Institutul de Cercetare-Dezvoltare pentru Industria de Celuloză și Hârtie din România — CEPROHART Brăila",
+      "domeniu": "Fizică, Materiale"
+    },
+    {
+      "institut": "Institutul Național de Cercetare-Dezvoltare pentru Textile și Pielărie — INCDTP, fost Institutul de Proiectări Tehnologice pentru Industria Ușoară — IPIU [ nefuncțională ]",
+      "domeniu": "Fizică, Materiale"
+    },
+    {
+      "institut": "Institutul de Cercetare Științifică, Inginerie Tehnologică și Proiectare Mine pe Lignit — ICSITPML Craiva",
+      "domeniu": "Fizică, Materiale"
+    },
+    {
+      "institut": "ICPT Tehnomag — cercetare proiectare în domeniul sectoarelor calde — www.tehnomag.eu",
+      "domeniu": "Fizică, Materiale"
+    },
+    {
+      "institut": "Institutul Național de Cercetare-Dezvoltare pentru Electrochimie și Materie Condensată — INCEMC Timișoara",
+      "domeniu": "Fizică, Materiale"
+    },
+    {
+      "institut": "Institutul de Cercetare a Materiei Condensate Timișoara — ICMCT",
+      "domeniu": "Fizică, Materiale"
+    },
+    {
+      "institut": "Casstil",
+      "domeniu": "Fizică, Materiale"
+    },
+    {
+      "institut": "Institutul de Cercetare Dezvoltare Produse High Tech pentru Dezvoltare Durabilă al Universității Transilvania -",
+      "domeniu": "Fizică, Materiale"
+    },
+    {
+      "institut": "Institutul de Științe Spațiale (ISS) de pe platforma Măgurele de lângă București",
+      "domeniu": "Fizică, Materiale"
+    },
+    {
+      "institut": "Institutul de Cercetări Avansate pentru Materiale, Produse și Procese Inovative - CAMPUS din cadrul Universității Politehnica din București.",
+      "domeniu": "Fizică, Materiale"
+    },
+    {
+      "institut": "Institutul Național de Cercetare-Dezvoltare pentru Metale și Resurse Radioactive — ICPMRR",
+      "domeniu": "Fizică, Materiale"
+    },
+    {
+      "institut": "Institutul Național de Cercetare Dezvoltare pentru Fizică și Inginerie Nucleară „Horia Hulubei” — IFIN HH",
+      "domeniu": "Fizică, Materiale"
+    },
+    {
+      "institut": "Institutul de Fizică Atomică — IFA",
+      "domeniu": "Fizică, Materiale"
+    },
+    {
+      "institut": "Institutul de Proiectări pentru Transporturi Auto, Navale și Aeriene — IPTANA",
+      "domeniu": "Construcții"
+    },
+    {
+      "institut": "Institutul de Cercetări pentru Echipamente și Tehnologii în Construcții — ICECON",
+      "domeniu": "Construcții"
+    },
+    {
+      "institut": "Institutul de Cercetări în Construcții și Economia Construcțiilor — INCERC",
+      "domeniu": "Construcții"
+    },
+    {
+      "institut": "Institutul Național de Cercetare-Dezvoltare în Construcții, Urbanism și Dezvoltare Teritorială Durabilă — INCD URBAN-INCERC",
+      "domeniu": "Construcții"
+    },
+    {
+      "institut": "Institutul Național de Cercetare-Dezvoltare pentru Urbanism și Amenajarea Teritoriului — URBANPROIECT",
+      "domeniu": "Construcții"
+    },
+    {
+      "institut": "Cepromin Deva — www.cepromin.ro",
+      "domeniu": "Construcții"
+    },
+    {
+      "institut": "Centrul International de Cercetare si Educatie in Tehnologii Inovativ Creative — CINETic",
+      "domeniu": "Teatru și Cinematografie"
+    },
+    {
+      "institut": "Institutul Național de Inventică Iași — www.inventica.org.ro",
+      "domeniu": "Altele"
+    },
+    {
+      "institut": "SIAT — fost Centrul de Cercetări pentru Automatică (CCAB) — SIAT",
+      "domeniu": "Altele"
+    },
+    {
+      "institut": "Agenția de Cercetare pentru Tehnică și Tehnologii Militare — ACTTM",
+      "domeniu": "Altele"
+    },
+    {
+      "institut": "Institutul Național de Cercetare-Dezvoltare pentru Securitate Minieră și Protecție Antiexplozivă — INCD INSEMEX Petroșani",
+      "domeniu": "Altele"
+    },
+    {
+      "institut": "Institutul de Cercetări și Proiectări Miniere din Petroșani — ICPM",
+      "domeniu": "Altele"
+    },
+    {
+      "institut": "Institutul de Cercetare-Dezvoltare pentru Apicultură — www.icdapicultura.com",
+      "domeniu": "Altele"
+    },
+    {
+      "institut": "Institutul Național de Cercetare-Dezvoltare în Turism — INCDT",
+      "domeniu": "Altele"
+    },
+    {
+      "institut": "Institutul pentru Cercetarea și Prevenirea Criminalității - din cadrul IGPR",
+      "domeniu": "Altele"
+    },
+    {
+      "institut": "Centrul de scafandri din Constanța",
+      "domeniu": "Altele"
+    },
+    {
+      "institut": "Centrul de Cercetare si Comunicare Interculturala - Iasi",
+      "domeniu": "Altele"
+    },
+    {
+      "institut": "Autoritatea Națională pentru Cercetare Științifică — ANCS",
+      "domeniu": "Altele"
+    },
+    {
+      "institut": "Consiliul Național al Cercetării Știintifice din Învățământul Superior CNCSIS",
+      "domeniu": "Altele"
+    },
+    {
+      "institut": "Institutul National de Statistica — INS",
+      "domeniu": "Altele"
+    },
+    {
+      "institut": "Biroul Român de Metrologie Legală — BRML",
+      "domeniu": "Certificări, omologări"
+    },
+    {
+      "institut": "Institutul Național de Metrologie — INM",
+      "domeniu": "Certificări, omologări"
+    },
+    {
+      "institut": "Asociația de Acreditare din România — RENAR",
+      "domeniu": "Certificări, omologări"
+    },
+    {
+      "institut": "Asociația de Standardizare din România — ASRO",
+      "domeniu": "Certificări, omologări"
+    },
+    {
+      "institut": "ISCIR CERT — Inspecția de Stat pentru Controlul Cazanelor, Recipientelor sub Presiune și Instalațiilor de Ridicat — www.iscircert.ro",
+      "domeniu": "Certificări, omologări"
+    },
+    {
+      "institut": "SIMTEX — unicul organism de acreditare din România - pentru a certifica Sistemul de Management al Calității, de Mediu și cel al Siguranței Alimentului — www.simtex.ro",
+      "domeniu": "Certificări, omologări"
+    },
+    {
+      "institut": "Societatea Română Pentru Asigurarea Calității — SRAC",
+      "domeniu": "Certificări, omologări"
+    },
+    {
+      "institut": "Comisia de Certificare, Acreditare și Supraveghere din cadrul Ministreului Administrației și Internelor — CCAS",
+      "domeniu": "Certificări, omologări"
+    },
+    {
+      "institut": "Organismul Militar de Certificare Acreditare și Supraveghere din cadrul Ministerului Apărării Naționale — OMCAS",
+      "domeniu": "Certificări, omologări"
+    },
+    {
+      "institut": "Asociatia TEAM4Excellence",
+      "domeniu": "Certificări, omologări"
+    }
+  ],
+  "meta": {
+    "title": "Institute de cercetare din România - Free Download",
+    "description": "Lista institutelor naționale și companiilor de cercetare-dezvoltare din România, grupate pe domenii. Contains 125 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Institute de cercetare din România | ListBase",
+    "seo_description": "Download Institute de cercetare din România — 125 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 125 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Listă_de_companii_și_institute_de_cercetări_din_România"
+    ]
+  }
+}

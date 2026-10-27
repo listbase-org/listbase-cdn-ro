@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-10-27T02:12:28.549Z",
-  "total_datasets": 421,
-  "total_records": 161746,
+  "generated": "2026-10-27T02:12:30.963Z",
+  "total_datasets": 422,
+  "total_records": 161871,
   "categories": [
     {
       "id": "culture",
@@ -47,6 +47,10 @@
     {
       "id": "reference",
       "dataset_count": 192
+    },
+    {
+      "id": "science",
+      "dataset_count": 1
     },
     {
       "id": "sports",
@@ -11893,6 +11897,29 @@
         "xlsx": {
           "name": "ro-vrancea-municipii_RO.xlsx",
           "size": 7105
+        }
+      }
+    },
+    {
+      "id": "ro-institute-cercetare",
+      "name": "Institute de cercetare din România",
+      "category": "science",
+      "record_count": 125,
+      "columns": [
+        "institut",
+        "domeniu"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Listă_de_companii_și_institute_de_cercetări_din_România",
+      "updated": "2026-10",
+      "size": 20611,
+      "files": {
+        "csv": {
+          "name": "ro-institute-cercetare_RO.csv",
+          "size": 13037
+        },
+        "xlsx": {
+          "name": "ro-institute-cercetare_RO.xlsx",
+          "size": 11490
         }
       }
     },
