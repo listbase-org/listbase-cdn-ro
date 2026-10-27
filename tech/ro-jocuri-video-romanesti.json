@@ -1,0 +1,637 @@
+{
+  "id": "ro-jocuri-video-romanesti",
+  "name": "Jocuri video românești",
+  "title": "Jocuri video românești",
+  "description": "Jocuri video dezvoltate în România (studiouri românești), cu anul lansării, dezvoltator, editură, platformă și gen.",
+  "category": "tech",
+  "source": "https://ro.wikipedia.org/wiki/Listă_de_jocuri_video_românești",
+  "source_url": "https://ro.wikipedia.org/wiki/Listă_de_jocuri_video_românești",
+  "updated": "2026-10",
+  "record_count": 64,
+  "columns": [
+    {
+      "key": "an",
+      "label": "An",
+      "type": "number"
+    },
+    {
+      "key": "titlu",
+      "label": "Titlu",
+      "type": "string"
+    },
+    {
+      "key": "dezvoltator",
+      "label": "Dezvoltator",
+      "type": "string"
+    },
+    {
+      "key": "editura",
+      "label": "Editura",
+      "type": "string"
+    },
+    {
+      "key": "platforma",
+      "label": "Platforma",
+      "type": "string"
+    },
+    {
+      "key": "gen",
+      "label": "Gen",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "an": "2000",
+      "titlu": "POD 2",
+      "dezvoltator": "Ubisoft Romania",
+      "editura": "Ubisoft",
+      "platforma": "Dreamcast",
+      "gen": "joc de curse",
+      "note": ""
+    },
+    {
+      "an": "2001",
+      "titlu": "Cabela (serie)",
+      "dezvoltator": "Fun Labs Romania SRL",
+      "editura": "Activision",
+      "platforma": "PlayStation 3, Wii, Xbox 360",
+      "gen": "jocuri de vânătoare",
+      "note": ""
+    },
+    {
+      "an": "2001",
+      "titlu": "Secret Service",
+      "dezvoltator": "Fun Labs",
+      "editura": "Activision",
+      "platforma": "",
+      "gen": "first-person shooter",
+      "note": ""
+    },
+    {
+      "an": "2003",
+      "titlu": "Downtown Run / City Racer",
+      "dezvoltator": "Ubisoft România; Com2uS (mobil)",
+      "editura": "Ubisoft",
+      "platforma": "PlayStation 2, Windows, GameCube și telefoane mobile",
+      "gen": "joc de curse de luptă cu vehicule",
+      "note": ""
+    },
+    {
+      "an": "2002",
+      "titlu": "Shadow Force: Razor Unit",
+      "dezvoltator": "Fun Labs",
+      "editura": "Activision",
+      "platforma": "PC (Windows)",
+      "gen": "first-person shooter",
+      "note": ""
+    },
+    {
+      "an": "2005",
+      "titlu": "Shamu's Deep Sea Adventures",
+      "dezvoltator": "Fun Labs",
+      "editura": "Activision",
+      "platforma": "PS2, Xbox, Game Cube",
+      "gen": "Kids",
+      "note": ""
+    },
+    {
+      "an": "2005",
+      "titlu": "Silent Hunter III",
+      "dezvoltator": "Ubisoft Bucharest",
+      "editura": "Ubisoft",
+      "platforma": "Microsoft Windows",
+      "gen": "simulator de submarine",
+      "note": ""
+    },
+    {
+      "an": "2006",
+      "titlu": "Rapala Tournament Fishing",
+      "dezvoltator": "Fun Labs",
+      "editura": "Activision",
+      "platforma": "Xbox 360, Wii",
+      "gen": "Fishing",
+      "note": ""
+    },
+    {
+      "an": "2006",
+      "titlu": "Dangerous Hunts (serie)",
+      "dezvoltator": "Fun Labs",
+      "editura": "Activision",
+      "platforma": "PlayStation Portable",
+      "gen": "jocuri de vânătoare",
+      "note": ""
+    },
+    {
+      "an": "2006",
+      "titlu": "Blazing Angels: Squadrons of WWII",
+      "dezvoltator": "Ubisoft București",
+      "editura": "Ubisoft",
+      "platforma": "Microsoft Windows, Xbox, Xbox 360, PlayStation, Wii",
+      "gen": "joc de luptă aeriană",
+      "note": ""
+    },
+    {
+      "an": "2006",
+      "titlu": "Miami Nights: Singles in the City",
+      "dezvoltator": "Gameloft București",
+      "editura": "Gameloft",
+      "platforma": "J2ME, Nintendo DS și BlackBerry",
+      "gen": "joc de simulare a întâlnirilor",
+      "note": ""
+    },
+    {
+      "an": "2007",
+      "titlu": "Harry Potter și Ordinul Phoenix",
+      "dezvoltator": "Electronic Arts",
+      "editura": "Warner Bros. Interactive Entertainment",
+      "platforma": "Microsoft Windows, PlayStation 2, PlayStation 3, Xbox 360, PSP, Nintendo DS, Wii, Game Boy Advance și Mac OS X",
+      "gen": "joc de acțiune-aventură singleplayer",
+      "note": ""
+    },
+    {
+      "an": "2007",
+      "titlu": "History Channel: Battle for the Pacific",
+      "dezvoltator": "Cauldron HQ, Fun Labs (PS2/Wii)",
+      "editura": "Activision Value",
+      "platforma": "Microsoft Windows, PlayStation 2, Wii, Xbox 360PlayStation 3",
+      "gen": "istoric, first-person shooter",
+      "note": ""
+    },
+    {
+      "an": "2007",
+      "titlu": "Blazing Angels 2: Secret Missions of WWII",
+      "dezvoltator": "Ubisoft București",
+      "editura": "Ubisoft",
+      "platforma": "Microsoft Windows, PlayStation 3, Xbox 360",
+      "gen": "joc de luptă aeriană",
+      "note": ""
+    },
+    {
+      "an": "2007",
+      "titlu": "Silent Hunter 4: Wolves of the Pacific",
+      "dezvoltator": "Ubisoft Bucharest",
+      "editura": "Ubisoft",
+      "platforma": "Microsoft Windows",
+      "gen": "simulator de submarine",
+      "note": ""
+    },
+    {
+      "an": "2008",
+      "titlu": "Rapala Fishing Frenzy 2009",
+      "dezvoltator": "Fun Labs",
+      "editura": "Activision",
+      "platforma": "Wii, PS3, Xbox 360",
+      "gen": "Fishing",
+      "note": ""
+    },
+    {
+      "an": "2008",
+      "titlu": "Assassin's Creed: Altaïr's Chronicles",
+      "dezvoltator": "Gameloft București",
+      "editura": "Ubisoft",
+      "platforma": "Nintendo DS, Android, iOS, webOS, Symbian, Java 2 ME, Windows Phone 7",
+      "gen": "joc de acțiune-aventură",
+      "note": ""
+    },
+    {
+      "an": "2008",
+      "titlu": "Block Breaker Deluxe",
+      "dezvoltator": "Gameloft Romania",
+      "editura": "",
+      "platforma": "Java 2 ME, iPod, iPhone OS, N-Gage, Microsoft Windows, Wii, Nintendo DSi",
+      "gen": "joc mobil, clonă Breakout",
+      "note": ""
+    },
+    {
+      "an": "2008",
+      "titlu": "Ferrari GT: Evolution",
+      "dezvoltator": "Gameloft București",
+      "editura": "Gameloft",
+      "platforma": "iPhone, iPod Touch, mobile, Nintendo DSi, Symbian OS",
+      "gen": "joc de curse",
+      "note": ""
+    },
+    {
+      "an": "2008",
+      "titlu": "NPPL Championship Paintball 2009",
+      "dezvoltator": "Sand Grain Studios",
+      "editura": "Activision",
+      "platforma": "PlayStation 2, PlayStation 3, Xbox 360, Wii",
+      "gen": "first-person paintball simulation",
+      "note": ""
+    },
+    {
+      "an": "2009",
+      "titlu": "Asphalt 5",
+      "dezvoltator": "Gameloft București, Gameloft Mexic",
+      "editura": "Gameloft",
+      "platforma": "iOS, Freebox, webOS, Android, Symbian^3, Bada, Windows Phone 7",
+      "gen": "joc de curse",
+      "note": ""
+    },
+    {
+      "an": "2009",
+      "titlu": "N.O.V.A. Near Orbit Vanguard Alliance",
+      "dezvoltator": "Gameloft Bucharest",
+      "editura": "Gameloft",
+      "platforma": "iOS, webOS, Android, PlayStation Portable, PlayStation 3, Bada",
+      "gen": "acțiune-aventură",
+      "note": ""
+    },
+    {
+      "an": "2009",
+      "titlu": "H.A.W.X",
+      "dezvoltator": "Ubisoft Bucharest, Ubisoft Kiev",
+      "editura": "Ubisoft",
+      "platforma": "Xbox 360, PlayStation 3, Microsoft Windows, iOS, BlackBerry PlayBook, Palm Pre, Android, Symbian^3",
+      "gen": "simulator de luptă",
+      "note": ""
+    },
+    {
+      "an": "2010",
+      "titlu": "H.A.W.X 2",
+      "dezvoltator": "Ubisoft România",
+      "editura": "Ubisoft",
+      "platforma": "Xbox 360, PlayStation 3, Wii, Microsoft Windows",
+      "gen": "simulator de luptă",
+      "note": ""
+    },
+    {
+      "an": "2010",
+      "titlu": "Brothers in Arms 2: Global Front",
+      "dezvoltator": "Gameloft Romania",
+      "editura": "Gameloft",
+      "platforma": "iOS, Android",
+      "gen": "first-person shooter WWI",
+      "note": ""
+    },
+    {
+      "an": "2010",
+      "titlu": "N.O.V.A. 2: The Hero Rises Again",
+      "dezvoltator": "Gameloft Bucharest",
+      "editura": "Gameloft",
+      "platforma": "iOS, Android, HP TouchPad, BlackBerry Playbook, Mac OS X",
+      "gen": "first-person shooter",
+      "note": ""
+    },
+    {
+      "an": "2010",
+      "titlu": "Silent Hunter 5: Battle of the Atlantic",
+      "dezvoltator": "Ubisoft Bucharest",
+      "editura": "Ubisoft",
+      "platforma": "Microsoft Windows",
+      "gen": "simulator de submarine",
+      "note": ""
+    },
+    {
+      "an": "2011",
+      "titlu": "Fast Five",
+      "dezvoltator": "Gameloft",
+      "editura": "Gameloft",
+      "platforma": "Android, iOS, MacOS, mobile",
+      "gen": "joc de curse",
+      "note": ""
+    },
+    {
+      "an": "2011",
+      "titlu": "ABBA: You Can Dance",
+      "dezvoltator": "Ubisoft Paris, Ubisoft București",
+      "editura": "Ubisoft",
+      "platforma": "Wii",
+      "gen": "joc de muzică",
+      "note": ""
+    },
+    {
+      "an": "2011",
+      "titlu": "Wild West Guns",
+      "dezvoltator": "Gameloft Bucharest",
+      "editura": "Gameloft",
+      "platforma": "Mobile, Wii (WiiWare), iOS",
+      "gen": "action-adventure shooting",
+      "note": ""
+    },
+    {
+      "an": "2012",
+      "titlu": "Tom Clancy's Ghost Recon: Future Soldier",
+      "dezvoltator": "Red Storm Entertainment, Ubisoft Paris, Ubisoft Bucharest",
+      "editura": "Ubisoft",
+      "platforma": "PlayStation 3, Xbox 360, Microsoft Windows",
+      "gen": "third-person tactical shooter",
+      "note": ""
+    },
+    {
+      "an": "2012",
+      "titlu": "Just Dance 4",
+      "dezvoltator": "Ubisoft Milan, Ubisoft Paris, Ubisoft Reflections, Ubisoft Bucharest, Ubisoft Pune",
+      "editura": "Ubisoft",
+      "platforma": "Wii, Xbox 360, PlayStation 3, Wii U",
+      "gen": "music rhythm game",
+      "note": ""
+    },
+    {
+      "an": "2012",
+      "titlu": "MIB: Alien Crisis",
+      "dezvoltator": "Fun Labs",
+      "editura": "Activision",
+      "platforma": "PlayStation 3, Wii, Xbox 360",
+      "gen": "Shoot 'em up third-person shooter",
+      "note": ""
+    },
+    {
+      "an": "2012",
+      "titlu": "N.O.V.A. 3",
+      "dezvoltator": "Gameloft Bucharest",
+      "editura": "Gameloft",
+      "platforma": "iOS, Android, BlackBerry 10, Windows Phone 8",
+      "gen": "Action-adventure, first-person shooter",
+      "note": ""
+    },
+    {
+      "an": "2013",
+      "titlu": "Blitz Brigade",
+      "dezvoltator": "Gameloft București",
+      "editura": "Gameloft",
+      "platforma": "Android, iOS, Microsoft Windows",
+      "gen": "multiplayer first-person shooter",
+      "note": ""
+    },
+    {
+      "an": "2014",
+      "titlu": "Just Dance Wii U",
+      "dezvoltator": "Ubisoft Paris, Ubisoft Milan, Ubisoft Reflections, Ubisoft Romania, Ubisoft Pune, Ubisoft Montpellier",
+      "editura": "Nintendo",
+      "platforma": "Wii U",
+      "gen": "dance rhythm game",
+      "note": ""
+    },
+    {
+      "an": "2014",
+      "titlu": "Modern Combat 5: Blackout",
+      "dezvoltator": "Gameloft Bucharest",
+      "editura": "Gameloft",
+      "platforma": "iOS, Android, Windows, Windows Phone, Nintendo Switch",
+      "gen": "first-person shooter",
+      "note": ""
+    },
+    {
+      "an": "2014 -",
+      "titlu": "Door Kickers (serie)",
+      "dezvoltator": "KillHouse Games",
+      "editura": "KillHouse Games, QubicGames (Switch)",
+      "platforma": "Windows, Linux, iOS, Android, Switch",
+      "gen": "Tactică în timp real",
+      "note": ""
+    },
+    {
+      "an": "2015",
+      "titlu": "Assassin's Creed Rogue",
+      "dezvoltator": "Ubisoft Sofia",
+      "editura": "Ubisoft",
+      "platforma": "PlayStation 3, Xbox 360, Microsoft Windows, PlayStation 4, Xbox One, Nintendo Switch, Google Stadia",
+      "gen": "joc de acțiune-aventură",
+      "note": ""
+    },
+    {
+      "an": "2015",
+      "titlu": "Tony Hawk's Pro Skater 5",
+      "dezvoltator": "Robomodo, Disruptive Games, Fun Labs",
+      "editura": "Activision",
+      "platforma": "PlayStation 4, Xbox One, PlayStation 3, Xbox 360",
+      "gen": "skateboarding",
+      "note": ""
+    },
+    {
+      "an": "2016",
+      "titlu": "Move or Die",
+      "dezvoltator": "Those Awesome Guys",
+      "editura": "Those Awesome Guys, Reverb Communications",
+      "platforma": "Microsoft Windows, PlayStation 4",
+      "gen": "action-puzzle game",
+      "note": ""
+    },
+    {
+      "an": "2016",
+      "titlu": "Watch Dogs 2",
+      "dezvoltator": "Ubisoft",
+      "editura": "Ubisoft",
+      "platforma": "PlayStation 4, Xbox One, Microsoft Windows",
+      "gen": "acțiune-aventură multi-platformă open-world",
+      "note": ""
+    },
+    {
+      "an": "2016-2022",
+      "titlu": "FIFA 17; FIFA 18; FIFA 19; FIFA 20; FIFA 21; FIFA 22; FIFA 23",
+      "dezvoltator": "Electronic Arts România, EA Canada",
+      "editura": "EA Sports",
+      "platforma": "PlayStation 3, PlayStation 4, Microsoft Windows, Xbox 360, Xbox One",
+      "gen": "joc de de simulare a fotbalului",
+      "note": ""
+    },
+    {
+      "an": "2016",
+      "titlu": "Brawlout",
+      "dezvoltator": "Angry Mob Games",
+      "editura": "Angry Mob Games, Merge Games",
+      "platforma": "Microsoft Windows, Nintendo Switch, PlayStation 4, Xbox One.",
+      "gen": "joc de lupte",
+      "note": ""
+    },
+    {
+      "an": "2017",
+      "titlu": "Black the Fall",
+      "dezvoltator": "Sand Sailor Studio",
+      "editura": "Square Enix",
+      "platforma": "Linux, Microsoft Windows, OS X, PlayStation 4, Xbox One, Nintendo Switch",
+      "gen": "joc de puzzle - platformer",
+      "note": ""
+    },
+    {
+      "an": "2017",
+      "titlu": "Tom Clancy's Ghost Recon Wildlands",
+      "dezvoltator": "Ubisoft",
+      "editura": "Ubisoft",
+      "platforma": "Microsoft Windows, PlayStation 4, Xbox One, Google Stadia",
+      "gen": "third-person tactical shooter",
+      "note": ""
+    },
+    {
+      "an": "2018",
+      "titlu": "Gray Dawn",
+      "dezvoltator": "Interactive Stone",
+      "editura": "Interactive Stone",
+      "platforma": "Microsoft Windows",
+      "gen": "survival horror",
+      "note": ""
+    },
+    {
+      "an": "2019",
+      "titlu": "Gibbous - A Cthulhu Adventure",
+      "dezvoltator": "Stuck In Attic",
+      "editura": "Stuck In Attic",
+      "platforma": "Microsoft Windows, macOS, Linux, Nintendo Switch",
+      "gen": "joc de aventură point-and-click",
+      "note": ""
+    },
+    {
+      "an": "2019",
+      "titlu": "PC Building Simulator",
+      "dezvoltator": "Claudiu Kiss, The Irregular Corporation",
+      "editura": "The Irregular Corporation",
+      "platforma": "Windows, PlayStation 4, Xbox One, Nintendo Switch",
+      "gen": "joc de afaceri (simulare economică)",
+      "note": ""
+    },
+    {
+      "an": "2019",
+      "titlu": "Tom Clancy's Ghost Recon Breakpoint",
+      "dezvoltator": "Ubisoft Paris",
+      "editura": "Ubisoft",
+      "platforma": "Microsoft Windows, PlayStation 4, Xbox One, Stadia",
+      "gen": "online-only tactical shooter",
+      "note": ""
+    },
+    {
+      "an": "2021",
+      "titlu": "Nerf Legends",
+      "dezvoltator": "Fun Labs",
+      "editura": "GameMill Entertainment",
+      "platforma": "Microsoft Windows, Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
+      "gen": "first-person shooter",
+      "note": ""
+    },
+    {
+      "an": "2021",
+      "titlu": "Unbound: Worlds Apart",
+      "dezvoltator": "Alien Pixel Studios",
+      "editura": "Alien Pixel Studios, Digerati Distribution",
+      "platforma": "Microsoft Windows, macOS, Linux, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, Nintendo Switch",
+      "gen": "puzzle-platform",
+      "note": ""
+    },
+    {
+      "an": "anulat",
+      "titlu": "Tom Clancy's Ghost Recon Frontline",
+      "dezvoltator": "Ubisoft Bucharest",
+      "editura": "Ubisoft",
+      "platforma": "",
+      "gen": "first-person massively multiplayer online PvP class-based tactical shooter battle royale",
+      "note": ""
+    },
+    {
+      "an": "2022",
+      "titlu": "Bear and Breakfast",
+      "dezvoltator": "Gummy Cat",
+      "editura": "Armor Games Studios",
+      "platforma": "Microsoft Windows, PlayStation 4, PlayStation 5, Nintendo Switch",
+      "gen": "management, adventure, simulare",
+      "note": ""
+    },
+    {
+      "an": "2023",
+      "titlu": "Stay Still",
+      "dezvoltator": "Tarba Paul Cornel",
+      "editura": "Galactic Crows",
+      "platforma": "Microsoft Windows",
+      "gen": "survival horror",
+      "note": ""
+    },
+    {
+      "an": "2024",
+      "titlu": "ASKA",
+      "dezvoltator": "Sand Sailor Studio",
+      "editura": "Thunderful Publishing",
+      "platforma": "Microsoft Windows",
+      "gen": "adventure, strategy, simulation",
+      "note": ""
+    },
+    {
+      "an": "2024",
+      "titlu": "Stay Still 2",
+      "dezvoltator": "Tarba Paul Cornel",
+      "editura": "Galactic Crows",
+      "platforma": "Microsoft Windows",
+      "gen": "survival horror",
+      "note": ""
+    },
+    {
+      "an": "2024",
+      "titlu": "MUZY",
+      "dezvoltator": "Andrew Rybis",
+      "editura": "Galactic Crows, Tarba Paul Cornel",
+      "platforma": "Microsoft Windows",
+      "gen": "survival horror",
+      "note": ""
+    },
+    {
+      "an": "2024",
+      "titlu": "Psychopath Massacre",
+      "dezvoltator": "Tarba Paul Cornel",
+      "editura": "Galactic Crows",
+      "platforma": "Microsoft Windows",
+      "gen": "survival horror",
+      "note": ""
+    },
+    {
+      "an": "2024",
+      "titlu": "Left to Rot",
+      "dezvoltator": "Tarba Paul Cornel",
+      "editura": "Galactic Crows",
+      "platforma": "Microsoft Windows",
+      "gen": "survival horror",
+      "note": ""
+    },
+    {
+      "an": "2024",
+      "titlu": "Psychopathy Assessment",
+      "dezvoltator": "Tarba Paul Cornel",
+      "editura": "Galactic Crows",
+      "platforma": "Microsoft Windows",
+      "gen": "survival horror",
+      "note": ""
+    },
+    {
+      "an": "2024",
+      "titlu": "Christmas Mutilator",
+      "dezvoltator": "Tarba Paul Cornel",
+      "editura": "Galactic Crows",
+      "platforma": "Microsoft Windows",
+      "gen": "survival horror",
+      "note": ""
+    },
+    {
+      "an": "2025",
+      "titlu": "Deadly Quiet",
+      "dezvoltator": "Tarba Paul Cornel, Muhammad Abdul Rafy",
+      "editura": "Galactic Crows",
+      "platforma": "Microsoft Windows",
+      "gen": "survival horror, Multiplayer",
+      "note": ""
+    },
+    {
+      "an": "2025",
+      "titlu": "Geamana Village",
+      "dezvoltator": "Chainwolf Studio, Otozip",
+      "editura": "Chainwolf Studio",
+      "platforma": "Microsoft Windows",
+      "gen": "Investigation, adventure",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "Jocuri video românești - Free Download",
+    "description": "Jocuri video dezvoltate în România (studiouri românești), cu anul lansării, dezvoltator, editură, platformă și gen. Contains 64 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Jocuri video românești | ListBase",
+    "seo_description": "Download Jocuri video românești — 64 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 64 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Listă_de_jocuri_video_românești"
+    ]
+  }
+}

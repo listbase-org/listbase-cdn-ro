@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-10-27T02:12:35.882Z",
-  "total_datasets": 424,
-  "total_records": 162124,
+  "generated": "2026-10-27T02:12:38.316Z",
+  "total_datasets": 425,
+  "total_records": 162188,
   "categories": [
     {
       "id": "culture",
@@ -54,6 +54,10 @@
     },
     {
       "id": "sports",
+      "dataset_count": 1
+    },
+    {
+      "id": "tech",
       "dataset_count": 1
     },
     {
@@ -12003,6 +12007,34 @@
         "xlsx": {
           "name": "ro-canale-tv-sport_RO.xlsx",
           "size": 8500
+        }
+      }
+    },
+    {
+      "id": "ro-jocuri-video-romanesti",
+      "name": "Jocuri video românești",
+      "category": "tech",
+      "record_count": 64,
+      "columns": [
+        "an",
+        "titlu",
+        "dezvoltator",
+        "editura",
+        "platforma",
+        "gen",
+        "note"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Listă_de_jocuri_video_românești",
+      "updated": "2026-10",
+      "size": 19205,
+      "files": {
+        "csv": {
+          "name": "ro-jocuri-video-romanesti_RO.csv",
+          "size": 9159
+        },
+        "xlsx": {
+          "name": "ro-jocuri-video-romanesti_RO.xlsx",
+          "size": 11380
         }
       }
     },
