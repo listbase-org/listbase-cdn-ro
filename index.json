@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-10-27T02:12:40.719Z",
-  "total_datasets": 426,
-  "total_records": 162231,
+  "generated": "2026-10-27T02:12:43.420Z",
+  "total_datasets": 427,
+  "total_records": 162274,
   "categories": [
     {
       "id": "culture",
@@ -55,6 +55,10 @@
     {
       "id": "science",
       "dataset_count": 2
+    },
+    {
+      "id": "society",
+      "dataset_count": 1
     },
     {
       "id": "sports",
@@ -12004,6 +12008,37 @@
         "xlsx": {
           "name": "ro-inventatori-romani_RO.xlsx",
           "size": 14554
+        }
+      }
+    },
+    {
+      "id": "ro-judete-populatie-recensaminte",
+      "name": "Populația județelor României la recensăminte (1948–2021)",
+      "category": "society",
+      "record_count": 43,
+      "columns": [
+        "judet",
+        "populatie_1948",
+        "populatie_1956",
+        "populatie_1966",
+        "populatie_1977",
+        "populatie_1992",
+        "populatie_2002",
+        "populatie_2011",
+        "populatie_2021",
+        "variatie_1948_2021_pct"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Lista_județelor_României_după_populație",
+      "updated": "2026-10",
+      "size": 16801,
+      "files": {
+        "csv": {
+          "name": "ro-judete-populatie-recensaminte_RO.csv",
+          "size": 4089
+        },
+        "xlsx": {
+          "name": "ro-judete-populatie-recensaminte_RO.xlsx",
+          "size": 10085
         }
       }
     },

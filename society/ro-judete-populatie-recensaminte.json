@@ -1,0 +1,592 @@
+{
+  "id": "ro-judete-populatie-recensaminte",
+  "name": "Populația județelor României la recensăminte (1948–2021)",
+  "title": "Populația județelor României la recensăminte (1948–2021)",
+  "description": "Evoluția populației fiecărui județ al României la recensămintele din 1948, 1956, 1966, 1977, 1992, 2002, 2011 și 2021.",
+  "category": "society",
+  "source": "https://ro.wikipedia.org/wiki/Lista_județelor_României_după_populație",
+  "source_url": "https://ro.wikipedia.org/wiki/Lista_județelor_României_după_populație",
+  "updated": "2026-10",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "populatie_1948",
+      "label": "Populatie 1948",
+      "type": "number"
+    },
+    {
+      "key": "populatie_1956",
+      "label": "Populatie 1956",
+      "type": "number"
+    },
+    {
+      "key": "populatie_1966",
+      "label": "Populatie 1966",
+      "type": "number"
+    },
+    {
+      "key": "populatie_1977",
+      "label": "Populatie 1977",
+      "type": "number"
+    },
+    {
+      "key": "populatie_1992",
+      "label": "Populatie 1992",
+      "type": "number"
+    },
+    {
+      "key": "populatie_2002",
+      "label": "Populatie 2002",
+      "type": "number"
+    },
+    {
+      "key": "populatie_2011",
+      "label": "Populatie 2011",
+      "type": "number"
+    },
+    {
+      "key": "populatie_2021",
+      "label": "Populatie 2021",
+      "type": "number"
+    },
+    {
+      "key": "variatie_1948_2021_pct",
+      "label": "Variatie 1948 2021 Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "judet": "Alba",
+      "populatie_1948": 361062,
+      "populatie_1956": 370800,
+      "populatie_1966": 382786,
+      "populatie_1977": 409634,
+      "populatie_1992": 414227,
+      "populatie_2002": 382747,
+      "populatie_2011": 342336,
+      "populatie_2021": 325941,
+      "variatie_1948_2021_pct": -9.73
+    },
+    {
+      "judet": "Arad",
+      "populatie_1948": 476207,
+      "populatie_1956": 475620,
+      "populatie_1966": 481248,
+      "populatie_1977": 512020,
+      "populatie_1992": 487370,
+      "populatie_2002": 461791,
+      "populatie_2011": 412235,
+      "populatie_2021": 410143,
+      "variatie_1948_2021_pct": -13.87
+    },
+    {
+      "judet": "Argeș",
+      "populatie_1948": 448964,
+      "populatie_1956": 483741,
+      "populatie_1966": 529833,
+      "populatie_1977": 631918,
+      "populatie_1992": 680574,
+      "populatie_2002": 652625,
+      "populatie_2011": 612431,
+      "populatie_2021": 569932,
+      "variatie_1948_2021_pct": 26.94
+    },
+    {
+      "judet": "Bacău",
+      "populatie_1948": 414996,
+      "populatie_1956": 507937,
+      "populatie_1966": 598321,
+      "populatie_1977": 667791,
+      "populatie_1992": 736078,
+      "populatie_2002": 706623,
+      "populatie_2011": 616168,
+      "populatie_2021": 601387,
+      "variatie_1948_2021_pct": 44.91
+    },
+    {
+      "judet": "Bihor",
+      "populatie_1948": 536323,
+      "populatie_1956": 574488,
+      "populatie_1966": 586460,
+      "populatie_1977": 633094,
+      "populatie_1992": 634093,
+      "populatie_2002": 600246,
+      "populatie_2011": 575398,
+      "populatie_2021": 551297,
+      "variatie_1948_2021_pct": 2.79
+    },
+    {
+      "judet": "Bistrița-Năsăud",
+      "populatie_1948": 233650,
+      "populatie_1956": 255789,
+      "populatie_1966": 269954,
+      "populatie_1977": 286628,
+      "populatie_1992": 327238,
+      "populatie_2002": 311657,
+      "populatie_2011": 301425,
+      "populatie_2021": 295988,
+      "variatie_1948_2021_pct": 26.68
+    },
+    {
+      "judet": "Botoșani",
+      "populatie_1948": 385236,
+      "populatie_1956": 428050,
+      "populatie_1966": 452406,
+      "populatie_1977": 451217,
+      "populatie_1992": 458904,
+      "populatie_2002": 452834,
+      "populatie_2011": 404429,
+      "populatie_2021": 392821,
+      "variatie_1948_2021_pct": 1.97
+    },
+    {
+      "judet": "Brașov",
+      "populatie_1948": 300836,
+      "populatie_1956": 373941,
+      "populatie_1966": 442692,
+      "populatie_1977": 582863,
+      "populatie_1992": 642513,
+      "populatie_2002": 589028,
+      "populatie_2011": 529906,
+      "populatie_2021": 546615,
+      "variatie_1948_2021_pct": 81.7
+    },
+    {
+      "judet": "Brăila",
+      "populatie_1948": 271251,
+      "populatie_1956": 297276,
+      "populatie_1966": 339954,
+      "populatie_1977": 377954,
+      "populatie_1992": 392069,
+      "populatie_2002": 373174,
+      "populatie_2011": 316652,
+      "populatie_2021": 281452,
+      "variatie_1948_2021_pct": 3.76
+    },
+    {
+      "judet": "Buzău",
+      "populatie_1948": 430225,
+      "populatie_1956": 465829,
+      "populatie_1966": 480951,
+      "populatie_1977": 508424,
+      "populatie_1992": 516307,
+      "populatie_2002": 496214,
+      "populatie_2011": 440347,
+      "populatie_2021": 404979,
+      "variatie_1948_2021_pct": -5.87
+    },
+    {
+      "judet": "Caraș-Severin",
+      "populatie_1948": 302254,
+      "populatie_1956": 327787,
+      "populatie_1966": 358726,
+      "populatie_1977": 385577,
+      "populatie_1992": 375794,
+      "populatie_2002": 333219,
+      "populatie_2011": 287535,
+      "populatie_2021": 246588,
+      "variatie_1948_2021_pct": -18.42
+    },
+    {
+      "judet": "Călărași",
+      "populatie_1948": 287722,
+      "populatie_1956": 318573,
+      "populatie_1966": 337261,
+      "populatie_1977": 338807,
+      "populatie_1992": 338844,
+      "populatie_2002": 324617,
+      "populatie_2011": 287269,
+      "populatie_2021": 283458,
+      "variatie_1948_2021_pct": -1.48
+    },
+    {
+      "judet": "Cluj",
+      "populatie_1948": 520073,
+      "populatie_1956": 580344,
+      "populatie_1966": 629746,
+      "populatie_1977": 715507,
+      "populatie_1992": 735077,
+      "populatie_2002": 702755,
+      "populatie_2011": 691106,
+      "populatie_2021": 679141,
+      "variatie_1948_2021_pct": 30.59
+    },
+    {
+      "judet": "Constanța",
+      "populatie_1948": 311062,
+      "populatie_1956": 369940,
+      "populatie_1966": 465752,
+      "populatie_1977": 608817,
+      "populatie_1992": 748044,
+      "populatie_2002": 715151,
+      "populatie_2011": 684082,
+      "populatie_2021": 655997,
+      "variatie_1948_2021_pct": 110.89
+    },
+    {
+      "judet": "Covasna",
+      "populatie_1948": 157166,
+      "populatie_1956": 172509,
+      "populatie_1966": 176858,
+      "populatie_1977": 199017,
+      "populatie_1992": 232592,
+      "populatie_2002": 222449,
+      "populatie_2011": 211254,
+      "populatie_2021": 200042,
+      "variatie_1948_2021_pct": 27.28
+    },
+    {
+      "judet": "Dâmbovița",
+      "populatie_1948": 409272,
+      "populatie_1956": 438985,
+      "populatie_1966": 453241,
+      "populatie_1977": 527620,
+      "populatie_1992": 559874,
+      "populatie_2002": 541763,
+      "populatie_2011": 510287,
+      "populatie_2021": 479404,
+      "variatie_1948_2021_pct": 17.14
+    },
+    {
+      "judet": "Dolj",
+      "populatie_1948": 615301,
+      "populatie_1956": 642028,
+      "populatie_1966": 691116,
+      "populatie_1977": 750328,
+      "populatie_1992": 761074,
+      "populatie_2002": 734231,
+      "populatie_2011": 660544,
+      "populatie_2021": 599442,
+      "variatie_1948_2021_pct": -2.58
+    },
+    {
+      "judet": "Galați",
+      "populatie_1948": 341797,
+      "populatie_1956": 396138,
+      "populatie_1966": 474279,
+      "populatie_1977": 581561,
+      "populatie_1992": 639853,
+      "populatie_2002": 619556,
+      "populatie_2011": 530612,
+      "populatie_2021": 496892,
+      "variatie_1948_2021_pct": 45.38
+    },
+    {
+      "judet": "Giurgiu",
+      "populatie_1948": 313793,
+      "populatie_1956": 325045,
+      "populatie_1966": 320120,
+      "populatie_1977": 327494,
+      "populatie_1992": 313084,
+      "populatie_2002": 297859,
+      "populatie_2011": 267147,
+      "populatie_2021": 262066,
+      "variatie_1948_2021_pct": -16.48
+    },
+    {
+      "judet": "Gorj",
+      "populatie_1948": 280524,
+      "populatie_1956": 293031,
+      "populatie_1966": 298382,
+      "populatie_1977": 348521,
+      "populatie_1992": 400100,
+      "populatie_2002": 387308,
+      "populatie_2011": 345771,
+      "populatie_2021": 314685,
+      "variatie_1948_2021_pct": 12.18
+    },
+    {
+      "judet": "Harghita",
+      "populatie_1948": 258495,
+      "populatie_1956": 273964,
+      "populatie_1966": 282392,
+      "populatie_1977": 326310,
+      "populatie_1992": 347637,
+      "populatie_2002": 326222,
+      "populatie_2011": 304765,
+      "populatie_2021": 291950,
+      "variatie_1948_2021_pct": 12.94
+    },
+    {
+      "judet": "Hunedoara",
+      "populatie_1948": 306955,
+      "populatie_1956": 381902,
+      "populatie_1966": 474602,
+      "populatie_1977": 514436,
+      "populatie_1992": 547993,
+      "populatie_2002": 485712,
+      "populatie_2011": 410383,
+      "populatie_2021": 361657,
+      "variatie_1948_2021_pct": 17.82
+    },
+    {
+      "judet": "Ialomița",
+      "populatie_1948": 244750,
+      "populatie_1956": 274655,
+      "populatie_1966": 291373,
+      "populatie_1977": 295965,
+      "populatie_1992": 304008,
+      "populatie_2002": 296572,
+      "populatie_2011": 265559,
+      "populatie_2021": 250816,
+      "variatie_1948_2021_pct": 2.48
+    },
+    {
+      "judet": "Iași",
+      "populatie_1948": 431586,
+      "populatie_1956": 516635,
+      "populatie_1966": 619027,
+      "populatie_1977": 729243,
+      "populatie_1992": 806778,
+      "populatie_2002": 816910,
+      "populatie_2011": 772348,
+      "populatie_2021": 760774,
+      "variatie_1948_2021_pct": 76.27
+    },
+    {
+      "judet": "Ilfov",
+      "populatie_1948": 167533,
+      "populatie_1956": 196265,
+      "populatie_1966": 229773,
+      "populatie_1977": 287738,
+      "populatie_1992": 286939,
+      "populatie_2002": 300123,
+      "populatie_2011": 353481,
+      "populatie_2021": 542704,
+      "variatie_1948_2021_pct": 223.94
+    },
+    {
+      "judet": "Maramureș",
+      "populatie_1948": 321287,
+      "populatie_1956": 367114,
+      "populatie_1966": 427645,
+      "populatie_1977": 492860,
+      "populatie_1992": 538534,
+      "populatie_2002": 510110,
+      "populatie_2011": 472117,
+      "populatie_2021": 452475,
+      "variatie_1948_2021_pct": 40.83
+    },
+    {
+      "judet": "Mehedinți",
+      "populatie_1948": 304788,
+      "populatie_1956": 304091,
+      "populatie_1966": 310021,
+      "populatie_1977": 322371,
+      "populatie_1992": 332091,
+      "populatie_2002": 306732,
+      "populatie_2011": 259212,
+      "populatie_2021": 234339,
+      "variatie_1948_2021_pct": -23.11
+    },
+    {
+      "judet": "Mureș",
+      "populatie_1948": 461403,
+      "populatie_1956": 513261,
+      "populatie_1966": 561598,
+      "populatie_1977": 605345,
+      "populatie_1992": 607298,
+      "populatie_2002": 580851,
+      "populatie_2011": 540508,
+      "populatie_2021": 518193,
+      "variatie_1948_2021_pct": 12.31
+    },
+    {
+      "judet": "Neamț",
+      "populatie_1948": 357348,
+      "populatie_1956": 419949,
+      "populatie_1966": 470206,
+      "populatie_1977": 532096,
+      "populatie_1992": 577190,
+      "populatie_2002": 554516,
+      "populatie_2011": 507399,
+      "populatie_2021": 454203,
+      "variatie_1948_2021_pct": 27.1
+    },
+    {
+      "judet": "Olt",
+      "populatie_1948": 442442,
+      "populatie_1956": 458982,
+      "populatie_1966": 476513,
+      "populatie_1977": 518804,
+      "populatie_1992": 520966,
+      "populatie_2002": 489274,
+      "populatie_2011": 421769,
+      "populatie_2021": 383280,
+      "variatie_1948_2021_pct": -13.37
+    },
+    {
+      "judet": "Prahova",
+      "populatie_1948": 557776,
+      "populatie_1956": 623817,
+      "populatie_1966": 701057,
+      "populatie_1977": 817168,
+      "populatie_1992": 873229,
+      "populatie_2002": 829945,
+      "populatie_2011": 762886,
+      "populatie_2021": 695119,
+      "variatie_1948_2021_pct": 24.62
+    },
+    {
+      "judet": "Satu Mare",
+      "populatie_1948": 312672,
+      "populatie_1956": 337351,
+      "populatie_1966": 359393,
+      "populatie_1977": 393840,
+      "populatie_1992": 400158,
+      "populatie_2002": 367281,
+      "populatie_2011": 336117,
+      "populatie_2021": 330668,
+      "variatie_1948_2021_pct": 5.76
+    },
+    {
+      "judet": "Sălaj",
+      "populatie_1948": 262580,
+      "populatie_1956": 271989,
+      "populatie_1966": 263103,
+      "populatie_1977": 264569,
+      "populatie_1992": 266308,
+      "populatie_2002": 248015,
+      "populatie_2011": 225631,
+      "populatie_2021": 212224,
+      "variatie_1948_2021_pct": -19.18
+    },
+    {
+      "judet": "Sibiu",
+      "populatie_1948": 335116,
+      "populatie_1956": 372687,
+      "populatie_1966": 414756,
+      "populatie_1977": 481645,
+      "populatie_1992": 452820,
+      "populatie_2002": 421724,
+      "populatie_2011": 377273,
+      "populatie_2021": 388326,
+      "variatie_1948_2021_pct": 15.88
+    },
+    {
+      "judet": "Suceava",
+      "populatie_1948": 439751,
+      "populatie_1956": 507674,
+      "populatie_1966": 572781,
+      "populatie_1977": 633899,
+      "populatie_1992": 700799,
+      "populatie_2002": 688435,
+      "populatie_2011": 634810,
+      "populatie_2021": 642551,
+      "variatie_1948_2021_pct": 46.12
+    },
+    {
+      "judet": "Teleorman",
+      "populatie_1948": 487394,
+      "populatie_1956": 510488,
+      "populatie_1966": 516222,
+      "populatie_1977": 518943,
+      "populatie_1992": 482281,
+      "populatie_2002": 436025,
+      "populatie_2011": 369897,
+      "populatie_2021": 323544,
+      "variatie_1948_2021_pct": -33.62
+    },
+    {
+      "judet": "Timiș",
+      "populatie_1948": 588936,
+      "populatie_1956": 568881,
+      "populatie_1966": 607596,
+      "populatie_1977": 696884,
+      "populatie_1992": 700292,
+      "populatie_2002": 677926,
+      "populatie_2011": 683540,
+      "populatie_2021": 650533,
+      "variatie_1948_2021_pct": 10.46
+    },
+    {
+      "judet": "Tulcea",
+      "populatie_1948": 192228,
+      "populatie_1956": 223719,
+      "populatie_1966": 236709,
+      "populatie_1977": 254531,
+      "populatie_1992": 270197,
+      "populatie_2002": 256492,
+      "populatie_2011": 211622,
+      "populatie_2021": 193355,
+      "variatie_1948_2021_pct": 0.59
+    },
+    {
+      "judet": "Vaslui",
+      "populatie_1948": 344917,
+      "populatie_1956": 401626,
+      "populatie_1966": 431555,
+      "populatie_1977": 437251,
+      "populatie_1992": 457799,
+      "populatie_2002": 455049,
+      "populatie_2011": 393340,
+      "populatie_2021": 374700,
+      "variatie_1948_2021_pct": 8.63
+    },
+    {
+      "judet": "Vâlcea",
+      "populatie_1948": 341590,
+      "populatie_1956": 362356,
+      "populatie_1966": 368779,
+      "populatie_1977": 414241,
+      "populatie_1992": 436298,
+      "populatie_2002": 413247,
+      "populatie_2011": 374240,
+      "populatie_2021": 335312,
+      "variatie_1948_2021_pct": 0.08
+    },
+    {
+      "judet": "Vrancea",
+      "populatie_1948": 290183,
+      "populatie_1956": 326532,
+      "populatie_1966": 351292,
+      "populatie_1977": 369740,
+      "populatie_1992": 392651,
+      "populatie_2002": 387632,
+      "populatie_2011": 339510,
+      "populatie_2021": 341861,
+      "variatie_1948_2021_pct": 15.55
+    },
+    {
+      "judet": "Municipiul București",
+      "populatie_1948": 1025180,
+      "populatie_1956": 1177661,
+      "populatie_1966": 1366684,
+      "populatie_1977": 1807239,
+      "populatie_1992": 2067545,
+      "populatie_2002": 1926334,
+      "populatie_2011": 1883425,
+      "populatie_2021": 1716961,
+      "variatie_1948_2021_pct": 67.48
+    },
+    {
+      "judet": "România",
+      "populatie_1948": 15872624,
+      "populatie_1956": 17489450,
+      "populatie_1966": 19103163,
+      "populatie_1977": 21559910,
+      "populatie_1992": 22760449,
+      "populatie_2002": 21680974,
+      "populatie_2011": 19599506,
+      "populatie_2021": 19053815,
+      "variatie_1948_2021_pct": 20.04
+    }
+  ],
+  "meta": {
+    "title": "Populația județelor României la recensăminte (1948–2021) - Free Download",
+    "description": "Evoluția populației fiecărui județ al României la recensămintele din 1948, 1956, 1966, 1977, 1992, 2002, 2011 și 2021. Contains 43 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Populația județelor României la recensăminte (1948–2021) | ListBase",
+    "seo_description": "Download Populația județelor României la recensăminte (1948–2021) — 43 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 43 records / 10 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Lista_județelor_României_după_populație"
+    ]
+  }
+}
