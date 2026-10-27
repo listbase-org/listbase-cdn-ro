@@ -1,12 +1,16 @@
 {
   "lang": "ro",
-  "generated": "2026-10-27T02:12:38.316Z",
-  "total_datasets": 425,
-  "total_records": 162188,
+  "generated": "2026-10-27T02:12:40.719Z",
+  "total_datasets": 426,
+  "total_records": 162231,
   "categories": [
     {
       "id": "culture",
       "dataset_count": 4
+    },
+    {
+      "id": "economy",
+      "dataset_count": 1
     },
     {
       "id": "education",
@@ -186,6 +190,33 @@
         "xlsx": {
           "name": "ro-patrimoniul-mondial-unesco_RO.xlsx",
           "size": 9443
+        }
+      }
+    },
+    {
+      "id": "ro-judete-pib",
+      "name": "Județele României după PIB",
+      "category": "economy",
+      "record_count": 43,
+      "columns": [
+        "loc",
+        "judet",
+        "pib_mil_ron",
+        "pib_mil_usd_ppc",
+        "pib_pe_locuitor_ron",
+        "pib_pe_locuitor_usd_ppc"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Lista_județelor_din_România_după_PIB",
+      "updated": "2026-10",
+      "size": 9999,
+      "files": {
+        "csv": {
+          "name": "ro-judete-pib_RO.csv",
+          "size": 2114
+        },
+        "xlsx": {
+          "name": "ro-judete-pib_RO.xlsx",
+          "size": 8760
         }
       }
     },

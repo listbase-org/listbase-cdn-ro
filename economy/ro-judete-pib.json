@@ -1,0 +1,400 @@
+{
+  "id": "ro-judete-pib",
+  "name": "Județele României după PIB",
+  "title": "Județele României după PIB",
+  "description": "Clasamentul județelor României după produsul intern brut total și pe cap de locuitor (RON și USD PPC).",
+  "category": "economy",
+  "source": "https://ro.wikipedia.org/wiki/Lista_județelor_din_România_după_PIB",
+  "source_url": "https://ro.wikipedia.org/wiki/Lista_județelor_din_România_după_PIB",
+  "updated": "2026-10",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "loc",
+      "label": "Loc",
+      "type": "number"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "pib_mil_ron",
+      "label": "Pib Mil Ron",
+      "type": "number"
+    },
+    {
+      "key": "pib_mil_usd_ppc",
+      "label": "Pib Mil Usd Ppc",
+      "type": "number"
+    },
+    {
+      "key": "pib_pe_locuitor_ron",
+      "label": "Pib Pe Locuitor Ron",
+      "type": "number"
+    },
+    {
+      "key": "pib_pe_locuitor_usd_ppc",
+      "label": "Pib Pe Locuitor Usd Ppc",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "loc": 1,
+      "judet": "Bucharest",
+      "pib_mil_ron": 426779,
+      "pib_mil_usd_ppc": 242643,
+      "pib_pe_locuitor_ron": 247744,
+      "pib_pe_locuitor_usd_ppc": 140854
+    },
+    {
+      "loc": 2,
+      "judet": "Cluj",
+      "pib_mil_ron": 85341,
+      "pib_mil_usd_ppc": 48520,
+      "pib_pe_locuitor_ron": 123387,
+      "pib_pe_locuitor_usd_ppc": 70151
+    },
+    {
+      "loc": 3,
+      "judet": "Timiș",
+      "pib_mil_ron": 71193,
+      "pib_mil_usd_ppc": 40476,
+      "pib_pe_locuitor_ron": 107615,
+      "pib_pe_locuitor_usd_ppc": 61184
+    },
+    {
+      "loc": 4,
+      "judet": "Constanța",
+      "pib_mil_ron": 65051,
+      "pib_mil_usd_ppc": 36984,
+      "pib_pe_locuitor_ron": 98870,
+      "pib_pe_locuitor_usd_ppc": 56212
+    },
+    {
+      "loc": 5,
+      "judet": "Prahova",
+      "pib_mil_ron": 63282,
+      "pib_mil_usd_ppc": 35978,
+      "pib_pe_locuitor_ron": 91694,
+      "pib_pe_locuitor_usd_ppc": 52132
+    },
+    {
+      "loc": 6,
+      "judet": "Iași",
+      "pib_mil_ron": 52724,
+      "pib_mil_usd_ppc": 29976,
+      "pib_pe_locuitor_ron": 67908,
+      "pib_pe_locuitor_usd_ppc": 38609
+    },
+    {
+      "loc": 7,
+      "judet": "Brașov",
+      "pib_mil_ron": 52448,
+      "pib_mil_usd_ppc": 29819,
+      "pib_pe_locuitor_ron": 94456,
+      "pib_pe_locuitor_usd_ppc": 53702
+    },
+    {
+      "loc": 8,
+      "judet": "Ilfov",
+      "pib_mil_ron": 45666,
+      "pib_mil_usd_ppc": 25963,
+      "pib_pe_locuitor_ron": 79518,
+      "pib_pe_locuitor_usd_ppc": 45209
+    },
+    {
+      "loc": 9,
+      "judet": "Argeș",
+      "pib_mil_ron": 40383,
+      "pib_mil_usd_ppc": 22960,
+      "pib_pe_locuitor_ron": 71442,
+      "pib_pe_locuitor_usd_ppc": 40618
+    },
+    {
+      "loc": 10,
+      "judet": "Dolj",
+      "pib_mil_ron": 38834,
+      "pib_mil_usd_ppc": 22079,
+      "pib_pe_locuitor_ron": 64810,
+      "pib_pe_locuitor_usd_ppc": 36847
+    },
+    {
+      "loc": 11,
+      "judet": "Bihor",
+      "pib_mil_ron": 36667,
+      "pib_mil_usd_ppc": 20847,
+      "pib_pe_locuitor_ron": 66071,
+      "pib_pe_locuitor_usd_ppc": 37564
+    },
+    {
+      "loc": 12,
+      "judet": "Mureș",
+      "pib_mil_ron": 33715,
+      "pib_mil_usd_ppc": 19168,
+      "pib_pe_locuitor_ron": 64875,
+      "pib_pe_locuitor_usd_ppc": 36884
+    },
+    {
+      "loc": 13,
+      "judet": "Sibiu",
+      "pib_mil_ron": 33036,
+      "pib_mil_usd_ppc": 18783,
+      "pib_pe_locuitor_ron": 84126,
+      "pib_pe_locuitor_usd_ppc": 47830
+    },
+    {
+      "loc": 14,
+      "judet": "Gorj",
+      "pib_mil_ron": 32059,
+      "pib_mil_usd_ppc": 18227,
+      "pib_pe_locuitor_ron": 103088,
+      "pib_pe_locuitor_usd_ppc": 58610
+    },
+    {
+      "loc": 15,
+      "judet": "Bacău",
+      "pib_mil_ron": 30926,
+      "pib_mil_usd_ppc": 17583,
+      "pib_pe_locuitor_ron": 51829,
+      "pib_pe_locuitor_usd_ppc": 29467
+    },
+    {
+      "loc": 16,
+      "judet": "Arad",
+      "pib_mil_ron": 30481,
+      "pib_mil_usd_ppc": 17330,
+      "pib_pe_locuitor_ron": 74217,
+      "pib_pe_locuitor_usd_ppc": 42196
+    },
+    {
+      "loc": 17,
+      "judet": "Suceava",
+      "pib_mil_ron": 28778,
+      "pib_mil_usd_ppc": 16362,
+      "pib_pe_locuitor_ron": 44719,
+      "pib_pe_locuitor_usd_ppc": 25425
+    },
+    {
+      "loc": 18,
+      "judet": "Dâmbovița",
+      "pib_mil_ron": 26129,
+      "pib_mil_usd_ppc": 14856,
+      "pib_pe_locuitor_ron": 54778,
+      "pib_pe_locuitor_usd_ppc": 31144
+    },
+    {
+      "loc": 19,
+      "judet": "Maramureș",
+      "pib_mil_ron": 25489,
+      "pib_mil_usd_ppc": 14492,
+      "pib_pe_locuitor_ron": 56397,
+      "pib_pe_locuitor_usd_ppc": 32064
+    },
+    {
+      "loc": 20,
+      "judet": "Galați",
+      "pib_mil_ron": 25108,
+      "pib_mil_usd_ppc": 14275,
+      "pib_pe_locuitor_ron": 50866,
+      "pib_pe_locuitor_usd_ppc": 28920
+    },
+    {
+      "loc": 21,
+      "judet": "Alba",
+      "pib_mil_ron": 24247,
+      "pib_mil_usd_ppc": 13786,
+      "pib_pe_locuitor_ron": 74376,
+      "pib_pe_locuitor_usd_ppc": 42286
+    },
+    {
+      "loc": 22,
+      "judet": "Hunedoara",
+      "pib_mil_ron": 22939,
+      "pib_mil_usd_ppc": 13042,
+      "pib_pe_locuitor_ron": 64384,
+      "pib_pe_locuitor_usd_ppc": 36605
+    },
+    {
+      "loc": 23,
+      "judet": "Neamț",
+      "pib_mil_ron": 22520,
+      "pib_mil_usd_ppc": 12804,
+      "pib_pe_locuitor_ron": 50200,
+      "pib_pe_locuitor_usd_ppc": 28541
+    },
+    {
+      "loc": 24,
+      "judet": "Vâlcea",
+      "pib_mil_ron": 21393,
+      "pib_mil_usd_ppc": 12163,
+      "pib_pe_locuitor_ron": 62781,
+      "pib_pe_locuitor_usd_ppc": 35694
+    },
+    {
+      "loc": 25,
+      "judet": "Buzău",
+      "pib_mil_ron": 20608,
+      "pib_mil_usd_ppc": 11717,
+      "pib_pe_locuitor_ron": 51602,
+      "pib_pe_locuitor_usd_ppc": 29338
+    },
+    {
+      "loc": 26,
+      "judet": "Satu Mare",
+      "pib_mil_ron": 18591,
+      "pib_mil_usd_ppc": 10570,
+      "pib_pe_locuitor_ron": 56223,
+      "pib_pe_locuitor_usd_ppc": 31965
+    },
+    {
+      "loc": 27,
+      "judet": "Olt",
+      "pib_mil_ron": 18420,
+      "pib_mil_usd_ppc": 10472,
+      "pib_pe_locuitor_ron": 48781,
+      "pib_pe_locuitor_usd_ppc": 27734
+    },
+    {
+      "loc": 28,
+      "judet": "Harghita",
+      "pib_mil_ron": 17360,
+      "pib_mil_usd_ppc": 9870,
+      "pib_pe_locuitor_ron": 59434,
+      "pib_pe_locuitor_usd_ppc": 33791
+    },
+    {
+      "loc": 29,
+      "judet": "Teleorman",
+      "pib_mil_ron": 17288,
+      "pib_mil_usd_ppc": 9829,
+      "pib_pe_locuitor_ron": 54595,
+      "pib_pe_locuitor_usd_ppc": 31040
+    },
+    {
+      "loc": 30,
+      "judet": "Brăila",
+      "pib_mil_ron": 16598,
+      "pib_mil_usd_ppc": 9437,
+      "pib_pe_locuitor_ron": 60174,
+      "pib_pe_locuitor_usd_ppc": 34212
+    },
+    {
+      "loc": 31,
+      "judet": "Caraș-Severin",
+      "pib_mil_ron": 15988,
+      "pib_mil_usd_ppc": 9090,
+      "pib_pe_locuitor_ron": 65406,
+      "pib_pe_locuitor_usd_ppc": 37186
+    },
+    {
+      "loc": 32,
+      "judet": "Vrancea",
+      "pib_mil_ron": 15087,
+      "pib_mil_usd_ppc": 8577,
+      "pib_pe_locuitor_ron": 45365,
+      "pib_pe_locuitor_usd_ppc": 25792
+    },
+    {
+      "loc": 33,
+      "judet": "Bistrița-Năsăud",
+      "pib_mil_ron": 14897,
+      "pib_mil_usd_ppc": 8469,
+      "pib_pe_locuitor_ron": 50203,
+      "pib_pe_locuitor_usd_ppc": 28542
+    },
+    {
+      "loc": 34,
+      "judet": "Botoșani",
+      "pib_mil_ron": 14387,
+      "pib_mil_usd_ppc": 8180,
+      "pib_pe_locuitor_ron": 36955,
+      "pib_pe_locuitor_usd_ppc": 21010
+    },
+    {
+      "loc": 35,
+      "judet": "Ialomița",
+      "pib_mil_ron": 13696,
+      "pib_mil_usd_ppc": 7787,
+      "pib_pe_locuitor_ron": 54846,
+      "pib_pe_locuitor_usd_ppc": 31183
+    },
+    {
+      "loc": 36,
+      "judet": "Mehedinți",
+      "pib_mil_ron": 13200,
+      "pib_mil_usd_ppc": 7505,
+      "pib_pe_locuitor_ron": 57143,
+      "pib_pe_locuitor_usd_ppc": 32488
+    },
+    {
+      "loc": 37,
+      "judet": "Sălaj",
+      "pib_mil_ron": 12970,
+      "pib_mil_usd_ppc": 7374,
+      "pib_pe_locuitor_ron": 61555,
+      "pib_pe_locuitor_usd_ppc": 34997
+    },
+    {
+      "loc": 38,
+      "judet": "Vaslui",
+      "pib_mil_ron": 12848,
+      "pib_mil_usd_ppc": 7305,
+      "pib_pe_locuitor_ron": 34676,
+      "pib_pe_locuitor_usd_ppc": 19715
+    },
+    {
+      "loc": 39,
+      "judet": "Tulcea",
+      "pib_mil_ron": 12677,
+      "pib_mil_usd_ppc": 7208,
+      "pib_pe_locuitor_ron": 66609,
+      "pib_pe_locuitor_usd_ppc": 37870
+    },
+    {
+      "loc": 40,
+      "judet": "Călărași",
+      "pib_mil_ron": 12104,
+      "pib_mil_usd_ppc": 6882,
+      "pib_pe_locuitor_ron": 43248,
+      "pib_pe_locuitor_usd_ppc": 24588
+    },
+    {
+      "loc": 41,
+      "judet": "Covasna",
+      "pib_mil_ron": 11361,
+      "pib_mil_usd_ppc": 6459,
+      "pib_pe_locuitor_ron": 56863,
+      "pib_pe_locuitor_usd_ppc": 32329
+    },
+    {
+      "loc": 42,
+      "judet": "Giurgiu",
+      "pib_mil_ron": 10245,
+      "pib_mil_usd_ppc": 5825,
+      "pib_pe_locuitor_ron": 39529,
+      "pib_pe_locuitor_usd_ppc": 22245
+    },
+    {
+      "loc": "",
+      "judet": "România",
+      "pib_mil_ron": 1604554,
+      "pib_mil_usd_ppc": 912260,
+      "pib_pe_locuitor_ron": 84168,
+      "pib_pe_locuitor_usd_ppc": 47853
+    }
+  ],
+  "meta": {
+    "title": "Județele României după PIB - Free Download",
+    "description": "Clasamentul județelor României după produsul intern brut total și pe cap de locuitor (RON și USD PPC). Contains 43 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Județele României după PIB | ListBase",
+    "seo_description": "Download Județele României după PIB — 43 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 43 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Lista_județelor_din_România_după_PIB"
+    ]
+  }
+}
