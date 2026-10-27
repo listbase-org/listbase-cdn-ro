@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-10-27T02:12:56.184Z",
-  "total_datasets": 432,
-  "total_records": 163792,
+  "generated": "2026-10-27T02:12:58.759Z",
+  "total_datasets": 433,
+  "total_records": 163944,
   "categories": [
     {
       "id": "culture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "reference",
@@ -5420,6 +5420,36 @@
         "xlsx": {
           "name": "ro-partide-politice_RO.xlsx",
           "size": 11774
+        }
+      }
+    },
+    {
+      "id": "ro-prim-ministri",
+      "name": "Prim-miniștrii României (1862–prezent)",
+      "category": "politics",
+      "record_count": 152,
+      "columns": [
+        "nr",
+        "nume",
+        "alegeri",
+        "mandat_inceput",
+        "mandat_sfarsit",
+        "partid",
+        "cabinet",
+        "nr_cabinet",
+        "perioada"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Lista_prim-miniștrilor_României",
+      "updated": "2026-10",
+      "size": 55984,
+      "files": {
+        "csv": {
+          "name": "ro-prim-ministri_RO.csv",
+          "size": 26187
+        },
+        "xlsx": {
+          "name": "ro-prim-ministri_RO.xlsx",
+          "size": 16292
         }
       }
     },
