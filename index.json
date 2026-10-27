@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-10-20T04:00:45.337Z",
-  "total_datasets": 414,
-  "total_records": 160595,
+  "generated": "2026-10-27T02:12:12.272Z",
+  "total_datasets": 415,
+  "total_records": 160633,
   "categories": [
     {
       "id": "culture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "geography",
@@ -2103,6 +2103,29 @@
         "xlsx": {
           "name": "ro-voluntari-banci_RO.xlsx",
           "size": 6850
+        }
+      }
+    },
+    {
+      "id": "ro-branzeturi-romanesti",
+      "name": "Brânzeturi românești",
+      "category": "food",
+      "record_count": 38,
+      "columns": [
+        "branza",
+        "tip"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Listă_de_brânzeturi_românești",
+      "updated": "2026-10",
+      "size": 4275,
+      "files": {
+        "csv": {
+          "name": "ro-branzeturi-romanesti_RO.csv",
+          "size": 1338
+        },
+        "xlsx": {
+          "name": "ro-branzeturi-romanesti_RO.xlsx",
+          "size": 7451
         }
       }
     },

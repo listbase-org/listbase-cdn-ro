@@ -1,0 +1,188 @@
+{
+  "id": "ro-branzeturi-romanesti",
+  "name": "Brânzeturi românești",
+  "title": "Brânzeturi românești",
+  "description": "Lista brânzeturilor tradiționale românești, grupate pe tipuri (caș, cașcaval, telemea, urdă etc.).",
+  "category": "food",
+  "source": "https://ro.wikipedia.org/wiki/Listă_de_brânzeturi_românești",
+  "source_url": "https://ro.wikipedia.org/wiki/Listă_de_brânzeturi_românești",
+  "updated": "2026-10",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "branza",
+      "label": "Branza",
+      "type": "string"
+    },
+    {
+      "key": "tip",
+      "label": "Tip",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "branza": "Năsal un caș regional, unic în lume.",
+      "tip": "Caș"
+    },
+    {
+      "branza": "Cașcaval de Argeș",
+      "tip": "Cașcaval"
+    },
+    {
+      "branza": "Cașcaval de Bobâlna",
+      "tip": "Cașcaval"
+    },
+    {
+      "branza": "Cașcaval de Brădet",
+      "tip": "Cașcaval"
+    },
+    {
+      "branza": "Cașcaval de Carei",
+      "tip": "Cașcaval"
+    },
+    {
+      "branza": "Cașcaval de Ciuc",
+      "tip": "Cașcaval"
+    },
+    {
+      "branza": "Cașcaval de Covasna",
+      "tip": "Cașcaval"
+    },
+    {
+      "branza": "Cașcaval Dalia",
+      "tip": "Cașcaval"
+    },
+    {
+      "branza": "Cașcaval de Dej",
+      "tip": "Cașcaval"
+    },
+    {
+      "branza": "Cașcaval de Dobrogea",
+      "tip": "Cașcaval"
+    },
+    {
+      "branza": "Cașcaval de Dorna",
+      "tip": "Cașcaval"
+    },
+    {
+      "branza": "Cașcaval de Fetești",
+      "tip": "Cașcaval"
+    },
+    {
+      "branza": "Cașcaval de Harghita",
+      "tip": "Cașcaval"
+    },
+    {
+      "branza": "Cașcaval de Hârlău",
+      "tip": "Cașcaval"
+    },
+    {
+      "branza": "Cașcaval de Ibănești Arhivat în 26 februarie 2021, la Wayback Machine.",
+      "tip": "Cașcaval"
+    },
+    {
+      "branza": "Cașcaval de Mateiaș",
+      "tip": "Cașcaval"
+    },
+    {
+      "branza": "Cașcaval de Moieciu",
+      "tip": "Cașcaval"
+    },
+    {
+      "branza": "Cașcaval de Napoca",
+      "tip": "Cașcaval"
+    },
+    {
+      "branza": "Cașcaval de Penteleu",
+      "tip": "Cașcaval"
+    },
+    {
+      "branza": "Cașcaval de Rarău",
+      "tip": "Cașcaval"
+    },
+    {
+      "branza": "Cașcaval de Răușor",
+      "tip": "Cașcaval"
+    },
+    {
+      "branza": "Cașcaval de Rucăr",
+      "tip": "Cașcaval"
+    },
+    {
+      "branza": "Cașcaval de Satu Mare",
+      "tip": "Cașcaval"
+    },
+    {
+      "branza": "Cașcaval de Sibiu",
+      "tip": "Cașcaval"
+    },
+    {
+      "branza": "Cașcaval de Tarnița",
+      "tip": "Cașcaval"
+    },
+    {
+      "branza": "Cașcaval de Vidraru",
+      "tip": "Cașcaval"
+    },
+    {
+      "branza": "Telemea de Argeș",
+      "tip": "Telemea"
+    },
+    {
+      "branza": "Telemea de Brăila",
+      "tip": "Telemea"
+    },
+    {
+      "branza": "Telemea de Brașov",
+      "tip": "Telemea"
+    },
+    {
+      "branza": "Telemea de Carei",
+      "tip": "Telemea"
+    },
+    {
+      "branza": "Telemea de Harghita",
+      "tip": "Telemea"
+    },
+    {
+      "branza": "Telemea de Huedin",
+      "tip": "Telemea"
+    },
+    {
+      "branza": "Telemea de Ibănești",
+      "tip": "Telemea"
+    },
+    {
+      "branza": "Telemea de Oaș",
+      "tip": "Telemea"
+    },
+    {
+      "branza": "Telemea de Sibiu",
+      "tip": "Telemea"
+    },
+    {
+      "branza": "Telemea de Vâlcea",
+      "tip": "Telemea"
+    },
+    {
+      "branza": "Urdă de oaie",
+      "tip": "Urdă"
+    },
+    {
+      "branza": "Urdă de vacă",
+      "tip": "Urdă"
+    }
+  ],
+  "meta": {
+    "title": "Brânzeturi românești - Free Download",
+    "description": "Lista brânzeturilor tradiționale românești, grupate pe tipuri (caș, cașcaval, telemea, urdă etc.). Contains 38 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Brânzeturi românești | ListBase",
+    "seo_description": "Download Brânzeturi românești — 38 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 38 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Listă_de_brânzeturi_românești"
+    ]
+  }
+}
