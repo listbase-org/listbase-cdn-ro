@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-10-27T02:12:14.817Z",
-  "total_datasets": 416,
-  "total_records": 160874,
+  "generated": "2026-10-27T02:12:18.668Z",
+  "total_datasets": 417,
+  "total_records": 161219,
   "categories": [
     {
       "id": "culture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "reference",
@@ -5100,6 +5100,30 @@
         "xlsx": {
           "name": "ro-cuvinte-de-origine-daca_RO.xlsx",
           "size": 12915
+        }
+      }
+    },
+    {
+      "id": "ro-demonime",
+      "name": "Demonime în limba română",
+      "category": "language",
+      "record_count": 345,
+      "columns": [
+        "loc",
+        "demonim",
+        "categorie"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Listă_de_demonime_în_limba_română",
+      "updated": "2026-10",
+      "size": 38714,
+      "files": {
+        "csv": {
+          "name": "ro-demonime_RO.csv",
+          "size": 15222
+        },
+        "xlsx": {
+          "name": "ro-demonime_RO.xlsx",
+          "size": 15815
         }
       }
     },

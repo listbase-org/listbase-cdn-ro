@@ -1,0 +1,1766 @@
+{
+  "id": "ro-demonime",
+  "name": "Demonime în limba română",
+  "title": "Demonime în limba română",
+  "description": "Denumirile locuitorilor (demonime) în limba română pentru țări, regiuni, orașe și corpuri cerești.",
+  "category": "language",
+  "source": "https://ro.wikipedia.org/wiki/Listă_de_demonime_în_limba_română",
+  "source_url": "https://ro.wikipedia.org/wiki/Listă_de_demonime_în_limba_română",
+  "updated": "2026-10",
+  "record_count": 345,
+  "columns": [
+    {
+      "key": "loc",
+      "label": "Loc",
+      "type": "string"
+    },
+    {
+      "key": "demonim",
+      "label": "Demonim",
+      "type": "string"
+    },
+    {
+      "key": "categorie",
+      "label": "Categorie",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "loc": "Lună",
+      "demonim": "selenit",
+      "categorie": "Corpuri și structuri astronomice"
+    },
+    {
+      "loc": "Marte",
+      "demonim": "marțian",
+      "categorie": "Corpuri și structuri astronomice"
+    },
+    {
+      "loc": "Pământ / Terra",
+      "demonim": "pământean",
+      "categorie": "Corpuri și structuri astronomice"
+    },
+    {
+      "loc": "Venus",
+      "demonim": "venusian",
+      "categorie": "Corpuri și structuri astronomice"
+    },
+    {
+      "loc": "Spațiul din afara Terrei/Pământului",
+      "demonim": "extraterestru",
+      "categorie": "Corpuri și structuri astronomice"
+    },
+    {
+      "loc": "Vulcan (Star Trek)",
+      "demonim": "vulcanian",
+      "categorie": "Locații fictive"
+    },
+    {
+      "loc": "Africa",
+      "demonim": "african",
+      "categorie": "Continente"
+    },
+    {
+      "loc": "America",
+      "demonim": "american",
+      "categorie": "Continente"
+    },
+    {
+      "loc": "America de Nord",
+      "demonim": "nord-american",
+      "categorie": "Continente"
+    },
+    {
+      "loc": "America de Sud",
+      "demonim": "sud-american",
+      "categorie": "Continente"
+    },
+    {
+      "loc": "Antarctida",
+      "demonim": "",
+      "categorie": "Continente"
+    },
+    {
+      "loc": "Asia",
+      "demonim": "asiatic",
+      "categorie": "Continente"
+    },
+    {
+      "loc": "Australia",
+      "demonim": "australian",
+      "categorie": "Continente"
+    },
+    {
+      "loc": "Eurasia",
+      "demonim": "eurasiatic",
+      "categorie": "Continente"
+    },
+    {
+      "loc": "Europa",
+      "demonim": "european",
+      "categorie": "Continente"
+    },
+    {
+      "loc": "Abisinia",
+      "demonim": "abisinian",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Afganistan",
+      "demonim": "afgan",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Africa de Sud",
+      "demonim": "sud-african",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Albania",
+      "demonim": "albanez",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Algeria",
+      "demonim": "algerian",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Andorra",
+      "demonim": "andorran",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Anglia",
+      "demonim": "englez",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Angola",
+      "demonim": "angolez",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Antigua și Barbuda",
+      "demonim": "antiguan",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Armenia",
+      "demonim": "armean",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Asiria",
+      "demonim": "asirian",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Austria",
+      "demonim": "austriac",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Azerbaidjan",
+      "demonim": "azer / azerbaidjan",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Babilonia / Imperiul Babilonian",
+      "demonim": "babilonian",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Belarus / Bielorusia",
+      "demonim": "belarus / bielorus",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Belgia",
+      "demonim": "belgian",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Birmania",
+      "demonim": "birman",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Bolivia",
+      "demonim": "bolivian",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Bosnia și Herțegovina",
+      "demonim": "bosniac",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Bulgaria",
+      "demonim": "bulgar",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Burkina Faso",
+      "demonim": "burkinez",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Burundi",
+      "demonim": "burundez",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Cambodgia",
+      "demonim": "cambodgian",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Capul Verde",
+      "demonim": "capverdian",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Cehia",
+      "demonim": "ceh",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Ceylon",
+      "demonim": "ceylonez",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Chile",
+      "demonim": "chilian (pron. cilian)",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "China",
+      "demonim": "chinez",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Ciad",
+      "demonim": "ciadian",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Cipru",
+      "demonim": "cipriot",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Coasta de Fildeș",
+      "demonim": "ivorian",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Congo",
+      "demonim": "congolez",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Coreea",
+      "demonim": "coreean",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Coreea de Nord",
+      "demonim": "nord-coreean",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Coreea de Sud",
+      "demonim": "sud-coreean",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Costa Rica",
+      "demonim": "costarican",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Croația",
+      "demonim": "croat",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Dacia",
+      "demonim": "dac",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Danemarca",
+      "demonim": "danez",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Djibouti",
+      "demonim": "djiboutian",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Dominica; Republica Dominicană",
+      "demonim": "dominican",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Egipt",
+      "demonim": "egiptean",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Elada",
+      "demonim": "elen",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "El Salvador",
+      "demonim": "salvadorian",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Eritreea",
+      "demonim": "eritreean",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Estonia",
+      "demonim": "eston / estonian",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Fiji",
+      "demonim": "fijian",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Finlanda",
+      "demonim": "finlandez",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Frigia",
+      "demonim": "frigian",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Gabon",
+      "demonim": "gabonez",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Germania",
+      "demonim": "german / neamț",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Grecia",
+      "demonim": "grec",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Guatemala",
+      "demonim": "guatemalez",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Guineea",
+      "demonim": "guineean / guineez",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Guineea Bissau",
+      "demonim": "guineobissauan",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Guineea Ecuatorială",
+      "demonim": "guineoecuatorian",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Honduras",
+      "demonim": "hondurian",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Imperiul Inca",
+      "demonim": "incaș",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "India",
+      "demonim": "indian",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Irlanda",
+      "demonim": "irlandez",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Irlanda de Nord",
+      "demonim": "nord-irlandez",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Islanda",
+      "demonim": "islandez",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Israel",
+      "demonim": "israelian, israelit",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Jamaica",
+      "demonim": "jamaican",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Japonia",
+      "demonim": "japonez / nipon",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Kampuchia",
+      "demonim": "kampuchian (pron. kampucian)",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Kazahstan",
+      "demonim": "kazah",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Kârgâzstan",
+      "demonim": "kârgâz / kirghiz",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Kiribati",
+      "demonim": "kiribatian",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Kuweit / Kuwait",
+      "demonim": "kuweitian / kuwaitian (pron. kuveitian)",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Laos",
+      "demonim": "laoțian",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Lesotho",
+      "demonim": "lesothian",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Letonia",
+      "demonim": "leton",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Liechtenstein",
+      "demonim": "liechtensteinian (pron. lihtănștainián)",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Lituania",
+      "demonim": "lituanian",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Luxemburg",
+      "demonim": "luxemburghez",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Madagascar",
+      "demonim": "malgaș",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Macedonia",
+      "demonim": "macedonean",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Malawi",
+      "demonim": "malawian",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Malaysia / Malaezia / Malaiezia",
+      "demonim": "malaysian / malaezian / malaiezian",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Mali",
+      "demonim": "malian",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Malta",
+      "demonim": "maltez",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Marea Britanie",
+      "demonim": "britanic",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Marshall",
+      "demonim": "marshallez",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Mauritania",
+      "demonim": "mauritan / mauritanez",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Mauritius",
+      "demonim": "mauritian",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Moldova",
+      "demonim": "moldovean / moldovan / moldav",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Monaco",
+      "demonim": "monegasc",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Mongolia",
+      "demonim": "mongol",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Muntenegru",
+      "demonim": "muntenegrean",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Norvegia",
+      "demonim": "norvegian",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Noua Zeelandă",
+      "demonim": "neozeelandez",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Olanda",
+      "demonim": "olandez / neerlandez",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Oman",
+      "demonim": "omanez",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Palau",
+      "demonim": "palauan",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Panama",
+      "demonim": "panamez",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Papua Noua Guinee",
+      "demonim": "papua-neoguineean / papuaș",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Peru",
+      "demonim": "peruan / peruvian",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Prusia",
+      "demonim": "prusac / prusian",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Qatar",
+      "demonim": "qatarian",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Republica Centrafricană",
+      "demonim": "centrafrican",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Rhodesia",
+      "demonim": "rhodesian (pron. rodezian)",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "România",
+      "demonim": "român",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Rusia",
+      "demonim": "rus",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "San Marino",
+      "demonim": "sanmarinez",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Scoția",
+      "demonim": "scoțian",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Serbia",
+      "demonim": "sârb",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Seychelles",
+      "demonim": "seychellez",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Sfânta Lucia (Saint Lucia)",
+      "demonim": "saintlucian",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Sfântul Kitts și Nevis",
+      "demonim": "kittsian",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Sierra Leone",
+      "demonim": "sierraleonez",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Singapore",
+      "demonim": "singaporez",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Siria",
+      "demonim": "sirian",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Slovacia",
+      "demonim": "slovac",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Slovenia",
+      "demonim": "sloven",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Solomon",
+      "demonim": "solomonian",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Spania",
+      "demonim": "spaniol",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Sparta",
+      "demonim": "spartan",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Sri Lanka",
+      "demonim": "srilankez",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Statele Unite ale Americii",
+      "demonim": "american",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Sudan",
+      "demonim": "sudanez",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Suedia",
+      "demonim": "suedez",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Trinidad-Tobago",
+      "demonim": "trinidadian, tobagoan",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Țara Galilor",
+      "demonim": "galez",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Țările de Jos",
+      "demonim": "neerlandez / olandez",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Ucraina",
+      "demonim": "ucrainean",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Ungaria",
+      "demonim": "ungur / maghiar",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Uruguay",
+      "demonim": "uruguayan",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Venezuela",
+      "demonim": "venezuelean; venezuelan; venezuelian",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Yemen",
+      "demonim": "yemenit",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Zair",
+      "demonim": "zairez",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Zimbabwe",
+      "demonim": "zimbabwian (pron. zimbabuian)",
+      "categorie": "Țări"
+    },
+    {
+      "loc": "Abrud",
+      "demonim": "abrudean",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Alsacia",
+      "demonim": "alsacian",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Andaluzia",
+      "demonim": "andaluz",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Ardeal",
+      "demonim": "ardelean",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Argeș",
+      "demonim": "argeșean",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Bacău",
+      "demonim": "băcăuan",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Banat",
+      "demonim": "bănățean",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Basarabia",
+      "demonim": "basarabean",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Bavaria",
+      "demonim": "bavarez",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Bihor",
+      "demonim": "bihorean",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Bistrița-Năsăud",
+      "demonim": "năsăudean",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Boemia",
+      "demonim": "boem",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Brandenburg",
+      "demonim": "brandenburghez",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Bretania",
+      "demonim": "breton",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Bucovina",
+      "demonim": "bucovinean",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Calabria",
+      "demonim": "calabrez",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Campania",
+      "demonim": "campanian",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Caraș-Severin",
+      "demonim": "severinean",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Cecenia",
+      "demonim": "cecen",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Județul Constanța",
+      "demonim": "constănțean",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Creta",
+      "demonim": "cretan",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Crișana, Criș",
+      "demonim": "crișean",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Dâmbovița",
+      "demonim": "dâmbovițean",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Dobrogea",
+      "demonim": "dobrogean",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Dolj",
+      "demonim": "doljean",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Galicia",
+      "demonim": "galician",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Galiția",
+      "demonim": "galițian",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Groenlanda",
+      "demonim": "groenlandez",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Hawaii",
+      "demonim": "hawaiian",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Java",
+      "demonim": "javanez",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Kosovo",
+      "demonim": "kosovar",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Lesbos",
+      "demonim": "lesbian",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Mallorca",
+      "demonim": "mallorquin (pron. maiorchin)",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Manciuria",
+      "demonim": "manciurian",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Martinica",
+      "demonim": "martinichez",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Mehedinți",
+      "demonim": "mehedințean",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Oltenia, Olt",
+      "demonim": "oltean",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Rumelia",
+      "demonim": "rumeliot",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Timiș",
+      "demonim": "timișean",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Toscana",
+      "demonim": "toscan",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Transilvania",
+      "demonim": "transilvănean/transilvan / ardelean/ungurean",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Țara Bascilor",
+      "demonim": "basc",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Țara de Foc",
+      "demonim": "fuegian",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Țara Oașului",
+      "demonim": "oșean",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Valahia",
+      "demonim": "valah / vlah",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Vâlcea",
+      "demonim": "vâlcean",
+      "categorie": "State / regiuni administrative / provincii / județe"
+    },
+    {
+      "loc": "Africa Centrală",
+      "demonim": "centrafrican",
+      "categorie": "Regiuni / zone"
+    },
+    {
+      "loc": "Anzi",
+      "demonim": "andin",
+      "categorie": "Regiuni / zone"
+    },
+    {
+      "loc": "Arabia",
+      "demonim": "arab",
+      "categorie": "Regiuni / zone"
+    },
+    {
+      "loc": "Balcani",
+      "demonim": "balcanic",
+      "categorie": "Regiuni / zone"
+    },
+    {
+      "loc": "Canaan",
+      "demonim": "cananean",
+      "categorie": "Regiuni / zone"
+    },
+    {
+      "loc": "Carpați",
+      "demonim": "carpatin",
+      "categorie": "Regiuni / zone"
+    },
+    {
+      "loc": "Capitoliu",
+      "demonim": "capitolin",
+      "categorie": "Regiuni / zone"
+    },
+    {
+      "loc": "Caucaz",
+      "demonim": "caucazian",
+      "categorie": "Regiuni / zone"
+    },
+    {
+      "loc": "Dunăre",
+      "demonim": "dunărean",
+      "categorie": "Regiuni / zone"
+    },
+    {
+      "loc": "Jiu",
+      "demonim": "jian",
+      "categorie": "Regiuni / zone"
+    },
+    {
+      "loc": "Mediterană",
+      "demonim": "mediteraneean",
+      "categorie": "Regiuni / zone"
+    },
+    {
+      "loc": "Melanezia",
+      "demonim": "melanezian",
+      "categorie": "Regiuni / zone"
+    },
+    {
+      "loc": "Micronezia",
+      "demonim": "micronezian",
+      "categorie": "Regiuni / zone"
+    },
+    {
+      "loc": "Polinezia",
+      "demonim": "polinezian",
+      "categorie": "Regiuni / zone"
+    },
+    {
+      "loc": "Nord",
+      "demonim": "nordic",
+      "categorie": "Regiuni / zone"
+    },
+    {
+      "loc": "Sud",
+      "demonim": "sudic",
+      "categorie": "Regiuni / zone"
+    },
+    {
+      "loc": "Răsărit",
+      "demonim": "răsăritean",
+      "categorie": "Regiuni / zone"
+    },
+    {
+      "loc": "Orient",
+      "demonim": "oriental",
+      "categorie": "Regiuni / zone"
+    },
+    {
+      "loc": "Occident",
+      "demonim": "occidental",
+      "categorie": "Regiuni / zone"
+    },
+    {
+      "loc": "Alba Iulia",
+      "demonim": "albaiulian",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Alexandria",
+      "demonim": "alexăndrinean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Alexandria",
+      "demonim": "alexandrin",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Alicante",
+      "demonim": "alicantin",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Arad",
+      "demonim": "arădean / arădan",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Ascoli Piceno",
+      "demonim": "ascolez",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Atena",
+      "demonim": "atenian",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Babadag",
+      "demonim": "băbăian",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Babilon",
+      "demonim": "babilonian / babilonean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Bacău",
+      "demonim": "băcăuan",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Baia de Aramă",
+      "demonim": "băiaș",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Baia Mare",
+      "demonim": "băimărean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Belgrad",
+      "demonim": "belgrădean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Berlin",
+      "demonim": "berlinez",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Blaj",
+      "demonim": "blăjean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Bordeaux",
+      "demonim": "bordelez",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Boston",
+      "demonim": "bostonian",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Botoșani",
+      "demonim": "botoșănean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Brăila",
+      "demonim": "brăilean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Bruxelles",
+      "demonim": "bruxellez",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "București",
+      "demonim": "bucureștean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Budapesta",
+      "demonim": "budapestan",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Buhuși",
+      "demonim": "buhușean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Buzău",
+      "demonim": "buzoian",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Cairo",
+      "demonim": "cairot",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Caransebeș",
+      "demonim": "caransebeșean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Calafat",
+      "demonim": "calafetean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Călărași",
+      "demonim": "călărășean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Cătălina",
+      "demonim": "cătălinean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Câmpulung",
+      "demonim": "câmpulungean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Câmpulung Muscel",
+      "demonim": "muscelean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Cernavodă",
+      "demonim": "cernavodean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Cernăuți",
+      "demonim": "cernăuțean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Chișinău",
+      "demonim": "chișinăuian",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Constantinopol",
+      "demonim": "constantinopolitan",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Covei",
+      "demonim": "coveian",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Cracovia",
+      "demonim": "cracovian",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Curtea de Argeș",
+      "demonim": "argeșean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Drobeta-Turnu Severin",
+      "demonim": "severinean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Făgăraș",
+      "demonim": "făgărășean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Fălticeni",
+      "demonim": "fălticenean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Florența",
+      "demonim": "florentin",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Gabrovo",
+      "demonim": "gabrovean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Galați",
+      "demonim": "gălățean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Geneva",
+      "demonim": "genevez",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Genova",
+      "demonim": "genovez",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Giurgiu",
+      "demonim": "giurgiuvean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Gura Humorului",
+      "demonim": "humorean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Hârlău",
+      "demonim": "hârlăuan",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Horezu",
+      "demonim": "hurezean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Ho Și Min",
+      "demonim": "saigonez",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Hunedoara",
+      "demonim": "hunedorean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Huși",
+      "demonim": "hușean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Iași",
+      "demonim": "ieșean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Întorsura Buzăului",
+      "demonim": "întorsurean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Jimbolia",
+      "demonim": "jimbolian",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Kiev",
+      "demonim": "kievean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Lancrăm",
+      "demonim": "lăncrănjan",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Lecce",
+      "demonim": "talentin",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Londra",
+      "demonim": "londonez",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Luduș",
+      "demonim": "ludușean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Maastricht / Maestricht",
+      "demonim": "maastrichtian / maestrichtian",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Madrid",
+      "demonim": "madrilen",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Maglavit",
+      "demonim": "maglavitean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Mangalia",
+      "demonim": "mangaliot",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Manchester",
+      "demonim": "mancunian",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Marsilia",
+      "demonim": "marsiliez",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Mediaș",
+      "demonim": "medieșean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Miercurea-Ciuc",
+      "demonim": "miercurean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Milano",
+      "demonim": "milanez",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Milet",
+      "demonim": "milezian",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Moscova",
+      "demonim": "moscovit",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Napoli",
+      "demonim": "napolitan",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Nazaret",
+      "demonim": "nazarinean / nazaritean / nazareean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Negru Vodă",
+      "demonim": "negruvodean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "New York",
+      "demonim": "newyorkez (pron. niuiorchez)",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Nicosia",
+      "demonim": "nicosian",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Ocnița",
+      "demonim": "ocnițean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Oradea",
+      "demonim": "orădean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Orșova",
+      "demonim": "orșovean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Palermo",
+      "demonim": "palermitan",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Palma de Mallorca",
+      "demonim": "mallorquin (pron. maiorchin)",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Paris",
+      "demonim": "parizian",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Parma",
+      "demonim": "parmegian",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Pașcani",
+      "demonim": "pășcănean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Perugia",
+      "demonim": "perugin",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Petroșani",
+      "demonim": "petroșănean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Piatra Neamț",
+      "demonim": "pietrean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Piacenza",
+      "demonim": "piacentin",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Pitești",
+      "demonim": "piteștean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Portland",
+      "demonim": "portlandez",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Praga",
+      "demonim": "praghez",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Predeal",
+      "demonim": "predelean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Râmnicu Sărat",
+      "demonim": "râmnicean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Râmnicu Vâlcea",
+      "demonim": "vâlcean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Roșiorii de Vede",
+      "demonim": "roșiorean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Roma",
+      "demonim": "roman",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Roman",
+      "demonim": "romașcan",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Saigon",
+      "demonim": "saigonez",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Salamanca",
+      "demonim": "salamantin",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Satulung, Satu Lung",
+      "demonim": "satulungean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Satu Mare",
+      "demonim": "sătmărean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "San Francisco",
+      "demonim": "sanfranciscan",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Sânnicolau Mare",
+      "demonim": "sânnicolean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Sfântu Gheorghe",
+      "demonim": "gheorghian",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Siliștea",
+      "demonim": "siliștean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Sinaia",
+      "demonim": "sinăian / sinaiot",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Slatina",
+      "demonim": "slătinean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Slobozia",
+      "demonim": "slobozean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Sofia",
+      "demonim": "sofiot",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Strășeni",
+      "demonim": "strășenean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Tarcău",
+      "demonim": "tărcăuan",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Tazlău",
+      "demonim": "tăzlăuan",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Târgoviște",
+      "demonim": "târgoviștean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Târgu-Jiu",
+      "demonim": "târgujian",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Târgu-Mureș",
+      "demonim": "târgumureșean / târgmureșean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Târgu Neamț",
+      "demonim": "târgunemțean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Târgu Ocna",
+      "demonim": "ocnean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Teba, Teba",
+      "demonim": "teban",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Tecuci",
+      "demonim": "tecucean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Timișoara",
+      "demonim": "timișorean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Tokio",
+      "demonim": "tokiot",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Tomis",
+      "demonim": "tomitan",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Toulon",
+      "demonim": "toulonez (pron. tulonez)",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Toulouse",
+      "demonim": "toulousan (pron. tulusan) / toulousian (pron. tulusian)",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Turnu Măgurele",
+      "demonim": "turnean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Turda",
+      "demonim": "turdean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Valencia",
+      "demonim": "valencian (pron. valensian)",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Vama Veche",
+      "demonim": "vamaiot",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Vaslui",
+      "demonim": "vasluian",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Vatra Dornei",
+      "demonim": "dornean",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Zalău",
+      "demonim": "zălăuan",
+      "categorie": "Localități"
+    },
+    {
+      "loc": "Zimnicea",
+      "demonim": "zimnicean",
+      "categorie": "Localități"
+    }
+  ],
+  "meta": {
+    "title": "Demonime în limba română - Free Download",
+    "description": "Denumirile locuitorilor (demonime) în limba română pentru țări, regiuni, orașe și corpuri cerești. Contains 345 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Demonime în limba română | ListBase",
+    "seo_description": "Download Demonime în limba română — 345 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 345 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Listă_de_demonime_în_limba_română"
+    ]
+  }
+}
