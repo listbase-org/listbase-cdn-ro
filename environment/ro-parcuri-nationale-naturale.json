@@ -1,0 +1,366 @@
+{
+  "id": "ro-parcuri-nationale-naturale",
+  "name": "Parcurile naționale și naturale din România",
+  "title": "Parcurile naționale și naturale din România",
+  "description": "Lista parcurilor naționale și naturale ale României, cu cod, județe, suprafață (ha) și anul înființării.",
+  "category": "environment",
+  "source": "https://ro.wikipedia.org/wiki/Lista_parcurilor_naționale_și_naturale_din_România",
+  "source_url": "https://ro.wikipedia.org/wiki/Lista_parcurilor_naționale_și_naturale_din_România",
+  "updated": "2026-10",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "cod",
+      "label": "Cod",
+      "type": "string"
+    },
+    {
+      "key": "judete",
+      "label": "Judete",
+      "type": "string"
+    },
+    {
+      "key": "suprafata_ha",
+      "label": "Suprafata Ha",
+      "type": "number"
+    },
+    {
+      "key": "an_infiintare",
+      "label": "An Infiintare",
+      "type": "number"
+    },
+    {
+      "key": "an_declarare",
+      "label": "An Declarare",
+      "type": "number"
+    },
+    {
+      "key": "site_web",
+      "label": "Site Web",
+      "type": "string"
+    },
+    {
+      "key": "tip",
+      "label": "Tip",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "Buila-Vânturarița",
+      "cod": "RONPA0848",
+      "judete": "Vâlcea",
+      "suprafata_ha": 4186,
+      "an_infiintare": "2005",
+      "an_declarare": "2005",
+      "site_web": "buila.ro",
+      "tip": "parc național"
+    },
+    {
+      "nume": "Călimani",
+      "cod": "RONPA0009",
+      "judete": "Bistrița-Năsăud • Harghita Mureș • Suceava",
+      "suprafata_ha": 24041,
+      "an_infiintare": "1975",
+      "an_declarare": "2000",
+      "site_web": "calimani.ro",
+      "tip": "parc național"
+    },
+    {
+      "nume": "Ceahlău",
+      "cod": "RONPA0008",
+      "judete": "Neamț",
+      "suprafata_ha": 8396,
+      "an_infiintare": "1995",
+      "an_declarare": "2000",
+      "site_web": "ceahlaupark.ro",
+      "tip": "parc național"
+    },
+    {
+      "nume": "Cheile Bicazului - Hășmaș",
+      "cod": "RONPA0007",
+      "judete": "Harghita • Neamț",
+      "suprafata_ha": 6575,
+      "an_infiintare": "1990",
+      "an_declarare": "2000",
+      "site_web": "chbicazului-hasmas.ro Arhivat în 9 martie 2021, la Wayback Machine.",
+      "tip": "parc național"
+    },
+    {
+      "nume": "Cheile Nerei - Beușnița",
+      "cod": "RONPA0003",
+      "judete": "Caraș-Severin",
+      "suprafata_ha": 36758,
+      "an_infiintare": "1990",
+      "an_declarare": "2000",
+      "site_web": "cheilenereibeusnita.ro",
+      "tip": "parc național"
+    },
+    {
+      "nume": "Cozia",
+      "cod": "RONPA0010",
+      "judete": "Vâlcea",
+      "suprafata_ha": 17100,
+      "an_infiintare": "1966",
+      "an_declarare": "2000",
+      "site_web": "cozia.ro",
+      "tip": "parc național"
+    },
+    {
+      "nume": "Delta Dunării",
+      "cod": "ROWHS0001",
+      "judete": "Constanța • Tulcea",
+      "suprafata_ha": 580000,
+      "an_infiintare": "1991",
+      "an_declarare": "2000",
+      "site_web": "ddbra.ro Arhivat în 8 noiembrie 2022, la Wayback Machine.",
+      "tip": "parc național"
+    },
+    {
+      "nume": "Domogled - Valea Cernei",
+      "cod": "RONPA0001",
+      "judete": "Caraș-Severin • Mehedinți • Gorj",
+      "suprafata_ha": 61211,
+      "an_infiintare": "1982",
+      "an_declarare": "2000",
+      "site_web": "domogled-cerna.ro Arhivat în 30 iulie 2011, la Wayback Machine.",
+      "tip": "parc național"
+    },
+    {
+      "nume": "Defileul Jiului",
+      "cod": "RONPA0933",
+      "judete": "Gorj • Hunedoara",
+      "suprafata_ha": 11127,
+      "an_infiintare": "2005",
+      "an_declarare": "2005",
+      "site_web": "defileuljiului.ro",
+      "tip": "parc național"
+    },
+    {
+      "nume": "Munții Măcinului",
+      "cod": "RONPA0016",
+      "judete": "Tulcea",
+      "suprafata_ha": 11321,
+      "an_infiintare": "2000",
+      "an_declarare": "2000",
+      "site_web": "parcmacin.ro",
+      "tip": "parc național"
+    },
+    {
+      "nume": "Munții Rodnei",
+      "cod": "RONPA0005",
+      "judete": "Bistrița • Maramureș Suceava",
+      "suprafata_ha": 46599,
+      "an_infiintare": "1990",
+      "an_declarare": "2000",
+      "site_web": "parcrodna.ro",
+      "tip": "parc național"
+    },
+    {
+      "nume": "Piatra Craiului",
+      "cod": "RONPA0011",
+      "judete": "Argeș • Brașov",
+      "suprafata_ha": 14733,
+      "an_infiintare": "1938",
+      "an_declarare": "2000",
+      "site_web": "pcrai.ro",
+      "tip": "parc național"
+    },
+    {
+      "nume": "Retezat",
+      "cod": "RONPA0002",
+      "judete": "Hunedoara",
+      "suprafata_ha": 38047,
+      "an_infiintare": "1938",
+      "an_declarare": "2000",
+      "site_web": "retezat.ro",
+      "tip": "parc național"
+    },
+    {
+      "nume": "Semenic - Cheile Carașului",
+      "cod": "RONPA0012",
+      "judete": "Caraș-Severin",
+      "suprafata_ha": 36664,
+      "an_infiintare": "2000",
+      "an_declarare": "2000",
+      "site_web": "pnscc.ro",
+      "tip": "parc național"
+    },
+    {
+      "nume": "Apuseni",
+      "cod": "RONPA0004",
+      "judete": "Alba • Cluj • Bihor",
+      "suprafata_ha": 75784,
+      "an_infiintare": "1990",
+      "an_declarare": "2000",
+      "site_web": "parcapuseni.ro",
+      "tip": "parc natural"
+    },
+    {
+      "nume": "Bucegi",
+      "cod": "RONPA0006",
+      "judete": "Județele Brașov • Dâmbovița • Prahova",
+      "suprafata_ha": 32663,
+      "an_infiintare": "1974",
+      "an_declarare": "2000",
+      "site_web": "bucegipark.ro",
+      "tip": "parc natural"
+    },
+    {
+      "nume": "Cefa",
+      "cod": "RONPA0953",
+      "judete": "Bihor",
+      "suprafata_ha": 5002,
+      "an_infiintare": "2010",
+      "an_declarare": "2010",
+      "site_web": "",
+      "tip": "parc natural"
+    },
+    {
+      "nume": "Comana",
+      "cod": "RONPA0928",
+      "judete": "Giurgiu",
+      "suprafata_ha": 24963,
+      "an_infiintare": "2005",
+      "an_declarare": "2005",
+      "site_web": "comanaparc.ro",
+      "tip": "parc natural"
+    },
+    {
+      "nume": "Defileul Mureșului Superior",
+      "cod": "RONPA0938",
+      "judete": "Mureș",
+      "suprafata_ha": 9156,
+      "an_infiintare": "2007",
+      "an_declarare": "2007",
+      "site_web": "",
+      "tip": "parc natural"
+    },
+    {
+      "nume": "Grădiștea Muncelului-Cioclovina",
+      "cod": "RONPA0015",
+      "judete": "Hunedoara",
+      "suprafata_ha": 38184,
+      "an_infiintare": "1979",
+      "an_declarare": "2000",
+      "site_web": "gradiste.ro",
+      "tip": "parc natural"
+    },
+    {
+      "nume": "Geoparcul Dinozaurilor „Țara Hațegului”",
+      "cod": "RONPA0929",
+      "judete": "Hunedoara",
+      "suprafata_ha": 102392,
+      "an_infiintare": "2005",
+      "an_declarare": "2005",
+      "site_web": "tarahateguluigeoparc.ro",
+      "tip": "parc natural"
+    },
+    {
+      "nume": "Lunca Joasă a Prutului Inferior",
+      "cod": "RONPA0927",
+      "judete": "Galați",
+      "suprafata_ha": 8247,
+      "an_infiintare": "2005",
+      "an_declarare": "2005",
+      "site_web": "",
+      "tip": "parc natural"
+    },
+    {
+      "nume": "Balta Mică a Brăilei",
+      "cod": "RONPA0017",
+      "judete": "Brăila",
+      "suprafata_ha": 17529,
+      "an_infiintare": "1978",
+      "an_declarare": "2000",
+      "site_web": "bmb.ro",
+      "tip": "parc natural"
+    },
+    {
+      "nume": "Lunca Mureșului",
+      "cod": "RONPA0926",
+      "judete": "Arad • Timiș",
+      "suprafata_ha": 17166,
+      "an_infiintare": "2005",
+      "an_declarare": "2005",
+      "site_web": "luncamuresului.ro",
+      "tip": "parc natural"
+    },
+    {
+      "nume": "Munții Maramureșului",
+      "cod": "RONPA0930",
+      "judete": "Maramureș",
+      "suprafata_ha": 148850,
+      "an_infiintare": "2005",
+      "an_declarare": "2005",
+      "site_web": "m.maramuresului.ro",
+      "tip": "parc natural"
+    },
+    {
+      "nume": "Platoul Mehedinți",
+      "cod": "RONPA0931",
+      "judete": "Gorj • Mehedinți",
+      "suprafata_ha": 106.5,
+      "an_infiintare": "2005",
+      "an_declarare": "2005",
+      "site_web": "",
+      "tip": "parc natural"
+    },
+    {
+      "nume": "Porțile de Fier",
+      "cod": "RONPA0014",
+      "judete": "Caraș-Severin • Mehedinți",
+      "suprafata_ha": 115665.8,
+      "an_infiintare": "1990",
+      "an_declarare": "2000",
+      "site_web": "portiledefier.ro Arhivat în 13 august 2007, la Wayback Machine.",
+      "tip": "parc natural"
+    },
+    {
+      "nume": "Putna-Vrancea",
+      "cod": "RONPA0932",
+      "judete": "Vrancea",
+      "suprafata_ha": 30204,
+      "an_infiintare": "2005",
+      "an_declarare": "2005",
+      "site_web": "putna-vrancea.ro",
+      "tip": "parc natural"
+    },
+    {
+      "nume": "Vânători-Neamț",
+      "cod": "RONPA0845",
+      "judete": "Neamț",
+      "suprafata_ha": 30818,
+      "an_infiintare": "1999",
+      "an_declarare": "2000",
+      "site_web": "vanatoripark.ro",
+      "tip": "parc natural"
+    },
+    {
+      "nume": "Văcărești",
+      "cod": "RONPA0954",
+      "judete": "București",
+      "suprafata_ha": 182.99,
+      "an_infiintare": "2013",
+      "an_declarare": "2016",
+      "site_web": "parcnaturalvacaresti.ro",
+      "tip": "parc natural"
+    }
+  ],
+  "meta": {
+    "title": "Parcurile naționale și naturale din România - Free Download",
+    "description": "Lista parcurilor naționale și naturale ale României, cu cod, județe, suprafață (ha) și anul înființării. Contains 30 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Parcurile naționale și naturale din România | ListBase",
+    "seo_description": "Download Parcurile naționale și naturale din România — 30 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 30 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Lista_parcurilor_naționale_și_naturale_din_România"
+    ]
+  }
+}

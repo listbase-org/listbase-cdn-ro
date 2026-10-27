@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-10-27T02:12:51.103Z",
-  "total_datasets": 430,
-  "total_records": 163710,
+  "generated": "2026-10-27T02:12:53.677Z",
+  "total_datasets": 431,
+  "total_records": 163740,
   "categories": [
     {
       "id": "culture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "finance",
@@ -1795,6 +1795,35 @@
         "xlsx": {
           "name": "ro-centrale-nucleare_RO.xlsx",
           "size": 7269
+        }
+      }
+    },
+    {
+      "id": "ro-parcuri-nationale-naturale",
+      "name": "Parcurile naționale și naturale din România",
+      "category": "environment",
+      "record_count": 30,
+      "columns": [
+        "nume",
+        "cod",
+        "judete",
+        "suprafata_ha",
+        "an_infiintare",
+        "an_declarare",
+        "site_web",
+        "tip"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Lista_parcurilor_naționale_și_naturale_din_România",
+      "updated": "2026-10",
+      "size": 10151,
+      "files": {
+        "csv": {
+          "name": "ro-parcuri-nationale-naturale_RO.csv",
+          "size": 3406
+        },
+        "xlsx": {
+          "name": "ro-parcuri-nationale-naturale_RO.xlsx",
+          "size": 9033
         }
       }
     },
