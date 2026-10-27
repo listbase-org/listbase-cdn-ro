@@ -1,0 +1,1292 @@
+{
+  "id": "ro-proverbe-romanesti",
+  "name": "Proverbe românești",
+  "title": "Proverbe românești",
+  "description": "Lista proverbelor românești, în ordine alfabetică.",
+  "category": "language",
+  "source": "https://ro.wikipedia.org/wiki/Listă_de_proverbe_românești",
+  "source_url": "https://ro.wikipedia.org/wiki/Listă_de_proverbe_românești",
+  "updated": "2026-10",
+  "record_count": 314,
+  "columns": [
+    {
+      "key": "proverb",
+      "label": "Proverb",
+      "type": "string"
+    },
+    {
+      "key": "litera",
+      "label": "Litera",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "proverb": "A aduce apă după ce s-a stins focul.",
+      "litera": "A"
+    },
+    {
+      "proverb": "A aduna nuiele pentru spinarea sa.",
+      "litera": "A"
+    },
+    {
+      "proverb": "A ajunge cuțitul la os.",
+      "litera": "A"
+    },
+    {
+      "proverb": "A auzit clopotul, dar nu știe de la ce bisericǎ.",
+      "litera": "A"
+    },
+    {
+      "proverb": "A avea ac de cojocul cuiva.",
+      "litera": "A"
+    },
+    {
+      "proverb": "A avea mai mult noroc decât minte.",
+      "litera": "A"
+    },
+    {
+      "proverb": "A bate apa-n piuă",
+      "litera": "A"
+    },
+    {
+      "proverb": "A bate calul care trage.",
+      "litera": "A"
+    },
+    {
+      "proverb": "A bate fierul cât e cald.",
+      "litera": "A"
+    },
+    {
+      "proverb": "A bate la ochi.",
+      "litera": "A"
+    },
+    {
+      "proverb": "A bate toba în tot satul.",
+      "litera": "A"
+    },
+    {
+      "proverb": "A călca pe bec.",
+      "litera": "A"
+    },
+    {
+      "proverb": "A cânta cuiva în strună.",
+      "litera": "A"
+    },
+    {
+      "proverb": "A căra apă cu ciurul.",
+      "litera": "A"
+    },
+    {
+      "proverb": "Aceași Mărie cu altă pălărie.",
+      "litera": "A"
+    },
+    {
+      "proverb": "Acela care Îl iubește pe Dumnezeu, îi iubește și pe oameni.",
+      "litera": "A"
+    },
+    {
+      "proverb": "A da bir cu fugiții.",
+      "litera": "A"
+    },
+    {
+      "proverb": "A da peste noroc.",
+      "litera": "A"
+    },
+    {
+      "proverb": "A da perle la porci.",
+      "litera": "A"
+    },
+    {
+      "proverb": "A despica firul în patru.",
+      "litera": "A"
+    },
+    {
+      "proverb": "A duce cu preșul.",
+      "litera": "A"
+    },
+    {
+      "proverb": "Adevărul este întotdeauna la mijloc.",
+      "litera": "A"
+    },
+    {
+      "proverb": "Adevărul se spune la despărțire.",
+      "litera": "A"
+    },
+    {
+      "proverb": "Adevărul stă scris printre rânduri.",
+      "litera": "A"
+    },
+    {
+      "proverb": "A dispărut de parcă l-a înghițit pământul.",
+      "litera": "A"
+    },
+    {
+      "proverb": "A face bortă în apă.",
+      "litera": "A"
+    },
+    {
+      "proverb": "A face cruce în tavan.",
+      "litera": "A"
+    },
+    {
+      "proverb": "A face cuiva hatârul.",
+      "litera": "A"
+    },
+    {
+      "proverb": "A face cum îl taie capul.",
+      "litera": "A"
+    },
+    {
+      "proverb": "A face din cal măgar și din țânțar armăsar.",
+      "litera": "A"
+    },
+    {
+      "proverb": "A face ochi dulci cuiva.",
+      "litera": "A"
+    },
+    {
+      "proverb": "A face pe cineva cu ou și cu oțet.",
+      "litera": "A"
+    },
+    {
+      "proverb": "A face pe cineva de două parale.",
+      "litera": "A"
+    },
+    {
+      "proverb": "A face treaba în doi peri.",
+      "litera": "A"
+    },
+    {
+      "proverb": "A face umbră pământului degeaba.",
+      "litera": "A"
+    },
+    {
+      "proverb": "A face un bine înseamnă a-și bate cuie în talpă.",
+      "litera": "A"
+    },
+    {
+      "proverb": "A fi cu ochii în patru.",
+      "litera": "A"
+    },
+    {
+      "proverb": "A fi pe drojdie (cu banii).",
+      "litera": "A"
+    },
+    {
+      "proverb": "A fi prins cu cioara vopsită.",
+      "litera": "A"
+    },
+    {
+      "proverb": "Ai ales pân-ai cules.",
+      "litera": "A"
+    },
+    {
+      "proverb": "Ai carte, ai parte.",
+      "litera": "A"
+    },
+    {
+      "proverb": "Ai, dai, n-ai. Ia nu da, să vezi cum ai.",
+      "litera": "A"
+    },
+    {
+      "proverb": "A dat-o cotită.",
+      "litera": "A"
+    },
+    {
+      "proverb": "A-i fi frică și de umbra sa.",
+      "litera": "A"
+    },
+    {
+      "proverb": "A împăca capra cu varza.",
+      "litera": "A"
+    },
+    {
+      "proverb": "A împușca doi iepuri dintr-un foc.",
+      "litera": "A"
+    },
+    {
+      "proverb": "A pune carul înaintea boilor.",
+      "litera": "A"
+    },
+    {
+      "proverb": "A turna gaz pe foc.",
+      "litera": "A"
+    },
+    {
+      "proverb": "Ajută-te singur și Domnul te va ajuta.",
+      "litera": "A"
+    },
+    {
+      "proverb": "Apa trece, pietrele rămân.",
+      "litera": "A"
+    },
+    {
+      "proverb": "Are un car cu boi și o sută de nevoi.",
+      "litera": "A"
+    },
+    {
+      "proverb": "Ascultă tot, dar nu crede tot.",
+      "litera": "A"
+    },
+    {
+      "proverb": "Așchia nu sare departe de trunchi.",
+      "litera": "A"
+    },
+    {
+      "proverb": "Avocatul nepoftit este bun de pălmuit.",
+      "litera": "A"
+    },
+    {
+      "proverb": "Baba/Surdul n-aude, dar le potrivește.",
+      "litera": "B"
+    },
+    {
+      "proverb": "Banii n-au miros.",
+      "litera": "B"
+    },
+    {
+      "proverb": "Banu-i ochiul dracului.",
+      "litera": "B"
+    },
+    {
+      "proverb": "Bate fierul cât e cald.",
+      "litera": "B"
+    },
+    {
+      "proverb": "Bătaia e ruptă din rai.",
+      "litera": "B"
+    },
+    {
+      "proverb": "Bătrânețe - haine grele.",
+      "litera": "B"
+    },
+    {
+      "proverb": "Bine faci, bine găsești.",
+      "litera": "B"
+    },
+    {
+      "proverb": "Boii bătrâni fac brazda dreaptă",
+      "litera": "B"
+    },
+    {
+      "proverb": "Bunul gospodar își face vara sanie și iarna car.",
+      "litera": "B"
+    },
+    {
+      "proverb": "Buturuga mică răstoarnă carul mare.",
+      "litera": "B"
+    },
+    {
+      "proverb": "Ca musca la arat.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Calul de dar nu se caută la dinți.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Capra sare masa, iada sare casa.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Capul ce se pleacă, sabia nu-l taie.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Cască ochii la tocmeală, iar nu după ce te-nșeală.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Cămașa e mai aproape de piele decât sumanul/haina.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Caută o femeie care-ți place ție, nu la alții.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Călătorului îi șade bine cu drumul.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Câinele care latră nu mușcă.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Câinele moare de drum lung și prostul de grija altora.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Câinii latră, ursul merge.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Când de multe te apuci mai pe toate le încurci.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Când doi îți spun că ești beat, du-te de te culcă.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Când doi se ceartă al treilea câștigă.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Când pisica nu-i acasă, șoarecii joacă pe masă.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Când omul cade, îi piere și umbra.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Când râde prostul, înțeleptul suspină.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Câte bordeie, atâtea obiceie.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Ce-am avut și ce-am pierdut!",
+      "litera": "C"
+    },
+    {
+      "proverb": "Ce mi-e baba Rada, ce mi-e Rada baba!",
+      "litera": "C"
+    },
+    {
+      "proverb": "Ce naște din pisică, șoareci mănâncă.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Ce ție nu-ți place, altuia nu-i face.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Ce-i în gușă și-n căpușă.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Ce-i în mână nu-i minciună.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Ce-și face omul singur nici dracul nu poate desface.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Cel flămând se visează mâncând.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Cele rele să se spele, cele bune să se-adune.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Cine aleargă după doi iepuri nu prinde niciunul.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Cine adună la tinerețe are la bătrânețe.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Cine are carte, are parte.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Cine are/face carte are patru ochi.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Cine are prieten nărod ajunge din pod în glod.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Cine dă nu uită, uită cel care ia.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Cine fură azi un ou, mâine va fura un bou.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Cine împarte, parte își face.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Cine întreabă nu dă bucuros.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Cine poate oase roade, cine nu, nici carne moale.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Cine râde la urmă râde mai bine.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Cine nu are un bătrân, să își cumpere.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Cine nu-ncearcă, nici nu câștigă.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Cine sapă groapa altuia, cade singur în ea.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Cine se frige cu ciorba, suflă și în iaurt.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Cine seamănă vânt, culege furtună.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Cine se aseamănă, se adună.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Cine se scoală de dimineață, departe ajunge.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Cine se scuză, se acuză.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Cine stă în casă de sticlă, nu aruncă cu pietre.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Cine știe carte, are patru ochi.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Copilul și bețivul spun adevărul.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Corb la corb nu scoate ochii.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Corb, corbului ochi nu scoate.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Cu fundul în două luntre.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Cu o floare nu se face primăvară.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Cu tacerea ii frigi pielea.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Cui pe cui scoate.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Cui îi dai pe datorie nu-ți mai intră-n prăvălie / nu-l mai vezi în prăvălie.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Cu un ochi râde și cu altul plânge.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Cum îți așterni așa dormi.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Cum se scoală - cum i-e foame, cum se culcă - cum adoarme.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Cum tu mie, așa eu ție.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Cum e stăpânul așa-i și sluga.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Cum e turcul și pistolul.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Cu răbdarea treci și marea.",
+      "litera": "C"
+    },
+    {
+      "proverb": "Dacă copilul nu plânge, mama nu-i dă țâță.",
+      "litera": "D"
+    },
+    {
+      "proverb": "Dacă doi îți spun că ești beat, du-te și te culcă.",
+      "litera": "D"
+    },
+    {
+      "proverb": "Dacă vrei să faci o meserie, îți trebuie scule, dacă vrei să ai familie, îți trebuie oameni.",
+      "litera": "D"
+    },
+    {
+      "proverb": "Dacă n-ajunge, mai rămâne.",
+      "litera": "D"
+    },
+    {
+      "proverb": "Dacă tăceai, filosof rămâneai.",
+      "litera": "D"
+    },
+    {
+      "proverb": "Dar din dar se face rai.",
+      "litera": "D"
+    },
+    {
+      "proverb": "Dați cezarului, ce-i al cezarului.",
+      "litera": "D"
+    },
+    {
+      "proverb": "De când lumea, râsul te râde și batjocura te batjocorește.",
+      "litera": "D"
+    },
+    {
+      "proverb": "De ce e mai râioasă capra, de aia stă cu coada mai sus.",
+      "litera": "D"
+    },
+    {
+      "proverb": "Dă-i nas lui Ivan, că se suie pe divan.",
+      "litera": "D"
+    },
+    {
+      "proverb": "De la un datornic rău și un sac de paie e bun.",
+      "litera": "D"
+    },
+    {
+      "proverb": "Din talpa casei cerc de bute nu se poate face.",
+      "litera": "D"
+    },
+    {
+      "proverb": "Din talpa casei nu poți face doage, nici din coadă de câine sită de mătase.",
+      "litera": "D"
+    },
+    {
+      "proverb": "Din talpa casei nu se face obadă de roată.",
+      "litera": "D"
+    },
+    {
+      "proverb": "După mine, potopul!",
+      "litera": "D"
+    },
+    {
+      "proverb": "După război mulți viteji se arată.",
+      "litera": "D"
+    },
+    {
+      "proverb": "E bună povața de bătrân și părinte.",
+      "litera": "E"
+    },
+    {
+      "proverb": "E bun numai când doarme.",
+      "litera": "E"
+    },
+    {
+      "proverb": "E învățat (cu greutățile) ca țiganul cu ciocanul (scânteia).",
+      "litera": "E"
+    },
+    {
+      "proverb": "Excepția întărește/confirmă regula.",
+      "litera": "E"
+    },
+    {
+      "proverb": "Fă bine și așteaptă răul.",
+      "litera": "F"
+    },
+    {
+      "proverb": "Ferește-mă Doamne, de prieteni, că de dușmani mă feresc singur.",
+      "litera": "F"
+    },
+    {
+      "proverb": "Ferește-te de proști, pentru că au mintea odihnită.",
+      "litera": "F"
+    },
+    {
+      "proverb": "Fă-te frate cu dracul până treci puntea.",
+      "litera": "F"
+    },
+    {
+      "proverb": "Ferește-te de câinele mut și de omul tăcut.",
+      "litera": "F"
+    },
+    {
+      "proverb": "Fiecare greșește, dar numai prostul repetă greșeala.",
+      "litera": "F"
+    },
+    {
+      "proverb": "Foamea e cel mai bun bucătar.",
+      "litera": "F"
+    },
+    {
+      "proverb": "Frate, frate, dar brânza e pe (costă) bani.",
+      "litera": "F"
+    },
+    {
+      "proverb": "Frâul de aur nu face calul mai bun.",
+      "litera": "F"
+    },
+    {
+      "proverb": "Fuga e rușinoasă, dar sănătoasă.",
+      "litera": "F"
+    },
+    {
+      "proverb": "Găina bătrână face ciorba bună.",
+      "litera": "G"
+    },
+    {
+      "proverb": "Găina vecinului pare curcă.",
+      "litera": "G"
+    },
+    {
+      "proverb": "Găină în făină.",
+      "litera": "G"
+    },
+    {
+      "proverb": "Gând la gând cu bucurie.",
+      "litera": "G"
+    },
+    {
+      "proverb": "Gerul nu vine niciodată singur.",
+      "litera": "G"
+    },
+    {
+      "proverb": "Graba strică treaba.",
+      "litera": "G"
+    },
+    {
+      "proverb": "Haina nu îl face pe om.",
+      "litera": "H"
+    },
+    {
+      "proverb": "Hoțul neprins e negustor cinstit.",
+      "litera": "H"
+    },
+    {
+      "proverb": "Iarba rea nu piere.",
+      "litera": "I"
+    },
+    {
+      "proverb": "În boul care trage, în ăla dă cu biciul",
+      "litera": "Î"
+    },
+    {
+      "proverb": "Încet, încet, departe ajungi",
+      "litera": "Î"
+    },
+    {
+      "proverb": "Încetul cu încetul se face oțetul",
+      "litera": "Î"
+    },
+    {
+      "proverb": "Învață din nevoia altuia",
+      "litera": "Î"
+    },
+    {
+      "proverb": "În țara orbilor, chiorul este împărat",
+      "litera": "Î"
+    },
+    {
+      "proverb": "Jarul potolit te arde",
+      "litera": "J"
+    },
+    {
+      "proverb": "Jur acum pana nu iese soarele",
+      "litera": "J"
+    },
+    {
+      "proverb": "La plăcinte înainte, la război înapoi.",
+      "litera": "L"
+    },
+    {
+      "proverb": "La pomul lăudat să nu te duci cu sacul.",
+      "litera": "L"
+    },
+    {
+      "proverb": "Lacomului nu-i ajunge, Oltu -n gură de i-ar curge.",
+      "litera": "L"
+    },
+    {
+      "proverb": "La/în tot răul este și un bine.",
+      "litera": "L"
+    },
+    {
+      "proverb": "La omul sărac, nici boii nu trag.",
+      "litera": "L"
+    },
+    {
+      "proverb": "Lauda de sine nu miroase a bine.",
+      "litera": "L"
+    },
+    {
+      "proverb": "Laudă-mă gură, că ți-oi da friptură.",
+      "litera": "L"
+    },
+    {
+      "proverb": "Lenea e cucoană mare, care cere de mâncare",
+      "litera": "L"
+    },
+    {
+      "proverb": "Leneșul mai mult aleargă și zgârcitul (scumpul) mai mult păgubește.",
+      "litera": "L"
+    },
+    {
+      "proverb": "Lăcomia pierde omenia.",
+      "litera": "L"
+    },
+    {
+      "proverb": "Lăcusta nu are milă de bucate.",
+      "litera": "L"
+    },
+    {
+      "proverb": "Lemnul strâmb te necăjește, / omul prost te-mbătrânește.",
+      "litera": "L"
+    },
+    {
+      "proverb": "Lucrul, odată început, e pe jumătate făcut.",
+      "litera": "L"
+    },
+    {
+      "proverb": "Lupul cu slugi nu face gâtul gros.",
+      "litera": "L"
+    },
+    {
+      "proverb": "Lupul lup rămâne.",
+      "litera": "L"
+    },
+    {
+      "proverb": "Lupu-și schimbă părul, dar năravul ba.",
+      "litera": "L"
+    },
+    {
+      "proverb": "Lumea muncește și sapă și eu duc câinii la apă.",
+      "litera": "L"
+    },
+    {
+      "proverb": "Mai bine mai târziu decât niciodată.",
+      "litera": "M"
+    },
+    {
+      "proverb": "Maimuța în aur și purpură, tot maimuță rămâne.",
+      "litera": "M"
+    },
+    {
+      "proverb": "Mamă soacră, poamă acră.",
+      "litera": "M"
+    },
+    {
+      "proverb": "Măgarul duce vinul și bea apă.",
+      "litera": "M"
+    },
+    {
+      "proverb": "Mărul putred strică o grămadă de mere bune.",
+      "litera": "M"
+    },
+    {
+      "proverb": "Mătura nouă mătură bine.",
+      "litera": "M"
+    },
+    {
+      "proverb": "Mâța blândă zgârie rău.",
+      "litera": "M"
+    },
+    {
+      "proverb": "Meseria e brățară de aur.",
+      "litera": "M"
+    },
+    {
+      "proverb": "Mi-e milă de tine, dar de mine mi se rupe inima.",
+      "litera": "M"
+    },
+    {
+      "proverb": "Minciuna are picioare scurte.",
+      "litera": "M"
+    },
+    {
+      "proverb": "Mortul de la groapă nu se (mai) întoarce.",
+      "litera": "M"
+    },
+    {
+      "proverb": "Mărul nu cade departe de copac.",
+      "litera": "M"
+    },
+    {
+      "proverb": "Năravul din fire nu are lecuire.",
+      "litera": "N"
+    },
+    {
+      "proverb": "Năravul din născare leac nu are.",
+      "litera": "N"
+    },
+    {
+      "proverb": "Nemulțumitului i se ia darul.",
+      "litera": "N"
+    },
+    {
+      "proverb": "Nevoia îl învață pe om.",
+      "litera": "N"
+    },
+    {
+      "proverb": "Nevoia te învață.",
+      "litera": "N"
+    },
+    {
+      "proverb": "Nu aduce anul/ziua ce aduce ceasul/ora.",
+      "litera": "N"
+    },
+    {
+      "proverb": "N-ai carte, n-ai parte.",
+      "litera": "N"
+    },
+    {
+      "proverb": "Nu da vrabia din mână pentru cioara de pe gard.",
+      "litera": "N"
+    },
+    {
+      "proverb": "Nu e dracul (chiar) așa de negru.",
+      "litera": "N"
+    },
+    {
+      "proverb": "Nu este pădure fără uscături.",
+      "litera": "N"
+    },
+    {
+      "proverb": "Nu-i \"mult\" să nu se termine și \"puțin\" să nu ajungă.",
+      "litera": "N"
+    },
+    {
+      "proverb": "Nu face ce face popa, fă ce zice popa.",
+      "litera": "N"
+    },
+    {
+      "proverb": "Nu haina îl face pe om.",
+      "litera": "N"
+    },
+    {
+      "proverb": "Nu iese fum fără foc.",
+      "litera": "N"
+    },
+    {
+      "proverb": "Nu lăsa pe mâine ce poți face azi.",
+      "litera": "N"
+    },
+    {
+      "proverb": "Nu mor caii când vor câinii.",
+      "litera": "N"
+    },
+    {
+      "proverb": "Nu lăuda ziua înainte de asfințit.",
+      "litera": "N"
+    },
+    {
+      "proverb": "Nu poți fi și cu varza unsă și cu slănina în pod.",
+      "litera": "N"
+    },
+    {
+      "proverb": "Nu se sperie curva bătrână de vorba groasă.",
+      "litera": "N"
+    },
+    {
+      "proverb": "Nu știe stânga ce face dreapta. (Matei 6:3)",
+      "litera": "N"
+    },
+    {
+      "proverb": "Nu te încrede în cânele care dă din coadă.",
+      "litera": "N"
+    },
+    {
+      "proverb": "Nu toate muștele fac miere.",
+      "litera": "N"
+    },
+    {
+      "proverb": "Nu tot ce zboară se mănâncă.",
+      "litera": "N"
+    },
+    {
+      "proverb": "Nu-ți băga nasul unde nu-ți fierbe oala.",
+      "litera": "N"
+    },
+    {
+      "proverb": "Nu-ți dori, că ți se va întâmpla.",
+      "litera": "N"
+    },
+    {
+      "proverb": "Nu vede pădurea de copaci / din pricina copacului.",
+      "litera": "N"
+    },
+    {
+      "proverb": "Nu zice hop până n-ai sărit groapa/pârleazul.",
+      "litera": "N"
+    },
+    {
+      "proverb": "Numa-ncet, cu furca se încarcă carul.",
+      "litera": "N"
+    },
+    {
+      "proverb": "Numai în pomul care nu face roade nu dă nimeni cu pietre.",
+      "litera": "N"
+    },
+    {
+      "proverb": "Numai prostul râde de ce își aduce aminte.",
+      "litera": "N"
+    },
+    {
+      "proverb": "Nu-i pădure fară uscatură.",
+      "litera": "N"
+    },
+    {
+      "proverb": "Obrazul de scoarță / totdeauna îi gata de harță.",
+      "litera": "O"
+    },
+    {
+      "proverb": "Ochii care nu se văd se uită.",
+      "litera": "O"
+    },
+    {
+      "proverb": "Ochii sunt oglinda/fereastra sufletului.",
+      "litera": "O"
+    },
+    {
+      "proverb": "Ochii verzi niciodată să nu-i crezi.",
+      "litera": "O"
+    },
+    {
+      "proverb": "Omul sfințește locul, nu locul pe om.",
+      "litera": "O"
+    },
+    {
+      "proverb": "Omul face haina și nu haina pe om.",
+      "litera": "O"
+    },
+    {
+      "proverb": "Omul harnic, silitor, de pâine nu duce dor.",
+      "litera": "O"
+    },
+    {
+      "proverb": "Paza bună trece primejdia rea",
+      "litera": "P"
+    },
+    {
+      "proverb": "Până ce nu dai cu capul de pragul de sus, nu-l vezi pe cel de jos.",
+      "litera": "P"
+    },
+    {
+      "proverb": "Pofta vine mâncând",
+      "litera": "P"
+    },
+    {
+      "proverb": "Prietenul bun e ca o pungă de bani.",
+      "litera": "P"
+    },
+    {
+      "proverb": "Prietenul la nevoie se cunoaște",
+      "litera": "P"
+    },
+    {
+      "proverb": "Prostia și domnia se plătește",
+      "litera": "P"
+    },
+    {
+      "proverb": "Prostia din naștere n-are leac (nu se vindecă)",
+      "litera": "P"
+    },
+    {
+      "proverb": "Prostul dacă nu-i fudul, parcă nu e prost destul",
+      "litera": "P"
+    },
+    {
+      "proverb": "Prostul moare de grija altuia",
+      "litera": "P"
+    },
+    {
+      "proverb": "Pe cine nu lași să moară, nu te lasă să trăiești.",
+      "litera": "P"
+    },
+    {
+      "proverb": "Pentru o babă surdă, nu se trag clopotele de două ori.",
+      "litera": "P"
+    },
+    {
+      "proverb": "Peștele de la cap se-mpute",
+      "litera": "P"
+    },
+    {
+      "proverb": "Peștele mare mănâncă peștele mic (sau Peștele cel mare mănâncă pe cel mic)",
+      "litera": "P"
+    },
+    {
+      "proverb": "Pică pară mălăiață în gura lui Nătăfleață",
+      "litera": "P"
+    },
+    {
+      "proverb": "Prea puțin ca să trăiești, prea mult ca să mori",
+      "litera": "P"
+    },
+    {
+      "proverb": "Prieteni noi să îți faci, dar de cei bătrâni să nu te lași!",
+      "litera": "P"
+    },
+    {
+      "proverb": "Printre grâu, mălura crește.",
+      "litera": "P"
+    },
+    {
+      "proverb": "Prost să fii, noroc să ai.",
+      "litera": "P"
+    },
+    {
+      "proverb": "Pune-ți frâu la gură și lacăt la inimă",
+      "litera": "P"
+    },
+    {
+      "proverb": "Prostul întâi o croiește apoi o gândește",
+      "litera": "P"
+    },
+    {
+      "proverb": "Prostul nu se lasă până când nu spune tot ce știe",
+      "litera": "P"
+    },
+    {
+      "proverb": "Punctualitatea-i politețea regilor",
+      "litera": "P"
+    },
+    {
+      "proverb": "Prostul nu e prost destul, dacă nu e și fudul!",
+      "litera": "P"
+    },
+    {
+      "proverb": "Rabdă inimă și taci, că n-ai alta ce să faci.",
+      "litera": "R"
+    },
+    {
+      "proverb": "Rabdă suflete cât poți, nu-ți da taina către toți.",
+      "litera": "R"
+    },
+    {
+      "proverb": "Răzbunarea e arma prostului.",
+      "litera": "R"
+    },
+    {
+      "proverb": "Râde hârb/ciob de oală spartă",
+      "litera": "R"
+    },
+    {
+      "proverb": "Râde dracul de porumbe negre și pe sine nu se vede.",
+      "litera": "R"
+    },
+    {
+      "proverb": "Râde prostul de neghiob.",
+      "litera": "R"
+    },
+    {
+      "proverb": "Rușinosul roade osul.",
+      "litera": "R"
+    },
+    {
+      "proverb": "S-a băgat ca musca-n lapte (ori, ca musca-n fundul calului).",
+      "litera": "S"
+    },
+    {
+      "proverb": "S-a dus bou și a venit vacă.",
+      "litera": "S"
+    },
+    {
+      "proverb": "S-au văzut mai mulți miei tăiați de Paște, decât oi bătrâne.",
+      "litera": "S"
+    },
+    {
+      "proverb": "Să fii domn e o întâmplare, să fii om e lucru mare.",
+      "litera": "S"
+    },
+    {
+      "proverb": "Să stăm strâmb și să judecăm drept.",
+      "litera": "S"
+    },
+    {
+      "proverb": "Sătulul nu crede flămândului.",
+      "litera": "S"
+    },
+    {
+      "proverb": "Sângele apă nu se face.",
+      "litera": "S"
+    },
+    {
+      "proverb": "Sârguința e mama norocului.",
+      "litera": "S"
+    },
+    {
+      "proverb": "Scopul scuză mijloacele.",
+      "litera": "S"
+    },
+    {
+      "proverb": "Scump la tărâțe, ieftin la făină.",
+      "litera": "S"
+    },
+    {
+      "proverb": "Socoteală curată, prietenie lungă.",
+      "litera": "S"
+    },
+    {
+      "proverb": "Spune-mi cu cine te însoțești, ca să-ți spun cine ești.",
+      "litera": "S"
+    },
+    {
+      "proverb": "Stăpânul zgârcit învață sluga hoață.",
+      "litera": "S"
+    },
+    {
+      "proverb": "Și tăcerea e un răspuns.",
+      "litera": "Ș"
+    },
+    {
+      "proverb": "Știe mocanul ce-i șofranul? Când îl vede pe tarabă, gândește că e otravă.",
+      "litera": "Ș"
+    },
+    {
+      "proverb": "Tăcerea e de aur, vorba de argint.",
+      "litera": "T"
+    },
+    {
+      "proverb": "Tânăr lângă tânără, ca paiele lângă foc.",
+      "litera": "T"
+    },
+    {
+      "proverb": "Tinerii înaintea bătrânilor, să aibă urechi, nu gură!",
+      "litera": "T"
+    },
+    {
+      "proverb": "Toamna se numără bobocii.",
+      "litera": "T"
+    },
+    {
+      "proverb": "Toate drumurile / căile duc la Roma.",
+      "litera": "T"
+    },
+    {
+      "proverb": "Tot țiganul își laudă ciocanul.",
+      "litera": "T"
+    },
+    {
+      "proverb": "Trei lucruri nu știe omul: când se naște, când îl ia somnul și când moare.",
+      "litera": "T"
+    },
+    {
+      "proverb": "Țara arde și/iar baba se piaptănă.",
+      "litera": "Ț"
+    },
+    {
+      "proverb": "Țara arde de tătari, babei îi arde de lăutari.",
+      "litera": "Ț"
+    },
+    {
+      "proverb": "Ulciorul nu merge de multe ori la apă.",
+      "litera": "U"
+    },
+    {
+      "proverb": "Unde dai și unde crapă.",
+      "litera": "U"
+    },
+    {
+      "proverb": "Unde nu intră soarele pe fereastră, intră doctorul pe ușă.",
+      "litera": "U"
+    },
+    {
+      "proverb": "Unde se cioplește, sar și așchii.",
+      "litera": "U"
+    },
+    {
+      "proverb": "Unde-s mulți, puterea crește.",
+      "litera": "U"
+    },
+    {
+      "proverb": "Urma alege.",
+      "litera": "U"
+    },
+    {
+      "proverb": "Urma scapă turma.",
+      "litera": "U"
+    },
+    {
+      "proverb": "Un măr bolnav strică o grămada mare de mere sănătoase.",
+      "litera": "U"
+    },
+    {
+      "proverb": "Un nebun întreabă mai mult decât pot spune zece înțelepți.",
+      "litera": "U"
+    },
+    {
+      "proverb": "Unde nu-i cap, vai de picioare.",
+      "litera": "U"
+    },
+    {
+      "proverb": "Vinde pielea ursului din pădure.",
+      "litera": "V"
+    },
+    {
+      "proverb": "Vorba dulce mult aduce.",
+      "litera": "V"
+    },
+    {
+      "proverb": "Vorba e de argint, tăcerea e de aur.",
+      "litera": "V"
+    },
+    {
+      "proverb": "Vorba lungă, sărăcia omului.",
+      "litera": "V"
+    },
+    {
+      "proverb": "Vorbești de lup și lupul la ușă.",
+      "litera": "V"
+    },
+    {
+      "proverb": "Vrabia mălai visează, iar calicul praznicul.",
+      "litera": "V"
+    },
+    {
+      "proverb": "Vrei, nu vrei, bea, Grigore, aghiasmă!",
+      "litera": "V"
+    },
+    {
+      "proverb": "Vrei să faci o meserie, îți trebuie scule. Vrei să faci o familie, îți trebuie oameni.",
+      "litera": "V"
+    },
+    {
+      "proverb": "Zace pe moarte și ar mânca de toate.",
+      "litera": "Z"
+    },
+    {
+      "proverb": "Ziua bună se cunoaște de dimineață.",
+      "litera": "Z"
+    }
+  ],
+  "meta": {
+    "title": "Proverbe românești - Free Download",
+    "description": "Lista proverbelor românești, în ordine alfabetică. Contains 314 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Proverbe românești | ListBase",
+    "seo_description": "Download Proverbe românești — 314 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 314 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Listă_de_proverbe_românești"
+    ]
+  }
+}

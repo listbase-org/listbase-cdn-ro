@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-10-27T02:12:58.759Z",
-  "total_datasets": 433,
-  "total_records": 163944,
+  "generated": "2026-10-27T02:13:01.490Z",
+  "total_datasets": 434,
+  "total_records": 164258,
   "categories": [
     {
       "id": "culture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "law",
@@ -5309,6 +5309,29 @@
         "xlsx": {
           "name": "ro-expresii-romanesti_RO.xlsx",
           "size": 13883
+        }
+      }
+    },
+    {
+      "id": "ro-proverbe-romanesti",
+      "name": "Proverbe românești",
+      "category": "language",
+      "record_count": 314,
+      "columns": [
+        "proverb",
+        "litera"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Listă_de_proverbe_românești",
+      "updated": "2026-10",
+      "size": 30162,
+      "files": {
+        "csv": {
+          "name": "ro-proverbe-romanesti_RO.csv",
+          "size": 14217
+        },
+        "xlsx": {
+          "name": "ro-proverbe-romanesti_RO.xlsx",
+          "size": 16102
         }
       }
     },
