@@ -1,0 +1,866 @@
+{
+  "id": "ro-mancaruri-romanesti",
+  "name": "Mâncăruri românești",
+  "title": "Mâncăruri românești",
+  "description": "Lista mâncărurilor tradiționale românești pe categorii (brânzeturi, mezeluri, ciorbe, feluri principale, deserturi etc.), cu descriere.",
+  "category": "food",
+  "source": "https://ro.wikipedia.org/wiki/Listă_de_mâncăruri_românești",
+  "source_url": "https://ro.wikipedia.org/wiki/Listă_de_mâncăruri_românești",
+  "updated": "2026-10",
+  "record_count": 165,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "descriere",
+      "label": "Descriere",
+      "type": "string"
+    },
+    {
+      "key": "categorie",
+      "label": "Categorie",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "Brânză de burduf",
+      "descriere": "Cunoscută și ca brânză frământată. Făcută din lapte de oaie sau, mai rar, de bivoliță și păstrată într-un stomac de oaie.",
+      "categorie": "Brânzeturi"
+    },
+    {
+      "nume": "Caș",
+      "descriere": "O brânză moale din lapte de oaie sau vacă, slab sau deloc sărată.",
+      "categorie": "Brânzeturi"
+    },
+    {
+      "nume": "Cașcaval",
+      "descriere": "Din lapte de vacă sau oaie, găsit și în varianta afumată.",
+      "categorie": "Brânzeturi"
+    },
+    {
+      "nume": "Năsal",
+      "descriere": "Caș maturat în peștera de la Țaga, Cluj în prezența bacteriei Brevibacterium linens.",
+      "categorie": "Brânzeturi"
+    },
+    {
+      "nume": "Telemea",
+      "descriere": "Brânză maturată în saramură, similară cu feta grecească.",
+      "categorie": "Brânzeturi"
+    },
+    {
+      "nume": "Urdă",
+      "descriere": "Brânză din lapte de vacă, oaie sau capră.",
+      "categorie": "Brânzeturi"
+    },
+    {
+      "nume": "Babic",
+      "descriere": "Salam din carne de porc și vită, uneori și din oaie, originar din Buzău.",
+      "categorie": "Produse din carne"
+    },
+    {
+      "nume": "Batog",
+      "descriere": "Produs din pește sărat și afumat, în mod tradițional morun sau nisetru. În varianta modernă și din păstrăv, crap sau alți pești.",
+      "categorie": "Produse din carne"
+    },
+    {
+      "nume": "Cabanos",
+      "descriere": "Cârnat afumat, lung și subțire, făcut de obicei din carne de porc.",
+      "categorie": "Produse din carne"
+    },
+    {
+      "nume": "Caltaboș",
+      "descriere": "Cârnat din porc care conține ficat, uneori împreună cu alte organe, carne și orez.",
+      "categorie": "Produse din carne"
+    },
+    {
+      "nume": "Cârnați de Pleșcoi",
+      "descriere": "Cârnat din carne de oaie, condimentat cu ardei iute și usturoi.",
+      "categorie": "Produse din carne"
+    },
+    {
+      "nume": "Crenvurști",
+      "descriere": "Cârnăcior din carne de vită și slănină tocate fin, în intestine de oaie sau în material plastic și adesea prinse în pereche.",
+      "categorie": "Produse din carne"
+    },
+    {
+      "nume": "Ghiudem",
+      "descriere": "Cârnat uscat, presat și foarte condimentat, făcut din carne de oaie, de capră sau de vacă, specific Dobrogei.",
+      "categorie": "Produse din carne"
+    },
+    {
+      "nume": "Lebăr",
+      "descriere": "Cârnat din ficat de porc.",
+      "categorie": "Produse din carne"
+    },
+    {
+      "nume": "Macrou afumat",
+      "descriere": "Consumat ca aperitiv sau inclus în salate sau alte mâncăruri.",
+      "categorie": "Produse din carne"
+    },
+    {
+      "nume": "Novac Afumat din Țara Bârsei",
+      "descriere": "Specie de crap sărat și afumat la temperaturi de aproximativ 50°C.",
+      "categorie": "Produse din carne"
+    },
+    {
+      "nume": "Parizer",
+      "descriere": "Salam din carne de porc, cunoscut și ca salam de Bologna.",
+      "categorie": "Produse din carne"
+    },
+    {
+      "nume": "Pastramă",
+      "descriere": "",
+      "categorie": "Produse din carne"
+    },
+    {
+      "nume": "Pate",
+      "descriere": "Pastă de ficat, de carne sau de pește amestecată cu condimente. Servită de obicei pe pâine.",
+      "categorie": "Produse din carne"
+    },
+    {
+      "nume": "Salam de Nădlac",
+      "descriere": "",
+      "categorie": "Produse din carne"
+    },
+    {
+      "nume": "Salam de Sibiu",
+      "descriere": "Salam din carne de porc, maturat minim 90 de zile și acoperit cu mucegaiul nobil Penicillium Nalgiovensis.",
+      "categorie": "Produse din carne"
+    },
+    {
+      "nume": "Sângerete",
+      "descriere": "Cârnat fiert din carne, măruntaie și sânge de porc amestecate cu orez. Servit în perioada Crăciunului după tăierea porcului, mai ales în Transilvania.",
+      "categorie": "Produse din carne"
+    },
+    {
+      "nume": "Slănină Slană Clisă",
+      "descriere": "Preparat din grăsimea de porc de pe burta sau de pe spatele acestuia.",
+      "categorie": "Produse din carne"
+    },
+    {
+      "nume": "Tobă",
+      "descriere": "Cârnat din organe de porc în gelatină.",
+      "categorie": "Produse din carne"
+    },
+    {
+      "nume": "Virșli",
+      "descriere": "Cârnat din carne de oaie sau capră amestecată cu carne de vită.",
+      "categorie": "Produse din carne"
+    },
+    {
+      "nume": "Ceapă de Câmpina",
+      "descriere": "Ceapă fiartă, scobită, umplută cu un amestec de miez de nucă și pâine și trecută prin cuptor.",
+      "categorie": "Gustări calde sau reci"
+    },
+    {
+      "nume": "Drob",
+      "descriere": "Făcut din organe de miel, în special de Paști, sau din organe de pasăre, tocate și amestecate cu verdețuri.",
+      "categorie": "Gustări calde sau reci"
+    },
+    {
+      "nume": "Fasole bătută",
+      "descriere": "În varianta mai moale, servită ca aperitiv de întins pe pâine. În varianta mai densă, servită ca fel principal sau garnitură. Uneori acoperită cu un sos din ceapă călită cu roșii și paprică.",
+      "categorie": "Gustări calde sau reci"
+    },
+    {
+      "nume": "Jumări",
+      "descriere": "Făcute din burtă și șorici de porc.",
+      "categorie": "Gustări calde sau reci"
+    },
+    {
+      "nume": "Lichiu cu ceapă",
+      "descriere": "Plăcintă ardelenească cu umplutură de ceapă călită.",
+      "categorie": "Gustări calde sau reci"
+    },
+    {
+      "nume": "Mămăligă cu brânză și smântână",
+      "descriere": "De obicei servită cu telemea, iar ocazional cu brânză de burduf sau cu brânză de vaci.",
+      "categorie": "Gustări calde sau reci"
+    },
+    {
+      "nume": "Mere cu șuncă",
+      "descriere": "Mere umplute cu șuncă de porc, telemea, unt și pesmet și coapte. Servite ca aperitiv sau ca fel principal alături de o garnitură, de obicei de varză călită.",
+      "categorie": "Gustări calde sau reci"
+    },
+    {
+      "nume": "Palaneț",
+      "descriere": "Plăcintă din aluat de făină de grâu amestecată cu făină de mălai, simplă sau umplută cu brânză, carne sau varză călită.",
+      "categorie": "Gustări calde sau reci"
+    },
+    {
+      "nume": "Plăcintă armânească Plăcintă macedonească",
+      "descriere": "Plăcintă cu umplutură de brânză amestecată cu praz, spanac, urzici sau ștevie.",
+      "categorie": "Gustări calde sau reci"
+    },
+    {
+      "nume": "Plăcintă cu cartofi",
+      "descriere": "Servită la micul dejun cu smântână.",
+      "categorie": "Gustări calde sau reci"
+    },
+    {
+      "nume": "Răcitură Piftie",
+      "descriere": "Bucăți de carne în gelatină animală, de obicei de porc.",
+      "categorie": "Gustări calde sau reci"
+    },
+    {
+      "nume": "Salată de boeuf",
+      "descriere": "Salată din bucăți de carne și de plante rădăcinoase fierte, tăiate în cuburi și amestecate cu maioneză.",
+      "categorie": "Gustări calde sau reci"
+    },
+    {
+      "nume": "Salată de icre",
+      "descriere": "Salată din icre de pește, adesea crap sau știucă, ulei și miez de pâine.",
+      "categorie": "Gustări calde sau reci"
+    },
+    {
+      "nume": "Salată de vinete",
+      "descriere": "Din vinete coapte amestecate, curățate și mărunțite, amestecate cu ulei și zeamă de lămâie.",
+      "categorie": "Gustări calde sau reci"
+    },
+    {
+      "nume": "Scordolea de nuci",
+      "descriere": "Pastă din cartofi și nuci.",
+      "categorie": "Gustări calde sau reci"
+    },
+    {
+      "nume": "Scordolea de pește",
+      "descriere": "Mâncare de cartofi, usturoi și pește uscat. Specifică Deltei Dunării și lipovenilor.",
+      "categorie": "Gustări calde sau reci"
+    },
+    {
+      "nume": "Zacuscă",
+      "descriere": "Pastă de legume de întins pe pâine.",
+      "categorie": "Gustări calde sau reci"
+    },
+    {
+      "nume": "Borș de burechiușe",
+      "descriere": "",
+      "categorie": "Ciorbe, borșuri și supe"
+    },
+    {
+      "nume": "Borș de găină moldovenesc",
+      "descriere": "",
+      "categorie": "Ciorbe, borșuri și supe"
+    },
+    {
+      "nume": "Borș cu găluște de pește",
+      "descriere": "",
+      "categorie": "Ciorbe, borșuri și supe"
+    },
+    {
+      "nume": "Borș de pește lipovenesc",
+      "descriere": "",
+      "categorie": "Ciorbe, borșuri și supe"
+    },
+    {
+      "nume": "Ciorbă de bucățele",
+      "descriere": "Specifică șvabilor din Banat.",
+      "categorie": "Ciorbe, borșuri și supe"
+    },
+    {
+      "nume": "Ciorbă de „bureți” de oaie",
+      "descriere": "Specifică Țării Loviștei",
+      "categorie": "Ciorbe, borșuri și supe"
+    },
+    {
+      "nume": "Ciorbă de burtă",
+      "descriere": "Ciorbă din stomac de vită cu ou, smântână, usturoi și acrită cu oțet. Denumită și schembea.",
+      "categorie": "Ciorbe, borșuri și supe"
+    },
+    {
+      "nume": "Ciorbă de cartofi",
+      "descriere": "Cu sau fără carne.",
+      "categorie": "Ciorbe, borșuri și supe"
+    },
+    {
+      "nume": "Ciorbă de dovlecei umpluți",
+      "descriere": "Din zona Prahova - Dâmbovița.",
+      "categorie": "Ciorbe, borșuri și supe"
+    },
+    {
+      "nume": "Ciorbă de fasole cu afumătură",
+      "descriere": "Ciorbă cu boabe de fasole și cubulețe de carne afumată de porc.",
+      "categorie": "Ciorbe, borșuri și supe"
+    },
+    {
+      "nume": "Ciorbă de gâscă",
+      "descriere": "Specifică zonei Aradului.",
+      "categorie": "Ciorbe, borșuri și supe"
+    },
+    {
+      "nume": "Ciorbă de iepure",
+      "descriere": "Specifică Banatului.",
+      "categorie": "Ciorbe, borșuri și supe"
+    },
+    {
+      "nume": "Ciorbă de legume",
+      "descriere": "Ciorbă din legume diverse, de multe ori rădăcinoase.",
+      "categorie": "Ciorbe, borșuri și supe"
+    },
+    {
+      "nume": "Ciorbă de lobodă",
+      "descriere": "Preparată cu legume rădăcinoasă și fără carne.",
+      "categorie": "Ciorbe, borșuri și supe"
+    },
+    {
+      "nume": "Ciorbă de miel",
+      "descriere": "Acrită de obicei cu borș. Servită tradițional de Paști.",
+      "categorie": "Ciorbe, borșuri și supe"
+    },
+    {
+      "nume": "Ciorbă de midii",
+      "descriere": "Cu roșii și usturoi. Specifică Deltei Dunării.",
+      "categorie": "Ciorbe, borșuri și supe"
+    },
+    {
+      "nume": "Ciorbă de pește",
+      "descriere": "Acrită cu oțet, zeamă de lămâie sau moare.",
+      "categorie": "Ciorbe, borșuri și supe"
+    },
+    {
+      "nume": "Ciorbă de praz",
+      "descriere": "Și alte legume.",
+      "categorie": "Ciorbe, borșuri și supe"
+    },
+    {
+      "nume": "Ciorbă de pui",
+      "descriere": "Supă de pui acrită.",
+      "categorie": "Ciorbe, borșuri și supe"
+    },
+    {
+      "nume": "Ciorbă rădăuțeană",
+      "descriere": "Cu carne de pui.",
+      "categorie": "Ciorbe, borșuri și supe"
+    },
+    {
+      "nume": "Ciorbă de salată verde cu afumătură",
+      "descriere": "Cu lapte, zer sau apă și dreasă cu o combinație de smântână sau iaurt, verdeață și usturoi.",
+      "categorie": "Ciorbe, borșuri și supe"
+    },
+    {
+      "nume": "Ciorbă de sfeclă (numită și Borș de sfeclă)",
+      "descriere": "Cu alte rădăcinoase și puțin acrită.",
+      "categorie": "Ciorbe, borșuri și supe"
+    },
+    {
+      "nume": "Ciorbă țărănească",
+      "descriere": "Dintr-un amestec de legume și carne disponibile bucătarului.",
+      "categorie": "Ciorbe, borșuri și supe"
+    },
+    {
+      "nume": "Ciorbă de urechiușe",
+      "descriere": "Din bureți galbeni sălbatici.",
+      "categorie": "Ciorbe, borșuri și supe"
+    },
+    {
+      "nume": "Ciorbă de varză",
+      "descriere": "Fără carne, mai ales în post, sau cu afumătură.",
+      "categorie": "Ciorbe, borșuri și supe"
+    },
+    {
+      "nume": "Ciorbă de văcuță",
+      "descriere": "Cu diverse legume și servită cu smântână.",
+      "categorie": "Ciorbe, borșuri și supe"
+    },
+    {
+      "nume": "Supă de castane",
+      "descriere": "",
+      "categorie": "Ciorbe, borșuri și supe"
+    },
+    {
+      "nume": "Supă de ciuperci",
+      "descriere": "",
+      "categorie": "Ciorbe, borșuri și supe"
+    },
+    {
+      "nume": "Supă de dovlecei",
+      "descriere": "",
+      "categorie": "Ciorbe, borșuri și supe"
+    },
+    {
+      "nume": "Supă de fasole verde",
+      "descriere": "",
+      "categorie": "Ciorbe, borșuri și supe"
+    },
+    {
+      "nume": "Supă de gălușcuțe de făină",
+      "descriere": "Supă tare cu găluște mici făcute din făină de grâu, ou și untură. Seamănă cu pastele germane Spätzle.",
+      "categorie": "Ciorbe, borșuri și supe"
+    },
+    {
+      "nume": "Supă de găluște din ficat",
+      "descriere": "",
+      "categorie": "Ciorbe, borșuri și supe"
+    },
+    {
+      "nume": "Supă de găluște din griș",
+      "descriere": "Cel mai des făcută din supă de pui.",
+      "categorie": "Ciorbe, borșuri și supe"
+    },
+    {
+      "nume": "Supă de linte",
+      "descriere": "",
+      "categorie": "Ciorbe, borșuri și supe"
+    },
+    {
+      "nume": "Supă de roșii cu crutoane",
+      "descriere": "",
+      "categorie": "Ciorbe, borșuri și supe"
+    },
+    {
+      "nume": "Supă cu tăieței",
+      "descriere": "De obicei de pui.",
+      "categorie": "Ciorbe, borșuri și supe"
+    },
+    {
+      "nume": "Supă cu trahana Supă cu răzăleți",
+      "descriere": "Supă de roșii cu găluște mici din făină și ou.",
+      "categorie": "Ciorbe, borșuri și supe"
+    },
+    {
+      "nume": "Supă de zarzavat",
+      "descriere": "",
+      "categorie": "Ciorbe, borșuri și supe"
+    },
+    {
+      "nume": "Storceag",
+      "descriere": "Preparată cu sturion și zer de lapte.",
+      "categorie": "Ciorbe, borșuri și supe"
+    },
+    {
+      "nume": "Ardei umpluți",
+      "descriere": "Umplutura constă în carne de porc amestecată cu orez și legume.",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Brașovence",
+      "descriere": "Clătite umplute cu ciuperci, date prin pesmet și prăjite în ulei.",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Cașcaval pané",
+      "descriere": "Servit adesea cu cartofi prăjiți.",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Chiftele",
+      "descriere": "Făcute de obicei din carne de porc sau pui, cât și din legume.",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Chiftele de pește",
+      "descriere": "Tradiționale în Delta Dunării.",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Chifteluțe marinate",
+      "descriere": "",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Ciulama",
+      "descriere": "Mâncare din carne de pui sau ciuperci, cu sos cu făină și smântână.",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Colțunași",
+      "descriere": "În varianta sărată, pot fi umpluți cu brânză, carne, ciuperci sau altele. Sunt serviți adesea cu smântână și ceapă prăjită.",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Dovlecei pané",
+      "descriere": "Serviți adesea cu mujdei de usturoi.",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Dovlecei umpluți",
+      "descriere": "Tradițional, umplutura constă în carne de porc amestecată cu orez și ceapă.",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Iahnie de fasole",
+      "descriere": "Cu ciolan de porc afumat sau cu cârnați. Mâncare tradițională în Armata Română. Mai ales începând cu secolul XXI, servită de Ziua Națională.",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Îi place lui Ionică",
+      "descriere": "Fel de mâncare din Ardeal cu găluște, cartofi și carne de porc prăjite în untură.",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Frigărui",
+      "descriere": "Făcute la grătar, cu legume și carne de pui, porc sau miel.",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Ghiveci",
+      "descriere": "Tocăniță din legume de sezon.",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Gulii umplute",
+      "descriere": "Umplute cu carne tocată și legume și servite cu smântână.",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Gutui cu pui",
+      "descriere": "Fel de mâncare originar din Banat făcut cu un sos dulce cu unt și rom.",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Limbă cu măsline",
+      "descriere": "Tocăniță cu bucăți de limbă de vită (sau, mai rar, de porc) cu sos de roșii și măsline negre.",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Malasolca",
+      "descriere": "Mâncare de cartofi, usturoi și pește uscat. Specifică Deltei Dunării și lipovenilor.",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Mămăligă în straturi Mămăligă în pături Taci și înghite",
+      "descriere": "Mămăligă cu unul sau mai multe straturi de brânză și produse din porc. Uneori servită cu un ou ochi deasupra.",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Momițe",
+      "descriere": "Timus sau pancreas de porc, vită sau miel, dat prin ou bătut și pesmet și prăjit în ulei. Servit cu mujdei.",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Musaca",
+      "descriere": "Mâncare în straturi alternative de cartofi, carne și, uneori, vinete. Acoperită cu sos de roșii sau sos beșamel.",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Ostropel",
+      "descriere": "Carne de pui, de obicei pulpe, într-un sos de roșii cu ceapă și usturoi.",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Papricaș",
+      "descriere": "Tocană de pui, porc, vită sau pește cu un sos bogat în paprică. Fel de mâncare originar din bucătăria maghiară tipic Ardealului.",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Pastramă de berbecuț",
+      "descriere": "Carne de berbec tânăr bogat condimentată. Servită de obicei cu mămăligă.",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Pârjoale moldovenești",
+      "descriere": "Chiftele din carne de porc cu o crustă exterioară de mălai sau pesmet, prăjite în baie de ulei.",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Piperchi",
+      "descriere": "Fel de mâncare din Dobrogea, tipic bucătăriei aromânilor.",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Plachie",
+      "descriere": "Mâncare de pește cu ceapă.",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Pomana porcului",
+      "descriere": "Bucăți de carne din porcul proaspăt tăiat înainte de Crăciun fripte în untură și servită cu mămăligă.",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Rasol",
+      "descriere": "Carne de vită sau de pui opărită cu legume și servită cu mujdei sau sos de hrean. Uneori făcut și din pește.",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Rață pe varză",
+      "descriere": "Pulpă de rață servită cu varză călită și trecută prin cuptor.",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Saramură de pește",
+      "descriere": "",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Sarmale în foi de varză",
+      "descriere": "Umplute cu carne de porc și orez sau cu orez și legume.",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Sarmale în foi de viță",
+      "descriere": "Umplute cu carne de porc și orez.",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Stufat",
+      "descriere": "Tocăniță de miel cu ceapă verde și leurdă.",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Tocană Tocăniță",
+      "descriere": "Numele generic dat mâncărurilor românești care includ legume, sos și în multe cazuri carne.",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Tocăniță de berbecuț",
+      "descriere": "Mâncare a ciobanilor români. Făcută în mod tradițional la ceaun.",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Tocăniță de cartofi",
+      "descriere": "",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Tocăniță de mazăre",
+      "descriere": "Cu mazăre și alte legume. Fără carne sau cu carne de pui, porc sau vită.",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Tocăniță de praz",
+      "descriere": "Mâncare din praz cu măsline, de obicei fără carne.",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Tocăniță de castraveți murați",
+      "descriere": "Din carne de porc, sos de roșii și castraveți murați. Specifică Olteniei.",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Tochitură",
+      "descriere": "Tocăniță făcută dintr-un amestec de cărnuri proaspete sau procesate.",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Urzici cu usturoi",
+      "descriere": "Tocăniță de urzici.",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Varză à la Cluj",
+      "descriere": "Preparată la cuptor în straturi succesive de varză și carne de porc.",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Vinete umplute",
+      "descriere": "Conținutul este făcut din carne sau doar din bucăți de legume. Asemănătoare cu felul turcesc de mâncare İmam bayıldı.",
+      "categorie": "Feluri principale"
+    },
+    {
+      "nume": "Bulz",
+      "descriere": "Cunoscut și sub numele de urs de mămăligă. Mămăligă gătită, umplută cu brânză de burduf și trasă pe grătar.",
+      "categorie": "Garnituri"
+    },
+    {
+      "nume": "Mămăligă",
+      "descriere": "Preparat din mălai și apă.",
+      "categorie": "Garnituri"
+    },
+    {
+      "nume": "Ardei copți",
+      "descriere": "Ardei dulci roșii sau galbeni, copți, decojiți și curățați, tăiați în felii sau serviți întregi.",
+      "categorie": "Salate"
+    },
+    {
+      "nume": "Salată de castraveți",
+      "descriere": "Servită nu numai vara.",
+      "categorie": "Salate"
+    },
+    {
+      "nume": "Salată orientală",
+      "descriere": "Salată de cartofi cu ou, murături, măsline și ceapă.",
+      "categorie": "Salate"
+    },
+    {
+      "nume": "Salată de roșii",
+      "descriere": "Cu ceapă, ulei și acrită cu oțet sau zeamă de lămâie.",
+      "categorie": "Salate"
+    },
+    {
+      "nume": "Salată de sfeclă",
+      "descriere": "Cu hrean.",
+      "categorie": "Salate"
+    },
+    {
+      "nume": "Salată de varză albă",
+      "descriere": "Din varză albă crudă sau opărită, cu ulei și oțet.",
+      "categorie": "Salate"
+    },
+    {
+      "nume": "Salată de varză roșie",
+      "descriere": "Salată de varză crudă roșie, cu ulei, ceapă și oțet ca adăugare la un grătar mixt.",
+      "categorie": "Salate"
+    },
+    {
+      "nume": "Mujdei",
+      "descriere": "Sos de usturoi combinat cu ulei, apă, sos de roșii, iaurt sau smântână.",
+      "categorie": "Sosuri"
+    },
+    {
+      "nume": "Sarmuzac",
+      "descriere": "Sos asemănător maionezei în care usturoiul înlocuiește ouăle. Specific Dobrogei.",
+      "categorie": "Sosuri"
+    },
+    {
+      "nume": "Sos de hrean",
+      "descriere": "Din hrean ras cu oțet.",
+      "categorie": "Sosuri"
+    },
+    {
+      "nume": "Alivenci",
+      "descriere": "Tartă cu mălai, lapte, brânză de vaci și smântână.",
+      "categorie": "Deserturi"
+    },
+    {
+      "nume": "Amandină",
+      "descriere": "Prăjitură cu cremă de ciocolată sau migdale.",
+      "categorie": "Deserturi"
+    },
+    {
+      "nume": "Colac",
+      "descriere": "Produs de patiserie în care coca este împletită.",
+      "categorie": "Deserturi"
+    },
+    {
+      "nume": "Colivă",
+      "descriere": "",
+      "categorie": "Deserturi"
+    },
+    {
+      "nume": "Cozonac",
+      "descriere": "Făcut cu un aluat din faină, zahăr și ouă și umplut cu stafide, cacao, rahat sau altele.",
+      "categorie": "Deserturi"
+    },
+    {
+      "nume": "Cozonac secuiesc (în maghiară kürtőskalács; germană Baumstriezel)",
+      "descriere": "",
+      "categorie": "Deserturi"
+    },
+    {
+      "nume": "Cremșnit Cremeș",
+      "descriere": "Prăjitură cu foi și cremă de vanilie.",
+      "categorie": "Deserturi"
+    },
+    {
+      "nume": "Cușma lui Guguță",
+      "descriere": "Specifică Moldovei și Republicii Moldova.",
+      "categorie": "Deserturi"
+    },
+    {
+      "nume": "Gogoși",
+      "descriere": "Cu zahăr pudră sau umplute cu dulcețuri, gemuri sau creme.",
+      "categorie": "Deserturi"
+    },
+    {
+      "nume": "Gogoși de salcâm",
+      "descriere": "Flori de salcâm date prin aluat de clătite și prăjite în baie de ulei.",
+      "categorie": "Deserturi"
+    },
+    {
+      "nume": "Lapte de pasăre",
+      "descriere": "Desert originar din Franța, devenit popular în România la începutul secolului XX.",
+      "categorie": "Deserturi"
+    },
+    {
+      "nume": "Mucenici Mucenici muntenești",
+      "descriere": "Bucăți de cocă tăiate în forma cifrei opt și fierte într-o zeamă bogată în nucă și scorțișoară.",
+      "categorie": "Deserturi"
+    },
+    {
+      "nume": "Papanași",
+      "descriere": "Gogoși cu brânză dulce de vaci, servite cu smântână și gem sau dulceață.",
+      "categorie": "Deserturi"
+    },
+    {
+      "nume": "Pască",
+      "descriere": "Prăjitură cu brânză și stafide servită de Paște.",
+      "categorie": "Deserturi"
+    },
+    {
+      "nume": "Pelincile Domnului Scutecele Domnului Turte cu julfă",
+      "descriere": "Prăjitură de Crăciun. Alcătuită din straturi alternative de aluat subțire și conținut de semințe de cânepă pisate sau nucă pisată.",
+      "categorie": "Deserturi"
+    },
+    {
+      "nume": "Plăcintă cu brânză",
+      "descriere": "Cu brânză dulce și stafide.",
+      "categorie": "Deserturi"
+    },
+    {
+      "nume": "Plăcintă cu mere",
+      "descriere": "Amestec de mere rase cu scorțișoară între două straturi de aluat sau rulat între foi.",
+      "categorie": "Deserturi"
+    },
+    {
+      "nume": "Sfințișori Bradoși Mucenici moldovenești",
+      "descriere": "Colaci în forma cifrei opt cu miere și nucă.",
+      "categorie": "Deserturi"
+    },
+    {
+      "nume": "Savarină",
+      "descriere": "Prăjitură înmuiată în sirop de zahăr și acoperită cu frișcă.",
+      "categorie": "Deserturi"
+    },
+    {
+      "nume": "Tort Joffre",
+      "descriere": "Bogat în ciocolată. Creată de frații Capșa în 1920 în onoarea mareșalului Joseph Joffre cu ocazia vizitei acestuia la București.",
+      "categorie": "Deserturi"
+    },
+    {
+      "nume": "Vargabeleș",
+      "descriere": "Budincă de paste cu brânză originară din Cluj.",
+      "categorie": "Deserturi"
+    },
+    {
+      "nume": "Covrigi",
+      "descriere": "Acoperiți cu sare, susan sau mac.",
+      "categorie": "Street food"
+    },
+    {
+      "nume": "Mititei Mici",
+      "descriere": "Din carne de porc, vită sau un amestec.",
+      "categorie": "Street food"
+    },
+    {
+      "nume": "Plăcintă dobrogeană",
+      "descriere": "Plăcintă rotundă și subțire cu umplutură de brânză fiartă în lapte.",
+      "categorie": "Street food"
+    },
+    {
+      "nume": "Șaorma",
+      "descriere": "Lipie umplută cu legume, carne, cartofi prăjiți și sos de roșii și maioneză. Devenită populară după Revoluția din 1989.",
+      "categorie": "Street food"
+    },
+    {
+      "nume": "Scovergi",
+      "descriere": "Asemănătoare cu langoșul maghiar.",
+      "categorie": "Street food"
+    },
+    {
+      "nume": "Carne la garniță",
+      "descriere": "Carne de porc păstrată în untură.",
+      "categorie": "Conserve"
+    },
+    {
+      "nume": "Magiun de prune",
+      "descriere": "Gem de prune fără zahăr adăugat.",
+      "categorie": "Conserve"
+    }
+  ],
+  "meta": {
+    "title": "Mâncăruri românești - Free Download",
+    "description": "Lista mâncărurilor tradiționale românești pe categorii (brânzeturi, mezeluri, ciorbe, feluri principale, deserturi etc.), cu descriere. Contains 165 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mâncăruri românești | ListBase",
+    "seo_description": "Download Mâncăruri românești — 165 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 165 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Listă_de_mâncăruri_românești"
+    ]
+  }
+}

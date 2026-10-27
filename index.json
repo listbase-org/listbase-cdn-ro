@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-10-27T02:12:43.420Z",
-  "total_datasets": 427,
-  "total_records": 162274,
+  "generated": "2026-10-27T02:12:46.070Z",
+  "total_datasets": 428,
+  "total_records": 162439,
   "categories": [
     {
       "id": "culture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "geography",
@@ -2234,6 +2234,30 @@
         "xlsx": {
           "name": "ro-fast-food_RO.xlsx",
           "size": 114319
+        }
+      }
+    },
+    {
+      "id": "ro-mancaruri-romanesti",
+      "name": "Mâncăruri românești",
+      "category": "food",
+      "record_count": 165,
+      "columns": [
+        "nume",
+        "descriere",
+        "categorie"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Listă_de_mâncăruri_românești",
+      "updated": "2026-10",
+      "size": 30050,
+      "files": {
+        "csv": {
+          "name": "ro-mancaruri-romanesti_RO.csv",
+          "size": 17535
+        },
+        "xlsx": {
+          "name": "ro-mancaruri-romanesti_RO.xlsx",
+          "size": 14600
         }
       }
     },
