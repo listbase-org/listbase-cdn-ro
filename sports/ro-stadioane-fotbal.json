@@ -1,0 +1,556 @@
+{
+  "id": "ro-stadioane-fotbal",
+  "name": "Stadioanele de fotbal din România",
+  "title": "Stadioanele de fotbal din România",
+  "description": "Stadioanele de fotbal din România clasificate pe categorii UEFA, cu capacitate, localitate, echipe și anul inaugurării.",
+  "category": "sports",
+  "source": "https://ro.wikipedia.org/wiki/Lista_stadioanelor_de_fotbal_din_România",
+  "source_url": "https://ro.wikipedia.org/wiki/Lista_stadioanelor_de_fotbal_din_România",
+  "updated": "2026-10",
+  "record_count": 55,
+  "columns": [
+    {
+      "key": "denumire",
+      "label": "Denumire",
+      "type": "string"
+    },
+    {
+      "key": "capacitate",
+      "label": "Capacitate",
+      "type": "number"
+    },
+    {
+      "key": "localitate",
+      "label": "Localitate",
+      "type": "string"
+    },
+    {
+      "key": "echipe",
+      "label": "Echipe",
+      "type": "string"
+    },
+    {
+      "key": "inaugurat",
+      "label": "Inaugurat",
+      "type": "number"
+    },
+    {
+      "key": "renovat",
+      "label": "Renovat",
+      "type": "string"
+    },
+    {
+      "key": "categorie_uefa",
+      "label": "Categorie Uefa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "denumire": "Arena Națională",
+      "capacitate": 55634,
+      "localitate": "București",
+      "echipe": "Echipa națională de fotbal a României Dinamo București FCSB",
+      "inaugurat": "2011",
+      "renovat": "",
+      "categorie_uefa": "Stadioane UEFA Categoria 4 (Elite)"
+    },
+    {
+      "denumire": "Steaua",
+      "capacitate": 31254,
+      "localitate": "București",
+      "echipe": "CSA Steaua",
+      "inaugurat": "2021",
+      "renovat": "",
+      "categorie_uefa": "Stadioane UEFA Categoria 4 (Elite)"
+    },
+    {
+      "denumire": "Ion Oblemenco",
+      "capacitate": 30983,
+      "localitate": "Craiova",
+      "echipe": "Universitatea Craiova",
+      "inaugurat": "2017",
+      "renovat": "",
+      "categorie_uefa": "Stadioane UEFA Categoria 4 (Elite)"
+    },
+    {
+      "denumire": "Cluj Arena",
+      "capacitate": 30335,
+      "localitate": "Cluj-Napoca",
+      "echipe": "Universitatea Cluj",
+      "inaugurat": "2011",
+      "renovat": "",
+      "categorie_uefa": "Stadioane UEFA Categoria 4 (Elite)"
+    },
+    {
+      "denumire": "Ilie Oană",
+      "capacitate": 15073,
+      "localitate": "Ploiești",
+      "echipe": "Petrolul Ploiești",
+      "inaugurat": "2011",
+      "renovat": "",
+      "categorie_uefa": "Stadioane UEFA Categoria 4 (Elite)"
+    },
+    {
+      "denumire": "Rapid-Giulești",
+      "capacitate": 14047,
+      "localitate": "București",
+      "echipe": "Rapid București",
+      "inaugurat": "2022",
+      "renovat": "",
+      "categorie_uefa": "Stadioane UEFA Categoria 4 (Elite)"
+    },
+    {
+      "denumire": "Municipal",
+      "capacitate": 13014,
+      "localitate": "Sibiu",
+      "echipe": "Inter Sibiu",
+      "inaugurat": "2022",
+      "renovat": "",
+      "categorie_uefa": "Stadioane UEFA Categoria 4 (Elite)"
+    },
+    {
+      "denumire": "Constantina Diță",
+      "capacitate": 12518,
+      "localitate": "Târgu Jiu",
+      "echipe": "CSM Târgu Jiu",
+      "inaugurat": "2019",
+      "renovat": "",
+      "categorie_uefa": "Stadioane UEFA Categoria 4 (Elite)"
+    },
+    {
+      "denumire": "Francisc Neuman",
+      "capacitate": 11500,
+      "localitate": "Arad",
+      "echipe": "UTA Arad",
+      "inaugurat": "2020",
+      "renovat": "",
+      "categorie_uefa": "Stadioane UEFA Categoria 4 (Elite)"
+    },
+    {
+      "denumire": "Sepsi",
+      "capacitate": 8400,
+      "localitate": "Sfântu Gheorghe",
+      "echipe": "Sepsi OSK",
+      "inaugurat": "2021",
+      "renovat": "",
+      "categorie_uefa": "Stadioane UEFA Categoria 4 (Elite)"
+    },
+    {
+      "denumire": "Arcul de Triumf",
+      "capacitate": 8207,
+      "localitate": "București",
+      "echipe": "Dinamo București",
+      "inaugurat": "2021",
+      "renovat": "",
+      "categorie_uefa": "Stadioane UEFA Categoria 4 (Elite)"
+    },
+    {
+      "denumire": "Denumire",
+      "capacitate": "",
+      "localitate": "Localitate",
+      "echipe": "Beneficiar",
+      "inaugurat": "Inaugurat",
+      "renovat": "Renovat",
+      "categorie_uefa": "Stadioane UEFA Categoria 4 (Elite)"
+    },
+    {
+      "denumire": "Ceahlăul",
+      "capacitate": 18000,
+      "localitate": "Piatra-Neamț",
+      "echipe": "Ceahlăul Piatra Neamț",
+      "inaugurat": "1935",
+      "renovat": "2007",
+      "categorie_uefa": "Stadioane UEFA Categoria 3"
+    },
+    {
+      "denumire": "Dr. Constantin Rădulescu",
+      "capacitate": 17408,
+      "localitate": "Cluj-Napoca",
+      "echipe": "CFR Cluj",
+      "inaugurat": "1973",
+      "renovat": "2008",
+      "categorie_uefa": "Stadioane UEFA Categoria 3"
+    },
+    {
+      "denumire": "Eugen Popescu",
+      "capacitate": 8000,
+      "localitate": "Târgoviște",
+      "echipe": "Chindia Târgoviște",
+      "inaugurat": "1949",
+      "renovat": "2023",
+      "categorie_uefa": "Stadioane UEFA Categoria 3"
+    },
+    {
+      "denumire": "Central-Academia Gheorghe Hagi",
+      "capacitate": 4545,
+      "localitate": "Ovidiu",
+      "echipe": "Farul Constanța",
+      "inaugurat": "2015",
+      "renovat": "",
+      "categorie_uefa": "Stadioane UEFA Categoria 3"
+    },
+    {
+      "denumire": "Denumire",
+      "capacitate": "",
+      "localitate": "Localitate",
+      "echipe": "Beneficiar",
+      "inaugurat": "Inaugurat",
+      "renovat": "Renovat",
+      "categorie_uefa": "Stadioane UEFA Categoria 3"
+    },
+    {
+      "denumire": "Iftimie Ilisei",
+      "capacitate": 32700,
+      "localitate": "Medgidia",
+      "echipe": "CS Medgidia",
+      "inaugurat": "1978",
+      "renovat": "2021",
+      "categorie_uefa": "Alte Stadioane"
+    },
+    {
+      "denumire": "Nicolae Rainea",
+      "capacitate": 24000,
+      "localitate": "Galați",
+      "echipe": "Vacant",
+      "inaugurat": "1920",
+      "renovat": "2004",
+      "categorie_uefa": "Alte Stadioane"
+    },
+    {
+      "denumire": "Municipal",
+      "capacitate": 20054,
+      "localitate": "Drobeta-Turnu Severin",
+      "echipe": "Vacant",
+      "inaugurat": "1977",
+      "renovat": "2010",
+      "categorie_uefa": "Alte Stadioane"
+    },
+    {
+      "denumire": "Cetate",
+      "capacitate": 18000,
+      "localitate": "Alba Iulia",
+      "echipe": "Unirea Alba Iulia",
+      "inaugurat": "1982",
+      "renovat": "2004",
+      "categorie_uefa": "Alte Stadioane"
+    },
+    {
+      "denumire": "Daniel Prodan",
+      "capacitate": 18000,
+      "localitate": "Satu Mare",
+      "echipe": "CSM Olimpia Satu Mare",
+      "inaugurat": "1942",
+      "renovat": "",
+      "categorie_uefa": "Alte Stadioane"
+    },
+    {
+      "denumire": "Petre Libardi",
+      "capacitate": 15500,
+      "localitate": "Petroșani",
+      "echipe": "Jiul Petroșani (L3) Corvinul Hunedoara (SL)",
+      "inaugurat": "1982",
+      "renovat": "2005, 2026",
+      "categorie_uefa": "Alte Stadioane"
+    },
+    {
+      "denumire": "Viitorul",
+      "capacitate": 13500,
+      "localitate": "Scornicești",
+      "echipe": "Olt Scornicești",
+      "inaugurat": "1975",
+      "renovat": "",
+      "categorie_uefa": "Alte Stadioane"
+    },
+    {
+      "denumire": "Oțelul",
+      "capacitate": 13500,
+      "localitate": "Galați",
+      "echipe": "Oțelul Galați",
+      "inaugurat": "1982",
+      "renovat": "2006",
+      "categorie_uefa": "Alte Stadioane"
+    },
+    {
+      "denumire": "Municipal",
+      "capacitate": 12321,
+      "localitate": "Buzău",
+      "echipe": "Metalul Buzău",
+      "inaugurat": "1974",
+      "renovat": "2007",
+      "categorie_uefa": "Alte Stadioane"
+    },
+    {
+      "denumire": "Municipal",
+      "capacitate": 12000,
+      "localitate": "Râmnicu Vâlcea",
+      "echipe": "SCM Râmnicu Vâlcea Minerul Costești",
+      "inaugurat": "1946",
+      "renovat": "2006",
+      "categorie_uefa": "Alte Stadioane"
+    },
+    {
+      "denumire": "Jane Nițulescu",
+      "capacitate": 11500,
+      "localitate": "Caracal",
+      "echipe": "Vacant",
+      "inaugurat": "",
+      "renovat": "2006",
+      "categorie_uefa": "Alte Stadioane"
+    },
+    {
+      "denumire": "Emil Alexandrescu",
+      "capacitate": 11310,
+      "localitate": "Iași",
+      "echipe": "Vacant",
+      "inaugurat": "1960",
+      "renovat": "2016",
+      "categorie_uefa": "Alte Stadioane"
+    },
+    {
+      "denumire": "Iuliu Bodola",
+      "capacitate": 11067,
+      "localitate": "Oradea",
+      "echipe": "Bihor Oradea",
+      "inaugurat": "1924",
+      "renovat": "2015",
+      "categorie_uefa": "Alte Stadioane"
+    },
+    {
+      "denumire": "Regie",
+      "capacitate": 10020,
+      "localitate": "București",
+      "echipe": "Academia Germană de Fotbal",
+      "inaugurat": "1920",
+      "renovat": "2007",
+      "categorie_uefa": "Alte Stadioane"
+    },
+    {
+      "denumire": "Flacăra",
+      "capacitate": 10000,
+      "localitate": "Moreni",
+      "echipe": "Flacăra Moreni",
+      "inaugurat": "1922",
+      "renovat": "1973",
+      "categorie_uefa": "Alte Stadioane"
+    },
+    {
+      "denumire": "Municipal",
+      "capacitate": 10000,
+      "localitate": "Turda",
+      "echipe": "Sticla Arieșul Turda",
+      "inaugurat": "1975",
+      "renovat": "",
+      "categorie_uefa": "Alte Stadioane"
+    },
+    {
+      "denumire": "1 Mai",
+      "capacitate": 10000,
+      "localitate": "Slatina",
+      "echipe": "CSM Slatina",
+      "inaugurat": "1924",
+      "renovat": "2010",
+      "categorie_uefa": "Alte Stadioane"
+    },
+    {
+      "denumire": "Municipal",
+      "capacitate": 9240,
+      "localitate": "Vaslui",
+      "echipe": "CSM Vaslui",
+      "inaugurat": "1972",
+      "renovat": "2005",
+      "categorie_uefa": "Alte Stadioane"
+    },
+    {
+      "denumire": "Marin Anastasovici",
+      "capacitate": 8500,
+      "localitate": "Giurgiu",
+      "echipe": "Dunărea Giurgiu",
+      "inaugurat": "1970",
+      "renovat": "2014",
+      "categorie_uefa": "Alte Stadioane"
+    },
+    {
+      "denumire": "Milcovul",
+      "capacitate": 8500,
+      "localitate": "Focșani",
+      "echipe": "CSM Focșani",
+      "inaugurat": "1974",
+      "renovat": "2005",
+      "categorie_uefa": "Alte Stadioane"
+    },
+    {
+      "denumire": "Trans-Sil",
+      "capacitate": 8250,
+      "localitate": "Târgu Mureș",
+      "echipe": "ASA Târgu Mureș",
+      "inaugurat": "2007",
+      "renovat": "2010",
+      "categorie_uefa": "Alte Stadioane"
+    },
+    {
+      "denumire": "Viorel Mateianu",
+      "capacitate": 8000,
+      "localitate": "Baia Mare",
+      "echipe": "Minaur Baia Mare",
+      "inaugurat": "1923",
+      "renovat": "2008",
+      "categorie_uefa": "Alte Stadioane"
+    },
+    {
+      "denumire": "Mircea Chivu",
+      "capacitate": 8000,
+      "localitate": "Reșița",
+      "echipe": "CSM Reșița",
+      "inaugurat": "1926",
+      "renovat": "2009",
+      "categorie_uefa": "Alte Stadioane"
+    },
+    {
+      "denumire": "Orășenesc",
+      "capacitate": 8000,
+      "localitate": "Mioveni",
+      "echipe": "Argeș Pitești",
+      "inaugurat": "2000",
+      "renovat": "2007",
+      "categorie_uefa": "Alte Stadioane"
+    },
+    {
+      "denumire": "Jean Pădureanu",
+      "capacitate": 7800,
+      "localitate": "Bistrița",
+      "echipe": "Gloria Bistrița",
+      "inaugurat": "1930",
+      "renovat": "2008",
+      "categorie_uefa": "Alte Stadioane"
+    },
+    {
+      "denumire": "Municipal",
+      "capacitate": 7782,
+      "localitate": "Botoșani",
+      "echipe": "FC Botoșani",
+      "inaugurat": "",
+      "renovat": "2009, 2013",
+      "categorie_uefa": "Alte Stadioane"
+    },
+    {
+      "denumire": "Areni",
+      "capacitate": 7000,
+      "localitate": "Suceava",
+      "echipe": "Cetatea Suceava",
+      "inaugurat": "1963",
+      "renovat": "2002",
+      "categorie_uefa": "Alte Stadioane"
+    },
+    {
+      "denumire": "Tineretului",
+      "capacitate": 7000,
+      "localitate": "Urziceni",
+      "echipe": "FC Urziceni",
+      "inaugurat": "1976",
+      "renovat": "2017",
+      "categorie_uefa": "Alte Stadioane"
+    },
+    {
+      "denumire": "Delta",
+      "capacitate": 6600,
+      "localitate": "Tulcea",
+      "echipe": "Vacant",
+      "inaugurat": "",
+      "renovat": "2016",
+      "categorie_uefa": "Alte Stadioane"
+    },
+    {
+      "denumire": "1 Mai",
+      "capacitate": 6000,
+      "localitate": "Slobozia",
+      "echipe": "Unirea Slobozia",
+      "inaugurat": "1950",
+      "renovat": "2025",
+      "categorie_uefa": "Alte Stadioane"
+    },
+    {
+      "denumire": "Ion Comșa",
+      "capacitate": 6000,
+      "localitate": "Călărași",
+      "echipe": "Dunărea Călărași",
+      "inaugurat": "1962",
+      "renovat": "2018",
+      "categorie_uefa": "Alte Stadioane"
+    },
+    {
+      "denumire": "Concordia",
+      "capacitate": 5123,
+      "localitate": "Chiajna",
+      "echipe": "Concordia Chiajna",
+      "inaugurat": "2007",
+      "renovat": "2014, 2022",
+      "categorie_uefa": "Alte Stadioane"
+    },
+    {
+      "denumire": "Municipal",
+      "capacitate": 4774,
+      "localitate": "Sfântu Gheorghe",
+      "echipe": "Vacant",
+      "inaugurat": "1930",
+      "renovat": "2017",
+      "categorie_uefa": "Alte Stadioane"
+    },
+    {
+      "denumire": "Anghel Iordănescu",
+      "capacitate": 4518,
+      "localitate": "Voluntari",
+      "echipe": "FC Voluntari",
+      "inaugurat": "2012",
+      "renovat": "2016",
+      "categorie_uefa": "Alte Stadioane"
+    },
+    {
+      "denumire": "Clinceni",
+      "capacitate": 4502,
+      "localitate": "Clinceni",
+      "echipe": "CS Inter Ilfov (L3), Metaloglobus București (L2)",
+      "inaugurat": "2011",
+      "renovat": "2019",
+      "categorie_uefa": "Alte Stadioane"
+    },
+    {
+      "denumire": "Municipal",
+      "capacitate": 2480,
+      "localitate": "Miercurea Ciuc",
+      "echipe": "FK Csíkszereda",
+      "inaugurat": "1904",
+      "renovat": "2022",
+      "categorie_uefa": "Alte Stadioane"
+    },
+    {
+      "denumire": "Metalul",
+      "capacitate": 1606,
+      "localitate": "Buzău",
+      "echipe": "Metalul Buzău",
+      "inaugurat": "1950",
+      "renovat": "2017",
+      "categorie_uefa": "Alte Stadioane"
+    },
+    {
+      "denumire": "Ștefan Dobay",
+      "capacitate": 600,
+      "localitate": "Dumbrăvița",
+      "echipe": "CSC Dumbrăvița",
+      "inaugurat": "",
+      "renovat": "2024",
+      "categorie_uefa": "Alte Stadioane"
+    }
+  ],
+  "meta": {
+    "title": "Stadioanele de fotbal din România - Free Download",
+    "description": "Stadioanele de fotbal din România clasificate pe categorii UEFA, cu capacitate, localitate, echipe și anul inaugurării. Contains 55 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Stadioanele de fotbal din România | ListBase",
+    "seo_description": "Download Stadioanele de fotbal din România — 55 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 55 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Lista_stadioanelor_de_fotbal_din_România"
+    ]
+  }
+}

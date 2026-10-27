@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-10-27T02:13:06.633Z",
-  "total_datasets": 436,
-  "total_records": 164368,
+  "generated": "2026-10-27T02:13:09.002Z",
+  "total_datasets": 437,
+  "total_records": 164423,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "tech",
@@ -12321,6 +12321,34 @@
         "xlsx": {
           "name": "ro-canale-tv-sport_RO.xlsx",
           "size": 8500
+        }
+      }
+    },
+    {
+      "id": "ro-stadioane-fotbal",
+      "name": "Stadioanele de fotbal din România",
+      "category": "sports",
+      "record_count": 55,
+      "columns": [
+        "denumire",
+        "capacitate",
+        "localitate",
+        "echipe",
+        "inaugurat",
+        "renovat",
+        "categorie_uefa"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Lista_stadioanelor_de_fotbal_din_România",
+      "updated": "2026-10",
+      "size": 15090,
+      "files": {
+        "csv": {
+          "name": "ro-stadioane-fotbal_RO.csv",
+          "size": 4967
+        },
+        "xlsx": {
+          "name": "ro-stadioane-fotbal_RO.xlsx",
+          "size": 9962
         }
       }
     },
