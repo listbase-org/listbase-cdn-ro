@@ -1,0 +1,1384 @@
+{
+  "id": "ro-festivaluri",
+  "name": "Festivaluri din România",
+  "title": "Festivaluri din România",
+  "description": "Lista festivalurilor din România (muzică, film, teatru, gastronomie etc.), cu localitatea și anul primei ediții.",
+  "category": "culture",
+  "source": "https://ro.wikipedia.org/wiki/Listă_de_festivaluri_din_România",
+  "source_url": "https://ro.wikipedia.org/wiki/Listă_de_festivaluri_din_România",
+  "updated": "2026-10",
+  "record_count": 223,
+  "columns": [
+    {
+      "key": "festival",
+      "label": "Festival",
+      "type": "string"
+    },
+    {
+      "key": "localitate",
+      "label": "Localitate",
+      "type": "string"
+    },
+    {
+      "key": "an_infiintare",
+      "label": "An Infiintare",
+      "type": "number"
+    },
+    {
+      "key": "domeniu",
+      "label": "Domeniu",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "festival": "CODRU Festival",
+      "localitate": "",
+      "an_infiintare": "",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Festivalul Berii Arad",
+      "localitate": "Arad",
+      "an_infiintare": "1999",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Young Island Festival",
+      "localitate": "Bacău",
+      "an_infiintare": "2021",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Hangariada, Festival de Artă și Zbor",
+      "localitate": "Iași",
+      "an_infiintare": "",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Afterhills Music & Arts Festival",
+      "localitate": "Iași",
+      "an_infiintare": "2017",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Amestec",
+      "localitate": "Deluț",
+      "an_infiintare": "2021",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "KULT Fest",
+      "localitate": "Roman",
+      "an_infiintare": "2017",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Beach Please!",
+      "localitate": "Costinești",
+      "an_infiintare": "2022",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "B'Estfest",
+      "localitate": "București",
+      "an_infiintare": "2007",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Blues ConFusion Festival",
+      "localitate": "Suceava",
+      "an_infiintare": "2010",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Bucharest Early Music Festival",
+      "localitate": "București",
+      "an_infiintare": "2006",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Electric Castle",
+      "localitate": "Bonțida",
+      "an_infiintare": "2013",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Elementum festival",
+      "localitate": "Luncani, Cluj",
+      "an_infiintare": "2019",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "EUROPAfest",
+      "localitate": "București",
+      "an_infiintare": "1993",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "FânFest",
+      "localitate": "Roșia Montană",
+      "an_infiintare": "2004",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Cerbul de Aur",
+      "localitate": "Brașov",
+      "an_infiintare": "1968",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Festivalul Callatis",
+      "localitate": "Mangalia",
+      "an_infiintare": "1997",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Festivalul de Artă Contemporană Metropolis",
+      "localitate": "București",
+      "an_infiintare": "",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Festivalul de Muzică Sebiș",
+      "localitate": "Sebiș",
+      "an_infiintare": "1999",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Festivalul de Muzică Lăutărească Veche „Zavaidoc”",
+      "localitate": "Pitești",
+      "an_infiintare": "2006",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Festivalul Internațional al Muzicii Mecanice",
+      "localitate": "Iași",
+      "an_infiintare": "2007",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Festivalul Internațional de Muzică Ușoară „Dan Spătaru”",
+      "localitate": "Medgidia",
+      "an_infiintare": "2006",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Festivalul Internațional de Muzică Ușoară „George Grigoriu”",
+      "localitate": "Brăila",
+      "an_infiintare": "2005",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Festivalul Internațional „Nopți albe de acordeon”",
+      "localitate": "București",
+      "an_infiintare": "2007",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Festivalul Național de Muzică Ușoară Mamaia",
+      "localitate": "Mamaia",
+      "an_infiintare": "1963",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Festivalul Național Studențesc de Muzică pentru Tineri „Gaudeamus Awards”",
+      "localitate": "Brașov",
+      "an_infiintare": "1992",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Fusion Festival",
+      "localitate": "Gura Râului",
+      "an_infiintare": "2010",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "International Romani Art Festival",
+      "localitate": "București",
+      "an_infiintare": "2007",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Murmur Festival",
+      "localitate": "Făgăraș",
+      "an_infiintare": "2017",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Neversea",
+      "localitate": "Constanța",
+      "an_infiintare": "2017",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Open Camp Vaslui",
+      "localitate": "Vaslui",
+      "an_infiintare": "2010",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Padina Fest",
+      "localitate": "Parcul Natural Bucegi",
+      "an_infiintare": "2011",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Peninsula/Félsziget",
+      "localitate": "Târgu Mureș",
+      "an_infiintare": "2003",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Plai Festival",
+      "localitate": "Timișoara",
+      "an_infiintare": "2006",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Route68 Summerfest",
+      "localitate": "Gurasada",
+      "an_infiintare": "2011",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Saga Festival",
+      "localitate": "Bucuresti",
+      "an_infiintare": "2021",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Szabadság feszt",
+      "localitate": "",
+      "an_infiintare": "",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Senzoria festival",
+      "localitate": "Iași",
+      "an_infiintare": "2021",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Sibiu World Music Festival",
+      "localitate": "Sibiu",
+      "an_infiintare": "2007",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Sunwaves Festival",
+      "localitate": "Mamaia",
+      "an_infiintare": "2007",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Summer Well",
+      "localitate": "Buftea",
+      "an_infiintare": "2011",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "TimeShift",
+      "localitate": "București",
+      "an_infiintare": "2017",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Untold Festival",
+      "localitate": "Cluj-Napoca",
+      "an_infiintare": "2015",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Vibe Festival",
+      "localitate": "Târgu Mureș",
+      "an_infiintare": "2017",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Awake",
+      "localitate": "Gornesti",
+      "an_infiintare": "2017",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Focus Festival",
+      "localitate": "Sibiu",
+      "an_infiintare": "2016",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Airfield Festival",
+      "localitate": "Sibiu",
+      "an_infiintare": "2014",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Festivalul TurkArt",
+      "localitate": "Constanța",
+      "an_infiintare": "2019",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Mera World Music Festival",
+      "localitate": "Mera, jud. Cluj",
+      "an_infiintare": "2016",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Bran Winter Fest",
+      "localitate": "Bran",
+      "an_infiintare": "2014",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Delfinul de Aur",
+      "localitate": "Năvodari",
+      "an_infiintare": "2003",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Elementum festival",
+      "localitate": "Luncani, Cluj",
+      "an_infiintare": "2019",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Festivalul de Muzică Ușoară „Mihaela Runceanu”",
+      "localitate": "Buzău",
+      "an_infiintare": "2012",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Glasul Speranțelor",
+      "localitate": "Techirghiol",
+      "an_infiintare": "2002",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Global Master Fest",
+      "localitate": "București",
+      "an_infiintare": "2015",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Kronstadt Master Fest",
+      "localitate": "Brașov",
+      "an_infiintare": "2015",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Mamaia Copiilor",
+      "localitate": "Mamaia",
+      "an_infiintare": "2001",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Trofeul Tinereții",
+      "localitate": "Amara",
+      "an_infiintare": "1968",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Ursulețul de Aur",
+      "localitate": "Baia Mare",
+      "an_infiintare": "1984",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "ARTmania Festival",
+      "localitate": "Sibiu",
+      "an_infiintare": "2006",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Festivalul de Muzică Veche București",
+      "localitate": "2006 - 2021, București",
+      "an_infiintare": "",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Crizantema de Aur",
+      "localitate": "Târgoviște",
+      "an_infiintare": "1968",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Festivalul Fanfarelor",
+      "localitate": "Vaslui",
+      "an_infiintare": "1983",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Festivalul „George Enescu”",
+      "localitate": "București",
+      "an_infiintare": "1958",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Festivalul Mozart",
+      "localitate": "Cluj-Napoca",
+      "an_infiintare": "1991",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Festivalul Internațional de Muzică Veche",
+      "localitate": "Miercurea Ciuc",
+      "an_infiintare": "1980",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Festivalul de Muzică Veche București",
+      "localitate": "",
+      "an_infiintare": "",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Festivalul de Muzică Barocă Timișoara",
+      "localitate": "",
+      "an_infiintare": "",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Festivalul Internațional Vară Magică",
+      "localitate": "București",
+      "an_infiintare": "2012",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Festivalul Internațional „Leonard”",
+      "localitate": "Galați",
+      "an_infiintare": "2006",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Festivalul Internațional de Chitară Clasică „Harmonia Cordis”",
+      "localitate": "Târgu Mureș",
+      "an_infiintare": "2007",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Festivalul și Concursul Internațional de Canto „Hariclea Darclée”",
+      "localitate": "Brăila",
+      "an_infiintare": "1995",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Toamna Muzicală Clujeană",
+      "localitate": "Cluj-Napoca",
+      "an_infiintare": "1965",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Vacanțe Muzicale",
+      "localitate": "Piatra Neamț",
+      "an_infiintare": "1972",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Zilele Muzicii la Oravița",
+      "localitate": "Oravița",
+      "an_infiintare": "2008",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "European Music Open",
+      "localitate": "Oradea",
+      "an_infiintare": "2016",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Vibrate Festival",
+      "localitate": "Brașov",
+      "an_infiintare": "2015",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Festivalul Muzicii Românești",
+      "localitate": "serie nouă din 2007, Iași",
+      "an_infiintare": "",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Festivalul Internațional de Muzică Contemporană Cluj Modern",
+      "localitate": "",
+      "an_infiintare": "",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "SymphOpera Fest",
+      "localitate": "Suceava",
+      "an_infiintare": "2024",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Festivalul Internațional A Tribute to György Ligeti in his Native Transylvania",
+      "localitate": "Cluj-Napoca",
+      "an_infiintare": "2016",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Festivalul Coral Internațional „Ion Vidu”",
+      "localitate": "Lugoj",
+      "an_infiintare": "1995",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Festivalul Coral Internațional „Liviu Borlan”",
+      "localitate": "Baia Mare",
+      "an_infiintare": "2011",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Festivalul Coral „Timotei Popovici”",
+      "localitate": "Marga",
+      "an_infiintare": "1982",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Festivalul Internațional de Muzică Corală „D. G. Kiriac”",
+      "localitate": "Pitești",
+      "an_infiintare": "1992",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Brașov Jazz & Blues Festival",
+      "localitate": "",
+      "an_infiintare": "",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Jazz City",
+      "localitate": "",
+      "an_infiintare": "",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Bucharest Jazz Festival",
+      "localitate": "București",
+      "an_infiintare": "2012",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "DobroJazz",
+      "localitate": "2014 - 2019, Tulcea",
+      "an_infiintare": "",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Festivalul Internațional de Jazz „Johnny Răducanu”",
+      "localitate": "Brăila",
+      "an_infiintare": "2013",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Festivalul SoNoRo",
+      "localitate": "Cluj-Napoca",
+      "an_infiintare": "2010",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Gărâna Jazz Festival",
+      "localitate": "Gărâna",
+      "an_infiintare": "1997",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Green Hours Jazz Fest",
+      "localitate": "București",
+      "an_infiintare": "2009",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Jazz in the Park",
+      "localitate": "Cluj-Napoca",
+      "an_infiintare": "2013",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "JazzTM",
+      "localitate": "Timișoara",
+      "an_infiintare": "2013",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Roland Jazz Festival",
+      "localitate": "Sângeorz-Băi",
+      "an_infiintare": "2012",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Sibiu Jazz Festival",
+      "localitate": "Sibiu",
+      "an_infiintare": "1974",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Suceava Jazz Fest",
+      "localitate": "",
+      "an_infiintare": "",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Transilvania Jazz Festival",
+      "localitate": "Cluj-Napoca",
+      "an_infiintare": "2007",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Festivalul Național de Folk „Om bun”",
+      "localitate": "București",
+      "an_infiintare": "1991",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Folk You",
+      "localitate": "Vama Veche",
+      "an_infiintare": "2008",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Transilvania International Guitar Festival",
+      "localitate": "Cluj-Napoca",
+      "an_infiintare": "2003",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Dark Bombastic Evening",
+      "localitate": "București, Alba Iulia",
+      "an_infiintare": "2009",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Bucovina Motorfest",
+      "localitate": "Suceava",
+      "an_infiintare": "",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Bucovina Rock Castle",
+      "localitate": "Suceava",
+      "an_infiintare": "2011",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Danube Rock Festival",
+      "localitate": "Galați",
+      "an_infiintare": "2014",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Metalhead Meeting",
+      "localitate": "București",
+      "an_infiintare": "2013",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Rockstadt Extreme Fest",
+      "localitate": "Râșnov",
+      "an_infiintare": "2013",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Rock'N'Iași",
+      "localitate": "Iași",
+      "an_infiintare": "2007",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Rock pe 2 Roți",
+      "localitate": "Lugoj",
+      "an_infiintare": "2012",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "ARTmania Festival",
+      "localitate": "Sibiu",
+      "an_infiintare": "2006",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Stufstock",
+      "localitate": "Vama Veche",
+      "an_infiintare": "2003",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Top T",
+      "localitate": "Buzău",
+      "an_infiintare": "1989",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Old Blacks - Rock & more, București",
+      "localitate": "",
+      "an_infiintare": "",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Întorsura Fest, Întorsura Buzăului",
+      "localitate": "",
+      "an_infiintare": "",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "„Cerbul de Aur” Brașov",
+      "localitate": "",
+      "an_infiintare": "",
+      "domeniu": "Muzică"
+    },
+    {
+      "festival": "Festivalul Internațional de Teatru ”ATELIER”",
+      "localitate": "Baia Mare",
+      "an_infiintare": "1992",
+      "domeniu": "Teatru"
+    },
+    {
+      "festival": "Festivalul International de Teatru \"Miturile Cetății\"",
+      "localitate": "Constanța",
+      "an_infiintare": "2016",
+      "domeniu": "Teatru"
+    },
+    {
+      "festival": "Festivalul Comediei Românești",
+      "localitate": "București",
+      "an_infiintare": "2003",
+      "domeniu": "Teatru"
+    },
+    {
+      "festival": "Festivalul de Artă Contemporană Metropolis",
+      "localitate": "București",
+      "an_infiintare": "",
+      "domeniu": "Teatru"
+    },
+    {
+      "festival": "Festivalul de Comedie EuroArt",
+      "localitate": "Iași",
+      "an_infiintare": "2007",
+      "domeniu": "Teatru"
+    },
+    {
+      "festival": "Festivalul de Teatru Piatra Neamț",
+      "localitate": "Piatra Neamț",
+      "an_infiintare": "1989",
+      "domeniu": "Teatru"
+    },
+    {
+      "festival": "Festivalul European al Spectacolului",
+      "localitate": "Timișoara",
+      "an_infiintare": "1996",
+      "domeniu": "Teatru"
+    },
+    {
+      "festival": "Festivalul Internațional al Teatrului Contemporan de Animație ImPuls",
+      "localitate": "București",
+      "an_infiintare": "2005",
+      "domeniu": "Teatru"
+    },
+    {
+      "festival": "Festivalul Internațional de Teatru „Avram Goldfaden”",
+      "localitate": "Iași",
+      "an_infiintare": "2002",
+      "domeniu": "Teatru"
+    },
+    {
+      "festival": "Festivalul Internațional de Teatru de la Sibiu",
+      "localitate": "Sibiu",
+      "an_infiintare": "1994",
+      "domeniu": "Teatru"
+    },
+    {
+      "festival": "Festivalul Internațional de Teatru Independent",
+      "localitate": "Constanța",
+      "an_infiintare": "2016",
+      "domeniu": "Teatru"
+    },
+    {
+      "festival": "Festivalul Internațional de Teatru Nou",
+      "localitate": "Arad",
+      "an_infiintare": "2013",
+      "domeniu": "Teatru"
+    },
+    {
+      "festival": "Festivalul Internațional de Teatru „Povești”",
+      "localitate": "Alba Iulia",
+      "an_infiintare": "2006",
+      "domeniu": "Teatru"
+    },
+    {
+      "festival": "Festivalul Internațional Shakespeare",
+      "localitate": "Craiova",
+      "an_infiintare": "1994",
+      "domeniu": "Teatru"
+    },
+    {
+      "festival": "Festivalul Național de Comedie",
+      "localitate": "Galați",
+      "an_infiintare": "1976",
+      "domeniu": "Teatru"
+    },
+    {
+      "festival": "Festivalul Național de Teatru",
+      "localitate": "București",
+      "an_infiintare": "1991",
+      "domeniu": "Teatru"
+    },
+    {
+      "festival": "Festivalul Național de Teatru Independent",
+      "localitate": "București",
+      "an_infiintare": "2013",
+      "domeniu": "Teatru"
+    },
+    {
+      "festival": "Festivalul Teatrelor de Păpuși și Marionete „Puck”",
+      "localitate": "Cluj-Napoca",
+      "an_infiintare": "2002",
+      "domeniu": "Teatru"
+    },
+    {
+      "festival": "Festivalul Umorului „Constantin Tănase”",
+      "localitate": "Vaslui",
+      "an_infiintare": "1970",
+      "domeniu": "Teatru"
+    },
+    {
+      "festival": "Houdini Magic Festival",
+      "localitate": "București",
+      "an_infiintare": "2010",
+      "domeniu": "Teatru"
+    },
+    {
+      "festival": "Săptămâna Comediei",
+      "localitate": "Brașov",
+      "an_infiintare": "2013",
+      "domeniu": "Teatru"
+    },
+    {
+      "festival": "Sinaia Forever",
+      "localitate": "Sinaia",
+      "an_infiintare": "1994",
+      "domeniu": "Teatru"
+    },
+    {
+      "festival": "VedeTeatru",
+      "localitate": "Buzău",
+      "an_infiintare": "2004",
+      "domeniu": "Teatru"
+    },
+    {
+      "festival": "Festivalul de Teatru Scurt",
+      "localitate": "Oradea",
+      "an_infiintare": "1976",
+      "domeniu": "Teatru"
+    },
+    {
+      "festival": "Festivalul Seri de teatru și muzică la Pontul Euxin",
+      "localitate": "Constanța",
+      "an_infiintare": "2023",
+      "domeniu": "Teatru"
+    },
+    {
+      "festival": "BABEL F.A.S.T.- Festivalul Artelor Spectacolului Târgoviște (2007 - Târgoviște) 0245.210.046",
+      "localitate": "",
+      "an_infiintare": "",
+      "domeniu": "Teatru"
+    },
+    {
+      "festival": "Festivalul Național de Teatru Studențesc ”Zilele Imago”",
+      "localitate": "Cluj-Napoca",
+      "an_infiintare": "2014",
+      "domeniu": "Teatru"
+    },
+    {
+      "festival": "Festivalul Național Studențesc de Teatru al Absurdului “Eugène Ionesco”",
+      "localitate": "București",
+      "an_infiintare": "1994",
+      "domeniu": "Teatru"
+    },
+    {
+      "festival": "Festivalului Internațional de Teatru “Aurel Luca”",
+      "localitate": "Iași",
+      "an_infiintare": "2006",
+      "domeniu": "Teatru"
+    },
+    {
+      "festival": "Apollo - International Youth Theatre Festival, Alba Iulia",
+      "localitate": "Alba Iulia",
+      "an_infiintare": "2013",
+      "domeniu": "Teatru"
+    },
+    {
+      "festival": "Serile Teatrului Studențesc",
+      "localitate": "București",
+      "an_infiintare": "1997",
+      "domeniu": "Teatru"
+    },
+    {
+      "festival": "Festivalul Seri de teatru și muzică la Pontul Euxin - secțiunea teatru studențesc la Pontul Euxin",
+      "localitate": "Constanța",
+      "an_infiintare": "2021",
+      "domeniu": "Teatru"
+    },
+    {
+      "festival": "Dance Roads",
+      "localitate": "București",
+      "an_infiintare": "2016",
+      "domeniu": "Dans"
+    },
+    {
+      "festival": "Festivalul Inimilor",
+      "localitate": "Timișoara",
+      "an_infiintare": "1990",
+      "domeniu": "Dans"
+    },
+    {
+      "festival": "Festivalul LIKE CNDB",
+      "localitate": "București",
+      "an_infiintare": "2014",
+      "domeniu": "Dans"
+    },
+    {
+      "festival": "Steps Dance Festival",
+      "localitate": "Cluj-Napoca",
+      "an_infiintare": "2014",
+      "domeniu": "Dans"
+    },
+    {
+      "festival": "Festivalul Internațional al Dansului și Artei Coregrafice ARLECHIN",
+      "localitate": "Botoșani, 1993-2021",
+      "an_infiintare": "",
+      "domeniu": "Dans"
+    },
+    {
+      "festival": "Anim'est",
+      "localitate": "București",
+      "an_infiintare": "2006",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "Arkadia Shortfest",
+      "localitate": "Băicoi",
+      "an_infiintare": "2014",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "Astra Film Festival",
+      "localitate": "Sibiu",
+      "an_infiintare": "1993",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "Audience Award Film Festival",
+      "localitate": "București",
+      "an_infiintare": "2016",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "Bucharest International Dance Film Festival",
+      "localitate": "București",
+      "an_infiintare": "2015",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "Bucharest International Experimental Film Festival",
+      "localitate": "București",
+      "an_infiintare": "2010",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "Bucharest International Film Festival",
+      "localitate": "București",
+      "an_infiintare": "2005",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "Bucharest Jewish Film Festival",
+      "localitate": "București",
+      "an_infiintare": "2011",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "București Docuart Fest",
+      "localitate": "București",
+      "an_infiintare": "2012",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "Buzău International Film Festival",
+      "localitate": "Buzău",
+      "an_infiintare": "2016",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "Câmpulung Film Fest",
+      "localitate": "Câmpulung Moldovenesc",
+      "an_infiintare": "2016",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "Ceau, Cinema!",
+      "localitate": "Timișoara",
+      "an_infiintare": "2014",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "Cluj Docuart Fest",
+      "localitate": "Cluj-Napoca",
+      "an_infiintare": "2015",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "Comedy Cluj",
+      "localitate": "Cluj-Napoca",
+      "an_infiintare": "2009",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "Divan Film Festival",
+      "localitate": "Craiova",
+      "an_infiintare": "2010",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "Dracula Film Festival",
+      "localitate": "Brașov",
+      "an_infiintare": "2013",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "Este Film Festival",
+      "localitate": "Sibiu",
+      "an_infiintare": "2016",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "Festivalul de Artă Contemporană Metropolis",
+      "localitate": "București",
+      "an_infiintare": "",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "FARAD",
+      "localitate": "Arad",
+      "an_infiintare": "2014",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "Feminist and Queer International Film Festival",
+      "localitate": "București",
+      "an_infiintare": "2015",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "Festivalul de Film Istoric Râșnov",
+      "localitate": "Râșnov",
+      "an_infiintare": "2009",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "Festivalul Filmului European",
+      "localitate": "București",
+      "an_infiintare": "1996",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "Festivalul Internațional de Film Cinepolitica",
+      "localitate": "București",
+      "an_infiintare": "2012",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "Festivalul Internațional de Film DaKINO",
+      "localitate": "București",
+      "an_infiintare": "1992",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "Festivalul Internațional de Film Independent Anonimul",
+      "localitate": "Sfântu Gheorghe",
+      "an_infiintare": "2004",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "Festivalul Internațional de Film NexT",
+      "localitate": "București",
+      "an_infiintare": "2007",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "Festivalul Internațional de Film Transilvania",
+      "localitate": "Cluj-Napoca",
+      "an_infiintare": "2002",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "Festivalul Internațional de Psihanaliză și Film",
+      "localitate": "București",
+      "an_infiintare": "2012",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "Festivalul Super",
+      "localitate": "București",
+      "an_infiintare": "2013",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "Filmstud",
+      "localitate": "Iași",
+      "an_infiintare": "2008",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "Filmul de Piatră",
+      "localitate": "Piatra Neamț",
+      "an_infiintare": "2008",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "KINOdiseea",
+      "localitate": "București",
+      "an_infiintare": "2009",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "Kinofest",
+      "localitate": "București",
+      "an_infiintare": "2007",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "Les Films de Cannes à Bucarest",
+      "localitate": "București",
+      "an_infiintare": "2010",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "One World Romania",
+      "localitate": "București",
+      "an_infiintare": "2008",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "Pelicam",
+      "localitate": "Tulcea",
+      "an_infiintare": "2012",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "Ploiești International Film Festival",
+      "localitate": "Ploiești",
+      "an_infiintare": "2012",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "Romanian Mental Health Film Festival",
+      "localitate": "Iași",
+      "an_infiintare": "2022",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "Serile Filmului Gay",
+      "localitate": "Cluj-Napoca",
+      "an_infiintare": "2004",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "Serile Filmului Românesc",
+      "localitate": "Iași",
+      "an_infiintare": "2010",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "Timishort",
+      "localitate": "Timișoara",
+      "an_infiintare": "2009",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "Très Court International Film Festival",
+      "localitate": "București",
+      "an_infiintare": "1999",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "UrbanEye",
+      "localitate": "București",
+      "an_infiintare": "2014",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "The Galactic Imaginarium Film Festival - Science Fiction and Fantasy",
+      "localitate": "Dumbrăvița, Timiș",
+      "an_infiintare": "2020",
+      "domeniu": "Cinema"
+    },
+    {
+      "festival": "Festivalul de Artă Contemporană Metropolis",
+      "localitate": "București",
+      "an_infiintare": "",
+      "domeniu": "Arte vizuale"
+    },
+    {
+      "festival": "Festivalul Internațional de Caricatură",
+      "localitate": "Urziceni",
+      "an_infiintare": "2006",
+      "domeniu": "Arte vizuale"
+    },
+    {
+      "festival": "Media Art Festival",
+      "localitate": "Arad",
+      "an_infiintare": "2014",
+      "domeniu": "Arte vizuale"
+    },
+    {
+      "festival": "Vama sub Lumini de Oscar",
+      "localitate": "Vama Veche",
+      "an_infiintare": "2010",
+      "domeniu": "Arte vizuale"
+    },
+    {
+      "festival": "Photo Romania Festival",
+      "localitate": "Cluj-Napoca",
+      "an_infiintare": "2015",
+      "domeniu": "Arte vizuale"
+    },
+    {
+      "festival": "Amural",
+      "localitate": "Brașov",
+      "an_infiintare": "2015",
+      "domeniu": "Arte vizuale"
+    },
+    {
+      "festival": "Divan Film Festival",
+      "localitate": "Craiova",
+      "an_infiintare": "2010",
+      "domeniu": "Gastronomie"
+    },
+    {
+      "festival": "Festivalul Brânzei și Pastramei",
+      "localitate": "Bran",
+      "an_infiintare": "2005",
+      "domeniu": "Gastronomie"
+    },
+    {
+      "festival": "Festivalul Cașcavalului de Brăduleț",
+      "localitate": "Galeșu",
+      "an_infiintare": "2008",
+      "domeniu": "Gastronomie"
+    },
+    {
+      "festival": "Festivalul Cepei",
+      "localitate": "Pericei",
+      "an_infiintare": "2008",
+      "domeniu": "Gastronomie"
+    },
+    {
+      "festival": "Festivalul Național al Ouălor Încondeiate",
+      "localitate": "Ciocănești",
+      "an_infiintare": "2004",
+      "domeniu": "Gastronomie"
+    },
+    {
+      "festival": "Festivalul Sarmalelor",
+      "localitate": "Praid",
+      "an_infiintare": "1996",
+      "domeniu": "Gastronomie"
+    },
+    {
+      "festival": "Festivalul Scoicilor",
+      "localitate": "Constanța",
+      "an_infiintare": "2016",
+      "domeniu": "Gastronomie"
+    },
+    {
+      "festival": "Festivalul Virșlilor",
+      "localitate": "Hunedoara",
+      "an_infiintare": "2013",
+      "domeniu": "Gastronomie"
+    },
+    {
+      "festival": "Festivalul Zaibărului și Prazului",
+      "localitate": "Băilești",
+      "an_infiintare": "1996",
+      "domeniu": "Gastronomie"
+    },
+    {
+      "festival": "RO-Wine",
+      "localitate": "București",
+      "an_infiintare": "2016",
+      "domeniu": "Gastronomie"
+    },
+    {
+      "festival": "Street Food Festival",
+      "localitate": "Cluj-Napoca",
+      "an_infiintare": "2016",
+      "domeniu": "Gastronomie"
+    },
+    {
+      "festival": "Thai Festival",
+      "localitate": "București",
+      "an_infiintare": "",
+      "domeniu": "Gastronomie"
+    },
+    {
+      "festival": "Transilvania Gastronomică",
+      "localitate": "Sibiu",
+      "an_infiintare": "2008",
+      "domeniu": "Gastronomie"
+    },
+    {
+      "festival": "TurkFest",
+      "localitate": "București",
+      "an_infiintare": "2012",
+      "domeniu": "Gastronomie"
+    },
+    {
+      "festival": "Festivalul Castanelor Baia Mare",
+      "localitate": "",
+      "an_infiintare": "",
+      "domeniu": "Gastronomie"
+    },
+    {
+      "festival": "Festivalul Iernii",
+      "localitate": "Constanța",
+      "an_infiintare": "2016",
+      "domeniu": "Altele"
+    },
+    {
+      "festival": "Festivalul „Sighișoara medievală”",
+      "localitate": "Sighișoara",
+      "an_infiintare": "2003",
+      "domeniu": "Altele"
+    },
+    {
+      "festival": "Festivalul SkirtBike",
+      "localitate": "București",
+      "an_infiintare": "2010",
+      "domeniu": "Altele"
+    },
+    {
+      "festival": "International Student Week",
+      "localitate": "Timișoara",
+      "an_infiintare": "1994",
+      "domeniu": "Altele"
+    },
+    {
+      "festival": "Simfonia Lalelelor",
+      "localitate": "Pitești",
+      "an_infiintare": "1978",
+      "domeniu": "Altele"
+    }
+  ],
+  "meta": {
+    "title": "Festivaluri din România - Free Download",
+    "description": "Lista festivalurilor din România (muzică, film, teatru, gastronomie etc.), cu localitatea și anul primei ediții. Contains 223 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Festivaluri din România | ListBase",
+    "seo_description": "Download Festivaluri din România — 223 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 223 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Listă_de_festivaluri_din_România"
+    ]
+  }
+}

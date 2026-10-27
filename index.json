@@ -1,12 +1,12 @@
 {
   "lang": "ro",
-  "generated": "2026-10-27T02:12:26.054Z",
-  "total_datasets": 420,
-  "total_records": 161523,
+  "generated": "2026-10-27T02:12:28.549Z",
+  "total_datasets": 421,
+  "total_records": 161746,
   "categories": [
     {
       "id": "culture",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "education",
@@ -66,6 +66,31 @@
     }
   ],
   "datasets": [
+    {
+      "id": "ro-festivaluri",
+      "name": "Festivaluri din România",
+      "category": "culture",
+      "record_count": 223,
+      "columns": [
+        "festival",
+        "localitate",
+        "an_infiintare",
+        "domeniu"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Listă_de_festivaluri_din_România",
+      "updated": "2026-10",
+      "size": 35861,
+      "files": {
+        "csv": {
+          "name": "ro-festivaluri_RO.csv",
+          "size": 13401
+        },
+        "xlsx": {
+          "name": "ro-festivaluri_RO.xlsx",
+          "size": 14371
+        }
+      }
+    },
     {
       "id": "ro-manastiri",
       "name": "Mănăstiri din România",
