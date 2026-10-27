@@ -1,0 +1,1227 @@
+{
+  "id": "ro-interpreti-muzica-populara",
+  "name": "Interpreți români de muzică populară",
+  "title": "Interpreți români de muzică populară",
+  "description": "Interpreți și instrumentiști români de muzică populară, cu datele nașterii/decesului, măiestria și zona folclorică.",
+  "category": "music",
+  "source": "https://ro.wikipedia.org/wiki/Listă_de_interpreți_români_de_muzică_populară",
+  "source_url": "https://ro.wikipedia.org/wiki/Listă_de_interpreți_români_de_muzică_populară",
+  "updated": "2026-10",
+  "record_count": 168,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "data_nasterii",
+      "label": "Data Nasterii",
+      "type": "string"
+    },
+    {
+      "key": "data_decesului",
+      "label": "Data Decesului",
+      "type": "number"
+    },
+    {
+      "key": "maiestrie",
+      "label": "Maiestrie",
+      "type": "string"
+    },
+    {
+      "key": "zona_folclorica",
+      "label": "Zona Folclorica",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "Ion Albeșteanu",
+      "data_nasterii": "27 septembrie 1932",
+      "data_decesului": "1997",
+      "maiestrie": "violonist",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Petre Alexandru",
+      "data_nasterii": "30 iulie 1898",
+      "data_decesului": "1 august 1978",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Oltenia"
+    },
+    {
+      "nume": "Georgeta Anghel",
+      "data_nasterii": "1940",
+      "data_decesului": "20 mai 2006",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Mariana Anghel",
+      "data_nasterii": "16 mai 1966",
+      "data_decesului": "",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Transilvania"
+    },
+    {
+      "nume": "Maria Apostol",
+      "data_nasterii": "11 august 1954",
+      "data_decesului": "5 septembrie 1993",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Oltenia"
+    },
+    {
+      "nume": "Cornelia Ardelean Archiudean",
+      "data_nasterii": "20 martie 1952",
+      "data_decesului": "",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Transilvania"
+    },
+    {
+      "nume": "Constantin Badea",
+      "data_nasterii": "",
+      "data_decesului": "",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Dobrogea"
+    },
+    {
+      "nume": "Ionel Banu",
+      "data_nasterii": "20 noiembrie 1914",
+      "data_decesului": "21 mai 1999",
+      "maiestrie": "violonist",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Barbu Lăutaru (Vasile Barbu)",
+      "data_nasterii": "1780",
+      "data_decesului": "1858",
+      "maiestrie": "cobzar, solist vocal",
+      "zona_folclorica": "Moldova"
+    },
+    {
+      "nume": "Mia Barbu",
+      "data_nasterii": "21 aprilie 1925",
+      "data_decesului": "10 decembrie 2019",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Nelu Bălășoiu",
+      "data_nasterii": "25 iulie 1948",
+      "data_decesului": "21 aprilie 2020",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Oltenia"
+    },
+    {
+      "nume": "Justina Băluțeanu",
+      "data_nasterii": "8 septembrie 1923",
+      "data_decesului": "11 iunie 1981",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Oltenia"
+    },
+    {
+      "nume": "Tita Bărbulescu",
+      "data_nasterii": "15 februarie 1936",
+      "data_decesului": "4 decembrie 2021",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Lidia Bejenaru",
+      "data_nasterii": "3 mai 1953",
+      "data_decesului": "26 iulie 2021",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Basarabia"
+    },
+    {
+      "nume": "Nicu Bela",
+      "data_nasterii": "31 decembrie 1940",
+      "data_decesului": "1993",
+      "maiestrie": "acordeonist",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Olguța Berbec",
+      "data_nasterii": "16 aprilie 1984",
+      "data_decesului": "",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Oltenia"
+    },
+    {
+      "nume": "Veta Biriș",
+      "data_nasterii": "11 august 1949",
+      "data_decesului": "",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Transilvania"
+    },
+    {
+      "nume": "Dumitru Blajinu",
+      "data_nasterii": "11 noiembrie 1934",
+      "data_decesului": "6 iulie 2015",
+      "maiestrie": "violonist",
+      "zona_folclorica": "Basarabia"
+    },
+    {
+      "nume": "Ioan Bocșa",
+      "data_nasterii": "13 decembrie 1947",
+      "data_decesului": "",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Transilvania"
+    },
+    {
+      "nume": "Cornel Bosoi",
+      "data_nasterii": "1927",
+      "data_decesului": "2011",
+      "maiestrie": "violonist",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Titi Botez",
+      "data_nasterii": "1902",
+      "data_decesului": "1957",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Nicolae Botgros",
+      "data_nasterii": "25 ianuarie 1953",
+      "data_decesului": "",
+      "maiestrie": "violonist",
+      "zona_folclorica": "Basarabia"
+    },
+    {
+      "nume": "Florica Bradu",
+      "data_nasterii": "20 februarie 1945",
+      "data_decesului": "",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Crișana"
+    },
+    {
+      "nume": "Mia Braia",
+      "data_nasterii": "8 septembrie 1911",
+      "data_decesului": "3 iulie 1996",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Oltenia, Muntenia"
+    },
+    {
+      "nume": "Sava Negrean Brudașcu",
+      "data_nasterii": "2 iunie 1947",
+      "data_decesului": "",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Transilvania"
+    },
+    {
+      "nume": "Angela Buciu",
+      "data_nasterii": "5 octombrie 1942",
+      "data_decesului": "",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Transilvania"
+    },
+    {
+      "nume": "Marcel Budală",
+      "data_nasterii": "9 iulie 1926",
+      "data_decesului": "6 ianuarie 1989",
+      "maiestrie": "acordeonist",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Ionel Budișteanu",
+      "data_nasterii": "8 octombrie 1919",
+      "data_decesului": "30 octombrie 1991",
+      "maiestrie": "violonist",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Nicolae Buică",
+      "data_nasterii": "11 noiembrie 1855",
+      "data_decesului": "1932",
+      "maiestrie": "violonist",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Rodica Bujor",
+      "data_nasterii": "30 iulie 1914",
+      "data_decesului": "30 octombrie 1995",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Maria Butaciu",
+      "data_nasterii": "19 februarie 1940",
+      "data_decesului": "11 iunie 2018",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Transilvania"
+    },
+    {
+      "nume": "Benone Damian",
+      "data_nasterii": "25 iulie 1938",
+      "data_decesului": "2012",
+      "maiestrie": "acordeonist, violonist",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Mariana Stanciu Dănăilă",
+      "data_nasterii": "15 septembrie 1956",
+      "data_decesului": "",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Banat"
+    },
+    {
+      "nume": "Victoria Darvai",
+      "data_nasterii": "7 ianuarie 1926",
+      "data_decesului": "1 septembrie 2016",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Maramureș"
+    },
+    {
+      "nume": "Mariana Deac",
+      "data_nasterii": "3 iunie 1970",
+      "data_decesului": "",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Transilvania"
+    },
+    {
+      "nume": "Angheluș Dinicu",
+      "data_nasterii": "1838",
+      "data_decesului": "7 noiembrie 1905",
+      "maiestrie": "naist",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Gheorghe Dinicu",
+      "data_nasterii": "1863",
+      "data_decesului": "20 august 1930",
+      "maiestrie": "violonist",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Ion Dolănescu",
+      "data_nasterii": "25 ianuarie 1944",
+      "data_decesului": "19 martie 2009",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Ionuț Dolănescu",
+      "data_nasterii": "26 februarie 1972",
+      "data_decesului": "",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Ioan Dordoi",
+      "data_nasterii": "18 iulie 1972",
+      "data_decesului": "",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Transilvania"
+    },
+    {
+      "nume": "Maria Dragomiroiu",
+      "data_nasterii": "11 iulie 1955",
+      "data_decesului": "",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Oltenia"
+    },
+    {
+      "nume": "Maria Drăgan",
+      "data_nasterii": "23 august 1947",
+      "data_decesului": "6 octombrie 1986",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Basarabia"
+    },
+    {
+      "nume": "Mariana Drăghicescu",
+      "data_nasterii": "18 septembrie 1952",
+      "data_decesului": "3 aprilie 1997",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Banat"
+    },
+    {
+      "nume": "Florica Duma",
+      "data_nasterii": "9 decembrie 1946",
+      "data_decesului": "9 mai 2017",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Crișana"
+    },
+    {
+      "nume": "Constantin Eftimiu",
+      "data_nasterii": "1908",
+      "data_decesului": "1988",
+      "maiestrie": "violonist/solist vocal",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Constantin Enceanu",
+      "data_nasterii": "16 februarie 1964",
+      "data_decesului": "",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Oltenia"
+    },
+    {
+      "nume": "Ramona Fabian",
+      "data_nasterii": "2 iunie 1979",
+      "data_decesului": "5 octombrie 2013",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Transilvania"
+    },
+    {
+      "nume": "Dumitru Fărcaș",
+      "data_nasterii": "12 mai 1938",
+      "data_decesului": "7 august 2018",
+      "maiestrie": "taragotist",
+      "zona_folclorica": "Transilvania"
+    },
+    {
+      "nume": "Felician Fărcașu",
+      "data_nasterii": "8 iulie 1920",
+      "data_decesului": "6 iulie 1977",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Transilvania"
+    },
+    {
+      "nume": "Aurelia Fătu-Răduțu",
+      "data_nasterii": "12 iunie 1929",
+      "data_decesului": "27 septembrie 1972",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Banat"
+    },
+    {
+      "nume": "Viorica Flintașu",
+      "data_nasterii": "15 octombrie 1942",
+      "data_decesului": "",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Crișana"
+    },
+    {
+      "nume": "Costache Florea",
+      "data_nasterii": "1911",
+      "data_decesului": "1978",
+      "maiestrie": "trompetist",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Nicolae Florian",
+      "data_nasterii": "2 ianuarie 1936",
+      "data_decesului": "1994",
+      "maiestrie": "acordeonist",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Eugenia Frunză",
+      "data_nasterii": "",
+      "data_decesului": "",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Ionuț Fulea",
+      "data_nasterii": "17 iulie 1971",
+      "data_decesului": "",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Transilvania"
+    },
+    {
+      "nume": "Nicolae Furdui Iancu",
+      "data_nasterii": "26 octombrie 1955",
+      "data_decesului": "",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Transilvania"
+    },
+    {
+      "nume": "Emil Gavriș",
+      "data_nasterii": "28 martie 1915",
+      "data_decesului": "25 iulie 1989",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Maramureș"
+    },
+    {
+      "nume": "Tudor Gheorghe",
+      "data_nasterii": "1 august 1945",
+      "data_decesului": "",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Oltenia"
+    },
+    {
+      "nume": "Maria Ghinea",
+      "data_nasterii": "20 septembrie 1968",
+      "data_decesului": "",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Oltenia"
+    },
+    {
+      "nume": "Gheorghe Ionescu Gion",
+      "data_nasterii": "23 februarie 1909",
+      "data_decesului": "17 octombrie 1999",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Natalia Gliga",
+      "data_nasterii": "19 septembrie 1940",
+      "data_decesului": "14 iunie 2018",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Transilvania"
+    },
+    {
+      "nume": "Aurel Gore",
+      "data_nasterii": "1928",
+      "data_decesului": "1989",
+      "maiestrie": "violonist",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Victor Gore",
+      "data_nasterii": "17 martie 1931",
+      "data_decesului": "2008",
+      "maiestrie": "acordeonist",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Sirma Granzulea",
+      "data_nasterii": "22 septembrie 1954",
+      "data_decesului": "",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Dobrogea"
+    },
+    {
+      "nume": "Alexandru Grozuță",
+      "data_nasterii": "1 iulie 1907",
+      "data_decesului": "14 octombrie 1999",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "România"
+    },
+    {
+      "nume": "Maria Haiduc",
+      "data_nasterii": "29 septembrie 1939",
+      "data_decesului": "7 iunie 2026",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Crișana"
+    },
+    {
+      "nume": "George Hazgan",
+      "data_nasterii": "24 noiembrie 1935",
+      "data_decesului": "1980",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "România"
+    },
+    {
+      "nume": "Maria Iliuț",
+      "data_nasterii": "23 februarie 1955",
+      "data_decesului": "",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Bucovina"
+    },
+    {
+      "nume": "Radu Ille",
+      "data_nasterii": "22 aprilie 1970",
+      "data_decesului": "",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Maramureș"
+    },
+    {
+      "nume": "Gore Ionescu",
+      "data_nasterii": "1902",
+      "data_decesului": "29 octombrie 1957",
+      "maiestrie": "violonist",
+      "zona_folclorica": "România"
+    },
+    {
+      "nume": "Toni Iordache",
+      "data_nasterii": "17 decembrie 1942",
+      "data_decesului": "februarie 1987",
+      "maiestrie": "țambalist",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Florentin Iosif",
+      "data_nasterii": "5 martie 1936",
+      "data_decesului": "31 mai 2013",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Banat"
+    },
+    {
+      "nume": "Vasile Iovu",
+      "data_nasterii": "24 iulie 1950",
+      "data_decesului": "",
+      "maiestrie": "naist",
+      "zona_folclorica": "România/Basarabia"
+    },
+    {
+      "nume": "Anastasia Istrati",
+      "data_nasterii": "23 noiembrie 1942",
+      "data_decesului": "26 septembrie 2016",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Basarabia"
+    },
+    {
+      "nume": "Stana Izbașa",
+      "data_nasterii": "4 februarie 1969",
+      "data_decesului": "",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Banat"
+    },
+    {
+      "nume": "Zinaida Julea",
+      "data_nasterii": "2 decembrie 1951",
+      "data_decesului": "",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Basarabia"
+    },
+    {
+      "nume": "Fărâmiță Lambru",
+      "data_nasterii": "15 septembrie 1927",
+      "data_decesului": "2 decembrie 1974",
+      "maiestrie": "acordeonist",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Gheorghe Lambru",
+      "data_nasterii": "27 aprilie 1935",
+      "data_decesului": "23 ianuarie 2002",
+      "maiestrie": "acordeonist",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Laura Lavric",
+      "data_nasterii": "20 septembrie 1946",
+      "data_decesului": "",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Moldova"
+    },
+    {
+      "nume": "Maria Lătărețu",
+      "data_nasterii": "7 noiembrie 1911",
+      "data_decesului": "27 septembrie 1972",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Oltenia"
+    },
+    {
+      "nume": "Grigore Leșe",
+      "data_nasterii": "20 februarie 1954",
+      "data_decesului": "",
+      "maiestrie": "instrumentist",
+      "zona_folclorica": "Maramureș"
+    },
+    {
+      "nume": "Irina Loghin",
+      "data_nasterii": "19 februarie 1939",
+      "data_decesului": "",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Ion Luca-Bănățeanu",
+      "data_nasterii": "12 noiembrie 1894",
+      "data_decesului": "7 mai 1963",
+      "maiestrie": "violonist",
+      "zona_folclorica": "Banat"
+    },
+    {
+      "nume": "Damian Luca",
+      "data_nasterii": "18 iulie 1936",
+      "data_decesului": "",
+      "maiestrie": "naist",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Fănică Luca",
+      "data_nasterii": "5 aprilie 1894",
+      "data_decesului": "26 octombrie 1968",
+      "maiestrie": "naist",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Rela Lucan",
+      "data_nasterii": "17 martie 1968",
+      "data_decesului": "4 octombrie 2013",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Ion Luican",
+      "data_nasterii": "29 decembrie 1907",
+      "data_decesului": "1 septembrie 1992",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Gabi Luncă",
+      "data_nasterii": "16 octombrie 1938",
+      "data_decesului": "2 aprilie 2021",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Lia Lungu",
+      "data_nasterii": "3 august 1953",
+      "data_decesului": "",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Banat"
+    },
+    {
+      "nume": "Vlăduța Lupău",
+      "data_nasterii": "8 martie 1991",
+      "data_decesului": "",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Transilvania"
+    },
+    {
+      "nume": "Ion Macovei (cântăreț)",
+      "data_nasterii": "4 decembrie 1940",
+      "data_decesului": "",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Moldova"
+    },
+    {
+      "nume": "Andrei Mihalache",
+      "data_nasterii": "2 iulie 1944",
+      "data_decesului": "5 martie 2024",
+      "maiestrie": "acordeonist",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Titiana Mihali",
+      "data_nasterii": "29 noiembrie 1950",
+      "data_decesului": "11 septembrie 1991",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Maramureș"
+    },
+    {
+      "nume": "Polina Manoilă",
+      "data_nasterii": "4 noiembrie 1945",
+      "data_decesului": "",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Oltenia"
+    },
+    {
+      "nume": "Dumitru Margine",
+      "data_nasterii": "9 noiembrie 1943",
+      "data_decesului": "7 decembrie 2024",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Oltenia"
+    },
+    {
+      "nume": "Ileana Domuța Mastan",
+      "data_nasterii": "30 septembrie 1947",
+      "data_decesului": "",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Transilvania"
+    },
+    {
+      "nume": "Ion Matache",
+      "data_nasterii": "1 august 1905",
+      "data_decesului": "27 august 1957",
+      "maiestrie": "violonist",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Măriuca Matache",
+      "data_nasterii": "20 septembrie 1924",
+      "data_decesului": "4 august 2003",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Constantin Mirea",
+      "data_nasterii": "20 aprilie 1923",
+      "data_decesului": "4 septembrie 1982",
+      "maiestrie": "violonist",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Ion Miu",
+      "data_nasterii": "21 ianuarie 1955",
+      "data_decesului": "",
+      "maiestrie": "țambalist",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Petrică Moise",
+      "data_nasterii": "19 iunie 1947",
+      "data_decesului": "2 octombrie 2021",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Banat"
+    },
+    {
+      "nume": "Dan Moisescu",
+      "data_nasterii": "14 iunie 1909",
+      "data_decesului": "1976",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Dobrogea"
+    },
+    {
+      "nume": "Angela Moldovan",
+      "data_nasterii": "19 septembrie 1927",
+      "data_decesului": "13 octombrie 2013",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Moldova"
+    },
+    {
+      "nume": "Petrică Moțoi",
+      "data_nasterii": "2 februarie 1897",
+      "data_decesului": "8 octombrie 1946",
+      "maiestrie": "violonist",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Drăgan Muntean",
+      "data_nasterii": "18 aprilie 1955",
+      "data_decesului": "20 aprilie 2002",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Ținutul Pădurenilor"
+    },
+    {
+      "nume": "Nicolae Mureșan",
+      "data_nasterii": "15 martie 1957",
+      "data_decesului": "",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Țara Codrului"
+    },
+    {
+      "nume": "Ilie Muțiu",
+      "data_nasterii": "11 martie 1944",
+      "data_decesului": "22 iunie 2007",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Mărginimea Sibiului"
+    },
+    {
+      "nume": "Vasile Năsturică",
+      "data_nasterii": "1946",
+      "data_decesului": "2011",
+      "maiestrie": "violonist",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Achim Nica",
+      "data_nasterii": "20 ianuarie 1930",
+      "data_decesului": "23 noiembrie 2012",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Banat"
+    },
+    {
+      "nume": "Nicu Novac",
+      "data_nasterii": "1913",
+      "data_decesului": "1979",
+      "maiestrie": "violonist/dirijor",
+      "zona_folclorica": "Oltenia"
+    },
+    {
+      "nume": "Ion Onoriu",
+      "data_nasterii": "1937",
+      "data_decesului": "1998",
+      "maiestrie": "acordeonist",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Paraschiv Oprea",
+      "data_nasterii": "14 februarie 1937",
+      "data_decesului": "21 martie 2004",
+      "maiestrie": "pianist/dirijor",
+      "zona_folclorica": "România"
+    },
+    {
+      "nume": "Ana Pacatiuș",
+      "data_nasterii": "2 august 1939",
+      "data_decesului": "",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Banat"
+    },
+    {
+      "nume": "Tudor Pană",
+      "data_nasterii": "1 ianuarie 1930",
+      "data_decesului": "11 noiembrie 2005",
+      "maiestrie": "violonist",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Matilda Pascal Cojocărița",
+      "data_nasterii": "4 octombrie 1958",
+      "data_decesului": "",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Moldova"
+    },
+    {
+      "nume": "Nicolae Păsnicuțu",
+      "data_nasterii": "17 noiembrie 1926",
+      "data_decesului": "",
+      "maiestrie": "cobzar",
+      "zona_folclorica": "Moldova"
+    },
+    {
+      "nume": "Ion Păturică",
+      "data_nasterii": "1928",
+      "data_decesului": "1979",
+      "maiestrie": "cobzar",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Valeria Peter Predescu",
+      "data_nasterii": "24 octombrie 1947",
+      "data_decesului": "28 aprilie 2009",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Transilvania"
+    },
+    {
+      "nume": "Maria Peter",
+      "data_nasterii": "1 ianuarie 1925",
+      "data_decesului": "9 iulie 2005",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Transilvania"
+    },
+    {
+      "nume": "Ion Petre Stoican",
+      "data_nasterii": "1930",
+      "data_decesului": "1990",
+      "maiestrie": "violonist",
+      "zona_folclorica": "Oltenia"
+    },
+    {
+      "nume": "Gică Petrescu",
+      "data_nasterii": "2 aprilie 1915",
+      "data_decesului": "18 iunie 2006",
+      "maiestrie": "solist vocal compozitor",
+      "zona_folclorica": "Oltenia"
+    },
+    {
+      "nume": "Frații Petreuș",
+      "data_nasterii": "",
+      "data_decesului": "",
+      "maiestrie": "violonist chitarist",
+      "zona_folclorica": "Maramureș"
+    },
+    {
+      "nume": "Maria Pietraru",
+      "data_nasterii": "18 februarie 1942",
+      "data_decesului": "8 mai 1982",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Moldova"
+    },
+    {
+      "nume": "Mioara Pitulice",
+      "data_nasterii": "16 iulie 1957",
+      "data_decesului": "",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Cristian Pomohaci",
+      "data_nasterii": "1969",
+      "data_decesului": "",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Transilvania"
+    },
+    {
+      "nume": "Nineta Popa",
+      "data_nasterii": "19 iulie 1959",
+      "data_decesului": "",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Țara Loviștei"
+    },
+    {
+      "nume": "Maria Precup",
+      "data_nasterii": "1901",
+      "data_decesului": "1984",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Transilvania"
+    },
+    {
+      "nume": "Marioara Precup",
+      "data_nasterii": "13 iunie 1941",
+      "data_decesului": "",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Transilvania"
+    },
+    {
+      "nume": "Nicușor Predescu",
+      "data_nasterii": "2 iulie 1919",
+      "data_decesului": "12 aprilie 1986",
+      "maiestrie": "dirijor",
+      "zona_folclorica": "Oltenia"
+    },
+    {
+      "nume": "Victor Predescu",
+      "data_nasterii": "7 august 1912",
+      "data_decesului": "27 decembrie 1984",
+      "maiestrie": "violonist compozitor",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Ionela Prodan",
+      "data_nasterii": "6 octombrie 1947",
+      "data_decesului": "16 aprilie 2018",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Oltenia"
+    },
+    {
+      "nume": "Romica Puceanu",
+      "data_nasterii": "1926",
+      "data_decesului": "24 octombrie 1996",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Oltenia"
+    },
+    {
+      "nume": "Alexandru Pugna",
+      "data_nasterii": "14 noiembrie 1961",
+      "data_decesului": "",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Transilvania"
+    },
+    {
+      "nume": "Vasile Pandelescu",
+      "data_nasterii": "1944",
+      "data_decesului": "2004",
+      "maiestrie": "acordeonist",
+      "zona_folclorica": "Oltenia"
+    },
+    {
+      "nume": "Ioana Radu",
+      "data_nasterii": "17 februarie 1917",
+      "data_decesului": "19 septembrie 1990",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Ștefania Rareș",
+      "data_nasterii": "28 octombrie 1943",
+      "data_decesului": "",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Moldova"
+    },
+    {
+      "nume": "Cornelia Rednic",
+      "data_nasterii": "",
+      "data_decesului": "",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Maramureș"
+    },
+    {
+      "nume": "Lupu Rednic",
+      "data_nasterii": "",
+      "data_decesului": "",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Maramureș"
+    },
+    {
+      "nume": "Elena Roizen",
+      "data_nasterii": "1 februarie 1945",
+      "data_decesului": "25 septembrie 2007",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Dobrogea"
+    },
+    {
+      "nume": "Gheorghe Roșoga",
+      "data_nasterii": "12 mai 1945",
+      "data_decesului": "",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Oltenia"
+    },
+    {
+      "nume": "Florica Ruja",
+      "data_nasterii": "1 martie 1957",
+      "data_decesului": "",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Crișana"
+    },
+    {
+      "nume": "Angela Rusu",
+      "data_nasterii": "1974",
+      "data_decesului": "",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Transilvania"
+    },
+    {
+      "nume": "Maria Șalaru",
+      "data_nasterii": "",
+      "data_decesului": "",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Moldova"
+    },
+    {
+      "nume": "Natalia Șerbănescu",
+      "data_nasterii": "21 octombrie 1931",
+      "data_decesului": "21 martie 2007",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Dobrogea"
+    },
+    {
+      "nume": "Bebe Șerban",
+      "data_nasterii": "25 septembrie 1939",
+      "data_decesului": "1990",
+      "maiestrie": "acordeonist",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Ion Șerban",
+      "data_nasterii": "1 ianuarie 1915",
+      "data_decesului": "13 martie 1986",
+      "maiestrie": "cobzar",
+      "zona_folclorica": "Oltenia"
+    },
+    {
+      "nume": "Aurel Tămaș",
+      "data_nasterii": "16 aprilie 1961",
+      "data_decesului": "",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Transilvania"
+    },
+    {
+      "nume": "Maria Tănase",
+      "data_nasterii": "25 septembrie 1913",
+      "data_decesului": "22 iunie 1963",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Marioara Tănase",
+      "data_nasterii": "8 septembrie 1940",
+      "data_decesului": "27 iulie 1970",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Transilvania"
+    },
+    {
+      "nume": "Elisabeta Ticuță",
+      "data_nasterii": "2 februarie 1944",
+      "data_decesului": "",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Ina Ioana Todoran",
+      "data_nasterii": "24 august 1993",
+      "data_decesului": "",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Transilvania"
+    },
+    {
+      "nume": "Izabela Tomița",
+      "data_nasterii": "2 octombrie 1986",
+      "data_decesului": "",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Oltenia"
+    },
+    {
+      "nume": "Maria Tripon",
+      "data_nasterii": "14 iulie 1962",
+      "data_decesului": "",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Țara Oașului"
+    },
+    {
+      "nume": "Ștefan Tudorache",
+      "data_nasterii": "1936",
+      "data_decesului": "1998",
+      "maiestrie": "acordeonist",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Gheorghe Turda",
+      "data_nasterii": "6 martie 1948",
+      "data_decesului": "",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Maramureș"
+    },
+    {
+      "nume": "Ilie Udilă",
+      "data_nasterii": "25 decembrie 1930",
+      "data_decesului": "10 martie 2002",
+      "maiestrie": "acordeonist",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Florica Ungur",
+      "data_nasterii": "8 iunie 1939",
+      "data_decesului": "4 august 2011",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Crișana"
+    },
+    {
+      "nume": "Sile Ungureanu",
+      "data_nasterii": "1 ianuarie 1930",
+      "data_decesului": "2 august 1972",
+      "maiestrie": "acordeonist",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Costel Vasilescu",
+      "data_nasterii": "6 noiembrie 1940",
+      "data_decesului": "30 iulie 2022",
+      "maiestrie": "trompetist",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Liviu Vasilică",
+      "data_nasterii": "2 iulie 1950",
+      "data_decesului": "19 octombrie 2004",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Mioara Velicu",
+      "data_nasterii": "19 octombrie 1944",
+      "data_decesului": "",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Moldova"
+    },
+    {
+      "nume": "Măriuca Verdeș",
+      "data_nasterii": "27 septembrie 1989",
+      "data_decesului": "",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Maramureș"
+    },
+    {
+      "nume": "Sofia Vicoveanca",
+      "data_nasterii": "23 septembrie 1941",
+      "data_decesului": "",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Bucovina"
+    },
+    {
+      "nume": "Nicoleta Voica",
+      "data_nasterii": "25 aprilie 1956",
+      "data_decesului": "",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Banat"
+    },
+    {
+      "nume": "Florica Zaha",
+      "data_nasterii": "15 septembrie 1958",
+      "data_decesului": "",
+      "maiestrie": "solistă vocală",
+      "zona_folclorica": "Crișana"
+    },
+    {
+      "nume": "Gheorghe Zamfir",
+      "data_nasterii": "6 aprilie 1941",
+      "data_decesului": "",
+      "maiestrie": "naist",
+      "zona_folclorica": "România"
+    },
+    {
+      "nume": "Zavaidoc",
+      "data_nasterii": "8 martie 1896",
+      "data_decesului": "13 ianuarie 1945",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Muntenia"
+    },
+    {
+      "nume": "Marius Zgâianu",
+      "data_nasterii": "15 iunie 1978",
+      "data_decesului": "",
+      "maiestrie": "solist vocal",
+      "zona_folclorica": "Bucovina"
+    }
+  ],
+  "meta": {
+    "title": "Interpreți români de muzică populară - Free Download",
+    "description": "Interpreți și instrumentiști români de muzică populară, cu datele nașterii/decesului, măiestria și zona folclorică. Contains 168 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Interpreți români de muzică populară | ListBase",
+    "seo_description": "Download Interpreți români de muzică populară — 168 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 168 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Listă_de_interpreți_români_de_muzică_populară"
+    ]
+  }
+}

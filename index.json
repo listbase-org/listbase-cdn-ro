@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-10-27T02:12:30.963Z",
-  "total_datasets": 422,
-  "total_records": 161871,
+  "generated": "2026-10-27T02:12:33.390Z",
+  "total_datasets": 423,
+  "total_records": 162039,
   "categories": [
     {
       "id": "culture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "reference",
@@ -5238,6 +5238,32 @@
         "xlsx": {
           "name": "ro-eurovision-participari_RO.xlsx",
           "size": 8609
+        }
+      }
+    },
+    {
+      "id": "ro-interpreti-muzica-populara",
+      "name": "Interpreți români de muzică populară",
+      "category": "music",
+      "record_count": 168,
+      "columns": [
+        "nume",
+        "data_nasterii",
+        "data_decesului",
+        "maiestrie",
+        "zona_folclorica"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Listă_de_interpreți_români_de_muzică_populară",
+      "updated": "2026-10",
+      "size": 34388,
+      "files": {
+        "csv": {
+          "name": "ro-interpreti-muzica-populara_RO.csv",
+          "size": 12149
+        },
+        "xlsx": {
+          "name": "ro-interpreti-muzica-populara_RO.xlsx",
+          "size": 13928
         }
       }
     },
