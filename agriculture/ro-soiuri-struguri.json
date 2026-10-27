@@ -1,0 +1,456 @@
+{
+  "id": "ro-soiuri-struguri",
+  "name": "Soiuri de struguri românești",
+  "title": "Soiuri de struguri românești",
+  "description": "Lista soiurilor de viță-de-vie (struguri) românești, albe și negre.",
+  "category": "agriculture",
+  "source": "https://ro.wikipedia.org/wiki/Listă_de_soiuri_de_struguri_românești",
+  "source_url": "https://ro.wikipedia.org/wiki/Listă_de_soiuri_de_struguri_românești",
+  "updated": "2026-10",
+  "record_count": 105,
+  "columns": [
+    {
+      "key": "soi",
+      "label": "Soi",
+      "type": "string"
+    },
+    {
+      "key": "tip",
+      "label": "Tip",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "soi": "Alb mare",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Alb mărunt rotund",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Alb mic",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Alb românesc",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Albă zaharoasă",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Albă verde",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Albinos",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Albișoară",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Albuț mărunt",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Alidor *",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Arcadia",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Ardeleanca",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Armaș",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Aromat de Iași *",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Bacator",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Bălăban",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Bășicată",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Berbecel",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Boerească",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Boscănată albă",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Braghină",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Cârcioasă",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Chimighiera",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Cioinic",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Coadă grasă",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Coarnă albă",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Columna",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Condera",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Crâmpoșie",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Crâmpoșie selecționată",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Creață de Banat",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Cruciulița",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Diminichiu alb",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Fetească Albă",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Fetească Regală",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Firțigaia",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Focșăneanca",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Frâncușă",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Galbenă de Odobești",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Galbenă verde",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Golia *",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Gordan",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Gordin",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Grasă de Cotnari",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Iordana de Târnave",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Majarcă albă",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Majarca de Timiș",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Mustoasă de Măderat",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Nohan alb",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Om rău",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Ozana *",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Pârciu",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Plăvaie",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Plop",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Poamă boierească",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Poamă moale",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Raluca *",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Ș arba",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Tămâioasă Românească",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Târțără",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Unirea *",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Verdea de Panciu",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "Zghihară de Huși",
+      "tip": "Soiuri albe"
+    },
+    {
+      "soi": "1001 (vin)",
+      "tip": "Soiuri roșii"
+    },
+    {
+      "soi": "Arcaș",
+      "tip": "Soiuri roșii"
+    },
+    {
+      "soi": "Bambal",
+      "tip": "Soiuri roșii"
+    },
+    {
+      "soi": "Băbească neagră",
+      "tip": "Soiuri roșii"
+    },
+    {
+      "soi": "Bălăban roșu",
+      "tip": "Soiuri roșii"
+    },
+    {
+      "soi": "Bătută neagră",
+      "tip": "Soiuri roșii"
+    },
+    {
+      "soi": "Boscănată neagră",
+      "tip": "Soiuri roșii"
+    },
+    {
+      "soi": "Busuioacă de Bohotin",
+      "tip": "Soiuri roșii"
+    },
+    {
+      "soi": "Cadarca de Miniș",
+      "tip": "Soiuri roșii"
+    },
+    {
+      "soi": "Ceaslă",
+      "tip": "Soiuri roșii"
+    },
+    {
+      "soi": "Corb de Sălaj",
+      "tip": "Soiuri roșii"
+    },
+    {
+      "soi": "Corb de Mehedinți",
+      "tip": "Soiuri roșii"
+    },
+    {
+      "soi": "Diminichiu roșu",
+      "tip": "Soiuri roșii"
+    },
+    {
+      "soi": "Epuroaica",
+      "tip": "Soiuri roșii"
+    },
+    {
+      "soi": "Fetească Neagră",
+      "tip": "Soiuri roșii"
+    },
+    {
+      "soi": "Leșească roșie",
+      "tip": "Soiuri roșii"
+    },
+    {
+      "soi": "Neagră",
+      "tip": "Soiuri roșii"
+    },
+    {
+      "soi": "Neagră bătută mustoasă",
+      "tip": "Soiuri roșii"
+    },
+    {
+      "soi": "Negru boia",
+      "tip": "Soiuri roșii"
+    },
+    {
+      "soi": "Negru de Drăgășani",
+      "tip": "Soiuri roșii"
+    },
+    {
+      "soi": "Negru lung",
+      "tip": "Soiuri roșii"
+    },
+    {
+      "soi": "Negru moale",
+      "tip": "Soiuri roșii"
+    },
+    {
+      "soi": "Negru românesc",
+      "tip": "Soiuri roșii"
+    },
+    {
+      "soi": "Negru Sarichioi de Tulcea",
+      "tip": "Soiuri roșii"
+    },
+    {
+      "soi": "Negru vârtos",
+      "tip": "Soiuri roșii"
+    },
+    {
+      "soi": "Nohan rosu",
+      "tip": "Soiuri roșii"
+    },
+    {
+      "soi": "Novac",
+      "tip": "Soiuri roșii"
+    },
+    {
+      "soi": "Roșioară de Dolj",
+      "tip": "Soiuri roșii"
+    },
+    {
+      "soi": "Scuturătoare",
+      "tip": "Soiuri roșii"
+    },
+    {
+      "soi": "Sebera (rose)",
+      "tip": "Soiuri roșii"
+    },
+    {
+      "soi": "Somoveancă de Tulcea",
+      "tip": "Soiuri roșii"
+    },
+    {
+      "soi": "Tiraz",
+      "tip": "Soiuri roșii"
+    },
+    {
+      "soi": "Țigancă",
+      "tip": "Soiuri roșii"
+    },
+    {
+      "soi": "Vulpe (vin)",
+      "tip": "Soiuri roșii"
+    },
+    {
+      "soi": "Ciomeagă (dispărut)",
+      "tip": "Alte soiuri"
+    },
+    {
+      "soi": "Coiunghios Alb (dispărut)",
+      "tip": "Alte soiuri"
+    },
+    {
+      "soi": "Parmac de Calafat (dispărut)",
+      "tip": "Alte soiuri"
+    },
+    {
+      "soi": "Razachie (dispărut)",
+      "tip": "Alte soiuri"
+    },
+    {
+      "soi": "Rosé de Mehedinți (dispărut)",
+      "tip": "Alte soiuri"
+    },
+    {
+      "soi": "Seina de Vrancea (dispărut)",
+      "tip": "Alte soiuri"
+    },
+    {
+      "soi": "Seina de Maramureș (dispărut)",
+      "tip": "Alte soiuri"
+    },
+    {
+      "soi": "Tigvoasă (dispărut)",
+      "tip": "Alte soiuri"
+    }
+  ],
+  "meta": {
+    "title": "Soiuri de struguri românești - Free Download",
+    "description": "Lista soiurilor de viță-de-vie (struguri) românești, albe și negre. Contains 105 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Soiuri de struguri românești | ListBase",
+    "seo_description": "Download Soiuri de struguri românești — 105 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 105 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Listă_de_soiuri_de_struguri_românești"
+    ]
+  }
+}

@@ -1,9 +1,13 @@
 {
   "lang": "ro",
-  "generated": "2026-10-27T02:13:03.994Z",
-  "total_datasets": 435,
-  "total_records": 164263,
+  "generated": "2026-10-27T02:13:06.633Z",
+  "total_datasets": 436,
+  "total_records": 164368,
   "categories": [
+    {
+      "id": "agriculture",
+      "dataset_count": 1
+    },
     {
       "id": "culture",
       "dataset_count": 4
@@ -90,6 +94,29 @@
     }
   ],
   "datasets": [
+    {
+      "id": "ro-soiuri-struguri",
+      "name": "Soiuri de struguri românești",
+      "category": "agriculture",
+      "record_count": 105,
+      "columns": [
+        "soi",
+        "tip"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Listă_de_soiuri_de_struguri_românești",
+      "updated": "2026-10",
+      "size": 8784,
+      "files": {
+        "csv": {
+          "name": "ro-soiuri-struguri_RO.csv",
+          "size": 3288
+        },
+        "xlsx": {
+          "name": "ro-soiuri-struguri_RO.xlsx",
+          "size": 8740
+        }
+      }
+    },
     {
       "id": "ro-festivaluri",
       "name": "Festivaluri din România",
