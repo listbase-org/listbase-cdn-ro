@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-10-27T02:13:11.530Z",
-  "total_datasets": 438,
-  "total_records": 164440,
+  "generated": "2026-10-27T02:13:14.025Z",
+  "total_datasets": 439,
+  "total_records": 164499,
   "categories": [
     {
       "id": "agriculture",
@@ -95,6 +95,10 @@
     {
       "id": "transport",
       "dataset_count": 46
+    },
+    {
+      "id": "units",
+      "dataset_count": 1
     }
   ],
   "datasets": [
@@ -14547,6 +14551,37 @@
         "xlsx": {
           "name": "ro-vrancea-unlocode_RO.xlsx",
           "size": 8370
+        }
+      }
+    },
+    {
+      "id": "ro-unitati-masura-vechi",
+      "name": "Unități de măsură românești vechi",
+      "category": "units",
+      "record_count": 59,
+      "columns": [
+        "denumire",
+        "categorie",
+        "subunitati",
+        "descriere",
+        "moldova",
+        "muntenia",
+        "oltenia",
+        "transilvania",
+        "echivalent",
+        "echivalent_englez"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Unități_de_măsură_românești_vechi",
+      "updated": "2026-10",
+      "size": 21186,
+      "files": {
+        "csv": {
+          "name": "ro-unitati-masura-vechi_RO.csv",
+          "size": 6102
+        },
+        "xlsx": {
+          "name": "ro-unitati-masura-vechi_RO.xlsx",
+          "size": 10527
         }
       }
     }
