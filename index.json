@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-10-27T02:12:46.070Z",
-  "total_datasets": 428,
-  "total_records": 162439,
+  "generated": "2026-10-27T02:12:48.621Z",
+  "total_datasets": 429,
+  "total_records": 163562,
   "categories": [
     {
       "id": "culture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "society",
@@ -12032,6 +12032,32 @@
         "xlsx": {
           "name": "ro-inventatori-romani_RO.xlsx",
           "size": 14554
+        }
+      }
+    },
+    {
+      "id": "ro-membrii-academiei-romane",
+      "name": "Membrii Academiei Române",
+      "category": "science",
+      "record_count": 1123,
+      "columns": [
+        "nume",
+        "nastere_deces",
+        "ocupatie",
+        "tip_membru",
+        "anul_alegerii"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Lista_membrilor_Academiei_Române",
+      "updated": "2026-10",
+      "size": 218850,
+      "files": {
+        "csv": {
+          "name": "ro-membrii-academiei-romane_RO.csv",
+          "size": 88133
+        },
+        "xlsx": {
+          "name": "ro-membrii-academiei-romane_RO.xlsx",
+          "size": 51362
         }
       }
     },
