@@ -1,0 +1,851 @@
+{
+  "id": "ro-domnitori-tara-romaneasca",
+  "name": "Domnitorii Țării Românești",
+  "title": "Domnitorii Țării Românești",
+  "description": "Lista domnitorilor Țării Românești (1310–1859), cu familia/dinastia și perioada domniei.",
+  "category": "history",
+  "source": "https://ro.wikipedia.org/wiki/Lista_domnitorilor_Țării_Românești",
+  "source_url": "https://ro.wikipedia.org/wiki/Lista_domnitorilor_Țării_Românești",
+  "updated": "2026-10",
+  "record_count": 162,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "familie",
+      "label": "Familie",
+      "type": "string"
+    },
+    {
+      "key": "domnie",
+      "label": "Domnie",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "Ioan Basarab I „Întemeietorul”",
+      "familie": "Basarab",
+      "domnie": "1310–1352"
+    },
+    {
+      "nume": "Nicolae Alexandru",
+      "familie": "Basarab",
+      "domnie": "1352–1364"
+    },
+    {
+      "nume": "Vladislav I",
+      "familie": "Basarab",
+      "domnie": "1364–1377"
+    },
+    {
+      "nume": "Radu I",
+      "familie": "Basarab",
+      "domnie": "1377–1383"
+    },
+    {
+      "nume": "Dan I",
+      "familie": "Basarab - Dănești",
+      "domnie": "1383–1386"
+    },
+    {
+      "nume": "Mircea I „cel Bătrân”",
+      "familie": "Basarab",
+      "domnie": "1386–1394"
+    },
+    {
+      "nume": "Vlad I „Uzurpatorul”",
+      "familie": "Basarab - Dănești",
+      "domnie": "1394–1397"
+    },
+    {
+      "nume": "Mircea I „cel Bătrân”",
+      "familie": "Basarab",
+      "domnie": "1397–1418"
+    },
+    {
+      "nume": "Mihail I",
+      "familie": "Basarab",
+      "domnie": "1418–1420"
+    },
+    {
+      "nume": "Radu al II-lea „Praznaglava”",
+      "familie": "Basarab",
+      "domnie": "1420–1422"
+    },
+    {
+      "nume": "Dan al II-lea",
+      "familie": "Basarab - Dănești",
+      "domnie": "1422–1426"
+    },
+    {
+      "nume": "Radu al II-lea „Praznaglava”",
+      "familie": "Basarab",
+      "domnie": "1426–1427"
+    },
+    {
+      "nume": "Dan al II-lea",
+      "familie": "Basarab - Dănești",
+      "domnie": "1427–1431"
+    },
+    {
+      "nume": "Alexandru I Aldea",
+      "familie": "Basarab",
+      "domnie": "1431–1436"
+    },
+    {
+      "nume": "Vlad al II-lea „Dracul”",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1436–1442"
+    },
+    {
+      "nume": "Mircea al II-lea „cel Tânăr”",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1442–1442"
+    },
+    {
+      "nume": "Basarab al II-lea",
+      "familie": "Basarab - Dănești",
+      "domnie": "1442–1443"
+    },
+    {
+      "nume": "Vlad al II-lea „Dracul”",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1443-1447"
+    },
+    {
+      "nume": "Mircea al II-lea „cel Tânăr”",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1446–1447"
+    },
+    {
+      "nume": "Vladislav al II-lea",
+      "familie": "Basarab - Dănești",
+      "domnie": "1447–1448"
+    },
+    {
+      "nume": "Vlad al III-lea „Țepeș”",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1448"
+    },
+    {
+      "nume": "Vladislav al II-lea",
+      "familie": "Basarab - Dănești",
+      "domnie": "1448–1456"
+    },
+    {
+      "nume": "Vlad al III-lea „Țepeș”",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1456–1462"
+    },
+    {
+      "nume": "Radu al III-lea „cel Frumos”",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1462–1473"
+    },
+    {
+      "nume": "Basarab al III-lea Laiotă „cel Bătrân”",
+      "familie": "Basarab - Dănești",
+      "domnie": "1473"
+    },
+    {
+      "nume": "Radu al III-lea „cel Frumos”",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1473–1474"
+    },
+    {
+      "nume": "Basarab al III-lea Laiotă „cel Bătrân”",
+      "familie": "Basarab - Dănești",
+      "domnie": "1474"
+    },
+    {
+      "nume": "Radu al III-lea „cel Frumos”",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1474"
+    },
+    {
+      "nume": "Basarab al III-lea Laiotă „cel Bătrân”",
+      "familie": "Basarab - Dănești",
+      "domnie": "1474–1474"
+    },
+    {
+      "nume": "Radu al III-lea „cel Frumos”",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1474–1475"
+    },
+    {
+      "nume": "Basarab al III-lea Laiotă „cel Bătrân”",
+      "familie": "Basarab - Dănești",
+      "domnie": "1475–1476"
+    },
+    {
+      "nume": "Vlad al III-lea „Țepeș”",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1476"
+    },
+    {
+      "nume": "Basarab al III-lea Laiotă „cel Bătrân”",
+      "familie": "Basarab - Dănești",
+      "domnie": "1476–1477"
+    },
+    {
+      "nume": "Basarab al IV-lea „cel Tânăr Țepeluș”",
+      "familie": "Basarab - Dănești",
+      "domnie": "1477–1481"
+    },
+    {
+      "nume": "Mircea al III-lea „Dracul”",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1481"
+    },
+    {
+      "nume": "Vlad al IV-lea „Călugărul”",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1481"
+    },
+    {
+      "nume": "Basarab al IV-lea „cel Tânăr Țepeluș”",
+      "familie": "Basarab - Dănești",
+      "domnie": "1481–1482"
+    },
+    {
+      "nume": "Vlad al IV-lea „Călugărul”",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1482–1495"
+    },
+    {
+      "nume": "Radu al IV-lea „cel Mare”",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1495–1508"
+    },
+    {
+      "nume": "Mihnea I „cel Rău”",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1508–1509"
+    },
+    {
+      "nume": "Mircea al III-lea „Dracul”",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1509–1510"
+    },
+    {
+      "nume": "Vlad al V-lea „cel Tânăr”",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1510–1512"
+    },
+    {
+      "nume": "Neagoe Basarab al V-lea",
+      "familie": "Craiovești",
+      "domnie": "1512–1521"
+    },
+    {
+      "nume": "Teodosie (Doamna Despina regentă)",
+      "familie": "Craiovești",
+      "domnie": "1521–1522"
+    },
+    {
+      "nume": "Radu al V-lea „de la Afumați”",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1522–1523"
+    },
+    {
+      "nume": "Vladislav al III-lea",
+      "familie": "Basarab - Dănești",
+      "domnie": "1523"
+    },
+    {
+      "nume": "Radu al IV-lea Bădica",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1523–1524"
+    },
+    {
+      "nume": "Radu al V-lea „de la Afumați”",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1524"
+    },
+    {
+      "nume": "Vladislav al III-lea",
+      "familie": "Basarab - Dănești",
+      "domnie": "1524"
+    },
+    {
+      "nume": "Radu al V-lea „de la Afumați”",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1524–1525"
+    },
+    {
+      "nume": "Vladislav al III-lea",
+      "familie": "Basarab - Dănești",
+      "domnie": "1525"
+    },
+    {
+      "nume": "Radu al V-lea „de la Afumați”",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1525–1529"
+    },
+    {
+      "nume": "Basarab al VI-lea",
+      "familie": "",
+      "domnie": "1529"
+    },
+    {
+      "nume": "Moise",
+      "familie": "Basarab - Dănești",
+      "domnie": "1529–1530"
+    },
+    {
+      "nume": "Vlad al VI-lea „Înecatul”",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1530–1532"
+    },
+    {
+      "nume": "Vlad al VII-lea Vintilă „de la Slatina”",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1532–1535"
+    },
+    {
+      "nume": "Radu al VII-lea Paisie",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1535–1545"
+    },
+    {
+      "nume": "Mircea al VII-lea „Ciobanul”",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1545–1552"
+    },
+    {
+      "nume": "Radu al VIII-lea Ilie „Haidăul”",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1552–1553"
+    },
+    {
+      "nume": "Mircea al VII-lea „Ciobanul”",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1553–1554"
+    },
+    {
+      "nume": "Pătrașcu „cel Bun”",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1554–1558"
+    },
+    {
+      "nume": "Mircea al VII-lea „Ciobanul”",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1558–1559"
+    },
+    {
+      "nume": "Petru I „cel Tânăr” (Doamna Chiajna regentă până în 1564)",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1559–1568"
+    },
+    {
+      "nume": "Alexandru al II-lea Mircea",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1568–1574"
+    },
+    {
+      "nume": "Vintilă",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1574"
+    },
+    {
+      "nume": "Alexandru al II-lea Mircea",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1574–1577"
+    },
+    {
+      "nume": "Mihnea al II-lea „Turcitul” (Doamna Ecaterina regentă)",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1574–1583"
+    },
+    {
+      "nume": "Petru al II-lea „Cercel”",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1583–1585"
+    },
+    {
+      "nume": "Mihnea al II-lea „Turcitul”",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1585–1591"
+    },
+    {
+      "nume": "Ștefan „Surdul”",
+      "familie": "Mușat",
+      "domnie": "1591–1592"
+    },
+    {
+      "nume": "Alexandru al III-lea „cel Rău”",
+      "familie": "Mușat",
+      "domnie": "1592–1593"
+    },
+    {
+      "nume": "Mihai Viteazul",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1593–1600"
+    },
+    {
+      "nume": "Nicolae Pătrașcu",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1599–1600"
+    },
+    {
+      "nume": "Simion Movilă",
+      "familie": "Movilă",
+      "domnie": "1600–1601"
+    },
+    {
+      "nume": "Radu al IX-lea Mihnea",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1601–1602"
+    },
+    {
+      "nume": "Simion Movilă",
+      "familie": "Movilă",
+      "domnie": "1602"
+    },
+    {
+      "nume": "Radu al X-lea Șerban",
+      "familie": "Craiovești",
+      "domnie": "1602–1610"
+    },
+    {
+      "nume": "Radu al IX-lea Mihnea",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1611"
+    },
+    {
+      "nume": "Radu al X-lea Șerban",
+      "familie": "Craiovești",
+      "domnie": "1611"
+    },
+    {
+      "nume": "Radu al IX-lea Mihnea",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1611–1616"
+    },
+    {
+      "nume": "Gavril Movilă",
+      "familie": "Movilă",
+      "domnie": "1616"
+    },
+    {
+      "nume": "Alexandru al IV-lea Iliaș",
+      "familie": "Mușat",
+      "domnie": "1616–1618"
+    },
+    {
+      "nume": "Gavril Movilă",
+      "familie": "Movilă",
+      "domnie": "1618–1620"
+    },
+    {
+      "nume": "Radu al IX-lea Mihnea",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1620–1623"
+    },
+    {
+      "nume": "Alexandru al V-lea „Coconul”",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1623–1627"
+    },
+    {
+      "nume": "Alexandru al IV-lea Iliaș",
+      "familie": "Mușat",
+      "domnie": "1627–1629"
+    },
+    {
+      "nume": "Leon Tomșa",
+      "familie": "",
+      "domnie": "1629–1632"
+    },
+    {
+      "nume": "Radu al XI-lea Iliaș",
+      "familie": "Mușat",
+      "domnie": "1632"
+    },
+    {
+      "nume": "Matei Basarab",
+      "familie": "Brâncovenești",
+      "domnie": "1632–1654"
+    },
+    {
+      "nume": "Constantin Șerban",
+      "familie": "Craiovești",
+      "domnie": "1654–1658"
+    },
+    {
+      "nume": "Mihnea al III-lea Radu",
+      "familie": "Basarab - Drăculești",
+      "domnie": "1658–1659"
+    },
+    {
+      "nume": "Gheorghe Ghica",
+      "familie": "Ghica",
+      "domnie": "1659–1660"
+    },
+    {
+      "nume": "Grigore I Ghica",
+      "familie": "Ghica",
+      "domnie": "1660–1664"
+    },
+    {
+      "nume": "Radu Leon",
+      "familie": "",
+      "domnie": "1664–1669"
+    },
+    {
+      "nume": "Antonie „din Popești”",
+      "familie": "",
+      "domnie": "1669–1672"
+    },
+    {
+      "nume": "Grigore I Ghica",
+      "familie": "Ghica",
+      "domnie": "1672–1673"
+    },
+    {
+      "nume": "Gheorghe Duca",
+      "familie": "Ducas",
+      "domnie": "1673–1678"
+    },
+    {
+      "nume": "Șerban Cantacuzino",
+      "familie": "Cantacuzino",
+      "domnie": "1678–1688"
+    },
+    {
+      "nume": "Constantin Brâncoveanu",
+      "familie": "Brâncovenești",
+      "domnie": "1688–1714"
+    },
+    {
+      "nume": "Ștefan Cantacuzino",
+      "familie": "Cantacuzino",
+      "domnie": "1714–1716"
+    },
+    {
+      "nume": "Nicolae Mavrocordat",
+      "familie": "Mavrocordat",
+      "domnie": "1716–1716"
+    },
+    {
+      "nume": "– Ocupație Habsburgică",
+      "familie": "",
+      "domnie": "1716"
+    },
+    {
+      "nume": "Ioan Mavrocordat",
+      "familie": "Mavrocordat",
+      "domnie": "1716–1719"
+    },
+    {
+      "nume": "Nicolae Mavrocordat",
+      "familie": "Mavrocordat",
+      "domnie": "1719–1730"
+    },
+    {
+      "nume": "Constantin Mavrocordat",
+      "familie": "Mavrocordat",
+      "domnie": "1730"
+    },
+    {
+      "nume": "Mihai Racoviță",
+      "familie": "Racoviță",
+      "domnie": "1730–1731"
+    },
+    {
+      "nume": "Constantin Mavrocordat",
+      "familie": "Mavrocordat",
+      "domnie": "1731–1733"
+    },
+    {
+      "nume": "Grigore al II-lea Ghica",
+      "familie": "Ghica",
+      "domnie": "1733–1735"
+    },
+    {
+      "nume": "Constantin Mavrocordat",
+      "familie": "Mavrocordat",
+      "domnie": "1735–1741"
+    },
+    {
+      "nume": "Mihai Racoviță",
+      "familie": "Racoviță",
+      "domnie": "1741–1744"
+    },
+    {
+      "nume": "Constantin Mavrocordat",
+      "familie": "Mavrocordat",
+      "domnie": "1744–1748"
+    },
+    {
+      "nume": "Grigore al II-lea Ghica",
+      "familie": "Ghica",
+      "domnie": "1748–1752"
+    },
+    {
+      "nume": "Matei Ghica",
+      "familie": "Ghica",
+      "domnie": "1752–1753"
+    },
+    {
+      "nume": "Constantin Racoviță",
+      "familie": "Racoviță",
+      "domnie": "1753–1756"
+    },
+    {
+      "nume": "Constantin Mavrocordat",
+      "familie": "Mavrocordat",
+      "domnie": "1756–1758"
+    },
+    {
+      "nume": "Scarlat Grigore Ghica",
+      "familie": "Ghica",
+      "domnie": "1758–1761"
+    },
+    {
+      "nume": "Constantin Mavrocordat",
+      "familie": "Mavrocordat",
+      "domnie": "1761–1763"
+    },
+    {
+      "nume": "Constantin Racoviță",
+      "familie": "Racoviță",
+      "domnie": "1763–1764"
+    },
+    {
+      "nume": "Ștefan Racoviță",
+      "familie": "Racoviță",
+      "domnie": "1764–1765"
+    },
+    {
+      "nume": "Scarlat Grigore Ghica",
+      "familie": "Ghica",
+      "domnie": "1765–1766"
+    },
+    {
+      "nume": "Alexandru Scarlat Ghica",
+      "familie": "Ghica",
+      "domnie": "1766–1768"
+    },
+    {
+      "nume": "– Ocupație rusească",
+      "familie": "",
+      "domnie": "1768"
+    },
+    {
+      "nume": "Grigore al III-lea Ghica",
+      "familie": "Ghica",
+      "domnie": "1768–1769"
+    },
+    {
+      "nume": "– Ocupație rusească",
+      "familie": "",
+      "domnie": "1769–1770"
+    },
+    {
+      "nume": "Manole Giani Ruset",
+      "familie": "Rosetti",
+      "domnie": "1770–1771"
+    },
+    {
+      "nume": "Alexandru Ipsilanti",
+      "familie": "Ipsilanti",
+      "domnie": "1774–1782"
+    },
+    {
+      "nume": "Nicolae Caragea",
+      "familie": "Caragea",
+      "domnie": "1782–1783"
+    },
+    {
+      "nume": "Mihai Suțu",
+      "familie": "Suțu",
+      "domnie": "1783–1786"
+    },
+    {
+      "nume": "Nicolae Mavrogheni",
+      "familie": "Mavrogheni",
+      "domnie": "1786– 1789"
+    },
+    {
+      "nume": "– Ocupație Habsburgică",
+      "familie": "",
+      "domnie": "1789–1790"
+    },
+    {
+      "nume": "Mihai Suțu",
+      "familie": "Suțu",
+      "domnie": "1791–1793"
+    },
+    {
+      "nume": "Alexandru Moruzi",
+      "familie": "Moruzi",
+      "domnie": "1793–1796"
+    },
+    {
+      "nume": "Alexandru Ipsilanti",
+      "familie": "Ipsilanti",
+      "domnie": "1796–1797"
+    },
+    {
+      "nume": "Constantin Hangerli",
+      "familie": "Hangerli",
+      "domnie": "1797–1799"
+    },
+    {
+      "nume": "Alexandru Moruzi",
+      "familie": "Moruzi",
+      "domnie": "1799–1801"
+    },
+    {
+      "nume": "Mihai Suțu",
+      "familie": "Suțu",
+      "domnie": "1801–1802"
+    },
+    {
+      "nume": "Alexandru Suțu",
+      "familie": "Suțu",
+      "domnie": "1802"
+    },
+    {
+      "nume": "Constantin Ipsilanti",
+      "familie": "Ipsilanti",
+      "domnie": "1802–1806"
+    },
+    {
+      "nume": "– Ocupație rusească",
+      "familie": "",
+      "domnie": "1806–1812"
+    },
+    {
+      "nume": "Ioan Caragea",
+      "familie": "Caragea",
+      "domnie": "1812–1818"
+    },
+    {
+      "nume": "– Caimacam: Grigore Brâncoveanu, alături de Barbu Văcărescu, Grigore Ghica și Samurcaș",
+      "familie": "",
+      "domnie": "1818"
+    },
+    {
+      "nume": "Alexandru Suțu",
+      "familie": "Suțu",
+      "domnie": "1818–1821"
+    },
+    {
+      "nume": "Scarlat Callimachi",
+      "familie": "Callimachi",
+      "domnie": "1821"
+    },
+    {
+      "nume": "Tudor Vladimirescu",
+      "familie": "",
+      "domnie": "1821"
+    },
+    {
+      "nume": "Grigore al IV-lea Ghica",
+      "familie": "Ghica",
+      "domnie": "1822–1828"
+    },
+    {
+      "nume": "– Ocupație rusească",
+      "familie": "",
+      "domnie": "1828–1834"
+    },
+    {
+      "nume": "Alexandru Dimitrie Ghica",
+      "familie": "Ghica",
+      "domnie": "1834–1842"
+    },
+    {
+      "nume": "Gheorghe Bibescu",
+      "familie": "Bibescu",
+      "domnie": "1842–1848"
+    },
+    {
+      "nume": "– Guvernul Provizoriu",
+      "familie": "",
+      "domnie": "1848"
+    },
+    {
+      "nume": "– Locotenența domnească: Christian Tell, Ion Heliade Rădulescu, Nicolae Golescu",
+      "familie": "",
+      "domnie": "1848"
+    },
+    {
+      "nume": "– Ocupație rusească și otomană",
+      "familie": "",
+      "domnie": "1848–1851"
+    },
+    {
+      "nume": "Caimacam: Constantin Cantacuzino",
+      "familie": "",
+      "domnie": "1848"
+    },
+    {
+      "nume": "Barbu Știrbei",
+      "familie": "Știrbei",
+      "domnie": "1848–1853"
+    },
+    {
+      "nume": "– Ocupație rusească",
+      "familie": "",
+      "domnie": "1853–1854"
+    },
+    {
+      "nume": "– Ocupație otomană",
+      "familie": "",
+      "domnie": "1854"
+    },
+    {
+      "nume": "– Ocupație austriacă",
+      "familie": "",
+      "domnie": "1854–1856"
+    },
+    {
+      "nume": "Barbu Știrbei",
+      "familie": "Știrbei",
+      "domnie": "1854–1856"
+    },
+    {
+      "nume": "Caimacam: Alexandru Dimitrie Ghica",
+      "familie": "",
+      "domnie": "1856–1858"
+    },
+    {
+      "nume": "Caimacam: Ioan Manu, Emanoil Băleanu, Ioan Al. Filipescu",
+      "familie": "",
+      "domnie": "1858–1859"
+    },
+    {
+      "nume": "Alexandru Ioan Cuza",
+      "familie": "",
+      "domnie": "1859–1862"
+    },
+    {
+      "nume": "Alexandru Ioan Cuza",
+      "familie": "",
+      "domnie": "1862–1866"
+    },
+    {
+      "nume": "Carol de Hohenzollern-Sigmaringen",
+      "familie": "Hohenzollern-Sigmaringen",
+      "domnie": "1866–1881"
+    }
+  ],
+  "meta": {
+    "title": "Domnitorii Țării Românești - Free Download",
+    "description": "Lista domnitorilor Țării Românești (1310–1859), cu familia/dinastia și perioada domniei. Contains 162 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Domnitorii Țării Românești | ListBase",
+    "seo_description": "Download Domnitorii Țării Românești — 162 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 162 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Lista_domnitorilor_Țării_Românești"
+    ]
+  }
+}

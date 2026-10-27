@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-10-27T02:12:18.668Z",
-  "total_datasets": 417,
-  "total_records": 161219,
+  "generated": "2026-10-27T02:12:21.138Z",
+  "total_datasets": 418,
+  "total_records": 161381,
   "categories": [
     {
       "id": "culture",
@@ -31,6 +31,10 @@
     {
       "id": "geography",
       "dataset_count": 93
+    },
+    {
+      "id": "history",
+      "dataset_count": 1
     },
     {
       "id": "language",
@@ -5076,6 +5080,30 @@
         "xlsx": {
           "name": "ro-vrancea-orase_RO.xlsx",
           "size": 7348
+        }
+      }
+    },
+    {
+      "id": "ro-domnitori-tara-romaneasca",
+      "name": "Domnitorii Țării Românești",
+      "category": "history",
+      "record_count": 162,
+      "columns": [
+        "nume",
+        "familie",
+        "domnie"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Lista_domnitorilor_Țării_Românești",
+      "updated": "2026-10",
+      "size": 20489,
+      "files": {
+        "csv": {
+          "name": "ro-domnitori-tara-romaneasca_RO.csv",
+          "size": 9023
+        },
+        "xlsx": {
+          "name": "ro-domnitori-tara-romaneasca_RO.xlsx",
+          "size": 11309
         }
       }
     },
