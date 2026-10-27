@@ -1,0 +1,781 @@
+{
+  "id": "ro-ministri-justitie",
+  "name": "Miniștrii justiției ai României (1859–prezent)",
+  "title": "Miniștrii justiției ai României (1859–prezent)",
+  "description": "Lista miniștrilor de justiție ai României, cu perioadele mandatelor, pe epoci istorice.",
+  "category": "law",
+  "source": "https://ro.wikipedia.org/wiki/Lista_miniștrilor_români_de_justiție",
+  "source_url": "https://ro.wikipedia.org/wiki/Lista_miniștrilor_români_de_justiție",
+  "updated": "2026-10",
+  "record_count": 148,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "mandat",
+      "label": "Mandat",
+      "type": "string"
+    },
+    {
+      "key": "perioada",
+      "label": "Perioada",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "Costache Epureanu",
+      "mandat": "17 ianuarie 1859 (Iași), 27 aprilie 1859 (Iași, președinte al Consiliului de Miniștri, ministru de Justiție și ad-interim la Finanțe)",
+      "perioada": "Principatele Române Unite (1859-1862)"
+    },
+    {
+      "nume": "Ion Al. Filipescu",
+      "mandat": "25 ianuarie 1859 (București, președinte al Consiliului de Miniștri și ministru de Justiție)",
+      "perioada": "Principatele Române Unite (1859-1862)"
+    },
+    {
+      "nume": "Constantin Hurmuzachi",
+      "mandat": "8 martie 1859 (Iași), 17 ianuarie 1861 (Iași)",
+      "perioada": "Principatele Române Unite (1859-1862)"
+    },
+    {
+      "nume": "Ioan C. Cantacuzino",
+      "mandat": "27 martie 1859 (București), 6 septembrie 1859 (București, și ad-interim la Culte), 5 octombrie 1861 (Iași, ministru de interne și ad-interim la Justiție), 19 iulie 1861 (București)",
+      "perioada": "Principatele Române Unite (1859-1862)"
+    },
+    {
+      "nume": "Gheorghe Crețeanu",
+      "mandat": "6 octombrie 1859 (București, titularul Ioan C. Cantacuzino demisionând), 11 octombrie 1859 (București, ad-interim)",
+      "perioada": "Principatele Române Unite (1859-1862)"
+    },
+    {
+      "nume": "Dimitrie Sc. Miclescu",
+      "mandat": "10 noiembrie 1859 (Iași)",
+      "perioada": "Principatele Române Unite (1859-1862)"
+    },
+    {
+      "nume": "Gheorghe Apostoleanu",
+      "mandat": "30 martie 1860 (Iași, ad-interim, Dimitrie Sc. Miclescu demisionând)",
+      "perioada": "Principatele Române Unite (1859-1862)"
+    },
+    {
+      "nume": "Damaschin Bojincă",
+      "mandat": "30 aprilie 1860 (Iași)",
+      "perioada": "Principatele Române Unite (1859-1862)"
+    },
+    {
+      "nume": "Vasile Boerescu",
+      "mandat": "28 mai 1860 (București) (de la 13 iulie 1860 și ad-interim la Culte), 17 noiembrie 1868",
+      "perioada": "Principatele Române Unite (1859-1862)"
+    },
+    {
+      "nume": "Nicolae Bițcoveanu",
+      "mandat": "11 aprilie 1861 (București, ad-interim în urma demisionării lui Vasile Boerescu)",
+      "perioada": "Principatele Române Unite (1859-1862)"
+    },
+    {
+      "nume": "Constantin Rolla",
+      "mandat": "23 mai 1861 (Iași) (în locul lui Constantin Hurmuzachi, demisionat)",
+      "perioada": "Principatele Române Unite (1859-1862)"
+    },
+    {
+      "nume": "Constantin N. Brăiloiu",
+      "mandat": "30 aprilie 1861 (București), 22 ianuarie 1862",
+      "perioada": "Principatele Române Unite (1859-1862)"
+    },
+    {
+      "nume": "Grigore Arghiropol",
+      "mandat": "12 mai 1861 (București)",
+      "perioada": "Principatele Române Unite (1859-1862)"
+    },
+    {
+      "nume": "Dimitrie Ghica",
+      "mandat": "30 iulie 1861 (ad-interim cât a lipsit I. C. Cantacuzino), 21 ianuarie 1870 (ad-interim în locul lui Vasile Boerescu, demisionat)",
+      "perioada": "Principatele Române Unite (1859-1862)"
+    },
+    {
+      "nume": "Apostol Arsache",
+      "mandat": "21 octombrie 1861 (ad-interim ca urmare a demisiei lui I. C. Cantacuzino)",
+      "perioada": "România (1862-1881)"
+    },
+    {
+      "nume": "Dimitrie Cornea",
+      "mandat": "7 iunie 1862",
+      "perioada": "România (1862-1881)"
+    },
+    {
+      "nume": "Nicolae Crețulescu",
+      "mandat": "30 decembrie 1862, 3 iulie 1862, 8 august 1863, (ad-interim 28 zile și în august dupa demisia lui Barbu Bellu), 19 iunie 1864, 11 martie 1871",
+      "perioada": "România (1862-1881)"
+    },
+    {
+      "nume": "Barbu Bellu",
+      "mandat": "14 iunie 1863",
+      "perioada": "România (1862-1881)"
+    },
+    {
+      "nume": "Dimitrie Vioreanu",
+      "mandat": "15 august 1863, 2 februarie 1870, 5 aprilie 1876",
+      "perioada": "România (1862-1881)"
+    },
+    {
+      "nume": "A. Papiu Ilarian",
+      "mandat": "11 octombrie 1863",
+      "perioada": "România (1862-1881)"
+    },
+    {
+      "nume": "P. Orbescu",
+      "mandat": "1 martie 1864 (ad-interim), 6 mai 1864",
+      "perioada": "România (1862-1881)"
+    },
+    {
+      "nume": "Grigore Bengescu",
+      "mandat": "21 ianuarie 1865",
+      "perioada": "România (1862-1881)"
+    },
+    {
+      "nume": "George Vernescu",
+      "mandat": "26 ianuarie 1865",
+      "perioada": "România (1862-1881)"
+    },
+    {
+      "nume": "Dimitrie Cariagdi",
+      "mandat": "14 iunie 1865, 18 decembrie 1870",
+      "perioada": "România (1862-1881)"
+    },
+    {
+      "nume": "Ion C. Cantacuzino",
+      "mandat": "11 februarie 1866",
+      "perioada": "România (1862-1881)"
+    },
+    {
+      "nume": "Constantin Crețulescu",
+      "mandat": "1 martie 1867",
+      "perioada": "România (1862-1881)"
+    },
+    {
+      "nume": "Ștefan Golescu",
+      "mandat": "5 august 1867 (ad-interim)",
+      "perioada": "România (1862-1881)"
+    },
+    {
+      "nume": "Anton I. Arion",
+      "mandat": "17 august 1867, 13 noiembrie 1867",
+      "perioada": "România (1862-1881)"
+    },
+    {
+      "nume": "Constantin Eraclide",
+      "mandat": "3 noiembrie 1868",
+      "perioada": "România (1862-1881)"
+    },
+    {
+      "nume": "George Gr. Cantacuzino",
+      "mandat": "24 ianuarie 1870",
+      "perioada": "România (1862-1881)"
+    },
+    {
+      "nume": "Alexandru Lahovari",
+      "mandat": "20 aprilie 1870, 4 octombrie 1873",
+      "perioada": "România (1862-1881)"
+    },
+    {
+      "nume": "Gheorghe Costaforu",
+      "mandat": "8 iunie 1871",
+      "perioada": "România (1862-1881)"
+    },
+    {
+      "nume": "Manolache Costache Epureanu",
+      "mandat": "28 octombrie 1872",
+      "perioada": "România (1862-1881)"
+    },
+    {
+      "nume": "Christian Tell",
+      "mandat": "31 martie 1873 (ad-interim)",
+      "perioada": "România (1862-1881)"
+    },
+    {
+      "nume": "Mihail Pherekyde",
+      "mandat": "27 aprilie 1876, 9 aprilie 1871",
+      "perioada": "România (1862-1881)"
+    },
+    {
+      "nume": "Eugeniu Stătescu",
+      "mandat": "24 iulie 1876, 16 noiembrie 1881 (ad-interim), 1 august 1882, 16 decembrie 1885, 4 octombrie 1895, 8 iulie 1902",
+      "perioada": "România (1862-1881)"
+    },
+    {
+      "nume": "Ion I. Câmpineanu",
+      "mandat": "27 ianuarie 1877",
+      "perioada": "România (1862-1881)"
+    },
+    {
+      "nume": "Anastase Stolojan",
+      "mandat": "11 iulie 1879, 5 ianuarie 1898",
+      "perioada": "România (1862-1881)"
+    },
+    {
+      "nume": "Dimitrie Gianni",
+      "mandat": "9 iulie 1880, 1 martie 1888",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Gheorghe Chițu",
+      "mandat": "25 ianuarie 1882, 1 octombrie 1883 (ad-interim)",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Nicolae Voinov",
+      "mandat": "15 noiembrie 1883",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Constantin Nacu",
+      "mandat": "2 februarie 1885",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Alexandru Marghiloman",
+      "mandat": "23 martie 1888",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "George D. Vernescu",
+      "mandat": "12 noiembrie 1888, 21 februarie 1891 (ad-interim)",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Nicolae Gherassi",
+      "mandat": "29 martie 1889",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Theodor Rosetti",
+      "mandat": "5 noiembrie 1889",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Grigore Triandafil",
+      "mandat": "16 noiembrie 1890",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Nicolae Blaremberg",
+      "mandat": "3 noiembrie 1891",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "D. C. Sturdza-Scheianu",
+      "mandat": "27 noiembrie 1891",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Ștefan Șendrea",
+      "mandat": "22 noiembrie 1896",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Alexandru G. Djuvara",
+      "mandat": "31 martie 1897",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "George D. Pallade",
+      "mandat": "12 ianuarie 1898",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Constantin I. Stoicescu",
+      "mandat": "1 octombrie 1898, 14 februarie 1901",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Constantin G. Dissescu",
+      "mandat": "11 aprilie 1899",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Titu Maiorescu",
+      "mandat": "7 iulie 1900",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Alexandru Gianni",
+      "mandat": "19 octombrie 1903",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Alexandru A. Bădărău",
+      "mandat": "22 decembrie 1904",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Dimitrie A. Grecianu",
+      "mandat": "5 iunie 1906",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Toma Stelian",
+      "mandat": "12 martie 1907",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Mihail G. Cantacuzino",
+      "mandat": "29 decembrie 1910, 11 decembrie 1916",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Victor Antonescu",
+      "mandat": "4 ianuarie 1914, 14 noiembrie 1933, 5 ianuarie 1934, 2 octombrie 1934",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Constantin Argetoianu",
+      "mandat": "29 ianuarie 1918, 13 martie 1920 (ad-interim)",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Dimitrie Dobrescu",
+      "mandat": "16 martie 1918",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Ion Mitilineu",
+      "mandat": "4 iunie 1918",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Artur Văitoianu",
+      "mandat": "24 octombrie 1918 (ad-interim, General de Corp de Armată)",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Dumitru Buzdugan",
+      "mandat": "28 octombrie 1918",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Em. Miclescu",
+      "mandat": "27 septembrie 1919",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Ion Pelivan",
+      "mandat": "5 decembrie 1919 (nu a funcționat, fiind delegat în Comisia de pace de la Paris; interimatul a fost ținut de St. C. Pop ministru de stat)",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Matei B. Cantacuzino",
+      "mandat": "31 martie 1920",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Dimitrie A. Grecianu",
+      "mandat": "27 august 1920 (ad-interim), 16 noiembrie 1920",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Take Ionescu",
+      "mandat": "9 decembrie 1920 (ad-interim)",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Mihail Antonescu",
+      "mandat": "1 ianuarie 1921",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Stelian Popescu",
+      "mandat": "17 decembrie 1921, 4 iunie 1927",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "J. Th. Florescu",
+      "mandat": "19 ianuarie 1922",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "George G. Mârzescu",
+      "mandat": "29 octombrie 1923",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Teodor Cudalbu",
+      "mandat": "30 martie 1926",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Grigore Iunian",
+      "mandat": "10 noiembrie 1928, 13 iunie 1930, 10 octombrie 1930",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Voicu Nițescu",
+      "mandat": "7 martie 1930, 7 iunie 1930, 6 decembrie 1930",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Gheorghe Mironescu",
+      "mandat": "7 iunie 1930 (ad-interim)",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Constantin Hamangiu",
+      "mandat": "18 aprilie 1931",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Victor Vâlcovici",
+      "mandat": "7 ianuarie 1932",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Valeriu Pop",
+      "mandat": "9 ianuarie 1932, 1 februarie 1935",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Virgil Potârcă",
+      "mandat": "6 iunie 1932",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Mihai Popovici",
+      "mandat": "11 august 1932, 20 octombrie 1932, 14 ianuarie 1933, 22 septembrie 1933",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Emil Hațieganu",
+      "mandat": "22 iulie 1933 (ad-interim)",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Mircea Djuvara",
+      "mandat": "29 august 1936",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Vasile P. Sassu",
+      "mandat": "23 februarie 1937",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Vasile Rădulescu Mehedinți",
+      "mandat": "29 decembrie 1937",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Mircea Cancicov",
+      "mandat": "11 februarie 1938 (ad-interim)",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Victor Iamandi",
+      "mandat": "30 martie 1938",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Istrate Micescu",
+      "mandat": "24 noiembrie 1939",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Aurelian Bentoiu",
+      "mandat": "11 mai 1940",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Ion V. Gruia",
+      "mandat": "4 iulie 1940",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Mihai A. Antonescu",
+      "mandat": "14 septembrie 1940",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Gheorghe Popescu-Docan",
+      "mandat": "27 ianuarie 1941",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Constantin I. Stoicescu",
+      "mandat": "15 februarie 1941",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Ion C. Marinescu",
+      "mandat": "14 august 1942",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Lucrețiu Pătrășcanu",
+      "mandat": "23 august 1944 (ad-interim), 4 noiembrie 1944",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Gen. Ion Balțeanu",
+      "mandat": "1 septembrie 1944 (ad-interim)",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Aureliu Căpățână",
+      "mandat": "7 septembrie 1944 (în locul lui Lucrețiu Pătrășcanu, demisionat)",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Dimitrie D. Negel",
+      "mandat": "4 octombrie 1944 (ad-interim, Aureliu Căpățână demisionând)",
+      "perioada": "Regatul României (1881-1947)"
+    },
+    {
+      "nume": "Avram Bunaciu",
+      "mandat": "15 aprilie 1948, 31 decembrie 1957",
+      "perioada": "România comunistă (1948-1989)"
+    },
+    {
+      "nume": "Stelian Nițulescu",
+      "mandat": "24 septembrie 1949",
+      "perioada": "România comunistă (1948-1989)"
+    },
+    {
+      "nume": "Anton Tatu Jianu",
+      "mandat": "28 ianuarie 1953",
+      "perioada": "România comunistă (1948-1989)"
+    },
+    {
+      "nume": "Gheorghe Diaconescu",
+      "mandat": "31 mai 1954, 23 ianuarie 1958",
+      "perioada": "România comunistă (1948-1989)"
+    },
+    {
+      "nume": "Ion Constantin Manoliu",
+      "mandat": "21 martie 1961",
+      "perioada": "România comunistă (1948-1989)"
+    },
+    {
+      "nume": "Adrian Dimitriu",
+      "mandat": "18 martie 1965",
+      "perioada": "România comunistă (1948-1989)"
+    },
+    {
+      "nume": "Teodor Vasiliu",
+      "mandat": "28 noiembrie 1970",
+      "perioada": "România comunistă (1948-1989)"
+    },
+    {
+      "nume": "Emil Nicolcioiu",
+      "mandat": "18 martie 1975",
+      "perioada": "România comunistă (1948-1989)"
+    },
+    {
+      "nume": "Constantin Stătescu",
+      "mandat": "26 ianuarie 1977",
+      "perioada": "România comunistă (1948-1989)"
+    },
+    {
+      "nume": "Justin Grigoraș",
+      "mandat": "24 octombrie 1979",
+      "perioada": "România comunistă (1948-1989)"
+    },
+    {
+      "nume": "Ioan Ceterechi",
+      "mandat": "29 martie 1980",
+      "perioada": "România comunistă (1948-1989)"
+    },
+    {
+      "nume": "Gheorghe Chivulescu",
+      "mandat": "23 ianuarie 1982",
+      "perioada": "România comunistă (1948-1989)"
+    },
+    {
+      "nume": "Maria Bobu",
+      "mandat": "3 octombrie 1987",
+      "perioada": "România comunistă (1948-1989)"
+    },
+    {
+      "nume": "Victor Babiuc",
+      "mandat": "28 iunie 1990",
+      "perioada": "România postcomunistă (1989 - prezent)"
+    },
+    {
+      "nume": "Mircea Ionescu Quintus",
+      "mandat": "16 octombrie 1991",
+      "perioada": "România postcomunistă (1989 - prezent)"
+    },
+    {
+      "nume": "Petre Ninosu",
+      "mandat": "19 noiembrie 1992",
+      "perioada": "România postcomunistă (1989 - prezent)"
+    },
+    {
+      "nume": "Iosif Gavril Chiuzbaian",
+      "mandat": "6 martie 1994",
+      "perioada": "România postcomunistă (1989 - prezent)"
+    },
+    {
+      "nume": "Ion Predescu",
+      "mandat": "3 septembrie 1996",
+      "perioada": "România postcomunistă (1989 - prezent)"
+    },
+    {
+      "nume": "Valeriu Stoica",
+      "mandat": "12 decembrie 1996",
+      "perioada": "România postcomunistă (1989 - prezent)"
+    },
+    {
+      "nume": "Rodica Stănoiu",
+      "mandat": "28 decembrie 2000",
+      "perioada": "România postcomunistă (1989 - prezent)"
+    },
+    {
+      "nume": "Cristian Diaconescu",
+      "mandat": "10 martie 2004",
+      "perioada": "România postcomunistă (1989 - prezent)"
+    },
+    {
+      "nume": "Monica Macovei",
+      "mandat": "29 decembrie 2004",
+      "perioada": "România postcomunistă (1989 - prezent)"
+    },
+    {
+      "nume": "Tudor Chiuariu",
+      "mandat": "5 aprilie 2007",
+      "perioada": "România postcomunistă (1989 - prezent)"
+    },
+    {
+      "nume": "Teodor Meleșcanu",
+      "mandat": "15 ianuarie 2008 (interimar)",
+      "perioada": "România postcomunistă (1989 - prezent)"
+    },
+    {
+      "nume": "Cătălin Predoiu",
+      "mandat": "29 februarie 2008 - 3 octombrie 2009",
+      "perioada": "România postcomunistă (1989 - prezent)"
+    },
+    {
+      "nume": "Cătălin Predoiu",
+      "mandat": "3 octombrie 2009 - 23 decembrie 2009 (interimar)",
+      "perioada": "România postcomunistă (1989 - prezent)"
+    },
+    {
+      "nume": "Cătălin Predoiu",
+      "mandat": "23 decembrie 2009 - 7 mai 2012",
+      "perioada": "România postcomunistă (1989 - prezent)"
+    },
+    {
+      "nume": "Titus Corlățean",
+      "mandat": "7 mai 2012 - 6 august 2012",
+      "perioada": "România postcomunistă (1989 - prezent)"
+    },
+    {
+      "nume": "Victor Ponta",
+      "mandat": "6 august 2012 - 23 august 2012 (interimar)",
+      "perioada": "România postcomunistă (1989 - prezent)"
+    },
+    {
+      "nume": "Mona Pivniceru",
+      "mandat": "23 august 2012 - 21 decembrie 2012",
+      "perioada": "România postcomunistă (1989 - prezent)"
+    },
+    {
+      "nume": "Mona Pivniceru",
+      "mandat": "21 decembrie 2012 - 27 martie 2013",
+      "perioada": "România postcomunistă (1989 - prezent)"
+    },
+    {
+      "nume": "Victor Ponta",
+      "mandat": "27 martie 2013 - 15 aprilie 2013 (interimar)",
+      "perioada": "România postcomunistă (1989 - prezent)"
+    },
+    {
+      "nume": "Robert Marius Cazanciuc",
+      "mandat": "15 aprilie 2013 - 17 noiembrie 2015",
+      "perioada": "România postcomunistă (1989 - prezent)"
+    },
+    {
+      "nume": "Raluca Alexandra Prună",
+      "mandat": "17 noiembrie 2015 - 4 ianuarie 2017",
+      "perioada": "România postcomunistă (1989 - prezent)"
+    },
+    {
+      "nume": "Florin Iordache",
+      "mandat": "4 ianuarie 2017 - 9 februarie 2017",
+      "perioada": "România postcomunistă (1989 - prezent)"
+    },
+    {
+      "nume": "Ana Birchall",
+      "mandat": "9 februarie 2017 - 23 februarie 2017 (interimar)",
+      "perioada": "România postcomunistă (1989 - prezent)"
+    },
+    {
+      "nume": "Tudorel Toader",
+      "mandat": "23 februarie 2017 - 24 aprilie 2019",
+      "perioada": "România postcomunistă (1989 - prezent)"
+    },
+    {
+      "nume": "Ana Birchall",
+      "mandat": "24 aprilie 2019 - 10 iunie 2019 (interimar)",
+      "perioada": "România postcomunistă (1989 - prezent)"
+    },
+    {
+      "nume": "Ana Birchall",
+      "mandat": "10 iunie 2019 - 4 noiembrie 2019",
+      "perioada": "România postcomunistă (1989 - prezent)"
+    },
+    {
+      "nume": "Cătălin Predoiu",
+      "mandat": "4 noiembrie 2019 - 23 decembrie 2020",
+      "perioada": "România postcomunistă (1989 - prezent)"
+    },
+    {
+      "nume": "Stelian Ion",
+      "mandat": "23 decembrie 2020 - 1 septembrie 2021",
+      "perioada": "România postcomunistă (1989 - prezent)"
+    },
+    {
+      "nume": "Lucian Bode",
+      "mandat": "1 septembrie 2021 - 25 noiembrie 2021 (interimar)",
+      "perioada": "România postcomunistă (1989 - prezent)"
+    },
+    {
+      "nume": "Cătălin Predoiu",
+      "mandat": "25 noiembrie 2021 - 15 iunie 2023",
+      "perioada": "România postcomunistă (1989 - prezent)"
+    },
+    {
+      "nume": "Alina Gorghiu",
+      "mandat": "15 iunie 2023 - 23 decembrie 2024",
+      "perioada": "România postcomunistă (1989 - prezent)"
+    },
+    {
+      "nume": "Radu Marinescu",
+      "mandat": "23 decembrie 2024 - 23 aprilie 2026",
+      "perioada": "România postcomunistă (1989 - prezent)"
+    },
+    {
+      "nume": "Cătălin Predoiu",
+      "mandat": "23 aprilie 2026 - 20 octombrie 2026 (interimar)",
+      "perioada": "România postcomunistă (1989 - prezent)"
+    },
+    {
+      "nume": "Radu Marinescu",
+      "mandat": "20 octombrie 2026 - prezent",
+      "perioada": "România postcomunistă (1989 - prezent)"
+    }
+  ],
+  "meta": {
+    "title": "Miniștrii justiției ai României (1859–prezent) - Free Download",
+    "description": "Lista miniștrilor de justiție ai României, cu perioadele mandatelor, pe epoci istorice. Contains 148 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Miniștrii justiției ai României (1859–prezent) | ListBase",
+    "seo_description": "Download Miniștrii justiției ai României (1859–prezent) — 148 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 148 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Lista_miniștrilor_români_de_justiție"
+    ]
+  }
+}

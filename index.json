@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-10-27T02:12:48.621Z",
-  "total_datasets": 429,
-  "total_records": 163562,
+  "generated": "2026-10-27T02:12:51.103Z",
+  "total_datasets": 430,
+  "total_records": 163710,
   "categories": [
     {
       "id": "culture",
@@ -43,6 +43,10 @@
     {
       "id": "language",
       "dataset_count": 3
+    },
+    {
+      "id": "law",
+      "dataset_count": 1
     },
     {
       "id": "music",
@@ -5272,6 +5276,30 @@
         "xlsx": {
           "name": "ro-expresii-romanesti_RO.xlsx",
           "size": 13883
+        }
+      }
+    },
+    {
+      "id": "ro-ministri-justitie",
+      "name": "Miniștrii justiției ai României (1859–prezent)",
+      "category": "law",
+      "record_count": 148,
+      "columns": [
+        "nume",
+        "mandat",
+        "perioada"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Lista_miniștrilor_români_de_justiție",
+      "updated": "2026-10",
+      "size": 24192,
+      "files": {
+        "csv": {
+          "name": "ro-ministri-justitie_RO.csv",
+          "size": 13359
+        },
+        "xlsx": {
+          "name": "ro-ministri-justitie_RO.xlsx",
+          "size": 11978
         }
       }
     },
