@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-10-27T02:13:01.490Z",
-  "total_datasets": 434,
-  "total_records": 164258,
+  "generated": "2026-10-27T02:13:03.994Z",
+  "total_datasets": 435,
+  "total_records": 164263,
   "categories": [
     {
       "id": "culture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "language",
@@ -5237,6 +5237,31 @@
         "xlsx": {
           "name": "ro-domnitori-tara-romaneasca_RO.xlsx",
           "size": 11309
+        }
+      }
+    },
+    {
+      "id": "ro-regii-romaniei",
+      "name": "Regii României",
+      "category": "history",
+      "record_count": 5,
+      "columns": [
+        "monarh",
+        "mandat",
+        "dinastie",
+        "comentarii"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Lista_regilor_României",
+      "updated": "2026-10",
+      "size": 3649,
+      "files": {
+        "csv": {
+          "name": "ro-regii-romaniei_RO.csv",
+          "size": 1912
+        },
+        "xlsx": {
+          "name": "ro-regii-romaniei_RO.xlsx",
+          "size": 7681
         }
       }
     },

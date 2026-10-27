@@ -1,0 +1,76 @@
+{
+  "id": "ro-regii-romaniei",
+  "name": "Regii României",
+  "title": "Regii României",
+  "description": "Monarhii României (1881–1947): mandat, dinastie și comentarii.",
+  "category": "history",
+  "source": "https://ro.wikipedia.org/wiki/Lista_regilor_României",
+  "source_url": "https://ro.wikipedia.org/wiki/Lista_regilor_României",
+  "updated": "2026-10",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "monarh",
+      "label": "Monarh",
+      "type": "string"
+    },
+    {
+      "key": "mandat",
+      "label": "Mandat",
+      "type": "string"
+    },
+    {
+      "key": "dinastie",
+      "label": "Dinastie",
+      "type": "string"
+    },
+    {
+      "key": "comentarii",
+      "label": "Comentarii",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "monarh": "Carol I (1839-1914)",
+      "mandat": "1881 - 1914 Rege al României",
+      "dinastie": "Hohenzollern",
+      "comentarii": "A fost fiul Prințului Carol Anton de Hohenzollern-Sigmaringen. Sora sa mai mare, Stephanie, a fost Regina Portugaliei ca soție a lui Pedro al V-lea. Din căsătoria sa cu Elisabeth de Wied, s-a născut Maria (1870-1874), care a murit tânără. Prin urmare, nu a avut moștenitori la tron și, în consecință, l-a numit pe fratele său, Leopold, prinț moștenitor. Acesta din urmă și-a transmis drepturile fiului său cel mare, William. William, la rândul său, a transmis dreptul de succesiune fratelui său mai mic, Ferdinand."
+    },
+    {
+      "monarh": "Ferdinand (1865-1927)",
+      "mandat": "1914 - 1927",
+      "dinastie": "Hohenzollern",
+      "comentarii": "A fost al doilea fiu al lui Leopold de Hohenzollern-Sigmaringen, fratele mai mare al regelui Carol I. S-a căsătorit cu prințesa Maria de Edinburgh, fiica cea mare a lui Alfred, prinț al Regatului Unit, al doilea fiu al reginei Victoria. Până în 1916, România a fost neutră în Primul Război Mondial. Cu toate acestea, sub influența soției sale, s-a alăturat Aliaților."
+    },
+    {
+      "monarh": "Mihai (1921-2017)",
+      "mandat": "1927 - 1930",
+      "dinastie": "Hohenzollern",
+      "comentarii": "A fost singurul fiu al prințului Carol și al soției sale Helena, fiica regelui Constantin I al Greciei. În 1925, Mihail a fost numit prinț moștenitor la vârsta de 5 ani, iar în 1927 a devenit rege."
+    },
+    {
+      "monarh": "Carol al II-lea (1893-1953)",
+      "mandat": "1930 - 1940",
+      "dinastie": "Hohenzollern",
+      "comentarii": "S-a căsătorit de mai multe ori. Cu toate acestea, singura sa căsătorie oficială a fost cu prințesa Elena a Greciei, fiica regelui Constantin I al Greciei. În 1928, a divorțat de Helena, iar din 1925 a locuit la Paris. Prim-ministrul Iuliu Maniu i-a cerut să preia tronul în 1930 pentru a preveni o regență prelungită. A abdicat din nou în 1940 și, în cele din urmă, a ajuns în Portugalia, unde a murit în 1953."
+    },
+    {
+      "monarh": "Mihai (1921-2017)",
+      "mandat": "1940 - 1947",
+      "dinastie": "Hohenzollern",
+      "comentarii": "Al doilea său guvern."
+    }
+  ],
+  "meta": {
+    "title": "Regii României - Free Download",
+    "description": "Monarhii României (1881–1947): mandat, dinastie și comentarii. Contains 5 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Regii României | ListBase",
+    "seo_description": "Download Regii României — 5 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 5 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Lista_regilor_României"
+    ]
+  }
+}
