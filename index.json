@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-10-27T02:13:09.002Z",
-  "total_datasets": 437,
-  "total_records": 164423,
+  "generated": "2026-10-27T02:13:11.530Z",
+  "total_datasets": 438,
+  "total_records": 164440,
   "categories": [
     {
       "id": "agriculture",
@@ -39,6 +39,10 @@
     {
       "id": "geography",
       "dataset_count": 93
+    },
+    {
+      "id": "health",
+      "dataset_count": 1
     },
     {
       "id": "history",
@@ -5240,6 +5244,30 @@
         "xlsx": {
           "name": "ro-vrancea-orase_RO.xlsx",
           "size": 7348
+        }
+      }
+    },
+    {
+      "id": "ro-statiuni-balneoclimaterice",
+      "name": "Stațiuni balneoclimaterice din România",
+      "category": "health",
+      "record_count": 17,
+      "columns": [
+        "statiune",
+        "judet",
+        "descriere"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Stațiuni_balneoclimaterice_din_România",
+      "updated": "2026-10",
+      "size": 8832,
+      "files": {
+        "csv": {
+          "name": "ro-statiuni-balneoclimaterice_RO.csv",
+          "size": 6202
+        },
+        "xlsx": {
+          "name": "ro-statiuni-balneoclimaterice_RO.xlsx",
+          "size": 9514
         }
       }
     },

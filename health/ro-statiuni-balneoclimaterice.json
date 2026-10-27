@@ -1,0 +1,126 @@
+{
+  "id": "ro-statiuni-balneoclimaterice",
+  "name": "Stațiuni balneoclimaterice din România",
+  "title": "Stațiuni balneoclimaterice din România",
+  "description": "Principalele stațiuni balneoclimaterice din România, cu județul și factorii terapeutici naturali.",
+  "category": "health",
+  "source": "https://ro.wikipedia.org/wiki/Stațiuni_balneoclimaterice_din_România",
+  "source_url": "https://ro.wikipedia.org/wiki/Stațiuni_balneoclimaterice_din_România",
+  "updated": "2026-10",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "statiune",
+      "label": "Statiune",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "descriere",
+      "label": "Descriere",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "statiune": "Buziaș",
+      "judet": "Timiș",
+      "descriere": "Factorii terapeutici ai stațiunii din apropierea Timișoarei sunt: ape minerale carbogazoase, bicarbonatate, clorurate, sodice, calcice și magneziene. Acestora li se adaugă mofetele (emanații de dioxid de carbon) și un bioclimat sedativ, cu aer puternic ionizat, de cruțare, favorabil relaxării și recuperării fizice. Aici te poți trata de afecțiuni cardiovasculare, boli ale sistemului nervos central, tulburări neuroendocrine și afecțiuni ale aparatului renal."
+    },
+    {
+      "statiune": "Lacul Amara",
+      "judet": "Ialomița este localizat în orașul cu același nume",
+      "descriere": "Factorii naturali sunt: apa sulfatată, cioruruosodică și nămol sapropelic. Băile sunt calde, există multe aplicații în care nămolul este de cele mai multe ori folosit și are multe indicații terapeutice, de pildă: ginecologia."
+    },
+    {
+      "statiune": "Băile Olănești",
+      "judet": "Vâlcea",
+      "descriere": "este localizat în orașul cu același nume. Este cunoscută pentru izvoare minerale cu apă termală. Te poți trata aici asupra afecțiunilor ale tubului digestiv și a glandelor anexe precum și de bolile de nutriție."
+    },
+    {
+      "statiune": "Borsec",
+      "judet": "Harghita",
+      "descriere": "Cunoscut pentru izvoare cu ape minerale, localizat în orașul cu același nume, nămol. Te poți trata de afecțiuni ale aparatului cardiovascular și ale glandelor endocrine."
+    },
+    {
+      "statiune": "Băile Lipova",
+      "judet": "Arad",
+      "descriere": "Indicate pentru tratarea afecțiunilor cardiovasculare (fiind un centru istoric de cardiologie), hepatobiliare, ale căilor urinare, tulburărilor endocrine și afecțiunilor locomotorii."
+    },
+    {
+      "statiune": "Sovata",
+      "judet": "Mureș",
+      "descriere": "Este una dintre cele mai cunoscute stațiuni balneare din România. Oamenii vin aici pentru a trata diverse afecțiuni, precum reumatism degenerativ, inflamator și abarticular, dechele posttraumatice, afecțiuni neurologice periferice (pareze), afecțiuni endocrine (hipertiroidie), afecțiuni cardiovasculare (ulcer varicos), dar și altele."
+    },
+    {
+      "statiune": "Băile Călacea",
+      "judet": "Timiș",
+      "descriere": "aflate la o distanță de 29 kilometri de Timișoara. Indicate în afecțiuni reumatismale degenerative (spondiloze cervicale, artroze, poliartroze și coxartroze), precum și în afecțiuni ale căilor urinare. Factorii naturali de cură includ apele minerale geotermale (38-39°C), cu compoziție bicarbonată, clorurată și hipotonă, recunoscute pentru efectele lor terapeutice."
+    },
+    {
+      "statiune": "Sângeorz-Băi",
+      "judet": "Bistrița-Năsăud",
+      "descriere": "Aici se tratează boli digestive, dischinezie, colecistită cronică, hepatită cronică, boli de nutriție și metabolice (diabet, obezitate), dar și afecțiuni asociate precum rinite, sinuzite, alergii. În localitate poți găsi ape minerale spumante cu conținut de bicarbonat, clor, sodiu, magneziu, brom, iod, nămoluri minerale de izvor, mofetă, climă tonică. Se află în zona de sud-est a țării, la poalele sudice ale Munților Rodnei."
+    },
+    {
+      "statiune": "Băile Felix",
+      "judet": "Bihor",
+      "descriere": "O altă stațiune balneară celebră din România în care oamenii vin pentru a trata afecțiuni de tot felul, de la reumatice inflamatorii, afecțiuni reumatice degenerative, până la afecțiuni posttraumatice, ale sistemului nervos periferic și central sau afecțiuni asociate (boli de nutriție, metabolice, endocrine). Se găsesc aici ape minerale termale cu conținut de: bicarbonat, sulf, calciu, sodiu, siliciu; climat continental moderat. Se află în partea de nord-vest a României, în Câmpia Crișurilor, la 9 km de Oradea și 659 km de București."
+    },
+    {
+      "statiune": "Băile Tușnad",
+      "judet": "Harghita",
+      "descriere": "La băile Tușnad vin cei care au probleme la stomac, gastrite cronice, enterocolite, reumatism articular acut sau insuficiență cardiacă, afecțiune tiroidiană. Stațiunea balneară este recunoscută pentru că ar trata astfel de afecțiuni. Altfel, oamenii aleg să vină aici și pentru peisaje și relaxare. Printre resurse se numără ape minerale carbo-gazoase, clorosodice, bicarbonatate. Verile sunt răcoroase, motiv pentru care este o destinație de vacanță ideală pentru verile fierbinți. Se află pe un defileu al râului Olt, în partea sudică a Depresiunii Ciuc, între Munții Harghita și Bodoc, la 30 km de Miercurea Ciuc."
+    },
+    {
+      "statiune": "Saturn",
+      "judet": "Constanța",
+      "descriere": "Stațiune situată în arealul balnear al municipiului Mangalia, recunoscută oficial pentru resursele sale terapeutice. Beneficiază de ape minerale sulfuroase mezotermale și nămol sapropelic, fiind recomandată pentru afecțiuni reumatismale, ginecologice și dermatologice."
+    },
+    {
+      "statiune": "Venus",
+      "judet": "Constanța",
+      "descriere": "Este o stațiune balneoclimatică de interes național. Factorii naturali de cură includ bioclimatul marin bogat în aerosoli saline, apa mării și izvoarele de ape minerale sulfuroase hipotermale, utilizate în tratarea reumatismului și a afecțiunilor post-traumatice."
+    },
+    {
+      "statiune": "Cap Aurora",
+      "judet": "Constanța",
+      "descriere": "Localizată între Venus și Jupiter, această stațiune beneficiază de factorii climatici maritimi și resursele balneare ale zonei Mangalia, fiind inclusă pe lista oficială a localităților cu statut balnear pentru tratarea bolilor reumatice și a stărilor de oboseală cronică."
+    },
+    {
+      "statiune": "Jupiter",
+      "judet": "Constanța",
+      "descriere": "Stațiune balneoclimatică ce profită de expunerea solară prelungită și de aerosolii marini. Este utilizată pentru profilaxie și tratament balnear, dispunând de facilități care folosesc apele minerale din forajele de mică adâncime din zonă."
+    },
+    {
+      "statiune": "Neptun",
+      "judet": "Constanța",
+      "descriere": "Una dintre cele mai moderne stațiuni balneoclimatice de pe litoral, renumită pentru centrele sale de tratament care utilizează nămolul sapropelic de la Techirghiol și apele sulfuroase pentru afecțiuni locomotorii, respiratorii și neuromotorii."
+    },
+    {
+      "statiune": "Olimp",
+      "judet": "Constanța",
+      "descriere": "Parte a complexului balneoclimatic Neptun-Olimp, stațiunea oferă condiții pentru talasoterapie și helioterapie, fiind atestată oficial pentru calitățile sale terapeutice ce derivă din îmbinarea climatului marin cu resursele minerale locale."
+    },
+    {
+      "statiune": "Moneasa",
+      "judet": "Arad",
+      "descriere": "Supranumită \"Perla Apusenilor\", se află la o altitudine de aproape 300 de metri, la poalele Munților Codru-Moma. Stațiunea este cunoscută încă din secolul al XVI-lea, fiind apreciată mai ales pentru izvoarele ei mezotermale. La Moneasa tratezi afecțiuni ale sistemului nervos periferic, neurologice, reumatismale și ginecologice, utilizând ape minerale termale și un bioclimat sedativ."
+    }
+  ],
+  "meta": {
+    "title": "Stațiuni balneoclimaterice din România - Free Download",
+    "description": "Principalele stațiuni balneoclimaterice din România, cu județul și factorii terapeutici naturali. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Stațiuni balneoclimaterice din România | ListBase",
+    "seo_description": "Download Stațiuni balneoclimaterice din România — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Stațiuni_balneoclimaterice_din_România"
+    ]
+  }
+}
