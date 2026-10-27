@@ -1,0 +1,316 @@
+{
+  "id": "ro-eurovision-participari",
+  "name": "România la Concursul Muzical Eurovision",
+  "title": "România la Concursul Muzical Eurovision",
+  "description": "Toate participările României la Eurovision: an, oraș gazdă, artist, cântec, loc și puncte în finală/semifinală.",
+  "category": "music",
+  "source": "https://ro.wikipedia.org/wiki/România_la_Concursul_Muzical_Eurovision",
+  "source_url": "https://ro.wikipedia.org/wiki/România_la_Concursul_Muzical_Eurovision",
+  "updated": "2026-10",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "an",
+      "label": "An",
+      "type": "number"
+    },
+    {
+      "key": "gazda",
+      "label": "Gazda",
+      "type": "string"
+    },
+    {
+      "key": "artist",
+      "label": "Artist",
+      "type": "string"
+    },
+    {
+      "key": "cantec",
+      "label": "Cantec",
+      "type": "string"
+    },
+    {
+      "key": "loc_finala",
+      "label": "Loc Finala",
+      "type": "number"
+    },
+    {
+      "key": "puncte_finala",
+      "label": "Puncte Finala",
+      "type": "number"
+    },
+    {
+      "key": "loc_semifinala",
+      "label": "Loc Semifinala",
+      "type": "string"
+    },
+    {
+      "key": "puncte_semifinala",
+      "label": "Puncte Semifinala",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "an": "1994",
+      "gazda": "Dublin",
+      "artist": "Dan Bittman",
+      "cantec": "Dincolo de nori",
+      "loc_finala": "21",
+      "puncte_finala": "14",
+      "loc_semifinala": "",
+      "puncte_semifinala": ""
+    },
+    {
+      "an": "1998",
+      "gazda": "Birmingham",
+      "artist": "Mălina Olinescu",
+      "cantec": "Eu cred",
+      "loc_finala": "22",
+      "puncte_finala": "6",
+      "loc_semifinala": "",
+      "puncte_semifinala": ""
+    },
+    {
+      "an": "2000",
+      "gazda": "Stockholm",
+      "artist": "Taxi",
+      "cantec": "The Moon",
+      "loc_finala": "17",
+      "puncte_finala": "25",
+      "loc_semifinala": "",
+      "puncte_semifinala": ""
+    },
+    {
+      "an": "2002",
+      "gazda": "Tallinn",
+      "artist": "Monica Anghel & Marcel Pavel",
+      "cantec": "Tell Me Why",
+      "loc_finala": "9",
+      "puncte_finala": "71",
+      "loc_semifinala": "",
+      "puncte_semifinala": ""
+    },
+    {
+      "an": "2003",
+      "gazda": "Riga",
+      "artist": "Nicola",
+      "cantec": "Don't Break My Heart",
+      "loc_finala": "10",
+      "puncte_finala": "73",
+      "loc_semifinala": "",
+      "puncte_semifinala": ""
+    },
+    {
+      "an": "2004",
+      "gazda": "Istanbul",
+      "artist": "Sanda Ladoși",
+      "cantec": "I Admit",
+      "loc_finala": "18",
+      "puncte_finala": "18",
+      "loc_semifinala": "Top 10 de anul trecut",
+      "puncte_semifinala": "Top 10 de anul trecut"
+    },
+    {
+      "an": "2005",
+      "gazda": "Kiev",
+      "artist": "Luminița Anghel & Sistem",
+      "cantec": "Let Me Try",
+      "loc_finala": "3",
+      "puncte_finala": "158",
+      "loc_semifinala": "1",
+      "puncte_semifinala": "235"
+    },
+    {
+      "an": "2006",
+      "gazda": "Atena",
+      "artist": "Mihai Trăistariu",
+      "cantec": "Tornerò",
+      "loc_finala": "4",
+      "puncte_finala": "172",
+      "loc_semifinala": "Top 11 de anul trecut",
+      "puncte_semifinala": "Top 11 de anul trecut"
+    },
+    {
+      "an": "2007",
+      "gazda": "Helsinki",
+      "artist": "Todomondo",
+      "cantec": "Liubi, Liubi, I Love You",
+      "loc_finala": "13",
+      "puncte_finala": "84",
+      "loc_semifinala": "Top 10 de anul trecut",
+      "puncte_semifinala": "Top 10 de anul trecut"
+    },
+    {
+      "an": "2008",
+      "gazda": "Belgrad",
+      "artist": "Nico și Vlad Miriță",
+      "cantec": "Pe-o margine de lume",
+      "loc_finala": "20",
+      "puncte_finala": "45",
+      "loc_semifinala": "7",
+      "puncte_semifinala": "94"
+    },
+    {
+      "an": "2009",
+      "gazda": "Moscova",
+      "artist": "Elena Gheorghe",
+      "cantec": "The Balkan Girls",
+      "loc_finala": "19",
+      "puncte_finala": "40",
+      "loc_semifinala": "9",
+      "puncte_semifinala": "67"
+    },
+    {
+      "an": "2010",
+      "gazda": "Oslo",
+      "artist": "Paula Seling și Ovi",
+      "cantec": "Playing With Fire",
+      "loc_finala": "3",
+      "puncte_finala": "162",
+      "loc_semifinala": "4",
+      "puncte_semifinala": "104"
+    },
+    {
+      "an": "2011",
+      "gazda": "Düsseldorf",
+      "artist": "Hotel FM",
+      "cantec": "Change",
+      "loc_finala": "17",
+      "puncte_finala": "77",
+      "loc_semifinala": "4",
+      "puncte_semifinala": "111"
+    },
+    {
+      "an": "2012",
+      "gazda": "Baku",
+      "artist": "Mandinga",
+      "cantec": "Zaleilah",
+      "loc_finala": "12",
+      "puncte_finala": "71",
+      "loc_semifinala": "3",
+      "puncte_semifinala": "120"
+    },
+    {
+      "an": "2013",
+      "gazda": "Malmö",
+      "artist": "Cezar",
+      "cantec": "It's my life",
+      "loc_finala": "13",
+      "puncte_finala": "65",
+      "loc_semifinala": "5",
+      "puncte_semifinala": "83"
+    },
+    {
+      "an": "2014",
+      "gazda": "Copenhaga",
+      "artist": "Paula Seling & Ovi",
+      "cantec": "Miracle",
+      "loc_finala": "12",
+      "puncte_finala": "72",
+      "loc_semifinala": "2",
+      "puncte_semifinala": "125"
+    },
+    {
+      "an": "2015",
+      "gazda": "Viena",
+      "artist": "Voltaj",
+      "cantec": "De la capăt",
+      "loc_finala": "15",
+      "puncte_finala": "35",
+      "loc_semifinala": "5",
+      "puncte_semifinala": "89"
+    },
+    {
+      "an": "2017",
+      "gazda": "Kiev",
+      "artist": "Ilinca & Alex Florea",
+      "cantec": "Yodel it",
+      "loc_finala": "7",
+      "puncte_finala": "282",
+      "loc_semifinala": "6",
+      "puncte_semifinala": "174"
+    },
+    {
+      "an": "2018",
+      "gazda": "Lisabona",
+      "artist": "The Humans",
+      "cantec": "Goodbye",
+      "loc_finala": "Nu s-a calificat",
+      "puncte_finala": "Nu s-a calificat",
+      "loc_semifinala": "11",
+      "puncte_semifinala": "107"
+    },
+    {
+      "an": "2019",
+      "gazda": "Tel Aviv",
+      "artist": "Ester Peony",
+      "cantec": "On A Sunday",
+      "loc_finala": "Nu s-a calificat",
+      "puncte_finala": "Nu s-a calificat",
+      "loc_semifinala": "13",
+      "puncte_semifinala": "71"
+    },
+    {
+      "an": "2020",
+      "gazda": "Rotterdam",
+      "artist": "Roxen",
+      "cantec": "Alcohol You",
+      "loc_finala": "Anulat",
+      "puncte_finala": "Anulat",
+      "loc_semifinala": "Anulat",
+      "puncte_semifinala": "Anulat"
+    },
+    {
+      "an": "2021",
+      "gazda": "Rotterdam",
+      "artist": "Roxen",
+      "cantec": "Amnesia",
+      "loc_finala": "Nu s-a calificat",
+      "puncte_finala": "Nu s-a calificat",
+      "loc_semifinala": "12",
+      "puncte_semifinala": "85"
+    },
+    {
+      "an": "2022",
+      "gazda": "Torino",
+      "artist": "Andrei Ursu",
+      "cantec": "Llámame",
+      "loc_finala": "18",
+      "puncte_finala": "65",
+      "loc_semifinala": "9",
+      "puncte_semifinala": "118"
+    },
+    {
+      "an": "2023",
+      "gazda": "Liverpool",
+      "artist": "Theodor Andrei",
+      "cantec": "D.G.T. (Off and On)",
+      "loc_finala": "Nu s-a calificat",
+      "puncte_finala": "Nu s-a calificat",
+      "loc_semifinala": "15",
+      "puncte_semifinala": "0"
+    },
+    {
+      "an": "2026",
+      "gazda": "Viena",
+      "artist": "Alexandra Căpitănescu",
+      "cantec": "Choke Me",
+      "loc_finala": "3",
+      "puncte_finala": "296",
+      "loc_semifinala": "2",
+      "puncte_semifinala": "234"
+    }
+  ],
+  "meta": {
+    "title": "România la Concursul Muzical Eurovision - Free Download",
+    "description": "Toate participările României la Eurovision: an, oraș gazdă, artist, cântec, loc și puncte în finală/semifinală. Contains 25 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "România la Concursul Muzical Eurovision | ListBase",
+    "seo_description": "Download România la Concursul Muzical Eurovision — 25 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 25 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/România_la_Concursul_Muzical_Eurovision"
+    ]
+  }
+}

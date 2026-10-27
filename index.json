@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-10-27T02:12:21.138Z",
-  "total_datasets": 418,
-  "total_records": 161381,
+  "generated": "2026-10-27T02:12:23.476Z",
+  "total_datasets": 419,
+  "total_records": 161406,
   "categories": [
     {
       "id": "culture",
@@ -39,6 +39,10 @@
     {
       "id": "language",
       "dataset_count": 2
+    },
+    {
+      "id": "music",
+      "dataset_count": 1
     },
     {
       "id": "reference",
@@ -5152,6 +5156,35 @@
         "xlsx": {
           "name": "ro-demonime_RO.xlsx",
           "size": 15815
+        }
+      }
+    },
+    {
+      "id": "ro-eurovision-participari",
+      "name": "România la Concursul Muzical Eurovision",
+      "category": "music",
+      "record_count": 25,
+      "columns": [
+        "an",
+        "gazda",
+        "artist",
+        "cantec",
+        "loc_finala",
+        "puncte_finala",
+        "loc_semifinala",
+        "puncte_semifinala"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/România_la_Concursul_Muzical_Eurovision",
+      "updated": "2026-10",
+      "size": 8248,
+      "files": {
+        "csv": {
+          "name": "ro-eurovision-participari_RO.csv",
+          "size": 2003
+        },
+        "xlsx": {
+          "name": "ro-eurovision-participari_RO.xlsx",
+          "size": 8609
         }
       }
     },
