@@ -1,0 +1,626 @@
+{
+  "id": "ro-expresii-romanesti",
+  "name": "Expresii românești",
+  "title": "Expresii românești",
+  "description": "Expresii și locuțiuni idiomatice românești cu explicația sensului.",
+  "category": "language",
+  "source": "https://ro.wikipedia.org/wiki/Listă_de_expresii_românești",
+  "source_url": "https://ro.wikipedia.org/wiki/Listă_de_expresii_românești",
+  "updated": "2026-10",
+  "record_count": 117,
+  "columns": [
+    {
+      "key": "expresie",
+      "label": "Expresie",
+      "type": "string"
+    },
+    {
+      "key": "sens",
+      "label": "Sens",
+      "type": "string"
+    },
+    {
+      "key": "tip",
+      "label": "Tip",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "expresie": "A trăi ca-n sânul lui Avram",
+      "sens": "a fi în elementul său, a o duce bine",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A freca menta",
+      "sens": "a irosi timpul",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A spăla putina",
+      "sens": "a pleca în grabă, a fugi",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A-și lua nasul la purtare",
+      "sens": "a se obrăznici",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A face felul (cuiva)",
+      "sens": "a ucide pe cineva, a păcăli",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A da apă la moară (cuiva)",
+      "sens": "a încuraja pe cineva într-o acțiune",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A călca pe bec",
+      "sens": "a încălca o regulă",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A se descurca fiecare cum poate",
+      "sens": "a-ți atinge scopul prin mijloace proprii",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A ieși la liman",
+      "sens": "a scăpa dintr-o primejdie; a ieși dintr-o situație dificilă",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A lua de-a gata",
+      "sens": "a eșua în a aprecia o persoană sau lucru, deseori din cauza familiarității; a presupune că un lucru e adevărat, fără a pune la îndoială adevărul",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A o face de oaie",
+      "sens": "a greși",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A vinde castraveți grădinarului",
+      "sens": "a încerca să păcălești pe unul care știe adevărul",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A vinde pielea ursului din pădure",
+      "sens": "a conta pe un lucru înainte de a fi sigur că-l poți obține",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A umbla teleleu (Tănase)",
+      "sens": "a umbla de colo până colo, fără rost",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A fi teleleu Tănase",
+      "sens": "a fi zăpăcit, aiurit, năuc",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A da la rațe",
+      "sens": "a vomita",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A se uita ca vițelul la poarta nouă",
+      "sens": "a fi nedumerit, a nu ști",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A bate șaua ca să priceapă iapa",
+      "sens": "a face o aluzie",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A umbla cu cioara vopsită",
+      "sens": "a minți, a înșela",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A fi prins cu mâța-n sac",
+      "sens": "a fi prins cu minciuna (înșelând)",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A face din rahat bici",
+      "sens": "a încerca să faci ceva imposibil",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A bate apa-n piuă",
+      "sens": "a vorbi fără rost",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A da cu oiștea-n gard",
+      "sens": "a gafa",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A avea ac de cojocul cuiva",
+      "sens": "a se putea răzbuna pe / a plăti o poliță cuiva",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A pune cu botul pe labe",
+      "sens": "a pune pe cineva la respect",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A face cu ou și cu oțet",
+      "sens": "a certa, a dojeni, a critica, a mustra",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A se aduna ca la mort",
+      "sens": "a veni multă lume, a se înghesui",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A se aduna ca la urs",
+      "sens": "a se aduna în număr foarte mare",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A se uita ca la mașini străine",
+      "sens": "a fi uimit!",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A trage nădejde ca ursul de coadă",
+      "sens": "a nădăjdui lucruri imposibil de realizat",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A se trage pe fund",
+      "sens": "a se eschiva.",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A ajunge cuțitul la os",
+      "sens": "a ajunge într-o situație limită",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A duce cu preșul",
+      "sens": "a păcăli, a înșela",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A băga mâna în foc (pentru cineva)",
+      "sens": "a garanta",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A nimerit orbul Brăila",
+      "sens": "a nu fi imposibil de realizat",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A se lupta cu morile de vânt",
+      "sens": "a încerca ceva fără rost</ref>",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A lua boii de la bicicletă",
+      "sens": "a nu-i fi frică de pedeapsă",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A mâna porcii la jir",
+      "sens": "a sforăi",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A trece ca gâsca prin apă",
+      "sens": "a face ceva fără a trage concluzii, fără a învăța",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A pune batista pe țambal",
+      "sens": "a ascunde ceva, a tăinui, a o lăsa mai moale",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A-i pica fisa",
+      "sens": "a-și da seama.",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A da cu mucii în fasole",
+      "sens": "a face o gafă.",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A-i face (cuiva) capul calendar",
+      "sens": "a zăpăci pe cineva",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A veni pe nepusă masă",
+      "sens": "a veni neinvitat",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A face haz de necaz",
+      "sens": "în general despre firea românului",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A se sparge în figuri",
+      "sens": "a se da mare",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A sta de șase",
+      "sens": "a sta de pază",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "S-a dus pe copcă",
+      "sens": "a pierdut totul, a murit",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A da ortul popii",
+      "sens": "a muri",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A da colțul",
+      "sens": "a muri",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A scăpat de dracu' și a dat de tată-su",
+      "sens": "a da peste un rău și mai mare",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "Și-a găsit Bacăul",
+      "sens": "a o păți rău de tot - expresie generată de cuvântul bakó, care înseamnă călău în limba maghiară, expresia este echivalentă cu A dat de dracul",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A-i lipsi o doagă / A-i fi sărit rotița / A fi sărit de pe fix",
+      "sens": "se spune despre cineva considerat nebun/anormal",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A avea caș la gură",
+      "sens": "este încă un copil",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A ajuns / dat în mintea copiilor",
+      "sens": "se spune despre bătrânii care devin senili",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A ajuns la sapă de lemn",
+      "sens": "a ajuns sărac",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A dat apa în casa",
+      "sens": "a da de necaz",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A râde pe sub mustață",
+      "sens": "a se amuza foarte tare dar fără a lăsa să se vadă acest lucru",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A se ascunde după deget",
+      "sens": "a încerca să ascundă un fapt evident",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A aduce noră pe cuptor",
+      "sens": "a se însura, a se căsători",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A fi la gură de cuptor",
+      "sens": "a se găsi în mare primejdie",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A se termina în coadă de pește",
+      "sens": "a avea un sfârșit neconvingător/neclar; a se termina sub așteptările pe care le justifică începutul",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A avea o piatră pe inimă",
+      "sens": "a avea un mare necaz sau frământare",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A-l scoate din pepeni",
+      "sens": "a enerva pe cineva",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "I-a sărit muștarul",
+      "sens": "s-a enervat",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A împroșca cu noroi",
+      "sens": "a aduce acuzații fără bază cu scopul de a compromite reputația cuiva.",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A ieși basma curată",
+      "sens": "a scăpa de învinuiri",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A fi (sau a ajunge) la aman",
+      "sens": "Aman e un cuvânt turcesc, care echivalează cu \"iertare\". Era folosit de turci îndeosebi când erau siliți să se predea într-o bătălie sau când implorau pentru cruțarea vieții. Expresia \"a fi/a ajunge la aman\" a rămas în limba noastră din vremea acelor lupte, desemnând o situație în care te afli la mare strâmtoare, la ananghie. Exemplu: \"Filosof de-aș fi - simțirea-mi ar fi veșnic la aman\" (Eminescu)",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A se duce pe Apa Sâmbetei",
+      "sens": "a dispărea, a se pierde. După o veche credință mistică, Apa Sâmbetei era un râu (Styx) care se vărsa în Infern. Legenda pretinde că apa fierbea toată săptămâna și numai sâmbăta se potolea, de unde i se trage și numele. Expresia semnifică, prin urmare, a se prăpădi.",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A spune brașoave",
+      "sens": "Brașoave înseamnă palavre, minciuni. Cuvântul vine de la Brașov, iar expresia de la negustorii brașoveni de odinioară care, aducându-și marfa la țară, o recomandau cu tot felul de laude exagerate, de baliverne și reclame viclene.",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A trăi ca un bimbașa",
+      "sens": "e o expresie prin care se înțelege \"a trăi în belșug\". Expresia vine de la numele unui faimos căpitan de arnăuți din timpul zaverei (1821), Bimbașa Sava, care se îmbogățise de pe urma hoților la drumul mare, pe care avea misiunea să-i prindă; și făcând averea ușor, își îngăduia să trăiască pe picior mare.",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "A-și pune cenușă pe cap",
+      "sens": "în sensul de pocăință. Expresia vine de la obiceiul evreilor din antichitate care, la o mare durere sau pentru o adâncă remușcare, își sfâșiau, ca Iov, veșmintele, se acopereau cu un sac și-și puneau cenușă pe cap (fiind considerată un semn de doliu). Obiceiul este consemnat în mai multe locuri în Biblie, dându-i-se un sens figurat, de manifestare exterioară a unei dureri. Ea poate fi folosită și la modul ironic, așa cum o întâlnim la Cehov care, într-o scrisoare din anul 1888, scria: \"...dacă bunăvoința pe care o manifest întâmpină neîncredere, nu-mi rămâne decât să-mi pun pe cap și să mă închid într-o tăcere de mormânt \".",
+      "tip": "Expresii verbale"
+    },
+    {
+      "expresie": "coate-goale",
+      "sens": "sărac",
+      "tip": "Expresii adjectivale și adverbiale"
+    },
+    {
+      "expresie": "mațe-fripte",
+      "sens": "sărac lipit - fandosit, mofturos",
+      "tip": "Expresii adjectivale și adverbiale"
+    },
+    {
+      "expresie": "La paștele cailor / La calendele grecești",
+      "sens": "niciodată (romanii aveau calende, grecii antici nu)",
+      "tip": "Expresii adjectivale și adverbiale"
+    },
+    {
+      "expresie": "Când zboară porcul",
+      "sens": "niciodată",
+      "tip": "Expresii adjectivale și adverbiale"
+    },
+    {
+      "expresie": "Colac peste pupăză",
+      "sens": "pe deasupra, după ce că",
+      "tip": "Expresii adjectivale și adverbiale"
+    },
+    {
+      "expresie": "Tichie de mărgăritar îi trebuie chelului",
+      "sens": "la modul: exact asta îți mai lipsea",
+      "tip": "Expresii adjectivale și adverbiale"
+    },
+    {
+      "expresie": "Apa trece, pietrele rămân",
+      "sens": "lucrurile de valoare, cu o baza solida rămân valabile!",
+      "tip": "Expresii adjectivale și adverbiale"
+    },
+    {
+      "expresie": "Ieftin ca braga",
+      "sens": "foarte ieftin.",
+      "tip": "Expresii adjectivale și adverbiale"
+    },
+    {
+      "expresie": "Aștept provincia",
+      "sens": "expresie încetățenită datorită anunțurilor de la mica publicitate din ziarele din epoca comunistă",
+      "tip": "Expresii adjectivale și adverbiale"
+    },
+    {
+      "expresie": "Ura și la gară",
+      "sens": "Gata!",
+      "tip": "Expresii adjectivale și adverbiale"
+    },
+    {
+      "expresie": "Până în pânzele albe",
+      "sens": "a nu renunța, la nesfârșit",
+      "tip": "Expresii adjectivale și adverbiale"
+    },
+    {
+      "expresie": "Greu la deal, cu boii mici și la vale cu juninci",
+      "sens": "inutil fără resursele potrivite",
+      "tip": "Expresii adjectivale și adverbiale"
+    },
+    {
+      "expresie": "Vrei, nu vrei, bea Grigore aghiazmă",
+      "sens": "se spune despre cineva care trebuie să facă ceva împotriva voinței sale",
+      "tip": "Expresii adjectivale și adverbiale"
+    },
+    {
+      "expresie": "Banii nu au miros",
+      "sens": "banii găsiți la cineva nu dovedesc infracțiunea; a face totul pentru bani. origine: împăratul roman Vespasian care pusese taxă pe toaletele publice",
+      "tip": "Expresii adjectivale și adverbiale"
+    },
+    {
+      "expresie": "Ai noștri ca brazii, cu mucii pe piept",
+      "sens": "chiar dacă sunt ai noștri au defecte.",
+      "tip": "Expresii adjectivale și adverbiale"
+    },
+    {
+      "expresie": "Dacă nema potirința, ce mai chichirez gâlceavă! (Anton Pann)",
+      "sens": "expresie țigănească/romanyi",
+      "tip": "Expresii adjectivale și adverbiale"
+    },
+    {
+      "expresie": "Mortul e de vină!",
+      "sens": "a da vina pe cel mort deoarece nu poate mărturisi",
+      "tip": "Expresii adjectivale și adverbiale"
+    },
+    {
+      "expresie": "Aceasta este altă mâncare de pește",
+      "sens": "când este vorba de lucruri foarte diferite sau chiar total diferite",
+      "tip": "Expresii adjectivale și adverbiale"
+    },
+    {
+      "expresie": "Vax albina (ceară de albine)",
+      "sens": "adică o nimica toată, ceva care nu ajută absolut la nimic",
+      "tip": "Expresii adjectivale și adverbiale"
+    },
+    {
+      "expresie": "Așa vrea mușchiul meu / Așa vrea mușchii mei",
+      "sens": "adică fac ce vreau pentru că așa am eu chef",
+      "tip": "Expresii adjectivale și adverbiale"
+    },
+    {
+      "expresie": "Vrem o țară ca afară!",
+      "sens": "frază care exprimă, printre români, dezamăgirea față de propria patrie și, simultan, încrederea într-o alta, sinteză imaginară a Occidentului",
+      "tip": "Expresii adjectivale și adverbiale"
+    },
+    {
+      "expresie": "Din spate liceu, din față muzeu",
+      "sens": "expresie pe jumătate admirativă și pe jumătate peiorativă, expresia este folosită pentru descrierea unei femei care se apropie de senectute, dar care are un trup bine conservat și, privită din spate, pare mai tânără decât este în realitate",
+      "tip": "Expresii adjectivale și adverbiale"
+    },
+    {
+      "expresie": "Tufă de Veneția",
+      "sens": "ignorant, care nu știe nimic",
+      "tip": "Expresii adjectivale și adverbiale"
+    },
+    {
+      "expresie": "Dai un ban, dar știi că nu–l mai ai!",
+      "sens": "este folosită pentru a vorbi despre o pierdere și în același timp pentru a ironiza fraza de mai sus",
+      "tip": "Expresii adjectivale și adverbiale"
+    },
+    {
+      "expresie": "Nu e nici el ușă de biserică",
+      "sens": "se folosește pentru a arăta că persoana nu este perfectă",
+      "tip": "Expresii adjectivale și adverbiale"
+    },
+    {
+      "expresie": "Până la Dumnezeu te mănâncă sfinții",
+      "sens": "greu de a naviga birocrația pt a-și căuta dreptatea, vorba ceea: a încercat să caute dreptatea în justiție",
+      "tip": "Expresii adjectivale și adverbiale"
+    },
+    {
+      "expresie": "În doi timpi și trei mișcări",
+      "sens": "rapid (origine: valsul în 3 mișcări)",
+      "tip": "Expresii adjectivale și adverbiale"
+    },
+    {
+      "expresie": "Nu valorează nici cât o ceapă degerată",
+      "sens": "fără valoare",
+      "tip": "Expresii adjectivale și adverbiale"
+    },
+    {
+      "expresie": "Dus cu pluta",
+      "sens": "nebun",
+      "tip": "Expresii adjectivale și adverbiale"
+    },
+    {
+      "expresie": "Dus cu sorcova",
+      "sens": "nebun",
+      "tip": "Expresii adjectivale și adverbiale"
+    },
+    {
+      "expresie": "Într-o ureche",
+      "sens": "e nebun",
+      "tip": "Expresii adjectivale și adverbiale"
+    },
+    {
+      "expresie": "Puiul învață pe cioară / Învață puiul pe cioară",
+      "sens": "când cineva fără experiență încercă să dea lecții cuiva care se pricepe",
+      "tip": "Expresii adjectivale și adverbiale"
+    },
+    {
+      "expresie": "Toată vaca își linge vițelul",
+      "sens": "toți laudă/ „țin cu” persoanele apropiate/cunoscute. Esența nepotismului",
+      "tip": "Expresii adjectivale și adverbiale"
+    },
+    {
+      "expresie": "Cu tot tacâmul",
+      "sens": "complet, făcut bine, fără să lipsească nimic",
+      "tip": "Expresii adjectivale și adverbiale"
+    },
+    {
+      "expresie": "Cu fruntea sus",
+      "sens": "cu demnitatea nepătată",
+      "tip": "Expresii adjectivale și adverbiale"
+    },
+    {
+      "expresie": "Pleacă-ai noștri, vin ai noștri, noi rămânem tot ca proștii",
+      "sens": "esența politicii, iluzia alegerii democratice atunci când alții fac listele din care putem alege",
+      "tip": "Expresii adjectivale și adverbiale"
+    },
+    {
+      "expresie": "Bani gheață sau bani peșin",
+      "sens": "numerar - cash - bani în mână - Expresia bani gheață vrea să arate că banii sunt puși deoparte -, în bloc, pentru o anume târguială, precum și faptul că sunt plătiți în bloc, toți o dată. Se mai întrebuințează și formula bani peșin, care vine din turcește, adică pregătiți pentru a se face plata sau cumpărătura pe bani gata. Era un cuvânt foarte \"la modă\" pe vremuri, când țările române trebuiau să plătească tributuri, peșcheșuri, bacșișuri grase în bani peșin. Exemplu: \"Bani peșin că-i număra/Și pe tablă-i socotea...\"(colecția G. Dem. Teodorescu)",
+      "tip": "Expresii adjectivale și adverbiale"
+    },
+    {
+      "expresie": "Vacs albina",
+      "sens": "o nimica toată",
+      "tip": "Expresii adjectivale și adverbiale"
+    },
+    {
+      "expresie": "(Parcă) se bat turcii la gura lui",
+      "sens": "se spune despre cineva care mănâncă lacom",
+      "tip": "Expresii referitoare la etnii sau comunități"
+    },
+    {
+      "expresie": "Țigăneală",
+      "sens": "vorbe urâte, insulte",
+      "tip": "Expresii referitoare la etnii sau comunități"
+    },
+    {
+      "expresie": "Acarul Păun",
+      "sens": "persoană învinuită pe nedrept de comiterea unei infracțiuni pentru acoperirea adevăraților vinovați.",
+      "tip": "Expresii substantivale"
+    },
+    {
+      "expresie": "Don Juan / Casanova",
+      "sens": "afemeiat",
+      "tip": "Expresii substantivale"
+    },
+    {
+      "expresie": "Lefter Popescu",
+      "sens": "personaj din Caragiale. Lefter = sărac, scăpătat",
+      "tip": "Expresii substantivale"
+    },
+    {
+      "expresie": "Alte măști, aceeași piesă",
+      "sens": "cunoscut vers din Glossa lui Eminescu. Se folosește când vrem să arătăm că numai oamenii s-au schimbat, dar situația a rămas la fel ca înainte. Expresia e echivalentă cu zicala franceză: \"La même Jeannette, mais autrement coiffée\" (Aceeași Jeannette, dar altfel pieptănată) sau, cum se spune pe la noi, \"Aceeași Mărie, dar cu altă pălărie\"",
+      "tip": "Expresii substantivale"
+    },
+    {
+      "expresie": "Punct",
+      "sens": "ajunge! stop!",
+      "tip": "Exclamații"
+    }
+  ],
+  "meta": {
+    "title": "Expresii românești - Free Download",
+    "description": "Expresii și locuțiuni idiomatice românești cu explicația sensului. Contains 117 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Expresii românești | ListBase",
+    "seo_description": "Download Expresii românești — 117 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 117 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Listă_de_expresii_românești"
+    ]
+  }
+}

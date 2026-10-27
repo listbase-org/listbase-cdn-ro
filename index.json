@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-10-27T02:12:23.476Z",
-  "total_datasets": 419,
-  "total_records": 161406,
+  "generated": "2026-10-27T02:12:26.054Z",
+  "total_datasets": 420,
+  "total_records": 161523,
   "categories": [
     {
       "id": "culture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "music",
@@ -5156,6 +5156,30 @@
         "xlsx": {
           "name": "ro-demonime_RO.xlsx",
           "size": 15815
+        }
+      }
+    },
+    {
+      "id": "ro-expresii-romanesti",
+      "name": "Expresii românești",
+      "category": "language",
+      "record_count": 117,
+      "columns": [
+        "expresie",
+        "sens",
+        "tip"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Listă_de_expresii_românești",
+      "updated": "2026-10",
+      "size": 22486,
+      "files": {
+        "csv": {
+          "name": "ro-expresii-romanesti_RO.csv",
+          "size": 14174
+        },
+        "xlsx": {
+          "name": "ro-expresii-romanesti_RO.xlsx",
+          "size": 13883
         }
       }
     },
