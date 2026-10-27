@@ -1,0 +1,1246 @@
+{
+  "id": "ro-cuvinte-de-origine-daca",
+  "name": "Cuvinte românești de origine dacă",
+  "title": "Cuvinte românești de origine dacă",
+  "description": "Lista cuvintelor românești considerate moștenite probabil din limba dacă (substrat traco-dac), cu surse și etimologie.",
+  "category": "language",
+  "source": "https://ro.wikipedia.org/wiki/Listă_de_cuvinte_românești_moștenite_probabil_din_limba_dacă",
+  "source_url": "https://ro.wikipedia.org/wiki/Listă_de_cuvinte_românești_moștenite_probabil_din_limba_dacă",
+  "updated": "2026-10",
+  "record_count": 241,
+  "columns": [
+    {
+      "key": "cuvant",
+      "label": "Cuvant",
+      "type": "string"
+    },
+    {
+      "key": "surse",
+      "label": "Surse",
+      "type": "string"
+    },
+    {
+      "key": "etimologie_observatii",
+      "label": "Etimologie Observatii",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "cuvant": "abeș",
+      "surse": "Hașdeu, Vraciu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "Abrud",
+      "surse": "Hașdeu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "abur",
+      "surse": "Hașdeu, Russu (albaneză), Vraciu, Brâncuș, Vinereanu",
+      "etimologie_observatii": "PIE *bholo– ‘abur, ceață’, Cf. alb. avull (Gheg), abull (Tosk)"
+    },
+    {
+      "cuvant": "acăța",
+      "surse": "Russu, Vinereanu",
+      "etimologie_observatii": "lat. accapitiare"
+    },
+    {
+      "cuvant": "ademană („dar, mită”)",
+      "surse": "Vraciu;",
+      "etimologie_observatii": "etimon alternativ: magh. adomány"
+    },
+    {
+      "cuvant": "ademeni",
+      "surse": "Hașdeu",
+      "etimologie_observatii": "Cf. magh. adomány."
+    },
+    {
+      "cuvant": "adiia",
+      "surse": "Russu, Vinereanu",
+      "etimologie_observatii": "PIE *dheu"
+    },
+    {
+      "cuvant": "aghiuță",
+      "surse": "Hașdeu",
+      "etimologie_observatii": "Cf. ngr. aghios"
+    },
+    {
+      "cuvant": "aidoma",
+      "surse": "Hașdeu",
+      "etimologie_observatii": "A + sl. vidomŭ „vizibil”."
+    },
+    {
+      "cuvant": "alac",
+      "surse": "Hașdeu",
+      "etimologie_observatii": "Cf. magh. alakor."
+    },
+    {
+      "cuvant": "ală",
+      "surse": "Hașdeu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "aldea",
+      "surse": "Hașdeu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "ameți",
+      "surse": "Russu",
+      "etimologie_observatii": "Probabil lat. * ammattire (< mattus „beat”)."
+    },
+    {
+      "cuvant": "amurg",
+      "surse": "Russu, Vinereanu",
+      "etimologie_observatii": "A + cf. alb. murg"
+    },
+    {
+      "cuvant": "anina",
+      "surse": "Russu, Vinereanu",
+      "etimologie_observatii": "PIE *ar–"
+    },
+    {
+      "cuvant": "aprig",
+      "surse": "Russu, Vinereanu",
+      "etimologie_observatii": "PIE *preg– ‘lacom, aspru, vehement’"
+    },
+    {
+      "cuvant": "argea",
+      "surse": "Hașdeu, Russu (albaneză), Vraciu, Brâncuș",
+      "etimologie_observatii": "PIE *areg– ‘a închide’, cf. alb ragëlia"
+    },
+    {
+      "cuvant": "Argeș",
+      "surse": "Hașdeu, Brâncuș, Vinereanu",
+      "etimologie_observatii": "PIE *ar(e)g’-, arg’- ‘alb, luminos’"
+    },
+    {
+      "cuvant": "arunca",
+      "surse": "Russu",
+      "etimologie_observatii": "Lat. eruncare (a arunca/a înlătura), cf. it arroncare, sp. arrancar"
+    },
+    {
+      "cuvant": "azugă",
+      "surse": "Hașdeu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "baci",
+      "surse": "Hașdeu, Russu (albaneză), Vraciu, Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "baier",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "baligă",
+      "surse": "Russu (albaneză), Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "baltă",
+      "surse": "Russu (albaneză), Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "bară",
+      "surse": "Hașdeu",
+      "etimologie_observatii": "Din fr. barre."
+    },
+    {
+      "cuvant": "Barba-cot",
+      "surse": "Hașdeu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "barză",
+      "surse": "Hașdeu, Russu, Vraciu, Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "bască",
+      "surse": "Hașdeu, Russu (albaneză), Brâncuș",
+      "etimologie_observatii": "fr. basque."
+    },
+    {
+      "cuvant": "batal",
+      "surse": "Hașdeu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "bălaur / balaur",
+      "surse": "Hașdeu, Russu (albaneză), Vraciu, Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "băga",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "băiat",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "bălan",
+      "surse": "Hașdeu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "beregată",
+      "surse": "Russu",
+      "etimologie_observatii": "Apare și în latina populară ` verucata` (de la veruca - indicând aspectul mărului lui Adam) și sârbo-croata ` berikat`."
+    },
+    {
+      "cuvant": "bîr",
+      "surse": "Vraciu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "Bârsei / Bîrsei (și numele Bârsan)",
+      "surse": "Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "boare",
+      "surse": "Russu",
+      "etimologie_observatii": "Lat. boreas. (cf. Boreu, zeul al vânturilor nordice la greci) / Boreas (Βορέας, Boréas; de asemenea Βορρᾶς, Borrhâs) – zeul grec al vântului rece de Nord, al furtunii și al iernii."
+    },
+    {
+      "cuvant": "bordei",
+      "surse": "Hașdeu, Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "bortă",
+      "surse": "Hașdeu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "brad",
+      "surse": "Hașdeu, Russu (albaneză)",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "brîndușă",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "brînză",
+      "surse": "Hașdeu, Russu, Vraciu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "brîu",
+      "surse": "Russu (albaneză)",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "brusture",
+      "surse": "Russu (albaneză)",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "Bucegi",
+      "surse": "Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "bucura",
+      "surse": "Russu (albaneză), Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "buiestru",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "bunget",
+      "surse": "Hașdeu, Russu (albaneză), Vraciu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "burghiu",
+      "surse": "Hașdeu",
+      "etimologie_observatii": "Din tc. burgu, bg., scr. burgija."
+    },
+    {
+      "cuvant": "burlan",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "burtă",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "burtucă",
+      "surse": "Hașdeu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "burtuș",
+      "surse": "Hașdeu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "butuc",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "butură",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "buză",
+      "surse": "Russu (albaneză)",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "caier",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "cață",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "căciulă",
+      "surse": "Russu (albaneză), Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "căpușă",
+      "surse": "Russu (albaneză)",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "căpută",
+      "surse": "Russu (albaneză)",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "cătun",
+      "surse": "Russu (albaneză), Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "cioară",
+      "surse": "Hasdeu, Vraciu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "cioban",
+      "surse": "Hașdeu",
+      "etimologie_observatii": "Din tc. çoban"
+    },
+    {
+      "cuvant": "cioc",
+      "surse": "Hașdeu, Vraciu",
+      "etimologie_observatii": "Onomatopee"
+    },
+    {
+      "cuvant": "ciocîrlie",
+      "surse": "Hașdeu",
+      "etimologie_observatii": "Din \"cioc\""
+    },
+    {
+      "cuvant": "ciomag",
+      "surse": "Hașdeu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "cîrlan",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "cîrlig",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "codru",
+      "surse": "Hașdeu, Vraciu",
+      "etimologie_observatii": "Lat. quodrum"
+    },
+    {
+      "cuvant": "copac",
+      "surse": "Russu (albaneză), Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "copil",
+      "surse": "Russu, Brâncuș",
+      "etimologie_observatii": "Termen cu manifestări proto-slave: kopylъ („bastard”) / ucraineană копил (kopyl) sau копиля (kopylja) / sârbo-croată копиле (kȍpile) / bulgară копил (kópele) - din kopàti („a săpa, a cultiva”). Cuvântul apare în albaneză: kopil și greaca bizantină κόπελος (kópelos), indicând un substrat paleo-balcanic: cochil aromân, copil meglenoromân („bastard”), cupilaș („copil”)."
+    },
+    {
+      "cuvant": "creț",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "cruța",
+      "surse": "Russu (albaneză)",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "cujbă",
+      "surse": "Hașdeu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "culbec",
+      "surse": "Hașdeu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "curma",
+      "surse": "Russu (albaneză)",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "curpăn",
+      "surse": "Russu (albaneză)",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "cursă",
+      "surse": "Russu (albaneză)",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "custură",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "darari",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "daș",
+      "surse": "Russu (albaneză)",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "dărîma",
+      "surse": "Russu (albaneză)",
+      "etimologie_observatii": "Lat. *deramare. (cf. it. diramare, sp./pt. derramar)"
+    },
+    {
+      "cuvant": "deh",
+      "surse": "Hașdeu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "deretica",
+      "surse": "Russu",
+      "etimologie_observatii": "Lat. de-radicare."
+    },
+    {
+      "cuvant": "descăța",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "descurca",
+      "surse": "Russu",
+      "etimologie_observatii": "Probabil lat. *incolicare (< colus „caier, fir”)."
+    },
+    {
+      "cuvant": "desghina",
+      "surse": "Russu",
+      "etimologie_observatii": "Din lat. disglutnare (refăcut după îmbina)."
+    },
+    {
+      "cuvant": "dezbăra",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "dezgauc",
+      "surse": "Hașdeu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "doină",
+      "surse": "Hașdeu, Vraciu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "don",
+      "surse": "Hașdeu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "dop",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "droaie",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "dulău /dunga/",
+      "surse": "Hașdeu, Vraciu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "fărîmă",
+      "surse": "Russu (albaneză)",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "fluier",
+      "surse": "Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "gard",
+      "surse": "Russu (albaneză), Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "gata",
+      "surse": "Russu (albaneză), Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "gălbează",
+      "surse": "Russu (albaneză)",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "genune",
+      "surse": "Hașdeu, Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "gheară",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "ghes",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "ghimpe",
+      "surse": "Russu (albaneză), Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "ghiob",
+      "surse": "Hașdeu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "ghionoaie",
+      "surse": "Russu (albaneză), Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "ghiont",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "ghiuj",
+      "surse": "Hasdeu, Vraciu, Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "gîde",
+      "surse": "Hașdeu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "gîdel",
+      "surse": "Hașdeu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "gordin",
+      "surse": "Hașdeu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "gorun",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "grapă",
+      "surse": "Russu (albaneză), Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "gresie",
+      "surse": "Russu (albaneză), Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "groapă",
+      "surse": "Russu (albaneză), Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "grui",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "grumaz",
+      "surse": "Russu (albaneză), Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "grunz",
+      "surse": "Russu (albaneză)",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "gudura",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "gușă",
+      "surse": "Russu (albaneză), Brâncuș",
+      "etimologie_observatii": "Lat. geusiae."
+    },
+    {
+      "cuvant": "gutui",
+      "surse": "",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "horinca",
+      "surse": "hutanu",
+      "etimologie_observatii": "Din ucr. horilka"
+    },
+    {
+      "cuvant": "hojma",
+      "surse": "Hașdeu, Vraciu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "iazmă",
+      "surse": "Hașdeu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "iele",
+      "surse": "Hașdeu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "încurca",
+      "surse": "Russu",
+      "etimologie_observatii": "Probabil lat. *incolicare (< colus „caier, fir”)."
+    },
+    {
+      "cuvant": "înghina",
+      "surse": "Russu",
+      "etimologie_observatii": "Probabil lat. *imbinare."
+    },
+    {
+      "cuvant": "îngurzi",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "înseila",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "întrema",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "jilț / jielț („pîrîu”)",
+      "surse": "Hașdeu, Vraciu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "jumătate",
+      "surse": "Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "leagăn",
+      "surse": "Russu",
+      "etimologie_observatii": "Probabil lat. *liginare (< ligare „a lega”)."
+    },
+    {
+      "cuvant": "lepăda",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "lespede",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "leșina",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "mal",
+      "surse": "Hașdeu, Russu (albaneză), Vraciu, Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "maldac",
+      "surse": "Hașdeu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "mare",
+      "surse": "Brâncuș",
+      "etimologie_observatii": "Probabil lat. mas, maris."
+    },
+    {
+      "cuvant": "mazăre",
+      "surse": "Hașdeu, Russu (albaneză), Vraciu, Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "măceș",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "mădări",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "măgar",
+      "surse": "Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "măgură",
+      "surse": "Russu (albaneză), Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "mălai",
+      "surse": "Hașdeu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "mămăligă",
+      "surse": "Hașdeu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "mărcat",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "mărar",
+      "surse": "Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "mătură",
+      "surse": "Russu (albaneză)",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "Mehadia",
+      "surse": "Hașdeu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "melc",
+      "surse": "Hașdeu, Russu, Vraciu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "mieru",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "mire",
+      "surse": "Hașdeu, Russu, Vraciu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "mistreț",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "mișca",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "mînz",
+      "surse": "Russu (albaneză), Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "morman",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "mosoc",
+      "surse": "Hașdeu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "moș",
+      "surse": "Russu (albaneză), Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "moț",
+      "surse": "Hașdeu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "mugure",
+      "surse": "Russu (albaneză), Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "munună",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "murg",
+      "surse": "Russu (albaneză), Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "mușat",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "năpîrcă",
+      "surse": "Russu (albaneză), Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "năsărîmbă",
+      "surse": "Hașdeu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "nițel",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "noian",
+      "surse": "Russu, Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "ortoman",
+      "surse": "Hașdeu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "păstaie",
+      "surse": "Russu (albaneză)",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "păstra",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "pînză",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "pîrîu",
+      "surse": "Russu (albaneză), Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "prunc",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "pupăză",
+      "surse": "Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "pururea",
+      "surse": "Russu (albaneză)",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "rață",
+      "surse": "Hașdeu, Vraciu, Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "ravac",
+      "surse": "Hașdeu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "răbda",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "reazem",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "ridica",
+      "surse": "Russu",
+      "etimologie_observatii": "Lat. eradicare „a dezrădăcina”"
+    },
+    {
+      "cuvant": "rîmfă",
+      "surse": "Hașdeu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "rînză",
+      "surse": "Hașdeu, Russu (albaneză), Vraciu, Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "sarbăd",
+      "surse": "Russu (albaneză), Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "Sarmizegetusa",
+      "surse": "Hașdeu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "scăpăra",
+      "surse": "Russu (albaneză), Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "scrum",
+      "surse": "Russu (albaneză), Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "scula",
+      "surse": "Russu (albaneză)",
+      "etimologie_observatii": "Probabil lat. *excubulare."
+    },
+    {
+      "cuvant": "scurma",
+      "surse": "Russu",
+      "etimologie_observatii": "Probabil lat. excorrimare."
+    },
+    {
+      "cuvant": "sîmbure",
+      "surse": "Russu (albaneză), Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "sîmvea",
+      "surse": "Hașdeu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "spînz",
+      "surse": "Russu (albaneză)",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "stăpîn",
+      "surse": "Hașdeu, Vraciu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "stărnut",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "stejar",
+      "surse": "Hașdeu, Vraciu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "steregie",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "sterp",
+      "surse": "Russu (albaneză)",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "stingher",
+      "surse": "Sorin",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "stînă",
+      "surse": "Hașdeu, Vraciu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "străghiată",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "strepede",
+      "surse": "Russu (albaneză)",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "strugure",
+      "surse": "Russu, Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "strungă",
+      "surse": "Russu (albaneză), Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "sugruma",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "sugușa",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "șale",
+      "surse": "Russu (albaneză)",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "șiră",
+      "surse": "Hașdeu, Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "șopîrlă",
+      "surse": "Hașdeu, Russu (albaneză), Vraciu, Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "șoric",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "șut",
+      "surse": "Russu (albaneză)",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "tare",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "traistă",
+      "surse": "Hașdeu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "tulei",
+      "surse": "Hașdeu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "țap",
+      "surse": "Russu (albaneză), Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "țarc",
+      "surse": "Russu (albaneză)",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "țarină",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "țiței",
+      "surse": "",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "țăruș",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "țundră",
+      "surse": "Hașdeu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "țurcă",
+      "surse": "Hașdeu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "uita",
+      "surse": "Russu",
+      "etimologie_observatii": "Lat. * oblitare (< oblitus)."
+    },
+    {
+      "cuvant": "undrea",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "urca",
+      "surse": "Russu",
+      "etimologie_observatii": "Probabil lat. *oricare (= oriri)."
+    },
+    {
+      "cuvant": "urcior",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "urdă",
+      "surse": "Hașdeu, Russu, Vraciu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "urdina",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "urdoare",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "vatră",
+      "surse": "Hașdeu, Russu (albaneză), Vraciu, Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "vătăma",
+      "surse": "Russu",
+      "etimologie_observatii": "Lat. victimare."
+    },
+    {
+      "cuvant": "vătui",
+      "surse": "Russu (albaneză)",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "viezure",
+      "surse": "Russu (albaneză), Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "viscol",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "zară",
+      "surse": "Russu, Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "zăr",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "zburda",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "zestre",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "zgardă",
+      "surse": "Russu (albaneză), Brâncuș",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "zgîria",
+      "surse": "Russu (albaneză?)",
+      "etimologie_observatii": "Lat. *scaberare (< scaber)."
+    },
+    {
+      "cuvant": "zgîrma",
+      "surse": "Russu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "zimbru",
+      "surse": "Hașdeu, Vraciu",
+      "etimologie_observatii": ""
+    },
+    {
+      "cuvant": "zîrnă",
+      "surse": "Hașdeu",
+      "etimologie_observatii": ""
+    }
+  ],
+  "meta": {
+    "title": "Cuvinte românești de origine dacă - Free Download",
+    "description": "Lista cuvintelor românești considerate moștenite probabil din limba dacă (substrat traco-dac), cu surse și etimologie. Contains 241 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Cuvinte românești de origine dacă | ListBase",
+    "seo_description": "Download Cuvinte românești de origine dacă — 241 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 241 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Listă_de_cuvinte_românești_moștenite_probabil_din_limba_dacă"
+    ]
+  }
+}

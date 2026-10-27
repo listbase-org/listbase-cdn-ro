@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-10-27T02:12:12.272Z",
-  "total_datasets": 415,
-  "total_records": 160633,
+  "generated": "2026-10-27T02:12:14.817Z",
+  "total_datasets": 416,
+  "total_records": 160874,
   "categories": [
     {
       "id": "culture",
@@ -31,6 +31,10 @@
     {
       "id": "geography",
       "dataset_count": 93
+    },
+    {
+      "id": "language",
+      "dataset_count": 1
     },
     {
       "id": "reference",
@@ -5072,6 +5076,30 @@
         "xlsx": {
           "name": "ro-vrancea-orase_RO.xlsx",
           "size": 7348
+        }
+      }
+    },
+    {
+      "id": "ro-cuvinte-de-origine-daca",
+      "name": "Cuvinte românești de origine dacă",
+      "category": "language",
+      "record_count": 241,
+      "columns": [
+        "cuvant",
+        "surse",
+        "etimologie_observatii"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Listă_de_cuvinte_românești_moștenite_probabil_din_limba_dacă",
+      "updated": "2026-10",
+      "size": 29072,
+      "files": {
+        "csv": {
+          "name": "ro-cuvinte-de-origine-daca_RO.csv",
+          "size": 8912
+        },
+        "xlsx": {
+          "name": "ro-cuvinte-de-origine-daca_RO.xlsx",
+          "size": 12915
         }
       }
     },
