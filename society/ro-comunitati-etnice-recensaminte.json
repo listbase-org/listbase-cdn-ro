@@ -1,0 +1,178 @@
+{
+  "id": "ro-comunitati-etnice-recensaminte",
+  "name": "Comunitățile etnice din România la recensăminte (2002–2021)",
+  "title": "Comunitățile etnice din România la recensăminte (2002–2021)",
+  "description": "Numărul persoanelor pe etnii în România la recensămintele din 2002, 2011 și 2021.",
+  "category": "society",
+  "source": "https://ro.wikipedia.org/wiki/Comunități_etnice_în_România",
+  "source_url": "https://ro.wikipedia.org/wiki/Comunități_etnice_în_România",
+  "updated": "2026-10",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "ethnicity",
+      "label": "Ethnicity",
+      "type": "string"
+    },
+    {
+      "key": "census_2002",
+      "label": "Census 2002",
+      "type": "number"
+    },
+    {
+      "key": "census_2011",
+      "label": "Census 2011",
+      "type": "number"
+    },
+    {
+      "key": "census_2021",
+      "label": "Census 2021",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "ethnicity": "Romi",
+      "census_2002": 535140,
+      "census_2011": 621573,
+      "census_2021": 569477
+    },
+    {
+      "ethnicity": "Maghiari",
+      "census_2002": 1431807,
+      "census_2011": 1227623,
+      "census_2021": 1002151
+    },
+    {
+      "ethnicity": "Ucraineni",
+      "census_2002": 61098,
+      "census_2011": 50920,
+      "census_2021": 45835
+    },
+    {
+      "ethnicity": "Germani",
+      "census_2002": 59764,
+      "census_2011": 36042,
+      "census_2021": 22907
+    },
+    {
+      "ethnicity": "Ruși-lipoveni",
+      "census_2002": 35791,
+      "census_2011": 23487,
+      "census_2021": 19394
+    },
+    {
+      "ethnicity": "Turci",
+      "census_2002": 32098,
+      "census_2011": 27698,
+      "census_2021": 20945
+    },
+    {
+      "ethnicity": "Tătari",
+      "census_2002": 23935,
+      "census_2011": 20282,
+      "census_2021": 18156
+    },
+    {
+      "ethnicity": "Sârbi",
+      "census_2002": 22561,
+      "census_2011": 18076,
+      "census_2021": "< 16.868"
+    },
+    {
+      "ethnicity": "Slovaci",
+      "census_2002": 17226,
+      "census_2011": 13654,
+      "census_2021": 10232
+    },
+    {
+      "ethnicity": "Bulgari",
+      "census_2002": 8025,
+      "census_2011": 7336,
+      "census_2021": 5975
+    },
+    {
+      "ethnicity": "Croați",
+      "census_2002": 6807,
+      "census_2011": 5408,
+      "census_2021": "< 16.868"
+    },
+    {
+      "ethnicity": "Greci",
+      "census_2002": 6472,
+      "census_2011": 3668,
+      "census_2021": 2086
+    },
+    {
+      "ethnicity": "Evrei",
+      "census_2002": 5785,
+      "census_2011": 3271,
+      "census_2021": 2378
+    },
+    {
+      "ethnicity": "Cehi",
+      "census_2002": 3941,
+      "census_2011": 2477,
+      "census_2021": 1576
+    },
+    {
+      "ethnicity": "Polonezi",
+      "census_2002": 3559,
+      "census_2011": 2543,
+      "census_2021": 2137
+    },
+    {
+      "ethnicity": "Italieni",
+      "census_2002": 3288,
+      "census_2011": 3203,
+      "census_2021": "–"
+    },
+    {
+      "ethnicity": "Chinezi",
+      "census_2002": 2243,
+      "census_2011": 2017,
+      "census_2021": "–"
+    },
+    {
+      "ethnicity": "Armeni",
+      "census_2002": 1780,
+      "census_2011": 1361,
+      "census_2021": 1213
+    },
+    {
+      "ethnicity": "Ceangăi",
+      "census_2002": 1266,
+      "census_2011": 1536,
+      "census_2021": "–"
+    },
+    {
+      "ethnicity": "Macedoneni",
+      "census_2002": 731,
+      "census_2011": 1264,
+      "census_2021": "–"
+    },
+    {
+      "ethnicity": "Altă etnie",
+      "census_2002": 16119,
+      "census_2011": 18524,
+      "census_2021": "< 26.117"
+    },
+    {
+      "ethnicity": "Nedeclarată",
+      "census_2002": 1941,
+      "census_2011": 1236810,
+      "census_2021": 2484926
+    }
+  ],
+  "meta": {
+    "title": "Comunitățile etnice din România la recensăminte (2002–2021) - Free Download",
+    "description": "Numărul persoanelor pe etnii în România la recensămintele din 2002, 2011 și 2021. Contains 22 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Comunitățile etnice din România la recensăminte (2002–2021) | ListBase",
+    "seo_description": "Download Comunitățile etnice din România la recensăminte (2002–2021) — 22 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 22 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Comunități_etnice_în_România"
+    ]
+  }
+}

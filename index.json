@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-10-28T02:18:29.130Z",
-  "total_datasets": 442,
-  "total_records": 164539,
+  "generated": "2026-10-28T02:18:31.639Z",
+  "total_datasets": 443,
+  "total_records": 164561,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "sports",
@@ -12341,6 +12341,31 @@
         "xlsx": {
           "name": "ro-membrii-academiei-romane_RO.xlsx",
           "size": 51362
+        }
+      }
+    },
+    {
+      "id": "ro-comunitati-etnice-recensaminte",
+      "name": "Comunitățile etnice din România la recensăminte (2002–2021)",
+      "category": "society",
+      "record_count": 22,
+      "columns": [
+        "ethnicity",
+        "census_2002",
+        "census_2011",
+        "census_2021"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Comunități_etnice_în_România",
+      "updated": "2026-10",
+      "size": 4493,
+      "files": {
+        "csv": {
+          "name": "ro-comunitati-etnice-recensaminte_RO.csv",
+          "size": 799
+        },
+        "xlsx": {
+          "name": "ro-comunitati-etnice-recensaminte_RO.xlsx",
+          "size": 7494
         }
       }
     },
