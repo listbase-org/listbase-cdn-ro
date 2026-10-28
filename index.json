@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-10-28T02:18:34.027Z",
-  "total_datasets": 444,
-  "total_records": 164586,
+  "generated": "2026-10-28T02:18:36.437Z",
+  "total_datasets": 445,
+  "total_records": 164690,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "language",
@@ -5296,6 +5296,34 @@
         "xlsx": {
           "name": "ro-domnitori-tara-romaneasca_RO.xlsx",
           "size": 11309
+        }
+      }
+    },
+    {
+      "id": "ro-primarii-bucurestiului",
+      "name": "Primarii Bucureștiului",
+      "category": "history",
+      "record_count": 104,
+      "columns": [
+        "no",
+        "name",
+        "occupation",
+        "notes",
+        "term_start",
+        "term_end",
+        "party"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Lista_primarilor_Bucureștiului",
+      "updated": "2026-10",
+      "size": 27027,
+      "files": {
+        "csv": {
+          "name": "ro-primarii-bucurestiului_RO.csv",
+          "size": 11507
+        },
+        "xlsx": {
+          "name": "ro-primarii-bucurestiului_RO.xlsx",
+          "size": 12900
         }
       }
     },

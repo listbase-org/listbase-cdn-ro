@@ -1,0 +1,997 @@
+{
+  "id": "ro-primarii-bucurestiului",
+  "name": "Primarii Bucureștiului",
+  "title": "Primarii Bucureștiului",
+  "description": "Lista primarilor municipiului București din 1864 până în prezent, cu ocupația, mandatul și partidul.",
+  "category": "history",
+  "source": "https://ro.wikipedia.org/wiki/Lista_primarilor_Bucureștiului",
+  "source_url": "https://ro.wikipedia.org/wiki/Lista_primarilor_Bucureștiului",
+  "updated": "2026-10",
+  "record_count": 104,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "occupation",
+      "label": "Occupation",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    },
+    {
+      "key": "term_start",
+      "label": "Term Start",
+      "type": "string"
+    },
+    {
+      "key": "term_end",
+      "label": "Term End",
+      "type": "string"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": "1 (1)",
+      "name": "Barbu Vlădoianu (1812-1876)",
+      "occupation": "general, politician",
+      "notes": "primul mandat",
+      "term_start": "7 august 1864",
+      "term_end": "14 octombrie 1865",
+      "party": "Militar"
+    },
+    {
+      "no": "2",
+      "name": "Constantin I. Iliescu (?-?)",
+      "occupation": "politician",
+      "notes": "",
+      "term_start": "15 octombrie 1865",
+      "term_end": "martie 1866",
+      "party": ""
+    },
+    {
+      "no": "3",
+      "name": "Dimitrie C. Brătianu (1818-1892)",
+      "occupation": "politician, diplomat",
+      "notes": "",
+      "term_start": "martie 1866",
+      "term_end": "28 februarie 1867",
+      "party": "PNL"
+    },
+    {
+      "no": "4",
+      "name": "Panait Costache (?-?)",
+      "occupation": "politician",
+      "notes": "",
+      "term_start": "1 martie 1867",
+      "term_end": "noiembrie 1868",
+      "party": ""
+    },
+    {
+      "no": "5",
+      "name": "Panait Iatropol (1832-1876)",
+      "occupation": "medic ginecolog",
+      "notes": "",
+      "term_start": "noiembrie 1868",
+      "term_end": "mai 1869",
+      "party": ""
+    },
+    {
+      "no": "6",
+      "name": "Gheorghe Grigore Cantacuzino (1832-1913)",
+      "occupation": "politician, jurist, moșier",
+      "notes": "",
+      "term_start": "mai 1869",
+      "term_end": "31 ianuarie 1870",
+      "party": "PC"
+    },
+    {
+      "no": "7",
+      "name": "Eftimie Diamandescu (1819-1894)",
+      "occupation": "politician, moșier",
+      "notes": "",
+      "term_start": "1 februarie 1870",
+      "term_end": "30 septembrie 1870",
+      "party": ""
+    },
+    {
+      "no": "8",
+      "name": "Christian Tell (1808-1884)",
+      "occupation": "general, politician",
+      "notes": "",
+      "term_start": "12 noiembrie 1870",
+      "term_end": "1 ianuarie 1871",
+      "party": "PC"
+    },
+    {
+      "no": "9 (1)",
+      "name": "C. A. Rosetti (1816-1885)",
+      "occupation": "politician, publicist",
+      "notes": "primul mandat",
+      "term_start": "1 ianuarie 1871",
+      "term_end": "mai 1871",
+      "party": "PNL"
+    },
+    {
+      "no": "10",
+      "name": "Scarlat Crețulescu (1810-1873)",
+      "occupation": "politician",
+      "notes": "",
+      "term_start": "18 mai 1871",
+      "term_end": "27 decembrie 1872",
+      "party": ""
+    },
+    {
+      "no": "1 (2)",
+      "name": "Barbu Vlădoianu (1812-1876)",
+      "occupation": "general, politician",
+      "notes": "al doilea mandat",
+      "term_start": "decembrie 1872",
+      "term_end": "31 mai 1873",
+      "party": ""
+    },
+    {
+      "no": "11",
+      "name": "Constantin N. Brăiloiu (1809-1889)",
+      "occupation": "politician",
+      "notes": "",
+      "term_start": "1 iunie 1873",
+      "term_end": "30 septembrie 1873",
+      "party": "PC"
+    },
+    {
+      "no": "12",
+      "name": "George Manu (1833-1911)",
+      "occupation": "general, politician",
+      "notes": "",
+      "term_start": "4 octombrie 1873",
+      "term_end": "25 martie 1877",
+      "party": "PC"
+    },
+    {
+      "no": "9 (2)",
+      "name": "C. A. Rosetti (1816-1885)",
+      "occupation": "politician, publicist",
+      "notes": "al doilea mandat",
+      "term_start": "2 aprilie 1877",
+      "term_end": "august 1877",
+      "party": "PNL"
+    },
+    {
+      "no": "–",
+      "name": "Procopie I. Dumitrescu (1845-1921)",
+      "occupation": "jurist, politician",
+      "notes": "ajutor de primar",
+      "term_start": "august 1877",
+      "term_end": "noiembrie 1878",
+      "party": "PNL"
+    },
+    {
+      "no": "–",
+      "name": "Constantin Bosianu (1815-1882)",
+      "occupation": "jurist, politician",
+      "notes": "interimar",
+      "term_start": "decembrie 1878",
+      "term_end": "decembrie 1878",
+      "party": "PNL"
+    },
+    {
+      "no": "13",
+      "name": "Dimitrie Cariagdi (1815-1893)",
+      "occupation": "politician",
+      "notes": "",
+      "term_start": "21 decembrie 1878",
+      "term_end": "24 noiembrie 1883",
+      "party": "PNL"
+    },
+    {
+      "no": "–",
+      "name": "Michail Török (?-?)",
+      "occupation": "politician",
+      "notes": "interimar",
+      "term_start": "24 noiembrie 1883",
+      "term_end": "30 ianuarie 1884",
+      "party": ""
+    },
+    {
+      "no": "15",
+      "name": "Nicolae Fleva (1840-1920)",
+      "occupation": "politician",
+      "notes": "demisionat",
+      "term_start": "31 ianuarie 1884",
+      "term_end": "aprilie 1886",
+      "party": "PC"
+    },
+    {
+      "no": "–",
+      "name": "Grigore Cerchez (1850-1927)",
+      "occupation": "arhitect, profesor",
+      "notes": "interimar",
+      "term_start": "aprilie 1886",
+      "term_end": "mai 1886",
+      "party": ""
+    },
+    {
+      "no": "16",
+      "name": "Nicolae Manolescu (?-1886)",
+      "occupation": "politician",
+      "notes": "",
+      "term_start": "iunie 1886",
+      "term_end": "31 iulie 1886",
+      "party": ""
+    },
+    {
+      "no": "–",
+      "name": "Grigore Cerchez (1850-1927)",
+      "occupation": "arhitect, profesor",
+      "notes": "interimar",
+      "term_start": "1 august 1886",
+      "term_end": "21 noiembrie 1886",
+      "party": ""
+    },
+    {
+      "no": "17",
+      "name": "Ion I. Câmpineanu (1841-1888)",
+      "occupation": "politician",
+      "notes": "",
+      "term_start": "21 noiembrie 1886",
+      "term_end": "aprilie 1888",
+      "party": "PNL"
+    },
+    {
+      "no": "18",
+      "name": "Pake Em. Protopopescu (1845-1893)",
+      "occupation": "politician, jurist, profesor, doctor în drept,",
+      "notes": "",
+      "term_start": "aprilie 1888",
+      "term_end": "decembrie 1891",
+      "party": "PNL"
+    },
+    {
+      "no": "19",
+      "name": "Dimitrie Orbescu (?-?)",
+      "occupation": "politician",
+      "notes": "",
+      "term_start": "decembrie 1891",
+      "term_end": "iunie 1892",
+      "party": ""
+    },
+    {
+      "no": "20",
+      "name": "Grigore Triandafil (1840-1907)",
+      "occupation": "magistrat, doctor în drept, avocat, politician",
+      "notes": "",
+      "term_start": "iunie 1892",
+      "term_end": "31 ianuarie 1893",
+      "party": "PC"
+    },
+    {
+      "no": "21 (1)",
+      "name": "Nicolae Filipescu (1862-1916)",
+      "occupation": "politician, publicist, moșier",
+      "notes": "primul mandat",
+      "term_start": "9 februarie 1893",
+      "term_end": "7 octombrie 1895",
+      "party": "PC"
+    },
+    {
+      "no": "22",
+      "name": "Petre S. Aurelian (1833-1909)",
+      "occupation": "politician, economist, agronom",
+      "notes": "",
+      "term_start": "octombrie 1895",
+      "term_end": "31 decembrie 1895",
+      "party": "PNL"
+    },
+    {
+      "no": "23 (1)",
+      "name": "Constantin F. Robescu (1839-1920)",
+      "occupation": "politician, inginer agronom",
+      "notes": "primul mandat",
+      "term_start": "1 ianuarie 1896",
+      "term_end": "aprilie 1899",
+      "party": "PNL"
+    },
+    {
+      "no": "21 (2)",
+      "name": "Nicolae Filipescu (1862-1916)",
+      "occupation": "politician, publicist",
+      "notes": "al doilea",
+      "term_start": "aprilie 1899",
+      "term_end": "iunie 1899",
+      "party": "PC"
+    },
+    {
+      "no": "24",
+      "name": "Barbu Ștefănescu Delavrancea (1858-1918)",
+      "occupation": "scriitor, orator și avocat",
+      "notes": "",
+      "term_start": "iunie 1899",
+      "term_end": "februarie 1901",
+      "party": ""
+    },
+    {
+      "no": "25",
+      "name": "Emil Costinescu (1844-1921)",
+      "occupation": "economist și politician",
+      "notes": "",
+      "term_start": "februarie 1901",
+      "term_end": "aprilie 1901",
+      "party": ""
+    },
+    {
+      "no": "26 (1)",
+      "name": "Procopie I. Dumitrescu (1845-1921)",
+      "occupation": "jurist, politician",
+      "notes": "primul mandat",
+      "term_start": "aprilie 1901",
+      "term_end": "noiembrie 1902",
+      "party": "PNL"
+    },
+    {
+      "no": "23 (2)",
+      "name": "Constantin F. Robescu (1839-1920)",
+      "occupation": "politician, inginer agronom",
+      "notes": "al doilea mandat",
+      "term_start": "noiembrie 1902",
+      "term_end": "decembrie 1904",
+      "party": "PNL"
+    },
+    {
+      "no": "27",
+      "name": "Mihai G. Cantacuzino (1867-1928)",
+      "occupation": "politician",
+      "notes": "",
+      "term_start": "decembrie 1904",
+      "term_end": "martie 1907",
+      "party": "PC"
+    },
+    {
+      "no": "28",
+      "name": "C. Costescu Comăneanu (1841-1927)",
+      "occupation": "politician, moșier",
+      "notes": "",
+      "term_start": "aprilie 1907",
+      "term_end": "iunie 1907",
+      "party": "PNL"
+    },
+    {
+      "no": "29",
+      "name": "Vintilă I. Brătianu (1867-1930)",
+      "occupation": "politician",
+      "notes": "",
+      "term_start": "iunie 1907",
+      "term_end": "februarie 1910",
+      "party": "PNL"
+    },
+    {
+      "no": "26 (2)",
+      "name": "Procopie I. Dumitrescu (1845-1921)",
+      "occupation": "jurist, politician",
+      "notes": "al doilea mandat",
+      "term_start": "februarie 1910",
+      "term_end": "ianuarie 1911",
+      "party": "PNL"
+    },
+    {
+      "no": "30",
+      "name": "Dimitrie Dobrescu (1852-1934)",
+      "occupation": "jurist, politician",
+      "notes": "",
+      "term_start": "ianuarie 1911",
+      "term_end": "octombrie 1912",
+      "party": "PC"
+    },
+    {
+      "no": "31",
+      "name": "Constantin I. Istrati (1850-1918)",
+      "occupation": "politician, chimist, medic",
+      "notes": "",
+      "term_start": "octombrie 1912",
+      "term_end": "martie 1913",
+      "party": "PC"
+    },
+    {
+      "no": "32",
+      "name": "Grigore Gh. Cantacuzino (1873-1930)",
+      "occupation": "moșier, politician",
+      "notes": "",
+      "term_start": "martie 1913",
+      "term_end": "decembrie 1913",
+      "party": "PC"
+    },
+    {
+      "no": "33",
+      "name": "Ion Gh. Saita (1862-1914)",
+      "occupation": "avocat, jurist, politician",
+      "notes": "",
+      "term_start": "ianuarie 1914",
+      "term_end": "martie 1914",
+      "party": "PNL"
+    },
+    {
+      "no": "34 (1)",
+      "name": "Emil Petrescu (1880-1938)",
+      "occupation": "jurist, politician",
+      "notes": "primul mandat",
+      "term_start": "martie 1914",
+      "term_end": "noiembrie 1916",
+      "party": "PNL"
+    },
+    {
+      "no": "35",
+      "name": "Victor Verzea (?-?)",
+      "occupation": "colonel",
+      "notes": "",
+      "term_start": "noiembrie 1916",
+      "term_end": "iunie 1917",
+      "party": ""
+    },
+    {
+      "no": "36",
+      "name": "Dem. Bragadiru (?-?)",
+      "occupation": "politician",
+      "notes": "",
+      "term_start": "iunie 1917",
+      "term_end": "august 1917",
+      "party": ""
+    },
+    {
+      "no": "37",
+      "name": "Ion Dobrovici (?-?)",
+      "occupation": "politician",
+      "notes": "",
+      "term_start": "august 1917",
+      "term_end": "noiembrie 1918",
+      "party": ""
+    },
+    {
+      "no": "34 (2)",
+      "name": "Emil Petrescu (1858-1938)",
+      "occupation": "jurist, politician",
+      "notes": "al doilea mandat",
+      "term_start": "noiembrie 1918",
+      "term_end": "decembrie 1918",
+      "party": "PNL"
+    },
+    {
+      "no": "38",
+      "name": "Constantin Hălăuceanu (?-?)",
+      "occupation": "politician",
+      "notes": "",
+      "term_start": "decembrie 1918",
+      "term_end": "septembrie 1919",
+      "party": ""
+    },
+    {
+      "no": "39",
+      "name": "Pandele Tarușanu (?-?)",
+      "occupation": "inginer, politician",
+      "notes": "",
+      "term_start": "octombrie 1919",
+      "term_end": "ianuarie 1920",
+      "party": ""
+    },
+    {
+      "no": "40",
+      "name": "Gheorghe Gheorghian (?-?)",
+      "occupation": "medic, politician",
+      "notes": "",
+      "term_start": "ianuarie 1920",
+      "term_end": "februarie 1922",
+      "party": ""
+    },
+    {
+      "no": "41",
+      "name": "Matei Gh. Corbescu (1876-1923)",
+      "occupation": "publicist, ziarist, politician doctor în drept",
+      "notes": "",
+      "term_start": "februarie 1922",
+      "term_end": "decembrie 1922",
+      "party": "PNL"
+    },
+    {
+      "no": "42",
+      "name": "Lucian Skupiewski (1876-1949)",
+      "occupation": "medic, politician",
+      "notes": "",
+      "term_start": "4 februarie 1923",
+      "term_end": "aprilie 1923",
+      "party": ""
+    },
+    {
+      "no": "43 (1)",
+      "name": "Ioan E. Costinescu (1871-1951)",
+      "occupation": "medic, politician",
+      "notes": "primul mandat",
+      "term_start": "aprilie 1923",
+      "term_end": "aprilie 1926",
+      "party": "PNL"
+    },
+    {
+      "no": "44",
+      "name": "Anibal Teodorescu (1881-1971)",
+      "occupation": "jurist, politician",
+      "notes": "",
+      "term_start": "aprilie 1926",
+      "term_end": "iulie 1927",
+      "party": ""
+    },
+    {
+      "no": "43 (2)",
+      "name": "Ioan E. Costinescu (1871-1951)",
+      "occupation": "medic, politician",
+      "notes": "al doilea mandat",
+      "term_start": "iulie 1927",
+      "term_end": "noiembrie 1928",
+      "party": "PNL"
+    },
+    {
+      "no": "–",
+      "name": "Gheorghe Gheorghian (?-?)",
+      "occupation": "medic, politician",
+      "notes": "interimar",
+      "term_start": "decembrie 1928",
+      "term_end": "ianuarie 1929",
+      "party": ""
+    },
+    {
+      "no": "45",
+      "name": "Dem I. Dobrescu (1869-1948)",
+      "occupation": "politician, doctor în drept",
+      "notes": "",
+      "term_start": "februarie 1929",
+      "term_end": "ianuarie 1934",
+      "party": "PNȚ"
+    },
+    {
+      "no": "46",
+      "name": "Alexandru Gh. Donescu (1875-1942)",
+      "occupation": "politician",
+      "notes": "",
+      "term_start": "martie 1934",
+      "term_end": "5 ianuarie 1938",
+      "party": ""
+    },
+    {
+      "no": "47",
+      "name": "Constantin C. Brăiesku (1879-?)",
+      "occupation": "politician",
+      "notes": "",
+      "term_start": "ianuarie 1938",
+      "term_end": "februarie 1938",
+      "party": ""
+    },
+    {
+      "no": "48",
+      "name": "Iulian Peter (?-?)",
+      "occupation": "politician",
+      "notes": "",
+      "term_start": "februarie 1938",
+      "term_end": "septembrie 1938",
+      "party": ""
+    },
+    {
+      "no": "49 (1)",
+      "name": "Victor Dombrovski (1887-1969)",
+      "occupation": "general, politician",
+      "notes": "primul mandat",
+      "term_start": "septembrie 1938",
+      "term_end": "septembrie 1940",
+      "party": "Militar"
+    },
+    {
+      "no": "50",
+      "name": "Gheorghe I. Vântu (?-?)",
+      "occupation": "politician",
+      "notes": "",
+      "term_start": "septembrie 1940",
+      "term_end": "februarie 1941",
+      "party": ""
+    },
+    {
+      "no": "51",
+      "name": "Rodrig Modreanu (?-1950)",
+      "occupation": "general",
+      "notes": "",
+      "term_start": "februarie 1941",
+      "term_end": "decembrie 1941",
+      "party": "Militar"
+    },
+    {
+      "no": "51",
+      "name": "Constantin Florescu (?-?)",
+      "occupation": "general",
+      "notes": "",
+      "term_start": "29 noiembrie 1941",
+      "term_end": "octombrie 1942",
+      "party": "Militar"
+    },
+    {
+      "no": "52",
+      "name": "Ioan Rășcanu (1878-1952)",
+      "occupation": "general, politician",
+      "notes": "",
+      "term_start": "octombrie 1942",
+      "term_end": "august 1944",
+      "party": "Militar"
+    },
+    {
+      "no": "49 (2)",
+      "name": "Victor Dombrovski (1887-1969)",
+      "occupation": "general, politician",
+      "notes": "al doilea mandat",
+      "term_start": "august 1944",
+      "term_end": "iunie 1948",
+      "party": "Militar"
+    },
+    {
+      "no": "53",
+      "name": "Nicolae Pârvulescu (?-?)",
+      "occupation": "general, politician",
+      "notes": "",
+      "term_start": "august 1948",
+      "term_end": "februarie 1949",
+      "party": "Militar"
+    },
+    {
+      "no": "54",
+      "name": "Nicolae Voiculescu (?-?)",
+      "occupation": "politician",
+      "notes": "",
+      "term_start": "februarie 1949",
+      "term_end": "decembrie 1950",
+      "party": "PMR"
+    },
+    {
+      "no": "Președinți ai Sfatului Popular",
+      "name": "Președinți ai Sfatului Popular",
+      "occupation": "Președinți ai Sfatului Popular",
+      "notes": "Președinți ai Sfatului Popular",
+      "term_start": "Președinți ai Sfatului Popular",
+      "term_end": "Președinți ai Sfatului Popular",
+      "party": "Președinți ai Sfatului Popular"
+    },
+    {
+      "no": "55",
+      "name": "Gheorghe Roman (1913-1997)",
+      "occupation": "politician",
+      "notes": "",
+      "term_start": "decembrie 1950",
+      "term_end": "decembrie 1951",
+      "party": "PMR"
+    },
+    {
+      "no": "56",
+      "name": "Anton Tatu Jianu (1913-1977)",
+      "occupation": "politician, jurist",
+      "notes": "",
+      "term_start": "ianuarie 1952",
+      "term_end": "iunie 1952",
+      "party": "PMR"
+    },
+    {
+      "no": "57",
+      "name": "Jean Ilie (?-?)",
+      "occupation": "politician",
+      "notes": "",
+      "term_start": "iulie 1952",
+      "term_end": "martie 1953",
+      "party": "PMR"
+    },
+    {
+      "no": "58",
+      "name": "Crăciun Blidaru (?-?)",
+      "occupation": "politician",
+      "notes": "",
+      "term_start": "aprilie 1953",
+      "term_end": "ianuarie 1954",
+      "party": "PMR"
+    },
+    {
+      "no": "59",
+      "name": "Gheorghe Vidrașcu (?-?)",
+      "occupation": "politician",
+      "notes": "",
+      "term_start": "ianuarie 1954",
+      "term_end": "februarie 1955",
+      "party": "PMR"
+    },
+    {
+      "no": "60",
+      "name": "Ștefan Bălan (1913-1991)",
+      "occupation": "politician, profesor, inginer doctor docent",
+      "notes": "",
+      "term_start": "martie 1955",
+      "term_end": "ianuarie 1956",
+      "party": "PMR"
+    },
+    {
+      "no": "61",
+      "name": "Anton Vlădoiu (?-?)",
+      "occupation": "politician",
+      "notes": "",
+      "term_start": "februarie 1956",
+      "term_end": "martie 1958",
+      "party": "PMR"
+    },
+    {
+      "no": "62",
+      "name": "Dumitru Diaconescu",
+      "occupation": "politician",
+      "notes": "",
+      "term_start": "martie 1958",
+      "term_end": "aprilie 1962",
+      "party": "PMR"
+    },
+    {
+      "no": "63",
+      "name": "Ion Cosma (1923-sec. XX)",
+      "occupation": "politician",
+      "notes": "",
+      "term_start": "aprilie 1962",
+      "term_end": "februarie 1968",
+      "party": "PMR , PCR"
+    },
+    {
+      "no": "Președinți ai Consiliului Popular",
+      "name": "Președinți ai Consiliului Popular",
+      "occupation": "Președinți ai Consiliului Popular",
+      "notes": "Președinți ai Consiliului Popular",
+      "term_start": "Președinți ai Consiliului Popular",
+      "term_end": "Președinți ai Consiliului Popular",
+      "party": "Președinți ai Consiliului Popular"
+    },
+    {
+      "no": "64",
+      "name": "Dumitru Popa (1925-)",
+      "occupation": "politician",
+      "notes": "",
+      "term_start": "februarie 1968",
+      "term_end": "24 aprilie 1972",
+      "party": "PCR"
+    },
+    {
+      "no": "65",
+      "name": "Gheorghe Cioară (1924-1993)",
+      "occupation": "inginer construcții hidrotehnice, politician",
+      "notes": "",
+      "term_start": "24 aprilie 1972",
+      "term_end": "19 iunie 1976",
+      "party": "PCR"
+    },
+    {
+      "no": "66",
+      "name": "Ion Dincă (1928-2007)",
+      "occupation": "general de armată, politician",
+      "notes": "",
+      "term_start": "19 iunie 1976",
+      "term_end": "1 februarie 1979",
+      "party": "PCR"
+    },
+    {
+      "no": "67",
+      "name": "Gheorghe Pană (1927-)",
+      "occupation": "politician",
+      "notes": "",
+      "term_start": "1 februarie 1979",
+      "term_end": "16 decembrie 1985",
+      "party": "PCR"
+    },
+    {
+      "no": "68",
+      "name": "Constantin Olteanu (1928-2018)",
+      "occupation": "general, politician",
+      "notes": "",
+      "term_start": "16 decembrie 1985",
+      "term_end": "iunie 1988",
+      "party": "PCR"
+    },
+    {
+      "no": "69",
+      "name": "Radu Constantin (?-)",
+      "occupation": "politician",
+      "notes": "",
+      "term_start": "iunie 1988",
+      "term_end": "7 februarie 1989",
+      "party": "PCR"
+    },
+    {
+      "no": "70",
+      "name": "Barbu Petrescu (1932-)",
+      "occupation": "inginer mecanic, politician",
+      "notes": "",
+      "term_start": "7 februarie 1989",
+      "term_end": "22 decembrie 1989",
+      "party": "PCR"
+    },
+    {
+      "no": "Primari Generali ai Municipiului București",
+      "name": "Primari Generali ai Municipiului București",
+      "occupation": "Primari Generali ai Municipiului București",
+      "notes": "Primari Generali ai Municipiului București",
+      "term_start": "Primari Generali ai Municipiului București",
+      "term_end": "Primari Generali ai Municipiului București",
+      "party": "Primari Generali ai Municipiului București"
+    },
+    {
+      "no": "71",
+      "name": "Dan Predescu (1949-)",
+      "occupation": "medic, cercetător, politician",
+      "notes": "demis",
+      "term_start": "20 ianuarie 1990",
+      "term_end": "23 iulie 1990",
+      "party": "FSN"
+    },
+    {
+      "no": "72",
+      "name": "Ștefan-Constantin Ciurel (1932-)",
+      "occupation": "inginer constructor, politician",
+      "notes": "demisionat",
+      "term_start": "24 iulie 1990",
+      "term_end": "16 noiembrie 1990",
+      "party": "FSN"
+    },
+    {
+      "no": "73",
+      "name": "Nicolae Viorel Oproiu (1940-)",
+      "occupation": "inginer de instalații, politician",
+      "notes": "demis",
+      "term_start": "18 noiembrie 1990",
+      "term_end": "2 septembrie 1991",
+      "party": "FSN"
+    },
+    {
+      "no": "74",
+      "name": "Doru Viorel Pană (?-)",
+      "occupation": "politician",
+      "notes": "",
+      "term_start": "3 septembrie 1991",
+      "term_end": "23 februarie 1992",
+      "party": "FSN"
+    },
+    {
+      "no": "75",
+      "name": "Crin Halaicu (1952-)",
+      "occupation": "inginer constructor, politician",
+      "notes": "",
+      "term_start": "23 februarie 1992",
+      "term_end": "16 iunie 1996",
+      "party": "PNL"
+    },
+    {
+      "no": "76",
+      "name": "Victor Ciorbea (1954-)",
+      "occupation": "jurist, avocat, politician",
+      "notes": "demisionat (numit premier )",
+      "term_start": "16 iunie 1996",
+      "term_end": "12 decembrie 1996",
+      "party": "PNȚCD"
+    },
+    {
+      "no": "77",
+      "name": "Viorel Lis (1944-)",
+      "occupation": "politician",
+      "notes": "interimar până la 13 nov. 1998",
+      "term_start": "13 decembrie 1996",
+      "term_end": "26 iunie 2000",
+      "party": "PNȚCD"
+    },
+    {
+      "no": "78",
+      "name": "Traian Băsescu (1951-)",
+      "occupation": "comandant de navă, politician",
+      "notes": "2 mandate; ( președinte din 21 dec. 2004)",
+      "term_start": "26 iunie 2000",
+      "term_end": "21 decembrie 2004",
+      "party": "PD"
+    },
+    {
+      "no": "–",
+      "name": "Răzvan Gheorghe Murgeanu (1959-)",
+      "occupation": "inginer constructor, politician",
+      "notes": "interimar",
+      "term_start": "23 decembrie 2004",
+      "term_end": "3 aprilie 2005",
+      "party": "PD"
+    },
+    {
+      "no": "79",
+      "name": "Adriean Videanu (1962-)",
+      "occupation": "inginer, om de afaceri, politician",
+      "notes": "",
+      "term_start": "3 aprilie 2005",
+      "term_end": "18 iunie 2008",
+      "party": "PDL"
+    },
+    {
+      "no": "80",
+      "name": "Sorin Oprescu (1951-)",
+      "occupation": "medic chirurg, politician",
+      "notes": "2 mandate; suspendat",
+      "term_start": "18 iunie 2008",
+      "term_end": "15 septembrie 2015",
+      "party": "Independent (susținut de PSD )"
+    },
+    {
+      "no": "–",
+      "name": "Ștefănel Dan Marin (1976-)",
+      "occupation": "analist politic, politician",
+      "notes": "interimar, demis",
+      "term_start": "15 septembrie 2015",
+      "term_end": "24 noiembrie 2015",
+      "party": "UNPR"
+    },
+    {
+      "no": "–",
+      "name": "Ioan-Răzvan Sava (1969-)",
+      "occupation": "energetician, politician",
+      "notes": "interimar",
+      "term_start": "24 noiembrie 2015",
+      "term_end": "5 iunie 2016",
+      "party": "PNL"
+    },
+    {
+      "no": "81",
+      "name": "Gabriela Firea (1972-)",
+      "occupation": "jurnalistă, om de afaceri, politiciană",
+      "notes": "",
+      "term_start": "5 iunie 2016",
+      "term_end": "29 octombrie 2020",
+      "party": "PSD"
+    },
+    {
+      "no": "82",
+      "name": "Nicușor Dan (1969-)",
+      "occupation": "matematician, activist, politician",
+      "notes": "2 mandate;( președinte din 26 mai 2025)",
+      "term_start": "29 octombrie 2020",
+      "term_end": "23 mai 2025",
+      "party": "Independent (susținut de USR și PNL )"
+    },
+    {
+      "no": "–",
+      "name": "Stelian Bujduveanu (1989-)",
+      "occupation": "politician",
+      "notes": "interimar",
+      "term_start": "23 mai 2025",
+      "term_end": "19 decembrie 2025",
+      "party": "PNL"
+    },
+    {
+      "no": "83",
+      "name": "Ciprian Ciucu (1978-)",
+      "occupation": "politician",
+      "notes": "",
+      "term_start": "19 decembrie 2025",
+      "term_end": "prezent",
+      "party": "PNL"
+    }
+  ],
+  "meta": {
+    "title": "Primarii Bucureștiului - Free Download",
+    "description": "Lista primarilor municipiului București din 1864 până în prezent, cu ocupația, mandatul și partidul. Contains 104 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Primarii Bucureștiului | ListBase",
+    "seo_description": "Download Primarii Bucureștiului — 104 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 104 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Lista_primarilor_Bucureștiului"
+    ]
+  }
+}
