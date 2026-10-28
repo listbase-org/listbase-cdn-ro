@@ -1,0 +1,124 @@
+{
+  "id": "ro-presedintii-romaniei",
+  "name": "Președinții României",
+  "title": "Președinții României",
+  "description": "Lista președinților României din 1974 până în prezent, cu partidul, datele și durata mandatului.",
+  "category": "politics",
+  "source": "https://ro.wikipedia.org/wiki/Lista_președinților_României",
+  "source_url": "https://ro.wikipedia.org/wiki/Lista_președinților_României",
+  "updated": "2026-10",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "term_start",
+      "label": "Term Start",
+      "type": "string"
+    },
+    {
+      "key": "term_end",
+      "label": "Term End",
+      "type": "string"
+    },
+    {
+      "key": "term_length",
+      "label": "Term Length",
+      "type": "string"
+    },
+    {
+      "key": "summary",
+      "label": "Summary",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": "1",
+      "name": "Nicolae Ceaușescu (1918-1989)",
+      "party": "PCR",
+      "term_start": "28 martie 1974",
+      "term_end": "22 decembrie 1989",
+      "term_length": "15 ani și 249 de zile",
+      "summary": "Funcția de președinte al României a fost înființată pentru a întări poziția lui Nicolae Ceaușescu în cadrul PCR. Momentul este considerat a fi punctul de început al dictaturii sale."
+    },
+    {
+      "no": "2",
+      "name": "Ion Iliescu (1930-2025 )",
+      "party": "FSN",
+      "term_start": "20 mai 1990",
+      "term_end": "29 noiembrie 1996",
+      "term_length": "6 ani și 193 de zile",
+      "summary": "Ion Iliescu a preluat puterea în timpul Revoluției Române din 1989. În perioada 22 decembrie 1989 - 20 mai 1990 a fost președintele al Consiliului Frontului Salvării Naționale și al Consiliului Provizoriu de Uniune Națională. A fost apoi ales pentru un mandat de 2 ani cu peste 85% din voturi (singurele alegeri universale pentru Președinte într-un singur tur)."
+    },
+    {
+      "no": "3",
+      "name": "Emil Constantinescu (n. 1939)",
+      "party": "CDR",
+      "term_start": "29 noiembrie 1996",
+      "term_end": "20 decembrie 2000",
+      "term_length": "4 ani și 21 de zile",
+      "summary": "Constantinescu a fost candidatul câștigător al coaliției de dreapta Convenția Democrată Română (CDR), care a câștigat alegerile generale din 1996, pavând astfel drumul pentru primul transfer pașnic de putere din România post-1989. În timpul mandatului său de președinte, Constantinescu s-a confruntat cu implementarea lentă a procesului de modernizare și privatizare, care a fost împiedicat de birocrația excesivă."
+    },
+    {
+      "no": "(2)",
+      "name": "Ion Iliescu (1930-2025 )",
+      "party": "PDSR",
+      "term_start": "20 decembrie 2000",
+      "term_end": "20 decembrie 2004",
+      "term_length": "4 ani",
+      "summary": "Iliescu a fost ales pentru al doilea său mandat de la adoptarea Constituției din 1991 (și al treilea de la Revoluție) în anul 2000. În martie 2004, la finalul ultimului său mandat, România a aderat la Organizația Tratatului Atlanticului de Nord (NATO), ca parte a celui de-al doilea val important de extindere în Europa Centrală și de Est."
+    },
+    {
+      "no": "4",
+      "name": "Traian Băsescu (n. 1951)",
+      "party": "Alianța DA",
+      "term_start": "20 decembrie 2004",
+      "term_end": "21 decembrie 2014",
+      "term_length": "10 ani și o zi",
+      "summary": "Ales cu sprijinul Alianței Dreptate și Adevăr (DA), orientată spre dreapta, Băsescu a câștigat președinția în 2004 cu un program care viza combaterea corupției politice. În timpul primului său mandat, România a aderat la Uniunea Europeană. În ciuda opoziției din partea partidelor de stânga (în special PSD și PRM), el a condamnat public regimul comunist. Pe plan internațional, Băsescu a apropiat România de SUA, UE și NATO, menținând o politică externă pro- occidentală pe durata ambelor sale mandate. A fost suspendat de două ori, în 2007 și 2012. Ambele referendumuri de demitere au fost invalidate de Curtea Constituțională din cauza prezenței scăzute la vot, ceea ce i-a permis revenirea în funcție."
+    },
+    {
+      "no": "5",
+      "name": "Klaus Iohannis (n. 1959)",
+      "party": "PNL",
+      "term_start": "21 decembrie 2014",
+      "term_end": "12 februarie 2025",
+      "term_length": "10 ani și 53 de zile",
+      "summary": "Ales cu sprijinul Alianței Creștin-Liberale (ACL), Iohannis a câștigat în turul al doilea al alegerilor prezidențiale din 2014 împotriva fostului aliat din USL Victor Ponta. În timpul campaniei prezidențiale, platforma sa s-a concentrat pe lupta anticorupție, independența justiției și relaxarea fiscală. De asemenea, el este primul președinte al României provenit dintr-o minoritate etnică, fiind de origine germană ( sas). În alegerile din 2019 a învins-o categoric pe candidata PSD Viorica Dăncilă în ambele tururi."
+    },
+    {
+      "no": "6",
+      "name": "Nicușor Dan (n. 1969)",
+      "party": "Independent",
+      "term_start": "26 mai 2025",
+      "term_end": "prezent",
+      "term_length": "1 an, 155 zile (până în data curentă)",
+      "summary": "La scurt timp după anularea alegerilor din 2024, Dan și-a anunțat candidatura la alegerile din 2025. A fost susținut de o coaliție de partide liberale, de centru-dreapta și pro-Europene. Campania sa a avut un caracter pro-occidental și anti-corupție, contrastând cu poziția naționalistă și eurosceptică a contracandidatului său, George Simion. Deși Simion a câștigat primul tur, Dan a câștigat în turul al doilea pe fondul unei mobilizări a electoratului pro-European."
+    }
+  ],
+  "meta": {
+    "title": "Președinții României - Free Download",
+    "description": "Lista președinților României din 1974 până în prezent, cu partidul, datele și durata mandatului. Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Președinții României | ListBase",
+    "seo_description": "Download Președinții României — 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Lista_președinților_României"
+    ]
+  }
+}

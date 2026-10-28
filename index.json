@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-10-28T02:18:26.699Z",
-  "total_datasets": 441,
-  "total_records": 164532,
+  "generated": "2026-10-28T02:18:29.130Z",
+  "total_datasets": 442,
+  "total_records": 164539,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "reference",
@@ -5552,6 +5552,34 @@
         "xlsx": {
           "name": "ro-partide-politice_RO.xlsx",
           "size": 11774
+        }
+      }
+    },
+    {
+      "id": "ro-presedintii-romaniei",
+      "name": "Președinții României",
+      "category": "politics",
+      "record_count": 7,
+      "columns": [
+        "no",
+        "name",
+        "party",
+        "term_start",
+        "term_end",
+        "term_length",
+        "summary"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Lista_președinților_României",
+      "updated": "2026-10",
+      "size": 6554,
+      "files": {
+        "csv": {
+          "name": "ro-presedintii-romaniei_RO.csv",
+          "size": 3926
+        },
+        "xlsx": {
+          "name": "ro-presedintii-romaniei_RO.xlsx",
+          "size": 8786
         }
       }
     },
