@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-10-28T02:18:23.539Z",
-  "total_datasets": 440,
-  "total_records": 164515,
+  "generated": "2026-10-28T02:18:26.699Z",
+  "total_datasets": 441,
+  "total_records": 164532,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "tech",
@@ -12406,6 +12406,31 @@
         "xlsx": {
           "name": "ro-stadioane-fotbal_RO.xlsx",
           "size": 9962
+        }
+      }
+    },
+    {
+      "id": "ro-superliga-campioane-pe-cluburi",
+      "name": "Campioanele SuperLigii României pe cluburi",
+      "category": "sports",
+      "record_count": 17,
+      "columns": [
+        "club",
+        "titles",
+        "runner_up",
+        "winning_years"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Superliga_României",
+      "updated": "2026-10",
+      "size": 4055,
+      "files": {
+        "csv": {
+          "name": "ro-superliga-campioane-pe-cluburi_RO.csv",
+          "size": 1039
+        },
+        "xlsx": {
+          "name": "ro-superliga-campioane-pe-cluburi_RO.xlsx",
+          "size": 7478
         }
       }
     },
