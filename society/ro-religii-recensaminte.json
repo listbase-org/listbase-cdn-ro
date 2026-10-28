@@ -1,0 +1,256 @@
+{
+  "id": "ro-religii-recensaminte",
+  "name": "Religiile din România la recensăminte (1992–2021)",
+  "title": "Religiile din România la recensăminte (1992–2021)",
+  "description": "Numărul adepților cultelor religioase din România la recensămintele din 1992, 2002, 2011 și 2021.",
+  "category": "society",
+  "source": "https://ro.wikipedia.org/wiki/Religia_în_România",
+  "source_url": "https://ro.wikipedia.org/wiki/Religia_în_România",
+  "updated": "2026-10",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "string"
+    },
+    {
+      "key": "religion",
+      "label": "Religion",
+      "type": "string"
+    },
+    {
+      "key": "y1992",
+      "label": "Y1992",
+      "type": "number"
+    },
+    {
+      "key": "y2002",
+      "label": "Y2002",
+      "type": "number"
+    },
+    {
+      "key": "y2011",
+      "label": "Y2011",
+      "type": "number"
+    },
+    {
+      "key": "y2021",
+      "label": "Y2021",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "group": "Culte creștine tradiționale",
+      "religion": "Biserica Ortodoxă Română",
+      "y1992": 19802389,
+      "y2002": 18817975,
+      "y2011": 16307004,
+      "y2021": 14025064
+    },
+    {
+      "group": "Culte creștine tradiționale",
+      "religion": "Biserica Romano-Catolică",
+      "y1992": 1161942,
+      "y2002": 1026429,
+      "y2011": 870774,
+      "y2021": 741504
+    },
+    {
+      "group": "Culte creștine tradiționale",
+      "religion": "Biserica Greco-Catolică",
+      "y1992": 223327,
+      "y2002": 191556,
+      "y2011": 150593,
+      "y2021": 115457
+    },
+    {
+      "group": "Culte creștine tradiționale",
+      "religion": "Biserica Ortodoxă de Stil Vechi",
+      "y1992": 32228,
+      "y2002": "–",
+      "y2011": "–",
+      "y2021": ""
+    },
+    {
+      "group": "Culte creștine tradiționale",
+      "religion": "Biserica Ortodoxă Rusă de Rit Vechi",
+      "y1992": 28141,
+      "y2002": 38147,
+      "y2011": 32558,
+      "y2021": 28362
+    },
+    {
+      "group": "Culte creștine tradiționale",
+      "religion": "Biserica Ortodoxă Sârbă",
+      "y1992": "–",
+      "y2002": "–",
+      "y2011": 14385,
+      "y2021": 17059
+    },
+    {
+      "group": "Culte creștine tradiționale",
+      "religion": "Biserica Apostolică Armeană",
+      "y1992": 2023,
+      "y2002": 775,
+      "y2011": 393,
+      "y2021": 806
+    },
+    {
+      "group": "Culte creștine tradiționale",
+      "religion": "Biserica Reformată",
+      "y1992": 802454,
+      "y2002": 701077,
+      "y2011": 600932,
+      "y2021": 495433
+    },
+    {
+      "group": "Culte creștine tradiționale",
+      "religion": "Biserica Unitariană",
+      "y1992": 76708,
+      "y2002": 66944,
+      "y2011": 57686,
+      "y2021": 47992
+    },
+    {
+      "group": "Culte creștine tradiționale",
+      "religion": "Biserica Evanghelică de Confesiune Augustană",
+      "y1992": 39119,
+      "y2002": 8716,
+      "y2011": 5399,
+      "y2021": 3739
+    },
+    {
+      "group": "Culte creștine tradiționale",
+      "religion": "Biserica Evanghelică-Luterană",
+      "y1992": 21221,
+      "y2002": 27112,
+      "y2011": 20168,
+      "y2021": 20026
+    },
+    {
+      "group": "Culte creștine neoprotestante",
+      "religion": "Uniunea Penticostală",
+      "y1992": 220824,
+      "y2002": 324462,
+      "y2011": 362314,
+      "y2021": 404475
+    },
+    {
+      "group": "Culte creștine neoprotestante",
+      "religion": "Uniunea Baptistă",
+      "y1992": 109462,
+      "y2002": 126639,
+      "y2011": 112850,
+      "y2021": 103213
+    },
+    {
+      "group": "Culte creștine neoprotestante",
+      "religion": "Biserica Adventistă de Ziua a Șaptea",
+      "y1992": 77546,
+      "y2002": 93670,
+      "y2011": 80944,
+      "y2021": 65861
+    },
+    {
+      "group": "Culte creștine neoprotestante",
+      "religion": "Biserica Creștină după Evanghelie",
+      "y1992": 49963,
+      "y2002": 44476,
+      "y2011": 42495,
+      "y2021": 36374
+    },
+    {
+      "group": "Culte creștine neoprotestante",
+      "religion": "Biserica Evanghelică Română",
+      "y1992": "–",
+      "y2002": 18178,
+      "y2011": 15514,
+      "y2021": 7690
+    },
+    {
+      "group": "Culte creștine neoprotestante",
+      "religion": "Organizația Religioasă „Martorii lui Iehova”",
+      "y1992": "–",
+      "y2002": "–",
+      "y2011": 49820,
+      "y2021": 43340
+    },
+    {
+      "group": "Altele",
+      "religion": "Cultul Musulman",
+      "y1992": 55928,
+      "y2002": 67257,
+      "y2011": 64337,
+      "y2021": 58347
+    },
+    {
+      "group": "Altele",
+      "religion": "Cultul Mozaic",
+      "y1992": 9670,
+      "y2002": 6057,
+      "y2011": 3519,
+      "y2021": 2708
+    },
+    {
+      "group": "Altele",
+      "religion": "Altă religie",
+      "y1992": 56129,
+      "y2002": 89196,
+      "y2011": 30557,
+      "y2021": 23956
+    },
+    {
+      "group": "Altele",
+      "religion": "Fără religie",
+      "y1992": 26314,
+      "y2002": 12825,
+      "y2011": 18917,
+      "y2021": 71430
+    },
+    {
+      "group": "Altele",
+      "religion": "Atei",
+      "y1992": 10331,
+      "y2002": 8524,
+      "y2011": 20743,
+      "y2021": 57229
+    },
+    {
+      "group": "Altele",
+      "religion": "Nedeclarată",
+      "y1992": 8139,
+      "y2002": 11734,
+      "y2011": "–",
+      "y2021": ""
+    },
+    {
+      "group": "Altele",
+      "religion": "Indisponibil",
+      "y1992": "–",
+      "y2002": "–",
+      "y2011": 1259739,
+      "y2021": 2658165
+    },
+    {
+      "group": "Altele",
+      "religion": "Agnosticism",
+      "y1992": "",
+      "y2002": "",
+      "y2011": "",
+      "y2021": 25485
+    }
+  ],
+  "meta": {
+    "title": "Religiile din România la recensăminte (1992–2021) - Free Download",
+    "description": "Numărul adepților cultelor religioase din România la recensămintele din 1992, 2002, 2011 și 2021. Contains 25 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Religiile din România la recensăminte (1992–2021) | ListBase",
+    "seo_description": "Download Religiile din România la recensăminte (1992–2021) — 25 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 25 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Religia_în_România"
+    ]
+  }
+}

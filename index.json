@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-10-28T02:18:31.639Z",
-  "total_datasets": 443,
-  "total_records": 164561,
+  "generated": "2026-10-28T02:18:34.027Z",
+  "total_datasets": 444,
+  "total_records": 164586,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "sports",
@@ -12397,6 +12397,33 @@
         "xlsx": {
           "name": "ro-judete-populatie-recensaminte_RO.xlsx",
           "size": 10085
+        }
+      }
+    },
+    {
+      "id": "ro-religii-recensaminte",
+      "name": "Religiile din România la recensăminte (1992–2021)",
+      "category": "society",
+      "record_count": 25,
+      "columns": [
+        "group",
+        "religion",
+        "y1992",
+        "y2002",
+        "y2011",
+        "y2021"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Religia_în_România",
+      "updated": "2026-10",
+      "size": 6444,
+      "files": {
+        "csv": {
+          "name": "ro-religii-recensaminte_RO.csv",
+          "size": 2128
+        },
+        "xlsx": {
+          "name": "ro-religii-recensaminte_RO.xlsx",
+          "size": 7992
         }
       }
     },
