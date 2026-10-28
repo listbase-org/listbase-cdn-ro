@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-10-28T02:18:36.437Z",
-  "total_datasets": 445,
-  "total_records": 164690,
+  "generated": "2026-10-28T02:18:38.792Z",
+  "total_datasets": 446,
+  "total_records": 164727,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "education",
@@ -237,6 +237,33 @@
         "xlsx": {
           "name": "ro-patrimoniul-mondial-unesco_RO.xlsx",
           "size": 9443
+        }
+      }
+    },
+    {
+      "id": "ro-guvernatorii-bnr",
+      "name": "Guvernatorii Băncii Naționale a României",
+      "category": "economy",
+      "record_count": 37,
+      "columns": [
+        "no",
+        "name",
+        "term_start",
+        "term_end",
+        "term_length",
+        "title"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Guvernatorul_Băncii_Naționale_a_României",
+      "updated": "2026-10",
+      "size": 10976,
+      "files": {
+        "csv": {
+          "name": "ro-guvernatorii-bnr_RO.csv",
+          "size": 4873
+        },
+        "xlsx": {
+          "name": "ro-guvernatorii-bnr_RO.xlsx",
+          "size": 8796
         }
       }
     },

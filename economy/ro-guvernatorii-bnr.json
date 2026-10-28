@@ -1,0 +1,352 @@
+{
+  "id": "ro-guvernatorii-bnr",
+  "name": "Guvernatorii Băncii Naționale a României",
+  "title": "Guvernatorii Băncii Naționale a României",
+  "description": "Lista guvernatorilor Băncii Naționale a României din 1880 până în prezent, cu perioada mandatului.",
+  "category": "economy",
+  "source": "https://ro.wikipedia.org/wiki/Guvernatorul_Băncii_Naționale_a_României",
+  "source_url": "https://ro.wikipedia.org/wiki/Guvernatorul_Băncii_Naționale_a_României",
+  "updated": "2026-10",
+  "record_count": 37,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "term_start",
+      "label": "Term Start",
+      "type": "string"
+    },
+    {
+      "key": "term_end",
+      "label": "Term End",
+      "type": "string"
+    },
+    {
+      "key": "term_length",
+      "label": "Term Length",
+      "type": "string"
+    },
+    {
+      "key": "title",
+      "label": "Title",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": "1",
+      "name": "Ion I. Câmpineanu",
+      "term_start": "15 iulie 1880",
+      "term_end": "1 decembrie 1882",
+      "term_length": "2 ani, 139 zile",
+      "title": "Guvernator al Băncii Naționale a României"
+    },
+    {
+      "no": "2",
+      "name": "Anton Carp",
+      "term_start": "1 decembrie 1882",
+      "term_end": "27 februarie 1888",
+      "term_length": "5 ani, 88 zile",
+      "title": "Guvernator al Băncii Naționale a României"
+    },
+    {
+      "no": "(1)",
+      "name": "Ion I. Câmpineanu",
+      "term_start": "28 februarie 1888",
+      "term_end": "15 noiembrie 1890",
+      "term_length": "2 ani, 260 zile",
+      "title": "Guvernator al Băncii Naționale a României"
+    },
+    {
+      "no": "3",
+      "name": "Theodor Rosetti",
+      "term_start": "19 noiembrie 1890",
+      "term_end": "21 noiembrie 1895",
+      "term_length": "5 ani, 2 zile",
+      "title": "Guvernator al Băncii Naționale a României"
+    },
+    {
+      "no": "(2)",
+      "name": "Anton Carp",
+      "term_start": "21 noiembrie 1895",
+      "term_end": "17 noiembrie 1899",
+      "term_length": "3 ani, 361 zile",
+      "title": "Guvernator al Băncii Naționale a României"
+    },
+    {
+      "no": "4",
+      "name": "Mihail C. Șuțu",
+      "term_start": "18 noiembrie 1899",
+      "term_end": "31 decembrie 1904",
+      "term_length": "5 ani, 43 zile",
+      "title": "Guvernator al Băncii Naționale a României"
+    },
+    {
+      "no": "(2)",
+      "name": "Anton Carp",
+      "term_start": "1 ianuarie 1905",
+      "term_end": "12 martie 1907",
+      "term_length": "2 ani, 70 zile",
+      "title": "Guvernator al Băncii Naționale a României"
+    },
+    {
+      "no": "5",
+      "name": "Theodor Ștefănescu",
+      "term_start": "12 martie 1907",
+      "term_end": "1 noiembrie 1909",
+      "term_length": "2 ani, 234 zile",
+      "title": "Guvernator al Băncii Naționale a României"
+    },
+    {
+      "no": "(2)",
+      "name": "Anton Carp",
+      "term_start": "1 noiembrie 1909",
+      "term_end": "21 ianuarie 1914",
+      "term_length": "4 ani, 81 zile",
+      "title": "Guvernator al Băncii Naționale a României"
+    },
+    {
+      "no": "6",
+      "name": "Ioan G. Bibicescu",
+      "term_start": "21 februarie 1914",
+      "term_end": "11 decembrie 1916",
+      "term_length": "2 ani, 294 zile",
+      "title": "Viceguvernator al Băncii Naționale a României"
+    },
+    {
+      "no": "6",
+      "name": "Ioan G. Bibicescu",
+      "term_start": "11 decembrie 1916",
+      "term_end": "31 decembrie 1921",
+      "term_length": "5 ani, 20 zile",
+      "title": "Guvernator al Băncii Naționale a României"
+    },
+    {
+      "no": "7",
+      "name": "Mihail Oromolu",
+      "term_start": "1 ianuarie 1922",
+      "term_end": "31 decembrie 1926",
+      "term_length": "4 ani, 364 zile",
+      "title": "Guvernator al Băncii Naționale a României"
+    },
+    {
+      "no": "8",
+      "name": "Dumitru Tilică Burileanu",
+      "term_start": "1 ianuarie 1927",
+      "term_end": "9 martie 1931",
+      "term_length": "4 ani, 67 zile",
+      "title": "Guvernator al Băncii Naționale a României"
+    },
+    {
+      "no": "9",
+      "name": "Constantin Angelescu",
+      "term_start": "9 martie 1931",
+      "term_end": "10 iunie 1931",
+      "term_length": "93 zile",
+      "title": "Guvernator al Băncii Naționale a României"
+    },
+    {
+      "no": "10",
+      "name": "Mihail Manoilescu",
+      "term_start": "14 iulie 1931",
+      "term_end": "27 noiembrie 1931",
+      "term_length": "136 zile",
+      "title": "Guvernator al Băncii Naționale a României"
+    },
+    {
+      "no": "(9)",
+      "name": "Constantin Angelescu",
+      "term_start": "27 noiembrie 1931",
+      "term_end": "3 februarie 1934",
+      "term_length": "2 ani, 68 zile",
+      "title": "Guvernator al Băncii Naționale a României"
+    },
+    {
+      "no": "11",
+      "name": "Grigore Dimitrescu",
+      "term_start": "3 februarie 1934",
+      "term_end": "26 iulie 1935",
+      "term_length": "1 an, 173 zile",
+      "title": "Guvernator al Băncii Naționale a României"
+    },
+    {
+      "no": "12",
+      "name": "Mitiță Constantinescu",
+      "term_start": "23 septembrie 1935",
+      "term_end": "17 septembrie 1940",
+      "term_length": "4 ani, 360 zile",
+      "title": "Guvernator al Băncii Naționale a României"
+    },
+    {
+      "no": "13",
+      "name": "Alexandru Ottulescu",
+      "term_start": "17 septembrie 1940",
+      "term_end": "1 aprilie 1944",
+      "term_length": "3 ani, 197 zile",
+      "title": "Guvernator al Băncii Naționale a României"
+    },
+    {
+      "no": "(9)",
+      "name": "Constantin Angelescu",
+      "term_start": "1 aprilie 1944",
+      "term_end": "30 septembrie 1944",
+      "term_length": "182 zile",
+      "title": "Guvernator al Băncii Naționale a României"
+    },
+    {
+      "no": "14",
+      "name": "Ion I. Lapedatu",
+      "term_start": "30 septembrie 1944",
+      "term_end": "14 martie 1945",
+      "term_length": "165 zile",
+      "title": "Guvernator al Băncii Naționale a României"
+    },
+    {
+      "no": "15",
+      "name": "Constantin Tătăranu",
+      "term_start": "14 martie 1945",
+      "term_end": "21 mai 1946",
+      "term_length": "1 an, 68 zile",
+      "title": "Guvernator al Băncii Naționale a României"
+    },
+    {
+      "no": "16",
+      "name": "Tiberiu Moșoiu",
+      "term_start": "21 mai 1946",
+      "term_end": "8 noiembrie 1947",
+      "term_length": "1 an, 171 zile",
+      "title": "Guvernator al Băncii Naționale a României"
+    },
+    {
+      "no": "17",
+      "name": "Aurel Vijoli",
+      "term_start": "18 noiembrie 1947",
+      "term_end": "5 martie 1952",
+      "term_length": "4 ani, 108 zile",
+      "title": "Guvernator al Băncii Naționale a României"
+    },
+    {
+      "no": "18",
+      "name": "Anton Moisescu",
+      "term_start": "5 martie 1952",
+      "term_end": "23 mai 1953",
+      "term_length": "1 an, 79 zile",
+      "title": "Președinte al Băncii de Stat a Republicii Populare Române"
+    },
+    {
+      "no": "19",
+      "name": "Petre Bălăceanu",
+      "term_start": "23 mai 1953",
+      "term_end": "4 februarie 1956",
+      "term_length": "2 ani, 257 zile",
+      "title": "Președinte al Băncii de Stat a Republicii Populare Române"
+    },
+    {
+      "no": "20",
+      "name": "Marin Lupu",
+      "term_start": "4 februarie 1956",
+      "term_end": "27 martie 1957",
+      "term_length": "1 an, 51 zile",
+      "title": "Președinte al Băncii de Stat a Republicii Populare Române"
+    },
+    {
+      "no": "(19)",
+      "name": "Petre Bălăceanu",
+      "term_start": "27 martie 1957",
+      "term_end": "4 noiembrie 1957",
+      "term_length": "222 zile",
+      "title": "Președinte al Băncii de Stat a Republicii Populare Române"
+    },
+    {
+      "no": "(20)",
+      "name": "Marin Lupu",
+      "term_start": "4 noiembrie 1957",
+      "term_end": "23 ianuarie 1959",
+      "term_length": "1 an, 80 zile",
+      "title": "Președinte al Băncii de Stat a Republicii Populare Române"
+    },
+    {
+      "no": "21",
+      "name": "Coloman Maiorescu",
+      "term_start": "23 ianuarie 1959",
+      "term_end": "1 aprilie 1963",
+      "term_length": "4 ani, 68 zile",
+      "title": "Președinte cu delegație al Băncii de Stat a Republicii Populare Române"
+    },
+    {
+      "no": "22",
+      "name": "Vasile Malinschi",
+      "term_start": "1 aprilie 1963",
+      "term_end": "20 septembrie 1977",
+      "term_length": "14 ani, 172 zile",
+      "title": "Guvernator al Băncii Naționale a Republicii Socialiste România"
+    },
+    {
+      "no": "23",
+      "name": "Vasile Răuță",
+      "term_start": "20 septembrie 1977",
+      "term_end": "16 martie 1984",
+      "term_length": "6 ani, 178 zile",
+      "title": "Guvernator al Băncii Naționale a Republicii Socialiste România"
+    },
+    {
+      "no": "24",
+      "name": "Florea Dumitrescu",
+      "term_start": "16 martie 1984",
+      "term_end": "17 martie 1989",
+      "term_length": "5 ani, 1 zi",
+      "title": "Guvernator al Băncii Naționale a Republicii Socialiste România"
+    },
+    {
+      "no": "25",
+      "name": "Decebal Urdea",
+      "term_start": "31 martie 1989",
+      "term_end": "4 septembrie 1990",
+      "term_length": "1 an, 157 zile",
+      "title": "Guvernator al Băncii Naționale a Republicii Socialiste România"
+    },
+    {
+      "no": "26",
+      "name": "Mugur Constantin Isărescu",
+      "term_start": "4 septembrie 1990",
+      "term_end": "22 decembrie 1999",
+      "term_length": "9 ani, 109 zile",
+      "title": "Guvernator al Băncii Naționale a României"
+    },
+    {
+      "no": "27",
+      "name": "Emil Iota Ghizari",
+      "term_start": "22 decembrie 1999",
+      "term_end": "28 decembrie 2000",
+      "term_length": "1 an, 6 zile",
+      "title": "Guvernator al Băncii Naționale a României"
+    },
+    {
+      "no": "(26)",
+      "name": "Mugur Constantin Isărescu",
+      "term_start": "28 decembrie 2000",
+      "term_end": "prezent",
+      "term_length": "25 ani, 304 zile",
+      "title": "Guvernator al Băncii Naționale a României"
+    }
+  ],
+  "meta": {
+    "title": "Guvernatorii Băncii Naționale a României - Free Download",
+    "description": "Lista guvernatorilor Băncii Naționale a României din 1880 până în prezent, cu perioada mandatului. Contains 37 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Guvernatorii Băncii Naționale a României | ListBase",
+    "seo_description": "Download Guvernatorii Băncii Naționale a României — 37 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 37 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Guvernatorul_Băncii_Naționale_a_României"
+    ]
+  }
+}
