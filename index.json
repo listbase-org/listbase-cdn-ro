@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-10-27T02:13:14.025Z",
-  "total_datasets": 439,
-  "total_records": 164499,
+  "generated": "2026-10-28T02:18:23.539Z",
+  "total_datasets": 440,
+  "total_records": 164515,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "music",
@@ -5416,6 +5416,31 @@
         "xlsx": {
           "name": "ro-proverbe-romanesti_RO.xlsx",
           "size": 16102
+        }
+      }
+    },
+    {
+      "id": "ro-curti-de-apel",
+      "name": "Curțile de apel din România",
+      "category": "law",
+      "record_count": 16,
+      "columns": [
+        "name",
+        "courts",
+        "seat",
+        "website"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Curțile_de_apel_din_România",
+      "updated": "2026-10",
+      "size": 4402,
+      "files": {
+        "csv": {
+          "name": "ro-curti-de-apel_RO.csv",
+          "size": 1737
+        },
+        "xlsx": {
+          "name": "ro-curti-de-apel_RO.xlsx",
+          "size": 7649
         }
       }
     },

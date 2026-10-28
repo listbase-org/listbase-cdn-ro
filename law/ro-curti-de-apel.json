@@ -1,0 +1,142 @@
+{
+  "id": "ro-curti-de-apel",
+  "name": "Curțile de apel din România",
+  "title": "Curțile de apel din România",
+  "description": "Lista curților de apel din România, cu tribunalele arondate, sediul și site-ul oficial.",
+  "category": "law",
+  "source": "https://ro.wikipedia.org/wiki/Curțile_de_apel_din_România",
+  "source_url": "https://ro.wikipedia.org/wiki/Curțile_de_apel_din_România",
+  "updated": "2026-10",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "courts",
+      "label": "Courts",
+      "type": "string"
+    },
+    {
+      "key": "seat",
+      "label": "Seat",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Curtea de Apel Alba Iulia",
+      "courts": "Alba Hunedoara Sibiu",
+      "seat": "Alba Iulia",
+      "website": "https://www.curteadeapelalbaiulia.ro/"
+    },
+    {
+      "name": "Curtea de Apel Bacău",
+      "courts": "Bacău Neamț",
+      "seat": "Bacău",
+      "website": "https://www.ca-bacau.ro/site/"
+    },
+    {
+      "name": "Curtea de Apel Brașov",
+      "courts": "Brașov Covasna",
+      "seat": "Brașov",
+      "website": "https://www.curteadeapelbrasov.ro/"
+    },
+    {
+      "name": "Curtea de Apel București",
+      "courts": "București Călărași Giurgiu Ialomița Teleorman Ilfov",
+      "seat": "București",
+      "website": "https://www.cab1864.eu/ Arhivat în 29 aprilie 2025 , la Wayback Machine ."
+    },
+    {
+      "name": "Curtea Militară de Apel București",
+      "courts": "București Iași Cluj Timișoara",
+      "seat": "București",
+      "website": "https://www.cma.ro/"
+    },
+    {
+      "name": "Curtea de Apel Cluj",
+      "courts": "Cluj Bistrița-Năsăud Maramureș Sălaj",
+      "seat": "Cluj-Napoca",
+      "website": "https://www.curteadeapelcluj.ro/"
+    },
+    {
+      "name": "Curtea de Apel Constanța",
+      "courts": "Constanța Tulcea",
+      "seat": "Constanța",
+      "website": "https://curteapelconstanta.eu/"
+    },
+    {
+      "name": "Curtea de Apel Craiova",
+      "courts": "Dolj Gorj Mehedinți Olt",
+      "seat": "Craiova",
+      "website": "https://www.curteadeapelcraiova.eu/ Arhivat în 5 mai 2025 , la Wayback Machine ."
+    },
+    {
+      "name": "Curtea de Apel Galați",
+      "courts": "Galați Brăila Vrancea",
+      "seat": "Galați",
+      "website": "https://cagl.ro/"
+    },
+    {
+      "name": "Curtea de Apel Iași",
+      "courts": "Iași Vaslui",
+      "seat": "Iași",
+      "website": "https://www.ca-iasi.ro/"
+    },
+    {
+      "name": "Curtea de Apel Oradea",
+      "courts": "Bihor Satu Mare",
+      "seat": "Oradea",
+      "website": "https://www.curteadeapeloradea.ro/"
+    },
+    {
+      "name": "Curtea de Apel Pitești",
+      "courts": "Argeș Vâlcea",
+      "seat": "Pitești",
+      "website": "http://www.curteadeapelpitesti.ro/"
+    },
+    {
+      "name": "Curtea de Apel Ploiești",
+      "courts": "Prahova Buzău Dâmbovița",
+      "seat": "Ploiești",
+      "website": "https://www.caploiesti.ro/index.php"
+    },
+    {
+      "name": "Curtea de Apel Suceava",
+      "courts": "Suceava Botoșani",
+      "seat": "Suceava",
+      "website": "https://www.curteadeapelsuceava.ro/ Arhivat în 29 iulie 2025 , la Wayback Machine ."
+    },
+    {
+      "name": "Curtea de Apel Târgu Mureș",
+      "courts": "Mureș Harghita",
+      "seat": "Târgu Mureș",
+      "website": "https://www.curteadeapelmures.ro/"
+    },
+    {
+      "name": "Curtea de Apel Timișoara",
+      "courts": "Timiș Arad Caraș-Severin",
+      "seat": "Timișoara",
+      "website": "https://www.curteapeltimisoara.ro/"
+    }
+  ],
+  "meta": {
+    "title": "Curțile de apel din România - Free Download",
+    "description": "Lista curților de apel din România, cu tribunalele arondate, sediul și site-ul oficial. Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Curțile de apel din România | ListBase",
+    "seo_description": "Download Curțile de apel din România — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Curțile_de_apel_din_România"
+    ]
+  }
+}
