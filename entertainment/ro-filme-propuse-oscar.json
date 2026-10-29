@@ -1,0 +1,286 @@
+{
+  "id": "ro-filme-propuse-oscar",
+  "name": "Filme românești propuse la Oscar",
+  "title": "Filme românești propuse la Oscar",
+  "description": "Filmele propuse de România pentru Premiul Oscar pentru cel mai bun film străin / internațional, cu regizorul și rezultatul.",
+  "category": "entertainment",
+  "source": "https://ro.wikipedia.org/wiki/Lista_filmelor_românești_propuse_la_Oscar_pentru_cel_mai_bun_film_străin",
+  "source_url": "https://ro.wikipedia.org/wiki/Lista_filmelor_românești_propuse_la_Oscar_pentru_cel_mai_bun_film_străin",
+  "updated": "2026-10",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "an_ceremonie",
+      "label": "An Ceremonie",
+      "type": "number"
+    },
+    {
+      "key": "film",
+      "label": "Film",
+      "type": "string"
+    },
+    {
+      "key": "regizor",
+      "label": "Regizor",
+      "type": "string"
+    },
+    {
+      "key": "rezultat",
+      "label": "Rezultat",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "an_ceremonie": 1967,
+      "film": "Răscoala",
+      "regizor": "Mircea Mureșan",
+      "rezultat": "Nenominalizat"
+    },
+    {
+      "an_ceremonie": 1969,
+      "film": "Columna",
+      "regizor": "Mircea Drăgan",
+      "rezultat": "Nenominalizat"
+    },
+    {
+      "an_ceremonie": 1970,
+      "film": "Răutăciosul adolescent",
+      "regizor": "Gheorghe Vitanidis",
+      "rezultat": "Nenominalizat"
+    },
+    {
+      "an_ceremonie": 1972,
+      "film": "Mihai Viteazul",
+      "regizor": "Sergiu Nicolaescu",
+      "rezultat": "Nenominalizat"
+    },
+    {
+      "an_ceremonie": 1974,
+      "film": "Veronica",
+      "regizor": "Elisabeta Bostan",
+      "rezultat": "Nenominalizat"
+    },
+    {
+      "an_ceremonie": 1977,
+      "film": "Osânda",
+      "regizor": "Sergiu Nicolaescu",
+      "rezultat": "Nenominalizat"
+    },
+    {
+      "an_ceremonie": 1984,
+      "film": "Întoarcerea din iad",
+      "regizor": "Nicolae Mărgineanu",
+      "rezultat": "Nenominalizat"
+    },
+    {
+      "an_ceremonie": 1985,
+      "film": "Glissando",
+      "regizor": "Mircea Danieliuc",
+      "rezultat": "Nenominalizat"
+    },
+    {
+      "an_ceremonie": 1986,
+      "film": "Ciuleandra",
+      "regizor": "Sergiu Nicolaescu",
+      "rezultat": "Nenominalizat"
+    },
+    {
+      "an_ceremonie": 1987,
+      "film": "Noi, cei din linia întîi",
+      "regizor": "Sergiu Nicolaescu",
+      "rezultat": "Nenominalizat"
+    },
+    {
+      "an_ceremonie": 1990,
+      "film": "Cei care plătesc cu viața",
+      "regizor": "Șerban Marinescu",
+      "rezultat": "Nenominalizat"
+    },
+    {
+      "an_ceremonie": 1991,
+      "film": "De ce trag clopotele, Mitică?",
+      "regizor": "Lucian Pintilie",
+      "rezultat": "Nenominalizat"
+    },
+    {
+      "an_ceremonie": 1993,
+      "film": "Hotel de lux",
+      "regizor": "Dan Pița",
+      "rezultat": "Nenominalizat"
+    },
+    {
+      "an_ceremonie": 1994,
+      "film": "Patul conjugal",
+      "regizor": "Mircea Daneliuc",
+      "rezultat": "Nenominalizat"
+    },
+    {
+      "an_ceremonie": 1995,
+      "film": "Pepe & Fifi",
+      "regizor": "Dan Pița",
+      "rezultat": "Nenominalizat"
+    },
+    {
+      "an_ceremonie": 1997,
+      "film": "Stare de fapt",
+      "regizor": "Stere Gulea",
+      "rezultat": "Nenominalizat"
+    },
+    {
+      "an_ceremonie": 1999,
+      "film": "Terminus Paradis",
+      "regizor": "Lucian Pintilie",
+      "rezultat": "Nenominalizat"
+    },
+    {
+      "an_ceremonie": 2000,
+      "film": "Faimosul paparazzo",
+      "regizor": "Nicolae Mărgineanu",
+      "rezultat": "Nenominalizat"
+    },
+    {
+      "an_ceremonie": 2003,
+      "film": "Filantropica",
+      "regizor": "Nae Caranfil",
+      "rezultat": "Nenominalizat"
+    },
+    {
+      "an_ceremonie": 2005,
+      "film": "Orient Express",
+      "regizor": "Sergiu Nicolaescu",
+      "rezultat": "Nenominalizat"
+    },
+    {
+      "an_ceremonie": 2006,
+      "film": "Moartea domnului Lăzărescu",
+      "regizor": "Cristi Puiu",
+      "rezultat": "Nenominalizat"
+    },
+    {
+      "an_ceremonie": 2007,
+      "film": "Cum mi-am petrecut sfârșitul lumii",
+      "regizor": "Cătălin Mitulescu",
+      "rezultat": "Nenominalizat"
+    },
+    {
+      "an_ceremonie": 2008,
+      "film": "4 luni, 3 săptămâni și 2 zile",
+      "regizor": "Cristian Mungiu",
+      "rezultat": "Nenominalizat"
+    },
+    {
+      "an_ceremonie": 2009,
+      "film": "Restul e tăcere",
+      "regizor": "Nae Caranfil",
+      "rezultat": "Nenominalizat"
+    },
+    {
+      "an_ceremonie": 2010,
+      "film": "Polițist, adjectiv",
+      "regizor": "Corneliu Porumboiu",
+      "rezultat": "Nenominalizat"
+    },
+    {
+      "an_ceremonie": 2011,
+      "film": "Eu când vreau să fluier, fluier",
+      "regizor": "Florin Șerban",
+      "rezultat": "Nenominalizat"
+    },
+    {
+      "an_ceremonie": 2012,
+      "film": "Morgen",
+      "regizor": "Marian Crișan",
+      "rezultat": "Nenominalizat"
+    },
+    {
+      "an_ceremonie": 2013,
+      "film": "După dealuri",
+      "regizor": "Cristian Mungiu",
+      "rezultat": "Lista scurtă"
+    },
+    {
+      "an_ceremonie": 2014,
+      "film": "Poziția copilului",
+      "regizor": "Călin Peter Netzer",
+      "rezultat": "Nenominalizat"
+    },
+    {
+      "an_ceremonie": 2015,
+      "film": "Câinele japonez",
+      "regizor": "Tudor Cristian Jurgiu",
+      "rezultat": "Nenominalizat"
+    },
+    {
+      "an_ceremonie": 2016,
+      "film": "Aferim!",
+      "regizor": "Radu Jude",
+      "rezultat": "Nenominalizat"
+    },
+    {
+      "an_ceremonie": 2017,
+      "film": "Sieranevada",
+      "regizor": "Cristi Puiu",
+      "rezultat": "Nenominalizat"
+    },
+    {
+      "an_ceremonie": 2018,
+      "film": "Fixeur",
+      "regizor": "Adrian Sitaru",
+      "rezultat": "Nenominalizat"
+    },
+    {
+      "an_ceremonie": 2019,
+      "film": "Îmi este indiferent dacă în istorie vom intra ca barbari",
+      "regizor": "Radu Jude",
+      "rezultat": "Nenominalizat"
+    },
+    {
+      "an_ceremonie": 2020,
+      "film": "La Gomera",
+      "regizor": "Corneliu Porumboiu",
+      "rezultat": "Nenominalizat"
+    },
+    {
+      "an_ceremonie": 2021,
+      "film": "Colectiv",
+      "regizor": "Alexander Nanau",
+      "rezultat": "Nominalizat"
+    },
+    {
+      "an_ceremonie": 2022,
+      "film": "Babardeală cu bucluc sau porno balamuc",
+      "regizor": "Radu Jude",
+      "rezultat": "Nenominalizat"
+    },
+    {
+      "an_ceremonie": 2023,
+      "film": "Imaculat",
+      "regizor": "Monica Stan , George Chiper",
+      "rezultat": "Nenominalizat"
+    },
+    {
+      "an_ceremonie": 2024,
+      "film": "Nu aștepta prea mult de la sfârșitul lumii",
+      "regizor": "Radu Jude",
+      "rezultat": "Nenominalizat"
+    },
+    {
+      "an_ceremonie": 2025,
+      "film": "Jaful secolului",
+      "regizor": "Teodora Mihai",
+      "rezultat": "Nenominalizat"
+    }
+  ],
+  "meta": {
+    "title": "Filme românești propuse la Oscar - Free Download",
+    "description": "Filmele propuse de România pentru Premiul Oscar pentru cel mai bun film străin / internațional, cu regizorul și rezultatul. Contains 40 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Filme românești propuse la Oscar | ListBase",
+    "seo_description": "Download Filme românești propuse la Oscar — 40 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 40 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Lista_filmelor_românești_propuse_la_Oscar_pentru_cel_mai_bun_film_străin"
+    ]
+  }
+}

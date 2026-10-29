@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-10-29T02:08:54.757Z",
-  "total_datasets": 447,
-  "total_records": 164881,
+  "generated": "2026-10-29T02:08:57.729Z",
+  "total_datasets": 448,
+  "total_records": 164921,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "environment",
@@ -1788,6 +1788,31 @@
         "xlsx": {
           "name": "ro-canale-tv-stiri_RO.xlsx",
           "size": 8226
+        }
+      }
+    },
+    {
+      "id": "ro-filme-propuse-oscar",
+      "name": "Filme românești propuse la Oscar",
+      "category": "entertainment",
+      "record_count": 40,
+      "columns": [
+        "an_ceremonie",
+        "film",
+        "regizor",
+        "rezultat"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Lista_filmelor_românești_propuse_la_Oscar_pentru_cel_mai_bun_film_străin",
+      "updated": "2026-10",
+      "size": 7621,
+      "files": {
+        "csv": {
+          "name": "ro-filme-propuse-oscar_RO.csv",
+          "size": 2525
+        },
+        "xlsx": {
+          "name": "ro-filme-propuse-oscar_RO.xlsx",
+          "size": 8400
         }
       }
     },
