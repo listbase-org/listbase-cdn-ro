@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-10-29T02:09:02.915Z",
-  "total_datasets": 450,
-  "total_records": 165115,
+  "generated": "2026-10-29T02:09:05.305Z",
+  "total_datasets": 451,
+  "total_records": 165201,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "tech",
@@ -12590,6 +12590,32 @@
         "xlsx": {
           "name": "ro-religii-recensaminte_RO.xlsx",
           "size": 7992
+        }
+      }
+    },
+    {
+      "id": "ro-campioane-handbal-feminin",
+      "name": "Campioanele României la handbal feminin",
+      "category": "sports",
+      "record_count": 86,
+      "columns": [
+        "sezon",
+        "antrenor",
+        "campioana",
+        "locul_2",
+        "locul_3"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Liga_Națională_(handbal_feminin)",
+      "updated": "2026-10",
+      "size": 20192,
+      "files": {
+        "csv": {
+          "name": "ro-campioane-handbal-feminin_RO.csv",
+          "size": 9632
+        },
+        "xlsx": {
+          "name": "ro-campioane-handbal-feminin_RO.xlsx",
+          "size": 10967
         }
       }
     },

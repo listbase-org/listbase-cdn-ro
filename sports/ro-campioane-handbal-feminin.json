@@ -1,0 +1,653 @@
+{
+  "id": "ro-campioane-handbal-feminin",
+  "name": "Campioanele României la handbal feminin",
+  "title": "Campioanele României la handbal feminin",
+  "description": "Palmaresul campionatului național de handbal feminin al României: campioana, locurile 2 și 3 și antrenorul echipei campioane pe sezoane.",
+  "category": "sports",
+  "source": "https://ro.wikipedia.org/wiki/Liga_Națională_(handbal_feminin)",
+  "source_url": "https://ro.wikipedia.org/wiki/Liga_Națională_(handbal_feminin)",
+  "updated": "2026-10",
+  "record_count": 86,
+  "columns": [
+    {
+      "key": "sezon",
+      "label": "Sezon",
+      "type": "number"
+    },
+    {
+      "key": "antrenor",
+      "label": "Antrenor",
+      "type": "string"
+    },
+    {
+      "key": "campioana",
+      "label": "Campioana",
+      "type": "string"
+    },
+    {
+      "key": "locul_2",
+      "label": "Locul 2",
+      "type": "string"
+    },
+    {
+      "key": "locul_3",
+      "label": "Locul 3",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sezon": "1946",
+      "antrenor": "Bruno Holzträger",
+      "campioana": "Karres Mediaș",
+      "locul_2": "SG Sighișoara",
+      "locul_3": ""
+    },
+    {
+      "sezon": "1947",
+      "antrenor": "Bruno Holzträger",
+      "campioana": "Derubau Mediaș",
+      "locul_2": "Voința Sighișoara",
+      "locul_3": ""
+    },
+    {
+      "sezon": "1948",
+      "antrenor": "",
+      "campioana": "IRTI Mediaș",
+      "locul_2": "Voința Mediaș",
+      "locul_3": "Avântul Agnita"
+    },
+    {
+      "sezon": "1949",
+      "antrenor": "Bruno Holzträger",
+      "campioana": "Record Mediaș",
+      "locul_2": "CFR Sighișoara",
+      "locul_3": "CSU București"
+    },
+    {
+      "sezon": "1950",
+      "antrenor": "Wilhelm Lapka",
+      "campioana": "Flamura Roșie Mediaș",
+      "locul_2": "CSU București",
+      "locul_3": "Flamura Roșie ILSA Timișoara"
+    },
+    {
+      "sezon": "1951",
+      "antrenor": "Bruno Holzträger",
+      "campioana": "Flamura Roșie Mediaș",
+      "locul_2": "Spartak Sighișoara",
+      "locul_3": "Știința ICF București"
+    },
+    {
+      "sezon": "1952",
+      "antrenor": "Ioan Kunst-Ghermănescu",
+      "campioana": "Știința ICF București",
+      "locul_2": "Spartak Sighișoara",
+      "locul_3": "Știința Timișoara"
+    },
+    {
+      "sezon": "1953",
+      "antrenor": "Walter Meither",
+      "campioana": "Știința Timișoara",
+      "locul_2": "Știința ICF București",
+      "locul_3": "Progresul Învățământ București"
+    },
+    {
+      "sezon": "1954",
+      "antrenor": "Árpád Kameniczki",
+      "campioana": "Progresul Târgu Mureș",
+      "locul_2": "Progresul Brașov",
+      "locul_3": "Știința Timișoara"
+    },
+    {
+      "sezon": "1955",
+      "antrenor": "Árpád Kameniczki",
+      "campioana": "Progresul Târgu Mureș",
+      "locul_2": "Știința ICF București",
+      "locul_3": "Progresul Brașov"
+    },
+    {
+      "sezon": "1956",
+      "antrenor": "Dumitru Popescu-Colibași",
+      "campioana": "Progresul Brașov",
+      "locul_2": "Flamura Roșie București",
+      "locul_3": "Flamura Roșie Sibiu"
+    },
+    {
+      "sezon": "1957",
+      "antrenor": "Constantin „Pilică” Popescu",
+      "campioana": "Steagul Roșu București",
+      "locul_2": "Progresul MIC București",
+      "locul_3": "Progresul Brașov"
+    },
+    {
+      "sezon": "1957–58",
+      "antrenor": "Constantin „Pilică” Popescu",
+      "campioana": "Steagul Roșu București",
+      "locul_2": "Olimpia București",
+      "locul_3": "Flamura Roșie Sibiu"
+    },
+    {
+      "sezon": "1958–59",
+      "antrenor": "Gabriel Zugrăvescu",
+      "campioana": "Olimpia București",
+      "locul_2": "Progresul București",
+      "locul_3": "Mureșul Târgu Mureș"
+    },
+    {
+      "sezon": "1959–60",
+      "antrenor": "Valeriu Gogâltan",
+      "campioana": "Știința București",
+      "locul_2": "Rapid București",
+      "locul_3": "Știința Timișoara"
+    },
+    {
+      "sezon": "1960–61",
+      "antrenor": "Gabriel Zugrăvescu",
+      "campioana": "Rapid București",
+      "locul_2": "Progresul București",
+      "locul_3": "Mureșul Târgu Mureș"
+    },
+    {
+      "sezon": "1961–62",
+      "antrenor": "Constantin „Pilică” Popescu",
+      "campioana": "Progresul București",
+      "locul_2": "Minerul Vulcan",
+      "locul_3": "CSȘ Cluj-Napoca"
+    },
+    {
+      "sezon": "1962–63",
+      "antrenor": "Ioan Bota",
+      "campioana": "Știința București",
+      "locul_2": "Rapid București",
+      "locul_3": "Progresul București"
+    },
+    {
+      "sezon": "1958–59",
+      "antrenor": "Constantin „Pilică” Popescu (1)",
+      "campioana": "Cetatea Bucur București (1)",
+      "locul_2": "Olimpia București (1)",
+      "locul_3": "Tractorul Brașov (1)"
+    },
+    {
+      "sezon": "1959–60",
+      "antrenor": "Gabriel Zugrăvescu (1)",
+      "campioana": "Știința București (1)",
+      "locul_2": "Rapid București (1)",
+      "locul_3": "Știința Timișoara (1)"
+    },
+    {
+      "sezon": "1960–61",
+      "antrenor": "Gabriel Zugrăvescu (2)",
+      "campioana": "Rapid București (1)",
+      "locul_2": "Știința Timișoara (1)",
+      "locul_3": "Știința București (1)"
+    },
+    {
+      "sezon": "1961–62",
+      "antrenor": "Gabriel Zugrăvescu (3)",
+      "campioana": "Rapid București (2)",
+      "locul_2": "Știința București (1)",
+      "locul_3": "Tractorul Brașov (2)"
+    },
+    {
+      "sezon": "1962–63",
+      "antrenor": "Gabriel Zugrăvescu (4)",
+      "campioana": "Rapid București (3)",
+      "locul_2": "Știința Timișoara (2)",
+      "locul_3": "CSM Sibiu (1)"
+    },
+    {
+      "sezon": "1963–64",
+      "antrenor": "Victor Chița (1)",
+      "campioana": "Știința Timișoara (1)",
+      "locul_2": "Rapid București (2)",
+      "locul_3": "Știința București (2)"
+    },
+    {
+      "sezon": "1964–65",
+      "antrenor": "Constantin „Pilică” Popescu (2)",
+      "campioana": "Știința București (2)",
+      "locul_2": "Știința Timișoara (3)",
+      "locul_3": "Rapid București (1)"
+    },
+    {
+      "sezon": "1965–66",
+      "antrenor": "Victor Chița (2)",
+      "campioana": "Universitatea Știința Timișoara (2)",
+      "locul_2": "Rapid București (3)",
+      "locul_3": "Mureșul Târgu Mureș (1)"
+    },
+    {
+      "sezon": "1966–67",
+      "antrenor": "Francisc Spier (1)",
+      "campioana": "Rapid București (4)",
+      "locul_2": "Universitatea Timișoara (4)",
+      "locul_3": "Universitatea București (3)"
+    },
+    {
+      "sezon": "1967–68",
+      "antrenor": "Constantin Lache (1)",
+      "campioana": "Universitatea Timișoara (3)",
+      "locul_2": "Universitatea București (2)",
+      "locul_3": "Rapid București (2)"
+    },
+    {
+      "sezon": "1968–69",
+      "antrenor": "Constantin Lache (2)",
+      "campioana": "Universitatea Timișoara (4)",
+      "locul_2": "Rapid București (4)",
+      "locul_3": "Confecția București (1)"
+    },
+    {
+      "sezon": "1969–70",
+      "antrenor": "Constantin Lache (3)",
+      "campioana": "Universitatea Timișoara (5)",
+      "locul_2": "Universitatea București (3)",
+      "locul_3": "Confecția București (2)"
+    },
+    {
+      "sezon": "1970–71",
+      "antrenor": "Constantin „Pilică” Popescu (3)",
+      "campioana": "Universitatea București (3)",
+      "locul_2": "Universitatea Timișoara (5)",
+      "locul_3": "IEFS București (1)"
+    },
+    {
+      "sezon": "1971–72",
+      "antrenor": "Constantin Lache (4)",
+      "campioana": "Universitatea Timișoara (6)",
+      "locul_2": "Universitatea București (4)",
+      "locul_3": "IEFS București (2)"
+    },
+    {
+      "sezon": "1972–73",
+      "antrenor": "Ioan Bota (1)",
+      "campioana": "IEFS București (1)",
+      "locul_2": "Universitatea Timișoara (6)",
+      "locul_3": "Universitatea București (4)"
+    },
+    {
+      "sezon": "1973–74",
+      "antrenor": "Ioan Bota (2)",
+      "campioana": "IEFS București (2)",
+      "locul_2": "Universitatea Timișoara (7)",
+      "locul_3": "Textila Buhuși (1)"
+    },
+    {
+      "sezon": "1974–75",
+      "antrenor": "Constantin Lache (5)",
+      "campioana": "Universitatea Timișoara (7)",
+      "locul_2": "Universitatea București (5)",
+      "locul_3": "Progresul București (1)"
+    },
+    {
+      "sezon": "1975–76",
+      "antrenor": "Constantin Lache (6)",
+      "campioana": "Universitatea Timișoara (8)",
+      "locul_2": "Progresul București (1)",
+      "locul_3": "Voința Odorhei (1)"
+    },
+    {
+      "sezon": "1976–77",
+      "antrenor": "Constantin Lache (7)",
+      "campioana": "Universitatea Timișoara (9)",
+      "locul_2": "IEFS București (1)",
+      "locul_3": "Universitatea București (5)"
+    },
+    {
+      "sezon": "1977–78",
+      "antrenor": "Constantin Lache (8)",
+      "campioana": "Universitatea Timișoara (10)",
+      "locul_2": "Hidrotehnica Constanța (1)",
+      "locul_3": "Confecția București (3)"
+    },
+    {
+      "sezon": "1978–79",
+      "antrenor": "Eugen Bartha (1)",
+      "campioana": "Știința Bacău (1)",
+      "locul_2": "Constructorul Baia Mare (1)",
+      "locul_3": "Hidrotehnica Constanța (1)"
+    },
+    {
+      "sezon": "1979–80",
+      "antrenor": "Eugen Bartha (2)",
+      "campioana": "Știința Bacău (2)",
+      "locul_2": "Mureșul Târgu Mureș (1)",
+      "locul_3": "Constructorul Baia Mare (1)"
+    },
+    {
+      "sezon": "1980–81",
+      "antrenor": "Remus Drăgănescu (1)",
+      "campioana": "Rulmentul Brașov (1)",
+      "locul_2": "Știința Bacău (1)",
+      "locul_3": "Mureșul Târgu Mureș (2)"
+    },
+    {
+      "sezon": "1981–82",
+      "antrenor": "Eugen Bartha (3)",
+      "campioana": "Știința Bacău (3)",
+      "locul_2": "Progresul București (2)",
+      "locul_3": "Universitatea Timișoara (2)"
+    },
+    {
+      "sezon": "1982–83",
+      "antrenor": "Eugen Bartha (4)",
+      "campioana": "Știința Bacău (4)",
+      "locul_2": "Chimistul Râmnicu Vâlcea (1)",
+      "locul_3": "Rulmentul Brașov (1)"
+    },
+    {
+      "sezon": "1983–84",
+      "antrenor": "Eugen Bartha (5)",
+      "campioana": "Știința Bacău (5)",
+      "locul_2": "Rulmentul Brașov (1)",
+      "locul_3": "Chimistul Râmnicu Vâlcea (1)"
+    },
+    {
+      "sezon": "1984–85",
+      "antrenor": "Eugen Bartha (6)",
+      "campioana": "Știința Bacău (6)",
+      "locul_2": "Chimistul Râmnicu Vâlcea (2)",
+      "locul_3": "Hidrotehnica Constanța (2)"
+    },
+    {
+      "sezon": "1985–86",
+      "antrenor": "Alexandru Mengoni (1)",
+      "campioana": "Știința Bacău (7)",
+      "locul_2": "Rulmentul Brașov (2)",
+      "locul_3": "Chimistul Râmnicu Vâlcea (2)"
+    },
+    {
+      "sezon": "1986–87",
+      "antrenor": "Alexandru Mengoni (2)",
+      "campioana": "Știința Bacău (8)",
+      "locul_2": "Mureșul Târgu Mureș (2)",
+      "locul_3": "Rulmentul Brașov (2)"
+    },
+    {
+      "sezon": "1987–88",
+      "antrenor": "Gheorghe Ionescu (1)",
+      "campioana": "Mureșul Târgu Mureș (1)",
+      "locul_2": "Știința Bacău (2)",
+      "locul_3": "Chimistul Râmnicu Vâlcea (3)"
+    },
+    {
+      "sezon": "1988–89",
+      "antrenor": "Ioan Gherhard (1)",
+      "campioana": "Chimistul Râmnicu Vâlcea (1)",
+      "locul_2": "Mureșul Târgu Mureș (3)",
+      "locul_3": "Știința Bacău (1)"
+    },
+    {
+      "sezon": "1989–90",
+      "antrenor": "Gheorghe Ionescu (2)",
+      "campioana": "Chimistul Râmnicu Vâlcea (2)",
+      "locul_2": "Știința Bacău (3)",
+      "locul_3": "Textila Zalău (1)"
+    },
+    {
+      "sezon": "1990–91",
+      "antrenor": "Gheorghe Ionescu (3)",
+      "campioana": "Chimistul Râmnicu Vâlcea (3)",
+      "locul_2": "Știința Bacău (4)",
+      "locul_3": "Textila Zalău (2)"
+    },
+    {
+      "sezon": "1991–92",
+      "antrenor": "Alexandru Mengoni (3)",
+      "campioana": "Știința Bacău (9)",
+      "locul_2": "Chimistul Râmnicu Vâlcea (3)",
+      "locul_3": "Rapid București (3)"
+    },
+    {
+      "sezon": "1992–93",
+      "antrenor": "Lucian Râșniță (1)",
+      "campioana": "Chimistul Râmnicu Vâlcea (4)",
+      "locul_2": "Rapid București (5)",
+      "locul_3": "HC Aura Iași (1)"
+    },
+    {
+      "sezon": "1993–94",
+      "antrenor": "Constantin Cojocaru (1)",
+      "campioana": "Chimistul Râmnicu Vâlcea (5)",
+      "locul_2": "Silcotub Zalău (1)",
+      "locul_3": "Rapid București (4)"
+    },
+    {
+      "sezon": "1994–95",
+      "antrenor": "Constantin Cojocaru (2)",
+      "campioana": "Oltchim Râmnicu Vâlcea (6)",
+      "locul_2": "Rapid București (6)",
+      "locul_3": "Silcotub Zalău (3)"
+    },
+    {
+      "sezon": "1995–96",
+      "antrenor": "Constantin Cojocaru (3)",
+      "campioana": "Oltchim Râmnicu Vâlcea (7)",
+      "locul_2": "Silcotub Zalău (2)",
+      "locul_3": "Sidex Galați (1)"
+    },
+    {
+      "sezon": "1996–97",
+      "antrenor": "Alexandru Mengoni (4)",
+      "campioana": "Oltchim Râmnicu Vâlcea (8)",
+      "locul_2": "Silcotub Zalău (3)",
+      "locul_3": "Sidex Galați (2)"
+    },
+    {
+      "sezon": "1997–98",
+      "antrenor": "Lucian Râșniță (2)",
+      "campioana": "Oltchim Râmnicu Vâlcea (9)",
+      "locul_2": "Silcotub Zalău (4)",
+      "locul_3": "Universitatea Ursus Cluj-Napoca (1)"
+    },
+    {
+      "sezon": "1998–99",
+      "antrenor": "Bogdan Macovei (1)",
+      "campioana": "Oltchim Râmnicu Vâlcea (10)",
+      "locul_2": "Silcotub Zalău (5)",
+      "locul_3": "Rapid București (5)"
+    },
+    {
+      "sezon": "1999–00",
+      "antrenor": "Bogdan Macovei (2)",
+      "campioana": "Oltchim Râmnicu Vâlcea (11)",
+      "locul_2": "Silcotub Zalău (6)",
+      "locul_3": "Rapid București (6)"
+    },
+    {
+      "sezon": "2000–01",
+      "antrenor": "Gheorghe Tadici (1)",
+      "campioana": "Silcotub Zalău (1)",
+      "locul_2": "Oltchim Râmnicu Vâlcea (4)",
+      "locul_3": "Fibrex Săvinești (1)"
+    },
+    {
+      "sezon": "2001–02",
+      "antrenor": "Mariana Tîrcă (1)",
+      "campioana": "Oltchim Râmnicu Vâlcea (12)",
+      "locul_2": "Silcotub Zalău (7)",
+      "locul_3": "Universitatea Remin Deva (1)"
+    },
+    {
+      "sezon": "2002–03",
+      "antrenor": "Vasile Mărgulescu (1)",
+      "campioana": "Rapid București (5)",
+      "locul_2": "Oltchim Râmnicu Vâlcea (5)",
+      "locul_3": "Universitatea Remin Deva (2)"
+    },
+    {
+      "sezon": "2003–04",
+      "antrenor": "Gheorghe Tadici (2)",
+      "campioana": "Silcotub Zalău (2)",
+      "locul_2": "Universitatea Remin Deva (1)",
+      "locul_3": "Rapid București (7)"
+    },
+    {
+      "sezon": "2004–05",
+      "antrenor": "Gheorghe Tadici (3)",
+      "campioana": "Silcotub Zalău (3)",
+      "locul_2": "Rapid București (7)",
+      "locul_3": "Oltchim Râmnicu Vâlcea (4)"
+    },
+    {
+      "sezon": "2005–06",
+      "antrenor": "Mariana Tîrcă (2)",
+      "campioana": "Rulmentul Brașov (2)",
+      "locul_2": "Silcotub Zalău (8)",
+      "locul_3": "Oltchim Râmnicu Vâlcea (5)"
+    },
+    {
+      "sezon": "2006–07",
+      "antrenor": "Gheorghe Tadici (4)",
+      "campioana": "Oltchim Râmnicu Vâlcea (13)",
+      "locul_2": "Rulmentul Brașov (3)",
+      "locul_3": "Universitatea Jolidon Cluj-Napoca (2)"
+    },
+    {
+      "sezon": "2007–08",
+      "antrenor": "Gheorghe Tadici (5)",
+      "campioana": "Oltchim Râmnicu Vâlcea (14)",
+      "locul_2": "Rulmentul Brașov (4)",
+      "locul_3": "Oțelul Galați (2)"
+    },
+    {
+      "sezon": "2008–09",
+      "antrenor": "Radu Voina (1)",
+      "campioana": "Oltchim Râmnicu Vâlcea (15)",
+      "locul_2": "Rulmentul Brașov (5)",
+      "locul_3": "HC Dunărea Brăila (1)"
+    },
+    {
+      "sezon": "2009–10",
+      "antrenor": "Radu Voina (2)",
+      "campioana": "Oltchim Râmnicu Vâlcea (16)",
+      "locul_2": "Universitatea Jolidon Cluj-Napoca (1)",
+      "locul_3": "Tomis Constanța (1)"
+    },
+    {
+      "sezon": "2010–11",
+      "antrenor": "Péter Kovács (1)",
+      "campioana": "Oltchim Râmnicu Vâlcea (17)",
+      "locul_2": "Universitatea Jolidon Cluj-Napoca (2)",
+      "locul_3": "CSM București (1)"
+    },
+    {
+      "sezon": "2011–12",
+      "antrenor": "Radu Voina (3)",
+      "campioana": "Oltchim Râmnicu Vâlcea (18)",
+      "locul_2": "Universitatea Jolidon Cluj-Napoca (3)",
+      "locul_3": "HCM Zalău (4)"
+    },
+    {
+      "sezon": "2012–13",
+      "antrenor": "Jakob Vestergaard (1)",
+      "campioana": "Oltchim Râmnicu Vâlcea (19)",
+      "locul_2": "HCM Baia Mare (2)",
+      "locul_3": "Universitatea Jolidon Cluj-Napoca (3)"
+    },
+    {
+      "sezon": "2013–14",
+      "antrenor": "Costică Buceschi (1)",
+      "campioana": "HCM Baia Mare (1)",
+      "locul_2": "Corona Brașov (6)",
+      "locul_3": "HC Dunărea Brăila (2)"
+    },
+    {
+      "sezon": "2014–15",
+      "antrenor": "Mette Klit (1)",
+      "campioana": "CSM București (1)",
+      "locul_2": "HCM Baia Mare (3)",
+      "locul_3": "Corona Brașov (3)"
+    },
+    {
+      "sezon": "2015–16",
+      "antrenor": "Kim Rasmussen (1)",
+      "campioana": "CSM București (2)",
+      "locul_2": "HCM Baia Mare (4)",
+      "locul_3": "Corona Brașov (4)"
+    },
+    {
+      "sezon": "2016–17",
+      "antrenor": "Per Johansson (1)",
+      "campioana": "CSM București (3)",
+      "locul_2": "Dunărea Brăila (1)",
+      "locul_3": "HC Zalău (5)"
+    },
+    {
+      "sezon": "2017–18",
+      "antrenor": "Per Johansson (2)",
+      "campioana": "CSM București (4)",
+      "locul_2": "SCM Craiova (1)",
+      "locul_3": "CS Măgura Cisnădie (1)"
+    },
+    {
+      "sezon": "2018–19",
+      "antrenor": "Florentin Pera (1)",
+      "campioana": "SCM Râmnicu Vâlcea (1)",
+      "locul_2": "CSM București (1)",
+      "locul_3": "Gloria Bistrița (1)"
+    },
+    {
+      "sezon": "2019–20",
+      "antrenor": "Ediție anulată din cauza pandemiei de COVID-19",
+      "campioana": "Ediție anulată din cauza pandemiei de COVID-19",
+      "locul_2": "Ediție anulată din cauza pandemiei de COVID-19",
+      "locul_3": "Ediție anulată din cauza pandemiei de COVID-19"
+    },
+    {
+      "sezon": "2020–21",
+      "antrenor": "Adrian Vasile (1)",
+      "campioana": "CSM București (5)",
+      "locul_2": "CS Minaur Baia Mare (1)",
+      "locul_3": "SCM Râmnicu Vâlcea (1)"
+    },
+    {
+      "sezon": "2021–22",
+      "antrenor": "Carlos Viver (1)",
+      "campioana": "CS Rapid București (6)",
+      "locul_2": "CSM București (2)",
+      "locul_3": "SCM Râmnicu Vâlcea (2)"
+    },
+    {
+      "sezon": "2022–23",
+      "antrenor": "Adrian Vasile (2)",
+      "campioana": "CSM București (6)",
+      "locul_2": "CS Rapid București",
+      "locul_3": "CS Gloria 2018 Bistrița-Năsăud"
+    },
+    {
+      "sezon": "2023–24",
+      "antrenor": "Adrian Vasile (3)",
+      "campioana": "CSM București (7)",
+      "locul_2": "CS Rapid București",
+      "locul_3": "CS Gloria 2018 Bistrița-Năsăud"
+    },
+    {
+      "sezon": "2024–25",
+      "antrenor": "Helle Thomsen (1)",
+      "campioana": "CSM București (8)",
+      "locul_2": "Corona Brașov (7)",
+      "locul_3": "CS Gloria 2018 Bistrița-Năsăud (3)"
+    },
+    {
+      "sezon": "2025–26",
+      "antrenor": "Carlos Viver (2)",
+      "campioana": "CS Gloria Bistrița (1)",
+      "locul_2": "CSM București (3)",
+      "locul_3": "Corona Brașov (5)"
+    }
+  ],
+  "meta": {
+    "title": "Campioanele României la handbal feminin - Free Download",
+    "description": "Palmaresul campionatului național de handbal feminin al României: campioana, locurile 2 și 3 și antrenorul echipei campioane pe sezoane. Contains 86 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Campioanele României la handbal feminin | ListBase",
+    "seo_description": "Download Campioanele României la handbal feminin — 86 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 86 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Liga_Națională_(handbal_feminin)"
+    ]
+  }
+}
