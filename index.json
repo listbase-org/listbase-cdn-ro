@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-10-29T02:09:00.270Z",
-  "total_datasets": 449,
-  "total_records": 164980,
+  "generated": "2026-10-29T02:09:02.915Z",
+  "total_datasets": 450,
+  "total_records": 165115,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "finance",
@@ -1916,6 +1916,33 @@
         "xlsx": {
           "name": "ro-centrale-nucleare_RO.xlsx",
           "size": 7269
+        }
+      }
+    },
+    {
+      "id": "ro-cutremure",
+      "name": "Cutremure în România",
+      "category": "environment",
+      "record_count": 135,
+      "columns": [
+        "data",
+        "magnitudine",
+        "intensitate",
+        "epicentru",
+        "pagube",
+        "descriere"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Listă_de_cutremure_în_România",
+      "updated": "2026-10",
+      "size": 31910,
+      "files": {
+        "csv": {
+          "name": "ro-cutremure_RO.csv",
+          "size": 12994
+        },
+        "xlsx": {
+          "name": "ro-cutremure_RO.xlsx",
+          "size": 13245
         }
       }
     },

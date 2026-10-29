@@ -1,0 +1,1136 @@
+{
+  "id": "ro-cutremure",
+  "name": "Cutremure în România",
+  "title": "Cutremure în România",
+  "description": "Lista cutremurelor istorice care au afectat teritoriul României, cu data, magnitudinea, intensitatea și epicentrul.",
+  "category": "environment",
+  "source": "https://ro.wikipedia.org/wiki/Listă_de_cutremure_în_România",
+  "source_url": "https://ro.wikipedia.org/wiki/Listă_de_cutremure_în_România",
+  "updated": "2026-10",
+  "record_count": 135,
+  "columns": [
+    {
+      "key": "data",
+      "label": "Data",
+      "type": "string"
+    },
+    {
+      "key": "magnitudine",
+      "label": "Magnitudine",
+      "type": "string"
+    },
+    {
+      "key": "intensitate",
+      "label": "Intensitate",
+      "type": "string"
+    },
+    {
+      "key": "epicentru",
+      "label": "Epicentru",
+      "type": "string"
+    },
+    {
+      "key": "pagube",
+      "label": "Pagube",
+      "type": "string"
+    },
+    {
+      "key": "descriere",
+      "label": "Descriere",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "data": "12 mai 1022",
+      "magnitudine": "6,5 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "15 august 1038",
+      "magnitudine": "7,3 M w",
+      "intensitate": "X. Intens",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "1 februarie 1107",
+      "magnitudine": "7,1 M w",
+      "intensitate": "X. Intens",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "8 august 1126",
+      "magnitudine": "7,1 M w",
+      "intensitate": "X. Intens",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "1 aprilie 1170",
+      "magnitudine": "7,3 M w",
+      "intensitate": "X. Intens",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "13 februarie 1196",
+      "magnitudine": "7,5 M w",
+      "intensitate": "X. Intens",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "8 ianuarie 1223",
+      "magnitudine": "5,9 M w",
+      "intensitate": "VIII Destructiv",
+      "epicentru": "Depresiunea Transilvaniei",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "10 mai 1230",
+      "magnitudine": "7,3 M w",
+      "intensitate": "X. Intens",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "7 februarie 1258",
+      "magnitudine": "7,1 M w",
+      "intensitate": "X. Intens",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "4 august 1444",
+      "magnitudine": "6 M w",
+      "intensitate": "VII. Foarte puternic",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "10 octombrie 1446",
+      "magnitudine": "7,5 M w",
+      "intensitate": "X. Intens",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "29 august 1471",
+      "magnitudine": "7,5 M w",
+      "intensitate": "IX. Violent",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": "În conformitate cu cronicile locale, acesta a fost cel mai violent cutremur din secolul al XV-lea, având loc în timpul domniei lui Ștefan cel Mare . A produs alunecări de teren, replicile sale simțindu-se în Moldova și Țara Românească pentru încă 5 zile."
+    },
+    {
+      "data": "29 august 1471",
+      "magnitudine": "7,3 M w",
+      "intensitate": "X. Intens",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": "Are loc pe aceeași dată cu seismul din 29 august 1471."
+    },
+    {
+      "data": "24 noiembrie 1516",
+      "magnitudine": "7,5 M w",
+      "intensitate": "X. Intens",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "9 iunie 1523",
+      "magnitudine": "6,5 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "19 noiembrie 1523",
+      "magnitudine": "5,9 M w",
+      "intensitate": "VIII Destructiv",
+      "epicentru": "Depresiunea Transilvaniei",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "19 iulie 1545",
+      "magnitudine": "7,1 M w",
+      "intensitate": "X. Intens",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "26 octombrie 1550",
+      "magnitudine": "6,5 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Zona Făgăraș - Câmpulung",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "21 august 1552",
+      "magnitudine": "6,5 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "17 august 1569",
+      "magnitudine": "6,4 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "10 aprilie 1571",
+      "magnitudine": "6,5 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "10 mai 1571",
+      "magnitudine": "7,1 M w",
+      "intensitate": "X. Intens",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": "Are loc cu o lună mai târziu față de seismul din 10 aprilie 1571."
+    },
+    {
+      "data": "1 aprilie 1578",
+      "magnitudine": "6,5 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "30 aprilie 1590",
+      "magnitudine": "7,3 M w",
+      "intensitate": "IX. Violent",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "10 august 1590",
+      "magnitudine": "6,5 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Zona Făgăraș - Câmpulung",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "1 decembrie 1594",
+      "magnitudine": "necunoscut",
+      "intensitate": "",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "21 aprilie 1595",
+      "magnitudine": "7,1 M w",
+      "intensitate": "X. Intens",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "8 decembrie 1595",
+      "magnitudine": "necunoscut",
+      "intensitate": "",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "22 noiembrie 1598",
+      "magnitudine": "6,5 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "4 martie 1599",
+      "magnitudine": "6,1 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "3 mai 1604",
+      "magnitudine": "6,8 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "24 decembrie 1605",
+      "magnitudine": "7,1 M w",
+      "intensitate": "X. Intens",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "13 ianuarie 1606",
+      "magnitudine": "6,8 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "8 noiembrie 1620",
+      "magnitudine": "7,5 M w",
+      "intensitate": "IX. Violent",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "1 februarie 1637",
+      "magnitudine": "7,1 M w",
+      "intensitate": "X. Intens",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "19 aprilie 1650",
+      "magnitudine": "6,5 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "9 august 1679",
+      "magnitudine": "7,5 M w",
+      "intensitate": "IX. Violent",
+      "epicentru": "Suceava",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "19 august 1681",
+      "magnitudine": "7,1 M w",
+      "intensitate": "X. Intens",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "12 iunie 1701",
+      "magnitudine": "7,1 M w",
+      "intensitate": "X. Intens",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "11 octombrie 1711",
+      "magnitudine": "6,5 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "6 aprilie 1730",
+      "magnitudine": "6,1 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "11 iunie 1738",
+      "magnitudine": "7,7 M w",
+      "intensitate": "X. Intens",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": "S-a simțit în toată țara."
+    },
+    {
+      "data": "5 aprilie 1740",
+      "magnitudine": "7,3 M w",
+      "intensitate": "X. Intens",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "7 decembrie 1746",
+      "magnitudine": "5,9 M w",
+      "intensitate": "VIII Destructiv",
+      "epicentru": "Zona Făgăraș - Câmpulung",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "18 ianuarie 1778",
+      "magnitudine": "6,5 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "18 ianuarie 1787",
+      "magnitudine": "6,5 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "6 aprilie 1790",
+      "magnitudine": "7,1 M w",
+      "intensitate": "X. Intens",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "8 decembrie 1793",
+      "magnitudine": "6,2 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Zona Făgăraș - Câmpulung",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "26 octombrie 1802",
+      "magnitudine": "7.9 - 8,2 M w",
+      "intensitate": "XII. Catastrofic",
+      "epicentru": "Vrancea",
+      "pagube": "4 morți, sute de răniți",
+      "descriere": "Magnitudine estimată între 7.9 și 8.2. Cel mai puternic cutremur vrâncean. S-a simțit în toată Europa . A durat 2 minute și 30 secunde."
+    },
+    {
+      "data": "5 martie 1812",
+      "magnitudine": "6,5 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "29 septembrie 1821",
+      "magnitudine": "6,6 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "17 noiembrie 1821",
+      "magnitudine": "6,2 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "26 noiembrie 1829",
+      "magnitudine": "7,3 M w",
+      "intensitate": "X. Intens",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "3 august 1831",
+      "magnitudine": "6,1 M w",
+      "intensitate": "VII. Foarte puternic",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "3 august 1834",
+      "magnitudine": "6,8 M w",
+      "intensitate": "VII. Foarte puternic",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "21 aprilie 1835",
+      "magnitudine": "6,5 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "23 ianuarie 1838",
+      "magnitudine": "7,5 M w",
+      "intensitate": "IX. Violent",
+      "epicentru": "Vrancea",
+      "pagube": "73 morți, 14 răniți",
+      "descriere": ""
+    },
+    {
+      "data": "6 martie 1844",
+      "magnitudine": "6 M w",
+      "intensitate": "VII. Foarte puternic",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "1 ianuarie 1848",
+      "magnitudine": "6,5 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "28 octombrie 1854",
+      "magnitudine": "6,5 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "16 octombrie 1862",
+      "magnitudine": "6,5 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "13 noiembrie 1868",
+      "magnitudine": "6,8 M w",
+      "intensitate": "IX. Violent",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "27 noiembrie 1868",
+      "magnitudine": "6,5 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "25 decembrie 1880",
+      "magnitudine": "6,8 M w",
+      "intensitate": "IX. Violent",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "19 august 1888",
+      "magnitudine": "6,5 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "14 octombrie 1892",
+      "magnitudine": "6,5 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "1 mai 1893",
+      "magnitudine": "6,2 M w",
+      "intensitate": "VII. Foarte puternic",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "17 august 1893",
+      "magnitudine": "7,1 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "10 septembrie 1893",
+      "magnitudine": "6,5 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "4 martie 1894",
+      "magnitudine": "6,5 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "31 august 1894",
+      "magnitudine": "7,1 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": "Malurile Prutului s-au prăbușit pe o porțiune de aproximativ 500 metri în Galați ."
+    },
+    {
+      "data": "11 martie 1896",
+      "magnitudine": "6,6 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "24 noiembrie 1896",
+      "magnitudine": "6,1 M w",
+      "intensitate": "VII. Foarte puternic",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "31 martie 1901",
+      "magnitudine": "7,2 M w",
+      "intensitate": "X. Intens",
+      "epicentru": "Marea Neagră",
+      "pagube": "",
+      "descriere": "A generat un tsunami de 4 metri în România ."
+    },
+    {
+      "data": "30 iulie 1901",
+      "magnitudine": "6 M w",
+      "intensitate": "VII. Foarte puternic",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "13 septembrie 1903",
+      "magnitudine": "6,3 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "6 februarie 1904",
+      "magnitudine": "6,6 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "6 octombrie 1908",
+      "magnitudine": "7,1 M w",
+      "intensitate": "IX. Violent",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "25 mai 1912",
+      "magnitudine": "6,7 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "25 mai 1912",
+      "magnitudine": "6,1 M w",
+      "intensitate": "VII. Foarte puternic",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": "A avut loc în aceeași zi cu precedentul."
+    },
+    {
+      "data": "26 ianuarie 1916",
+      "magnitudine": "6,4 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Zona Făgăraș - Câmpulung",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "18 aprilie 1919",
+      "magnitudine": "6,1 M w",
+      "intensitate": "VII. Foarte puternic",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "9 august 1919",
+      "magnitudine": "6 M w",
+      "intensitate": "VII. Foarte puternic",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "25 decembrie 1925",
+      "magnitudine": "6,1 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "30 martie 1928",
+      "magnitudine": "6 M w",
+      "intensitate": "VII. Foarte puternic",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "20 mai 1929",
+      "magnitudine": "6 M w",
+      "intensitate": "VII. Foarte puternic",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "1 noiembrie 1929",
+      "magnitudine": "6,1 M w",
+      "intensitate": "VII. Foarte puternic",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "27 mai 1932",
+      "magnitudine": "6 M w",
+      "intensitate": "VII. Foarte puternic",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "2 februarie 1934",
+      "magnitudine": "6 M w",
+      "intensitate": "VII. Foarte puternic",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "29 martie 1934",
+      "magnitudine": "6,9 M w",
+      "intensitate": "IX. Violent",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "13 iulie 1935",
+      "magnitudine": "6,5 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "5 septembrie 1935",
+      "magnitudine": "6 M w",
+      "intensitate": "VII. Foarte puternic",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "17 mai 1936",
+      "magnitudine": "6 M w",
+      "intensitate": "VII. Foarte puternic",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "13 iulie 1938",
+      "magnitudine": "6 M w",
+      "intensitate": "VII. Foarte puternic",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "5 septembrie 1939",
+      "magnitudine": "6,2 M w",
+      "intensitate": "VII. Foarte puternic",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "22 octombrie 1940",
+      "magnitudine": "6,5 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "10 noiembrie 1940",
+      "magnitudine": "7,4 M w",
+      "intensitate": "X. Intens",
+      "epicentru": "Panciu",
+      "pagube": "1.600 morți, 12.100 răniți",
+      "descriere": ""
+    },
+    {
+      "data": "12 martie 1945",
+      "magnitudine": "6,1 M w",
+      "intensitate": "VII. Foarte puternic",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "7 septembrie 1945",
+      "magnitudine": "6,5 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "9 decembrie 1945",
+      "magnitudine": "6,5 M w",
+      "intensitate": "VII. Foarte puternic",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "3 noiembrie 1946",
+      "magnitudine": "6 M w",
+      "intensitate": "VII. Foarte puternic",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "29 mai 1948",
+      "magnitudine": "6,3 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "20 august 1973",
+      "magnitudine": "6 M w",
+      "intensitate": "VII. Foarte puternic",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "1 octombrie 1976",
+      "magnitudine": "6 M w",
+      "intensitate": "VII. Foarte puternic",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "4 martie 1977",
+      "magnitudine": "7,2 M w",
+      "intensitate": "XI. Extrem",
+      "epicentru": "Nereju , Vrancea",
+      "pagube": "1.578 morți, 11.300 răniți",
+      "descriere": "Cel mai distructiv seism din România . A durat 56 secunde (sau 55) ."
+    },
+    {
+      "data": "11 septembrie 1980",
+      "magnitudine": "4,6 M w",
+      "intensitate": "VI. Puternic",
+      "epicentru": "Orașul Galați",
+      "pagube": "Pagube minime în orașele Galați și Brăila.",
+      "descriere": ""
+    },
+    {
+      "data": "13 noiembrie 1981",
+      "magnitudine": "5,1 M w",
+      "intensitate": "VII. Foarte puternic",
+      "epicentru": "vecinătatea orașului Tulcea",
+      "pagube": "Pagube minime în orașul Tulcea.",
+      "descriere": ""
+    },
+    {
+      "data": "30 august 1986",
+      "magnitudine": "7,1 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Gura Teghii",
+      "pagube": "+150 morți, +500 răniți",
+      "descriere": ""
+    },
+    {
+      "data": "30 mai 1990",
+      "magnitudine": "6.9 - 7 M w",
+      "intensitate": "VII. Foarte puternic",
+      "epicentru": "Vrancea",
+      "pagube": "13 morți, 360 răniți",
+      "descriere": ""
+    },
+    {
+      "data": "31 mai 1990",
+      "magnitudine": "6,4 M w",
+      "intensitate": "VII. Foarte puternic",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": "A avut loc la o zi după precedentul."
+    },
+    {
+      "data": "31 mai 1990",
+      "magnitudine": "6,1 M w",
+      "intensitate": "VII. Foarte puternic",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": "A avut loc în aceeași zi cu precedentul."
+    },
+    {
+      "data": "12 iulie 1991",
+      "magnitudine": "5,7 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Banloc",
+      "pagube": "2 morți, 30 răniți, +5.000 clădiri avariate",
+      "descriere": "Produs la adâncimea de 11 km."
+    },
+    {
+      "data": "18 iulie 1991",
+      "magnitudine": "5,5 M w",
+      "intensitate": "VII. Foarte puternic",
+      "epicentru": "zona Herculane - Ofsenița",
+      "pagube": "+615 case avariate",
+      "descriere": ""
+    },
+    {
+      "data": "2 decembrie 1991",
+      "magnitudine": "5,6 M w",
+      "intensitate": "VIII. Distructiv",
+      "epicentru": "Voiteg",
+      "pagube": "+5.000 case avariate, cca. 4.500 sinistrați",
+      "descriere": "Produs la adâncimea de 9 km."
+    },
+    {
+      "data": "27 octombrie 2004",
+      "magnitudine": "6 M w",
+      "intensitate": "VII. Foarte puternic",
+      "epicentru": "Vrancea",
+      "pagube": "Nu a produs.",
+      "descriere": "Cel mai puternic seism din sec. XXI."
+    },
+    {
+      "data": "7 mai 2008",
+      "magnitudine": "5,2 M w - 5,4 M w",
+      "intensitate": "VI. Puternic",
+      "epicentru": "NV Mării Negre",
+      "pagube": "Pagube minime în Bulgaria.",
+      "descriere": ""
+    },
+    {
+      "data": "25 aprilie 2009",
+      "magnitudine": "5,3 M w",
+      "intensitate": "VI. Puternic",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": ""
+    },
+    {
+      "data": "23 septembrie 2013 - 10 octombrie 2013",
+      "magnitudine": "1 M w - 3,9 M w",
+      "intensitate": "VI. Puternic",
+      "epicentru": "Izvoarele, Galați",
+      "pagube": "cca. 30% din casele din Izvoarele avariate",
+      "descriere": "cca. 300 de cutremure , produse la adâncimi cuprinse între 2 și 9 km."
+    },
+    {
+      "data": "6 octombrie 2013",
+      "magnitudine": "5,5 M w",
+      "intensitate": "V. Destul de puternic",
+      "epicentru": "Vrancea",
+      "pagube": "Pagube minime în Bulgaria si Romania. In judetul Buzau s-a prabusit un fragment de zid de secol XVIII de la schitul Berca",
+      "descriere": "Cutremurul a fost resimțit în nordul Bulgariei (în orașele Ruse , Șumen și Silistra ) și în Republica Moldova (chiar Chișinău )."
+    },
+    {
+      "data": "22 noiembrie 2014",
+      "magnitudine": "5,7 M w",
+      "intensitate": "VI. Puternic",
+      "epicentru": "Vrancea",
+      "pagube": "Ziduri și șosele crăpate în Galați și Tulcea . Alimentarea cu electricitate întreruptă în zona epicentrală. Un rănit în Tulcea , 8 răniți în Galați , și 5 persoane vârstnice hipertensive din Brăila au avut nevoie de îngrijiri medicale din cauza atacurilor de panică.",
+      "descriere": ""
+    },
+    {
+      "data": "24 septembrie 2016",
+      "magnitudine": "5,8 M w",
+      "intensitate": "VI. Puternic",
+      "epicentru": "Vrancea",
+      "pagube": "Fațade prăbușite. Cutremurul s-a simțit puternic la Iași. Seismul a afectat una dintre clădirile importante ale orașului, o construcție de patrimoniu, care nu a fost niciodată reabilitată.12 persoane au suferit atacuri de panică, iar două s-au rănit ușor în timp ce încercau să iasă din locuințe.",
+      "descriere": "Seismul s-a resimțit puternic în București și în Republica Moldova, chiar în Est, aproape de Ucraina."
+    },
+    {
+      "data": "28 decembrie 2016",
+      "magnitudine": "5,3 M w",
+      "intensitate": "VI. Puternic",
+      "epicentru": "Vrancea",
+      "pagube": "Ramele de la geamurile unor clădiri vechi au căzut.",
+      "descriere": "S-a resimțit și în Republica Moldova, chiar în Est, aproape de Ucraina."
+    },
+    {
+      "data": "8 februarie 2017",
+      "magnitudine": "5,0 M w",
+      "intensitate": "V. Destul de puternic",
+      "epicentru": "Vrancea",
+      "pagube": "Nu a produs.",
+      "descriere": ""
+    },
+    {
+      "data": "28 octombrie 2018",
+      "magnitudine": "5,8 M w",
+      "intensitate": "VI. Puternic",
+      "epicentru": "Vrancea",
+      "pagube": "Nu a produs.",
+      "descriere": "Seismul s-a resimțit puternic în București și ușor în Republica Moldova, chiar în Est, aproape de Ucraina."
+    },
+    {
+      "data": "31 ianuarie 2020",
+      "magnitudine": "5,2 M w",
+      "intensitate": "V. Destul de puternic",
+      "epicentru": "Vrancea",
+      "pagube": "Nu a produs.",
+      "descriere": "S-a resimțit în București și în Republica Moldova, chiar în Est, aproape de Ucraina."
+    },
+    {
+      "data": "3 noiembrie 2022",
+      "magnitudine": "5,3 M w",
+      "intensitate": "VI. Puternic",
+      "epicentru": "Vrancea",
+      "pagube": "",
+      "descriere": "S-a resimțit în București și în Republica Moldova și în Ucraina."
+    },
+    {
+      "data": "13 februarie 2023",
+      "magnitudine": "5,2 M w",
+      "intensitate": "V. Destul de puternic",
+      "epicentru": "Județul Gorj",
+      "pagube": "Nu a produs pana acum.",
+      "descriere": "S-a resimțit și în Timișoara, Cluj, Sibiu, Alba și în Serbia și în Bulgaria."
+    },
+    {
+      "data": "14 februarie 2023",
+      "magnitudine": "5,7 M w",
+      "intensitate": "VII. Foarte puternic",
+      "epicentru": "Județul Gorj",
+      "pagube": "Turla bisericii din Tismana a fost avariată grav. Mai multe clădiri din România au fost afectate. Fațada unei clădiri din Veliko Gradište, Serbia, s-a prăbușit parțial. Mai multe persoane au fost rănite ușor, iar altele au suferita atacuri de panică.",
+      "descriere": "S-a resimțit și în Timișoara, Cluj, Sibiu, Alba și în Serbia și în Bulgaria."
+    },
+    {
+      "data": "26 februarie 2023",
+      "magnitudine": "3.1 M w",
+      "intensitate": "III. Perceptibil",
+      "epicentru": "Brăila",
+      "pagube": "",
+      "descriere": "S-a resimțit în Brăila, Galați și Buzău"
+    },
+    {
+      "data": "6 iunie 2023",
+      "magnitudine": "5.3 M w",
+      "intensitate": "VII. Foarte puternic",
+      "epicentru": "Arad",
+      "pagube": "Nu au existat pagube grave și nici victime.",
+      "descriere": "S-a resimțit în Arad, Timișoara și Cluj, dar și în Serbia, Ungaria și Croatia"
+    },
+    {
+      "data": "4 decembrie 2023",
+      "magnitudine": "4.8 M w",
+      "intensitate": "IV. Moderat",
+      "epicentru": "Vrancea",
+      "pagube": "Nu au existat pagube grave și nici victime.",
+      "descriere": "Seismul s-a produs în apropierea următoarelor orașe: 54km NV de Buzau, 57km V de Focsani, 63km SE de Sfantu-Gheorghe, 68km E de Brasov, 77km NE de Ploiesti."
+    },
+    {
+      "data": "24 decembrie 2023",
+      "magnitudine": "4.2 M w",
+      "intensitate": "II. Slab",
+      "epicentru": "Vrancea",
+      "pagube": "Nu au existat pagube grave și nici victime.",
+      "descriere": "S-a resimțit în Brașov, Iasi, Galați, Bacău și Ploiești"
+    },
+    {
+      "data": "15 ianuarie 2024",
+      "magnitudine": "4.3 M w",
+      "intensitate": "III. Perceptibil",
+      "epicentru": "Vrancea",
+      "pagube": "Nu au existat pagube grave și nici victime. A avut două replici",
+      "descriere": "S-a resimțit în Brașov, Iasi, Galați, Bacău, București și Ploiești"
+    },
+    {
+      "data": "16 septembrie 2024",
+      "magnitudine": "5.4 M w",
+      "intensitate": "V. Destul de puternic",
+      "epicentru": "Vrancea",
+      "pagube": "Nu au existat pagube grave și nici victime.",
+      "descriere": "Cutremurul s-a produs la 57km NV de Buzau, 58km SE de Sfantu-Gheorghe, 61km E de Brasov, 64km V de Focsani, 73km NE de Ploiesti."
+    },
+    {
+      "data": "15 octombrie 2025",
+      "magnitudine": "4.0 M w",
+      "intensitate": "V. Destul de puternic",
+      "epicentru": "Satu Mare",
+      "pagube": "Școli evacuate. Crăpături în pereți. Avarii minore în Satu Mare.",
+      "descriere": "Cutremurul s-a produs la 22km SE de Satu Mare, 34km V de Baia Mare, 55km N de Zalău și 87km S de Mukacheve."
+    }
+  ],
+  "meta": {
+    "title": "Cutremure în România - Free Download",
+    "description": "Lista cutremurelor istorice care au afectat teritoriul României, cu data, magnitudinea, intensitatea și epicentrul. Contains 135 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Cutremure în România | ListBase",
+    "seo_description": "Download Cutremure în România — 135 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 135 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Listă_de_cutremure_în_România"
+    ]
+  }
+}
