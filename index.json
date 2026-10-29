@@ -1,12 +1,12 @@
 {
   "lang": "ro",
-  "generated": "2026-10-29T02:08:57.729Z",
-  "total_datasets": 448,
-  "total_records": 164921,
+  "generated": "2026-10-29T02:09:00.270Z",
+  "total_datasets": 449,
+  "total_records": 164980,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "culture",
@@ -102,6 +102,36 @@
     }
   ],
   "datasets": [
+    {
+      "id": "ro-soiuri-mere",
+      "name": "Soiuri de mere românești",
+      "category": "agriculture",
+      "record_count": 59,
+      "columns": [
+        "soi",
+        "forma",
+        "epiderma",
+        "greutate_fruct",
+        "pulpa",
+        "gust",
+        "perioada_recoltare",
+        "origine",
+        "anul_omologarii"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Lista_soiurilor_de_mere_românești",
+      "updated": "2026-10",
+      "size": 20569,
+      "files": {
+        "csv": {
+          "name": "ro-soiuri-mere_RO.csv",
+          "size": 7426
+        },
+        "xlsx": {
+          "name": "ro-soiuri-mere_RO.xlsx",
+          "size": 10265
+        }
+      }
+    },
     {
       "id": "ro-soiuri-struguri",
       "name": "Soiuri de struguri românești",

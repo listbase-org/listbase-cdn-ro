@@ -1,0 +1,720 @@
+{
+  "id": "ro-soiuri-mere",
+  "name": "Soiuri de mere românești",
+  "title": "Soiuri de mere românești",
+  "description": "Soiuri de măr create sau cultivate în România, cu caracteristicile fructului, perioada de recoltare, originea și anul omologării.",
+  "category": "agriculture",
+  "source": "https://ro.wikipedia.org/wiki/Lista_soiurilor_de_mere_românești",
+  "source_url": "https://ro.wikipedia.org/wiki/Lista_soiurilor_de_mere_românești",
+  "updated": "2026-10",
+  "record_count": 59,
+  "columns": [
+    {
+      "key": "soi",
+      "label": "Soi",
+      "type": "string"
+    },
+    {
+      "key": "forma",
+      "label": "Forma",
+      "type": "string"
+    },
+    {
+      "key": "epiderma",
+      "label": "Epiderma",
+      "type": "string"
+    },
+    {
+      "key": "greutate_fruct",
+      "label": "Greutate Fruct",
+      "type": "string"
+    },
+    {
+      "key": "pulpa",
+      "label": "Pulpa",
+      "type": "string"
+    },
+    {
+      "key": "gust",
+      "label": "Gust",
+      "type": "string"
+    },
+    {
+      "key": "perioada_recoltare",
+      "label": "Perioada Recoltare",
+      "type": "string"
+    },
+    {
+      "key": "origine",
+      "label": "Origine",
+      "type": "string"
+    },
+    {
+      "key": "anul_omologarii",
+      "label": "Anul Omologarii",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "soi": "Astrahan Roșu",
+      "forma": "",
+      "epiderma": "",
+      "greutate_fruct": "",
+      "pulpa": "",
+      "gust": "",
+      "perioada_recoltare": "",
+      "origine": "",
+      "anul_omologarii": ""
+    },
+    {
+      "soi": "Clar Alb",
+      "forma": "",
+      "epiderma": "",
+      "greutate_fruct": "",
+      "pulpa": "",
+      "gust": "",
+      "perioada_recoltare": "",
+      "origine": "",
+      "anul_omologarii": ""
+    },
+    {
+      "soi": "Belle Fleur",
+      "forma": "",
+      "epiderma": "",
+      "greutate_fruct": "",
+      "pulpa": "",
+      "gust": "",
+      "perioada_recoltare": "",
+      "origine": "",
+      "anul_omologarii": ""
+    },
+    {
+      "soi": "Red Melba",
+      "forma": "",
+      "epiderma": "",
+      "greutate_fruct": "",
+      "pulpa": "",
+      "gust": "",
+      "perioada_recoltare": "",
+      "origine": "",
+      "anul_omologarii": ""
+    },
+    {
+      "soi": "London Pippin",
+      "forma": "",
+      "epiderma": "",
+      "greutate_fruct": "",
+      "pulpa": "",
+      "gust": "",
+      "perioada_recoltare": "",
+      "origine": "",
+      "anul_omologarii": ""
+    },
+    {
+      "soi": "Landsberger Reinette",
+      "forma": "",
+      "epiderma": "",
+      "greutate_fruct": "",
+      "pulpa": "",
+      "gust": "",
+      "perioada_recoltare": "",
+      "origine": "",
+      "anul_omologarii": ""
+    },
+    {
+      "soi": "Parmen Auriu",
+      "forma": "",
+      "epiderma": "",
+      "greutate_fruct": "",
+      "pulpa": "",
+      "gust": "",
+      "perioada_recoltare": "",
+      "origine": "",
+      "anul_omologarii": ""
+    },
+    {
+      "soi": "Stettin Roșu",
+      "forma": "",
+      "epiderma": "",
+      "greutate_fruct": "",
+      "pulpa": "",
+      "gust": "",
+      "perioada_recoltare": "",
+      "origine": "",
+      "anul_omologarii": ""
+    },
+    {
+      "soi": "Renette de Canada",
+      "forma": "",
+      "epiderma": "",
+      "greutate_fruct": "",
+      "pulpa": "",
+      "gust": "",
+      "perioada_recoltare": "",
+      "origine": "",
+      "anul_omologarii": ""
+    },
+    {
+      "soi": "Renette Ananas",
+      "forma": "",
+      "epiderma": "",
+      "greutate_fruct": "",
+      "pulpa": "",
+      "gust": "",
+      "perioada_recoltare": "",
+      "origine": "",
+      "anul_omologarii": ""
+    },
+    {
+      "soi": "Renette Leder",
+      "forma": "",
+      "epiderma": "",
+      "greutate_fruct": "",
+      "pulpa": "",
+      "gust": "",
+      "perioada_recoltare": "",
+      "origine": "",
+      "anul_omologarii": ""
+    },
+    {
+      "soi": "Sovari Comun",
+      "forma": "",
+      "epiderma": "",
+      "greutate_fruct": "150-160 g",
+      "pulpa": "",
+      "gust": "",
+      "perioada_recoltare": "",
+      "origine": "",
+      "anul_omologarii": ""
+    },
+    {
+      "soi": "Sovari Nobil",
+      "forma": "sferică spre tronconică",
+      "epiderma": "roșu-bordo intens cu puncte alburii cu pruină multă",
+      "greutate_fruct": "150-160 g",
+      "pulpa": "albă - gălbuie; crocantă",
+      "gust": "dulce - acrișor; aroma fină",
+      "perioada_recoltare": "a IlI-a decadă septembrie - I-a decadă octombrie",
+      "origine": "România, SCDP Cluj",
+      "anul_omologarii": "1960"
+    },
+    {
+      "soi": "Strugurel (Trauben)",
+      "forma": "",
+      "epiderma": "",
+      "greutate_fruct": "",
+      "pulpa": "",
+      "gust": "",
+      "perioada_recoltare": "",
+      "origine": "",
+      "anul_omologarii": ""
+    },
+    {
+      "soi": "Ardelean",
+      "forma": "sferică spre tronconică",
+      "epiderma": "roșu-bordo intens cu puncte alburii cu pruină multă",
+      "greutate_fruct": "150-160 g",
+      "pulpa": "albă - gălbuie; crocantă",
+      "gust": "dulce - acrișor; aroma fină",
+      "perioada_recoltare": "a IlI-a decadă septembrie - I-a decadă octombrie",
+      "origine": "România, SCDP Cluj",
+      "anul_omologarii": "1960"
+    },
+    {
+      "soi": "Ciprian",
+      "forma": "sferică, ușor turtită la capete",
+      "epiderma": "roșie - închis, uniformă",
+      "greutate_fruct": "140-150 g",
+      "pulpa": "alb - gălbui, crocantă",
+      "gust": "dulce - acidulat, armonios",
+      "perioada_recoltare": "a II-a decadă a lunii octombrie în zona de deal",
+      "origine": "România, SCDP Voinești",
+      "anul_omologarii": "1998"
+    },
+    {
+      "soi": "Crețesc",
+      "forma": "sferică, pronuntat asimetric",
+      "epiderma": "",
+      "greutate_fruct": "400-500 g",
+      "pulpa": "----",
+      "gust": "----",
+      "perioada_recoltare": "----",
+      "origine": "România (soi tradițional)",
+      "anul_omologarii": ""
+    },
+    {
+      "soi": "Domnesc",
+      "forma": "sferică, pronuntat asimetric",
+      "epiderma": "fond galben acoperită cu roșu 2/3 din suprafață",
+      "greutate_fruct": "400-500 g",
+      "pulpa": "----",
+      "gust": "----",
+      "perioada_recoltare": "----",
+      "origine": "România, Moldova (soi tradițional)",
+      "anul_omologarii": ""
+    },
+    {
+      "soi": "Poinic",
+      "forma": "marine mica, mijlocie, sferic turtit",
+      "epiderma": "verde spre galbena",
+      "greutate_fruct": "----",
+      "pulpa": "alba, suculenta",
+      "gust": "dulce acidulat, racoritor si cu aroma slaba",
+      "perioada_recoltare": "----",
+      "origine": "România, valea Muresului (soi tradițional)",
+      "anul_omologarii": ""
+    },
+    {
+      "soi": "Pătul",
+      "forma": "marine mica, mijlocie, sferic turtit",
+      "epiderma": "verde spre galbena",
+      "greutate_fruct": "----",
+      "pulpa": "alba, suculenta",
+      "gust": "dulce acidulat, racoritor si cu aroma slaba",
+      "perioada_recoltare": "----",
+      "origine": "România, valea Muresului (soi tradițional)",
+      "anul_omologarii": ""
+    },
+    {
+      "soi": "Florina",
+      "forma": "sferic turtit sau tronconic",
+      "epiderma": "fond galbenă acoperit cu roșu anilină cu len-ticele albicioase pe toată suprafața",
+      "greutate_fruct": "150-180gr",
+      "pulpa": "consistentă de culoare crem, potrivit de dulce si slab acidulată plăcut aromată",
+      "gust": "potrivit de dulce si slab acidulată plăcut aromată",
+      "perioada_recoltare": "mijlocul lunii octombrie, în zona colinară și la sfârșitul lunii septembrie în zona de sud",
+      "origine": "Franța (Stațiunea Angers)",
+      "anul_omologarii": "1977"
+    },
+    {
+      "soi": "Frumos de Voinești",
+      "forma": "sferică; ușor turtită; contur aproape regulat",
+      "epiderma": "roșie - portocalie, spre purpurie, cu puncte și pete ruginii; subțire și lucioasă",
+      "greutate_fruct": "150- 160 g",
+      "pulpa": "albă-crem; crocantă; la maturarea deplină fondantă; structura fină",
+      "gust": "dulce; aroma discretă",
+      "perioada_recoltare": "octombrie",
+      "origine": "România, SCDP Voinești",
+      "anul_omologarii": "1953"
+    },
+    {
+      "soi": "Generos de Voinești",
+      "forma": "sferică; ușor turtită; contur aproape regulat",
+      "epiderma": "roșie - portocalie, spre purpurie, cu puncte și pete ruginii; subțire și lucioasă",
+      "greutate_fruct": "150- 160 g",
+      "pulpa": "albă-crem; crocantă; la maturarea deplină fondantă; structura fină",
+      "gust": "dulce; aroma discretă",
+      "perioada_recoltare": "octombrie",
+      "origine": "România, SCDP Voinești",
+      "anul_omologarii": "1953"
+    },
+    {
+      "soi": "Delicios de Voinești",
+      "forma": "sferică; ușor turtită; contur aproape regulat",
+      "epiderma": "roșie - portocalie, spre purpurie, cu puncte și pete ruginii; subțire și lucioasă",
+      "greutate_fruct": "150- 160 g",
+      "pulpa": "albă-crem; crocantă; la maturarea deplină fondantă; structura fină",
+      "gust": "dulce; aroma discretă",
+      "perioada_recoltare": "octombrie",
+      "origine": "România, SCDP Voinești",
+      "anul_omologarii": "1953"
+    },
+    {
+      "soi": "Alex",
+      "forma": "conică - globuloasă",
+      "epiderma": "fond verde-gălbui, acoperit cu roșu sub formă de zone continui cu striuri",
+      "greutate_fruct": "200g",
+      "pulpa": "galbenă, fermă, cu suculență medie, fin acidulată",
+      "gust": "plăcut",
+      "perioada_recoltare": "ultima decadă a lunii septembrie",
+      "origine": "România, SCDP Bistrița",
+      "anul_omologarii": "2004"
+    },
+    {
+      "soi": "Auriu de Bistrița",
+      "forma": "----",
+      "epiderma": "----",
+      "greutate_fruct": "----",
+      "pulpa": "----",
+      "gust": "----",
+      "perioada_recoltare": "----",
+      "origine": "România, SCDP Bistrița",
+      "anul_omologarii": "1991"
+    },
+    {
+      "soi": "Aura",
+      "forma": "----",
+      "epiderma": "----",
+      "greutate_fruct": "----",
+      "pulpa": "----",
+      "gust": "----",
+      "perioada_recoltare": "----",
+      "origine": "România, SCDP Bistrița",
+      "anul_omologarii": "1999"
+    },
+    {
+      "soi": "Salva",
+      "forma": "----",
+      "epiderma": "----",
+      "greutate_fruct": "----",
+      "pulpa": "----",
+      "gust": "----",
+      "perioada_recoltare": "----",
+      "origine": "România, SCDP Bistrița",
+      "anul_omologarii": "1999"
+    },
+    {
+      "soi": "Starkprim",
+      "forma": "----",
+      "epiderma": "----",
+      "greutate_fruct": "----",
+      "pulpa": "----",
+      "gust": "----",
+      "perioada_recoltare": "----",
+      "origine": "România, SCDP Bistrița",
+      "anul_omologarii": "2000"
+    },
+    {
+      "soi": "Ionaprim",
+      "forma": "----",
+      "epiderma": "----",
+      "greutate_fruct": "----",
+      "pulpa": "----",
+      "gust": "----",
+      "perioada_recoltare": "----",
+      "origine": "România, SCDP Bistrița",
+      "anul_omologarii": "2000"
+    },
+    {
+      "soi": "Bistrițean",
+      "forma": "conic globuloasă",
+      "epiderma": "fond galben, acoperit cu roșu sub formă de zone continui cu striuri pe toată suprafața",
+      "greutate_fruct": "160g",
+      "pulpa": "galben-verzuie, fermă, cu textură și suculentă medie",
+      "gust": "dulce",
+      "perioada_recoltare": "ultima decadă a lunii septembrie –prima decadă a lunii octombrie",
+      "origine": "România, SCDP Bistrița",
+      "anul_omologarii": "2002"
+    },
+    {
+      "soi": "Goldprim",
+      "forma": "----",
+      "epiderma": "----",
+      "greutate_fruct": "----",
+      "pulpa": "----",
+      "gust": "----",
+      "perioada_recoltare": "----",
+      "origine": "România, SCDP Bistrița",
+      "anul_omologarii": "2003"
+    },
+    {
+      "soi": "Dany",
+      "forma": "----",
+      "epiderma": "----",
+      "greutate_fruct": "----",
+      "pulpa": "----",
+      "gust": "----",
+      "perioada_recoltare": "----",
+      "origine": "România, SCDP Bistrița",
+      "anul_omologarii": "2004"
+    },
+    {
+      "soi": "Doina",
+      "forma": "----",
+      "epiderma": "----",
+      "greutate_fruct": "----",
+      "pulpa": "----",
+      "gust": "----",
+      "perioada_recoltare": "----",
+      "origine": "România, SCDP Bistrița",
+      "anul_omologarii": "2004"
+    },
+    {
+      "soi": "Generos",
+      "forma": "----",
+      "epiderma": "----",
+      "greutate_fruct": "----",
+      "pulpa": "----",
+      "gust": "----",
+      "perioada_recoltare": "----",
+      "origine": "România, SCDP Voinești",
+      "anul_omologarii": "1983"
+    },
+    {
+      "soi": "Voinea",
+      "forma": "sferică-alungită",
+      "epiderma": "jumătate din suprafață roșu - carmin",
+      "greutate_fruct": "180g",
+      "pulpa": "----",
+      "gust": "----",
+      "perioada_recoltare": "prima decadă a lunii septembrie",
+      "origine": "România, SCDP Voinești",
+      "anul_omologarii": "1985"
+    },
+    {
+      "soi": "Redix",
+      "forma": "----",
+      "epiderma": "----",
+      "greutate_fruct": "----",
+      "pulpa": "----",
+      "gust": "----",
+      "perioada_recoltare": "----",
+      "origine": "România, SCDP Voinești",
+      "anul_omologarii": "2004"
+    },
+    {
+      "soi": "Iris",
+      "forma": "----",
+      "epiderma": "----",
+      "greutate_fruct": "----",
+      "pulpa": "----",
+      "gust": "----",
+      "perioada_recoltare": "----",
+      "origine": "România, SCDP Voinești",
+      "anul_omologarii": "2005"
+    },
+    {
+      "soi": "Real",
+      "forma": "----",
+      "epiderma": "----",
+      "greutate_fruct": "----",
+      "pulpa": "----",
+      "gust": "----",
+      "perioada_recoltare": "----",
+      "origine": "România, SCDP Voinești",
+      "anul_omologarii": "2007"
+    },
+    {
+      "soi": "Irisem",
+      "forma": "sferic-aplatizat",
+      "epiderma": "roșu aprins pe 2/3 din suprafață",
+      "greutate_fruct": "175 - 180g",
+      "pulpa": "culoare crem cu fermitate mijlocie",
+      "gust": "----",
+      "perioada_recoltare": "prima decadă a lunii septembrie",
+      "origine": "România, SCDP Voinești",
+      "anul_omologarii": "2006"
+    },
+    {
+      "soi": "Luca",
+      "forma": "----",
+      "epiderma": "----",
+      "greutate_fruct": "----",
+      "pulpa": "----",
+      "gust": "----",
+      "perioada_recoltare": "----",
+      "origine": "România, SCDP Voinești",
+      "anul_omologarii": "2006"
+    },
+    {
+      "soi": "Inedit",
+      "forma": "----",
+      "epiderma": "----",
+      "greutate_fruct": "----",
+      "pulpa": "----",
+      "gust": "----",
+      "perioada_recoltare": "----",
+      "origine": "România, SCDP Voinești",
+      "anul_omologarii": "2009"
+    },
+    {
+      "soi": "Remar",
+      "forma": "----",
+      "epiderma": "----",
+      "greutate_fruct": "----",
+      "pulpa": "----",
+      "gust": "----",
+      "perioada_recoltare": "----",
+      "origine": "România, SCDP Voinești",
+      "anul_omologarii": "2008"
+    },
+    {
+      "soi": "Voinicel",
+      "forma": "----",
+      "epiderma": "----",
+      "greutate_fruct": "----",
+      "pulpa": "----",
+      "gust": "----",
+      "perioada_recoltare": "----",
+      "origine": "România, SCDP Voinești",
+      "anul_omologarii": "2009"
+    },
+    {
+      "soi": "Ponoma",
+      "forma": "----",
+      "epiderma": "----",
+      "greutate_fruct": "----",
+      "pulpa": "----",
+      "gust": "----",
+      "perioada_recoltare": "----",
+      "origine": "România, SCDP Voinești",
+      "anul_omologarii": "2008"
+    },
+    {
+      "soi": "Chindia",
+      "forma": "----",
+      "epiderma": "----",
+      "greutate_fruct": "----",
+      "pulpa": "----",
+      "gust": "----",
+      "perioada_recoltare": "----",
+      "origine": "România, SCDP Voinești",
+      "anul_omologarii": "2008"
+    },
+    {
+      "soi": "Discoprim",
+      "forma": "----",
+      "epiderma": "----",
+      "greutate_fruct": "----",
+      "pulpa": "----",
+      "gust": "----",
+      "perioada_recoltare": "----",
+      "origine": "România, SCDP Voinești",
+      "anul_omologarii": "2008"
+    },
+    {
+      "soi": "Dacian",
+      "forma": "----",
+      "epiderma": "----",
+      "greutate_fruct": "----",
+      "pulpa": "----",
+      "gust": "----",
+      "perioada_recoltare": "----",
+      "origine": "România, SCDP Voinești",
+      "anul_omologarii": "2009"
+    },
+    {
+      "soi": "Nicol",
+      "forma": "----",
+      "epiderma": "----",
+      "greutate_fruct": "----",
+      "pulpa": "----",
+      "gust": "----",
+      "perioada_recoltare": "----",
+      "origine": "România, ICDP Mărăcineni",
+      "anul_omologarii": "2005"
+    },
+    {
+      "soi": "Colmar",
+      "forma": "forma conic – globuloasă",
+      "epiderma": "roșu, cu pruină densă",
+      "greutate_fruct": "125 - 150 g",
+      "pulpa": "----",
+      "gust": "----",
+      "perioada_recoltare": "începutul lunii septembrie",
+      "origine": "România, ICDP Mărăcineni",
+      "anul_omologarii": "2006"
+    },
+    {
+      "soi": "Colonade",
+      "forma": "----",
+      "epiderma": "----",
+      "greutate_fruct": "----",
+      "pulpa": "----",
+      "gust": "----",
+      "perioada_recoltare": "----",
+      "origine": "România, ICDP Mărăcineni",
+      "anul_omologarii": "2007"
+    },
+    {
+      "soi": "Rustic",
+      "forma": "----",
+      "epiderma": "----",
+      "greutate_fruct": "----",
+      "pulpa": "----",
+      "gust": "----",
+      "perioada_recoltare": "----",
+      "origine": "România, ICDP Mărăcineni",
+      "anul_omologarii": "2008"
+    },
+    {
+      "soi": "Pionier (Vf)",
+      "forma": "----",
+      "epiderma": "----",
+      "greutate_fruct": "----",
+      "pulpa": "----",
+      "gust": "----",
+      "perioada_recoltare": "----",
+      "origine": "România, SCDP Voinești",
+      "anul_omologarii": "1983"
+    },
+    {
+      "soi": "Rebra",
+      "forma": "----",
+      "epiderma": "----",
+      "greutate_fruct": "----",
+      "pulpa": "----",
+      "gust": "----",
+      "perioada_recoltare": "----",
+      "origine": "România, ICDP Mărăcineni",
+      "anul_omologarii": "2003"
+    },
+    {
+      "soi": "Romus 1",
+      "forma": "----",
+      "epiderma": "----",
+      "greutate_fruct": "----",
+      "pulpa": "----",
+      "gust": "----",
+      "perioada_recoltare": "----",
+      "origine": "România, ICDP Mărăcineni",
+      "anul_omologarii": "1984"
+    },
+    {
+      "soi": "Romus 2",
+      "forma": "----",
+      "epiderma": "----",
+      "greutate_fruct": "----",
+      "pulpa": "----",
+      "gust": "----",
+      "perioada_recoltare": "----",
+      "origine": "România, ICPP Mărăcineni",
+      "anul_omologarii": "1984"
+    },
+    {
+      "soi": "Romus 3",
+      "forma": "----",
+      "epiderma": "----",
+      "greutate_fruct": "----",
+      "pulpa": "----",
+      "gust": "----",
+      "perioada_recoltare": "----",
+      "origine": "USA (Universitatea Rutgers) România SUA",
+      "anul_omologarii": "1984"
+    },
+    {
+      "soi": "Romus 4",
+      "forma": "sferică, ușor aplatizată",
+      "epiderma": "ceroasă, verde - gălbuie, acoperită cu roșu dungat pe 2/3 din suprafață",
+      "greutate_fruct": "130 - 150 g",
+      "pulpa": "albă - gălbuie, suculentă",
+      "gust": "bun, răcoritor",
+      "perioada_recoltare": "25 - 30 august",
+      "origine": "România, ICPP Mărăcineni",
+      "anul_omologarii": "1999"
+    },
+    {
+      "soi": "Romus 5",
+      "forma": "sferică, ușor aplatizată",
+      "epiderma": "ceroasă, verde - gălbuie, acoperită cu roșu dungat pe 2/3 din suprafață",
+      "greutate_fruct": "130 - 150 g",
+      "pulpa": "albă - gălbuie, suculentă",
+      "gust": "bun, răcoritor",
+      "perioada_recoltare": "25 - 30 august",
+      "origine": "România, ICPP Mărăcineni",
+      "anul_omologarii": "2003"
+    }
+  ],
+  "meta": {
+    "title": "Soiuri de mere românești - Free Download",
+    "description": "Soiuri de măr create sau cultivate în România, cu caracteristicile fructului, perioada de recoltare, originea și anul omologării. Contains 59 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Soiuri de mere românești | ListBase",
+    "seo_description": "Download Soiuri de mere românești — 59 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 59 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Lista_soiurilor_de_mere_românești"
+    ]
+  }
+}
