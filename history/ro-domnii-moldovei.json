@@ -1,0 +1,1606 @@
+{
+  "id": "ro-domnii-moldovei",
+  "name": "Domnii Moldovei",
+  "title": "Domnii Moldovei",
+  "description": "Lista cronologică a domnilor Principatului Moldovei, cu perioada domniei, datele de naștere și deces și dinastia.",
+  "category": "history",
+  "source": "https://ro.wikipedia.org/wiki/Lista_domnilor_Moldovei",
+  "source_url": "https://ro.wikipedia.org/wiki/Lista_domnilor_Moldovei",
+  "updated": "2026-10",
+  "record_count": 154,
+  "columns": [
+    {
+      "key": "nr",
+      "label": "Nr",
+      "type": "number"
+    },
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "supranume",
+      "label": "Supranume",
+      "type": "string"
+    },
+    {
+      "key": "inceput_domnie",
+      "label": "Inceput Domnie",
+      "type": "string"
+    },
+    {
+      "key": "sfarsit_domnie",
+      "label": "Sfarsit Domnie",
+      "type": "string"
+    },
+    {
+      "key": "nascut",
+      "label": "Nascut",
+      "type": "string"
+    },
+    {
+      "key": "decedat",
+      "label": "Decedat",
+      "type": "string"
+    },
+    {
+      "key": "dinastia",
+      "label": "Dinastia",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nr": 1,
+      "nume": "Dragoș I",
+      "supranume": "Dragoș Vodă",
+      "inceput_domnie": "cca. 1347",
+      "sfarsit_domnie": "cca. 1354",
+      "nascut": "dată necunoscută",
+      "decedat": "cca. 1354",
+      "dinastia": "Drăgoșeștilor"
+    },
+    {
+      "nr": 2,
+      "nume": "Sas",
+      "supranume": "",
+      "inceput_domnie": "cca. 1354",
+      "sfarsit_domnie": "cca. 1363",
+      "nascut": "dată necunoscută",
+      "decedat": "cca. 1363",
+      "dinastia": "Drăgoșeștilor"
+    },
+    {
+      "nr": 3,
+      "nume": "Balc",
+      "supranume": "",
+      "inceput_domnie": "cca. 1363",
+      "sfarsit_domnie": "cca. 1363",
+      "nascut": "dată necunoscută",
+      "decedat": "1399",
+      "dinastia": "Drăgoșeștilor"
+    },
+    {
+      "nr": 4,
+      "nume": "Bogdan I",
+      "supranume": "Bogdan Întemeietorul",
+      "inceput_domnie": "cca. 1363",
+      "sfarsit_domnie": "1367",
+      "nascut": "înainte 1307",
+      "decedat": "1367",
+      "dinastia": "Bogdăneștilor"
+    },
+    {
+      "nr": 5,
+      "nume": "Petru I",
+      "supranume": "",
+      "inceput_domnie": "1367",
+      "sfarsit_domnie": "VII.1368",
+      "nascut": "dată necunoscută",
+      "decedat": "iulie 1368",
+      "dinastia": "Bogdăneștilor"
+    },
+    {
+      "nr": 6,
+      "nume": "Lațcu",
+      "supranume": "",
+      "inceput_domnie": "VII.1368",
+      "sfarsit_domnie": "1373",
+      "nascut": "cca. 1345",
+      "decedat": "1373",
+      "dinastia": "Bogdăneștilor"
+    },
+    {
+      "nr": 7,
+      "nume": "Costea",
+      "supranume": "",
+      "inceput_domnie": "1373",
+      "sfarsit_domnie": "1375",
+      "nascut": "cca. 1328",
+      "decedat": "cca. 1387",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 8,
+      "nume": "Petru al II-lea",
+      "supranume": "Petru Mușat",
+      "inceput_domnie": "1375",
+      "sfarsit_domnie": "XII.1391",
+      "nascut": "dată necunoscută",
+      "decedat": "decembrie 1391",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 9,
+      "nume": "Roman I",
+      "supranume": "Roman Mușat",
+      "inceput_domnie": "XII.1391",
+      "sfarsit_domnie": "III.1394",
+      "nascut": "dată necunoscută",
+      "decedat": "martie 1394",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 10,
+      "nume": "Ștefan I",
+      "supranume": "",
+      "inceput_domnie": "XII.1394",
+      "sfarsit_domnie": "28.11.1399",
+      "nascut": "cca. 1364",
+      "decedat": "28 noiembrie 1399",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 11,
+      "nume": "Iuga Ologul",
+      "supranume": "",
+      "inceput_domnie": "28.11.1399",
+      "sfarsit_domnie": "29.06.1400",
+      "nascut": "dată necunoscută",
+      "decedat": "19 iulie 1400",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 12,
+      "nume": "Alexandru I",
+      "supranume": "Alexandru cel Bun",
+      "inceput_domnie": "29.06.1400",
+      "sfarsit_domnie": "01.01.1432",
+      "nascut": "cca. 1375",
+      "decedat": "1 ianuarie 1432",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 13,
+      "nume": "Iliaș I (1x)",
+      "supranume": "",
+      "inceput_domnie": "I.1432",
+      "sfarsit_domnie": "IX.1433",
+      "nascut": "29 iulie 1409",
+      "decedat": "23 aprilie 1448",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 14,
+      "nume": "Ștefan al II-lea (1x)",
+      "supranume": "",
+      "inceput_domnie": "IX.1433",
+      "sfarsit_domnie": "04.08.1435",
+      "nascut": "cca. 1410",
+      "decedat": "22 iulie 1447",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 15,
+      "nume": "Iliaș I (2x)",
+      "supranume": "",
+      "inceput_domnie": "04.08.1435",
+      "sfarsit_domnie": "08.03.1436",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 16,
+      "nume": "Iliaș I (3x) și Ștefan al II-lea (2x)",
+      "supranume": "",
+      "inceput_domnie": "08.03.1436",
+      "sfarsit_domnie": "01.08.1442",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 17,
+      "nume": "Ștefan al II-lea (3x)",
+      "supranume": "",
+      "inceput_domnie": "01.08.1442",
+      "sfarsit_domnie": "V.1444",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 18,
+      "nume": "Ștefan al II-lea (4x) și Petru al III-lea (1x)",
+      "supranume": "",
+      "inceput_domnie": "V.1444",
+      "sfarsit_domnie": "1445",
+      "nascut": "1422",
+      "decedat": "1452",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 19,
+      "nume": "Ștefan al II-lea (5x)",
+      "supranume": "",
+      "inceput_domnie": "1445",
+      "sfarsit_domnie": "13.07.1447",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 20,
+      "nume": "Roman al II-lea (1x)",
+      "supranume": "",
+      "inceput_domnie": "13.07.1447",
+      "sfarsit_domnie": "22.08.1447",
+      "nascut": "1426",
+      "decedat": "2 iulie 1448",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 21,
+      "nume": "Petru al III-lea (2x)",
+      "supranume": "",
+      "inceput_domnie": "22.08.1447",
+      "sfarsit_domnie": "23.12.1447",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 22,
+      "nume": "Roman al II-lea (2x)",
+      "supranume": "",
+      "inceput_domnie": "23.12.1447",
+      "sfarsit_domnie": "II/IV. 1448",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 23,
+      "nume": "Petru al III-lea (3x)",
+      "supranume": "",
+      "inceput_domnie": "05.04.1448",
+      "sfarsit_domnie": "10.10.1448",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 24,
+      "nume": "Ciubăr Vodă",
+      "supranume": "",
+      "inceput_domnie": "10.10.1448",
+      "sfarsit_domnie": "XII.1448",
+      "nascut": "dată necunoscută",
+      "decedat": "dată necunoscută",
+      "dinastia": ""
+    },
+    {
+      "nr": 25,
+      "nume": "Alexandru al II-lea (1x)",
+      "supranume": "Alexăndrel",
+      "inceput_domnie": "XII.1448",
+      "sfarsit_domnie": "12.10.1449",
+      "nascut": "cca. 1429/1438",
+      "decedat": "25 mai 1455",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 26,
+      "nume": "Bogdan al II-lea",
+      "supranume": "",
+      "inceput_domnie": "12.10.1449",
+      "sfarsit_domnie": "15.10.1451",
+      "nascut": "1409",
+      "decedat": "15 octombrie 1451",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 27,
+      "nume": "Petru Aron (1x)",
+      "supranume": "",
+      "inceput_domnie": "15.10.1451",
+      "sfarsit_domnie": "24.02.1452",
+      "nascut": "1422",
+      "decedat": "1469",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 28,
+      "nume": "Alexandru al II-lea (2x)",
+      "supranume": "Alexăndrel",
+      "inceput_domnie": "24.02.1452",
+      "sfarsit_domnie": "22.08.1454",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 29,
+      "nume": "Petru Aron (2x)",
+      "supranume": "",
+      "inceput_domnie": "25.08.1454",
+      "sfarsit_domnie": "II.1455",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 30,
+      "nume": "Alexandru al II-lea (3x)",
+      "supranume": "Alexăndrel",
+      "inceput_domnie": "II.1455",
+      "sfarsit_domnie": "25.03.1455",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 31,
+      "nume": "Petru Aron (3x)",
+      "supranume": "",
+      "inceput_domnie": "25.03.1455",
+      "sfarsit_domnie": "12.04.1457",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 32,
+      "nume": "Ștefan al III-lea",
+      "supranume": "Ștefan cel Mare",
+      "inceput_domnie": "12.04.1457",
+      "sfarsit_domnie": "02.07.1504",
+      "nascut": "1438/1439",
+      "decedat": "2 iulie 1504",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 33,
+      "nume": "Bogdan al III-lea",
+      "supranume": "Bogdan cel Orb",
+      "inceput_domnie": "02.07.1504",
+      "sfarsit_domnie": "20.04.1517",
+      "nascut": "9 martie 1479",
+      "decedat": "20 aprilie 1517",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 34,
+      "nume": "Ștefan al IV-lea",
+      "supranume": "Ștefăniță, Ștefăniță Vodă cel Tânăr",
+      "inceput_domnie": "22.04.1517",
+      "sfarsit_domnie": "14.01.1527",
+      "nascut": "1506",
+      "decedat": "14 ianuarie 1527",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 35,
+      "nume": "Petru al IV-lea (1x)",
+      "supranume": "Petru Rareș",
+      "inceput_domnie": "20.01.1527",
+      "sfarsit_domnie": "18.09.1538",
+      "nascut": "1483",
+      "decedat": "3 septembrie 1546",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 36,
+      "nume": "Ștefan al V-lea",
+      "supranume": "Ștefan Lăcustă",
+      "inceput_domnie": "18.09.1538",
+      "sfarsit_domnie": "XII.1540",
+      "nascut": "1496",
+      "decedat": "decembrie 1540",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 37,
+      "nume": "Alexandru al III-lea",
+      "supranume": "Alexandru Cornea",
+      "inceput_domnie": "XII.1540",
+      "sfarsit_domnie": "05.03.1541",
+      "nascut": "1490",
+      "decedat": "5 martie 1541",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 38,
+      "nume": "Petru al IV-lea (2x)",
+      "supranume": "Petru Rareș",
+      "inceput_domnie": "19.02.1541",
+      "sfarsit_domnie": "03.09.1546",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 39,
+      "nume": "Iliaș al II-lea",
+      "supranume": "Iliaș Rareș",
+      "inceput_domnie": "03.09.1546",
+      "sfarsit_domnie": "11.06.1551",
+      "nascut": "cca. 1530",
+      "decedat": "1562",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 40,
+      "nume": "Ștefan al VI-lea",
+      "supranume": "Ștefan Rareș, Ștefan cel Tânăr",
+      "inceput_domnie": "24.05.1551",
+      "sfarsit_domnie": "01.09.1552",
+      "nascut": "1531",
+      "decedat": "1 septembrie 1552",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 41,
+      "nume": "Ioan Joldea",
+      "supranume": "",
+      "inceput_domnie": "04.09.1552",
+      "sfarsit_domnie": "12.09.1552",
+      "nascut": "dată necunoscută",
+      "decedat": "dată necunoscută",
+      "dinastia": ""
+    },
+    {
+      "nr": 42,
+      "nume": "Alexandru al IV-lea",
+      "supranume": "Alexandru Lăpușneanu",
+      "inceput_domnie": "IX.1552",
+      "sfarsit_domnie": "18.11.1561",
+      "nascut": "1499",
+      "decedat": "5 mai 1568",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 43,
+      "nume": "Ioan Iacob Heraclid",
+      "supranume": "Despot Vodă",
+      "inceput_domnie": "18.11.1561",
+      "sfarsit_domnie": "05.11.1563",
+      "nascut": "18 noiembrie 1511",
+      "decedat": "15 noiembrie 1563",
+      "dinastia": "Heraclid"
+    },
+    {
+      "nr": 44,
+      "nume": "Ștefan al VII-lea",
+      "supranume": "Ștefan Tomșa I",
+      "inceput_domnie": "09.08.1563",
+      "sfarsit_domnie": "III.1564",
+      "nascut": "dată necunoscută",
+      "decedat": "5 mai 1564",
+      "dinastia": "Tomșa"
+    },
+    {
+      "nr": 45,
+      "nume": "Alexandru al IV-lea (2x)",
+      "supranume": "Alexandru Lăpușneanu",
+      "inceput_domnie": "III.1564",
+      "sfarsit_domnie": "09.03.1568",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 46,
+      "nume": "Bogdan al V-lea",
+      "supranume": "Bogdan Lăpușneanu",
+      "inceput_domnie": "III.1568",
+      "sfarsit_domnie": "II.1572",
+      "nascut": "19 mai 1555",
+      "decedat": "iulie 1574",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 47,
+      "nume": "Ioan al III-lea",
+      "supranume": "Ioan Vodă cel Viteaz, Ioan Vodă cel Cumplit, Ioan Vodă Armeanul",
+      "inceput_domnie": "15.02.1572",
+      "sfarsit_domnie": "11.06.1574",
+      "nascut": "1 ianuarie 1521",
+      "decedat": "14 iunie 1574",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 48,
+      "nume": "Petru al V-lea",
+      "supranume": "Petru Șchiopul",
+      "inceput_domnie": "11.06.1574",
+      "sfarsit_domnie": "08.11.1577",
+      "nascut": "1537",
+      "decedat": "1 iulie 1594",
+      "dinastia": "Drăculeștilor"
+    },
+    {
+      "nr": 49,
+      "nume": "Ioan al IV-lea",
+      "supranume": "Ioan Potcoavă",
+      "inceput_domnie": "18.11.1577.",
+      "sfarsit_domnie": "XII.1577",
+      "nascut": "dată necunoscută",
+      "decedat": "16 iunie 1578",
+      "dinastia": ""
+    },
+    {
+      "nr": 50,
+      "nume": "Petru al V-lea (2x)",
+      "supranume": "Petru Șchiopul",
+      "inceput_domnie": "13.12.1577",
+      "sfarsit_domnie": "09.02.1578",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Drăculeștilor"
+    },
+    {
+      "nr": 51,
+      "nume": "Alexandru Potcoavă",
+      "supranume": "",
+      "inceput_domnie": "09.02.1578",
+      "sfarsit_domnie": "12/13.03.1578",
+      "nascut": "dată necunoscută",
+      "decedat": "1578",
+      "dinastia": ""
+    },
+    {
+      "nr": 52,
+      "nume": "Petru al V-lea (3x)",
+      "supranume": "Petru Șchiopul",
+      "inceput_domnie": "13.03.1578",
+      "sfarsit_domnie": "02.12.1578",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Drăculeștilor"
+    },
+    {
+      "nr": 53,
+      "nume": "Ioan al V-lea",
+      "supranume": "Iancu Sasul",
+      "inceput_domnie": "09.12.1579",
+      "sfarsit_domnie": "02/05.09.1582",
+      "nascut": "înainte de 1546",
+      "decedat": "28 septembrie 1582",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 54,
+      "nume": "Petru al V-lea (4x)",
+      "supranume": "Petru Șchiopul",
+      "inceput_domnie": "17.10.1582",
+      "sfarsit_domnie": "09/19.08.1591",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Drăculeștilor"
+    },
+    {
+      "nr": 55,
+      "nume": "Aron Vodă",
+      "supranume": "Aron Tiranul",
+      "inceput_domnie": "26.12.1591",
+      "sfarsit_domnie": "25.06.1592",
+      "nascut": "cca. 1560",
+      "decedat": "iunie 1597",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 56,
+      "nume": "Petru Cazacul",
+      "supranume": "",
+      "inceput_domnie": "VI/VII.1592",
+      "sfarsit_domnie": "14.10.1592",
+      "nascut": "",
+      "decedat": "15 noiembrie 1592",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 57,
+      "nume": "Aron Vodă (2x)",
+      "supranume": "Aron Tiranul",
+      "inceput_domnie": "18.10.1592",
+      "sfarsit_domnie": "05.05.1595",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 58,
+      "nume": "Ștefan Răzvan",
+      "supranume": "",
+      "inceput_domnie": "V.1595",
+      "sfarsit_domnie": "01.09.1595",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": ""
+    },
+    {
+      "nr": 59,
+      "nume": "Ieremia Movilă",
+      "supranume": "",
+      "inceput_domnie": "VIII.1595",
+      "sfarsit_domnie": "V.1600",
+      "nascut": "cca. 1555",
+      "decedat": "10 iulie 1606",
+      "dinastia": "Movilă"
+    },
+    {
+      "nr": 60,
+      "nume": "Mihai Viteazul",
+      "supranume": "",
+      "inceput_domnie": "16.05.1600",
+      "sfarsit_domnie": "IX.1600",
+      "nascut": "1558",
+      "decedat": "19 august 1601",
+      "dinastia": "Drăculeștilor"
+    },
+    {
+      "nr": 61,
+      "nume": "Ieremia Movilă (2x)",
+      "supranume": "",
+      "inceput_domnie": "IX.1600",
+      "sfarsit_domnie": "10.07.1606",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Movilă"
+    },
+    {
+      "nr": 62,
+      "nume": "Simion Movilă",
+      "supranume": "",
+      "inceput_domnie": "VII.1606",
+      "sfarsit_domnie": "24.09.1607",
+      "nascut": "dată necunoscută",
+      "decedat": "14 septembrie 1607",
+      "dinastia": "Movilă"
+    },
+    {
+      "nr": 63,
+      "nume": "Mihail Movilă (1x)",
+      "supranume": "",
+      "inceput_domnie": "24.09.1607",
+      "sfarsit_domnie": "X.1607",
+      "nascut": "dată necunoscută",
+      "decedat": "1608",
+      "dinastia": "Movilă"
+    },
+    {
+      "nr": 64,
+      "nume": "Constantin Movilă (1x)",
+      "supranume": "",
+      "inceput_domnie": "10.07.1606",
+      "sfarsit_domnie": "VII.1606",
+      "nascut": "cca. 1594",
+      "decedat": "iulie 1612",
+      "dinastia": "Movilă"
+    },
+    {
+      "nr": 65,
+      "nume": "Mihail Movilă (2x)",
+      "supranume": "",
+      "inceput_domnie": "X.1607",
+      "sfarsit_domnie": "XII.1607",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Movilă"
+    },
+    {
+      "nr": 66,
+      "nume": "Constantin Movilă (2x)",
+      "supranume": "",
+      "inceput_domnie": "XII.1607",
+      "sfarsit_domnie": "XI.1611",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Movilă"
+    },
+    {
+      "nr": 67,
+      "nume": "Ștefan Tomșa al II-lea (1x)",
+      "supranume": "",
+      "inceput_domnie": "20.11.1611",
+      "sfarsit_domnie": "22.11.1615",
+      "nascut": "înainte de 1564",
+      "decedat": "după 1623",
+      "dinastia": "Tomșa"
+    },
+    {
+      "nr": 68,
+      "nume": "Alexandru Movilă",
+      "supranume": "",
+      "inceput_domnie": "22.11.1615",
+      "sfarsit_domnie": "02.07.1616",
+      "nascut": "1601",
+      "decedat": "1620",
+      "dinastia": "Movilă"
+    },
+    {
+      "nr": 69,
+      "nume": "Radu Mihnea",
+      "supranume": "",
+      "inceput_domnie": "24.07.1616",
+      "sfarsit_domnie": "09.02.1619",
+      "nascut": "1586",
+      "decedat": "13 ianuarie 1626",
+      "dinastia": "Drăculeștilor"
+    },
+    {
+      "nr": 70,
+      "nume": "Gaspar Graziani",
+      "supranume": "",
+      "inceput_domnie": "04.02.1619",
+      "sfarsit_domnie": "10.09.1620",
+      "nascut": "1575/1580",
+      "decedat": "29 septembrie 1620",
+      "dinastia": "Graziani"
+    },
+    {
+      "nr": 71,
+      "nume": "Alexandru Iliaș (1x)",
+      "supranume": "",
+      "inceput_domnie": "20.09.1620",
+      "sfarsit_domnie": "IX.1621",
+      "nascut": "dată necunoscută",
+      "decedat": "1666",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 72,
+      "nume": "Ștefan Tomșa al II-lea (2x)",
+      "supranume": "",
+      "inceput_domnie": "IX.1621",
+      "sfarsit_domnie": "VIII.1623",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Tomșa"
+    },
+    {
+      "nr": 73,
+      "nume": "Radu Mihnea (2x)",
+      "supranume": "",
+      "inceput_domnie": "04.08.1623",
+      "sfarsit_domnie": "13.01.1626",
+      "nascut": "1586",
+      "decedat": "13 ianuarie 1626",
+      "dinastia": "Drăculeștilor"
+    },
+    {
+      "nr": 74,
+      "nume": "Miron Barnovschi (1x)",
+      "supranume": "",
+      "inceput_domnie": "23.01.1626",
+      "sfarsit_domnie": "VI.1629",
+      "nascut": "cca. 1590",
+      "decedat": "2 iulie 1633",
+      "dinastia": "Movilă"
+    },
+    {
+      "nr": 75,
+      "nume": "Alexandru al V-lea",
+      "supranume": "Alexandru Coconul",
+      "inceput_domnie": "VI.1629",
+      "sfarsit_domnie": "IV.1630",
+      "nascut": "14 august 1611",
+      "decedat": "26 iunie 1632",
+      "dinastia": "Drăculeștilor"
+    },
+    {
+      "nr": 76,
+      "nume": "Moise Movilă (1x)",
+      "supranume": "",
+      "inceput_domnie": "28.04.1630",
+      "sfarsit_domnie": "XI.1631",
+      "nascut": "1596",
+      "decedat": "1661",
+      "dinastia": "Movilă"
+    },
+    {
+      "nr": 77,
+      "nume": "Alexandru Iliaș (2x)",
+      "supranume": "",
+      "inceput_domnie": "05.12.1631",
+      "sfarsit_domnie": "IV.1633",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 78,
+      "nume": "Miron Barnovschi (2x)",
+      "supranume": "",
+      "inceput_domnie": "03.05.1633",
+      "sfarsit_domnie": "02.07.1633",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Movilă"
+    },
+    {
+      "nr": 79,
+      "nume": "Moise Movilă (2x)",
+      "supranume": "",
+      "inceput_domnie": "05.07.1633",
+      "sfarsit_domnie": "IV.1634",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Movilă"
+    },
+    {
+      "nr": 80,
+      "nume": "Vasile Lupu (1x)",
+      "supranume": "",
+      "inceput_domnie": "IV.1634",
+      "sfarsit_domnie": "13.04.1653",
+      "nascut": "cca. 1595",
+      "decedat": "1661",
+      "dinastia": "Lupu"
+    },
+    {
+      "nr": 81,
+      "nume": "Gheorghe Ștefan (1x)",
+      "supranume": "",
+      "inceput_domnie": "13.04.1653",
+      "sfarsit_domnie": "08.05.1653",
+      "nascut": "dată necunoscută",
+      "decedat": "1668",
+      "dinastia": ""
+    },
+    {
+      "nr": 82,
+      "nume": "Vasile Lupu (2x)",
+      "supranume": "",
+      "inceput_domnie": "08.05.1653",
+      "sfarsit_domnie": "16.07.1653",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Lupu"
+    },
+    {
+      "nr": 83,
+      "nume": "Gheorghe Ștefan (2x)",
+      "supranume": "",
+      "inceput_domnie": "16.07.1653",
+      "sfarsit_domnie": "13.03.1658",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": ""
+    },
+    {
+      "nr": 84,
+      "nume": "Gheorghe Ghica",
+      "supranume": "",
+      "inceput_domnie": "13.03.1659",
+      "sfarsit_domnie": "02.11.1659",
+      "nascut": "3 martie 1600",
+      "decedat": "2 noiembrie 1664",
+      "dinastia": "Ghica"
+    },
+    {
+      "nr": 85,
+      "nume": "Constantin Șerban (1x)",
+      "supranume": "",
+      "inceput_domnie": "X.1659",
+      "sfarsit_domnie": "XI.1659",
+      "nascut": "Înainte de 1620",
+      "decedat": "1685",
+      "dinastia": "Șerban"
+    },
+    {
+      "nr": 86,
+      "nume": "Ștefăniță Lupu (1x)",
+      "supranume": "Papură-Vodă",
+      "inceput_domnie": "01.12.1659",
+      "sfarsit_domnie": "I.1661",
+      "nascut": "1641",
+      "decedat": "29 septembrie 1661",
+      "dinastia": "Lupu"
+    },
+    {
+      "nr": 87,
+      "nume": "Constantin Șerban (2x)",
+      "supranume": "",
+      "inceput_domnie": "31.01.1661",
+      "sfarsit_domnie": "II.1661",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Șerban"
+    },
+    {
+      "nr": 88,
+      "nume": "Ștefăniță Lupu (2x)",
+      "supranume": "Papură-Vodă",
+      "inceput_domnie": "27.02.1661",
+      "sfarsit_domnie": "29.09.1661",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Lupu"
+    },
+    {
+      "nr": 89,
+      "nume": "Eustratie Dabija",
+      "supranume": "",
+      "inceput_domnie": "29.09.1661",
+      "sfarsit_domnie": "21.09.1665",
+      "nascut": "dată necunoscută",
+      "decedat": "21 septembrie 1665",
+      "dinastia": "Dabija"
+    },
+    {
+      "nr": 90,
+      "nume": "Gheorghe Duca (1x)",
+      "supranume": "",
+      "inceput_domnie": "XI.1665",
+      "sfarsit_domnie": "V.1666",
+      "nascut": "1620",
+      "decedat": "31 martie 1685",
+      "dinastia": "Ducas"
+    },
+    {
+      "nr": 91,
+      "nume": "Iliaș Alexandru",
+      "supranume": "",
+      "inceput_domnie": "21.05.1666",
+      "sfarsit_domnie": "08.11.1668",
+      "nascut": "cca. 1635",
+      "decedat": "1675",
+      "dinastia": "Mușatinilor"
+    },
+    {
+      "nr": 92,
+      "nume": "Gheorghe Duca (2x)",
+      "supranume": "",
+      "inceput_domnie": "XI.1668",
+      "sfarsit_domnie": "10.08.1672",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Ducas"
+    },
+    {
+      "nr": 93,
+      "nume": "Ștefan Petriceicu (1x)",
+      "supranume": "",
+      "inceput_domnie": "20.08.1672",
+      "sfarsit_domnie": "XI.1673",
+      "nascut": "dată necunoscută",
+      "decedat": "1690",
+      "dinastia": "Petriceicu"
+    },
+    {
+      "nr": 94,
+      "nume": "Dumitrașcu Cantacuzino (1x)",
+      "supranume": "",
+      "inceput_domnie": "XI.1673",
+      "sfarsit_domnie": "XI.1673",
+      "nascut": "1620",
+      "decedat": "1686",
+      "dinastia": "Cantacuzino"
+    },
+    {
+      "nr": 95,
+      "nume": "Ștefan Petriceicu (2x)",
+      "supranume": "",
+      "inceput_domnie": "XII.1673",
+      "sfarsit_domnie": "22.02.1674",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Petriceicu"
+    },
+    {
+      "nr": 96,
+      "nume": "Dumitrașcu Cantacuzino (2x)",
+      "supranume": "",
+      "inceput_domnie": "II.1674",
+      "sfarsit_domnie": "10.11.1675",
+      "nascut": "1620",
+      "decedat": "1686",
+      "dinastia": "Cantacuzino"
+    },
+    {
+      "nr": 97,
+      "nume": "Antonie Ruset",
+      "supranume": "",
+      "inceput_domnie": "10.11.1675",
+      "sfarsit_domnie": "XI.1678",
+      "nascut": "cca. 1615",
+      "decedat": "1685",
+      "dinastia": "Rosetti"
+    },
+    {
+      "nr": 98,
+      "nume": "Gheorghe Duca (3x)",
+      "supranume": "",
+      "inceput_domnie": "XI.1678",
+      "sfarsit_domnie": "25.12.1683",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Ducas"
+    },
+    {
+      "nr": 99,
+      "nume": "Ștefan Petriceicu (3x)",
+      "supranume": "",
+      "inceput_domnie": "25.12.1683",
+      "sfarsit_domnie": "III.1684",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Petriceicu"
+    },
+    {
+      "nr": 100,
+      "nume": "Dumitrașcu Cantacuzino (3x)",
+      "supranume": "",
+      "inceput_domnie": "08.02.1684",
+      "sfarsit_domnie": "25.06.1685",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Cantacuzino"
+    },
+    {
+      "nr": 101,
+      "nume": "Constantin Cantemir",
+      "supranume": "",
+      "inceput_domnie": "25.06.1685",
+      "sfarsit_domnie": "13.03.1693",
+      "nascut": "8 noiembrie 1612",
+      "decedat": "13 martie 1693",
+      "dinastia": "Cantemirești"
+    },
+    {
+      "nr": 102,
+      "nume": "Dimitrie Cantemir (1x)",
+      "supranume": "",
+      "inceput_domnie": "18.03.1693",
+      "sfarsit_domnie": "IV.1693",
+      "nascut": "26 octombrie 1673",
+      "decedat": "21 august 1723",
+      "dinastia": "Cantemirești"
+    },
+    {
+      "nr": 103,
+      "nume": "Constantin Duca (1x)",
+      "supranume": "",
+      "inceput_domnie": "IV.1693",
+      "sfarsit_domnie": "18.12.1695",
+      "nascut": "dată necunoscută",
+      "decedat": "1704",
+      "dinastia": "Ducas"
+    },
+    {
+      "nr": 104,
+      "nume": "Antioh Cantemir (1x)",
+      "supranume": "",
+      "inceput_domnie": "18.12.1695",
+      "sfarsit_domnie": "25.09.1700",
+      "nascut": "4 decembrie 1671",
+      "decedat": "1726",
+      "dinastia": "Cantemirești"
+    },
+    {
+      "nr": 105,
+      "nume": "Constantin Duca (2x)",
+      "supranume": "",
+      "inceput_domnie": "12.09.1700",
+      "sfarsit_domnie": "26.07.1703",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Ducas"
+    },
+    {
+      "nr": 106,
+      "nume": "Mihai Racoviță (1x)",
+      "supranume": "",
+      "inceput_domnie": "04.10.1703",
+      "sfarsit_domnie": "13.02.1705",
+      "nascut": "cca. 1660",
+      "decedat": "VII.1744",
+      "dinastia": "Racoviță"
+    },
+    {
+      "nr": 107,
+      "nume": "Antioh Cantemir (2x)",
+      "supranume": "",
+      "inceput_domnie": "23.02.1705",
+      "sfarsit_domnie": "31.07.1707",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Cantemirești"
+    },
+    {
+      "nr": 108,
+      "nume": "Mihai Racoviță (2x)",
+      "supranume": "",
+      "inceput_domnie": "31.07.1707",
+      "sfarsit_domnie": "28.10.1709",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Racoviță"
+    },
+    {
+      "nr": 109,
+      "nume": "Nicolae Mavrocordat (1x)",
+      "supranume": "",
+      "inceput_domnie": "17.11.1709",
+      "sfarsit_domnie": "21.11.1710",
+      "nascut": "03.05.1680",
+      "decedat": "03.09.1730",
+      "dinastia": "Mavrocordat"
+    },
+    {
+      "nr": 110,
+      "nume": "Dimitrie Cantemir (2x)",
+      "supranume": "",
+      "inceput_domnie": "04.12.1710",
+      "sfarsit_domnie": "22.07.1711",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Cantemirești"
+    },
+    {
+      "nr": 111,
+      "nume": "Nicolae Mavrocordat (2x)",
+      "supranume": "",
+      "inceput_domnie": "08.11.1711",
+      "sfarsit_domnie": "05.01.1716",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Mavrocordat"
+    },
+    {
+      "nr": 112,
+      "nume": "Mihai Racoviță (3x)",
+      "supranume": "",
+      "inceput_domnie": "05.01.1715",
+      "sfarsit_domnie": "07.10.1726",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Racoviță"
+    },
+    {
+      "nr": 113,
+      "nume": "Grigore al II-lea Ghica (1x)",
+      "supranume": "",
+      "inceput_domnie": "05.10.1726",
+      "sfarsit_domnie": "16.04.1733",
+      "nascut": "1695",
+      "decedat": "03.09.1752",
+      "dinastia": "Ghica"
+    },
+    {
+      "nr": 114,
+      "nume": "Constantin Mavrocordat (1x)",
+      "supranume": "",
+      "inceput_domnie": "16.04.1733",
+      "sfarsit_domnie": "27.11.1735",
+      "nascut": "27.02.1711",
+      "decedat": "15.12.1769",
+      "dinastia": "Mavrocordat"
+    },
+    {
+      "nr": 115,
+      "nume": "Grigore al II-lea Ghica (2x)",
+      "supranume": "",
+      "inceput_domnie": "27.11.1735",
+      "sfarsit_domnie": "13.09.1739",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Ghica"
+    },
+    {
+      "nr": 116,
+      "nume": "Grigore al II-lea Ghica (3x)",
+      "supranume": "",
+      "inceput_domnie": "24.10.1739",
+      "sfarsit_domnie": "10.09.1741",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Ghica"
+    },
+    {
+      "nr": 117,
+      "nume": "Constantin Mavrocordat (2x)",
+      "supranume": "",
+      "inceput_domnie": "16.09.1741",
+      "sfarsit_domnie": "29.07.1743",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Mavrocordat"
+    },
+    {
+      "nr": 118,
+      "nume": "Ioan N. Mavrocordat",
+      "supranume": "",
+      "inceput_domnie": "29.06.1743",
+      "sfarsit_domnie": "V.1747",
+      "nascut": "12.03.1712",
+      "decedat": "29.07.1747",
+      "dinastia": "Mavrocordat"
+    },
+    {
+      "nr": 119,
+      "nume": "Grigore al II-lea Ghica (4x)",
+      "supranume": "",
+      "inceput_domnie": "V.1747",
+      "sfarsit_domnie": "IV.1748",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Ghica"
+    },
+    {
+      "nr": 120,
+      "nume": "Constantin Mavrocordat (3x)",
+      "supranume": "",
+      "inceput_domnie": "IV.1748",
+      "sfarsit_domnie": "31.08.1749",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Mavrocordat"
+    },
+    {
+      "nr": 121,
+      "nume": "Constantin Racoviță (1x)",
+      "supranume": "",
+      "inceput_domnie": "31.08.1749",
+      "sfarsit_domnie": "14.06.1753",
+      "nascut": "1699",
+      "decedat": "28.01.1764",
+      "dinastia": "Racoviță"
+    },
+    {
+      "nr": 122,
+      "nume": "Matei Ghica",
+      "supranume": "",
+      "inceput_domnie": "03.07.1753",
+      "sfarsit_domnie": "19.02.1756",
+      "nascut": "1728",
+      "decedat": "19.02.1756",
+      "dinastia": "Ghica"
+    },
+    {
+      "nr": 123,
+      "nume": "Constantin Racoviță (2x)",
+      "supranume": "",
+      "inceput_domnie": "11.03.1756",
+      "sfarsit_domnie": "20.03.1757",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Racoviță"
+    },
+    {
+      "nr": 124,
+      "nume": "Scarlat Ghica",
+      "supranume": "",
+      "inceput_domnie": "02.03.1757",
+      "sfarsit_domnie": "07.08.1758",
+      "nascut": "1715",
+      "decedat": "02.12.1766",
+      "dinastia": "Ghica"
+    },
+    {
+      "nr": 125,
+      "nume": "Ioan Teodor Callimachi",
+      "supranume": "",
+      "inceput_domnie": "07.08.1758",
+      "sfarsit_domnie": "11.06.1761",
+      "nascut": "1690",
+      "decedat": "1780",
+      "dinastia": "Callimachi"
+    },
+    {
+      "nr": 126,
+      "nume": "Grigore Callimachi (1x)",
+      "supranume": "",
+      "inceput_domnie": "11.06.1761",
+      "sfarsit_domnie": "29.03.1764",
+      "nascut": "1735",
+      "decedat": "09.09.1769",
+      "dinastia": "Callimachi"
+    },
+    {
+      "nr": 127,
+      "nume": "Grigore al III-lea Ghica (1x)",
+      "supranume": "",
+      "inceput_domnie": "14.03.1764",
+      "sfarsit_domnie": "23.01.1767",
+      "nascut": "1724",
+      "decedat": "12.10.1779",
+      "dinastia": "Ghica"
+    },
+    {
+      "nr": 128,
+      "nume": "Grigore Callimachi (2x)",
+      "supranume": "",
+      "inceput_domnie": "03.02.1767",
+      "sfarsit_domnie": "14.06.1769",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Callimachi"
+    },
+    {
+      "nr": 129,
+      "nume": "Constantin Mavrocordat (4x)",
+      "supranume": "",
+      "inceput_domnie": "29.06.1769",
+      "sfarsit_domnie": "15.12.1769",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Mavrocordat"
+    },
+    {
+      "nr": 130,
+      "nume": "Grigore al III-lea Ghica (2x)",
+      "supranume": "",
+      "inceput_domnie": "IX.1774",
+      "sfarsit_domnie": "12.10.1777",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Ghica"
+    },
+    {
+      "nr": 131,
+      "nume": "Constantin Moruzi",
+      "supranume": "",
+      "inceput_domnie": "X.1777",
+      "sfarsit_domnie": "08.06.1782",
+      "nascut": "1730",
+      "decedat": "01.05.1787",
+      "dinastia": "Moruzi"
+    },
+    {
+      "nr": 132,
+      "nume": "Alexandru I Mavrocordat",
+      "supranume": "Deli-bei",
+      "inceput_domnie": "08.06.1782",
+      "sfarsit_domnie": "12.01.1785",
+      "nascut": "1742",
+      "decedat": "27.03.1812",
+      "dinastia": "Mavrocordat"
+    },
+    {
+      "nr": 133,
+      "nume": "Alexandru al II-lea Mavrocordat",
+      "supranume": "Firaris",
+      "inceput_domnie": "12.01.1785",
+      "sfarsit_domnie": "14.12.1786",
+      "nascut": "01.07.1754",
+      "decedat": "08.02.1819",
+      "dinastia": "Mavrocordat"
+    },
+    {
+      "nr": 134,
+      "nume": "Alexandru Vodă Ipsilanti",
+      "supranume": "",
+      "inceput_domnie": "XII.1786",
+      "sfarsit_domnie": "19.04.1788",
+      "nascut": "1726",
+      "decedat": "13.01.1807",
+      "dinastia": "Ipsilanti"
+    },
+    {
+      "nr": 135,
+      "nume": "Manole Giani Ruset",
+      "supranume": "",
+      "inceput_domnie": "11.05.1788",
+      "sfarsit_domnie": "X.1788",
+      "nascut": "1715",
+      "decedat": "08.03.1794",
+      "dinastia": "Rosetti"
+    },
+    {
+      "nr": 136,
+      "nume": "Alexandru Moruzi (1x)",
+      "supranume": "",
+      "inceput_domnie": "III.1792",
+      "sfarsit_domnie": "I.1793",
+      "nascut": "1750",
+      "decedat": "1816",
+      "dinastia": "Moruzi"
+    },
+    {
+      "nr": 137,
+      "nume": "Mihai Suțu",
+      "supranume": "",
+      "inceput_domnie": "10.01.1793",
+      "sfarsit_domnie": "06.05.1795",
+      "nascut": "1730",
+      "decedat": "1803",
+      "dinastia": "Suțu"
+    },
+    {
+      "nr": 138,
+      "nume": "Alexandru Callimachi",
+      "supranume": "",
+      "inceput_domnie": "06.05.1795",
+      "sfarsit_domnie": "III.1799",
+      "nascut": "1737",
+      "decedat": "24.12.1821",
+      "dinastia": "Callimachi"
+    },
+    {
+      "nr": 139,
+      "nume": "Constantin Ipsilanti (1x)",
+      "supranume": "",
+      "inceput_domnie": "08.03.1799",
+      "sfarsit_domnie": "04.07.1801",
+      "nascut": "1760",
+      "decedat": "16.06.1816",
+      "dinastia": "Ipsilanti"
+    },
+    {
+      "nr": 140,
+      "nume": "Alexandru Suțu",
+      "supranume": "",
+      "inceput_domnie": "10.07.1801",
+      "sfarsit_domnie": "01.10.1802",
+      "nascut": "1758",
+      "decedat": "21.01.1821",
+      "dinastia": "Suțu"
+    },
+    {
+      "nr": 141,
+      "nume": "Alexandru Moruzi (2x)",
+      "supranume": "",
+      "inceput_domnie": "04.10.1802",
+      "sfarsit_domnie": "VIII.1806",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Moruzi"
+    },
+    {
+      "nr": 142,
+      "nume": "Scarlat Callimachi (1x)",
+      "supranume": "",
+      "inceput_domnie": "24.08.1806",
+      "sfarsit_domnie": "26.10.1806",
+      "nascut": "1773",
+      "decedat": "24.12.1821",
+      "dinastia": "Callimachi"
+    },
+    {
+      "nr": 143,
+      "nume": "Alexandru Moruzi (3x)",
+      "supranume": "",
+      "inceput_domnie": "17.10.1806",
+      "sfarsit_domnie": "19.03.1807",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Moruzi"
+    },
+    {
+      "nr": 144,
+      "nume": "Constantin Ipsilanti (2x)",
+      "supranume": "",
+      "inceput_domnie": "XII.1806",
+      "sfarsit_domnie": "VIII.1807",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Ipsilanti"
+    },
+    {
+      "nr": 145,
+      "nume": "Alexandru Hangerli",
+      "supranume": "",
+      "inceput_domnie": "07.03.1807",
+      "sfarsit_domnie": "24.07.1807",
+      "nascut": "1768",
+      "decedat": "12.06.1854",
+      "dinastia": "Hangerli"
+    },
+    {
+      "nr": 146,
+      "nume": "Scarlat Callimachi (2x)",
+      "supranume": "",
+      "inceput_domnie": "04.08.1807",
+      "sfarsit_domnie": "13.06.1810",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Callimachi"
+    },
+    {
+      "nr": 147,
+      "nume": "Scarlat Callimachi (3x)",
+      "supranume": "",
+      "inceput_domnie": "17.09.1812",
+      "sfarsit_domnie": "VI.1819",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Callimachi"
+    },
+    {
+      "nr": 148,
+      "nume": "Mihail Suțu",
+      "supranume": "",
+      "inceput_domnie": "12.06.1819",
+      "sfarsit_domnie": "29.03.1821",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Suțu"
+    },
+    {
+      "nr": 149,
+      "nume": "Eteria condusă de Alexandru Ipsilanti Eteristul",
+      "supranume": "Eteristul",
+      "inceput_domnie": "II.1821",
+      "sfarsit_domnie": "III.1821",
+      "nascut": "12.12.1792",
+      "decedat": "31.01.1828",
+      "dinastia": "Ipsilanti"
+    },
+    {
+      "nr": 150,
+      "nume": "Ioniță Sandu Sturdza",
+      "supranume": "",
+      "inceput_domnie": "IX.1822",
+      "sfarsit_domnie": "IV.1828",
+      "nascut": "cca. 1760",
+      "decedat": "02.02.1842",
+      "dinastia": "Sturza"
+    },
+    {
+      "nr": 151,
+      "nume": "Mihail Sturza",
+      "supranume": "",
+      "inceput_domnie": "IV.1834",
+      "sfarsit_domnie": "VI.1849",
+      "nascut": "24.04.1794",
+      "decedat": "08.05.1884",
+      "dinastia": "Sturza"
+    },
+    {
+      "nr": 152,
+      "nume": "Grigore Alexandru Ghica (1x)",
+      "supranume": "",
+      "inceput_domnie": "V.1849",
+      "sfarsit_domnie": "X.1853",
+      "nascut": "27.08.1804",
+      "decedat": "24.08.1857",
+      "dinastia": "Ghica"
+    },
+    {
+      "nr": 153,
+      "nume": "Grigore Alexandru Ghica (2x)",
+      "supranume": "",
+      "inceput_domnie": "X.1854",
+      "sfarsit_domnie": "03.06.1856",
+      "nascut": "",
+      "decedat": "",
+      "dinastia": "Ghica"
+    },
+    {
+      "nr": 154,
+      "nume": "Alexandru Ioan Cuza",
+      "supranume": "",
+      "inceput_domnie": "17.01.1859",
+      "sfarsit_domnie": "05.02.1862",
+      "nascut": "20.03.1820",
+      "decedat": "15.05.1873",
+      "dinastia": "Cuza"
+    }
+  ],
+  "meta": {
+    "title": "Domnii Moldovei - Free Download",
+    "description": "Lista cronologică a domnilor Principatului Moldovei, cu perioada domniei, datele de naștere și deces și dinastia. Contains 154 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Domnii Moldovei | ListBase",
+    "seo_description": "Download Domnii Moldovei — 154 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 154 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Lista_domnilor_Moldovei"
+    ]
+  }
+}

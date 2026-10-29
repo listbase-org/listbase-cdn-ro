@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-10-28T02:18:38.792Z",
-  "total_datasets": 446,
-  "total_records": 164727,
+  "generated": "2026-10-29T02:08:54.757Z",
+  "total_datasets": 447,
+  "total_records": 164881,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "language",
@@ -5299,6 +5299,35 @@
         "xlsx": {
           "name": "ro-statiuni-balneoclimaterice_RO.xlsx",
           "size": 9514
+        }
+      }
+    },
+    {
+      "id": "ro-domnii-moldovei",
+      "name": "Domnii Moldovei",
+      "category": "history",
+      "record_count": 154,
+      "columns": [
+        "nr",
+        "nume",
+        "supranume",
+        "inceput_domnie",
+        "sfarsit_domnie",
+        "nascut",
+        "decedat",
+        "dinastia"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Lista_domnilor_Moldovei",
+      "updated": "2026-10",
+      "size": 40652,
+      "files": {
+        "csv": {
+          "name": "ro-domnii-moldovei_RO.csv",
+          "size": 13976
+        },
+        "xlsx": {
+          "name": "ro-domnii-moldovei_RO.xlsx",
+          "size": 15840
         }
       }
     },
