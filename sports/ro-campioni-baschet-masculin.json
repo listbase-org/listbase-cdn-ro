@@ -1,0 +1,656 @@
+{
+  "id": "ro-campioni-baschet-masculin",
+  "name": "Campionii României la baschet masculin",
+  "title": "Campionii României la baschet masculin",
+  "description": "Palmaresul Ligii Naționale de baschet masculin a României pe sezoane: campioana, scorul finalei, vicecampioana și locurile 3–4.",
+  "category": "sports",
+  "source": "https://ro.wikipedia.org/wiki/Liga_Națională_(baschet_masculin)",
+  "source_url": "https://ro.wikipedia.org/wiki/Liga_Națională_(baschet_masculin)",
+  "updated": "2026-10",
+  "record_count": 75,
+  "columns": [
+    {
+      "key": "sezon",
+      "label": "Sezon",
+      "type": "string"
+    },
+    {
+      "key": "campioana",
+      "label": "Campioana",
+      "type": "string"
+    },
+    {
+      "key": "scor_finala",
+      "label": "Scor Finala",
+      "type": "string"
+    },
+    {
+      "key": "vicecampioana",
+      "label": "Vicecampioana",
+      "type": "string"
+    },
+    {
+      "key": "locul_3",
+      "label": "Locul 3",
+      "type": "string"
+    },
+    {
+      "key": "locul_4",
+      "label": "Locul 4",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sezon": "1950/51",
+      "campioana": "Metalul 23 August București",
+      "scor_finala": "",
+      "vicecampioana": "",
+      "locul_3": "",
+      "locul_4": ""
+    },
+    {
+      "sezon": "1951/52",
+      "campioana": "Metalul 23 August București",
+      "scor_finala": "",
+      "vicecampioana": "",
+      "locul_3": "",
+      "locul_4": ""
+    },
+    {
+      "sezon": "1952/53",
+      "campioana": "Dinamo București",
+      "scor_finala": "",
+      "vicecampioana": "",
+      "locul_3": "",
+      "locul_4": ""
+    },
+    {
+      "sezon": "1953/54",
+      "campioana": "Dinamo București",
+      "scor_finala": "",
+      "vicecampioana": "",
+      "locul_3": "",
+      "locul_4": ""
+    },
+    {
+      "sezon": "1954/55",
+      "campioana": "Dinamo București",
+      "scor_finala": "",
+      "vicecampioana": "",
+      "locul_3": "",
+      "locul_4": ""
+    },
+    {
+      "sezon": "1956/57",
+      "campioana": "Dinamo București",
+      "scor_finala": "",
+      "vicecampioana": "",
+      "locul_3": "",
+      "locul_4": ""
+    },
+    {
+      "sezon": "1957/58",
+      "campioana": "CCA București",
+      "scor_finala": "",
+      "vicecampioana": "",
+      "locul_3": "",
+      "locul_4": ""
+    },
+    {
+      "sezon": "1958/59",
+      "campioana": "CCA București",
+      "scor_finala": "",
+      "vicecampioana": "U Cluj",
+      "locul_3": "Dinamo București",
+      "locul_4": "Dinamo Târgu Mureș"
+    },
+    {
+      "sezon": "1959/60",
+      "campioana": "CCA București",
+      "scor_finala": "",
+      "vicecampioana": "Dinamo Târgu Mureș",
+      "locul_3": "U Cluj",
+      "locul_4": ""
+    },
+    {
+      "sezon": "1960/61",
+      "campioana": "CCA București",
+      "scor_finala": "",
+      "vicecampioana": "Dinamo Târgu Mureș",
+      "locul_3": "Dinamo București",
+      "locul_4": "Rapid București"
+    },
+    {
+      "sezon": "1961/62",
+      "campioana": "CCA București",
+      "scor_finala": "",
+      "vicecampioana": "U Cluj",
+      "locul_3": "",
+      "locul_4": ""
+    },
+    {
+      "sezon": "1962/63",
+      "campioana": "CCA București",
+      "scor_finala": "",
+      "vicecampioana": "U Cluj",
+      "locul_3": "",
+      "locul_4": ""
+    },
+    {
+      "sezon": "1963/64",
+      "campioana": "CCA București",
+      "scor_finala": "",
+      "vicecampioana": "",
+      "locul_3": "",
+      "locul_4": ""
+    },
+    {
+      "sezon": "1964/65",
+      "campioana": "Dinamo București",
+      "scor_finala": "",
+      "vicecampioana": "",
+      "locul_3": "",
+      "locul_4": ""
+    },
+    {
+      "sezon": "1965/66",
+      "campioana": "CCA București",
+      "scor_finala": "",
+      "vicecampioana": "",
+      "locul_3": "U Cluj",
+      "locul_4": ""
+    },
+    {
+      "sezon": "1966/67",
+      "campioana": "CCA București",
+      "scor_finala": "",
+      "vicecampioana": "",
+      "locul_3": "U Cluj",
+      "locul_4": ""
+    },
+    {
+      "sezon": "1967/68",
+      "campioana": "Dinamo București",
+      "scor_finala": "",
+      "vicecampioana": "",
+      "locul_3": "",
+      "locul_4": ""
+    },
+    {
+      "sezon": "1968/69",
+      "campioana": "Dinamo București",
+      "scor_finala": "",
+      "vicecampioana": "Steaua București",
+      "locul_3": "Politehnica București",
+      "locul_4": "Rapid București"
+    },
+    {
+      "sezon": "1969/70",
+      "campioana": "Dinamo București",
+      "scor_finala": "",
+      "vicecampioana": "Steaua București",
+      "locul_3": "U Cluj",
+      "locul_4": "Universitatea Timișoara"
+    },
+    {
+      "sezon": "1970/71",
+      "campioana": "Dinamo București",
+      "scor_finala": "",
+      "vicecampioana": "",
+      "locul_3": "",
+      "locul_4": ""
+    },
+    {
+      "sezon": "1971/72",
+      "campioana": "Dinamo București",
+      "scor_finala": "",
+      "vicecampioana": "",
+      "locul_3": "",
+      "locul_4": ""
+    },
+    {
+      "sezon": "1972/73",
+      "campioana": "Dinamo București",
+      "scor_finala": "",
+      "vicecampioana": "Steaua București",
+      "locul_3": "U Cluj",
+      "locul_4": ""
+    },
+    {
+      "sezon": "1973/74",
+      "campioana": "Dinamo București",
+      "scor_finala": "",
+      "vicecampioana": "Steaua București",
+      "locul_3": "",
+      "locul_4": ""
+    },
+    {
+      "sezon": "1974/75",
+      "campioana": "Dinamo București",
+      "scor_finala": "",
+      "vicecampioana": "Steaua București",
+      "locul_3": "Universitatea Timișoara",
+      "locul_4": "IEFS București"
+    },
+    {
+      "sezon": "1975/76",
+      "campioana": "Dinamo București",
+      "scor_finala": "",
+      "vicecampioana": "Steaua București",
+      "locul_3": "U Cluj",
+      "locul_4": ""
+    },
+    {
+      "sezon": "1976/77",
+      "campioana": "Dinamo București",
+      "scor_finala": "",
+      "vicecampioana": "Steaua București",
+      "locul_3": "U Cluj",
+      "locul_4": ""
+    },
+    {
+      "sezon": "1977/78",
+      "campioana": "Steaua București",
+      "scor_finala": "",
+      "vicecampioana": "Dinamo București",
+      "locul_3": "U Cluj",
+      "locul_4": "ICED București"
+    },
+    {
+      "sezon": "1978/79",
+      "campioana": "Dinamo București",
+      "scor_finala": "",
+      "vicecampioana": "Steaua București",
+      "locul_3": "ICED București",
+      "locul_4": "Farul Constanța"
+    },
+    {
+      "sezon": "1979/80",
+      "campioana": "Steaua București",
+      "scor_finala": "",
+      "vicecampioana": "",
+      "locul_3": "",
+      "locul_4": ""
+    },
+    {
+      "sezon": "1980/81",
+      "campioana": "Steaua București",
+      "scor_finala": "",
+      "vicecampioana": "",
+      "locul_3": "",
+      "locul_4": ""
+    },
+    {
+      "sezon": "1981/82",
+      "campioana": "Steaua București",
+      "scor_finala": "",
+      "vicecampioana": "",
+      "locul_3": "",
+      "locul_4": ""
+    },
+    {
+      "sezon": "1982/83",
+      "campioana": "Dinamo București",
+      "scor_finala": "",
+      "vicecampioana": "Steaua București",
+      "locul_3": "Rapid București",
+      "locul_4": "ICED București"
+    },
+    {
+      "sezon": "1983/84",
+      "campioana": "Steaua București",
+      "scor_finala": "",
+      "vicecampioana": "Dinamo București",
+      "locul_3": "ICED București",
+      "locul_4": "Rapid București"
+    },
+    {
+      "sezon": "1984/85",
+      "campioana": "Steaua București",
+      "scor_finala": "",
+      "vicecampioana": "Dinamo București",
+      "locul_3": "ICED București",
+      "locul_4": "Dinamo Oradea"
+    },
+    {
+      "sezon": "1985/86",
+      "campioana": "Steaua București",
+      "scor_finala": "",
+      "vicecampioana": "",
+      "locul_3": "",
+      "locul_4": ""
+    },
+    {
+      "sezon": "1986/87",
+      "campioana": "Steaua București",
+      "scor_finala": "",
+      "vicecampioana": "",
+      "locul_3": "",
+      "locul_4": ""
+    },
+    {
+      "sezon": "1987/88",
+      "campioana": "Dinamo București",
+      "scor_finala": "",
+      "vicecampioana": "Steaua București",
+      "locul_3": "ICED București",
+      "locul_4": "Dinamo Oradea"
+    },
+    {
+      "sezon": "1988/89",
+      "campioana": "Steaua București",
+      "scor_finala": "",
+      "vicecampioana": "Dinamo București",
+      "locul_3": "ICED București",
+      "locul_4": "Dinamo Oradea"
+    },
+    {
+      "sezon": "1989/90",
+      "campioana": "Steaua București",
+      "scor_finala": "",
+      "vicecampioana": "Dinamo București",
+      "locul_3": "CSU Balanța Sibiu",
+      "locul_4": "ICED București"
+    },
+    {
+      "sezon": "1990/91",
+      "campioana": "Steaua București",
+      "scor_finala": "",
+      "vicecampioana": "\"U\" Fimaro Cluj",
+      "locul_3": "",
+      "locul_4": ""
+    },
+    {
+      "sezon": "1991/92",
+      "campioana": "\"U\" Fimaro Cluj",
+      "scor_finala": "",
+      "vicecampioana": "Dinamo București",
+      "locul_3": "Steaua București",
+      "locul_4": "CSU Balanța Sibiu"
+    },
+    {
+      "sezon": "1992/93",
+      "campioana": "\"U\" Fimaro Cluj",
+      "scor_finala": "",
+      "vicecampioana": "Dinamo București",
+      "locul_3": "",
+      "locul_4": ""
+    },
+    {
+      "sezon": "1993/94",
+      "campioana": "Dinamo București",
+      "scor_finala": "",
+      "vicecampioana": "\"U\" Fimaro Cluj",
+      "locul_3": "",
+      "locul_4": ""
+    },
+    {
+      "sezon": "1994/95",
+      "campioana": "CSU Atlassib Sibiu",
+      "scor_finala": "",
+      "vicecampioana": "",
+      "locul_3": "\"U\" SM Invest Cluj",
+      "locul_4": ""
+    },
+    {
+      "sezon": "1995/96",
+      "campioana": "\"U\" SM Invest Cluj",
+      "scor_finala": "",
+      "vicecampioana": "Steaua București",
+      "locul_3": "CSU Forest SIBIU",
+      "locul_4": "Elba Timișoara"
+    },
+    {
+      "sezon": "1996/97",
+      "campioana": "Dinamo București",
+      "scor_finala": "",
+      "vicecampioana": "",
+      "locul_3": "",
+      "locul_4": ""
+    },
+    {
+      "sezon": "1997/98",
+      "campioana": "Dinamo București",
+      "scor_finala": "",
+      "vicecampioana": "",
+      "locul_3": "",
+      "locul_4": ""
+    },
+    {
+      "sezon": "1998/99",
+      "campioana": "CSU Atlassib Sibiu",
+      "scor_finala": "",
+      "vicecampioana": "",
+      "locul_3": "U Carbochim Cluj",
+      "locul_4": ""
+    },
+    {
+      "sezon": "1999/00",
+      "campioana": "BCM U Pitești",
+      "scor_finala": "",
+      "vicecampioana": "",
+      "locul_3": "",
+      "locul_4": ""
+    },
+    {
+      "sezon": "2000–01",
+      "campioana": "West Petrom Arad",
+      "scor_finala": "3–0",
+      "vicecampioana": "Asesoft Ploiești",
+      "locul_3": "",
+      "locul_4": ""
+    },
+    {
+      "sezon": "2001–02",
+      "campioana": "West Petrom Arad",
+      "scor_finala": "3–2",
+      "vicecampioana": "Dinamo București",
+      "locul_3": "",
+      "locul_4": ""
+    },
+    {
+      "sezon": "2002–03",
+      "campioana": "Dinamo București",
+      "scor_finala": "3–2",
+      "vicecampioana": "West Petrom Arad",
+      "locul_3": "",
+      "locul_4": ""
+    },
+    {
+      "sezon": "2003–04",
+      "campioana": "Asesoft Ploiești",
+      "scor_finala": "3–1",
+      "vicecampioana": "Dinamo București",
+      "locul_3": "",
+      "locul_4": ""
+    },
+    {
+      "sezon": "2004–05",
+      "campioana": "CSU Asesoft Ploiești",
+      "scor_finala": "3–1",
+      "vicecampioana": "Dinamo Erbașu București",
+      "locul_3": "CS Rompetrol București",
+      "locul_4": "CSU Bere Trei Stejari Sibiu"
+    },
+    {
+      "sezon": "2005–06",
+      "campioana": "Asesoft Ploiești",
+      "scor_finala": "4–1",
+      "vicecampioana": "BU Poli Carbochim Cluj",
+      "locul_3": "",
+      "locul_4": ""
+    },
+    {
+      "sezon": "2006–07",
+      "campioana": "Asesoft Ploiești",
+      "scor_finala": "4–1",
+      "vicecampioana": "Argeș Pitești",
+      "locul_3": "BU Poli Mobitelco Cluj",
+      "locul_4": ""
+    },
+    {
+      "sezon": "2007–08",
+      "campioana": "Asesoft Ploiești",
+      "scor_finala": "4–3",
+      "vicecampioana": "U Mobitelco Cluj",
+      "locul_3": "",
+      "locul_4": ""
+    },
+    {
+      "sezon": "2008–09",
+      "campioana": "CSU Asesoft Ploiești",
+      "scor_finala": "4–0",
+      "vicecampioana": "BCM Elba Timișoara",
+      "locul_3": "CSU Municipal Cuadripol Brașov",
+      "locul_4": "CSU Atlassib Sibiu"
+    },
+    {
+      "sezon": "2009–10",
+      "campioana": "Asesoft Ploiești",
+      "scor_finala": "4–0",
+      "vicecampioana": "U Mobitelco Cluj",
+      "locul_3": "Gaz Metan Mediaș",
+      "locul_4": "BCM Elba Timișoara"
+    },
+    {
+      "sezon": "2010–11",
+      "campioana": "U Mobitelco Cluj",
+      "scor_finala": "4–2",
+      "vicecampioana": "Asesoft Ploiești",
+      "locul_3": "Steaua Turabo București",
+      "locul_4": "Gaz Metan Mediaș"
+    },
+    {
+      "sezon": "2011–12",
+      "campioana": "Asesoft Ploiești",
+      "scor_finala": "4–0",
+      "vicecampioana": "Timișoara",
+      "locul_3": "Gaz Metan Mediaș",
+      "locul_4": "U Mobitelco Cluj"
+    },
+    {
+      "sezon": "2012–13",
+      "campioana": "Asesoft Ploiești",
+      "scor_finala": "4–2",
+      "vicecampioana": "BC Mureș Târgu Mureș",
+      "locul_3": "CSM Oradea",
+      "locul_4": "Gaz Metan Mediaș"
+    },
+    {
+      "sezon": "2013–14",
+      "campioana": "Asesoft Ploiești",
+      "scor_finala": "3–2",
+      "vicecampioana": "CSM Oradea",
+      "locul_3": "BC Mureș",
+      "locul_4": "U BT Mobitelco Cluj"
+    },
+    {
+      "sezon": "2014–15",
+      "campioana": "Asesoft Ploiești",
+      "scor_finala": "3–0",
+      "vicecampioana": "BC Mureș",
+      "locul_3": "CS Energia Tg Jiu",
+      "locul_4": "Steaua CSM Eximbank București"
+    },
+    {
+      "sezon": "2015–16",
+      "campioana": "CSM Oradea",
+      "scor_finala": "3–2",
+      "vicecampioana": "BC Mureș",
+      "locul_3": "Steaua CSM Eximbank București",
+      "locul_4": "U-Banca Transilvania Cluj"
+    },
+    {
+      "sezon": "2016-17",
+      "campioana": "U-BT Cluj-Napoca",
+      "scor_finala": "3–0",
+      "vicecampioana": "Steaua CSM Eximbank București",
+      "locul_3": "CSM CSU Oradea",
+      "locul_4": "BC CSU Sibiu"
+    },
+    {
+      "sezon": "2017-18",
+      "campioana": "CSM Oradea",
+      "scor_finala": "3–1",
+      "vicecampioana": "Steaua CSM Eximbank",
+      "locul_3": "U-Banca Transilvania Cluj",
+      "locul_4": "BC CSU Sibiu"
+    },
+    {
+      "sezon": "2018-19",
+      "campioana": "CSM Oradea",
+      "scor_finala": "3–1",
+      "vicecampioana": "BC CSU Sibiu",
+      "locul_3": "U-Banca Transilvania Cluj",
+      "locul_4": "SCMU Craiova"
+    },
+    {
+      "sezon": "2019–20",
+      "campioana": "Anulat din cauza pandemiei de COVID-19",
+      "scor_finala": "Anulat din cauza pandemiei de COVID-19",
+      "vicecampioana": "Anulat din cauza pandemiei de COVID-19",
+      "locul_3": "Anulat din cauza pandemiei de COVID-19",
+      "locul_4": "Anulat din cauza pandemiei de COVID-19"
+    },
+    {
+      "sezon": "2020-21",
+      "campioana": "U-BT Cluj-Napoca",
+      "scor_finala": "3–2",
+      "vicecampioana": "CSM Oradea",
+      "locul_3": "FC Argeș Pitești",
+      "locul_4": "CSO Voluntari"
+    },
+    {
+      "sezon": "2021–22",
+      "campioana": "U-BT Cluj-Napoca",
+      "scor_finala": "3–1",
+      "vicecampioana": "CSO Voluntari",
+      "locul_3": "CSM CSU Oradea",
+      "locul_4": "FC Argeș Pitești"
+    },
+    {
+      "sezon": "2022–23",
+      "campioana": "U-BT Cluj-Napoca",
+      "scor_finala": "4–2",
+      "vicecampioana": "CSM CSU Oradea",
+      "locul_3": "BC CSU Sibiu",
+      "locul_4": "CS Rapid Bucuresti"
+    },
+    {
+      "sezon": "2023–24",
+      "campioana": "U-BT Cluj-Napoca",
+      "scor_finala": "4–1",
+      "vicecampioana": "CSM Oradea",
+      "locul_3": "CSO Voluntari",
+      "locul_4": "FC Argeș Pitești"
+    },
+    {
+      "sezon": "2024-25",
+      "campioana": "U-BT Cluj-Napoca",
+      "scor_finala": "3–2",
+      "vicecampioana": "CSM Oradea",
+      "locul_3": "CS Vâlcea 1924",
+      "locul_4": "CSO Voluntari"
+    },
+    {
+      "sezon": "2025-26",
+      "campioana": "U-BT Cluj-Napoca",
+      "scor_finala": "3–1",
+      "vicecampioana": "CSM Oradea",
+      "locul_3": "SCMU Craiova",
+      "locul_4": "Dinamo București"
+    }
+  ],
+  "meta": {
+    "title": "Campionii României la baschet masculin - Free Download",
+    "description": "Palmaresul Ligii Naționale de baschet masculin a României pe sezoane: campioana, scorul finalei, vicecampioana și locurile 3–4. Contains 75 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Campionii României la baschet masculin | ListBase",
+    "seo_description": "Download Campionii României la baschet masculin — 75 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 75 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Liga_Națională_(baschet_masculin)"
+    ]
+  }
+}
