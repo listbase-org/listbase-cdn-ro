@@ -1,0 +1,316 @@
+{
+  "id": "ro-ape-minerale-naturale",
+  "name": "Ape minerale naturale din România",
+  "title": "Ape minerale naturale din România",
+  "description": "Mărcile de apă minerală naturală îmbuteliată în România, cu localitatea sursei și județul.",
+  "category": "food",
+  "source": "https://ro.wikipedia.org/wiki/Lista_apelor_minerale_naturale_din_România",
+  "source_url": "https://ro.wikipedia.org/wiki/Lista_apelor_minerale_naturale_din_România",
+  "updated": "2026-10",
+  "record_count": 55,
+  "columns": [
+    {
+      "key": "marca",
+      "label": "Marca",
+      "type": "string"
+    },
+    {
+      "key": "localitate",
+      "label": "Localitate",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "marca": "7 Izvoare",
+      "localitate": "Dobrești",
+      "judet": "Dâmbovița"
+    },
+    {
+      "marca": "2 Izvoare",
+      "localitate": "Gighera, Dolj",
+      "judet": "Dolj"
+    },
+    {
+      "marca": "Alpina Borșa",
+      "localitate": "Baia Borșa",
+      "judet": "Maramureș"
+    },
+    {
+      "marca": "Amfiteatru",
+      "localitate": "Iași",
+      "judet": "Iași"
+    },
+    {
+      "marca": "Apa Craiului",
+      "localitate": "Dâmbovicioara",
+      "judet": "Argeș"
+    },
+    {
+      "marca": "Aquatique",
+      "localitate": "Bușteni",
+      "judet": "Prahova"
+    },
+    {
+      "marca": "Aqua Carpatica",
+      "localitate": "Păltiniș",
+      "judet": "Suceava"
+    },
+    {
+      "marca": "Aqua Sara",
+      "localitate": "Boholt",
+      "judet": "Hunedoara"
+    },
+    {
+      "marca": "Aqua Vital",
+      "localitate": "Sacoșu Mare",
+      "judet": "Timiș"
+    },
+    {
+      "marca": "Artesia",
+      "localitate": "Sânsimion",
+      "judet": "Harghita"
+    },
+    {
+      "marca": "Aur'a",
+      "localitate": "Ocna de Fier",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "marca": "Azuga",
+      "localitate": "Azuga",
+      "judet": "Prahova"
+    },
+    {
+      "marca": "Băile Lipova",
+      "localitate": "Lipova",
+      "judet": "Arad"
+    },
+    {
+      "marca": "Biborțeni",
+      "localitate": "Biborțeni",
+      "judet": "Covasna"
+    },
+    {
+      "marca": "Bodoc",
+      "localitate": "Bodoc",
+      "judet": "Covasna"
+    },
+    {
+      "marca": "Borsec",
+      "localitate": "Borsec",
+      "judet": "Harghita"
+    },
+    {
+      "marca": "Bucovina",
+      "localitate": "Vatra Dornei",
+      "judet": "Suceava"
+    },
+    {
+      "marca": "Buziaș",
+      "localitate": "Buziaș",
+      "judet": "Timiș"
+    },
+    {
+      "marca": "Carpatina",
+      "localitate": "Toșorog",
+      "judet": "Neamț"
+    },
+    {
+      "marca": "Certeze",
+      "localitate": "Certeze",
+      "judet": "Satu Mare"
+    },
+    {
+      "marca": "Cezara",
+      "localitate": "Băcâia",
+      "judet": "Hunedoara"
+    },
+    {
+      "marca": "Cheile Bicazului",
+      "localitate": "Bicazul Ardelean",
+      "judet": "Neamț"
+    },
+    {
+      "marca": "Cora",
+      "localitate": "Malnaș-Băi",
+      "judet": "Covasna"
+    },
+    {
+      "marca": "Cristalina",
+      "localitate": "Sâncrăieni",
+      "judet": "Harghita"
+    },
+    {
+      "marca": "Cristalul Munților",
+      "localitate": "Vama Buzăului",
+      "judet": "Brașov"
+    },
+    {
+      "marca": "Dealul Cetății",
+      "localitate": "Miercurea-Ciuc",
+      "judet": "Harghita"
+    },
+    {
+      "marca": "Dorna",
+      "localitate": "Dorna Candrenilor, Suceava",
+      "judet": "Suceava"
+    },
+    {
+      "marca": "Izvorul Alb",
+      "localitate": "Dorna Candrenilor",
+      "judet": "Suceava"
+    },
+    {
+      "marca": "Izvoarele Călimani",
+      "localitate": "Bilbor",
+      "judet": "Harghita"
+    },
+    {
+      "marca": "Izvorul Cetății Crizbav",
+      "localitate": "Crizbav, Brașov",
+      "judet": "Brașov"
+    },
+    {
+      "marca": "Izvorul Minunilor",
+      "localitate": "Stâna de Vale",
+      "judet": "Bihor"
+    },
+    {
+      "marca": "Izvorul Tămăduirii",
+      "localitate": "Stoiceni Târgu Lăpuș",
+      "judet": "Maramureș"
+    },
+    {
+      "marca": "K",
+      "localitate": "Classic - Boholt",
+      "judet": "Hunedoara"
+    },
+    {
+      "marca": "Keia",
+      "localitate": "Ciucaș",
+      "judet": "Prahova"
+    },
+    {
+      "marca": "Lipova",
+      "localitate": "Lipova",
+      "judet": "Arad"
+    },
+    {
+      "marca": "Lithinia",
+      "localitate": "Parhida",
+      "judet": "Bihor"
+    },
+    {
+      "marca": "Oaș",
+      "localitate": "Negrești",
+      "judet": "Satu Mare"
+    },
+    {
+      "marca": "Perenna Premier",
+      "localitate": "Dognecea",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "marca": "Perla Apusenilor",
+      "localitate": "Chimindia- Deva",
+      "judet": "Hunedoara"
+    },
+    {
+      "marca": "Perla Covasnei",
+      "localitate": "Târgu Secuiesc",
+      "judet": "Covasna"
+    },
+    {
+      "marca": "Perla Harghitei",
+      "localitate": "Sâncrăieni",
+      "judet": "Harghita"
+    },
+    {
+      "marca": "Poiana Negrii",
+      "localitate": "Poiana Negrii",
+      "judet": "Suceava"
+    },
+    {
+      "marca": "Rarăul",
+      "localitate": "Fundul Moldovei",
+      "judet": "Suceava"
+    },
+    {
+      "marca": "Roua Munților",
+      "localitate": "Roșu",
+      "judet": "Suceava"
+    },
+    {
+      "marca": "Saguaro",
+      "localitate": "Târgu Secuiesc",
+      "judet": "Covasna"
+    },
+    {
+      "marca": "Sestina",
+      "localitate": "Valea Sălardului",
+      "judet": "Mureș"
+    },
+    {
+      "marca": "Spring Harghita",
+      "localitate": "Miercurea-Ciuc",
+      "judet": "Harghita"
+    },
+    {
+      "marca": "Stânceni",
+      "localitate": "Stânceni",
+      "judet": "Mureș"
+    },
+    {
+      "marca": "Tiva Harghita",
+      "localitate": "Sâncrăieni",
+      "judet": "Harghita"
+    },
+    {
+      "marca": "Tușnad",
+      "localitate": "Tușnad",
+      "judet": "Harghita"
+    },
+    {
+      "marca": "Valea Brazilor",
+      "localitate": "Biborțeni",
+      "judet": "Covasna"
+    },
+    {
+      "marca": "Valea Izvoarelor",
+      "localitate": "Covasna",
+      "judet": "Covasna"
+    },
+    {
+      "marca": "Vâlcele",
+      "localitate": "Vâlcele",
+      "judet": "Covasna"
+    },
+    {
+      "marca": "Wolfsgold",
+      "localitate": "Maieru",
+      "judet": "Bistrița Năsăud"
+    },
+    {
+      "marca": "Zizin",
+      "localitate": "Zizin",
+      "judet": "Brașov"
+    }
+  ],
+  "meta": {
+    "title": "Ape minerale naturale din România - Free Download",
+    "description": "Mărcile de apă minerală naturală îmbuteliată în România, cu localitatea sursei și județul. Contains 55 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ape minerale naturale din România | ListBase",
+    "seo_description": "Download Ape minerale naturale din România — 55 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 55 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Lista_apelor_minerale_naturale_din_România"
+    ]
+  }
+}

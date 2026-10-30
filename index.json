@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-10-30T02:16:52.856Z",
-  "total_datasets": 453,
-  "total_records": 165327,
+  "generated": "2026-10-30T02:17:01.291Z",
+  "total_datasets": 454,
+  "total_records": 165382,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "geography",
@@ -2364,6 +2364,30 @@
         "xlsx": {
           "name": "ro-voluntari-banci_RO.xlsx",
           "size": 6850
+        }
+      }
+    },
+    {
+      "id": "ro-ape-minerale-naturale",
+      "name": "Ape minerale naturale din România",
+      "category": "food",
+      "record_count": 55,
+      "columns": [
+        "marca",
+        "localitate",
+        "judet"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Lista_apelor_minerale_naturale_din_România",
+      "updated": "2026-10",
+      "size": 7143,
+      "files": {
+        "csv": {
+          "name": "ro-ape-minerale-naturale_RO.csv",
+          "size": 2109
+        },
+        "xlsx": {
+          "name": "ro-ape-minerale-naturale_RO.xlsx",
+          "size": 8397
         }
       }
     },
