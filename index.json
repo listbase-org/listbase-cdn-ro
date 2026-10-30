@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-10-30T02:17:08.389Z",
-  "total_datasets": 455,
-  "total_records": 165399,
+  "generated": "2026-10-30T02:17:15.599Z",
+  "total_datasets": 456,
+  "total_records": 165414,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "transport",
@@ -12957,6 +12957,36 @@
         "xlsx": {
           "name": "ro-hoteluri_RO.xlsx",
           "size": 145188
+        }
+      }
+    },
+    {
+      "id": "ro-partii-schi-omologate",
+      "name": "Pârtii de schi omologate în România",
+      "category": "tourism",
+      "record_count": 15,
+      "columns": [
+        "nr",
+        "data_omologarii",
+        "partie",
+        "administrator",
+        "localizare",
+        "judet",
+        "grupa_montana",
+        "lungime_m",
+        "grad_dificultate"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Lista_pârtiilor_de_schi_din_România",
+      "updated": "2026-10",
+      "size": 6999,
+      "files": {
+        "csv": {
+          "name": "ro-partii-schi-omologate_RO.csv",
+          "size": 2004
+        },
+        "xlsx": {
+          "name": "ro-partii-schi-omologate_RO.xlsx",
+          "size": 7859
         }
       }
     },

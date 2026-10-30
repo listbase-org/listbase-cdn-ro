@@ -1,0 +1,236 @@
+{
+  "id": "ro-partii-schi-omologate",
+  "name": "Pârtii de schi omologate în România",
+  "title": "Pârtii de schi omologate în România",
+  "description": "Pârtiile de schi omologate din România, cu data omologării, administratorul, localizarea, județul, grupa montană, lungimea și gradul de dificultate.",
+  "category": "tourism",
+  "source": "https://ro.wikipedia.org/wiki/Lista_pârtiilor_de_schi_din_România",
+  "source_url": "https://ro.wikipedia.org/wiki/Lista_pârtiilor_de_schi_din_România",
+  "updated": "2026-10",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "nr",
+      "label": "Nr",
+      "type": "number"
+    },
+    {
+      "key": "data_omologarii",
+      "label": "Data Omologarii",
+      "type": "string"
+    },
+    {
+      "key": "partie",
+      "label": "Partie",
+      "type": "string"
+    },
+    {
+      "key": "administrator",
+      "label": "Administrator",
+      "type": "string"
+    },
+    {
+      "key": "localizare",
+      "label": "Localizare",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "grupa_montana",
+      "label": "Grupa Montana",
+      "type": "string"
+    },
+    {
+      "key": "lungime_m",
+      "label": "Lungime M",
+      "type": "number"
+    },
+    {
+      "key": "grad_dificultate",
+      "label": "Grad Dificultate",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nr": 1,
+      "data_omologarii": "2005, 24 noiembrie",
+      "partie": "Vârtop",
+      "administrator": "S.C. Todea Turism S.R.L.",
+      "localizare": "Arieșeni",
+      "judet": "Alba",
+      "grupa_montana": "Munții Apuseni",
+      "lungime_m": 1000,
+      "grad_dificultate": "nespecificat"
+    },
+    {
+      "nr": 2,
+      "data_omologarii": "2014, 28 aprilie",
+      "partie": "Vârtop II",
+      "administrator": "ÎF Gligor Danut \"Dan Schi Sport\"",
+      "localizare": "Arieșeni",
+      "judet": "Alba",
+      "grupa_montana": "Munții Apuseni",
+      "lungime_m": 430,
+      "grad_dificultate": "medie"
+    },
+    {
+      "nr": 3,
+      "data_omologarii": "2016, 4 februarie",
+      "partie": "Pârtia Curmătura 1-C1",
+      "administrator": "S.C.Ski Surianu S.R.L.",
+      "localizare": "Șureanu",
+      "judet": "Alba",
+      "grupa_montana": "Carpații Meridionali",
+      "lungime_m": 1100,
+      "grad_dificultate": "ușoară"
+    },
+    {
+      "nr": 4,
+      "data_omologarii": "2016, 4 februarie",
+      "partie": "Pârtia Curmătura 2-C2",
+      "administrator": "S.C.Ski Surianu S.R.L.",
+      "localizare": "Șureanu",
+      "judet": "Alba",
+      "grupa_montana": "Carpații Meridionali",
+      "lungime_m": 650,
+      "grad_dificultate": "medie"
+    },
+    {
+      "nr": 5,
+      "data_omologarii": "2016, 4 februarie",
+      "partie": "Pârtia Curmătura 3-C3",
+      "administrator": "S.C.Ski Surianu S.R.L.",
+      "localizare": "Șureanu",
+      "judet": "Alba",
+      "grupa_montana": "Carpații Meridionali",
+      "lungime_m": 650,
+      "grad_dificultate": "medie"
+    },
+    {
+      "nr": 6,
+      "data_omologarii": "2016, 4 februarie",
+      "partie": "Pârtia Curmătura 4-C4",
+      "administrator": "S.C.Ski Surianu S.R.L.",
+      "localizare": "Șureanu",
+      "judet": "Alba",
+      "grupa_montana": "Carpații Meridionali",
+      "lungime_m": 830,
+      "grad_dificultate": "medie"
+    },
+    {
+      "nr": 7,
+      "data_omologarii": "2016, 4 februarie",
+      "partie": "Șureanu 1 -S1",
+      "administrator": "S.C.Ski Surianu S.R.L.",
+      "localizare": "Șureanu",
+      "judet": "Alba",
+      "grupa_montana": "Carpații Meridionali",
+      "lungime_m": 600,
+      "grad_dificultate": "ușoară"
+    },
+    {
+      "nr": 8,
+      "data_omologarii": "2016, 4 februarie",
+      "partie": "Șureanu 2 -S2",
+      "administrator": "S.C.Ski Surianu S.R.L.",
+      "localizare": "Șureanu",
+      "judet": "Alba",
+      "grupa_montana": "Carpații Meridionali",
+      "lungime_m": 1200,
+      "grad_dificultate": "medie"
+    },
+    {
+      "nr": 9,
+      "data_omologarii": "2013, 12 noiembrie",
+      "partie": "Aușel 1 - A1",
+      "administrator": "S.C.Ski Surianu S.R.L.",
+      "localizare": "Sebeș",
+      "judet": "Alba",
+      "grupa_montana": "Carpații Meridionali",
+      "lungime_m": 1650,
+      "grad_dificultate": "medie"
+    },
+    {
+      "nr": 10,
+      "data_omologarii": "2013, 12 noiembrie",
+      "partie": "Aușel 2 - A2",
+      "administrator": "S.C.Ski Surianu S.R.L.",
+      "localizare": "Sebeș",
+      "judet": "Alba",
+      "grupa_montana": "Carpații Meridionali",
+      "lungime_m": 1430,
+      "grad_dificultate": "dificilă și medie"
+    },
+    {
+      "nr": 11,
+      "data_omologarii": "2016, 4 februarie",
+      "partie": "Aușel 3-A3",
+      "administrator": "S.C.Ski Surianu S.R.L.",
+      "localizare": "Sebeș",
+      "judet": "Alba",
+      "grupa_montana": "Carpații Meridionali",
+      "lungime_m": 1030,
+      "grad_dificultate": "medie"
+    },
+    {
+      "nr": 12,
+      "data_omologarii": "2016, 4 februarie",
+      "partie": "Șureanu 3-S3",
+      "administrator": "",
+      "localizare": "Sebeș",
+      "judet": "Alba",
+      "grupa_montana": "Carpații Meridionali",
+      "lungime_m": 1350,
+      "grad_dificultate": "medie"
+    },
+    {
+      "nr": 13,
+      "data_omologarii": "2005, 6 decembrie",
+      "partie": "Cioaca",
+      "administrator": "Primăria comunei Moneasa",
+      "localizare": "Moneasa",
+      "judet": "Arad",
+      "grupa_montana": "Munții Apuseni",
+      "lungime_m": 180,
+      "grad_dificultate": "nespecificat"
+    },
+    {
+      "nr": 14,
+      "data_omologarii": "2014, 28 aprilie",
+      "partie": "Nemira",
+      "administrator": "Consiliul Județean Bacău",
+      "localizare": "Slănic Moldova",
+      "judet": "Bacău",
+      "grupa_montana": "Carpații Orientali , Munții Nemira",
+      "lungime_m": 1414,
+      "grad_dificultate": "ușoară"
+    },
+    {
+      "nr": 15,
+      "data_omologarii": "2005, 22 noiembrie",
+      "partie": "Hidișel",
+      "administrator": "S.C. Telebig S.R.L.",
+      "localizare": "Hidișeul de Jos",
+      "judet": "Bihor",
+      "grupa_montana": "Munții Apuseni",
+      "lungime_m": 550,
+      "grad_dificultate": "nespecificat"
+    }
+  ],
+  "meta": {
+    "title": "Pârtii de schi omologate în România - Free Download",
+    "description": "Pârtiile de schi omologate din România, cu data omologării, administratorul, localizarea, județul, grupa montană, lungimea și gradul de dificultate. Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Pârtii de schi omologate în România | ListBase",
+    "seo_description": "Download Pârtii de schi omologate în România — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Lista_pârtiilor_de_schi_din_România"
+    ]
+  }
+}
