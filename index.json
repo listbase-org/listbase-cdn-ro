@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-10-29T02:09:07.807Z",
-  "total_datasets": 452,
-  "total_records": 165276,
+  "generated": "2026-10-30T02:16:52.856Z",
+  "total_datasets": 453,
+  "total_records": 165327,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "music",
@@ -5631,6 +5631,30 @@
         "xlsx": {
           "name": "ro-ministri-justitie_RO.xlsx",
           "size": 11978
+        }
+      }
+    },
+    {
+      "id": "ro-penitenciare",
+      "name": "Penitenciarele din România",
+      "category": "law",
+      "record_count": 51,
+      "columns": [
+        "denumire",
+        "localitate",
+        "judet"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Lista_penitenciarelor_din_România",
+      "updated": "2026-10",
+      "size": 7749,
+      "files": {
+        "csv": {
+          "name": "ro-penitenciare_RO.csv",
+          "size": 2771
+        },
+        "xlsx": {
+          "name": "ro-penitenciare_RO.xlsx",
+          "size": 8346
         }
       }
     },

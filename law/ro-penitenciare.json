@@ -1,0 +1,296 @@
+{
+  "id": "ro-penitenciare",
+  "name": "Penitenciarele din România",
+  "title": "Penitenciarele din România",
+  "description": "Lista penitenciarelor, penitenciarelor-spital și centrelor de reeducare din sistemul Administrației Naționale a Penitenciarelor, cu localitatea și județul.",
+  "category": "law",
+  "source": "https://ro.wikipedia.org/wiki/Lista_penitenciarelor_din_România",
+  "source_url": "https://ro.wikipedia.org/wiki/Lista_penitenciarelor_din_România",
+  "updated": "2026-10",
+  "record_count": 51,
+  "columns": [
+    {
+      "key": "denumire",
+      "label": "Denumire",
+      "type": "string"
+    },
+    {
+      "key": "localitate",
+      "label": "Localitate",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "denumire": "Penitenciarul Aiud",
+      "localitate": "Aiud",
+      "judet": "Alba"
+    },
+    {
+      "denumire": "Penitenciarul de Maximă Siguranță",
+      "localitate": "Arad",
+      "judet": "Arad"
+    },
+    {
+      "denumire": "Penitenciarul Bacău",
+      "localitate": "Bacău",
+      "judet": "Bacău"
+    },
+    {
+      "denumire": "Penitenciarul Baia Mare",
+      "localitate": "Baia Mare",
+      "judet": "Maramureș"
+    },
+    {
+      "denumire": "Penitenciarul Bârcea Mare",
+      "localitate": "Bârcea Mare",
+      "judet": "Hunedoara"
+    },
+    {
+      "denumire": "Penitenciarul Bistrița",
+      "localitate": "Bistrița",
+      "judet": "Bistrița Năsăud"
+    },
+    {
+      "denumire": "Penitenciarul Botoșani",
+      "localitate": "Botoșani",
+      "judet": "Botoșani"
+    },
+    {
+      "denumire": "Penitenciarul Brăila",
+      "localitate": "Brăila",
+      "judet": "Brăila"
+    },
+    {
+      "denumire": "Penitenciarul București-Jilava",
+      "localitate": "Jilava",
+      "judet": "Ilfov"
+    },
+    {
+      "denumire": "Penitenciarul București-Rahova",
+      "localitate": "București",
+      "judet": "București"
+    },
+    {
+      "denumire": "Penitenciarul Chilia Veche",
+      "localitate": "",
+      "judet": ""
+    },
+    {
+      "denumire": "Penitenciarul Codlea",
+      "localitate": "Codlea",
+      "judet": "Brașov"
+    },
+    {
+      "denumire": "Penitenciarul Colibași",
+      "localitate": "Mioveni",
+      "judet": "Argeș"
+    },
+    {
+      "denumire": "Penitenciarul de Maximă Siguranță din Craiova",
+      "localitate": "",
+      "judet": ""
+    },
+    {
+      "denumire": "Penitenciarul Drobeta-Turnu Severin",
+      "localitate": "Drobeta-Turnu Severin",
+      "judet": "Mehedinți"
+    },
+    {
+      "denumire": "Penitenciarul Focșani",
+      "localitate": "Focșani",
+      "judet": "Vrancea"
+    },
+    {
+      "denumire": "Penitenciarul Galați",
+      "localitate": "Galați",
+      "judet": "Galați"
+    },
+    {
+      "denumire": "Penitenciarul Gherla",
+      "localitate": "Gherla",
+      "judet": "Cluj"
+    },
+    {
+      "denumire": "Penitenciarul Giurgiu",
+      "localitate": "Giurgiu",
+      "judet": "Giurgiu"
+    },
+    {
+      "denumire": "Penitenciarul Iași",
+      "localitate": "Iași",
+      "judet": "Iași"
+    },
+    {
+      "denumire": "Penitenciarul Mărgineni",
+      "localitate": "I.L. Caragiale",
+      "judet": "Dâmbovița"
+    },
+    {
+      "denumire": "Penitenciarul Miercurea-Ciuc",
+      "localitate": "Miercurea-Ciuc",
+      "judet": "Harghita"
+    },
+    {
+      "denumire": "Penitenciarul Oradea",
+      "localitate": "Oradea",
+      "judet": "Bihor"
+    },
+    {
+      "denumire": "Penitenciarul de la Ocnele Mari",
+      "localitate": "",
+      "judet": ""
+    },
+    {
+      "denumire": "Penitenciarul Pelendava",
+      "localitate": "Craiova",
+      "judet": "Dolj"
+    },
+    {
+      "denumire": "Penitenciarul Ploiești",
+      "localitate": "Ploiești",
+      "judet": "Prahova"
+    },
+    {
+      "denumire": "Penitenciarul Poarta Albă",
+      "localitate": "Poarta Albă",
+      "judet": "Constanța"
+    },
+    {
+      "denumire": "Penitenciarul Râmnicu Sărat",
+      "localitate": "Râmnicu Sărat",
+      "judet": "Buzău"
+    },
+    {
+      "denumire": "Penitenciarul Satu Mare",
+      "localitate": "Satu Mare",
+      "judet": "Satu Mare"
+    },
+    {
+      "denumire": "Penitenciarul Slobozia",
+      "localitate": "Slobozia",
+      "judet": "Ialomița"
+    },
+    {
+      "denumire": "Penitenciarul Târgu Mures",
+      "localitate": "Târgu Mureș",
+      "judet": "Mureș"
+    },
+    {
+      "denumire": "Penitenciarul Târgu Jiu",
+      "localitate": "Târgu Jiu",
+      "judet": "Gorj"
+    },
+    {
+      "denumire": "Penitenciarul Timișoara",
+      "localitate": "Timișoara",
+      "judet": "Timiș"
+    },
+    {
+      "denumire": "Penitenciarul Tulcea",
+      "localitate": "Tulcea",
+      "judet": "Tulcea"
+    },
+    {
+      "denumire": "Penitenciarul Vaslui",
+      "localitate": "Vaslui",
+      "judet": "Vaslui"
+    },
+    {
+      "denumire": "Penitenciarul de Femei Târgșor",
+      "localitate": "Târgșorul Nou",
+      "judet": "Prahova"
+    },
+    {
+      "denumire": "Penitenciarul de Minori și Tineri Craiova",
+      "localitate": "",
+      "judet": ""
+    },
+    {
+      "denumire": "Penitenciarul de Minori și Tineri Tichilești",
+      "localitate": "Tichilești",
+      "judet": "Brăila"
+    },
+    {
+      "denumire": "Penitenciarul-Spital București-Jilava",
+      "localitate": "Jilava",
+      "judet": "Ilfov"
+    },
+    {
+      "denumire": "Penitenciarul-Spital București-Rahova",
+      "localitate": "București",
+      "judet": "București"
+    },
+    {
+      "denumire": "Penitenciarul-Spital Dej",
+      "localitate": "Dej",
+      "judet": "Cluj"
+    },
+    {
+      "denumire": "Penitenciarul-Spital Târgu Ocna",
+      "localitate": "Târgu Ocna",
+      "judet": "Bacău"
+    },
+    {
+      "denumire": "Penitenciarul-Spital Mioveni",
+      "localitate": "Mioveni",
+      "judet": "Argeș"
+    },
+    {
+      "denumire": "Penitenciarul-Spital Poarta Albă",
+      "localitate": "Poarta Albă",
+      "judet": "Constanța"
+    },
+    {
+      "denumire": "Centrul de Reeducare Buziaș",
+      "localitate": "Buziaș",
+      "judet": "Timiș"
+    },
+    {
+      "denumire": "Penitenciarul Găești",
+      "localitate": "Găești",
+      "judet": "Dâmbovița"
+    },
+    {
+      "denumire": "Centrul de Reeducare Târgu Ocna",
+      "localitate": "Târgu Ocna",
+      "judet": "Bacău"
+    },
+    {
+      "denumire": "Centrul de Formare și Specializare a Ofițerilor din Administrația Penitenciară",
+      "localitate": "Arad",
+      "judet": "Arad"
+    },
+    {
+      "denumire": "Școala Națională de Pregătire a Agenților de Penitenciare Târgu Ocna",
+      "localitate": "Târgu Ocna",
+      "judet": "Bacău"
+    },
+    {
+      "denumire": "Baza de Aprovizionare, Gospodărire și Reparații",
+      "localitate": "Jilava",
+      "judet": "Ilfov"
+    },
+    {
+      "denumire": "Subunitatea de Pază și Escortare Deținuți Transferați",
+      "localitate": "București",
+      "judet": "București"
+    }
+  ],
+  "meta": {
+    "title": "Penitenciarele din România - Free Download",
+    "description": "Lista penitenciarelor, penitenciarelor-spital și centrelor de reeducare din sistemul Administrației Naționale a Penitenciarelor, cu localitatea și județul. Contains 51 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Penitenciarele din România | ListBase",
+    "seo_description": "Download Penitenciarele din România — 51 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 51 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Lista_penitenciarelor_din_România"
+    ]
+  }
+}
