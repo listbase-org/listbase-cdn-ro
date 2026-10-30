@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-10-30T02:17:23.163Z",
-  "total_datasets": 457,
-  "total_records": 165441,
+  "generated": "2026-10-30T02:17:30.367Z",
+  "total_datasets": 458,
+  "total_records": 165452,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "education",
@@ -267,6 +267,33 @@
         "xlsx": {
           "name": "ro-patrimoniul-mondial-unesco_RO.xlsx",
           "size": 9443
+        }
+      }
+    },
+    {
+      "id": "ro-cei-mai-bogati-romani-2024",
+      "name": "Cei mai bogați români (2024)",
+      "category": "economy",
+      "record_count": 11,
+      "columns": [
+        "loc",
+        "nume",
+        "avere_neta_miliarde_lei",
+        "varsta",
+        "rezidenta",
+        "sursa_averii"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Lista_românilor_după_avere",
+      "updated": "2026-10",
+      "size": 3848,
+      "files": {
+        "csv": {
+          "name": "ro-cei-mai-bogati-romani-2024_RO.csv",
+          "size": 709
+        },
+        "xlsx": {
+          "name": "ro-cei-mai-bogati-romani-2024_RO.xlsx",
+          "size": 7354
         }
       }
     },

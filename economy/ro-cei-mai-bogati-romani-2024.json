@@ -1,0 +1,144 @@
+{
+  "id": "ro-cei-mai-bogati-romani-2024",
+  "name": "Cei mai bogați români (2024)",
+  "title": "Cei mai bogați români (2024)",
+  "description": "Topul celor mai bogați români în 2024, cu averea netă estimată în miliarde lei, vârsta, rezidența și principala sursă a averii.",
+  "category": "economy",
+  "source": "https://ro.wikipedia.org/wiki/Lista_românilor_după_avere",
+  "source_url": "https://ro.wikipedia.org/wiki/Lista_românilor_după_avere",
+  "updated": "2026-10",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "loc",
+      "label": "Loc",
+      "type": "number"
+    },
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "avere_neta_miliarde_lei",
+      "label": "Avere Neta Miliarde Lei",
+      "type": "number"
+    },
+    {
+      "key": "varsta",
+      "label": "Varsta",
+      "type": "number"
+    },
+    {
+      "key": "rezidenta",
+      "label": "Rezidenta",
+      "type": "string"
+    },
+    {
+      "key": "sursa_averii",
+      "label": "Sursa Averii",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "loc": 1,
+      "nume": "Daniel Dines",
+      "avere_neta_miliarde_lei": 11,
+      "varsta": 52,
+      "rezidenta": "București",
+      "sursa_averii": "UiPath"
+    },
+    {
+      "loc": 2,
+      "nume": "Ion Țiriac",
+      "avere_neta_miliarde_lei": 11,
+      "varsta": 84,
+      "rezidenta": "Băneasa",
+      "sursa_averii": "Țiriac Holdings"
+    },
+    {
+      "loc": 3,
+      "nume": "Dragoș Pavăl",
+      "avere_neta_miliarde_lei": 10,
+      "varsta": 57,
+      "rezidenta": "Bacău",
+      "sursa_averii": "Dedeman"
+    },
+    {
+      "loc": 4,
+      "nume": "Adrian Pavăl",
+      "avere_neta_miliarde_lei": 7,
+      "varsta": 55,
+      "rezidenta": "San Francisco",
+      "sursa_averii": "Dedeman"
+    },
+    {
+      "loc": 5,
+      "nume": "Ion Stoica",
+      "avere_neta_miliarde_lei": 6,
+      "varsta": 59,
+      "rezidenta": "Oradea",
+      "sursa_averii": "Databricks"
+    },
+    {
+      "loc": 5,
+      "nume": "Matei Zaharia",
+      "avere_neta_miliarde_lei": 6,
+      "varsta": 38,
+      "rezidenta": "Beverly Hills",
+      "sursa_averii": "Databricks"
+    },
+    {
+      "loc": 6,
+      "nume": "Florin Talpeș și familia",
+      "avere_neta_miliarde_lei": 5,
+      "varsta": 65,
+      "rezidenta": "București",
+      "sursa_averii": "Bitdefender"
+    },
+    {
+      "loc": 7,
+      "nume": "Anastasia Soare",
+      "avere_neta_miliarde_lei": 4.5,
+      "varsta": 65,
+      "rezidenta": "România",
+      "sursa_averii": "Anastasia Beverly Hills"
+    },
+    {
+      "loc": 8,
+      "nume": "Anca Vlad",
+      "avere_neta_miliarde_lei": 4,
+      "varsta": 67,
+      "rezidenta": "România",
+      "sursa_averii": "Fildas-Catena"
+    },
+    {
+      "loc": 9,
+      "nume": "Ștefan Vuza",
+      "avere_neta_miliarde_lei": 4,
+      "varsta": 52,
+      "rezidenta": "România",
+      "sursa_averii": "Chimcomplex"
+    },
+    {
+      "loc": 10,
+      "nume": "Zoltán Teszári",
+      "avere_neta_miliarde_lei": 3.4,
+      "varsta": 53,
+      "rezidenta": "România",
+      "sursa_averii": "Digi Communications"
+    }
+  ],
+  "meta": {
+    "title": "Cei mai bogați români (2024) - Free Download",
+    "description": "Topul celor mai bogați români în 2024, cu averea netă estimată în miliarde lei, vârsta, rezidența și principala sursă a averii. Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Cei mai bogați români (2024) | ListBase",
+    "seo_description": "Download Cei mai bogați români (2024) — 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Lista_românilor_după_avere"
+    ]
+  }
+}
