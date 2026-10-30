@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-10-30T02:17:01.291Z",
-  "total_datasets": 454,
-  "total_records": 165382,
+  "generated": "2026-10-30T02:17:08.389Z",
+  "total_datasets": 455,
+  "total_records": 165399,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "transport",
@@ -12900,6 +12900,35 @@
         "xlsx": {
           "name": "ro-atractii-turistice_RO.xlsx",
           "size": 43160
+        }
+      }
+    },
+    {
+      "id": "ro-faruri",
+      "name": "Faruri din România",
+      "category": "tourism",
+      "record_count": 17,
+      "columns": [
+        "nume",
+        "an_constructie",
+        "coordonate",
+        "clasa_iluminare",
+        "inaltime_focala",
+        "numar_nga",
+        "numar_amiralitate",
+        "distanta_mm"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Listă_de_faruri_din_România",
+      "updated": "2026-10",
+      "size": 7213,
+      "files": {
+        "csv": {
+          "name": "ro-faruri_RO.csv",
+          "size": 2126
+        },
+        "xlsx": {
+          "name": "ro-faruri_RO.xlsx",
+          "size": 8214
         }
       }
     },

@@ -1,0 +1,236 @@
+{
+  "id": "ro-faruri",
+  "name": "Faruri din România",
+  "title": "Faruri din România",
+  "description": "Farurile maritime și fluviale din România, cu anul construirii, coordonatele, caracteristica luminii și înălțimea focală.",
+  "category": "tourism",
+  "source": "https://ro.wikipedia.org/wiki/Listă_de_faruri_din_România",
+  "source_url": "https://ro.wikipedia.org/wiki/Listă_de_faruri_din_România",
+  "updated": "2026-10",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "an_constructie",
+      "label": "An Constructie",
+      "type": "number"
+    },
+    {
+      "key": "coordonate",
+      "label": "Coordonate",
+      "type": "string"
+    },
+    {
+      "key": "clasa_iluminare",
+      "label": "Clasa Iluminare",
+      "type": "string"
+    },
+    {
+      "key": "inaltime_focala",
+      "label": "Inaltime Focala",
+      "type": "string"
+    },
+    {
+      "key": "numar_nga",
+      "label": "Numar Nga",
+      "type": "number"
+    },
+    {
+      "key": "numar_amiralitate",
+      "label": "Numar Amiralitate",
+      "type": "string"
+    },
+    {
+      "key": "distanta_mm",
+      "label": "Distanta Mm",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "Farul Capul Tuzla",
+      "an_constructie": "1900",
+      "coordonate": "43.990806, 28.666389",
+      "clasa_iluminare": "Fl (2) W 9.7s.",
+      "inaltime_focala": "62 metri (203 ft)",
+      "numar_nga": "17688",
+      "numar_amiralitate": "E5022",
+      "distanta_mm": 20
+    },
+    {
+      "nume": "Farul genovez Constanța",
+      "an_constructie": "1858-1860",
+      "coordonate": "44.28917, 28.946194",
+      "clasa_iluminare": "Inactiv din 1913",
+      "inaltime_focala": "21 metri (69 ft)",
+      "numar_nga": "",
+      "numar_amiralitate": "",
+      "distanta_mm": 9.5
+    },
+    {
+      "nume": "Farul nou Constanța",
+      "an_constructie": "1961",
+      "coordonate": "44.158139, 28.630417",
+      "clasa_iluminare": "Fl (2) w 29.8s.",
+      "inaltime_focala": "87 metri (285 ft)",
+      "numar_nga": "17692",
+      "numar_amiralitate": "E5025",
+      "distanta_mm": 24
+    },
+    {
+      "nume": "Farul de la pintenul de nord-est din Constanța",
+      "an_constructie": "1972",
+      "coordonate": "44.147639, 28.671944",
+      "clasa_iluminare": "Fl G 3s.",
+      "inaltime_focala": "14 metri (46 ft)",
+      "numar_nga": "17704",
+      "numar_amiralitate": "E5026.2",
+      "distanta_mm": 5
+    },
+    {
+      "nume": "Farul de intrare de la digul exterior de est Constanța",
+      "an_constructie": "1972",
+      "coordonate": "44.143444, 28.672833",
+      "clasa_iluminare": "Fl W 4.5s.",
+      "inaltime_focala": "24 metri (79 ft)",
+      "numar_nga": "17700",
+      "numar_amiralitate": "E5026",
+      "distanta_mm": 10
+    },
+    {
+      "nume": "Farul de la digul de sud Constanța",
+      "an_constructie": "1972",
+      "coordonate": "44.146972, 28.668806",
+      "clasa_iluminare": "Fl R 3s.",
+      "inaltime_focala": "14 metri (46 ft)",
+      "numar_nga": "17708",
+      "numar_amiralitate": "E5026.4",
+      "distanta_mm": 5
+    },
+    {
+      "nume": "Farul de la Gura Portiței",
+      "an_constructie": "1944 (reamplasat în 1977)",
+      "coordonate": "44.675444, 28.987278",
+      "clasa_iluminare": "Fl W 9s.",
+      "inaltime_focala": "22 metri (72 ft)",
+      "numar_nga": "17736",
+      "numar_amiralitate": "E5031",
+      "distanta_mm": 10
+    },
+    {
+      "nume": "Farul Mangalia",
+      "an_constructie": "1958",
+      "coordonate": "43.810889, 28.558611",
+      "clasa_iluminare": "Fl (2) W 5.5s.",
+      "inaltime_focala": "72 metri (236 ft)",
+      "numar_nga": "17664",
+      "numar_amiralitate": "E5018",
+      "distanta_mm": 22
+    },
+    {
+      "nume": "Farul de intrare de la digul de nord-est Mangalia",
+      "an_constructie": "1979",
+      "coordonate": "43.798944, 28.600472",
+      "clasa_iluminare": "Fl W 4s.",
+      "inaltime_focala": "23 metri (75 ft)",
+      "numar_nga": "17668",
+      "numar_amiralitate": "E5019",
+      "distanta_mm": 10
+    },
+    {
+      "nume": "Farul de la pintenul de nord-est Mangalia",
+      "an_constructie": "1979",
+      "coordonate": "43.801194, 28.595333",
+      "clasa_iluminare": "Fl G 3s.",
+      "inaltime_focala": "15 metri (49 ft)",
+      "numar_nga": "17672",
+      "numar_amiralitate": "E5019.5",
+      "distanta_mm": 5
+    },
+    {
+      "nume": "Farul de la digul de sud-est Mangalia",
+      "an_constructie": "n/a",
+      "coordonate": "43.798611, 28.592972",
+      "clasa_iluminare": "Fl R 3s.",
+      "inaltime_focala": "15 metri (49 ft)",
+      "numar_nga": "17684",
+      "numar_amiralitate": "E5020",
+      "distanta_mm": 5
+    },
+    {
+      "nume": "Farul Midia",
+      "an_constructie": "1942",
+      "coordonate": "44.348333, 28.687944",
+      "clasa_iluminare": "Fl W 5s.",
+      "inaltime_focala": "36 metri (118 ft)",
+      "numar_nga": "17732",
+      "numar_amiralitate": "E5030",
+      "distanta_mm": 17
+    },
+    {
+      "nume": "Farul de intrare Midia",
+      "an_constructie": "1989",
+      "coordonate": "44.321444, 28.694528",
+      "clasa_iluminare": "Fl W 5s.",
+      "inaltime_focala": "25 metri (82 ft)",
+      "numar_nga": "17733",
+      "numar_amiralitate": "E5030.2",
+      "distanta_mm": 10
+    },
+    {
+      "nume": "Farul Sfântu Gheorghe",
+      "an_constructie": "1968",
+      "coordonate": "44.899139, 29.600417",
+      "clasa_iluminare": "Fl (2) W 7.2s.",
+      "inaltime_focala": "48 metri (157 ft)",
+      "numar_nga": "17740",
+      "numar_amiralitate": "E5032",
+      "distanta_mm": 19
+    },
+    {
+      "nume": "Farul nou de la Sulina",
+      "an_constructie": "1983",
+      "coordonate": "45.148306, 29.759333",
+      "clasa_iluminare": "Fl (3) W 16.2s.",
+      "inaltime_focala": "49 metri (161 ft)",
+      "numar_nga": "17744",
+      "numar_amiralitate": "E5034",
+      "distanta_mm": 19
+    },
+    {
+      "nume": "Farul de la digul de nord-est Tomis",
+      "an_constructie": "n/a",
+      "coordonate": "44.178361, 28.662500",
+      "clasa_iluminare": "Fl G 3s.",
+      "inaltime_focala": "10 metri (33 ft)",
+      "numar_nga": "17720",
+      "numar_amiralitate": "E5028.2",
+      "distanta_mm": 4
+    },
+    {
+      "nume": "Farul de la digul de sud-est Tomis",
+      "an_constructie": "n/a",
+      "coordonate": "44.177806, 28.662028",
+      "clasa_iluminare": "Fl R 3s.",
+      "inaltime_focala": "10 metri (33 ft)",
+      "numar_nga": "17728",
+      "numar_amiralitate": "E5028",
+      "distanta_mm": 4
+    }
+  ],
+  "meta": {
+    "title": "Faruri din România - Free Download",
+    "description": "Farurile maritime și fluviale din România, cu anul construirii, coordonatele, caracteristica luminii și înălțimea focală. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Faruri din România | ListBase",
+    "seo_description": "Download Faruri din România — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Listă_de_faruri_din_România"
+    ]
+  }
+}
