@@ -1,0 +1,144 @@
+{
+  "id": "ro-case-de-discuri",
+  "name": "Case de discuri românești",
+  "title": "Case de discuri românești",
+  "description": "Casele de discuri (labeluri muzicale) din România, de la Electrecord la labelurile actuale de muzică pop, hip-hop și manele.",
+  "category": "music",
+  "source": "https://ro.wikipedia.org/wiki/Listă_de_case_de_discuri_românești",
+  "source_url": "https://ro.wikipedia.org/wiki/Listă_de_case_de_discuri_românești",
+  "updated": "2026-10",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "activa",
+      "label": "Activa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "Apollo Music Production",
+      "activa": "da"
+    },
+    {
+      "nume": "Red Clover Media",
+      "activa": "da"
+    },
+    {
+      "nume": "Cat Music",
+      "activa": "da"
+    },
+    {
+      "nume": "Electrecord",
+      "activa": "da"
+    },
+    {
+      "nume": "Eurostar",
+      "activa": "da"
+    },
+    {
+      "nume": "Facem Records",
+      "activa": "da"
+    },
+    {
+      "nume": "Hades Records",
+      "activa": "da"
+    },
+    {
+      "nume": "Roton",
+      "activa": "da"
+    },
+    {
+      "nume": "MediaPro Music",
+      "activa": "da"
+    },
+    {
+      "nume": "HaHaHa Production",
+      "activa": "da"
+    },
+    {
+      "nume": "20CM Records",
+      "activa": "da"
+    },
+    {
+      "nume": "Okapi Sound",
+      "activa": "da"
+    },
+    {
+      "nume": "Global Records",
+      "activa": "da"
+    },
+    {
+      "nume": "TBoys Production",
+      "activa": "da"
+    },
+    {
+      "nume": "DeMoga Music",
+      "activa": "da"
+    },
+    {
+      "nume": "Famous Production",
+      "activa": "da"
+    },
+    {
+      "nume": "((Atom))",
+      "activa": "da"
+    },
+    {
+      "nume": "Mixton Music",
+      "activa": "da"
+    },
+    {
+      "nume": "Ocult Records",
+      "activa": "nu"
+    },
+    {
+      "nume": "NWO",
+      "activa": "da"
+    },
+    {
+      "nume": "Amma Records",
+      "activa": "da"
+    },
+    {
+      "nume": "Big Man",
+      "activa": "da"
+    },
+    {
+      "nume": "Grand Production Bursuc",
+      "activa": "da"
+    },
+    {
+      "nume": "RoTerra Music",
+      "activa": "da"
+    },
+    {
+      "nume": "Autentic Music",
+      "activa": "da"
+    },
+    {
+      "nume": "Nek Production",
+      "activa": "da"
+    },
+    {
+      "nume": "Crisband Music",
+      "activa": "da"
+    }
+  ],
+  "meta": {
+    "title": "Case de discuri românești - Free Download",
+    "description": "Casele de discuri (labeluri muzicale) din România, de la Electrecord la labelurile actuale de muzică pop, hip-hop și manele. Contains 27 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Case de discuri românești | ListBase",
+    "seo_description": "Download Case de discuri românești — 27 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 27 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Listă_de_case_de_discuri_românești"
+    ]
+  }
+}

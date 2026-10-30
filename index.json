@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-10-30T02:17:15.599Z",
-  "total_datasets": 456,
-  "total_records": 165414,
+  "generated": "2026-10-30T02:17:23.163Z",
+  "total_datasets": 457,
+  "total_records": 165441,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "politics",
@@ -5679,6 +5679,29 @@
         "xlsx": {
           "name": "ro-penitenciare_RO.xlsx",
           "size": 8346
+        }
+      }
+    },
+    {
+      "id": "ro-case-de-discuri",
+      "name": "Case de discuri românești",
+      "category": "music",
+      "record_count": 27,
+      "columns": [
+        "nume",
+        "activa"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Listă_de_case_de_discuri_românești",
+      "updated": "2026-10",
+      "size": 3142,
+      "files": {
+        "csv": {
+          "name": "ro-case-de-discuri_RO.csv",
+          "size": 578
+        },
+        "xlsx": {
+          "name": "ro-case-de-discuri_RO.xlsx",
+          "size": 7199
         }
       }
     },
