@@ -1,0 +1,164 @@
+{
+  "id": "ro-sindicate",
+  "name": "Sindicate din România",
+  "title": "Sindicate din România",
+  "description": "Confederații, federații și sindicate reprezentative din România, cu acronimul folosit.",
+  "category": "society",
+  "source": "https://ro.wikipedia.org/wiki/Listă_de_sindicate_din_România",
+  "source_url": "https://ro.wikipedia.org/wiki/Listă_de_sindicate_din_România",
+  "updated": "2026-11",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "acronim",
+      "label": "Acronim",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "Federația Națională a Sindicatelor din Agricultură, Alimentație, Tutun, Domenii și Servicii Conexe",
+      "acronim": "Agrostar"
+    },
+    {
+      "nume": "Blocul Național Sindical",
+      "acronim": ""
+    },
+    {
+      "nume": "Federația PUBLISIND",
+      "acronim": ""
+    },
+    {
+      "nume": "Sindicatul EUROPOL",
+      "acronim": ""
+    },
+    {
+      "nume": "CNS „Cartel Alfa”",
+      "acronim": ""
+    },
+    {
+      "nume": "CNSLR-Frăția",
+      "acronim": ""
+    },
+    {
+      "nume": "Confederația Sindicală Națională Meridian",
+      "acronim": ""
+    },
+    {
+      "nume": "Confederația Sindicatelor Democratice din România",
+      "acronim": ""
+    },
+    {
+      "nume": "Federația Sindicatelor Democratice din România (F.S.D.R.)",
+      "acronim": ""
+    },
+    {
+      "nume": "Sindicatul Democratic al Polițiștilor SIDEPOL",
+      "acronim": ""
+    },
+    {
+      "nume": "Federația Națională a Sindicatelor din Administrație",
+      "acronim": ""
+    },
+    {
+      "nume": "Publisind",
+      "acronim": ""
+    },
+    {
+      "nume": "Sindicatul Național al Funcționarilor Publici",
+      "acronim": "SNFP"
+    },
+    {
+      "nume": "Federația Națională a Sindicatelor din Administrație",
+      "acronim": "FNSA"
+    },
+    {
+      "nume": "Alianța Națională a Sindicatelor Bugetarilor",
+      "acronim": "SED LEX"
+    },
+    {
+      "nume": "Federatia Nationala a Sindicatelor din Politie SED LEX- SEDLEX",
+      "acronim": ""
+    },
+    {
+      "nume": "Federația Națională Sindicală Alma Mater",
+      "acronim": ""
+    },
+    {
+      "nume": "Federația Sindicatelor din Comerț",
+      "acronim": "FSC"
+    },
+    {
+      "nume": "Federația Sindicatelor Libere din Învățământ",
+      "acronim": "FSLI"
+    },
+    {
+      "nume": "Federația Educației Naționale",
+      "acronim": "FEN"
+    },
+    {
+      "nume": "Federația Solidaritatea Sanitară din România",
+      "acronim": ""
+    },
+    {
+      "nume": "Federația SANITAS",
+      "acronim": ""
+    },
+    {
+      "nume": "Federația Română a Jurnaliștilor",
+      "acronim": "MediaSind"
+    },
+    {
+      "nume": "Federația Sindicatelor din Asigurări și Bănci",
+      "acronim": "FSAB"
+    },
+    {
+      "nume": "Federația Mecanicilor de Locomotivă",
+      "acronim": "FML"
+    },
+    {
+      "nume": "Federația Națională a Sindicatelor din Industria Alimentară",
+      "acronim": "SindAlimenta"
+    },
+    {
+      "nume": "Federația Națională a Sindicatelor Portuare",
+      "acronim": ""
+    },
+    {
+      "nume": "Federația Petrom",
+      "acronim": ""
+    },
+    {
+      "nume": "Liga Sindicatelor Miniere Valea Jiului",
+      "acronim": ""
+    },
+    {
+      "nume": "Sindicatul Național al Polițiștilor și Personalului Contractual",
+      "acronim": "SNPPC"
+    },
+    {
+      "nume": "Uniunea Sindicatelor Libere din Metrou",
+      "acronim": "USLM"
+    },
+    {
+      "nume": "Confederația Sindicatelor Miniere din România",
+      "acronim": "CSMR"
+    }
+  ],
+  "meta": {
+    "title": "Sindicate din România - Free Download",
+    "description": "Confederații, federații și sindicate reprezentative din România, cu acronimul folosit. Contains 32 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sindicate din România | ListBase",
+    "seo_description": "Download Sindicate din România — 32 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 32 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Listă_de_sindicate_din_România"
+    ]
+  }
+}

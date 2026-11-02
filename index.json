@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-02T02:16:08.307Z",
-  "total_datasets": 461,
-  "total_records": 165659,
+  "generated": "2026-11-02T02:16:15.814Z",
+  "total_datasets": 462,
+  "total_records": 165691,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "sports",
@@ -12772,6 +12772,29 @@
         "xlsx": {
           "name": "ro-religii-recensaminte_RO.xlsx",
           "size": 7992
+        }
+      }
+    },
+    {
+      "id": "ro-sindicate",
+      "name": "Sindicate din România",
+      "category": "society",
+      "record_count": 32,
+      "columns": [
+        "nume",
+        "acronim"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Listă_de_sindicate_din_România",
+      "updated": "2026-11",
+      "size": 4329,
+      "files": {
+        "csv": {
+          "name": "ro-sindicate_RO.csv",
+          "size": 1630
+        },
+        "xlsx": {
+          "name": "ro-sindicate_RO.xlsx",
+          "size": 7660
         }
       }
     },
