@@ -1,0 +1,876 @@
+{
+  "id": "ro-specii-vanat-cote-recolta",
+  "name": "Specii de vânat din România: perioade de vânătoare și cote de recoltă",
+  "title": "Specii de vânat din România: perioade de vânătoare și cote de recoltă",
+  "description": "Speciile de faună de interes cinegetic din România, cu perioada legală de vânătoare, efectivele estimate pentru 2026 și cotele de recoltă realizate și propuse.",
+  "category": "environment",
+  "source": "https://ro.wikipedia.org/wiki/Agricultura_României",
+  "source_url": "https://ro.wikipedia.org/wiki/Agricultura_României",
+  "updated": "2026-11",
+  "record_count": 81,
+  "columns": [
+    {
+      "key": "grupa",
+      "label": "Grupa",
+      "type": "string"
+    },
+    {
+      "key": "specie",
+      "label": "Specie",
+      "type": "string"
+    },
+    {
+      "key": "denumire_stiintifica",
+      "label": "Denumire Stiintifica",
+      "type": "string"
+    },
+    {
+      "key": "categorie",
+      "label": "Categorie",
+      "type": "string"
+    },
+    {
+      "key": "perioada_vanatoare",
+      "label": "Perioada Vanatoare",
+      "type": "string"
+    },
+    {
+      "key": "efective_estimate_2026",
+      "label": "Efective Estimate 2026",
+      "type": "number"
+    },
+    {
+      "key": "cote_realizate_2025_2026",
+      "label": "Cote Realizate 2025 2026",
+      "type": "number"
+    },
+    {
+      "key": "propuneri_cote_2026_2027",
+      "label": "Propuneri Cote 2026 2027",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "grupa": "Mamifere",
+      "specie": "Bizam",
+      "denumire_stiintifica": "Ondatra zibethica",
+      "categorie": "total specie",
+      "perioada_vanatoare": "01.09-15.04",
+      "efective_estimate_2026": 12269,
+      "cote_realizate_2025_2026": 535,
+      "propuneri_cote_2026_2027": 1206
+    },
+    {
+      "grupa": "Mamifere",
+      "specie": "Capră neagră",
+      "denumire_stiintifica": "Rupicapra rupicapra",
+      "categorie": "total specie",
+      "perioada_vanatoare": "",
+      "efective_estimate_2026": 7869,
+      "cote_realizate_2025_2026": 582,
+      "propuneri_cote_2026_2027": 693
+    },
+    {
+      "grupa": "Mamifere",
+      "specie": "Capră neagră",
+      "denumire_stiintifica": "Rupicapra rupicapra",
+      "categorie": "exemplar de trofeu",
+      "perioada_vanatoare": "15.10-15.12",
+      "efective_estimate_2026": 2581,
+      "cote_realizate_2025_2026": 278,
+      "propuneri_cote_2026_2027": 332
+    },
+    {
+      "grupa": "Mamifere",
+      "specie": "Capră neagră",
+      "denumire_stiintifica": "Rupicapra rupicapra",
+      "categorie": "exemplar de selecție",
+      "perioada_vanatoare": "01.09-15.12",
+      "efective_estimate_2026": 2581,
+      "cote_realizate_2025_2026": 20,
+      "propuneri_cote_2026_2027": 31
+    },
+    {
+      "grupa": "Mamifere",
+      "specie": "Capră neagră",
+      "denumire_stiintifica": "Rupicapra rupicapra",
+      "categorie": "femele",
+      "perioada_vanatoare": "",
+      "efective_estimate_2026": 3355,
+      "cote_realizate_2025_2026": 257,
+      "propuneri_cote_2026_2027": 328
+    },
+    {
+      "grupa": "Mamifere",
+      "specie": "Capră neagră",
+      "denumire_stiintifica": "Rupicapra rupicapra",
+      "categorie": "tineret",
+      "perioada_vanatoare": "",
+      "efective_estimate_2026": 1933,
+      "cote_realizate_2025_2026": 27,
+      "propuneri_cote_2026_2027": 2
+    },
+    {
+      "grupa": "Mamifere",
+      "specie": "Căprior",
+      "denumire_stiintifica": "Capreolus capreolus",
+      "categorie": "total specie",
+      "perioada_vanatoare": "",
+      "efective_estimate_2026": 237167,
+      "cote_realizate_2025_2026": 13925,
+      "propuneri_cote_2026_2027": 37806
+    },
+    {
+      "grupa": "Mamifere",
+      "specie": "Căprior",
+      "denumire_stiintifica": "Capreolus capreolus",
+      "categorie": "exemplar de trofeu",
+      "perioada_vanatoare": "01.05-15.10",
+      "efective_estimate_2026": 91829,
+      "cote_realizate_2025_2026": 1865,
+      "propuneri_cote_2026_2027": 4330
+    },
+    {
+      "grupa": "Mamifere",
+      "specie": "Căprior",
+      "denumire_stiintifica": "Capreolus capreolus",
+      "categorie": "exemplar de selecție",
+      "perioada_vanatoare": "01.05-15.10",
+      "efective_estimate_2026": 91829,
+      "cote_realizate_2025_2026": 11820,
+      "propuneri_cote_2026_2027": 14371
+    },
+    {
+      "grupa": "Mamifere",
+      "specie": "Căprior",
+      "denumire_stiintifica": "Capreolus capreolus",
+      "categorie": "femelă",
+      "perioada_vanatoare": "01.09-15.02",
+      "efective_estimate_2026": 107285,
+      "cote_realizate_2025_2026": 30,
+      "propuneri_cote_2026_2027": 15101
+    },
+    {
+      "grupa": "Mamifere",
+      "specie": "Căprior",
+      "denumire_stiintifica": "Capreolus capreolus",
+      "categorie": "tineret",
+      "perioada_vanatoare": "",
+      "efective_estimate_2026": 38053,
+      "cote_realizate_2025_2026": 210,
+      "propuneri_cote_2026_2027": 4004
+    },
+    {
+      "grupa": "Mamifere",
+      "specie": "Cerb comun",
+      "denumire_stiintifica": "Cervus elaphus",
+      "categorie": "total specie",
+      "perioada_vanatoare": "",
+      "efective_estimate_2026": 58411,
+      "cote_realizate_2025_2026": 5987,
+      "propuneri_cote_2026_2027": 7945
+    },
+    {
+      "grupa": "Mamifere",
+      "specie": "Cerb comun",
+      "denumire_stiintifica": "Cervus elaphus",
+      "categorie": "exemplar de trofeu",
+      "perioada_vanatoare": "10.09-15.11",
+      "efective_estimate_2026": 21246,
+      "cote_realizate_2025_2026": 908,
+      "propuneri_cote_2026_2027": 1152
+    },
+    {
+      "grupa": "Mamifere",
+      "specie": "Cerb comun",
+      "denumire_stiintifica": "Cervus elaphus",
+      "categorie": "exemplar de selecție",
+      "perioada_vanatoare": "01.09-31.12",
+      "efective_estimate_2026": 21246,
+      "cote_realizate_2025_2026": 2082,
+      "propuneri_cote_2026_2027": 2572
+    },
+    {
+      "grupa": "Mamifere",
+      "specie": "Cerb comun",
+      "denumire_stiintifica": "Cervus elaphus",
+      "categorie": "femele",
+      "perioada_vanatoare": "01.09-15.02",
+      "efective_estimate_2026": 27278,
+      "cote_realizate_2025_2026": 2369,
+      "propuneri_cote_2026_2027": 3190
+    },
+    {
+      "grupa": "Mamifere",
+      "specie": "Cerb comun",
+      "denumire_stiintifica": "Cervus elaphus",
+      "categorie": "tineret",
+      "perioada_vanatoare": "01.09-15.02",
+      "efective_estimate_2026": 9887,
+      "cote_realizate_2025_2026": 628,
+      "propuneri_cote_2026_2027": 1031
+    },
+    {
+      "grupa": "Mamifere",
+      "specie": "Cerb lopătar",
+      "denumire_stiintifica": "Dama dama",
+      "categorie": "total specie",
+      "perioada_vanatoare": "",
+      "efective_estimate_2026": 8023,
+      "cote_realizate_2025_2026": 1251,
+      "propuneri_cote_2026_2027": 1715
+    },
+    {
+      "grupa": "Mamifere",
+      "specie": "Cerb lopătar",
+      "denumire_stiintifica": "Dama dama",
+      "categorie": "exemplar de trofeu",
+      "perioada_vanatoare": "10.10-01.12",
+      "efective_estimate_2026": 2439,
+      "cote_realizate_2025_2026": 90,
+      "propuneri_cote_2026_2027": 151
+    },
+    {
+      "grupa": "Mamifere",
+      "specie": "Cerb lopătar",
+      "denumire_stiintifica": "Dama dama",
+      "categorie": "exemplar de selecție",
+      "perioada_vanatoare": "01.09-15.12",
+      "efective_estimate_2026": 2439,
+      "cote_realizate_2025_2026": 421,
+      "propuneri_cote_2026_2027": 534
+    },
+    {
+      "grupa": "Mamifere",
+      "specie": "Cerb lopătar",
+      "denumire_stiintifica": "Dama dama",
+      "categorie": "femele",
+      "perioada_vanatoare": "01.09-15.02",
+      "efective_estimate_2026": 4083,
+      "cote_realizate_2025_2026": 628,
+      "propuneri_cote_2026_2027": 766
+    },
+    {
+      "grupa": "Mamifere",
+      "specie": "Cerb lopătar",
+      "denumire_stiintifica": "Dama dama",
+      "categorie": "tineret",
+      "perioada_vanatoare": "01.09-15.02",
+      "efective_estimate_2026": 1501,
+      "cote_realizate_2025_2026": 112,
+      "propuneri_cote_2026_2027": 264
+    },
+    {
+      "grupa": "Mamifere",
+      "specie": "Câine enot",
+      "denumire_stiintifica": "Nyctereutes procyonoides",
+      "categorie": "total specie",
+      "perioada_vanatoare": "15.09-31.03",
+      "efective_estimate_2026": 33,
+      "cote_realizate_2025_2026": 0,
+      "propuneri_cote_2026_2027": 11
+    },
+    {
+      "grupa": "Mamifere",
+      "specie": "Dihor comun",
+      "denumire_stiintifica": "Putorius putorius",
+      "categorie": "total specie",
+      "perioada_vanatoare": "15.09-31.03",
+      "efective_estimate_2026": 13773,
+      "cote_realizate_2025_2026": 741,
+      "propuneri_cote_2026_2027": 1203
+    },
+    {
+      "grupa": "Mamifere",
+      "specie": "Hermelină",
+      "denumire_stiintifica": "Mustela erminea",
+      "categorie": "total specie",
+      "perioada_vanatoare": "15.09-31.03",
+      "efective_estimate_2026": 3860,
+      "cote_realizate_2025_2026": 99,
+      "propuneri_cote_2026_2027": 183
+    },
+    {
+      "grupa": "Mamifere",
+      "specie": "Iepure de câmp",
+      "denumire_stiintifica": "Lepus europaeus",
+      "categorie": "total specie",
+      "perioada_vanatoare": "01.11-31.01",
+      "efective_estimate_2026": 1087170,
+      "cote_realizate_2025_2026": 86814,
+      "propuneri_cote_2026_2027": 116417
+    },
+    {
+      "grupa": "Mamifere",
+      "specie": "Iepure de vizuină",
+      "denumire_stiintifica": "Oryctolagus cuniculus",
+      "categorie": "total specie",
+      "perioada_vanatoare": "01.11-31.01",
+      "efective_estimate_2026": 1087170,
+      "cote_realizate_2025_2026": 86814,
+      "propuneri_cote_2026_2027": 116417
+    },
+    {
+      "grupa": "Mamifere",
+      "specie": "Jder de copac",
+      "denumire_stiintifica": "Martes sp.",
+      "categorie": "total specie",
+      "perioada_vanatoare": "15.09-31.03",
+      "efective_estimate_2026": 9795,
+      "cote_realizate_2025_2026": 274,
+      "propuneri_cote_2026_2027": 561
+    },
+    {
+      "grupa": "Mamifere",
+      "specie": "Jder de piatră",
+      "denumire_stiintifica": "Martes sp.",
+      "categorie": "total specie",
+      "perioada_vanatoare": "15.09-31.03",
+      "efective_estimate_2026": 4915,
+      "cote_realizate_2025_2026": 80,
+      "propuneri_cote_2026_2027": 246
+    },
+    {
+      "grupa": "Mamifere",
+      "specie": "Marmotă",
+      "denumire_stiintifica": "Marmota marmota",
+      "categorie": "total specie",
+      "perioada_vanatoare": "15.09-31.10",
+      "efective_estimate_2026": 450,
+      "cote_realizate_2025_2026": 9,
+      "propuneri_cote_2026_2027": 16
+    },
+    {
+      "grupa": "Mamifere",
+      "specie": "Mistreț",
+      "denumire_stiintifica": "Sus scrofa",
+      "categorie": "total specie",
+      "perioada_vanatoare": "",
+      "efective_estimate_2026": 63104,
+      "cote_realizate_2025_2026": 18980,
+      "propuneri_cote_2026_2027": 25443
+    },
+    {
+      "grupa": "Mamifere",
+      "specie": "Mistreț",
+      "denumire_stiintifica": "Sus scrofa",
+      "categorie": "mascul",
+      "perioada_vanatoare": "01.01-31.12",
+      "efective_estimate_2026": 63104,
+      "cote_realizate_2025_2026": 18980,
+      "propuneri_cote_2026_2027": 25443
+    },
+    {
+      "grupa": "Mamifere",
+      "specie": "Mistreț",
+      "denumire_stiintifica": "Sus scrofa",
+      "categorie": "femelă și purcel",
+      "perioada_vanatoare": "01.06-31.01",
+      "efective_estimate_2026": 63104,
+      "cote_realizate_2025_2026": 18980,
+      "propuneri_cote_2026_2027": 25443
+    },
+    {
+      "grupa": "Mamifere",
+      "specie": "Muflon",
+      "denumire_stiintifica": "Ovis aries musimon",
+      "categorie": "total specie",
+      "perioada_vanatoare": "15.09-15.12",
+      "efective_estimate_2026": 107,
+      "cote_realizate_2025_2026": 10,
+      "propuneri_cote_2026_2027": 10
+    },
+    {
+      "grupa": "Mamifere",
+      "specie": "Muflon",
+      "denumire_stiintifica": "Ovis aries musimon",
+      "categorie": "exemplar de trofeu",
+      "perioada_vanatoare": "",
+      "efective_estimate_2026": 37,
+      "cote_realizate_2025_2026": 1,
+      "propuneri_cote_2026_2027": 1
+    },
+    {
+      "grupa": "Mamifere",
+      "specie": "Muflon",
+      "denumire_stiintifica": "Ovis aries musimon",
+      "categorie": "exemplar de selecție",
+      "perioada_vanatoare": "",
+      "efective_estimate_2026": 37,
+      "cote_realizate_2025_2026": 4,
+      "propuneri_cote_2026_2027": 4
+    },
+    {
+      "grupa": "Mamifere",
+      "specie": "Muflon",
+      "denumire_stiintifica": "Ovis aries musimon",
+      "categorie": "femele",
+      "perioada_vanatoare": "",
+      "efective_estimate_2026": 57,
+      "cote_realizate_2025_2026": 5,
+      "propuneri_cote_2026_2027": 5
+    },
+    {
+      "grupa": "Mamifere",
+      "specie": "Muflon",
+      "denumire_stiintifica": "Ovis aries musimon",
+      "categorie": "tineret",
+      "perioada_vanatoare": "",
+      "efective_estimate_2026": 13,
+      "cote_realizate_2025_2026": 0,
+      "propuneri_cote_2026_2027": 0
+    },
+    {
+      "grupa": "Mamifere",
+      "specie": "Nevăstuică",
+      "denumire_stiintifica": "Mustela nivalis",
+      "categorie": "total specie",
+      "perioada_vanatoare": "15.09-31.03",
+      "efective_estimate_2026": 12325,
+      "cote_realizate_2025_2026": 602,
+      "propuneri_cote_2026_2027": 937
+    },
+    {
+      "grupa": "Mamifere",
+      "specie": "Șacal",
+      "denumire_stiintifica": "Canis aureus",
+      "categorie": "total specie",
+      "perioada_vanatoare": "01.01-31.12",
+      "efective_estimate_2026": 46645,
+      "cote_realizate_2025_2026": 24587,
+      "propuneri_cote_2026_2027": 39680
+    },
+    {
+      "grupa": "Mamifere",
+      "specie": "Viezure",
+      "denumire_stiintifica": "Meles meles",
+      "categorie": "total specie",
+      "perioada_vanatoare": "01.08-31.03",
+      "efective_estimate_2026": 31665,
+      "cote_realizate_2025_2026": 3251,
+      "propuneri_cote_2026_2027": 5377
+    },
+    {
+      "grupa": "Mamifere",
+      "specie": "Vulpe",
+      "denumire_stiintifica": "Vulpes vulpes",
+      "categorie": "total specie",
+      "perioada_vanatoare": "01.01-31.12",
+      "efective_estimate_2026": 94644,
+      "cote_realizate_2025_2026": 43787,
+      "propuneri_cote_2026_2027": 65795
+    },
+    {
+      "grupa": "Păsări (sedentare și migratoare)",
+      "specie": "Becațină comună",
+      "denumire_stiintifica": "Gallinago gallinago",
+      "categorie": "total specie",
+      "perioada_vanatoare": "01.09-28.02",
+      "efective_estimate_2026": "",
+      "cote_realizate_2025_2026": 119,
+      "propuneri_cote_2026_2027": ""
+    },
+    {
+      "grupa": "Păsări (sedentare și migratoare)",
+      "specie": "Becațină mică",
+      "denumire_stiintifica": "Lymnocryptes minimus",
+      "categorie": "total specie",
+      "perioada_vanatoare": "01.09-28.02",
+      "efective_estimate_2026": "",
+      "cote_realizate_2025_2026": "",
+      "propuneri_cote_2026_2027": ""
+    },
+    {
+      "grupa": "Păsări (sedentare și migratoare)",
+      "specie": "Cioară grivă",
+      "denumire_stiintifica": "Corvus corone cornix",
+      "categorie": "total specie",
+      "perioada_vanatoare": "01.06-31.03",
+      "efective_estimate_2026": 325859,
+      "cote_realizate_2025_2026": 126126,
+      "propuneri_cote_2026_2027": 171356
+    },
+    {
+      "grupa": "Păsări (sedentare și migratoare)",
+      "specie": "Cioară grivă sudică",
+      "denumire_stiintifica": "Corvus corone sardonius",
+      "categorie": "total specie",
+      "perioada_vanatoare": "01.06-31.03",
+      "efective_estimate_2026": "",
+      "cote_realizate_2025_2026": "",
+      "propuneri_cote_2026_2027": ""
+    },
+    {
+      "grupa": "Păsări (sedentare și migratoare)",
+      "specie": "Cioară de semănătură",
+      "denumire_stiintifica": "Corvus frugilegus",
+      "categorie": "total specie",
+      "perioada_vanatoare": "15.08-31.01",
+      "efective_estimate_2026": 447754,
+      "cote_realizate_2025_2026": 203864,
+      "propuneri_cote_2026_2027": 266323
+    },
+    {
+      "grupa": "Păsări (sedentare și migratoare)",
+      "specie": "Ciocârlie de câmp",
+      "denumire_stiintifica": "Alauda arvensis",
+      "categorie": "total specie",
+      "perioada_vanatoare": "15.09-31.10",
+      "efective_estimate_2026": "",
+      "cote_realizate_2025_2026": 51525,
+      "propuneri_cote_2026_2027": 25
+    },
+    {
+      "grupa": "Păsări (sedentare și migratoare)",
+      "specie": "Cocoșar",
+      "denumire_stiintifica": "Turdus pilaris",
+      "categorie": "total specie",
+      "perioada_vanatoare": "01.09-28.02",
+      "efective_estimate_2026": "",
+      "cote_realizate_2025_2026": 13843,
+      "propuneri_cote_2026_2027": 25
+    },
+    {
+      "grupa": "Păsări (sedentare și migratoare)",
+      "specie": "Cocoș de munte - mascul",
+      "denumire_stiintifica": "Tetrao urogallus",
+      "categorie": "total specie",
+      "perioada_vanatoare": "10.09-30.11",
+      "efective_estimate_2026": "",
+      "cote_realizate_2025_2026": "",
+      "propuneri_cote_2026_2027": ""
+    },
+    {
+      "grupa": "Păsări (sedentare și migratoare)",
+      "specie": "Coțofană",
+      "denumire_stiintifica": "Pica pica",
+      "categorie": "total specie",
+      "perioada_vanatoare": "01.06-31.03",
+      "efective_estimate_2026": 322570,
+      "cote_realizate_2025_2026": 148547,
+      "propuneri_cote_2026_2027": 215679
+    },
+    {
+      "grupa": "Păsări (sedentare și migratoare)",
+      "specie": "Cormoran mare",
+      "denumire_stiintifica": "Phalacrocorax carbo sinensis",
+      "categorie": "total specie",
+      "perioada_vanatoare": "01.09-28.02",
+      "efective_estimate_2026": 78920,
+      "cote_realizate_2025_2026": 0,
+      "propuneri_cote_2026_2027": 4641
+    },
+    {
+      "grupa": "Păsări (sedentare și migratoare)",
+      "specie": "Fazan",
+      "denumire_stiintifica": "Phasianus colchicus",
+      "categorie": "total specie",
+      "perioada_vanatoare": "01.10-28.02",
+      "efective_estimate_2026": 594328,
+      "cote_realizate_2025_2026": 134835,
+      "propuneri_cote_2026_2027": 173181
+    },
+    {
+      "grupa": "Păsări (sedentare și migratoare)",
+      "specie": "Gaiță",
+      "denumire_stiintifica": "Garrulus glandarius",
+      "categorie": "total specie",
+      "perioada_vanatoare": "01.09-28.02",
+      "efective_estimate_2026": 135599,
+      "cote_realizate_2025_2026": 32907,
+      "propuneri_cote_2026_2027": 58995
+    },
+    {
+      "grupa": "Păsări (sedentare și migratoare)",
+      "specie": "Găinușă de baltă",
+      "denumire_stiintifica": "Gallinula chloropus",
+      "categorie": "total specie",
+      "perioada_vanatoare": "01.09-28.02",
+      "efective_estimate_2026": "",
+      "cote_realizate_2025_2026": "",
+      "propuneri_cote_2026_2027": ""
+    },
+    {
+      "grupa": "Păsări (sedentare și migratoare)",
+      "specie": "Gâscă de vară",
+      "denumire_stiintifica": "Anser anser rubrirostris",
+      "categorie": "total specie",
+      "perioada_vanatoare": "15.08-15.02",
+      "efective_estimate_2026": "",
+      "cote_realizate_2025_2026": 4841,
+      "propuneri_cote_2026_2027": ""
+    },
+    {
+      "grupa": "Păsări (sedentare și migratoare)",
+      "specie": "Gârliță mare",
+      "denumire_stiintifica": "Anser albifrons",
+      "categorie": "total specie",
+      "perioada_vanatoare": "15.10-15.02",
+      "efective_estimate_2026": "",
+      "cote_realizate_2025_2026": 27259,
+      "propuneri_cote_2026_2027": ""
+    },
+    {
+      "grupa": "Păsări (sedentare și migratoare)",
+      "specie": "Graur",
+      "denumire_stiintifica": "Sturnus vulgaris",
+      "categorie": "total specie",
+      "perioada_vanatoare": "15.08-28.02",
+      "efective_estimate_2026": "",
+      "cote_realizate_2025_2026": 24435,
+      "propuneri_cote_2026_2027": ""
+    },
+    {
+      "grupa": "Păsări (sedentare și migratoare)",
+      "specie": "Guguștiuc",
+      "denumire_stiintifica": "Streptopelia decaocto",
+      "categorie": "total specie",
+      "perioada_vanatoare": "15.08-28.02",
+      "efective_estimate_2026": 539728,
+      "cote_realizate_2025_2026": 143605,
+      "propuneri_cote_2026_2027": 237390
+    },
+    {
+      "grupa": "Păsări (sedentare și migratoare)",
+      "specie": "Ieruncă",
+      "denumire_stiintifica": "Bonasa bonasia",
+      "categorie": "total specie",
+      "perioada_vanatoare": "15.09-30.11",
+      "efective_estimate_2026": 5841,
+      "cote_realizate_2025_2026": 288,
+      "propuneri_cote_2026_2027": 773
+    },
+    {
+      "grupa": "Păsări (sedentare și migratoare)",
+      "specie": "Lișiță",
+      "denumire_stiintifica": "Fulica atra",
+      "categorie": "total specie",
+      "perioada_vanatoare": "01.09-10.02",
+      "efective_estimate_2026": "",
+      "cote_realizate_2025_2026": 880,
+      "propuneri_cote_2026_2027": ""
+    },
+    {
+      "grupa": "Păsări (sedentare și migratoare)",
+      "specie": "Porumbel gulerat",
+      "denumire_stiintifica": "Columba palumbus",
+      "categorie": "total specie",
+      "perioada_vanatoare": "01.09-10.02",
+      "efective_estimate_2026": "",
+      "cote_realizate_2025_2026": 33783,
+      "propuneri_cote_2026_2027": ""
+    },
+    {
+      "grupa": "Păsări (sedentare și migratoare)",
+      "specie": "Porumbel de scorbură",
+      "denumire_stiintifica": "Columba oenas",
+      "categorie": "total specie",
+      "perioada_vanatoare": "01.09-10.02",
+      "efective_estimate_2026": "",
+      "cote_realizate_2025_2026": 93,
+      "propuneri_cote_2026_2027": ""
+    },
+    {
+      "grupa": "Păsări (sedentare și migratoare)",
+      "specie": "Potârniche",
+      "denumire_stiintifica": "Perdix perdix",
+      "categorie": "total specie",
+      "perioada_vanatoare": "15.09-31.12",
+      "efective_estimate_2026": 230337,
+      "cote_realizate_2025_2026": 17213,
+      "propuneri_cote_2026_2027": 29329
+    },
+    {
+      "grupa": "Păsări (sedentare și migratoare)",
+      "specie": "Prepeliță",
+      "denumire_stiintifica": "Coturnix coturnix",
+      "categorie": "total specie",
+      "perioada_vanatoare": "15.08-31.10",
+      "efective_estimate_2026": "",
+      "cote_realizate_2025_2026": 90499,
+      "propuneri_cote_2026_2027": ""
+    },
+    {
+      "grupa": "Păsări (sedentare și migratoare)",
+      "specie": "Rață mare",
+      "denumire_stiintifica": "Anas platyrhynchos",
+      "categorie": "total specie",
+      "perioada_vanatoare": "01.09-15.02",
+      "efective_estimate_2026": "",
+      "cote_realizate_2025_2026": 78549,
+      "propuneri_cote_2026_2027": ""
+    },
+    {
+      "grupa": "Păsări (sedentare și migratoare)",
+      "specie": "Rață mică",
+      "denumire_stiintifica": "Anas crecca",
+      "categorie": "total specie",
+      "perioada_vanatoare": "01.09-10.02",
+      "efective_estimate_2026": "",
+      "cote_realizate_2025_2026": 19131,
+      "propuneri_cote_2026_2027": ""
+    },
+    {
+      "grupa": "Păsări (sedentare și migratoare)",
+      "specie": "Rață fluierătoare",
+      "denumire_stiintifica": "Anas penelope",
+      "categorie": "total specie",
+      "perioada_vanatoare": "15.08-15.02",
+      "efective_estimate_2026": "",
+      "cote_realizate_2025_2026": 262,
+      "propuneri_cote_2026_2027": ""
+    },
+    {
+      "grupa": "Păsări (sedentare și migratoare)",
+      "specie": "Rață cu cap castaniu",
+      "denumire_stiintifica": "Aythya ferina",
+      "categorie": "total specie",
+      "perioada_vanatoare": "15.08-15.02",
+      "efective_estimate_2026": "",
+      "cote_realizate_2025_2026": 417,
+      "propuneri_cote_2026_2027": ""
+    },
+    {
+      "grupa": "Păsări (sedentare și migratoare)",
+      "specie": "Rață moțată",
+      "denumire_stiintifica": "Aythya fuligula",
+      "categorie": "total specie",
+      "perioada_vanatoare": "15.09-10.02",
+      "efective_estimate_2026": "",
+      "cote_realizate_2025_2026": "",
+      "propuneri_cote_2026_2027": ""
+    },
+    {
+      "grupa": "Păsări (sedentare și migratoare)",
+      "specie": "Rață pestriță",
+      "denumire_stiintifica": "Anas strepera",
+      "categorie": "total specie",
+      "perioada_vanatoare": "15.08-15.02",
+      "efective_estimate_2026": "",
+      "cote_realizate_2025_2026": 882,
+      "propuneri_cote_2026_2027": ""
+    },
+    {
+      "grupa": "Păsări (sedentare și migratoare)",
+      "specie": "Rață sunătoare",
+      "denumire_stiintifica": "Bucephala clangula",
+      "categorie": "total specie",
+      "perioada_vanatoare": "15.08-15.02",
+      "efective_estimate_2026": "",
+      "cote_realizate_2025_2026": 326,
+      "propuneri_cote_2026_2027": ""
+    },
+    {
+      "grupa": "Păsări (sedentare și migratoare)",
+      "specie": "Rață lingurar",
+      "denumire_stiintifica": "Anas clypeata",
+      "categorie": "total specie",
+      "perioada_vanatoare": "15.08-15.02",
+      "efective_estimate_2026": "",
+      "cote_realizate_2025_2026": 110,
+      "propuneri_cote_2026_2027": ""
+    },
+    {
+      "grupa": "Păsări (sedentare și migratoare)",
+      "specie": "Rață sulițar",
+      "denumire_stiintifica": "Anas acuta",
+      "categorie": "total specie",
+      "perioada_vanatoare": "15.08-31.01",
+      "efective_estimate_2026": "",
+      "cote_realizate_2025_2026": 97,
+      "propuneri_cote_2026_2027": ""
+    },
+    {
+      "grupa": "Păsări (sedentare și migratoare)",
+      "specie": "Rață cârâitoare",
+      "denumire_stiintifica": "Anas querquedula",
+      "categorie": "total specie",
+      "perioada_vanatoare": "01.09-10.02",
+      "efective_estimate_2026": "",
+      "cote_realizate_2025_2026": 122,
+      "propuneri_cote_2026_2027": ""
+    },
+    {
+      "grupa": "Păsări (sedentare și migratoare)",
+      "specie": "Rață cu cap negru",
+      "denumire_stiintifica": "Aythya marila",
+      "categorie": "total specie",
+      "perioada_vanatoare": "15.08-15.02",
+      "efective_estimate_2026": "",
+      "cote_realizate_2025_2026": "",
+      "propuneri_cote_2026_2027": ""
+    },
+    {
+      "grupa": "Păsări (sedentare și migratoare)",
+      "specie": "Sitar de pădure",
+      "denumire_stiintifica": "Scolopax rusticola",
+      "categorie": "total specie",
+      "perioada_vanatoare": "01.09-28.02",
+      "efective_estimate_2026": "",
+      "cote_realizate_2025_2026": 1474,
+      "propuneri_cote_2026_2027": ""
+    },
+    {
+      "grupa": "Păsări (sedentare și migratoare)",
+      "specie": "Stăncuță",
+      "denumire_stiintifica": "Corvus monedula",
+      "categorie": "total specie",
+      "perioada_vanatoare": "10.07-20.03",
+      "efective_estimate_2026": 74881,
+      "cote_realizate_2025_2026": 20472,
+      "propuneri_cote_2026_2027": 40193
+    },
+    {
+      "grupa": "Păsări (sedentare și migratoare)",
+      "specie": "Sturz de vâsc",
+      "denumire_stiintifica": "Turdus viscivorus",
+      "categorie": "total specie",
+      "perioada_vanatoare": "01.09-28.02",
+      "efective_estimate_2026": "",
+      "cote_realizate_2025_2026": 6107,
+      "propuneri_cote_2026_2027": ""
+    },
+    {
+      "grupa": "Păsări (sedentare și migratoare)",
+      "specie": "Sturz cântător",
+      "denumire_stiintifica": "Turdus philomelos",
+      "categorie": "total specie",
+      "perioada_vanatoare": "01.09-28.02",
+      "efective_estimate_2026": "",
+      "cote_realizate_2025_2026": 2533,
+      "propuneri_cote_2026_2027": ""
+    },
+    {
+      "grupa": "Păsări (sedentare și migratoare)",
+      "specie": "Sturzul viilor",
+      "denumire_stiintifica": "Turdus iliacus",
+      "categorie": "total specie",
+      "perioada_vanatoare": "01.09-28.02",
+      "efective_estimate_2026": "",
+      "cote_realizate_2025_2026": 13036,
+      "propuneri_cote_2026_2027": ""
+    },
+    {
+      "grupa": "Păsări (sedentare și migratoare)",
+      "specie": "Turturică",
+      "denumire_stiintifica": "Streptopelia turtur",
+      "categorie": "total specie",
+      "perioada_vanatoare": "15.08-30.09",
+      "efective_estimate_2026": "",
+      "cote_realizate_2025_2026": "",
+      "propuneri_cote_2026_2027": ""
+    }
+  ],
+  "meta": {
+    "title": "Specii de vânat din România: perioade de vânătoare și cote de recoltă - Free Download",
+    "description": "Speciile de faună de interes cinegetic din România, cu perioada legală de vânătoare, efectivele estimate pentru 2026 și cotele de recoltă realizate și propuse. Contains 81 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Specii de vânat din România: perioade de vânătoare și cote de recoltă | ListBase",
+    "seo_description": "Download Specii de vânat din România: perioade de vânătoare și cote de recoltă — 81 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 81 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Agricultura_României"
+    ]
+  }
+}
