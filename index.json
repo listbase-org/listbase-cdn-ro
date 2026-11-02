@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-02T02:16:22.508Z",
-  "total_datasets": 463,
-  "total_records": 165772,
+  "generated": "2026-11-02T02:16:30.173Z",
+  "total_datasets": 464,
+  "total_records": 165819,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "economy",
@@ -301,6 +301,33 @@
         "xlsx": {
           "name": "ro-patrimoniul-mondial-unesco_RO.xlsx",
           "size": 9443
+        }
+      }
+    },
+    {
+      "id": "ro-ziare",
+      "name": "Ziare din România",
+      "category": "culture",
+      "record_count": 47,
+      "columns": [
+        "nume",
+        "tematica",
+        "anul_primei_aparitii",
+        "format",
+        "limba",
+        "stare"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Listă_de_ziare_din_România",
+      "updated": "2026-11",
+      "size": 10556,
+      "files": {
+        "csv": {
+          "name": "ro-ziare_RO.csv",
+          "size": 3120
+        },
+        "xlsx": {
+          "name": "ro-ziare_RO.xlsx",
+          "size": 8685
         }
       }
     },

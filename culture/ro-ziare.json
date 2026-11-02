@@ -1,0 +1,432 @@
+{
+  "id": "ro-ziare",
+  "name": "Ziare din România",
+  "title": "Ziare din România",
+  "description": "Ziare și publicații periodice din România, cu tematica, anul primei apariții, formatul, limba și starea (activ/inactiv).",
+  "category": "culture",
+  "source": "https://ro.wikipedia.org/wiki/Listă_de_ziare_din_România",
+  "source_url": "https://ro.wikipedia.org/wiki/Listă_de_ziare_din_România",
+  "updated": "2026-11",
+  "record_count": 47,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "tematica",
+      "label": "Tematica",
+      "type": "string"
+    },
+    {
+      "key": "anul_primei_aparitii",
+      "label": "Anul Primei Aparitii",
+      "type": "number"
+    },
+    {
+      "key": "format",
+      "label": "Format",
+      "type": "string"
+    },
+    {
+      "key": "limba",
+      "label": "Limba",
+      "type": "string"
+    },
+    {
+      "key": "stare",
+      "label": "Stare",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "Academia Cațavencu",
+      "tematica": "satiră și umor",
+      "anul_primei_aparitii": 1991,
+      "format": "fizic și electronic",
+      "limba": "română",
+      "stare": "activ"
+    },
+    {
+      "nume": "Adevărul",
+      "tematica": "generic",
+      "anul_primei_aparitii": 1989,
+      "format": "fizic și electronic",
+      "limba": "română",
+      "stare": ""
+    },
+    {
+      "nume": "Allgemeine Deutsche Zeitung für Rumänien",
+      "tematica": "generic",
+      "anul_primei_aparitii": 1993,
+      "format": "fizic și electronic",
+      "limba": "germană",
+      "stare": ""
+    },
+    {
+      "nume": "Amicul Poporului",
+      "tematica": "periodic tip calendar",
+      "anul_primei_aparitii": 1861,
+      "format": "fizic",
+      "limba": "română",
+      "stare": "inactiv"
+    },
+    {
+      "nume": "Anunțul Telefonic",
+      "tematica": "publicitate",
+      "anul_primei_aparitii": 1990,
+      "format": "doar electronic",
+      "limba": "română",
+      "stare": ""
+    },
+    {
+      "nume": "Azi",
+      "tematica": "generic",
+      "anul_primei_aparitii": 1990,
+      "format": "doar electronic",
+      "limba": "română",
+      "stare": ""
+    },
+    {
+      "nume": "Bucharest Business Week",
+      "tematica": "financiar",
+      "anul_primei_aparitii": "",
+      "format": "fizic și electronic",
+      "limba": "engleză",
+      "stare": "inactiv"
+    },
+    {
+      "nume": "Cancan",
+      "tematica": "tabloid",
+      "anul_primei_aparitii": 2007,
+      "format": "doar electronic",
+      "limba": "română",
+      "stare": "activ"
+    },
+    {
+      "nume": "Capital",
+      "tematica": "financiar",
+      "anul_primei_aparitii": 1992,
+      "format": "doar electronic",
+      "limba": "română",
+      "stare": ""
+    },
+    {
+      "nume": "Contemporanul",
+      "tematica": "științific",
+      "anul_primei_aparitii": 1990,
+      "format": "fizic și electronic",
+      "limba": "română",
+      "stare": ""
+    },
+    {
+      "nume": "Cotidianul",
+      "tematica": "generic",
+      "anul_primei_aparitii": 1991,
+      "format": "",
+      "limba": "română",
+      "stare": ""
+    },
+    {
+      "nume": "Curentul",
+      "tematica": "",
+      "anul_primei_aparitii": 1997,
+      "format": "",
+      "limba": "română",
+      "stare": ""
+    },
+    {
+      "nume": "Curierul Național",
+      "tematica": "",
+      "anul_primei_aparitii": 1990,
+      "format": "",
+      "limba": "română",
+      "stare": ""
+    },
+    {
+      "nume": "Cuvântul Poporului",
+      "tematica": "generic",
+      "anul_primei_aparitii": 1919,
+      "format": "fizic",
+      "limba": "română",
+      "stare": "inactiv"
+    },
+    {
+      "nume": "Erdélyi Napló",
+      "tematica": "",
+      "anul_primei_aparitii": 1990,
+      "format": "",
+      "limba": "maghiară",
+      "stare": ""
+    },
+    {
+      "nume": "Evenimentul zilei",
+      "tematica": "",
+      "anul_primei_aparitii": 1992,
+      "format": "doar electronic",
+      "limba": "română",
+      "stare": "activ"
+    },
+    {
+      "nume": "Floarea darurilor",
+      "tematica": "literar",
+      "anul_primei_aparitii": 1907,
+      "format": "fizic",
+      "limba": "română",
+      "stare": "inactiv"
+    },
+    {
+      "nume": "Financiarul",
+      "tematica": "",
+      "anul_primei_aparitii": 2004,
+      "format": "",
+      "limba": "română",
+      "stare": ""
+    },
+    {
+      "nume": "Foaia ilustrată",
+      "tematica": "literară",
+      "anul_primei_aparitii": 1891,
+      "format": "fizic",
+      "limba": "română",
+      "stare": "inactiv"
+    },
+    {
+      "nume": "Foaia Poporului",
+      "tematica": "generic",
+      "anul_primei_aparitii": 1892,
+      "format": "fizic",
+      "limba": "română",
+      "stare": "inactiv"
+    },
+    {
+      "nume": "The Epoch Times",
+      "tematica": "",
+      "anul_primei_aparitii": 2005,
+      "format": "",
+      "limba": "română",
+      "stare": ""
+    },
+    {
+      "nume": "Gardianul",
+      "tematica": "",
+      "anul_primei_aparitii": 2002,
+      "format": "fizic și electronic",
+      "limba": "română",
+      "stare": "inactiv"
+    },
+    {
+      "nume": "Gândul",
+      "tematica": "",
+      "anul_primei_aparitii": 2005,
+      "format": "fizic și electronic",
+      "limba": "română",
+      "stare": "activ"
+    },
+    {
+      "nume": "Ghimpele",
+      "tematica": "tabloid",
+      "anul_primei_aparitii": 2007,
+      "format": "doar electronic",
+      "limba": "română",
+      "stare": ""
+    },
+    {
+      "nume": "Jurnalul Național",
+      "tematica": "generic",
+      "anul_primei_aparitii": 1993,
+      "format": "fizic și electronic",
+      "limba": "română",
+      "stare": ""
+    },
+    {
+      "nume": "Krónika",
+      "tematica": "generic",
+      "anul_primei_aparitii": 1999,
+      "format": "fizic și electronic",
+      "limba": "maghiară",
+      "stare": ""
+    },
+    {
+      "nume": "Libertatea",
+      "tematica": "generic",
+      "anul_primei_aparitii": 1989,
+      "format": "fizic și electronic",
+      "limba": "română",
+      "stare": ""
+    },
+    {
+      "nume": "Népújság",
+      "tematica": "generic",
+      "anul_primei_aparitii": 1989,
+      "format": "fizic și electronic",
+      "limba": "maghiară",
+      "stare": ""
+    },
+    {
+      "nume": "Nine O' Clock",
+      "tematica": "generic",
+      "anul_primei_aparitii": 1991,
+      "format": "fizic și electronic",
+      "limba": "engleză",
+      "stare": ""
+    },
+    {
+      "nume": "News 24",
+      "tematica": "generic",
+      "anul_primei_aparitii": 2012,
+      "format": "doar electronic",
+      "limba": "engleză",
+      "stare": ""
+    },
+    {
+      "nume": "ProSport",
+      "tematica": "sportiv",
+      "anul_primei_aparitii": 1997,
+      "format": "",
+      "limba": "română",
+      "stare": ""
+    },
+    {
+      "nume": "Provincia literară",
+      "tematica": "literară",
+      "anul_primei_aparitii": 1932,
+      "format": "fizic",
+      "limba": "română",
+      "stare": "inactiv"
+    },
+    {
+      "nume": "Puterea",
+      "tematica": "generic",
+      "anul_primei_aparitii": 2010,
+      "format": "",
+      "limba": "",
+      "stare": ""
+    },
+    {
+      "nume": "România Liberă",
+      "tematica": "generic",
+      "anul_primei_aparitii": 1989,
+      "format": "fizic și electronic",
+      "limba": "",
+      "stare": ""
+    },
+    {
+      "nume": "România literară",
+      "tematica": "cultural",
+      "anul_primei_aparitii": 1989,
+      "format": "fizic și electronic",
+      "limba": "",
+      "stare": ""
+    },
+    {
+      "nume": "România Mare",
+      "tematica": "generic",
+      "anul_primei_aparitii": 1990,
+      "format": "fizic și electronic",
+      "limba": "",
+      "stare": ""
+    },
+    {
+      "nume": "Money News",
+      "tematica": "economic",
+      "anul_primei_aparitii": 2024,
+      "format": "electronic",
+      "limba": "",
+      "stare": ""
+    },
+    {
+      "nume": "Săptămâna Financiară",
+      "tematica": "financiar",
+      "anul_primei_aparitii": 2005,
+      "format": "doar electronic",
+      "limba": "",
+      "stare": ""
+    },
+    {
+      "nume": "Sport Total",
+      "tematica": "sportiv",
+      "anul_primei_aparitii": 2005,
+      "format": "fizic și electronic",
+      "limba": "",
+      "stare": "inactiv"
+    },
+    {
+      "nume": "Szabadság",
+      "tematica": "generic",
+      "anul_primei_aparitii": 1989,
+      "format": "doar electronic",
+      "limba": "maghiară",
+      "stare": "activ"
+    },
+    {
+      "nume": "Transindex",
+      "tematica": "generic",
+      "anul_primei_aparitii": 1999,
+      "format": "doar electronic",
+      "limba": "maghiară",
+      "stare": "activ"
+    },
+    {
+      "nume": "Tricolorul",
+      "tematica": "generic",
+      "anul_primei_aparitii": 1990,
+      "format": "doar electronic",
+      "limba": "română",
+      "stare": "activ"
+    },
+    {
+      "nume": "Vásárhelyi Hírlap",
+      "tematica": "generic",
+      "anul_primei_aparitii": 2007,
+      "format": "fizic și electronic",
+      "limba": "maghiară",
+      "stare": "inactiv"
+    },
+    {
+      "nume": "Ziarul Financiar",
+      "tematica": "financiar",
+      "anul_primei_aparitii": 1998,
+      "format": "fizic și electronic",
+      "limba": "română",
+      "stare": "activ"
+    },
+    {
+      "nume": "Ziarul Lumina",
+      "tematica": "generic",
+      "anul_primei_aparitii": 2005,
+      "format": "fizic și electronic",
+      "limba": "română",
+      "stare": "activ"
+    },
+    {
+      "nume": "Ziarul",
+      "tematica": "generic",
+      "anul_primei_aparitii": 2002,
+      "format": "fizic și electronic",
+      "limba": "română",
+      "stare": "inactiv"
+    },
+    {
+      "nume": "Ziua",
+      "tematica": "generic",
+      "anul_primei_aparitii": 1994,
+      "format": "fizic și electronic",
+      "limba": "română",
+      "stare": "inactiv"
+    }
+  ],
+  "meta": {
+    "title": "Ziare din România - Free Download",
+    "description": "Ziare și publicații periodice din România, cu tematica, anul primei apariții, formatul, limba și starea (activ/inactiv). Contains 47 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ziare din România | ListBase",
+    "seo_description": "Download Ziare din România — 47 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 47 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Listă_de_ziare_din_România"
+    ]
+  }
+}
