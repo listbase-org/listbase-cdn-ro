@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-10-30T02:17:30.367Z",
-  "total_datasets": 458,
-  "total_records": 165452,
+  "generated": "2026-11-02T02:15:51.337Z",
+  "total_datasets": 459,
+  "total_records": 165566,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "reference",
@@ -5784,6 +5784,33 @@
         "xlsx": {
           "name": "ro-interpreti-muzica-populara_RO.xlsx",
           "size": 13928
+        }
+      }
+    },
+    {
+      "id": "ro-ministri-de-interne",
+      "name": "Miniștrii de interne ai României (1862–1989)",
+      "category": "politics",
+      "record_count": 114,
+      "columns": [
+        "nr",
+        "ministru",
+        "preluarea_functiei",
+        "sfarsitul_mandatului",
+        "cabinet",
+        "afiliere_politica"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Lista_miniștrilor_români_de_interne",
+      "updated": "2026-11",
+      "size": 30071,
+      "files": {
+        "csv": {
+          "name": "ro-ministri-de-interne_RO.csv",
+          "size": 11293
+        },
+        "xlsx": {
+          "name": "ro-ministri-de-interne_RO.xlsx",
+          "size": 12296
         }
       }
     },

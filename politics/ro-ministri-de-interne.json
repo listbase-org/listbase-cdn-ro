@@ -1,0 +1,968 @@
+{
+  "id": "ro-ministri-de-interne",
+  "name": "Miniștrii de interne ai României (1862–1989)",
+  "title": "Miniștrii de interne ai României (1862–1989)",
+  "description": "Lista miniștrilor afacerilor interne ai României din 1862 până în 1989, cu data preluării funcției, sfârșitul mandatului, cabinetul și afilierea politică.",
+  "category": "politics",
+  "source": "https://ro.wikipedia.org/wiki/Lista_miniștrilor_români_de_interne",
+  "source_url": "https://ro.wikipedia.org/wiki/Lista_miniștrilor_români_de_interne",
+  "updated": "2026-11",
+  "record_count": 114,
+  "columns": [
+    {
+      "key": "nr",
+      "label": "Nr",
+      "type": "number"
+    },
+    {
+      "key": "ministru",
+      "label": "Ministru",
+      "type": "string"
+    },
+    {
+      "key": "preluarea_functiei",
+      "label": "Preluarea Functiei",
+      "type": "string"
+    },
+    {
+      "key": "sfarsitul_mandatului",
+      "label": "Sfarsitul Mandatului",
+      "type": "string"
+    },
+    {
+      "key": "cabinet",
+      "label": "Cabinet",
+      "type": "string"
+    },
+    {
+      "key": "afiliere_politica",
+      "label": "Afiliere Politica",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nr": 1,
+      "ministru": "Barbu Catargiu",
+      "preluarea_functiei": "22 ianuarie 1862",
+      "sfarsitul_mandatului": "8 iunie 1862",
+      "cabinet": "",
+      "afiliere_politica": "Partidul Conservator"
+    },
+    {
+      "nr": 2,
+      "ministru": "Apostol Arsache ad interim",
+      "preluarea_functiei": "8 iunie 1862",
+      "sfarsitul_mandatului": "24 iunie 1862",
+      "cabinet": "",
+      "afiliere_politica": ""
+    },
+    {
+      "nr": 3,
+      "ministru": "Nicolae Kretzulescu",
+      "preluarea_functiei": "24 iunie 1862",
+      "sfarsitul_mandatului": "11 octombrie 1863",
+      "cabinet": "",
+      "afiliere_politica": ""
+    },
+    {
+      "nr": 4,
+      "ministru": "Mihail Kogălniceanu",
+      "preluarea_functiei": "11 octombrie 1863",
+      "sfarsitul_mandatului": "26 ianuarie 1865",
+      "cabinet": "",
+      "afiliere_politica": "Partidul Național Liberal"
+    },
+    {
+      "nr": 5,
+      "ministru": "Constantin Bosianu în calitate de Prim-ministru",
+      "preluarea_functiei": "26 ianuarie 1865",
+      "sfarsitul_mandatului": "14 iunie 1865",
+      "cabinet": "",
+      "afiliere_politica": ""
+    },
+    {
+      "nr": 6,
+      "ministru": "Gen. Ioan Emanoil Florescu",
+      "preluarea_functiei": "14 iunie 1865",
+      "sfarsitul_mandatului": "30 ianuarie 1866",
+      "cabinet": "",
+      "afiliere_politica": "Partidul Conservator"
+    },
+    {
+      "nr": 7,
+      "ministru": "Nicolae Kretzulescu în calitate de Prim-ministru",
+      "preluarea_functiei": "30 ianuarie 1866",
+      "sfarsitul_mandatului": "11 februarie 1866",
+      "cabinet": "",
+      "afiliere_politica": ""
+    },
+    {
+      "nr": 8,
+      "ministru": "Dimitrie Ghica",
+      "preluarea_functiei": "11 februarie 1866",
+      "sfarsitul_mandatului": "10 mai 1866",
+      "cabinet": "",
+      "afiliere_politica": "Partidul Conservator"
+    },
+    {
+      "nr": 9,
+      "ministru": "Lascăr Catargiu în calitate de Prim-ministru",
+      "preluarea_functiei": "11 mai 1866",
+      "sfarsitul_mandatului": "13 iulie 1866",
+      "cabinet": "",
+      "afiliere_politica": "Partidul Conservator"
+    },
+    {
+      "nr": 10,
+      "ministru": "Ion Ghica",
+      "preluarea_functiei": "15 iulie 1866",
+      "sfarsitul_mandatului": "21 februarie 1867",
+      "cabinet": "",
+      "afiliere_politica": "Partidul Național Liberal"
+    },
+    {
+      "nr": 11,
+      "ministru": "Ion C. Brătianu",
+      "preluarea_functiei": "1 martie 1867",
+      "sfarsitul_mandatului": "4 august 1867",
+      "cabinet": "",
+      "afiliere_politica": "Partidul Național Liberal"
+    },
+    {
+      "nr": 12,
+      "ministru": "Ștefan Golescu",
+      "preluarea_functiei": "17 august 1867",
+      "sfarsitul_mandatului": "13 noiembrie 1867",
+      "cabinet": "",
+      "afiliere_politica": "Partidul Național Liberal"
+    },
+    {
+      "nr": 13,
+      "ministru": "Ion C. Brătianu",
+      "preluarea_functiei": "13 noiembrie 1867",
+      "sfarsitul_mandatului": "29 aprilie 1868",
+      "cabinet": "",
+      "afiliere_politica": "Partidul Național Liberal"
+    },
+    {
+      "nr": 14,
+      "ministru": "Anton I. Arion ad interim",
+      "preluarea_functiei": "12 august 1868",
+      "sfarsitul_mandatului": "2 noiembrie 1868",
+      "cabinet": "",
+      "afiliere_politica": ""
+    },
+    {
+      "nr": 15,
+      "ministru": "Mihail Kogălniceanu",
+      "preluarea_functiei": "16 noiembrie 1868",
+      "sfarsitul_mandatului": "24 ianuarie 1870",
+      "cabinet": "",
+      "afiliere_politica": "Partidul Național Liberal"
+    },
+    {
+      "nr": 16,
+      "ministru": "Dimitrie Ghica",
+      "preluarea_functiei": "24 ianuarie 1870",
+      "sfarsitul_mandatului": "27 ianuarie 1870",
+      "cabinet": "",
+      "afiliere_politica": "Partidul Conservator"
+    },
+    {
+      "nr": 17,
+      "ministru": "Alexandru G. Golescu în calitate de Prim-ministru",
+      "preluarea_functiei": "2 februarie 1870",
+      "sfarsitul_mandatului": "30 martie 1870",
+      "cabinet": "",
+      "afiliere_politica": "Partidul Național Liberal"
+    },
+    {
+      "nr": 18,
+      "ministru": "Manolache Costache Epureanu în calitate de Prim-ministru",
+      "preluarea_functiei": "20 aprilie 1870",
+      "sfarsitul_mandatului": "14 decembrie 1870",
+      "cabinet": "",
+      "afiliere_politica": "Partidul Conservator"
+    },
+    {
+      "nr": 19,
+      "ministru": "Ion Ghica",
+      "preluarea_functiei": "18 decembrie 1870",
+      "sfarsitul_mandatului": "11 martie 1871",
+      "cabinet": "",
+      "afiliere_politica": "Partidul Național Liberal"
+    },
+    {
+      "nr": 20,
+      "ministru": "Lascăr Catargiu în calitate de Prim-ministru",
+      "preluarea_functiei": "11 martie 1871",
+      "sfarsitul_mandatului": "31 martie 1876",
+      "cabinet": "",
+      "afiliere_politica": "Partidul Conservator"
+    },
+    {
+      "nr": 21,
+      "ministru": "Gen. Ioan Emanoil Florescu ad interim",
+      "preluarea_functiei": "4 aprilie 1876",
+      "sfarsitul_mandatului": "26 aprilie 1876",
+      "cabinet": "",
+      "afiliere_politica": "Partidul Conservator"
+    },
+    {
+      "nr": 22,
+      "ministru": "George D. Vernescu",
+      "preluarea_functiei": "27 aprilie 1876",
+      "sfarsitul_mandatului": "27 ianuarie 1877",
+      "cabinet": "",
+      "afiliere_politica": "Partidul Național Liberal"
+    },
+    {
+      "nr": 23,
+      "ministru": "Ion C. Brătianu",
+      "preluarea_functiei": "27 ianuarie 1877",
+      "sfarsitul_mandatului": "26 mai 1878",
+      "cabinet": "",
+      "afiliere_politica": "Partidul Național Liberal"
+    },
+    {
+      "nr": 24,
+      "ministru": "Constantin A. Rosetti",
+      "preluarea_functiei": "26 mai 1878",
+      "sfarsitul_mandatului": "16 noiembrie 1878",
+      "cabinet": "",
+      "afiliere_politica": "Partidul Național Liberal"
+    },
+    {
+      "nr": 25,
+      "ministru": "Mihail Kogălniceanu ad interim",
+      "preluarea_functiei": "17 noiembrie 1878",
+      "sfarsitul_mandatului": "25 noiembrie 1878",
+      "cabinet": "",
+      "afiliere_politica": "Partidul Național Liberal"
+    },
+    {
+      "nr": 26,
+      "ministru": "Ion C. Brătianu",
+      "preluarea_functiei": "25 noiembrie 1878",
+      "sfarsitul_mandatului": "5 iulie 1879",
+      "cabinet": "",
+      "afiliere_politica": "Partidul Național Liberal"
+    },
+    {
+      "nr": 27,
+      "ministru": "Mihail Kogălniceanu",
+      "preluarea_functiei": "11 iulie 1879",
+      "sfarsitul_mandatului": "17 aprilie 1880",
+      "cabinet": "",
+      "afiliere_politica": "Partidul Național Liberal"
+    },
+    {
+      "nr": 28,
+      "ministru": "Ion C. Brătianu ad interim",
+      "preluarea_functiei": "17 aprilie 1880",
+      "sfarsitul_mandatului": "15 iulie 1880",
+      "cabinet": "",
+      "afiliere_politica": "Partidul Național Liberal"
+    },
+    {
+      "nr": 29,
+      "ministru": "Anastase Stolojan",
+      "preluarea_functiei": "15 iulie 1880",
+      "sfarsitul_mandatului": "19 iulie 1880",
+      "cabinet": "",
+      "afiliere_politica": "Partidul Național Liberal"
+    },
+    {
+      "nr": 30,
+      "ministru": "Alexandru Teriachiu",
+      "preluarea_functiei": "20 iulie 1880",
+      "sfarsitul_mandatului": "5 aprilie 1881",
+      "cabinet": "",
+      "afiliere_politica": "Partidul Național Liberal"
+    },
+    {
+      "nr": 31,
+      "ministru": "Eugeniu Stătescu",
+      "preluarea_functiei": "10 aprilie 1881",
+      "sfarsitul_mandatului": "8 iunie 1881",
+      "cabinet": "Guvernul Dimitrie Brătianu",
+      "afiliere_politica": "Partidul Național Liberal"
+    },
+    {
+      "nr": 32,
+      "ministru": "Constantin A. Rosetti",
+      "preluarea_functiei": "9 iunie 1881",
+      "sfarsitul_mandatului": "24 ianuarie 1882",
+      "cabinet": "Guvernul Ion C. Brătianu 4",
+      "afiliere_politica": "Partidul Național Liberal"
+    },
+    {
+      "nr": 33,
+      "ministru": "Ion C. Brătianu",
+      "preluarea_functiei": "25 ianuarie 1882",
+      "sfarsitul_mandatului": "1 august 1882",
+      "cabinet": "Guvernul Ion C. Brătianu 4",
+      "afiliere_politica": "Partidul Național Liberal"
+    },
+    {
+      "nr": 34,
+      "ministru": "Gheorghe Chițu",
+      "preluarea_functiei": "1 august 1882",
+      "sfarsitul_mandatului": "22 iunie 1884",
+      "cabinet": "Guvernul Ion C. Brătianu 4",
+      "afiliere_politica": "Partidul Național Liberal"
+    },
+    {
+      "nr": 35,
+      "ministru": "Ion C. Brătianu",
+      "preluarea_functiei": "23 iunie 1884",
+      "sfarsitul_mandatului": "29 aprilie 1887",
+      "cabinet": "Guvernul Ion C. Brătianu 4",
+      "afiliere_politica": "Partidul Național Liberal"
+    },
+    {
+      "nr": 36,
+      "ministru": "General Radu Mihai",
+      "preluarea_functiei": "29 aprilie 1887",
+      "sfarsitul_mandatului": "29 februarie 1888",
+      "cabinet": "Guvernul Ion C. Brătianu 4",
+      "afiliere_politica": "Partidul Național Liberal"
+    },
+    {
+      "nr": 37,
+      "ministru": "Constantin Nacu",
+      "preluarea_functiei": "1 martie 1888",
+      "sfarsitul_mandatului": "20 martie 1888",
+      "cabinet": "Guvernul Ion C. Brătianu 4",
+      "afiliere_politica": "Partidul Național Liberal"
+    },
+    {
+      "nr": 38,
+      "ministru": "Theodor Rosetti",
+      "preluarea_functiei": "23 martie 1888",
+      "sfarsitul_mandatului": "11 noiembrie 1888",
+      "cabinet": "Guvernul Theodor Rosetti 1",
+      "afiliere_politica": "Partidul Conservator"
+    },
+    {
+      "nr": 39,
+      "ministru": "Alexandru B. Știrbei",
+      "preluarea_functiei": "12 noiembrie 1888",
+      "sfarsitul_mandatului": "22 martie 1889",
+      "cabinet": "Guvernul Theodor Rosetti 2",
+      "afiliere_politica": "Partidul Conservator"
+    },
+    {
+      "nr": 40,
+      "ministru": "Lascăr Catargiu",
+      "preluarea_functiei": "29 martie 1889",
+      "sfarsitul_mandatului": "3 noiembrie 1889",
+      "cabinet": "Guvernul Lascăr Catargiu 3",
+      "afiliere_politica": "Partidul Conservator"
+    },
+    {
+      "nr": 41,
+      "ministru": "General Gheorghe Manu",
+      "preluarea_functiei": "5 noiembrie 1889",
+      "sfarsitul_mandatului": "15 februarie 1891",
+      "cabinet": "Guvernul Gheorghe Manu",
+      "afiliere_politica": "Partidul Conservator Partidul Liberal-Conservator"
+    },
+    {
+      "nr": 42,
+      "ministru": "Lascăr Catargiu",
+      "preluarea_functiei": "21 februarie 1891",
+      "sfarsitul_mandatului": "25 noiembrie 1891",
+      "cabinet": "Partidul Conservator",
+      "afiliere_politica": "Al patrulea"
+    },
+    {
+      "nr": 43,
+      "ministru": "Nicolae Fleva",
+      "preluarea_functiei": "4 octombrie 1895",
+      "sfarsitul_mandatului": "15 ianuarie 1896",
+      "cabinet": "",
+      "afiliere_politica": "Singurul"
+    },
+    {
+      "nr": 44,
+      "ministru": "Dimitrie A. Sturdza",
+      "preluarea_functiei": "15 ianuarie 1896",
+      "sfarsitul_mandatului": "3 februarie 1896",
+      "cabinet": "",
+      "afiliere_politica": "Singurul"
+    },
+    {
+      "nr": 45,
+      "ministru": "Anastase Stolojan",
+      "preluarea_functiei": "3 februarie 1896",
+      "sfarsitul_mandatului": "21 noiembrie 1896",
+      "cabinet": "Partidul Național Liberal",
+      "afiliere_politica": "Al doilea"
+    },
+    {
+      "nr": 46,
+      "ministru": "Vasile Lascăr",
+      "preluarea_functiei": "21 noiembrie 1896",
+      "sfarsitul_mandatului": "26 martie 1897",
+      "cabinet": "",
+      "afiliere_politica": "Primul"
+    },
+    {
+      "nr": 47,
+      "ministru": "Mihail Pherekyde",
+      "preluarea_functiei": "31 martie 1897",
+      "sfarsitul_mandatului": "30 martie 1899",
+      "cabinet": "",
+      "afiliere_politica": "Primul"
+    },
+    {
+      "nr": 48,
+      "ministru": "Gheorghe Grigore Cantacuzino",
+      "preluarea_functiei": "11 aprilie 1899",
+      "sfarsitul_mandatului": "9 ianuarie 1900",
+      "cabinet": "",
+      "afiliere_politica": "Primul"
+    },
+    {
+      "nr": 49,
+      "ministru": "Gen. Gheorghe Manu",
+      "preluarea_functiei": "9 ianuarie 1900",
+      "sfarsitul_mandatului": "7 iulie 1900",
+      "cabinet": "",
+      "afiliere_politica": "Al doilea"
+    },
+    {
+      "nr": 50,
+      "ministru": "Constantin Olănescu",
+      "preluarea_functiei": "7 iulie 1900",
+      "sfarsitul_mandatului": "13 februarie 1901",
+      "cabinet": "",
+      "afiliere_politica": "Singurul"
+    },
+    {
+      "nr": 51,
+      "ministru": "Petre S. Aurelian",
+      "preluarea_functiei": "14 februarie 1901",
+      "sfarsitul_mandatului": "18 iulie 1902",
+      "cabinet": "",
+      "afiliere_politica": "Singurul"
+    },
+    {
+      "nr": 52,
+      "ministru": "George D. Pallade",
+      "preluarea_functiei": "18 iulie 1902",
+      "sfarsitul_mandatului": "22 noiembrie 1902",
+      "cabinet": "",
+      "afiliere_politica": "Singurul"
+    },
+    {
+      "nr": 53,
+      "ministru": "Vasile Lascăr",
+      "preluarea_functiei": "22 noiembrie 1902",
+      "sfarsitul_mandatului": "13 decembrie 1904",
+      "cabinet": "",
+      "afiliere_politica": "Al doilea"
+    },
+    {
+      "nr": 54,
+      "ministru": "Spiru Haret",
+      "preluarea_functiei": "13 decembrie 1904",
+      "sfarsitul_mandatului": "20 decembrie 1904",
+      "cabinet": "",
+      "afiliere_politica": "Singurul"
+    },
+    {
+      "nr": 55,
+      "ministru": "Gheorghe Grigore Cantacuzino",
+      "preluarea_functiei": "22 decembrie 1904",
+      "sfarsitul_mandatului": "12 martie 1907",
+      "cabinet": "",
+      "afiliere_politica": "Al doilea"
+    },
+    {
+      "nr": 56,
+      "ministru": "Ion I.C. Brătianu",
+      "preluarea_functiei": "12 martie 1907",
+      "sfarsitul_mandatului": "15 decembrie 1909",
+      "cabinet": "Partidul Național Liberal",
+      "afiliere_politica": "Primul"
+    },
+    {
+      "nr": 57,
+      "ministru": "Mihail Pherekyde",
+      "preluarea_functiei": "15 decembrie 1909",
+      "sfarsitul_mandatului": "6 februarie 1910",
+      "cabinet": "",
+      "afiliere_politica": "Al doilea"
+    },
+    {
+      "nr": 58,
+      "ministru": "Ion I.C. Brătianu",
+      "preluarea_functiei": "6 februarie 1910",
+      "sfarsitul_mandatului": "28 decembrie 1910",
+      "cabinet": "Partidul Național Liberal",
+      "afiliere_politica": "Al doilea"
+    },
+    {
+      "nr": 59,
+      "ministru": "Alexandru Marghiloman",
+      "preluarea_functiei": "29 decembrie 1910",
+      "sfarsitul_mandatului": "28 martie 1912",
+      "cabinet": "",
+      "afiliere_politica": "Primul"
+    },
+    {
+      "nr": 60,
+      "ministru": "Constantin C. Arion",
+      "preluarea_functiei": "28 martie 1912",
+      "sfarsitul_mandatului": "14 octombrie 1912",
+      "cabinet": "",
+      "afiliere_politica": "Singurul"
+    },
+    {
+      "nr": 61,
+      "ministru": "Take Ionescu",
+      "preluarea_functiei": "14 octombrie 1912",
+      "sfarsitul_mandatului": "31 decembrie 1913",
+      "cabinet": "Partidul Conservator-Democrat",
+      "afiliere_politica": "Singurul"
+    },
+    {
+      "nr": 62,
+      "ministru": "Vasile G. Morțun",
+      "preluarea_functiei": "4 ianuarie 1914",
+      "sfarsitul_mandatului": "11 decembrie 1916",
+      "cabinet": "Partidul Socialist Partidul Național Liberal",
+      "afiliere_politica": "Singurul"
+    },
+    {
+      "nr": 63,
+      "ministru": "Alexandru Constantinescu",
+      "preluarea_functiei": "11 decembrie 1916",
+      "sfarsitul_mandatului": "26 ianuarie 1918",
+      "cabinet": "Partidul Național Liberal",
+      "afiliere_politica": "Singurul"
+    },
+    {
+      "nr": 64,
+      "ministru": "Constantin Sărățeanu",
+      "preluarea_functiei": "29 ianuarie 1918",
+      "sfarsitul_mandatului": "27 februarie 1918",
+      "cabinet": "",
+      "afiliere_politica": "Singurul"
+    },
+    {
+      "nr": 65,
+      "ministru": "Alexandru Marghiloman",
+      "preluarea_functiei": "5 martie 1918",
+      "sfarsitul_mandatului": "24 octombrie 1918",
+      "cabinet": "",
+      "afiliere_politica": "Al doilea"
+    },
+    {
+      "nr": 66,
+      "ministru": "Gen. Artur Văitoianu",
+      "preluarea_functiei": "24 octombrie 1918",
+      "sfarsitul_mandatului": "29 noiembrie 1918",
+      "cabinet": "",
+      "afiliere_politica": "Primul"
+    },
+    {
+      "nr": 67,
+      "ministru": "George G. Mârzescu",
+      "preluarea_functiei": "29 noiembrie 1918",
+      "sfarsitul_mandatului": "12 septembrie 1919",
+      "cabinet": "Partidul Național Liberal",
+      "afiliere_politica": "Singurul"
+    },
+    {
+      "nr": 68,
+      "ministru": "Gen. Artur Văitoianu",
+      "preluarea_functiei": "27 septembrie 1919",
+      "sfarsitul_mandatului": "28 septembrie 1919",
+      "cabinet": "",
+      "afiliere_politica": "Al doilea"
+    },
+    {
+      "nr": 69,
+      "ministru": "Gen. Alexandru Averescu",
+      "preluarea_functiei": "1 decembrie 1919",
+      "sfarsitul_mandatului": "13 decembrie 1919",
+      "cabinet": "Partidul Poporului",
+      "afiliere_politica": "Primul"
+    },
+    {
+      "nr": 70,
+      "ministru": "Aurel Vlad",
+      "preluarea_functiei": "16 decembrie 1919",
+      "sfarsitul_mandatului": "27 decembrie 1919",
+      "cabinet": "Partidul Național Țărănesc",
+      "afiliere_politica": "Singurul"
+    },
+    {
+      "nr": 71,
+      "ministru": "Dr. Nicolae Lupu",
+      "preluarea_functiei": "27 decembrie 1919",
+      "sfarsitul_mandatului": "13 martie 1920",
+      "cabinet": "Partidul Țărănesc Partidul Național-Țărănesc",
+      "afiliere_politica": "Singurul"
+    },
+    {
+      "nr": 72,
+      "ministru": "Gen. Alexandru Averescu",
+      "preluarea_functiei": "13 martie 1920",
+      "sfarsitul_mandatului": "13 iunie 1920",
+      "cabinet": "Partidul Poporului",
+      "afiliere_politica": "Al doilea"
+    },
+    {
+      "nr": 73,
+      "ministru": "Constantin Argetoianu",
+      "preluarea_functiei": "13 iunie 1920",
+      "sfarsitul_mandatului": "13 decembrie 1921",
+      "cabinet": "Partidul Național Liberal",
+      "afiliere_politica": "Primul"
+    },
+    {
+      "nr": 74,
+      "ministru": "Ion Cămărășescu",
+      "preluarea_functiei": "17 decembrie 1921",
+      "sfarsitul_mandatului": "17 ianuarie 1922",
+      "cabinet": "",
+      "afiliere_politica": "Singurul"
+    },
+    {
+      "nr": 75,
+      "ministru": "Gen. Artur Văitoianu",
+      "preluarea_functiei": "19 ianuarie 1922",
+      "sfarsitul_mandatului": "30 octombrie 1923",
+      "cabinet": "",
+      "afiliere_politica": "Al treilea"
+    },
+    {
+      "nr": 76,
+      "ministru": "Ion I.C. Brătianu",
+      "preluarea_functiei": "30 octombrie 1923",
+      "sfarsitul_mandatului": "27 martie 1926",
+      "cabinet": "Partidul Național Liberal",
+      "afiliere_politica": "Al treilea"
+    },
+    {
+      "nr": 77,
+      "ministru": "Octavian Goga",
+      "preluarea_functiei": "30 martie 1926",
+      "sfarsitul_mandatului": "4 iunie 1927",
+      "cabinet": "Partidul Național Creștin",
+      "afiliere_politica": "Singurul"
+    },
+    {
+      "nr": 78,
+      "ministru": "Prințul Barbu A. Știrbey",
+      "preluarea_functiei": "4 iunie 1927",
+      "sfarsitul_mandatului": "20 iunie 1927",
+      "cabinet": "",
+      "afiliere_politica": "Singurul"
+    },
+    {
+      "nr": 79,
+      "ministru": "Ion G. Duca",
+      "preluarea_functiei": "21 iunie 1927",
+      "sfarsitul_mandatului": "3 noiembrie 1928",
+      "cabinet": "Partidul Național Liberal",
+      "afiliere_politica": "Singurul"
+    },
+    {
+      "nr": 80,
+      "ministru": "Alexandru Vaida-Voievod",
+      "preluarea_functiei": "10 noiembrie 1928",
+      "sfarsitul_mandatului": "7 iunie 1930",
+      "cabinet": "Partidul Național Român din Transilvania și Ungaria",
+      "afiliere_politica": "Primul"
+    },
+    {
+      "nr": 81,
+      "ministru": "Mihai Popovici",
+      "preluarea_functiei": "7 iunie 1930",
+      "sfarsitul_mandatului": "8 iunie 1930",
+      "cabinet": "",
+      "afiliere_politica": "Singurul"
+    },
+    {
+      "nr": 82,
+      "ministru": "Alexandru Vaida-Voevod",
+      "preluarea_functiei": "13 iunie 1930",
+      "sfarsitul_mandatului": "8 octombrie 1930",
+      "cabinet": "Partidul Național Român din Transilvania și Ungaria",
+      "afiliere_politica": "Al doilea"
+    },
+    {
+      "nr": 83,
+      "ministru": "Ion Mihalache",
+      "preluarea_functiei": "10 octombrie 1930",
+      "sfarsitul_mandatului": "4 aprilie 1931",
+      "cabinet": "Partidul Țărănesc Partidul Național Țărănesc",
+      "afiliere_politica": "Primul"
+    },
+    {
+      "nr": 84,
+      "ministru": "Nicolae Iorga",
+      "preluarea_functiei": "18 aprilie 1931",
+      "sfarsitul_mandatului": "7 mai 1931",
+      "cabinet": "Partidul Naționalist-Democrat",
+      "afiliere_politica": "Singurul"
+    },
+    {
+      "nr": 85,
+      "ministru": "Constantin Argetoianu",
+      "preluarea_functiei": "7 mai 1931",
+      "sfarsitul_mandatului": "31 mai 1932",
+      "cabinet": "Partidul Național Liberal",
+      "afiliere_politica": "Al doilea"
+    },
+    {
+      "nr": 86,
+      "ministru": "Alexandru Vaida-Voevod",
+      "preluarea_functiei": "6 iunie 1932",
+      "sfarsitul_mandatului": "10 august 1932",
+      "cabinet": "Partidul Național Român din Transilvania și Ungaria",
+      "afiliere_politica": "Al treilea"
+    },
+    {
+      "nr": 87,
+      "ministru": "Ion Mihalache",
+      "preluarea_functiei": "11 august 1932",
+      "sfarsitul_mandatului": "17 octombrie 1932",
+      "cabinet": "Partidul Țărănesc Partidul Național Țărănesc",
+      "afiliere_politica": "Al doilea"
+    },
+    {
+      "nr": 88,
+      "ministru": "Gheorghe Mironescu",
+      "preluarea_functiei": "14 ianuarie 1933",
+      "sfarsitul_mandatului": "9 noiembrie 1933",
+      "cabinet": "Partidul Național-Țărănesc",
+      "afiliere_politica": "Singurul"
+    },
+    {
+      "nr": 89,
+      "ministru": "Ion C. Inculeț",
+      "preluarea_functiei": "14 noiembrie 1933",
+      "sfarsitul_mandatului": "3 ianuarie 1934",
+      "cabinet": "",
+      "afiliere_politica": "Primul"
+    },
+    {
+      "nr": 90,
+      "ministru": "Dumitru Iuca",
+      "preluarea_functiei": "29 august 1936",
+      "sfarsitul_mandatului": "23 februarie 1937",
+      "cabinet": "",
+      "afiliere_politica": "Singurul"
+    },
+    {
+      "nr": 91,
+      "ministru": "Gheorghe Tătărescu",
+      "preluarea_functiei": "23 februarie 1937",
+      "sfarsitul_mandatului": "14 noiembrie 1937",
+      "cabinet": "",
+      "afiliere_politica": "Primul"
+    },
+    {
+      "nr": 92,
+      "ministru": "Richard Franasovici",
+      "preluarea_functiei": "17 noiembrie 1937",
+      "sfarsitul_mandatului": "28 decembrie 1937",
+      "cabinet": "",
+      "afiliere_politica": "Singurul"
+    },
+    {
+      "nr": 93,
+      "ministru": "Armand Călinescu",
+      "preluarea_functiei": "28 decembrie 1937",
+      "sfarsitul_mandatului": "21 septembrie 1939",
+      "cabinet": "Frontul Renașterii Naționale",
+      "afiliere_politica": "Singurul"
+    },
+    {
+      "nr": 94,
+      "ministru": "Gen. Gabriel Marinescu",
+      "preluarea_functiei": "21 septembrie 1939",
+      "sfarsitul_mandatului": "28 septembrie 1939",
+      "cabinet": "",
+      "afiliere_politica": "Singurul"
+    },
+    {
+      "nr": 95,
+      "ministru": "Nicolae Ottescu",
+      "preluarea_functiei": "28 septembrie 1939",
+      "sfarsitul_mandatului": "23 noiembrie 1939",
+      "cabinet": "",
+      "afiliere_politica": "Singurul"
+    },
+    {
+      "nr": 96,
+      "ministru": "Gheorghe Tătărescu",
+      "preluarea_functiei": "24 noiembrie 1939",
+      "sfarsitul_mandatului": "30 noiembrie 1939",
+      "cabinet": "",
+      "afiliere_politica": "Al doilea"
+    },
+    {
+      "nr": 97,
+      "ministru": "Mihai Ghelmegeanu",
+      "preluarea_functiei": "30 noiembrie 1939",
+      "sfarsitul_mandatului": "4 iulie 1940",
+      "cabinet": "",
+      "afiliere_politica": "Singurul"
+    },
+    {
+      "nr": 98,
+      "ministru": "Gen. David Popescu",
+      "preluarea_functiei": "4 iulie 1940",
+      "sfarsitul_mandatului": "14 septembrie 1940",
+      "cabinet": "",
+      "afiliere_politica": "Singurul"
+    },
+    {
+      "nr": 99,
+      "ministru": "Gen. Constantin Petrovicescu",
+      "preluarea_functiei": "14 septembrie 1940",
+      "sfarsitul_mandatului": "20 ianuarie 1941",
+      "cabinet": "",
+      "afiliere_politica": "Singurul"
+    },
+    {
+      "nr": 100,
+      "ministru": "Gen. Dumitru I. Popescu",
+      "preluarea_functiei": "21 ianuarie 1941",
+      "sfarsitul_mandatului": "23 august 1944",
+      "cabinet": "",
+      "afiliere_politica": "Singurul"
+    },
+    {
+      "nr": 101,
+      "ministru": "Gen. Aurel Aldea",
+      "preluarea_functiei": "23 august 1944",
+      "sfarsitul_mandatului": "4 noiembrie 1944",
+      "cabinet": "",
+      "afiliere_politica": "Singurul"
+    },
+    {
+      "nr": 102,
+      "ministru": "Nicolae Penescu",
+      "preluarea_functiei": "4 noiembrie 1944",
+      "sfarsitul_mandatului": "6 decembrie 1944",
+      "cabinet": "",
+      "afiliere_politica": "Singurul"
+    },
+    {
+      "nr": 103,
+      "ministru": "Gen. Constantin Sănătescu",
+      "preluarea_functiei": "6 decembrie 1944",
+      "sfarsitul_mandatului": "14 decembrie 1944",
+      "cabinet": "",
+      "afiliere_politica": "Singurul"
+    },
+    {
+      "nr": 104,
+      "ministru": "Gen. Nicolae Rădescu",
+      "preluarea_functiei": "14 decembrie 1944",
+      "sfarsitul_mandatului": "28 februarie 1945",
+      "cabinet": "",
+      "afiliere_politica": "Singurul"
+    },
+    {
+      "nr": 105,
+      "ministru": "Teohari Georgescu",
+      "preluarea_functiei": "6 martie 1945",
+      "sfarsitul_mandatului": "28 mai 1952",
+      "cabinet": "Guvernele Petru Groza 1, 2, 3 și 4",
+      "afiliere_politica": "Partidul Comunist Român"
+    },
+    {
+      "nr": 106,
+      "ministru": "Alexandru Drăghici",
+      "preluarea_functiei": "28 mai 1952",
+      "sfarsitul_mandatului": "20 septembrie 1952",
+      "cabinet": "Guvernul Petru Groza 4",
+      "afiliere_politica": "Partidul Muncitoresc Român"
+    },
+    {
+      "nr": 107,
+      "ministru": "Pavel Ștefan",
+      "preluarea_functiei": "20 septembrie 1952",
+      "sfarsitul_mandatului": "19 martie 1957",
+      "cabinet": "Guvernele Gheorghiu-Dej 1 și 2 Guvernul Chivu Stoica 1",
+      "afiliere_politica": "Partidul Muncitoresc Român"
+    },
+    {
+      "nr": 108,
+      "ministru": "Alexandru Drăghici",
+      "preluarea_functiei": "19 martie 1957",
+      "sfarsitul_mandatului": "27 iulie 1965",
+      "cabinet": "Guvernul Chivu Stoica 2 Guvernele Ion Gh. Maurer 1 și 2",
+      "afiliere_politica": "Partidul Muncitoresc Român"
+    },
+    {
+      "nr": 109,
+      "ministru": "Cornel Onescu",
+      "preluarea_functiei": "27 iulie 1965",
+      "sfarsitul_mandatului": "24 aprilie 1972",
+      "cabinet": "Guvernele Ion Gh. Maurer 1, 2, 3, 4 și 5",
+      "afiliere_politica": "Partidul Comunist Român"
+    },
+    {
+      "nr": 110,
+      "ministru": "Ion Stănescu",
+      "preluarea_functiei": "24 aprilie 1972",
+      "sfarsitul_mandatului": "17 martie 1973",
+      "cabinet": "Guvernul Ion Gh. Maurer 5",
+      "afiliere_politica": "Partidul Comunist Român"
+    },
+    {
+      "nr": 111,
+      "ministru": "Emil Bobu",
+      "preluarea_functiei": "17 martie 1973",
+      "sfarsitul_mandatului": "18 martie 1975",
+      "cabinet": "Guvernul Ion Gh. Maurer 5 Guvernul Manea Mănescu 1",
+      "afiliere_politica": "Partidul Comunist Român"
+    },
+    {
+      "nr": 112,
+      "ministru": "Teodor Coman",
+      "preluarea_functiei": "18 martie 1975",
+      "sfarsitul_mandatului": "5 septembrie 1978",
+      "cabinet": "Guvernul Manea Mănescu 2",
+      "afiliere_politica": "Partidul Comunist Român"
+    },
+    {
+      "nr": 113,
+      "ministru": "George Homoștean",
+      "preluarea_functiei": "5 septembrie 1978",
+      "sfarsitul_mandatului": "5 octombrie 1987",
+      "cabinet": "Guvernul Manea Mănescu 2 Guvernele Ilie Verdeț 1 și 2 Guvernele Dăscălescu 1 și 2",
+      "afiliere_politica": "Partidul Comunist Român"
+    },
+    {
+      "nr": 114,
+      "ministru": "Tudor Postelnicu",
+      "preluarea_functiei": "5 octombrie 1987",
+      "sfarsitul_mandatului": "22 decembrie 1989",
+      "cabinet": "Guvernul Constantin Dăscălescu 2",
+      "afiliere_politica": "Partidul Comunist Român"
+    }
+  ],
+  "meta": {
+    "title": "Miniștrii de interne ai României (1862–1989) - Free Download",
+    "description": "Lista miniștrilor afacerilor interne ai României din 1862 până în 1989, cu data preluării funcției, sfârșitul mandatului, cabinetul și afilierea politică. Contains 114 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Miniștrii de interne ai României (1862–1989) | ListBase",
+    "seo_description": "Download Miniștrii de interne ai României (1862–1989) — 114 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 114 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Lista_miniștrilor_români_de_interne"
+    ]
+  }
+}
