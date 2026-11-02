@@ -1,0 +1,361 @@
+{
+  "id": "ro-productie-agricola-principalele-produse",
+  "name": "Producția agricolă a României pe principalele produse (2013–2024)",
+  "title": "Producția agricolă a României pe principalele produse (2013–2024)",
+  "description": "Producția agricolă anuală a României (mii tone) pentru cereale, plante tehnice, legume și fructe, în perioada 2013–2024.",
+  "category": "agriculture",
+  "source": "https://ro.wikipedia.org/wiki/Agricultura_României",
+  "source_url": "https://ro.wikipedia.org/wiki/Agricultura_României",
+  "updated": "2026-11",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "produs",
+      "label": "Produs",
+      "type": "string"
+    },
+    {
+      "key": "mii_tone_2024",
+      "label": "Mii Tone 2024",
+      "type": "number"
+    },
+    {
+      "key": "mii_tone_2023",
+      "label": "Mii Tone 2023",
+      "type": "number"
+    },
+    {
+      "key": "mii_tone_2022",
+      "label": "Mii Tone 2022",
+      "type": "number"
+    },
+    {
+      "key": "mii_tone_2021",
+      "label": "Mii Tone 2021",
+      "type": "number"
+    },
+    {
+      "key": "mii_tone_2020",
+      "label": "Mii Tone 2020",
+      "type": "number"
+    },
+    {
+      "key": "mii_tone_2019",
+      "label": "Mii Tone 2019",
+      "type": "number"
+    },
+    {
+      "key": "mii_tone_2018",
+      "label": "Mii Tone 2018",
+      "type": "number"
+    },
+    {
+      "key": "mii_tone_2017",
+      "label": "Mii Tone 2017",
+      "type": "number"
+    },
+    {
+      "key": "mii_tone_2016",
+      "label": "Mii Tone 2016",
+      "type": "number"
+    },
+    {
+      "key": "mii_tone_2015",
+      "label": "Mii Tone 2015",
+      "type": "number"
+    },
+    {
+      "key": "mii_tone_2014",
+      "label": "Mii Tone 2014",
+      "type": "number"
+    },
+    {
+      "key": "mii_tone_2013",
+      "label": "Mii Tone 2013",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "produs": "Cereale boabe",
+      "mii_tone_2024": 17864,
+      "mii_tone_2023": 20785,
+      "mii_tone_2022": 18860,
+      "mii_tone_2021": 27791,
+      "mii_tone_2020": 18153,
+      "mii_tone_2019": 30412,
+      "mii_tone_2018": 31553,
+      "mii_tone_2017": 27139,
+      "mii_tone_2016": 21765,
+      "mii_tone_2015": 19333,
+      "mii_tone_2014": 22071,
+      "mii_tone_2013": 20897
+    },
+    {
+      "produs": "Grâu",
+      "mii_tone_2024": 9291,
+      "mii_tone_2023": 9624,
+      "mii_tone_2022": 8684,
+      "mii_tone_2021": 10434,
+      "mii_tone_2020": 6392,
+      "mii_tone_2019": 10297,
+      "mii_tone_2018": 10144,
+      "mii_tone_2017": 10035,
+      "mii_tone_2016": 8431,
+      "mii_tone_2015": 7962,
+      "mii_tone_2014": 7585,
+      "mii_tone_2013": 7296
+    },
+    {
+      "produs": "Porumb",
+      "mii_tone_2024": 5972,
+      "mii_tone_2023": 8744,
+      "mii_tone_2022": 8037,
+      "mii_tone_2021": 14821,
+      "mii_tone_2020": 10097,
+      "mii_tone_2019": 17432,
+      "mii_tone_2018": 18664,
+      "mii_tone_2017": 14326,
+      "mii_tone_2016": 10746,
+      "mii_tone_2015": 9021,
+      "mii_tone_2014": 11989,
+      "mii_tone_2013": 11305
+    },
+    {
+      "produs": "Floarea soarelui",
+      "mii_tone_2024": 1508,
+      "mii_tone_2023": 2016,
+      "mii_tone_2022": 2107,
+      "mii_tone_2021": 2844,
+      "mii_tone_2020": 2123,
+      "mii_tone_2019": 3569,
+      "mii_tone_2018": 3063,
+      "mii_tone_2017": 2913,
+      "mii_tone_2016": 2032,
+      "mii_tone_2015": 1786,
+      "mii_tone_2014": 2189,
+      "mii_tone_2013": 2142
+    },
+    {
+      "produs": "Rapiță",
+      "mii_tone_2024": 1181,
+      "mii_tone_2023": 1790,
+      "mii_tone_2022": 1230,
+      "mii_tone_2021": 1375,
+      "mii_tone_2020": 780,
+      "mii_tone_2019": 798,
+      "mii_tone_2018": 1611,
+      "mii_tone_2017": 1673,
+      "mii_tone_2016": 1293,
+      "mii_tone_2015": 919,
+      "mii_tone_2014": 1059,
+      "mii_tone_2013": 666
+    },
+    {
+      "produs": "Orz",
+      "mii_tone_2024": 2203,
+      "mii_tone_2023": 1998,
+      "mii_tone_2022": 1707,
+      "mii_tone_2021": 1981,
+      "mii_tone_2020": 1141,
+      "mii_tone_2019": 1880,
+      "mii_tone_2018": 1871,
+      "mii_tone_2017": 1907,
+      "mii_tone_2016": 1817,
+      "mii_tone_2015": 1626,
+      "mii_tone_2014": 1713,
+      "mii_tone_2013": 1542
+    },
+    {
+      "produs": "Ovăz",
+      "mii_tone_2024": 144,
+      "mii_tone_2023": 155,
+      "mii_tone_2022": 172,
+      "mii_tone_2021": 210,
+      "mii_tone_2020": 197,
+      "mii_tone_2019": 362,
+      "mii_tone_2018": 384,
+      "mii_tone_2017": 408,
+      "mii_tone_2016": 381,
+      "mii_tone_2015": 348,
+      "mii_tone_2014": 382,
+      "mii_tone_2013": 374
+    },
+    {
+      "produs": "Soia",
+      "mii_tone_2024": 317,
+      "mii_tone_2023": 321,
+      "mii_tone_2022": 259,
+      "mii_tone_2021": 368,
+      "mii_tone_2020": 341,
+      "mii_tone_2019": 440,
+      "mii_tone_2018": 493,
+      "mii_tone_2017": 393,
+      "mii_tone_2016": 263,
+      "mii_tone_2015": 262,
+      "mii_tone_2014": 203,
+      "mii_tone_2013": 150
+    },
+    {
+      "produs": "Legume",
+      "mii_tone_2024": 1025,
+      "mii_tone_2023": 1199,
+      "mii_tone_2022": 1258,
+      "mii_tone_2021": 1939,
+      "mii_tone_2020": 1949,
+      "mii_tone_2019": 1853,
+      "mii_tone_2018": 2026,
+      "mii_tone_2017": 3102,
+      "mii_tone_2016": 2898,
+      "mii_tone_2015": 3184,
+      "mii_tone_2014": 3288,
+      "mii_tone_2013": 3344
+    },
+    {
+      "produs": "Cartofi",
+      "mii_tone_2024": 1053,
+      "mii_tone_2023": 1183,
+      "mii_tone_2022": 1346,
+      "mii_tone_2021": 1398,
+      "mii_tone_2020": 1601,
+      "mii_tone_2019": 2627,
+      "mii_tone_2018": 3023,
+      "mii_tone_2017": 3117,
+      "mii_tone_2016": 2690,
+      "mii_tone_2015": 2700,
+      "mii_tone_2014": 3519,
+      "mii_tone_2013": 3290
+    },
+    {
+      "produs": "Varză",
+      "mii_tone_2024": 289,
+      "mii_tone_2023": 358,
+      "mii_tone_2022": 387,
+      "mii_tone_2021": 549,
+      "mii_tone_2020": 542,
+      "mii_tone_2019": 617,
+      "mii_tone_2018": 693,
+      "mii_tone_2017": 1028,
+      "mii_tone_2016": 995,
+      "mii_tone_2015": 1080,
+      "mii_tone_2014": 1126,
+      "mii_tone_2013": 1159
+    },
+    {
+      "produs": "Ceapă",
+      "mii_tone_2024": 128,
+      "mii_tone_2023": 143,
+      "mii_tone_2022": 145,
+      "mii_tone_2021": 219,
+      "mii_tone_2020": 230,
+      "mii_tone_2019": 204,
+      "mii_tone_2018": 212,
+      "mii_tone_2017": 352,
+      "mii_tone_2016": 325,
+      "mii_tone_2015": 361,
+      "mii_tone_2014": 387,
+      "mii_tone_2013": 392
+    },
+    {
+      "produs": "Morcovi",
+      "mii_tone_2024": 73,
+      "mii_tone_2023": 82,
+      "mii_tone_2022": 86,
+      "mii_tone_2021": 121,
+      "mii_tone_2020": 114,
+      "mii_tone_2019": 117,
+      "mii_tone_2018": 128,
+      "mii_tone_2017": 200,
+      "mii_tone_2016": 192,
+      "mii_tone_2015": 213,
+      "mii_tone_2014": 229,
+      "mii_tone_2013": 223
+    },
+    {
+      "produs": "Tomate",
+      "mii_tone_2024": 242,
+      "mii_tone_2023": 272,
+      "mii_tone_2022": 299,
+      "mii_tone_2021": 500,
+      "mii_tone_2020": 494,
+      "mii_tone_2019": 437,
+      "mii_tone_2018": 464,
+      "mii_tone_2017": 680,
+      "mii_tone_2016": 627,
+      "mii_tone_2015": 702,
+      "mii_tone_2014": 706,
+      "mii_tone_2013": 749
+    },
+    {
+      "produs": "Fructe",
+      "mii_tone_2024": 2137,
+      "mii_tone_2023": 2357,
+      "mii_tone_2022": 2383,
+      "mii_tone_2021": 3004,
+      "mii_tone_2020": 2788,
+      "mii_tone_2019": 2898,
+      "mii_tone_2018": 3450,
+      "mii_tone_2017": 2643,
+      "mii_tone_2016": 2431,
+      "mii_tone_2015": 2507,
+      "mii_tone_2014": 2595,
+      "mii_tone_2013": 2905
+    },
+    {
+      "produs": "Mere",
+      "mii_tone_2024": 487,
+      "mii_tone_2023": 534,
+      "mii_tone_2022": 543,
+      "mii_tone_2021": 594,
+      "mii_tone_2020": 537,
+      "mii_tone_2019": 493,
+      "mii_tone_2018": 635,
+      "mii_tone_2017": 349,
+      "mii_tone_2016": 467,
+      "mii_tone_2015": 476,
+      "mii_tone_2014": 513,
+      "mii_tone_2013": 514
+    },
+    {
+      "produs": "Prune",
+      "mii_tone_2024": 603,
+      "mii_tone_2023": 645,
+      "mii_tone_2022": 666,
+      "mii_tone_2021": 807,
+      "mii_tone_2020": 758,
+      "mii_tone_2019": 693,
+      "mii_tone_2018": 830,
+      "mii_tone_2017": 445,
+      "mii_tone_2016": 513,
+      "mii_tone_2015": 496,
+      "mii_tone_2014": 495,
+      "mii_tone_2013": 512
+    },
+    {
+      "produs": "Struguri",
+      "mii_tone_2024": 704,
+      "mii_tone_2023": 801,
+      "mii_tone_2022": 805,
+      "mii_tone_2021": 1005,
+      "mii_tone_2020": 933,
+      "mii_tone_2019": 974,
+      "mii_tone_2018": 1141,
+      "mii_tone_2017": 1067,
+      "mii_tone_2016": 737,
+      "mii_tone_2015": 799,
+      "mii_tone_2014": 784,
+      "mii_tone_2013": 992
+    }
+  ],
+  "meta": {
+    "title": "Producția agricolă a României pe principalele produse (2013–2024) - Free Download",
+    "description": "Producția agricolă anuală a României (mii tone) pentru cereale, plante tehnice, legume și fructe, în perioada 2013–2024. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Producția agricolă a României pe principalele produse (2013–2024) | ListBase",
+    "seo_description": "Download Producția agricolă a României pe principalele produse (2013–2024) — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Agricultura_României"
+    ]
+  }
+}

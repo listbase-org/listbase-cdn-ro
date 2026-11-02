@@ -1,12 +1,12 @@
 {
   "lang": "ro",
-  "generated": "2026-11-02T02:16:00.112Z",
-  "total_datasets": 460,
-  "total_records": 165641,
+  "generated": "2026-11-02T02:16:08.307Z",
+  "total_datasets": 461,
+  "total_records": 165659,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "culture",
@@ -102,6 +102,40 @@
     }
   ],
   "datasets": [
+    {
+      "id": "ro-productie-agricola-principalele-produse",
+      "name": "Producția agricolă a României pe principalele produse (2013–2024)",
+      "category": "agriculture",
+      "record_count": 18,
+      "columns": [
+        "produs",
+        "mii_tone_2024",
+        "mii_tone_2023",
+        "mii_tone_2022",
+        "mii_tone_2021",
+        "mii_tone_2020",
+        "mii_tone_2019",
+        "mii_tone_2018",
+        "mii_tone_2017",
+        "mii_tone_2016",
+        "mii_tone_2015",
+        "mii_tone_2014",
+        "mii_tone_2013"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Agricultura_României",
+      "updated": "2026-11",
+      "size": 9567,
+      "files": {
+        "csv": {
+          "name": "ro-productie-agricola-principalele-produse_RO.csv",
+          "size": 1806
+        },
+        "xlsx": {
+          "name": "ro-productie-agricola-principalele-produse_RO.xlsx",
+          "size": 8208
+        }
+      }
+    },
     {
       "id": "ro-soiuri-mere",
       "name": "Soiuri de mere românești",
