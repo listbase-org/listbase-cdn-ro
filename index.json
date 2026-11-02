@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-02T02:15:51.337Z",
-  "total_datasets": 459,
-  "total_records": 165566,
+  "generated": "2026-11-02T02:16:00.112Z",
+  "total_datasets": 460,
+  "total_records": 165641,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "environment",
@@ -1870,6 +1870,29 @@
         "xlsx": {
           "name": "ro-filme-propuse-oscar_RO.xlsx",
           "size": 8400
+        }
+      }
+    },
+    {
+      "id": "ro-posturi-de-radio",
+      "name": "Posturi de radio românești",
+      "category": "entertainment",
+      "record_count": 75,
+      "columns": [
+        "post_de_radio",
+        "tip"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Listă_de_posturi_de_radio_românești",
+      "updated": "2026-11",
+      "size": 8562,
+      "files": {
+        "csv": {
+          "name": "ro-posturi-de-radio_RO.csv",
+          "size": 3339
+        },
+        "xlsx": {
+          "name": "ro-posturi-de-radio_RO.xlsx",
+          "size": 8259
         }
       }
     },

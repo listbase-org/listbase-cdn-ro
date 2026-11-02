@@ -1,0 +1,336 @@
+{
+  "id": "ro-posturi-de-radio",
+  "name": "Posturi de radio românești",
+  "title": "Posturi de radio românești",
+  "description": "Posturile de radio din România grupate pe tip: publice naționale, rețele naționale, religioase, locale, internaționale și posturi desființate sau redenumite.",
+  "category": "entertainment",
+  "source": "https://ro.wikipedia.org/wiki/Listă_de_posturi_de_radio_românești",
+  "source_url": "https://ro.wikipedia.org/wiki/Listă_de_posturi_de_radio_românești",
+  "updated": "2026-11",
+  "record_count": 75,
+  "columns": [
+    {
+      "key": "post_de_radio",
+      "label": "Post De Radio",
+      "type": "string"
+    },
+    {
+      "key": "tip",
+      "label": "Tip",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "post_de_radio": "Radio România Actualități",
+      "tip": "Posturi naționale"
+    },
+    {
+      "post_de_radio": "Radio România Cultural",
+      "tip": "Posturi naționale"
+    },
+    {
+      "post_de_radio": "Radio România Antena Satelor",
+      "tip": "Posturi naționale"
+    },
+    {
+      "post_de_radio": "Radio Transilvania",
+      "tip": "Posturi regionale"
+    },
+    {
+      "post_de_radio": "Hit FM Alba",
+      "tip": "Posturi regionale"
+    },
+    {
+      "post_de_radio": "Hit FM Brașov",
+      "tip": "Posturi regionale"
+    },
+    {
+      "post_de_radio": "Kiss FM",
+      "tip": "Rețele naționale"
+    },
+    {
+      "post_de_radio": "Magic FM",
+      "tip": "Rețele naționale"
+    },
+    {
+      "post_de_radio": "Rock FM",
+      "tip": "Rețele naționale"
+    },
+    {
+      "post_de_radio": "Radio ZU",
+      "tip": "Rețele naționale"
+    },
+    {
+      "post_de_radio": "Pro FM",
+      "tip": "Rețele naționale"
+    },
+    {
+      "post_de_radio": "Digi FM",
+      "tip": "Rețele naționale"
+    },
+    {
+      "post_de_radio": "Europa FM",
+      "tip": "Rețele naționale"
+    },
+    {
+      "post_de_radio": "Virgin Radio România",
+      "tip": "Rețele naționale"
+    },
+    {
+      "post_de_radio": "Național FM",
+      "tip": "Rețele naționale"
+    },
+    {
+      "post_de_radio": "Radio Guerrilla",
+      "tip": "Rețele naționale"
+    },
+    {
+      "post_de_radio": "Radio Impuls",
+      "tip": "Rețele naționale"
+    },
+    {
+      "post_de_radio": "RFI România",
+      "tip": "Rețele naționale"
+    },
+    {
+      "post_de_radio": "Romantic FM",
+      "tip": "Rețele naționale"
+    },
+    {
+      "post_de_radio": "Radio Trinitas",
+      "tip": "Posturi de radio religioase"
+    },
+    {
+      "post_de_radio": "Radio Maria",
+      "tip": "Posturi de radio religioase"
+    },
+    {
+      "post_de_radio": "RVS (Radio Vocea Speranței)",
+      "tip": "Posturi de radio religioase"
+    },
+    {
+      "post_de_radio": "Radio Renașterea",
+      "tip": "Posturi de radio religioase"
+    },
+    {
+      "post_de_radio": "3FM",
+      "tip": "Stații de radio locale"
+    },
+    {
+      "post_de_radio": "Hit FM Harghita",
+      "tip": "Stații de radio locale"
+    },
+    {
+      "post_de_radio": "Hit FM Apuseni",
+      "tip": "Stații de radio locale"
+    },
+    {
+      "post_de_radio": "Hit FM Vâlcea",
+      "tip": "Stații de radio locale"
+    },
+    {
+      "post_de_radio": "Hit FM Buzău",
+      "tip": "Stații de radio locale"
+    },
+    {
+      "post_de_radio": "Hit FM Dolj",
+      "tip": "Stații de radio locale"
+    },
+    {
+      "post_de_radio": "Dance FM",
+      "tip": "Stații de radio locale"
+    },
+    {
+      "post_de_radio": "Radio Delta",
+      "tip": "Stații de radio locale"
+    },
+    {
+      "post_de_radio": "Digi 24 FM",
+      "tip": "Stații de radio locale"
+    },
+    {
+      "post_de_radio": "Gold FM",
+      "tip": "Stații de radio locale"
+    },
+    {
+      "post_de_radio": "Realitatea FM",
+      "tip": "Stații de radio locale"
+    },
+    {
+      "post_de_radio": "Itsy Bitsy",
+      "tip": "Stații de radio locale"
+    },
+    {
+      "post_de_radio": "Radio Seven",
+      "tip": "Stații de radio locale"
+    },
+    {
+      "post_de_radio": "Dream FM",
+      "tip": "Stații de radio locale"
+    },
+    {
+      "post_de_radio": "Focus FM",
+      "tip": "Stații de radio locale"
+    },
+    {
+      "post_de_radio": "Metronom FM",
+      "tip": "Stații de radio locale"
+    },
+    {
+      "post_de_radio": "Mix FM",
+      "tip": "Stații de radio locale"
+    },
+    {
+      "post_de_radio": "Napoca FM",
+      "tip": "Stații de radio locale"
+    },
+    {
+      "post_de_radio": "News FM",
+      "tip": "Stații de radio locale"
+    },
+    {
+      "post_de_radio": "Radio Accent",
+      "tip": "Stații de radio locale"
+    },
+    {
+      "post_de_radio": "Radio Brașov",
+      "tip": "Stații de radio locale"
+    },
+    {
+      "post_de_radio": "Radio Campus",
+      "tip": "Stații de radio locale"
+    },
+    {
+      "post_de_radio": "Radio Galaxy",
+      "tip": "Stații de radio locale"
+    },
+    {
+      "post_de_radio": "Radio Hit",
+      "tip": "Stații de radio locale"
+    },
+    {
+      "post_de_radio": "Radio Color Orăștie",
+      "tip": "Stații de radio locale"
+    },
+    {
+      "post_de_radio": "Radio Prahova",
+      "tip": "Stații de radio locale"
+    },
+    {
+      "post_de_radio": "Radio Sud",
+      "tip": "Stații de radio locale"
+    },
+    {
+      "post_de_radio": "Radio Viva FM",
+      "tip": "Stații de radio locale"
+    },
+    {
+      "post_de_radio": "Roman FM",
+      "tip": "Stații de radio locale"
+    },
+    {
+      "post_de_radio": "Soft FM",
+      "tip": "Stații de radio locale"
+    },
+    {
+      "post_de_radio": "Super FM",
+      "tip": "Stații de radio locale"
+    },
+    {
+      "post_de_radio": "Vibe FM",
+      "tip": "Stații de radio locale"
+    },
+    {
+      "post_de_radio": "West City Radio",
+      "tip": "Stații de radio locale"
+    },
+    {
+      "post_de_radio": "Radio Blaj",
+      "tip": "Stații de radio locale"
+    },
+    {
+      "post_de_radio": "Eveniment FM Sibiu",
+      "tip": "Stații de radio locale"
+    },
+    {
+      "post_de_radio": "Sweet FM Sibiu",
+      "tip": "Stații de radio locale"
+    },
+    {
+      "post_de_radio": "Radio Mediaș 725",
+      "tip": "Stații de radio locale"
+    },
+    {
+      "post_de_radio": "City FM Sibiu",
+      "tip": "Stații de radio locale"
+    },
+    {
+      "post_de_radio": "Radio Sibiu",
+      "tip": "Stații de radio locale"
+    },
+    {
+      "post_de_radio": "Radio Someș",
+      "tip": "Stații de radio locale"
+    },
+    {
+      "post_de_radio": "Radio Europa Liberă",
+      "tip": "Posturi de radio din străinătate"
+    },
+    {
+      "post_de_radio": "Radio România Viitoare",
+      "tip": "Posturi de radio din străinătate"
+    },
+    {
+      "post_de_radio": "Vocea Americii",
+      "tip": "Posturi de radio din străinătate"
+    },
+    {
+      "post_de_radio": "Radio România Internațional",
+      "tip": "Posturi de radio care emit pentru străinătate"
+    },
+    {
+      "post_de_radio": "BBC România",
+      "tip": "Posturi de radio care nu mai emit"
+    },
+    {
+      "post_de_radio": "Europa Nova (Timișoara, Lugoj, Iași, București)",
+      "tip": "Posturi de radio care nu mai emit"
+    },
+    {
+      "post_de_radio": "Contact",
+      "tip": "Posturi de radio care emit acum sub un alt nume"
+    },
+    {
+      "post_de_radio": "UniFan / UniPlus",
+      "tip": "Posturi de radio care emit acum sub un alt nume"
+    },
+    {
+      "post_de_radio": "Tinerama",
+      "tip": "Posturi de radio care emit acum sub un alt nume"
+    },
+    {
+      "post_de_radio": "Radio Vest",
+      "tip": "Posturi de radio care emit acum sub un alt nume"
+    },
+    {
+      "post_de_radio": "News FM nume vechi Metropol FM",
+      "tip": "Posturi de radio care emit acum sub un alt nume"
+    },
+    {
+      "post_de_radio": "Antena 1 FM",
+      "tip": "Posturi de radio care emit acum sub un alt nume"
+    }
+  ],
+  "meta": {
+    "title": "Posturi de radio românești - Free Download",
+    "description": "Posturile de radio din România grupate pe tip: publice naționale, rețele naționale, religioase, locale, internaționale și posturi desființate sau redenumite. Contains 75 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Posturi de radio românești | ListBase",
+    "seo_description": "Download Posturi de radio românești — 75 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 75 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Listă_de_posturi_de_radio_românești"
+    ]
+  }
+}
