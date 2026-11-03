@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-03T02:08:38.907Z",
-  "total_datasets": 468,
-  "total_records": 166146,
+  "generated": "2026-11-03T02:08:46.119Z",
+  "total_datasets": 469,
+  "total_records": 166221,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "time",
@@ -13124,6 +13124,29 @@
         "xlsx": {
           "name": "ro-jocuri-video-romanesti_RO.xlsx",
           "size": 11380
+        }
+      }
+    },
+    {
+      "id": "ro-oameni-stiinta-informatica",
+      "name": "Oameni de știință români din tehnologia informației",
+      "category": "tech",
+      "record_count": 75,
+      "columns": [
+        "nume",
+        "domenii"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Lista_oamenilor_de_știință_români_din_tehnologia_informației",
+      "updated": "2026-11",
+      "size": 10920,
+      "files": {
+        "csv": {
+          "name": "ro-oameni-stiinta-informatica_RO.csv",
+          "size": 5941
+        },
+        "xlsx": {
+          "name": "ro-oameni-stiinta-informatica_RO.xlsx",
+          "size": 9805
         }
       }
     },

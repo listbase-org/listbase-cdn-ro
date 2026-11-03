@@ -1,0 +1,336 @@
+{
+  "id": "ro-oameni-stiinta-informatica",
+  "name": "Oameni de știință români din tehnologia informației",
+  "title": "Oameni de știință români din tehnologia informației",
+  "description": "Informaticieni și cercetători români din domeniul tehnologiei informației, cu domeniile lor principale de activitate.",
+  "category": "tech",
+  "source": "https://ro.wikipedia.org/wiki/Lista_oamenilor_de_știință_români_din_tehnologia_informației",
+  "source_url": "https://ro.wikipedia.org/wiki/Lista_oamenilor_de_știință_români_din_tehnologia_informației",
+  "updated": "2026-11",
+  "record_count": 75,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "domenii",
+      "label": "Domenii",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "Mircea Adam",
+      "domenii": "structuri de date, sisteme de operare, baze de date"
+    },
+    {
+      "nume": "Adrian Atanasiu",
+      "domenii": "limbaje formale și automate, tehnici de compilare"
+    },
+    {
+      "nume": "Andrei Baranga",
+      "domenii": "sisteme de operare, fundamentele limbajelor de programare, informatica algebrică"
+    },
+    {
+      "nume": "Tudor Bălănescu",
+      "domenii": "limbaje formale și automate, tehnici de compilare"
+    },
+    {
+      "nume": "Octavian Bâscă",
+      "domenii": "sisteme de operare, teoria grafurilor, structuri de date, baze de date"
+    },
+    {
+      "nume": "Anton Bătătorescu",
+      "domenii": "baze de date, cercetări operaționale"
+    },
+    {
+      "nume": "Șerban Buzețeanu",
+      "domenii": "limbaje formale, calculabilitate"
+    },
+    {
+      "nume": "Cristian Calude",
+      "domenii": "limbaje formale și automate, complexitatea calculului"
+    },
+    {
+      "nume": "Gheorghe Cartianu-Popescu",
+      "domenii": "cercetări în domeniul teoriei și practicii modulației de frecvență"
+    },
+    {
+      "nume": "Virgil Căzănescu",
+      "domenii": "limbaje formale și automate, logică matematică"
+    },
+    {
+      "nume": "Rodica Ceterchi",
+      "domenii": "structuri de date și algoritmi, teoria categoriilor și algebră universală"
+    },
+    {
+      "nume": "Mihail Cherciu",
+      "domenii": "fundamentele algebrice ale informaticii, structuri algebrice în programare"
+    },
+    {
+      "nume": "Mihai Drăgănescu",
+      "domenii": "dezvoltarea teoriei tuburilor electronice și dispozitivelor semiconductoare"
+    },
+    {
+      "nume": "Ioan Dzițac",
+      "domenii": "calcul paralel, sisteme distribuite, inteligență artificială"
+    },
+    {
+      "nume": "Denis Enăchescu",
+      "domenii": "modele de simulare, statistică și procese stohastice, bioinformatică"
+    },
+    {
+      "nume": "Dan Farcaș",
+      "domenii": "informatică"
+    },
+    {
+      "nume": "Gheorghe Farkas",
+      "domenii": "calculatorul DACICC-1 și DACICC-200"
+    },
+    {
+      "nume": "Constantin Gaindric",
+      "domenii": "cercetări matematică aplicată și informatică"
+    },
+    {
+      "nume": "Horia Georgescu",
+      "domenii": "sinteza algoritmilor, tehnici de programare"
+    },
+    {
+      "nume": "Marian Gheorghe",
+      "domenii": "tehnici de compilare"
+    },
+    {
+      "nume": "Sorin Grindeanu",
+      "domenii": "baze de date"
+    },
+    {
+      "nume": "Marius Guran",
+      "domenii": "rețele de calculatoare, unul din pionierii informaticii românești"
+    },
+    {
+      "nume": "Dragomir Hurmuzescu",
+      "domenii": "fondatorul învățământului electrotehnic din România"
+    },
+    {
+      "nume": "Iosif Kaufmann",
+      "domenii": "pionier al calculatoarelor MECIPT"
+    },
+    {
+      "nume": "Leon Livovschi",
+      "domenii": "bazele informaticii, mecanisme cu contacte și relee, limbaje formale, sinteza algoritmilor"
+    },
+    {
+      "nume": "Wilhelm Lowenfeld",
+      "domenii": "pionier al calculatoarelor MECIPT"
+    },
+    {
+      "nume": "Mihaela Malița",
+      "domenii": "LISP și inteligență artificială, limbaje formale"
+    },
+    {
+      "nume": "Mircea Malița",
+      "domenii": "programarea pătratică, programarea neliniară, inteligența artificială"
+    },
+    {
+      "nume": "Ioan Mang",
+      "domenii": "automatizări și calculatoare"
+    },
+    {
+      "nume": "Solomon Marcus",
+      "domenii": "lingvistică matematică, teoria automatelor, poetica matematică"
+    },
+    {
+      "nume": "Alexandru Mateescu",
+      "domenii": "limbaje formale și tehnici de compilare"
+    },
+    {
+      "nume": "Victor Mitrana",
+      "domenii": "tehnici de programare, limbaje formale și automate, bioinformatică"
+    },
+    {
+      "nume": "Grigore Moisil",
+      "domenii": "bazele informaticii, teoria algebrică a mecanismelor automate, elemente de logică matematică, mașini de calcul, programarea calculatoarelor, matematică pentru științe umaniste"
+    },
+    {
+      "nume": "Grigor Moldovan",
+      "domenii": "programe FORTRAN, COBOL"
+    },
+    {
+      "nume": "Emil Muntean",
+      "domenii": "unul dintre pionierii domeniului conducând echipa care a creat software-ul pentru calculatorul DACICC-200"
+    },
+    {
+      "nume": "Liviu Negrescu (Institutul de Calcul „Tiberiu Popoviciu” Cluj-Napoca, elaborarea software-ului primelor calculatoare electronice românești DACICC-1 și DACICC-200.",
+      "domenii": ""
+    },
+    {
+      "nume": "Radu Nicolescu",
+      "domenii": "gramatici, limbaje formale și automate, tehnici de compilare"
+    },
+    {
+      "nume": "Ștefan Odobleja",
+      "domenii": "cibernetică generalizată"
+    },
+    {
+      "nume": "Varujan Pambuccian",
+      "domenii": "informatică"
+    },
+    {
+      "nume": "Miklós Patrubány",
+      "domenii": ""
+    },
+    {
+      "nume": "Gheorghe Păun",
+      "domenii": "calculabilitate, complexitatea calculului, calcul molecular"
+    },
+    {
+      "nume": "Mihai Pătrașcu",
+      "domenii": "informatică teoretică"
+    },
+    {
+      "nume": "Bogdan Pătruț",
+      "domenii": "prelucrarea limbajului natural, programarea orientată pe obiecte"
+    },
+    {
+      "nume": "Emil Perjeriu",
+      "domenii": "informatică, metode numerice, sisteme de operare"
+    },
+    {
+      "nume": "Adrian Petrescu",
+      "domenii": "proiectarea și implementarea sistemelor de procesare a datelor"
+    },
+    {
+      "nume": "Marin Popa",
+      "domenii": "sisteme informatice, programarea calculatoarelor, teoria grafurilor"
+    },
+    {
+      "nume": "Ileana Popescu",
+      "domenii": "probabilități, structuri de date, baze de date"
+    },
+    {
+      "nume": "Liliana Popescu",
+      "domenii": "limbaje formale, programare"
+    },
+    {
+      "nume": "Radu Popescu-Zeletin",
+      "domenii": "sisteme și aplicații distribuite de calculatoare"
+    },
+    {
+      "nume": "Constantin P. Popovici",
+      "domenii": "bazele informaticii, limbaje formale și automate"
+    },
+    {
+      "nume": "Tiberiu Popoviciu",
+      "domenii": "bazele informaticii, analiză numerică"
+    },
+    {
+      "nume": "Paul Radovici - Mărculescu",
+      "domenii": "informatică, metode numerice"
+    },
+    {
+      "nume": "Nicolae Robu",
+      "domenii": "arhitectura calculatoarelor, programare Java, rețele neuronale"
+    },
+    {
+      "nume": "Alexandru Rogojan",
+      "domenii": "inițiatorul înființării primei secții de calculatoare electronice din România la Politehnica din Timișoara"
+    },
+    {
+      "nume": "Sergiu Rudeanu",
+      "domenii": "limbaje formale și automate, funcții booleene, logică matematică"
+    },
+    {
+      "nume": "Gheorghe Săsărman",
+      "domenii": "programare, sisteme de operare"
+    },
+    {
+      "nume": "Armand Segal",
+      "domenii": "elaborarea calculatoarelor CIFA"
+    },
+    {
+      "nume": "Florin Serbu",
+      "domenii": "pionier în educația informatizată"
+    },
+    {
+      "nume": "Liviu Sofonea",
+      "domenii": "limbaje formale și automate, sisteme de operare, programare, informatică"
+    },
+    {
+      "nume": "Luminița State",
+      "domenii": "modele probabiliste, inteligența artificială, programarea logică"
+    },
+    {
+      "nume": "Ion Stoica",
+      "domenii": "calcul distribuit și rețele de calculatoare"
+    },
+    {
+      "nume": "Ileana Streinu",
+      "domenii": "LISP și inteligență artificială, geometrie computațională"
+    },
+    {
+      "nume": "Gheorghe Ștefănescu",
+      "domenii": "fundamentele algebrice ale informaticii, arhitectura calculatoarelor, scheme de programe"
+    },
+    {
+      "nume": "Poliana Ștefănescu",
+      "domenii": "informatică, statistică matematică, programarea calculatoarelor"
+    },
+    {
+      "nume": "Ștefan Ștefănescu",
+      "domenii": "programarea calculatoarelor, statistică cu aplicatii în științele sociale"
+    },
+    {
+      "nume": "Tudor Tănăsescu (unul dintre fondatorii școlii românești de electronică și radiotehnică",
+      "domenii": ""
+    },
+    {
+      "nume": "Monica Tătărâm",
+      "domenii": "teoria limbajelor formale, semiotica aplicată în informatică"
+    },
+    {
+      "nume": "Victor Toma",
+      "domenii": "a realizat calculatorul CIFA-1"
+    },
+    {
+      "nume": "Ioan Tomescu",
+      "domenii": "grafuri și programarea liniară, structuri de date"
+    },
+    {
+      "nume": "Nicolae Țăndăreanu",
+      "domenii": "limbaje formale și automate, gramatici, programare"
+    },
+    {
+      "nume": "Dragoș Vaida",
+      "domenii": "programarea calculatoarelor, informatică aplicată, limbaje formale și tehnici de compilare, structuri matematice discrete"
+    },
+    {
+      "nume": "Nicolae Vasilescu-Karpen",
+      "domenii": "electrotehnică, construiește la Băneasa primul telegraf fără fir din estul Europei"
+    },
+    {
+      "nume": "Ion Văduva",
+      "domenii": "modele de simulare, programare, modele probabiliste"
+    },
+    {
+      "nume": "Constantin Virgil Negoiță",
+      "domenii": "sisteme informatice"
+    },
+    {
+      "nume": "Marin Vlada (grafică pe calculator, inteligență artificială, programarea logică, informatică aplicată",
+      "domenii": ""
+    }
+  ],
+  "meta": {
+    "title": "Oameni de știință români din tehnologia informației - Free Download",
+    "description": "Informaticieni și cercetători români din domeniul tehnologiei informației, cu domeniile lor principale de activitate. Contains 75 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Oameni de știință români din tehnologia informației | ListBase",
+    "seo_description": "Download Oameni de știință români din tehnologia informației — 75 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 75 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Lista_oamenilor_de_știință_români_din_tehnologia_informației"
+    ]
+  }
+}
