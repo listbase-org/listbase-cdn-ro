@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-03T02:08:32.544Z",
-  "total_datasets": 467,
-  "total_records": 166104,
+  "generated": "2026-11-03T02:08:38.907Z",
+  "total_datasets": 468,
+  "total_records": 166146,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "history",
@@ -5547,6 +5547,33 @@
         "xlsx": {
           "name": "ro-vrancea-orase_RO.xlsx",
           "size": 7348
+        }
+      }
+    },
+    {
+      "id": "ro-ministri-sanatatii",
+      "name": "Miniștrii sănătății ai României (din 1989)",
+      "category": "health",
+      "record_count": 42,
+      "columns": [
+        "nr",
+        "nume",
+        "inceput_mandat",
+        "sfarsit_mandat",
+        "partid",
+        "cabinet"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Ministerul_Sănătății_(România)",
+      "updated": "2026-11",
+      "size": 10433,
+      "files": {
+        "csv": {
+          "name": "ro-ministri-sanatatii_RO.csv",
+          "size": 3407
+        },
+        "xlsx": {
+          "name": "ro-ministri-sanatatii_RO.xlsx",
+          "size": 8892
         }
       }
     },

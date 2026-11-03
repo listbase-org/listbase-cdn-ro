@@ -1,0 +1,392 @@
+{
+  "id": "ro-ministri-sanatatii",
+  "name": "Miniștrii sănătății ai României (din 1989)",
+  "title": "Miniștrii sănătății ai României (din 1989)",
+  "description": "Lista miniștrilor sănătății din România după 1989, cu perioada mandatului, partidul și cabinetul guvernamental.",
+  "category": "health",
+  "source": "https://ro.wikipedia.org/wiki/Ministerul_Sănătății_(România)",
+  "source_url": "https://ro.wikipedia.org/wiki/Ministerul_Sănătății_(România)",
+  "updated": "2026-11",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "nr",
+      "label": "Nr",
+      "type": "number"
+    },
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "inceput_mandat",
+      "label": "Inceput Mandat",
+      "type": "string"
+    },
+    {
+      "key": "sfarsit_mandat",
+      "label": "Sfarsit Mandat",
+      "type": "string"
+    },
+    {
+      "key": "partid",
+      "label": "Partid",
+      "type": "string"
+    },
+    {
+      "key": "cabinet",
+      "label": "Cabinet",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nr": "1",
+      "nume": "Dan Enăchescu",
+      "inceput_mandat": "26 decembrie 1989",
+      "sfarsit_mandat": "28 iunie 1990",
+      "partid": "FSN",
+      "cabinet": "Roman I"
+    },
+    {
+      "nr": "2",
+      "nume": "Bogdan Marinescu",
+      "inceput_mandat": "28 iunie 1990",
+      "sfarsit_mandat": "16 octombrie 1991",
+      "partid": "FSN",
+      "cabinet": "Roman II"
+    },
+    {
+      "nr": "3",
+      "nume": "Mircea Maiorescu",
+      "inceput_mandat": "16 octombrie 1991",
+      "sfarsit_mandat": "19 noiembrie 1992",
+      "partid": "Independent",
+      "cabinet": "Stolojan"
+    },
+    {
+      "nr": "4",
+      "nume": "Iulian Mincu",
+      "inceput_mandat": "19 noiembrie 1992",
+      "sfarsit_mandat": "23 august 1996",
+      "partid": "FDSN / PDSR",
+      "cabinet": "Văcăroiu"
+    },
+    {
+      "nr": "5",
+      "nume": "Daniela Bartoș",
+      "inceput_mandat": "23 august 1996",
+      "sfarsit_mandat": "12 decembrie 1996",
+      "partid": "FDSN / PDSR",
+      "cabinet": "Văcăroiu"
+    },
+    {
+      "nr": "6",
+      "nume": "Ștefan Drăgulescu",
+      "inceput_mandat": "12 decembrie 1996",
+      "sfarsit_mandat": "5 decembrie 1997",
+      "partid": "PNȚCD",
+      "cabinet": "Ciorbea"
+    },
+    {
+      "nr": "7",
+      "nume": "Ion Victor Bruckner",
+      "inceput_mandat": "5 decembrie 1997",
+      "sfarsit_mandat": "17 aprilie 1998",
+      "partid": "Independent",
+      "cabinet": "Ciorbea"
+    },
+    {
+      "nr": "8",
+      "nume": "Francisc Bárányi",
+      "inceput_mandat": "17 aprilie 1998",
+      "sfarsit_mandat": "24 iunie 1998",
+      "partid": "UDMR",
+      "cabinet": "Vasile"
+    },
+    {
+      "nr": "-",
+      "nume": "Valeriu Stoica",
+      "inceput_mandat": "24 iunie 1998",
+      "sfarsit_mandat": "10 iulie 1998",
+      "partid": "PNL",
+      "cabinet": "Vasile"
+    },
+    {
+      "nr": "9",
+      "nume": "Gábor Hajdu",
+      "inceput_mandat": "10 iulie 1998",
+      "sfarsit_mandat": "28 decembrie 2000",
+      "partid": "UDMR",
+      "cabinet": "Vasile și Isărescu"
+    },
+    {
+      "nr": "(5)",
+      "nume": "Daniela Bartoș",
+      "inceput_mandat": "28 decembrie 2000",
+      "sfarsit_mandat": "19 iunie 2003",
+      "partid": "PSD",
+      "cabinet": "Năstase"
+    },
+    {
+      "nr": "10",
+      "nume": "Mircea Beuran",
+      "inceput_mandat": "19 iunie 2003",
+      "sfarsit_mandat": "20 octombrie 2003",
+      "partid": "PSD",
+      "cabinet": "Năstase"
+    },
+    {
+      "nr": "-",
+      "nume": "Ionel Blănculescu",
+      "inceput_mandat": "20 octombrie 2003",
+      "sfarsit_mandat": "27 noiembrie 2003",
+      "partid": "PSD",
+      "cabinet": "Năstase"
+    },
+    {
+      "nr": "11",
+      "nume": "Ovidiu Brânzan",
+      "inceput_mandat": "27 noiembrie 2003",
+      "sfarsit_mandat": "28 decembrie 2004",
+      "partid": "PSD",
+      "cabinet": "Năstase"
+    },
+    {
+      "nr": "12",
+      "nume": "Mircea Cinteză",
+      "inceput_mandat": "28 decembrie 2004",
+      "sfarsit_mandat": "22 august 2005",
+      "partid": "PNL",
+      "cabinet": "Tăriceanu"
+    },
+    {
+      "nr": "13",
+      "nume": "Eugen Nicolăescu",
+      "inceput_mandat": "22 august 2005",
+      "sfarsit_mandat": "22 decembrie 2008",
+      "partid": "PNL",
+      "cabinet": "Tăriceanu"
+    },
+    {
+      "nr": "14",
+      "nume": "Ion Bazac",
+      "inceput_mandat": "22 decembrie 2008",
+      "sfarsit_mandat": "1 octombrie 2009",
+      "partid": "PSD",
+      "cabinet": "Boc I"
+    },
+    {
+      "nr": "-",
+      "nume": "Adrian Videanu",
+      "inceput_mandat": "1 octombrie 2009",
+      "sfarsit_mandat": "23 decembrie 2009",
+      "partid": "PDL",
+      "cabinet": "Boc I"
+    },
+    {
+      "nr": "15",
+      "nume": "Attila Cseke",
+      "inceput_mandat": "23 decembrie 2009",
+      "sfarsit_mandat": "17 august 2011",
+      "partid": "UDMR",
+      "cabinet": "Boc II"
+    },
+    {
+      "nr": "16",
+      "nume": "Ladislau Ritli",
+      "inceput_mandat": "17 august 2011",
+      "sfarsit_mandat": "7 mai 2012",
+      "partid": "UDMR",
+      "cabinet": "Boc II și Ungureanu"
+    },
+    {
+      "nr": "17",
+      "nume": "Vasile Cepoi",
+      "inceput_mandat": "7 mai 2012",
+      "sfarsit_mandat": "1 octombrie 2012",
+      "partid": "Independent",
+      "cabinet": "Ponta I"
+    },
+    {
+      "nr": "-",
+      "nume": "Raed Arafat",
+      "inceput_mandat": "1 octombrie 2012",
+      "sfarsit_mandat": "2 octombrie 2012",
+      "partid": "Independent",
+      "cabinet": "Ponta I"
+    },
+    {
+      "nr": "-",
+      "nume": "Victor Ponta",
+      "inceput_mandat": "2 octombrie 2012",
+      "sfarsit_mandat": "8 noiembrie 2012",
+      "partid": "PSD",
+      "cabinet": "Ponta I"
+    },
+    {
+      "nr": "18",
+      "nume": "Raed Arafat",
+      "inceput_mandat": "8 noiembrie 2012",
+      "sfarsit_mandat": "21 decembrie 2012",
+      "partid": "Independent",
+      "cabinet": "Ponta I"
+    },
+    {
+      "nr": "(13)",
+      "nume": "Eugen Nicolăescu",
+      "inceput_mandat": "21 decembrie 2012",
+      "sfarsit_mandat": "26 februarie 2014",
+      "partid": "PNL",
+      "cabinet": "Ponta II"
+    },
+    {
+      "nr": "-",
+      "nume": "Nicolae Bănicioiu",
+      "inceput_mandat": "26 februarie 2014",
+      "sfarsit_mandat": "5 martie 2014",
+      "partid": "PSD",
+      "cabinet": "Ponta II"
+    },
+    {
+      "nr": "19",
+      "nume": "Nicolae Bănicioiu",
+      "inceput_mandat": "5 martie 2014",
+      "sfarsit_mandat": "17 noiembrie 2015",
+      "partid": "PSD",
+      "cabinet": "Ponta III și Ponta IV"
+    },
+    {
+      "nr": "20",
+      "nume": "Patriciu Achimaș-Cadariu",
+      "inceput_mandat": "17 noiembrie 2015",
+      "sfarsit_mandat": "9 mai 2016",
+      "partid": "Independent",
+      "cabinet": "Cioloș"
+    },
+    {
+      "nr": "-",
+      "nume": "Dacian Cioloș",
+      "inceput_mandat": "9 mai 2016",
+      "sfarsit_mandat": "20 mai 2016",
+      "partid": "Independent",
+      "cabinet": "Cioloș"
+    },
+    {
+      "nr": "21",
+      "nume": "Vlad Voiculescu",
+      "inceput_mandat": "20 mai 2016",
+      "sfarsit_mandat": "4 ianuarie 2017",
+      "partid": "Independent",
+      "cabinet": "Cioloș"
+    },
+    {
+      "nr": "22",
+      "nume": "Florian Dorel Bodog",
+      "inceput_mandat": "4 ianuarie 2017",
+      "sfarsit_mandat": "29 ianuarie 2018",
+      "partid": "PSD",
+      "cabinet": "Grindeanu și Tudose"
+    },
+    {
+      "nr": "23",
+      "nume": "Sorina Pintea",
+      "inceput_mandat": "29 ianuarie 2018",
+      "sfarsit_mandat": "4 noiembrie 2019",
+      "partid": "PSD",
+      "cabinet": "Dăncilă"
+    },
+    {
+      "nr": "24",
+      "nume": "Victor Costache",
+      "inceput_mandat": "4 noiembrie 2019",
+      "sfarsit_mandat": "26 martie 2020",
+      "partid": "PNL",
+      "cabinet": "Orban I și Orban II"
+    },
+    {
+      "nr": "25",
+      "nume": "Nelu Tătaru",
+      "inceput_mandat": "26 martie 2020",
+      "sfarsit_mandat": "23 decembrie 2020",
+      "partid": "PNL",
+      "cabinet": "Orban II"
+    },
+    {
+      "nr": "(21)",
+      "nume": "Vlad Voiculescu",
+      "inceput_mandat": "23 decembrie 2020",
+      "sfarsit_mandat": "14 aprilie 2021",
+      "partid": "USR-PLUS",
+      "cabinet": "Cîțu"
+    },
+    {
+      "nr": "-",
+      "nume": "Florin Cîțu",
+      "inceput_mandat": "14 aprilie 2021",
+      "sfarsit_mandat": "21 aprilie 2021",
+      "partid": "PNL",
+      "cabinet": "Cîțu"
+    },
+    {
+      "nr": "26",
+      "nume": "Ioana Mihăilă",
+      "inceput_mandat": "21 aprilie 2021",
+      "sfarsit_mandat": "8 septembrie 2021",
+      "partid": "USR-PLUS",
+      "cabinet": "Cîțu"
+    },
+    {
+      "nr": "-",
+      "nume": "Attila Cseke",
+      "inceput_mandat": "8 septembrie 2021",
+      "sfarsit_mandat": "25 noiembrie 2021",
+      "partid": "UDMR",
+      "cabinet": "Cîțu"
+    },
+    {
+      "nr": "27",
+      "nume": "Alexandru Rafila",
+      "inceput_mandat": "25 noiembrie 2021",
+      "sfarsit_mandat": "23 iunie 2025",
+      "partid": "PSD",
+      "cabinet": "Ciucă și Ciolacu"
+    },
+    {
+      "nr": "28",
+      "nume": "Alexandru Rogobete",
+      "inceput_mandat": "23 iunie 2025",
+      "sfarsit_mandat": "23 aprilie 2026",
+      "partid": "PSD",
+      "cabinet": "Bolojan"
+    },
+    {
+      "nr": "29",
+      "nume": "Attila Cseke",
+      "inceput_mandat": "23 aprilie 2026",
+      "sfarsit_mandat": "20 octombrie 2026",
+      "partid": "UDMR",
+      "cabinet": "Bolojan"
+    },
+    {
+      "nr": "(28)",
+      "nume": "Alexandru Rogobete",
+      "inceput_mandat": "20 octombrie 2026",
+      "sfarsit_mandat": "Prezent",
+      "partid": "PSD",
+      "cabinet": "Niculescu"
+    }
+  ],
+  "meta": {
+    "title": "Miniștrii sănătății ai României (din 1989) - Free Download",
+    "description": "Lista miniștrilor sănătății din România după 1989, cu perioada mandatului, partidul și cabinetul guvernamental. Contains 42 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Miniștrii sănătății ai României (din 1989) | ListBase",
+    "seo_description": "Download Miniștrii sănătății ai României (din 1989) — 42 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 42 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Ministerul_Sănătății_(România)"
+    ]
+  }
+}
