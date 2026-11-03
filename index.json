@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-03T02:08:24.697Z",
-  "total_datasets": 466,
-  "total_records": 165938,
+  "generated": "2026-11-03T02:08:32.544Z",
+  "total_datasets": 467,
+  "total_records": 166104,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "education",
@@ -409,6 +409,32 @@
         "xlsx": {
           "name": "ro-judete-pib_RO.xlsx",
           "size": 8760
+        }
+      }
+    },
+    {
+      "id": "ro-ministri-finante",
+      "name": "Miniștrii de finanțe ai României (1862–prezent)",
+      "category": "economy",
+      "record_count": 166,
+      "columns": [
+        "nr",
+        "ministru",
+        "inceput_mandat",
+        "sfarsit_mandat",
+        "perioada"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Lista_miniștrilor_români_de_finanțe",
+      "updated": "2026-11",
+      "size": 40202,
+      "files": {
+        "csv": {
+          "name": "ro-ministri-finante_RO.csv",
+          "size": 19990
+        },
+        "xlsx": {
+          "name": "ro-ministri-finante_RO.xlsx",
+          "size": 13348
         }
       }
     },
