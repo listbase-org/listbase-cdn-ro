@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-03T02:08:16.314Z",
-  "total_datasets": 465,
-  "total_records": 165875,
+  "generated": "2026-11-03T02:08:24.697Z",
+  "total_datasets": 466,
+  "total_records": 165938,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "politics",
@@ -5842,6 +5842,35 @@
         "xlsx": {
           "name": "ro-case-de-discuri_RO.xlsx",
           "size": 7199
+        }
+      }
+    },
+    {
+      "id": "ro-compozitori-muzica-usoara",
+      "name": "Compozitori de muzică ușoară din România",
+      "category": "music",
+      "record_count": 63,
+      "columns": [
+        "compozitor",
+        "data_nasterii",
+        "locul_nasterii",
+        "origine",
+        "data_mortii",
+        "debut",
+        "compozitii",
+        "alte_preocupari"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Listă_de_compozitori_de_muzică_ușoară_din_România",
+      "updated": "2026-11",
+      "size": 25137,
+      "files": {
+        "csv": {
+          "name": "ro-compozitori-muzica-usoara_RO.csv",
+          "size": 11445
+        },
+        "xlsx": {
+          "name": "ro-compozitori-muzica-usoara_RO.xlsx",
+          "size": 14097
         }
       }
     },
