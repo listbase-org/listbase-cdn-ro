@@ -1,0 +1,260 @@
+{
+  "id": "ro-chimisti-romani",
+  "name": "Chimiști români",
+  "title": "Chimiști români",
+  "description": "Listă alfabetică de chimiști români notabili.",
+  "category": "science",
+  "source": "https://ro.wikipedia.org/wiki/Listă_de_chimiști_români",
+  "source_url": "https://ro.wikipedia.org/wiki/Listă_de_chimiști_români",
+  "updated": "2026-11",
+  "record_count": 56,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "initiala",
+      "label": "Initiala",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "Vasile Ababi",
+      "initiala": "A"
+    },
+    {
+      "nume": "Marius Andruh",
+      "initiala": "A"
+    },
+    {
+      "nume": "Eugen I. Angelescu",
+      "initiala": "A"
+    },
+    {
+      "nume": "Boris Arventiev",
+      "initiala": "A"
+    },
+    {
+      "nume": "Neculai Asandei",
+      "initiala": "A"
+    },
+    {
+      "nume": "Alexandru T. Balaban",
+      "initiala": "B"
+    },
+    {
+      "nume": "Mircea Desideriu Banciu",
+      "initiala": "B"
+    },
+    {
+      "nume": "Nicolae Bîlbă",
+      "initiala": "B"
+    },
+    {
+      "nume": "Adrian Bîrzu",
+      "initiala": "B"
+    },
+    {
+      "nume": "Cornel Bodea",
+      "initiala": "B"
+    },
+    {
+      "nume": "Petru Bogdan",
+      "initiala": "B"
+    },
+    {
+      "nume": "Emilian Bratu",
+      "initiala": "B"
+    },
+    {
+      "nume": "Maria Brezeanu",
+      "initiala": "B"
+    },
+    {
+      "nume": "Victoria Bena-Medean",
+      "initiala": "B"
+    },
+    {
+      "nume": "Constantin Cândea",
+      "initiala": "C"
+    },
+    {
+      "nume": "Alexandru Cecal",
+      "initiala": "C"
+    },
+    {
+      "nume": "Radu Cernătescu",
+      "initiala": "C"
+    },
+    {
+      "nume": "Ecaterina Ciorănescu-Nenițescu",
+      "initiala": "C"
+    },
+    {
+      "nume": "Eugen Chirnoagă",
+      "initiala": "C"
+    },
+    {
+      "nume": "Vasile Cocheci",
+      "initiala": "C"
+    },
+    {
+      "nume": "Neculai Costăchescu",
+      "initiala": "C"
+    },
+    {
+      "nume": "Negoiță Dănăilă",
+      "initiala": "D"
+    },
+    {
+      "nume": "Gheorghe Duca",
+      "initiala": "D"
+    },
+    {
+      "nume": "Lazăr Edeleanu",
+      "initiala": "E"
+    },
+    {
+      "nume": "Gheorghe Gh. Longinescu",
+      "initiala": "L"
+    },
+    {
+      "nume": "Constantin Macarovici",
+      "initiala": "M"
+    },
+    {
+      "nume": "Ilie Matei",
+      "initiala": "M"
+    },
+    {
+      "nume": "Raul Mihail",
+      "initiala": "M"
+    },
+    {
+      "nume": "Ștefan Minovici",
+      "initiala": "M"
+    },
+    {
+      "nume": "Ovidiu Muntean",
+      "initiala": "M"
+    },
+    {
+      "nume": "Ilie G. Murgulescu",
+      "initiala": "M"
+    },
+    {
+      "nume": "Ecaterina Merică",
+      "initiala": "M"
+    },
+    {
+      "nume": "Costin D. Nenițescu",
+      "initiala": "N"
+    },
+    {
+      "nume": "Ioan Nicolescu",
+      "initiala": "N"
+    },
+    {
+      "nume": "Anastasie Obregia",
+      "initiala": "O"
+    },
+    {
+      "nume": "Alexe Popescu",
+      "initiala": "P"
+    },
+    {
+      "nume": "Radu Ralea",
+      "initiala": "R"
+    },
+    {
+      "nume": "Gheorghe Aurelian Rădulescu",
+      "initiala": "R"
+    },
+    {
+      "nume": "Victor Emanuel Sahini",
+      "initiala": "S"
+    },
+    {
+      "nume": "Teodor Saidel",
+      "initiala": "S"
+    },
+    {
+      "nume": "Alfons Oscar Saligny",
+      "initiala": "S"
+    },
+    {
+      "nume": "Hans Adam Schneider",
+      "initiala": "S"
+    },
+    {
+      "nume": "Eugen Segal",
+      "initiala": "S"
+    },
+    {
+      "nume": "Ion Alexandru Silberg",
+      "initiala": "S"
+    },
+    {
+      "nume": "Zeno Virgil Gheorghe Simon",
+      "initiala": "S"
+    },
+    {
+      "nume": "Bogdan Simionescu",
+      "initiala": "S"
+    },
+    {
+      "nume": "Cristofor I. Simionescu",
+      "initiala": "S"
+    },
+    {
+      "nume": "Gheorghe Spacu",
+      "initiala": "S"
+    },
+    {
+      "nume": "Petru George Spacu",
+      "initiala": "S"
+    },
+    {
+      "nume": "Gheorghe Claudiu Suciu",
+      "initiala": "S"
+    },
+    {
+      "nume": "Ion Tănăsescu",
+      "initiala": "T"
+    },
+    {
+      "nume": "Nicolae Teclu",
+      "initiala": "T"
+    },
+    {
+      "nume": "Radu Tudose",
+      "initiala": "T"
+    },
+    {
+      "nume": "Maria-Magdalena Zaharescu",
+      "initiala": "Z"
+    },
+    {
+      "nume": "Alexandru Zaharia",
+      "initiala": "Z"
+    },
+    {
+      "nume": "Ioan Zugrăvescu",
+      "initiala": "Z"
+    }
+  ],
+  "meta": {
+    "title": "Chimiști români - Free Download",
+    "description": "Listă alfabetică de chimiști români notabili. Contains 56 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Chimiști români | ListBase",
+    "seo_description": "Download Chimiști români — 56 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 56 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Listă_de_chimiști_români"
+    ]
+  }
+}

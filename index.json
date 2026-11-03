@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-02T02:16:30.173Z",
-  "total_datasets": 464,
-  "total_records": 165819,
+  "generated": "2026-11-03T02:08:16.314Z",
+  "total_datasets": 465,
+  "total_records": 165875,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "society",
@@ -12673,6 +12673,29 @@
         "xlsx": {
           "name": "ro-vrancea-municipii_RO.xlsx",
           "size": 7105
+        }
+      }
+    },
+    {
+      "id": "ro-chimisti-romani",
+      "name": "Chimiști români",
+      "category": "science",
+      "record_count": 56,
+      "columns": [
+        "nume",
+        "initiala"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Listă_de_chimiști_români",
+      "updated": "2026-11",
+      "size": 5080,
+      "files": {
+        "csv": {
+          "name": "ro-chimisti-romani_RO.csv",
+          "size": 1360
+        },
+        "xlsx": {
+          "name": "ro-chimisti-romani_RO.xlsx",
+          "size": 7991
         }
       }
     },
