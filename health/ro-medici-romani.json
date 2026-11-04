@@ -1,0 +1,576 @@
+{
+  "id": "ro-medici-romani",
+  "name": "Medici români după specialitate",
+  "title": "Medici români după specialitate",
+  "description": "Listă de medici români notabili grupați pe specialități medicale (chirurgie, cardiologie, neurologie etc.).",
+  "category": "health",
+  "source": "https://ro.wikipedia.org/wiki/Listă_de_medici_români",
+  "source_url": "https://ro.wikipedia.org/wiki/Listă_de_medici_români",
+  "updated": "2026-11",
+  "record_count": 135,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "specialitate",
+      "label": "Specialitate",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "Ion T. Niculescu",
+      "specialitate": "Anatomie și histologie"
+    },
+    {
+      "nume": "Virgiliu Niculescu",
+      "specialitate": "Anatomie și histologie"
+    },
+    {
+      "nume": "Victor Papilian",
+      "specialitate": "Anatomie și histologie"
+    },
+    {
+      "nume": "Grigore T. Popa",
+      "specialitate": "Anatomie și histologie"
+    },
+    {
+      "nume": "Simion Iagnov",
+      "specialitate": "Anatomie și histologie"
+    },
+    {
+      "nume": "Emil Repciuc",
+      "specialitate": "Anatomie și histologie"
+    },
+    {
+      "nume": "Nicolae Bacalbașa",
+      "specialitate": "Anesteziști"
+    },
+    {
+      "nume": "George Litarczek",
+      "specialitate": "Anesteziști"
+    },
+    {
+      "nume": "Simion Oeriu",
+      "specialitate": "Biochimie medicală"
+    },
+    {
+      "nume": "Ștefan Secăreanu",
+      "specialitate": "Biochimie medicală"
+    },
+    {
+      "nume": "Victor Preda",
+      "specialitate": "Biologie medicală"
+    },
+    {
+      "nume": "Mircea Angelescu",
+      "specialitate": "Boli infecțioase"
+    },
+    {
+      "nume": "Marin Voiculescu",
+      "specialitate": "Boli infecțioase"
+    },
+    {
+      "nume": "Niculae Stăncioiu",
+      "specialitate": "Cardiologie"
+    },
+    {
+      "nume": "Radu Deac",
+      "specialitate": "Cardiologie"
+    },
+    {
+      "nume": "Leonida Gherasim",
+      "specialitate": "Cardiologie"
+    },
+    {
+      "nume": "Ioan Pop de Popa",
+      "specialitate": "Cardiologie"
+    },
+    {
+      "nume": "Cristian Udroiu",
+      "specialitate": "Cardiologie"
+    },
+    {
+      "nume": "Eduard Apetrei, a introdus ecocardiografia performantă în România în 1976",
+      "specialitate": "Cardiologie"
+    },
+    {
+      "nume": "Ștefan Gh. Nicolau",
+      "specialitate": "Dermatologie"
+    },
+    {
+      "nume": "Scarlat Longhin",
+      "specialitate": "Dermatovenerologie"
+    },
+    {
+      "nume": "Nicolae Hâncu",
+      "specialitate": "Diabetologie, nutriție și boli metabolice"
+    },
+    {
+      "nume": "Roman Morar",
+      "specialitate": "Diabetologie, nutriție și boli metabolice"
+    },
+    {
+      "nume": "Ștefan Milcu",
+      "specialitate": "Endocrinologie"
+    },
+    {
+      "nume": "Constantin Parhon",
+      "specialitate": "Endocrinologie"
+    },
+    {
+      "nume": "Alfred Teitel",
+      "specialitate": "Farmacologie"
+    },
+    {
+      "nume": "Valeriu Rusu",
+      "specialitate": "Fizică medicală"
+    },
+    {
+      "nume": "Daniel Danielopolu",
+      "specialitate": "Fiziologie și fiziopatologie"
+    },
+    {
+      "nume": "Nicolae Paulescu",
+      "specialitate": "Fiziologie și fiziopatologie"
+    },
+    {
+      "nume": "Leon Silviu Daniello",
+      "specialitate": "Ftiziologie"
+    },
+    {
+      "nume": "Ștefan Irimescu",
+      "specialitate": "Ftiziologie"
+    },
+    {
+      "nume": "Gheorghe Benga",
+      "specialitate": "Genetică medicală"
+    },
+    {
+      "nume": "Constantin Maximilian",
+      "specialitate": "Genetică medicală"
+    },
+    {
+      "nume": "Ana Aslan",
+      "specialitate": "Geriatrie și gerontologie"
+    },
+    {
+      "nume": "Nandor Gingold",
+      "specialitate": "Hematologie"
+    },
+    {
+      "nume": "Iuliu Moldovan",
+      "specialitate": "Igienă"
+    },
+    {
+      "nume": "Eduard Mezincescu",
+      "specialitate": "Medicină de familie"
+    },
+    {
+      "nume": "Hagicalil Liliana",
+      "specialitate": "Medicină de familie"
+    },
+    {
+      "nume": "Raed Arafat",
+      "specialitate": "Medicină de urgență"
+    },
+    {
+      "nume": "Bogdan Zamfir",
+      "specialitate": "Medicină de urgență"
+    },
+    {
+      "nume": "Mioara Zamfir",
+      "specialitate": "Medicină de urgență"
+    },
+    {
+      "nume": "Alexandru Bucur",
+      "specialitate": "Medicină dentară"
+    },
+    {
+      "nume": "Octavian Fodor",
+      "specialitate": "Medicină internă"
+    },
+    {
+      "nume": "Iuliu Hațeganu",
+      "specialitate": "Medicină internă"
+    },
+    {
+      "nume": "Constantin C. Iliescu",
+      "specialitate": "Medicină internă"
+    },
+    {
+      "nume": "Nicolae Gh. Lupu",
+      "specialitate": "Medicină internă"
+    },
+    {
+      "nume": "Ermil Nichifor",
+      "specialitate": "Medicină internă"
+    },
+    {
+      "nume": "Paul Jürgen Porr",
+      "specialitate": "Medicină internă"
+    },
+    {
+      "nume": "Mina Minovici",
+      "specialitate": "Medicină judiciară"
+    },
+    {
+      "nume": "Nicolae Minovici",
+      "specialitate": "Medicină judiciară"
+    },
+    {
+      "nume": "Vladimir Beliș",
+      "specialitate": "Medicină judiciară"
+    },
+    {
+      "nume": "Victor Babeș",
+      "specialitate": "Microbiologie și imunologie"
+    },
+    {
+      "nume": "Ioan Cantacuzino",
+      "specialitate": "Microbiologie și imunologie"
+    },
+    {
+      "nume": "Mihai Ciucă",
+      "specialitate": "Microbiologie și imunologie"
+    },
+    {
+      "nume": "Dumitru Combiescu",
+      "specialitate": "Microbiologie și imunologie"
+    },
+    {
+      "nume": "Constantin Ionescu-Mihăiești",
+      "specialitate": "Microbiologie și imunologie"
+    },
+    {
+      "nume": "Constantin Levaditti",
+      "specialitate": "Microbiologie și imunologie"
+    },
+    {
+      "nume": "Alexandru Slătineanu",
+      "specialitate": "Microbiologie și imunologie"
+    },
+    {
+      "nume": "Nicolae Cajal",
+      "specialitate": "Microbiologie și imunologie"
+    },
+    {
+      "nume": "Victor Babeș",
+      "specialitate": "Morfopatologie"
+    },
+    {
+      "nume": "Alexandru Ciocâlteu",
+      "specialitate": "Nefrologie"
+    },
+    {
+      "nume": "Adrian Covic",
+      "specialitate": "Nefrologie"
+    },
+    {
+      "nume": "Florica Bagdasar",
+      "specialitate": "Neurologie"
+    },
+    {
+      "nume": "Constantin Bălăceanu-Stolnici",
+      "specialitate": "Neurologie"
+    },
+    {
+      "nume": "Dana Boering",
+      "specialitate": "Neurologie"
+    },
+    {
+      "nume": "Mihai Ioan Botez",
+      "specialitate": "Neurologie"
+    },
+    {
+      "nume": "State Drăgănescu",
+      "specialitate": "Neurologie"
+    },
+    {
+      "nume": "Nicolae Ionescu-Sisești",
+      "specialitate": "Neurologie"
+    },
+    {
+      "nume": "Arthur Kreindler",
+      "specialitate": "Neurologie"
+    },
+    {
+      "nume": "Gheorghe Marinescu",
+      "specialitate": "Neurologie"
+    },
+    {
+      "nume": "Arcadiu Petrescu",
+      "specialitate": "Neurologie"
+    },
+    {
+      "nume": "Ion N. Petrovici",
+      "specialitate": "Neurologie"
+    },
+    {
+      "nume": "Constantin Popa",
+      "specialitate": "Neurologie"
+    },
+    {
+      "nume": "Anghel Radovici",
+      "specialitate": "Neurologie"
+    },
+    {
+      "nume": "Oskar Sager",
+      "specialitate": "Neurologie"
+    },
+    {
+      "nume": "Mircea Steriade",
+      "specialitate": "Neurologie"
+    },
+    {
+      "nume": "Alexandru Șerbănescu (medic)",
+      "specialitate": "Neurologie"
+    },
+    {
+      "nume": "Vlad Voiculescu",
+      "specialitate": "Neurologie"
+    },
+    {
+      "nume": "Constantin Arseni",
+      "specialitate": "Neurochirurgie"
+    },
+    {
+      "nume": "Dimitrie Bagdasar",
+      "specialitate": "Neurochirurgie"
+    },
+    {
+      "nume": "Leon Dănăilă",
+      "specialitate": "Neurochirurgie"
+    },
+    {
+      "nume": "Sofia Ionescu-Ogrezeanu",
+      "specialitate": "Neurochirurgie"
+    },
+    {
+      "nume": "Alexandru-Vladimir Ciurea",
+      "specialitate": "Neurochirurgie"
+    },
+    {
+      "nume": "Ioan Ștefan Florian",
+      "specialitate": "Neurochirurgie"
+    },
+    {
+      "nume": "Livia Ognean",
+      "specialitate": "Neonatologie"
+    },
+    {
+      "nume": "Vasile Costinescu",
+      "specialitate": "O.R.L."
+    },
+    {
+      "nume": "Gheorghe Popovici",
+      "specialitate": "O.R.L."
+    },
+    {
+      "nume": "Ataman Traian",
+      "specialitate": "O.R.L."
+    },
+    {
+      "nume": "Gheorghe Muhlfay",
+      "specialitate": "O.R.L."
+    },
+    {
+      "nume": "Mühlfay László",
+      "specialitate": "O.R.L."
+    },
+    {
+      "nume": "Eugen Aburel",
+      "specialitate": "Obstetrică și ginecologie"
+    },
+    {
+      "nume": "Dan Alessandrescu",
+      "specialitate": "Obstetrică și ginecologie"
+    },
+    {
+      "nume": "Ioan Munteanu",
+      "specialitate": "Obstetrică și ginecologie"
+    },
+    {
+      "nume": "Constantin Rădulescu",
+      "specialitate": "Obstetrică și ginecologie"
+    },
+    {
+      "nume": "Dominic Stanca",
+      "specialitate": "Obstetrică și ginecologie"
+    },
+    {
+      "nume": "Marta Trancu-Rainer",
+      "specialitate": "Obstetrică și ginecologie"
+    },
+    {
+      "nume": "Dan Tutunaru",
+      "specialitate": "Obstetrică și ginecologie"
+    },
+    {
+      "nume": "Hagicalil Erghin",
+      "specialitate": "Obstetrică și ginecologie"
+    },
+    {
+      "nume": "Petre Vancea",
+      "specialitate": "Oftalmologie"
+    },
+    {
+      "nume": "Radu Malancea",
+      "specialitate": "Ortopedie"
+    },
+    {
+      "nume": "Dragoș Popescu",
+      "specialitate": "Ortopedie"
+    },
+    {
+      "nume": "Vlad Predescu",
+      "specialitate": "Ortopedie"
+    },
+    {
+      "nume": "Liliana Pădure",
+      "specialitate": "Ortopedie"
+    },
+    {
+      "nume": "Gheorghe Lupașcu",
+      "specialitate": "Parazitologie"
+    },
+    {
+      "nume": "Gheorghe Burnei",
+      "specialitate": "Pediatrie"
+    },
+    {
+      "nume": "Ana Culcer",
+      "specialitate": "Pediatrie"
+    },
+    {
+      "nume": "Evelina Moraru",
+      "specialitate": "Pediatrie"
+    },
+    {
+      "nume": "Alexandru Pesamosca",
+      "specialitate": "Pediatrie"
+    },
+    {
+      "nume": "Anton Popovici",
+      "specialitate": "Pediatrie"
+    },
+    {
+      "nume": "Alexandru Ritivoiu",
+      "specialitate": "Pediatrie"
+    },
+    {
+      "nume": "Ladislau Ritli",
+      "specialitate": "Pediatrie"
+    },
+    {
+      "nume": "Eugen Săndică",
+      "specialitate": "Pediatrie"
+    },
+    {
+      "nume": "Margit Șerban",
+      "specialitate": "Pediatrie"
+    },
+    {
+      "nume": "Louis Țurcanu",
+      "specialitate": "Pediatrie"
+    },
+    {
+      "nume": "C.D. Zeletin",
+      "specialitate": "Pediatrie"
+    },
+    {
+      "nume": "Dan Mircea Enescu",
+      "specialitate": "Chirurgie plastică pentru copii"
+    },
+    {
+      "nume": "Leon Ballif",
+      "specialitate": "Psihiatrie"
+    },
+    {
+      "nume": "Petre Brânzei",
+      "specialitate": "Psihiatrie"
+    },
+    {
+      "nume": "Augustin Buzura",
+      "specialitate": "Psihiatrie"
+    },
+    {
+      "nume": "Radu Mihăilescu",
+      "specialitate": "Psihiatrie"
+    },
+    {
+      "nume": "Edouard Pamfil",
+      "specialitate": "Psihiatrie"
+    },
+    {
+      "nume": "Alexandru A. Suțu",
+      "specialitate": "Psihiatrie"
+    },
+    {
+      "nume": "Florin Tudose",
+      "specialitate": "Psihiatrie"
+    },
+    {
+      "nume": "Nicolae Vaschide",
+      "specialitate": "Psihiatrie"
+    },
+    {
+      "nume": "Virgil Ionescu",
+      "specialitate": "Radiologi"
+    },
+    {
+      "nume": "Sorin Stănescu",
+      "specialitate": "Radiologi"
+    },
+    {
+      "nume": "Popa Gelu Adrian",
+      "specialitate": "Radiologi"
+    },
+    {
+      "nume": "Alexandru Țățulescu",
+      "specialitate": "Radiologi"
+    },
+    {
+      "nume": "Mioara Mincu",
+      "specialitate": "Sănătate publică"
+    },
+    {
+      "nume": "Dimitrie Gerota",
+      "specialitate": "Urologie"
+    },
+    {
+      "nume": "Eugeniu Gh. Proca",
+      "specialitate": "Urologie"
+    },
+    {
+      "nume": "Mihai Lucan",
+      "specialitate": "Urologie"
+    },
+    {
+      "nume": "Petru Dragan",
+      "specialitate": "Urologie"
+    },
+    {
+      "nume": "Ștefan Dinu",
+      "specialitate": "Medici veterinari"
+    },
+    {
+      "nume": "Vasile Gheție",
+      "specialitate": "Medici veterinari"
+    }
+  ],
+  "meta": {
+    "title": "Medici români după specialitate - Free Download",
+    "description": "Listă de medici români notabili grupați pe specialități medicale (chirurgie, cardiologie, neurologie etc.). Contains 135 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Medici români după specialitate | ListBase",
+    "seo_description": "Download Medici români după specialitate — 135 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 135 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Listă_de_medici_români"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-04T02:11:36.566Z",
-  "total_datasets": 472,
-  "total_records": 166272,
+  "generated": "2026-11-04T02:11:43.594Z",
+  "total_datasets": 473,
+  "total_records": 166407,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "history",
@@ -5547,6 +5547,29 @@
         "xlsx": {
           "name": "ro-vrancea-orase_RO.xlsx",
           "size": 7348
+        }
+      }
+    },
+    {
+      "id": "ro-medici-romani",
+      "name": "Medici români după specialitate",
+      "category": "health",
+      "record_count": 135,
+      "columns": [
+        "nume",
+        "specialitate"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Listă_de_medici_români",
+      "updated": "2026-11",
+      "size": 13201,
+      "files": {
+        "csv": {
+          "name": "ro-medici-romani_RO.csv",
+          "size": 5105
+        },
+        "xlsx": {
+          "name": "ro-medici-romani_RO.xlsx",
+          "size": 9985
         }
       }
     },
