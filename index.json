@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-04T02:11:22.019Z",
-  "total_datasets": 470,
-  "total_records": 166233,
+  "generated": "2026-11-04T02:11:29.682Z",
+  "total_datasets": 471,
+  "total_records": 166266,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "music",
@@ -5872,6 +5872,29 @@
         "xlsx": {
           "name": "ro-penitenciare_RO.xlsx",
           "size": 8346
+        }
+      }
+    },
+    {
+      "id": "ro-puncte-penalizare-auto",
+      "name": "Puncte de penalizare auto în România",
+      "category": "law",
+      "record_count": 33,
+      "columns": [
+        "puncte_penalizare",
+        "contraventie"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Puncte_de_penalizare_auto_în_România",
+      "updated": "2026-11",
+      "size": 6550,
+      "files": {
+        "csv": {
+          "name": "ro-puncte-penalizare-auto_RO.csv",
+          "size": 3073
+        },
+        "xlsx": {
+          "name": "ro-puncte-penalizare-auto_RO.xlsx",
+          "size": 8232
         }
       }
     },

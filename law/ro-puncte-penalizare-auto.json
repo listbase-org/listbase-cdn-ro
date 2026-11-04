@@ -1,0 +1,168 @@
+{
+  "id": "ro-puncte-penalizare-auto",
+  "name": "Puncte de penalizare auto în România",
+  "title": "Puncte de penalizare auto în România",
+  "description": "Contravențiile la regimul circulației rutiere din România și numărul de puncte de penalizare aplicate (2, 3, 4 sau 6 puncte).",
+  "category": "law",
+  "source": "https://ro.wikipedia.org/wiki/Puncte_de_penalizare_auto_în_România",
+  "source_url": "https://ro.wikipedia.org/wiki/Puncte_de_penalizare_auto_în_România",
+  "updated": "2026-11",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "puncte_penalizare",
+      "label": "Puncte Penalizare",
+      "type": "number"
+    },
+    {
+      "key": "contraventie",
+      "label": "Contraventie",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "puncte_penalizare": 2,
+      "contraventie": "folosirea incorectă a luminilor de drum la întâlnirea cu un autovehicul care circulă din sens opus"
+    },
+    {
+      "puncte_penalizare": 2,
+      "contraventie": "folosirea telefoanelor mobile în timpul conducerii, cu excepția celor prevăzute cu dispozitive de tip „mâini libere”"
+    },
+    {
+      "puncte_penalizare": 2,
+      "contraventie": "lipsa centurii de siguranță"
+    },
+    {
+      "puncte_penalizare": 2,
+      "contraventie": "depășirea cu 11-20 km/h a vitezei admise"
+    },
+    {
+      "puncte_penalizare": 2,
+      "contraventie": "circulația pe un sector de drum pe care accesul este interzis"
+    },
+    {
+      "puncte_penalizare": 2,
+      "contraventie": "nerespectarea regulilor privind manevra de întoarcere, mersul înapoi, schimbarea benzii sau a direcției de mers"
+    },
+    {
+      "puncte_penalizare": 2,
+      "contraventie": "nerespectarea obligației de a folosi luminile de întâlnire și pe timpul zilei"
+    },
+    {
+      "puncte_penalizare": 2,
+      "contraventie": "staționarea neregulamentară"
+    },
+    {
+      "puncte_penalizare": 2,
+      "contraventie": "refuzul înmânării actelor polițistului, precum și refuzul de a permite verificarea vehiculului"
+    },
+    {
+      "puncte_penalizare": 3,
+      "contraventie": "oprirea nejustificată"
+    },
+    {
+      "puncte_penalizare": 3,
+      "contraventie": "circulația pe bandă de urgență a autostrăzilor"
+    },
+    {
+      "puncte_penalizare": 3,
+      "contraventie": "depășirea cu 21-30 km/h a vitezei admise"
+    },
+    {
+      "puncte_penalizare": 3,
+      "contraventie": "nerespectarea regulilor privind manevra de întoarcere, mersul înapoi, schimbarea benzii de circulație sau a direcției de mers"
+    },
+    {
+      "puncte_penalizare": 3,
+      "contraventie": "nepăstrarea unei distanțe corespunzătoare față de vehiculul care îl precede"
+    },
+    {
+      "puncte_penalizare": 3,
+      "contraventie": "nerespectarea semnificației indicatorului „ocolire”, instalat pe refugiul stațiilor de tramvai"
+    },
+    {
+      "puncte_penalizare": 3,
+      "contraventie": "pătrunderea într-o intersecție atunci când circulația în interiorul acesteia este blocată"
+    },
+    {
+      "puncte_penalizare": 3,
+      "contraventie": "nerespectarea condițiilor privind transportarea copiilor minori"
+    },
+    {
+      "puncte_penalizare": 4,
+      "contraventie": "nerespectarea obligațiilor în cazul vehiculelor rămase în pană sau avariate"
+    },
+    {
+      "puncte_penalizare": 4,
+      "contraventie": "nerespectarea semnificației indicatorului „STOP”"
+    },
+    {
+      "puncte_penalizare": 4,
+      "contraventie": "depășirea cu 31-40 km/h a vitezei admise"
+    },
+    {
+      "puncte_penalizare": 4,
+      "contraventie": "circulația în timpul nopții sau ziua, pe timp de ceață, ninsoare abundentă sau ploaie torențială, cu un autovehicul fără lumini sau fără semnalizare"
+    },
+    {
+      "puncte_penalizare": 4,
+      "contraventie": "conducerea unui autovehicul fără certificate de înmatriculare"
+    },
+    {
+      "puncte_penalizare": 4,
+      "contraventie": "conducerea autovehiculului pe spațiul destinat circulației tramvaiului când drumul e prevăzut cu mai multe benzi"
+    },
+    {
+      "puncte_penalizare": 6,
+      "contraventie": "refuzul de a permite imobilizarea vehiculului / verificării tehnice"
+    },
+    {
+      "puncte_penalizare": 6,
+      "contraventie": "nerespectarea semnalelor agentilor de cale ferată"
+    },
+    {
+      "puncte_penalizare": 6,
+      "contraventie": "depășirea cu 41-50 km/h a vitezei admise"
+    },
+    {
+      "puncte_penalizare": 6,
+      "contraventie": "conducerea unui vehicul care nu are montată una dintre plăcuțele cu numărul de înmatriculare, sau cu plăcuța de înmatriculare așezată în alt loc decât în cel omologat"
+    },
+    {
+      "puncte_penalizare": 6,
+      "contraventie": "circulația sau staționarea pe spațiul interzis"
+    },
+    {
+      "puncte_penalizare": 6,
+      "contraventie": "staționarea ori parcarea autovehiculelor pe autostradă, în alte locuri decât cele special amenajate și semnalizate"
+    },
+    {
+      "puncte_penalizare": 6,
+      "contraventie": "executarea pe autostradă a manevrei de întoarcere sau de mers înapoi"
+    },
+    {
+      "puncte_penalizare": 6,
+      "contraventie": "nerespectarea semnificației indicatoarelor: Trecere la nivel cu o cale ferată simplă, fără bariere Trecere la nivel cu o cale ferată dublă, fără bariere Oprire instalată la trecerea la nivel cu o cale ferata"
+    },
+    {
+      "puncte_penalizare": 6,
+      "contraventie": "schimbarea direcției de mers dacă se încalcă marcajul longitudinal continuu care separă sensurile de circulație"
+    },
+    {
+      "puncte_penalizare": 6,
+      "contraventie": "pătrunderea într-o intersecție dirijată prin semafoare, dacă prin aceasta se produce blocarea circulației"
+    }
+  ],
+  "meta": {
+    "title": "Puncte de penalizare auto în România - Free Download",
+    "description": "Contravențiile la regimul circulației rutiere din România și numărul de puncte de penalizare aplicate (2, 3, 4 sau 6 puncte). Contains 33 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Puncte de penalizare auto în România | ListBase",
+    "seo_description": "Download Puncte de penalizare auto în România — 33 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 33 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Puncte_de_penalizare_auto_în_România"
+    ]
+  }
+}
