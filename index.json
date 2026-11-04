@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-04T02:11:29.682Z",
-  "total_datasets": 471,
-  "total_records": 166266,
+  "generated": "2026-11-04T02:11:36.566Z",
+  "total_datasets": 472,
+  "total_records": 166272,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "time",
@@ -13147,6 +13147,36 @@
         "xlsx": {
           "name": "ro-jocuri-video-romanesti_RO.xlsx",
           "size": 11380
+        }
+      }
+    },
+    {
+      "id": "ro-licitatie-spectru-5g-2022",
+      "name": "Licitația de spectru 5G din România (2022)",
+      "category": "tech",
+      "record_count": 6,
+      "columns": [
+        "banda_frecvente",
+        "spectru_disponibil",
+        "numar_blocuri",
+        "perioada_valabilitate",
+        "adjudecat_orange",
+        "adjudecat_rcs_rds",
+        "adjudecat_vodafone",
+        "total_adjudecat",
+        "procent_adjudecat"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Piața_serviciilor_de_telefonie_mobilă_din_România",
+      "updated": "2026-11",
+      "size": 4679,
+      "files": {
+        "csv": {
+          "name": "ro-licitatie-spectru-5g-2022_RO.csv",
+          "size": 885
+        },
+        "xlsx": {
+          "name": "ro-licitatie-spectru-5g-2022_RO.xlsx",
+          "size": 7319
         }
       }
     },

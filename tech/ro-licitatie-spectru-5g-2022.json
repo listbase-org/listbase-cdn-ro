@@ -1,0 +1,137 @@
+{
+  "id": "ro-licitatie-spectru-5g-2022",
+  "name": "Licitația de spectru 5G din România (2022)",
+  "title": "Licitația de spectru 5G din România (2022)",
+  "description": "Rezultatele licitației ANCOM din 2022 pentru benzile de frecvență 5G: spectru disponibil, blocuri, perioada licențelor și spectrul adjudecat de Orange, RCS & RDS și Vodafone.",
+  "category": "tech",
+  "source": "https://ro.wikipedia.org/wiki/Piața_serviciilor_de_telefonie_mobilă_din_România",
+  "source_url": "https://ro.wikipedia.org/wiki/Piața_serviciilor_de_telefonie_mobilă_din_România",
+  "updated": "2026-11",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "banda_frecvente",
+      "label": "Banda Frecvente",
+      "type": "string"
+    },
+    {
+      "key": "spectru_disponibil",
+      "label": "Spectru Disponibil",
+      "type": "string"
+    },
+    {
+      "key": "numar_blocuri",
+      "label": "Numar Blocuri",
+      "type": "number"
+    },
+    {
+      "key": "perioada_valabilitate",
+      "label": "Perioada Valabilitate",
+      "type": "string"
+    },
+    {
+      "key": "adjudecat_orange",
+      "label": "Adjudecat Orange",
+      "type": "string"
+    },
+    {
+      "key": "adjudecat_rcs_rds",
+      "label": "Adjudecat Rcs Rds",
+      "type": "string"
+    },
+    {
+      "key": "adjudecat_vodafone",
+      "label": "Adjudecat Vodafone",
+      "type": "string"
+    },
+    {
+      "key": "total_adjudecat",
+      "label": "Total Adjudecat",
+      "type": "string"
+    },
+    {
+      "key": "procent_adjudecat",
+      "label": "Procent Adjudecat",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "banda_frecvente": "700 MHz FDD",
+      "spectru_disponibil": "2 x 30 MHz",
+      "numar_blocuri": 6,
+      "perioada_valabilitate": "01-01-2023 31-12-2042",
+      "adjudecat_orange": "2 x 10 MHz (2 blocuri)",
+      "adjudecat_rcs_rds": "-",
+      "adjudecat_vodafone": "2 x 5 Mhz (1 bloc)",
+      "total_adjudecat": "2 x 15 MHz (3 blocuri)",
+      "procent_adjudecat": "50%"
+    },
+    {
+      "banda_frecvente": "700 MHz SDL",
+      "spectru_disponibil": "1 x 15 MHz",
+      "numar_blocuri": 3,
+      "perioada_valabilitate": "01-01-2023 31-12-2042",
+      "adjudecat_orange": "-",
+      "adjudecat_rcs_rds": "-",
+      "adjudecat_vodafone": "-",
+      "total_adjudecat": "-",
+      "procent_adjudecat": "0%"
+    },
+    {
+      "banda_frecvente": "1500 MHz SDL",
+      "spectru_disponibil": "1 x 40 MHz",
+      "numar_blocuri": 8,
+      "perioada_valabilitate": "01-01-2023 31-12-2042",
+      "adjudecat_orange": "1 x 40 MHz (8 blocuri)",
+      "adjudecat_rcs_rds": "-",
+      "adjudecat_vodafone": "-",
+      "total_adjudecat": "1 x 40 MHz (8 blocuri)",
+      "procent_adjudecat": "100%"
+    },
+    {
+      "banda_frecvente": "2600 MHz FDD",
+      "spectru_disponibil": "2 x 20 MHz",
+      "numar_blocuri": 4,
+      "perioada_valabilitate": "01-01-2023 05-04-2029",
+      "adjudecat_orange": "-",
+      "adjudecat_rcs_rds": "2 x 20 MHz (4 blocuri)",
+      "adjudecat_vodafone": "-",
+      "total_adjudecat": "2 x 20 MHz (4 blocuri)",
+      "procent_adjudecat": "100%"
+    },
+    {
+      "banda_frecvente": "3400-3800 MHz",
+      "spectru_disponibil": "1 x 400 MHz",
+      "numar_blocuri": 40,
+      "perioada_valabilitate": "01-01-2026 31-12-2045",
+      "adjudecat_orange": "1 x 160 MHz (16_blocuri)",
+      "adjudecat_rcs_rds": "1 x 50 MHz (5_blocuri)",
+      "adjudecat_vodafone": "1 x 100 MHz (10_blocuri)",
+      "total_adjudecat": "1x310 MHz (31_blocuri)",
+      "procent_adjudecat": "77,5%"
+    },
+    {
+      "banda_frecvente": "Total spectru",
+      "spectru_disponibil": "555 MHz",
+      "numar_blocuri": 61,
+      "perioada_valabilitate": "",
+      "adjudecat_orange": "220 MHz",
+      "adjudecat_rcs_rds": "90 MHz",
+      "adjudecat_vodafone": "110 MHz",
+      "total_adjudecat": "420 MHz",
+      "procent_adjudecat": "75,6%"
+    }
+  ],
+  "meta": {
+    "title": "Licitația de spectru 5G din România (2022) - Free Download",
+    "description": "Rezultatele licitației ANCOM din 2022 pentru benzile de frecvență 5G: spectru disponibil, blocuri, perioada licențelor și spectrul adjudecat de Orange, RCS & RDS și Vodafone. Contains 6 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Licitația de spectru 5G din România (2022) | ListBase",
+    "seo_description": "Download Licitația de spectru 5G din România (2022) — 6 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 6 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Piața_serviciilor_de_telefonie_mobilă_din_România"
+    ]
+  }
+}

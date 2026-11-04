@@ -1,0 +1,7 @@
+﻿"Banda Frecvente","Spectru Disponibil","Numar Blocuri","Perioada Valabilitate","Adjudecat Orange","Adjudecat Rcs Rds","Adjudecat Vodafone","Total Adjudecat","Procent Adjudecat"
+"700 MHz FDD","2 x 30 MHz","6","01-01-2023 31-12-2042","2 x 10 MHz (2 blocuri)","-","2 x 5 Mhz (1 bloc)","2 x 15 MHz (3 blocuri)","50%"
+"700 MHz SDL","1 x 15 MHz","3","01-01-2023 31-12-2042","-","-","-","-","0%"
+"1500 MHz SDL","1 x 40 MHz","8","01-01-2023 31-12-2042","1 x 40 MHz (8 blocuri)","-","-","1 x 40 MHz (8 blocuri)","100%"
+"2600 MHz FDD","2 x 20 MHz","4","01-01-2023 05-04-2029","-","2 x 20 MHz (4 blocuri)","-","2 x 20 MHz (4 blocuri)","100%"
+"3400-3800 MHz","1 x 400 MHz","40","01-01-2026 31-12-2045","1 x 160 MHz (16_blocuri)","1 x 50 MHz (5_blocuri)","1 x 100 MHz (10_blocuri)","1x310 MHz (31_blocuri)","77,5%"
+"Total spectru","555 MHz","61","","220 MHz","90 MHz","110 MHz","420 MHz","75,6%"
