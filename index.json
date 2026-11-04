@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-03T02:08:46.119Z",
-  "total_datasets": 469,
-  "total_records": 166221,
+  "generated": "2026-11-04T02:11:22.019Z",
+  "total_datasets": 470,
+  "total_records": 166233,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "tourism",
@@ -13147,6 +13147,31 @@
         "xlsx": {
           "name": "ro-oameni-stiinta-informatica_RO.xlsx",
           "size": 9805
+        }
+      }
+    },
+    {
+      "id": "ro-lunile-anului-nume-populare",
+      "name": "Lunile anului și numele lor populare românești",
+      "category": "time",
+      "record_count": 12,
+      "columns": [
+        "numar",
+        "luna",
+        "nume_popular",
+        "zile"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Calendarul_gregorian",
+      "updated": "2026-11",
+      "size": 2992,
+      "files": {
+        "csv": {
+          "name": "ro-lunile-anului-nume-populare_RO.csv",
+          "size": 421
+        },
+        "xlsx": {
+          "name": "ro-lunile-anului-nume-populare_RO.xlsx",
+          "size": 7139
         }
       }
     },

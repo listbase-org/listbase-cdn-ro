@@ -1,0 +1,118 @@
+{
+  "id": "ro-lunile-anului-nume-populare",
+  "name": "Lunile anului și numele lor populare românești",
+  "title": "Lunile anului și numele lor populare românești",
+  "description": "Cele 12 luni ale calendarului gregorian cu numele populare tradiționale românești (Gerar, Făurar, Mărțișor…) și numărul de zile.",
+  "category": "time",
+  "source": "https://ro.wikipedia.org/wiki/Calendarul_gregorian",
+  "source_url": "https://ro.wikipedia.org/wiki/Calendarul_gregorian",
+  "updated": "2026-11",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "numar",
+      "label": "Numar",
+      "type": "number"
+    },
+    {
+      "key": "luna",
+      "label": "Luna",
+      "type": "string"
+    },
+    {
+      "key": "nume_popular",
+      "label": "Nume Popular",
+      "type": "string"
+    },
+    {
+      "key": "zile",
+      "label": "Zile",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "numar": 1,
+      "luna": "Ianuarie",
+      "nume_popular": "Gerar / Cărindar",
+      "zile": "31"
+    },
+    {
+      "numar": 2,
+      "luna": "Februarie",
+      "nume_popular": "Făurar",
+      "zile": "28 sau 29"
+    },
+    {
+      "numar": 3,
+      "luna": "Martie",
+      "nume_popular": "Mărțișor",
+      "zile": "31"
+    },
+    {
+      "numar": 4,
+      "luna": "Aprilie",
+      "nume_popular": "Prier",
+      "zile": "30"
+    },
+    {
+      "numar": 5,
+      "luna": "Mai",
+      "nume_popular": "Florar",
+      "zile": "31"
+    },
+    {
+      "numar": 6,
+      "luna": "Iunie",
+      "nume_popular": "Cireșar",
+      "zile": "30"
+    },
+    {
+      "numar": 7,
+      "luna": "Iulie",
+      "nume_popular": "Cuptor",
+      "zile": "31"
+    },
+    {
+      "numar": 8,
+      "luna": "August",
+      "nume_popular": "Gustar",
+      "zile": "31"
+    },
+    {
+      "numar": 9,
+      "luna": "Septembrie",
+      "nume_popular": "Răpciune",
+      "zile": "30"
+    },
+    {
+      "numar": 10,
+      "luna": "Octombrie",
+      "nume_popular": "Brumărel",
+      "zile": "31"
+    },
+    {
+      "numar": 11,
+      "luna": "Noiembrie",
+      "nume_popular": "Brumar",
+      "zile": "30"
+    },
+    {
+      "numar": 12,
+      "luna": "Decembrie",
+      "nume_popular": "Undrea / Îndrea",
+      "zile": "31"
+    }
+  ],
+  "meta": {
+    "title": "Lunile anului și numele lor populare românești - Free Download",
+    "description": "Cele 12 luni ale calendarului gregorian cu numele populare tradiționale românești (Gerar, Făurar, Mărțișor…) și numărul de zile. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Lunile anului și numele lor populare românești | ListBase",
+    "seo_description": "Download Lunile anului și numele lor populare românești — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Calendarul_gregorian"
+    ]
+  }
+}
