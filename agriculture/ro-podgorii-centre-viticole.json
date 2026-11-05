@@ -1,0 +1,1262 @@
+{
+  "id": "ro-podgorii-centre-viticole",
+  "name": "Podgoriile și centrele viticole din România",
+  "title": "Podgoriile și centrele viticole din România",
+  "description": "Centrele viticole din România grupate pe podgorii, regiuni viticole și zone viticole (intracarpatică, pericarpatică, extracarpatică).",
+  "category": "agriculture",
+  "source": "https://ro.wikipedia.org/wiki/Podgorii_în_România",
+  "source_url": "https://ro.wikipedia.org/wiki/Podgorii_în_România",
+  "updated": "2026-11",
+  "record_count": 173,
+  "columns": [
+    {
+      "key": "centru_viticol",
+      "label": "Centru Viticol",
+      "type": "string"
+    },
+    {
+      "key": "independent",
+      "label": "Independent",
+      "type": "string"
+    },
+    {
+      "key": "podgorie",
+      "label": "Podgorie",
+      "type": "string"
+    },
+    {
+      "key": "regiune_viticola",
+      "label": "Regiune Viticola",
+      "type": "string"
+    },
+    {
+      "key": "zona_viticola",
+      "label": "Zona Viticola",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "centru_viticol": "Blaj",
+      "independent": "nu",
+      "podgorie": "Târnave",
+      "regiune_viticola": "Regiunea viticolă a Podișului Transilvaniei",
+      "zona_viticola": "Zona viticolă intracarpatică"
+    },
+    {
+      "centru_viticol": "Jidvei",
+      "independent": "nu",
+      "podgorie": "Târnave",
+      "regiune_viticola": "Regiunea viticolă a Podișului Transilvaniei",
+      "zona_viticola": "Zona viticolă intracarpatică"
+    },
+    {
+      "centru_viticol": "Zagăr",
+      "independent": "nu",
+      "podgorie": "Târnave",
+      "regiune_viticola": "Regiunea viticolă a Podișului Transilvaniei",
+      "zona_viticola": "Zona viticolă intracarpatică"
+    },
+    {
+      "centru_viticol": "Mediaș",
+      "independent": "nu",
+      "podgorie": "Târnave",
+      "regiune_viticola": "Regiunea viticolă a Podișului Transilvaniei",
+      "zona_viticola": "Zona viticolă intracarpatică"
+    },
+    {
+      "centru_viticol": "Valea Nirajului",
+      "independent": "nu",
+      "podgorie": "Târnave",
+      "regiune_viticola": "Regiunea viticolă a Podișului Transilvaniei",
+      "zona_viticola": "Zona viticolă intracarpatică"
+    },
+    {
+      "centru_viticol": "Alba Iulia",
+      "independent": "nu",
+      "podgorie": "Alba",
+      "regiune_viticola": "Regiunea viticolă a Podișului Transilvaniei",
+      "zona_viticola": "Zona viticolă intracarpatică"
+    },
+    {
+      "centru_viticol": "Ighiu",
+      "independent": "nu",
+      "podgorie": "Alba",
+      "regiune_viticola": "Regiunea viticolă a Podișului Transilvaniei",
+      "zona_viticola": "Zona viticolă intracarpatică"
+    },
+    {
+      "centru_viticol": "Sebeș",
+      "independent": "nu",
+      "podgorie": "Sebeș-Apold",
+      "regiune_viticola": "Regiunea viticolă a Podișului Transilvaniei",
+      "zona_viticola": "Zona viticolă intracarpatică"
+    },
+    {
+      "centru_viticol": "Apold",
+      "independent": "nu",
+      "podgorie": "Sebeș-Apold",
+      "regiune_viticola": "Regiunea viticolă a Podișului Transilvaniei",
+      "zona_viticola": "Zona viticolă intracarpatică"
+    },
+    {
+      "centru_viticol": "Aiud",
+      "independent": "nu",
+      "podgorie": "Aiud",
+      "regiune_viticola": "Regiunea viticolă a Podișului Transilvaniei",
+      "zona_viticola": "Zona viticolă intracarpatică"
+    },
+    {
+      "centru_viticol": "Turda",
+      "independent": "nu",
+      "podgorie": "Aiud",
+      "regiune_viticola": "Regiunea viticolă a Podișului Transilvaniei",
+      "zona_viticola": "Zona viticolă intracarpatică"
+    },
+    {
+      "centru_viticol": "Triteni",
+      "independent": "nu",
+      "podgorie": "Aiud",
+      "regiune_viticola": "Regiunea viticolă a Podișului Transilvaniei",
+      "zona_viticola": "Zona viticolă intracarpatică"
+    },
+    {
+      "centru_viticol": "Lechința",
+      "independent": "nu",
+      "podgorie": "Lechința",
+      "regiune_viticola": "Regiunea viticolă a Podișului Transilvaniei",
+      "zona_viticola": "Zona viticolă intracarpatică"
+    },
+    {
+      "centru_viticol": "Teaca",
+      "independent": "nu",
+      "podgorie": "Lechința",
+      "regiune_viticola": "Regiunea viticolă a Podișului Transilvaniei",
+      "zona_viticola": "Zona viticolă intracarpatică"
+    },
+    {
+      "centru_viticol": "Bistrița",
+      "independent": "nu",
+      "podgorie": "Lechința",
+      "regiune_viticola": "Regiunea viticolă a Podișului Transilvaniei",
+      "zona_viticola": "Zona viticolă intracarpatică"
+    },
+    {
+      "centru_viticol": "Batoș",
+      "independent": "nu",
+      "podgorie": "Lechința",
+      "regiune_viticola": "Regiunea viticolă a Podișului Transilvaniei",
+      "zona_viticola": "Zona viticolă intracarpatică"
+    },
+    {
+      "centru_viticol": "Dej",
+      "independent": "da",
+      "podgorie": "Lechința",
+      "regiune_viticola": "Regiunea viticolă a Podișului Transilvaniei",
+      "zona_viticola": "Zona viticolă intracarpatică"
+    },
+    {
+      "centru_viticol": "Cucuteni",
+      "independent": "nu",
+      "podgorie": "Cotnari",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Cotnari",
+      "independent": "nu",
+      "podgorie": "Cotnari",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Hârlău",
+      "independent": "nu",
+      "podgorie": "Cotnari",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Frumușica",
+      "independent": "nu",
+      "podgorie": "Cotnari",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Hlipiceni",
+      "independent": "nu",
+      "podgorie": "Cotnari",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Plugari",
+      "independent": "da",
+      "podgorie": "Cotnari",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Probota",
+      "independent": "da",
+      "podgorie": "Cotnari",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Copou-Șorogari",
+      "independent": "nu",
+      "podgorie": "Iași",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Uricani",
+      "independent": "nu",
+      "podgorie": "Iași",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Galata",
+      "independent": "nu",
+      "podgorie": "Iași",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Bucium",
+      "independent": "nu",
+      "podgorie": "Iași",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Tomești",
+      "independent": "nu",
+      "podgorie": "Iași",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Comarna",
+      "independent": "nu",
+      "podgorie": "Iași",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Covasna",
+      "independent": "nu",
+      "podgorie": "Iași",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Bohotin",
+      "independent": "nu",
+      "podgorie": "Iași",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Huși",
+      "independent": "nu",
+      "podgorie": "Huși",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Averești",
+      "independent": "nu",
+      "podgorie": "Huși",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Crasna-Lohan",
+      "independent": "nu",
+      "podgorie": "Huși",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Vaslui",
+      "independent": "da",
+      "podgorie": "Huși",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Vutcani",
+      "independent": "nu",
+      "podgorie": "Dealurile Fălciului",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Murgeni",
+      "independent": "nu",
+      "podgorie": "Dealurile Fălciului",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Iana-Puiești",
+      "independent": "nu",
+      "podgorie": "Colinele Tutovei",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Tutova-Bârlad",
+      "independent": "nu",
+      "podgorie": "Colinele Tutovei",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Bălăbănești",
+      "independent": "nu",
+      "podgorie": "Colinele Tutovei",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Parincea",
+      "independent": "nu",
+      "podgorie": "Zeletin",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Dealu Morii",
+      "independent": "nu",
+      "podgorie": "Zeletin",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Zeletin",
+      "independent": "nu",
+      "podgorie": "Zeletin",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Tănăsoaia",
+      "independent": "nu",
+      "podgorie": "Zeletin",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Gohor",
+      "independent": "nu",
+      "podgorie": "Zeletin",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Răcăciuni",
+      "independent": "da",
+      "podgorie": "Zeletin",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Bozieni",
+      "independent": "da",
+      "podgorie": "Zeletin",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Bujoru",
+      "independent": "nu",
+      "podgorie": "Dealu Bujorului",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Oancea",
+      "independent": "nu",
+      "podgorie": "Dealu Bujorului",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Berești",
+      "independent": "nu",
+      "podgorie": "Dealu Bujorului",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Smulți",
+      "independent": "nu",
+      "podgorie": "Dealu Bujorului",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Nicorești",
+      "independent": "nu",
+      "podgorie": "Nicorești",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Buciumeni",
+      "independent": "nu",
+      "podgorie": "Nicorești",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Tecuci",
+      "independent": "nu",
+      "podgorie": "Ivești",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Ivești",
+      "independent": "nu",
+      "podgorie": "Ivești",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Corod",
+      "independent": "da",
+      "podgorie": "Ivești",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Grivița",
+      "independent": "da",
+      "podgorie": "Ivești",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Nămoloasa",
+      "independent": "da",
+      "podgorie": "Ivești",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Băleni",
+      "independent": "nu",
+      "podgorie": "Covurlui",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Scânteiești",
+      "independent": "nu",
+      "podgorie": "Covurlui",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Smârdan",
+      "independent": "nu",
+      "podgorie": "Covurlui",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Pechea",
+      "independent": "nu",
+      "podgorie": "Covurlui",
+      "regiune_viticola": "Regiunea viticolă a Podișului Moldovei",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Panciu",
+      "independent": "nu",
+      "podgorie": "Panciu",
+      "regiune_viticola": "Regiunea viticolă a Piemontului de la Curbura Carpaților",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Țifești",
+      "independent": "nu",
+      "podgorie": "Panciu",
+      "regiune_viticola": "Regiunea viticolă a Piemontului de la Curbura Carpaților",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Păunești",
+      "independent": "nu",
+      "podgorie": "Panciu",
+      "regiune_viticola": "Regiunea viticolă a Piemontului de la Curbura Carpaților",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Odobești",
+      "independent": "nu",
+      "podgorie": "Odobești",
+      "regiune_viticola": "Regiunea viticolă a Piemontului de la Curbura Carpaților",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Jariștea",
+      "independent": "nu",
+      "podgorie": "Odobești",
+      "regiune_viticola": "Regiunea viticolă a Piemontului de la Curbura Carpaților",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Bolotești",
+      "independent": "nu",
+      "podgorie": "Odobești",
+      "regiune_viticola": "Regiunea viticolă a Piemontului de la Curbura Carpaților",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Vârteșcoi",
+      "independent": "nu",
+      "podgorie": "Cotești",
+      "regiune_viticola": "Regiunea viticolă a Piemontului de la Curbura Carpaților",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Cârligele",
+      "independent": "nu",
+      "podgorie": "Cotești",
+      "regiune_viticola": "Regiunea viticolă a Piemontului de la Curbura Carpaților",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Cotești",
+      "independent": "nu",
+      "podgorie": "Cotești",
+      "regiune_viticola": "Regiunea viticolă a Piemontului de la Curbura Carpaților",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Tâmboești",
+      "independent": "nu",
+      "podgorie": "Cotești",
+      "regiune_viticola": "Regiunea viticolă a Piemontului de la Curbura Carpaților",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Greabănu-Râmnicu Sărat",
+      "independent": "nu",
+      "podgorie": "Dealurile Buzăului",
+      "regiune_viticola": "Regiunea viticolă a Piemontului de la Curbura Carpaților",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Zărnești",
+      "independent": "nu",
+      "podgorie": "Dealurile Buzăului",
+      "regiune_viticola": "Regiunea viticolă a Piemontului de la Curbura Carpaților",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Cernătești",
+      "independent": "nu",
+      "podgorie": "Dealurile Buzăului",
+      "regiune_viticola": "Regiunea viticolă a Piemontului de la Curbura Carpaților",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Zorești",
+      "independent": "nu",
+      "podgorie": "Dealu Mare",
+      "regiune_viticola": "Regiunea viticolă a Piemontului de la Curbura Carpaților",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Merei",
+      "independent": "nu",
+      "podgorie": "Dealu Mare",
+      "regiune_viticola": "Regiunea viticolă a Piemontului de la Curbura Carpaților",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Pietroasa",
+      "independent": "nu",
+      "podgorie": "Dealu Mare",
+      "regiune_viticola": "Regiunea viticolă a Piemontului de la Curbura Carpaților",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Breaza",
+      "independent": "nu",
+      "podgorie": "Dealu Mare",
+      "regiune_viticola": "Regiunea viticolă a Piemontului de la Curbura Carpaților",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Tohani",
+      "independent": "nu",
+      "podgorie": "Dealu Mare",
+      "regiune_viticola": "Regiunea viticolă a Piemontului de la Curbura Carpaților",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Urlați-Ceptura",
+      "independent": "nu",
+      "podgorie": "Dealu Mare",
+      "regiune_viticola": "Regiunea viticolă a Piemontului de la Curbura Carpaților",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Gornet-Cricov",
+      "independent": "nu",
+      "podgorie": "Dealu Mare",
+      "regiune_viticola": "Regiunea viticolă a Piemontului de la Curbura Carpaților",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Valea Călugărească",
+      "independent": "nu",
+      "podgorie": "Dealu Mare",
+      "regiune_viticola": "Regiunea viticolă a Piemontului de la Curbura Carpaților",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Boldești",
+      "independent": "nu",
+      "podgorie": "Dealu Mare",
+      "regiune_viticola": "Regiunea viticolă a Piemontului de la Curbura Carpaților",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Ștefănești",
+      "independent": "nu",
+      "podgorie": "Ștefănești-Argeș",
+      "regiune_viticola": "Regiunea viticolă a Podișului Getic",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Topoloveni",
+      "independent": "nu",
+      "podgorie": "Ștefănești-Argeș",
+      "regiune_viticola": "Regiunea viticolă a Podișului Getic",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Valea Mare",
+      "independent": "nu",
+      "podgorie": "Ștefănești-Argeș",
+      "regiune_viticola": "Regiunea viticolă a Podișului Getic",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Costești",
+      "independent": "nu",
+      "podgorie": "Ștefănești-Argeș",
+      "regiune_viticola": "Regiunea viticolă a Podișului Getic",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Sâmburești",
+      "independent": "nu",
+      "podgorie": "Sâmburești",
+      "regiune_viticola": "Regiunea viticolă a Podișului Getic",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Dobroteasa",
+      "independent": "nu",
+      "podgorie": "Sâmburești",
+      "regiune_viticola": "Regiunea viticolă a Podișului Getic",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Drăgășani",
+      "independent": "nu",
+      "podgorie": "Drăgășani",
+      "regiune_viticola": "Regiunea viticolă a Podișului Getic",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Amărăști",
+      "independent": "nu",
+      "podgorie": "Drăgășani",
+      "regiune_viticola": "Regiunea viticolă a Podișului Getic",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Cerna",
+      "independent": "nu",
+      "podgorie": "Drăgășani",
+      "regiune_viticola": "Regiunea viticolă a Podișului Getic",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Iancu Jianu",
+      "independent": "nu",
+      "podgorie": "Drăgășani",
+      "regiune_viticola": "Regiunea viticolă a Podișului Getic",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Banu Mărăcine",
+      "independent": "nu",
+      "podgorie": "Dealurile Craiovei",
+      "regiune_viticola": "Regiunea viticolă a Podișului Getic",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Brădești",
+      "independent": "nu",
+      "podgorie": "Dealurile Craiovei",
+      "regiune_viticola": "Regiunea viticolă a Podișului Getic",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Brabova",
+      "independent": "nu",
+      "podgorie": "Dealurile Craiovei",
+      "regiune_viticola": "Regiunea viticolă a Podișului Getic",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Segarcea",
+      "independent": "da",
+      "podgorie": "Dealurile Craiovei",
+      "regiune_viticola": "Regiunea viticolă a Podișului Getic",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Crușețu",
+      "independent": "da",
+      "podgorie": "Dealurile Craiovei",
+      "regiune_viticola": "Regiunea viticolă a Podișului Getic",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Târgu-Jiu",
+      "independent": "da",
+      "podgorie": "Dealurile Craiovei",
+      "regiune_viticola": "Regiunea viticolă a Podișului Getic",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Drâncea-Scorila",
+      "independent": "nu",
+      "podgorie": "Plaiurile Drâncei",
+      "regiune_viticola": "Regiunea viticolă a Podișului Getic",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Orevița-Vânju Mare",
+      "independent": "nu",
+      "podgorie": "Plaiurile Drâncei",
+      "regiune_viticola": "Regiunea viticolă a Podișului Getic",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Plenița",
+      "independent": "nu",
+      "podgorie": "Plaiurile Drâncei",
+      "regiune_viticola": "Regiunea viticolă a Podișului Getic",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Halânga",
+      "independent": "nu",
+      "podgorie": "Severinului",
+      "regiune_viticola": "Regiunea viticolă a Podișului Getic",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Corcova",
+      "independent": "nu",
+      "podgorie": "Severinului",
+      "regiune_viticola": "Regiunea viticolă a Podișului Getic",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Moldova Nouă",
+      "independent": "da",
+      "podgorie": "Banatului",
+      "regiune_viticola": "Regiunea viticolă a dealurilor și câmpiilor Banatului",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Dealurile Oraviței",
+      "independent": "da",
+      "podgorie": "Banatului",
+      "regiune_viticola": "Regiunea viticolă a dealurilor și câmpiilor Banatului",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Jamu Mare",
+      "independent": "da",
+      "podgorie": "Banatului",
+      "regiune_viticola": "Regiunea viticolă a dealurilor și câmpiilor Banatului",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Teremia Mare",
+      "independent": "da",
+      "podgorie": "Banatului",
+      "regiune_viticola": "Regiunea viticolă a dealurilor și câmpiilor Banatului",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Recaș",
+      "independent": "da",
+      "podgorie": "Banatului",
+      "regiune_viticola": "Regiunea viticolă a dealurilor și câmpiilor Banatului",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Silagiu",
+      "independent": "da",
+      "podgorie": "Banatului",
+      "regiune_viticola": "Regiunea viticolă a dealurilor și câmpiilor Banatului",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Tirol",
+      "independent": "da",
+      "podgorie": "Banatului",
+      "regiune_viticola": "Regiunea viticolă a dealurilor și câmpiilor Banatului",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Miniș",
+      "independent": "nu",
+      "podgorie": "Miniș-Măderat",
+      "regiune_viticola": "Regiunea viticolă a dealurilor și câmpiilor Crișanei și Maramureșului",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Măderat",
+      "independent": "nu",
+      "podgorie": "Miniș-Măderat",
+      "regiune_viticola": "Regiunea viticolă a dealurilor și câmpiilor Crișanei și Maramureșului",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Arad",
+      "independent": "nu",
+      "podgorie": "Miniș-Măderat",
+      "regiune_viticola": "Regiunea viticolă a dealurilor și câmpiilor Crișanei și Maramureșului",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Diosig",
+      "independent": "nu",
+      "podgorie": "Diosig",
+      "regiune_viticola": "Regiunea viticolă a dealurilor și câmpiilor Crișanei și Maramureșului",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Oradea",
+      "independent": "nu",
+      "podgorie": "Diosig",
+      "regiune_viticola": "Regiunea viticolă a dealurilor și câmpiilor Crișanei și Maramureșului",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Sâniob-Marghita",
+      "independent": "nu",
+      "podgorie": "Diosig",
+      "regiune_viticola": "Regiunea viticolă a dealurilor și câmpiilor Crișanei și Maramureșului",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Valea lui Mihai)",
+      "independent": "nu",
+      "podgorie": "Valea lui Mihai",
+      "regiune_viticola": "Regiunea viticolă a dealurilor și câmpiilor Crișanei și Maramureșului",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Sanislău",
+      "independent": "nu",
+      "podgorie": "Valea lui Mihai",
+      "regiune_viticola": "Regiunea viticolă a dealurilor și câmpiilor Crișanei și Maramureșului",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Șimleu Silvaniei",
+      "independent": "nu",
+      "podgorie": "Silvaniei",
+      "regiune_viticola": "Regiunea viticolă a dealurilor și câmpiilor Crișanei și Maramureșului",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Zalău",
+      "independent": "nu",
+      "podgorie": "Silvaniei",
+      "regiune_viticola": "Regiunea viticolă a dealurilor și câmpiilor Crișanei și Maramureșului",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Șamșud",
+      "independent": "nu",
+      "podgorie": "Silvaniei",
+      "regiune_viticola": "Regiunea viticolă a dealurilor și câmpiilor Crișanei și Maramureșului",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Rătești",
+      "independent": "nu",
+      "podgorie": "Silvaniei",
+      "regiune_viticola": "Regiunea viticolă a dealurilor și câmpiilor Crișanei și Maramureșului",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Tășnad",
+      "independent": "nu",
+      "podgorie": "Silvaniei",
+      "regiune_viticola": "Regiunea viticolă a dealurilor și câmpiilor Crișanei și Maramureșului",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Halmeu",
+      "independent": "da",
+      "podgorie": "Silvaniei",
+      "regiune_viticola": "Regiunea viticolă a dealurilor și câmpiilor Crișanei și Maramureșului",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Seini",
+      "independent": "da",
+      "podgorie": "Silvaniei",
+      "regiune_viticola": "Regiunea viticolă a dealurilor și câmpiilor Crișanei și Maramureșului",
+      "zona_viticola": "Zona viticolă pericarpatică"
+    },
+    {
+      "centru_viticol": "Jiana",
+      "independent": "nu",
+      "podgorie": "Dacilor",
+      "regiune_viticola": "Regiunea viticolă a nisipurilor din sudul Olteniei",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Izvoarele",
+      "independent": "nu",
+      "podgorie": "Dacilor",
+      "regiune_viticola": "Regiunea viticolă a nisipurilor din sudul Olteniei",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Vrata",
+      "independent": "nu",
+      "podgorie": "Dacilor",
+      "regiune_viticola": "Regiunea viticolă a nisipurilor din sudul Olteniei",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Cetate",
+      "independent": "nu",
+      "podgorie": "Calafat",
+      "regiune_viticola": "Regiunea viticolă a nisipurilor din sudul Olteniei",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Ciuperceni",
+      "independent": "nu",
+      "podgorie": "Calafat",
+      "regiune_viticola": "Regiunea viticolă a nisipurilor din sudul Olteniei",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Poiana Mare",
+      "independent": "nu",
+      "podgorie": "Calafat",
+      "regiune_viticola": "Regiunea viticolă a nisipurilor din sudul Olteniei",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Tâmburești",
+      "independent": "nu",
+      "podgorie": "Sadova-Corabia",
+      "regiune_viticola": "Regiunea viticolă a nisipurilor din sudul Olteniei",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Dăbuleni",
+      "independent": "nu",
+      "podgorie": "Sadova-Corabia",
+      "regiune_viticola": "Regiunea viticolă a nisipurilor din sudul Olteniei",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Potelu",
+      "independent": "nu",
+      "podgorie": "Sadova-Corabia",
+      "regiune_viticola": "Regiunea viticolă a nisipurilor din sudul Olteniei",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Greaca",
+      "independent": "nu",
+      "podgorie": "Greaca",
+      "regiune_viticola": "Regiunea viticolă a teraselor Dunării",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Zimnicea",
+      "independent": "da",
+      "podgorie": "Greaca",
+      "regiune_viticola": "Regiunea viticolă a teraselor Dunării",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Giurgiu",
+      "independent": "da",
+      "podgorie": "Greaca",
+      "regiune_viticola": "Regiunea viticolă a teraselor Dunării",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Ulmu",
+      "independent": "da",
+      "podgorie": "Greaca",
+      "regiune_viticola": "Regiunea viticolă a teraselor Dunării",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Fetești",
+      "independent": "da",
+      "podgorie": "Greaca",
+      "regiune_viticola": "Regiunea viticolă a teraselor Dunării",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Drăgănești-Olt",
+      "independent": "da",
+      "podgorie": "",
+      "regiune_viticola": "Regiunea viticolă a Câmpiei Române",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Furculești",
+      "independent": "da",
+      "podgorie": "",
+      "regiune_viticola": "Regiunea viticolă a Câmpiei Române",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Mavrodin",
+      "independent": "da",
+      "podgorie": "",
+      "regiune_viticola": "Regiunea viticolă a Câmpiei Române",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Urziceni",
+      "independent": "da",
+      "podgorie": "",
+      "regiune_viticola": "Regiunea viticolă a Câmpiei Române",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Sudiți",
+      "independent": "da",
+      "podgorie": "",
+      "regiune_viticola": "Regiunea viticolă a Câmpiei Române",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Cireșu",
+      "independent": "da",
+      "podgorie": "",
+      "regiune_viticola": "Regiunea viticolă a Câmpiei Române",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Însurăței",
+      "independent": "da",
+      "podgorie": "",
+      "regiune_viticola": "Regiunea viticolă a Câmpiei Române",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Rușețu",
+      "independent": "da",
+      "podgorie": "",
+      "regiune_viticola": "Regiunea viticolă a Câmpiei Române",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Jirlău",
+      "independent": "da",
+      "podgorie": "",
+      "regiune_viticola": "Regiunea viticolă a Câmpiei Române",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Râmnicelu",
+      "independent": "da",
+      "podgorie": "",
+      "regiune_viticola": "Regiunea viticolă a Câmpiei Române",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Niculițel",
+      "independent": "nu",
+      "podgorie": "Sarica-Niculițel",
+      "regiune_viticola": "Regiunea viticolă a Podișului Dobrogei",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Tulcea",
+      "independent": "nu",
+      "podgorie": "Sarica-Niculițel",
+      "regiune_viticola": "Regiunea viticolă a Podișului Dobrogei",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Măcin",
+      "independent": "nu",
+      "podgorie": "Sarica-Niculițel",
+      "regiune_viticola": "Regiunea viticolă a Podișului Dobrogei",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Dăeni",
+      "independent": "nu",
+      "podgorie": "Sarica-Niculițel",
+      "regiune_viticola": "Regiunea viticolă a Podișului Dobrogei",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Hârșova",
+      "independent": "nu",
+      "podgorie": "Sarica-Niculițel",
+      "regiune_viticola": "Regiunea viticolă a Podișului Dobrogei",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Babadag",
+      "independent": "nu",
+      "podgorie": "Istria-Babadag",
+      "regiune_viticola": "Regiunea viticolă a Podișului Dobrogei",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Valea Nucarilor",
+      "independent": "nu",
+      "podgorie": "Istria-Babadag",
+      "regiune_viticola": "Regiunea viticolă a Podișului Dobrogei",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Istria",
+      "independent": "nu",
+      "podgorie": "Istria-Babadag",
+      "regiune_viticola": "Regiunea viticolă a Podișului Dobrogei",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Murfatlar",
+      "independent": "nu",
+      "podgorie": "Murfatlar",
+      "regiune_viticola": "Regiunea viticolă a Podișului Dobrogei",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Medgidia",
+      "independent": "nu",
+      "podgorie": "Murfatlar",
+      "regiune_viticola": "Regiunea viticolă a Podișului Dobrogei",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Cernavodă",
+      "independent": "nu",
+      "podgorie": "Murfatlar",
+      "regiune_viticola": "Regiunea viticolă a Podișului Dobrogei",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Adamclisi",
+      "independent": "da",
+      "podgorie": "Murfatlar",
+      "regiune_viticola": "Regiunea viticolă a Podișului Dobrogei",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Independența",
+      "independent": "da",
+      "podgorie": "Murfatlar",
+      "regiune_viticola": "Regiunea viticolă a Podișului Dobrogei",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Chirnogeni",
+      "independent": "da",
+      "podgorie": "Murfatlar",
+      "regiune_viticola": "Regiunea viticolă a Podișului Dobrogei",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Cobadin",
+      "independent": "da",
+      "podgorie": "Murfatlar",
+      "regiune_viticola": "Regiunea viticolă a Podișului Dobrogei",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Mangalia",
+      "independent": "da",
+      "podgorie": "Murfatlar",
+      "regiune_viticola": "Regiunea viticolă a Podișului Dobrogei",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Techirghiol",
+      "independent": "da",
+      "podgorie": "Murfatlar",
+      "regiune_viticola": "Regiunea viticolă a Podișului Dobrogei",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Ostrov",
+      "independent": "nu",
+      "podgorie": "Ostrov",
+      "regiune_viticola": "Regiunea viticolă a Podișului Dobrogei",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Băneasa",
+      "independent": "nu",
+      "podgorie": "Ostrov",
+      "regiune_viticola": "Regiunea viticolă a Podișului Dobrogei",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Oltina",
+      "independent": "nu",
+      "podgorie": "Ostrov",
+      "regiune_viticola": "Regiunea viticolă a Podișului Dobrogei",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    },
+    {
+      "centru_viticol": "Aliman",
+      "independent": "nu",
+      "podgorie": "Ostrov",
+      "regiune_viticola": "Regiunea viticolă a Podișului Dobrogei",
+      "zona_viticola": "Zona viticolă danubiano-pontică"
+    }
+  ],
+  "meta": {
+    "title": "Podgoriile și centrele viticole din România - Free Download",
+    "description": "Centrele viticole din România grupate pe podgorii, regiuni viticole și zone viticole (intracarpatică, pericarpatică, extracarpatică). Contains 173 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Podgoriile și centrele viticole din România | ListBase",
+    "seo_description": "Download Podgoriile și centrele viticole din România — 173 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 173 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Podgorii_în_România"
+    ]
+  }
+}

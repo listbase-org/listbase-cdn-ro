@@ -1,12 +1,12 @@
 {
   "lang": "ro",
-  "generated": "2026-11-05T02:11:09.033Z",
-  "total_datasets": 474,
-  "total_records": 166448,
+  "generated": "2026-11-05T02:11:19.109Z",
+  "total_datasets": 475,
+  "total_records": 166621,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "culture",
@@ -102,6 +102,32 @@
     }
   ],
   "datasets": [
+    {
+      "id": "ro-podgorii-centre-viticole",
+      "name": "Podgoriile și centrele viticole din România",
+      "category": "agriculture",
+      "record_count": 173,
+      "columns": [
+        "centru_viticol",
+        "independent",
+        "podgorie",
+        "regiune_viticola",
+        "zona_viticola"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Podgorii_în_România",
+      "updated": "2026-11",
+      "size": 43481,
+      "files": {
+        "csv": {
+          "name": "ro-podgorii-centre-viticole_RO.csv",
+          "size": 19446
+        },
+        "xlsx": {
+          "name": "ro-podgorii-centre-viticole_RO.xlsx",
+          "size": 11841
+        }
+      }
+    },
     {
       "id": "ro-productie-agricola-principalele-produse",
       "name": "Producția agricolă a României pe principalele produse (2013–2024)",
