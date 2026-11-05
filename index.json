@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-05T02:11:19.109Z",
-  "total_datasets": 475,
-  "total_records": 166621,
+  "generated": "2026-11-05T02:11:28.565Z",
+  "total_datasets": 476,
+  "total_records": 166662,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "time",
@@ -13249,6 +13249,30 @@
         "xlsx": {
           "name": "ro-oameni-stiinta-informatica_RO.xlsx",
           "size": 9805
+        }
+      }
+    },
+    {
+      "id": "ro-prefixe-telefonice-judete",
+      "name": "Prefixele telefonice din România pe județe",
+      "category": "tech",
+      "record_count": 41,
+      "columns": [
+        "judet",
+        "prefix_orange_romtelecom",
+        "prefix_vodafone_digi"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Lista_prefixelor_telefonice_(România)",
+      "updated": "2026-11",
+      "size": 6580,
+      "files": {
+        "csv": {
+          "name": "ro-prefixe-telefonice-judete_RO.csv",
+          "size": 1063
+        },
+        "xlsx": {
+          "name": "ro-prefixe-telefonice-judete_RO.xlsx",
+          "size": 7862
         }
       }
     },

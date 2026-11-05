@@ -1,0 +1,246 @@
+{
+  "id": "ro-prefixe-telefonice-judete",
+  "name": "Prefixele telefonice din România pe județe",
+  "title": "Prefixele telefonice din România pe județe",
+  "description": "Prefixele telefonice pentru telefonia fixă din fiecare județ al României: prefixul Orange (fost Romtelecom) și cel al rețelelor ex-UPC (Vodafone) / DIGI (RCS-RDS).",
+  "category": "tech",
+  "source": "https://ro.wikipedia.org/wiki/Lista_prefixelor_telefonice_(România)",
+  "source_url": "https://ro.wikipedia.org/wiki/Lista_prefixelor_telefonice_(România)",
+  "updated": "2026-11",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "prefix_orange_romtelecom",
+      "label": "Prefix Orange Romtelecom",
+      "type": "number"
+    },
+    {
+      "key": "prefix_vodafone_digi",
+      "label": "Prefix Vodafone Digi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "judet": "București-Ilfov",
+      "prefix_orange_romtelecom": "021",
+      "prefix_vodafone_digi": "031"
+    },
+    {
+      "judet": "Alba",
+      "prefix_orange_romtelecom": "0258",
+      "prefix_vodafone_digi": "0358"
+    },
+    {
+      "judet": "Arad",
+      "prefix_orange_romtelecom": "0257",
+      "prefix_vodafone_digi": "0357"
+    },
+    {
+      "judet": "Argeș",
+      "prefix_orange_romtelecom": "0248",
+      "prefix_vodafone_digi": "0348"
+    },
+    {
+      "judet": "Bacău",
+      "prefix_orange_romtelecom": "0234",
+      "prefix_vodafone_digi": "0334"
+    },
+    {
+      "judet": "Bihor",
+      "prefix_orange_romtelecom": "0259",
+      "prefix_vodafone_digi": "0359"
+    },
+    {
+      "judet": "Bistrița-Năsăud",
+      "prefix_orange_romtelecom": "0263",
+      "prefix_vodafone_digi": "0363"
+    },
+    {
+      "judet": "Botoșani",
+      "prefix_orange_romtelecom": "0231",
+      "prefix_vodafone_digi": "0331"
+    },
+    {
+      "judet": "Brașov",
+      "prefix_orange_romtelecom": "0268",
+      "prefix_vodafone_digi": "0368"
+    },
+    {
+      "judet": "Brăila",
+      "prefix_orange_romtelecom": "0239",
+      "prefix_vodafone_digi": "0339"
+    },
+    {
+      "judet": "Buzău",
+      "prefix_orange_romtelecom": "0238",
+      "prefix_vodafone_digi": "0338"
+    },
+    {
+      "judet": "Caraș-Severin",
+      "prefix_orange_romtelecom": "0255",
+      "prefix_vodafone_digi": "0355"
+    },
+    {
+      "judet": "Călărași",
+      "prefix_orange_romtelecom": "0242",
+      "prefix_vodafone_digi": "0342"
+    },
+    {
+      "judet": "Cluj",
+      "prefix_orange_romtelecom": "0264",
+      "prefix_vodafone_digi": "0364"
+    },
+    {
+      "judet": "Constanța",
+      "prefix_orange_romtelecom": "0241",
+      "prefix_vodafone_digi": "0341"
+    },
+    {
+      "judet": "Covasna",
+      "prefix_orange_romtelecom": "0267",
+      "prefix_vodafone_digi": "0367"
+    },
+    {
+      "judet": "Dâmbovița",
+      "prefix_orange_romtelecom": "0245",
+      "prefix_vodafone_digi": "0345"
+    },
+    {
+      "judet": "Dolj",
+      "prefix_orange_romtelecom": "0251",
+      "prefix_vodafone_digi": "0351"
+    },
+    {
+      "judet": "Galați",
+      "prefix_orange_romtelecom": "0236",
+      "prefix_vodafone_digi": "0336"
+    },
+    {
+      "judet": "Giurgiu",
+      "prefix_orange_romtelecom": "0246",
+      "prefix_vodafone_digi": "0346"
+    },
+    {
+      "judet": "Gorj",
+      "prefix_orange_romtelecom": "0253",
+      "prefix_vodafone_digi": "0353"
+    },
+    {
+      "judet": "Harghita",
+      "prefix_orange_romtelecom": "0266",
+      "prefix_vodafone_digi": "0366"
+    },
+    {
+      "judet": "Hunedoara",
+      "prefix_orange_romtelecom": "0254",
+      "prefix_vodafone_digi": "0354"
+    },
+    {
+      "judet": "Ialomița",
+      "prefix_orange_romtelecom": "0243",
+      "prefix_vodafone_digi": "0343"
+    },
+    {
+      "judet": "Iași",
+      "prefix_orange_romtelecom": "0232",
+      "prefix_vodafone_digi": "0332"
+    },
+    {
+      "judet": "Maramureș",
+      "prefix_orange_romtelecom": "0262",
+      "prefix_vodafone_digi": "0362"
+    },
+    {
+      "judet": "Mehedinți",
+      "prefix_orange_romtelecom": "0252",
+      "prefix_vodafone_digi": "0352"
+    },
+    {
+      "judet": "Mureș",
+      "prefix_orange_romtelecom": "0265",
+      "prefix_vodafone_digi": "0365"
+    },
+    {
+      "judet": "Neamț",
+      "prefix_orange_romtelecom": "0233",
+      "prefix_vodafone_digi": "0333"
+    },
+    {
+      "judet": "Olt",
+      "prefix_orange_romtelecom": "0249",
+      "prefix_vodafone_digi": "0349"
+    },
+    {
+      "judet": "Prahova",
+      "prefix_orange_romtelecom": "0244",
+      "prefix_vodafone_digi": "0344"
+    },
+    {
+      "judet": "Satu Mare",
+      "prefix_orange_romtelecom": "0261",
+      "prefix_vodafone_digi": "0361"
+    },
+    {
+      "judet": "Sălaj",
+      "prefix_orange_romtelecom": "0260",
+      "prefix_vodafone_digi": "0360"
+    },
+    {
+      "judet": "Sibiu",
+      "prefix_orange_romtelecom": "0269",
+      "prefix_vodafone_digi": "0369"
+    },
+    {
+      "judet": "Suceava",
+      "prefix_orange_romtelecom": "0230",
+      "prefix_vodafone_digi": "0330"
+    },
+    {
+      "judet": "Teleorman",
+      "prefix_orange_romtelecom": "0247",
+      "prefix_vodafone_digi": "0347"
+    },
+    {
+      "judet": "Timiș",
+      "prefix_orange_romtelecom": "0256",
+      "prefix_vodafone_digi": "0356"
+    },
+    {
+      "judet": "Tulcea",
+      "prefix_orange_romtelecom": "0240",
+      "prefix_vodafone_digi": "0340"
+    },
+    {
+      "judet": "Vaslui",
+      "prefix_orange_romtelecom": "0235",
+      "prefix_vodafone_digi": "0335"
+    },
+    {
+      "judet": "Vâlcea",
+      "prefix_orange_romtelecom": "0250",
+      "prefix_vodafone_digi": "0350"
+    },
+    {
+      "judet": "Vrancea",
+      "prefix_orange_romtelecom": "0237",
+      "prefix_vodafone_digi": "0337"
+    }
+  ],
+  "meta": {
+    "title": "Prefixele telefonice din România pe județe - Free Download",
+    "description": "Prefixele telefonice pentru telefonia fixă din fiecare județ al României: prefixul Orange (fost Romtelecom) și cel al rețelelor ex-UPC (Vodafone) / DIGI (RCS-RDS). Contains 41 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Prefixele telefonice din România pe județe | ListBase",
+    "seo_description": "Download Prefixele telefonice din România pe județe — 41 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 41 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Lista_prefixelor_telefonice_(România)"
+    ]
+  }
+}
