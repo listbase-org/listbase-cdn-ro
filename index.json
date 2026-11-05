@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-04T02:11:43.594Z",
-  "total_datasets": 473,
-  "total_records": 166407,
+  "generated": "2026-11-05T02:11:09.033Z",
+  "total_datasets": 474,
+  "total_records": 166448,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "tourism",
@@ -13223,6 +13223,30 @@
         "xlsx": {
           "name": "ro-oameni-stiinta-informatica_RO.xlsx",
           "size": 9805
+        }
+      }
+    },
+    {
+      "id": "ro-data-pastelui-ortodox-catolic",
+      "name": "Data Paștelui ortodox și catolic pe ani",
+      "category": "time",
+      "record_count": 41,
+      "columns": [
+        "an",
+        "paste_occidental",
+        "paste_ortodox"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Calculul_datei_de_Paște",
+      "updated": "2026-11",
+      "size": 5923,
+      "files": {
+        "csv": {
+          "name": "ro-data-pastelui-ortodox-catolic_RO.csv",
+          "size": 1325
+        },
+        "xlsx": {
+          "name": "ro-data-pastelui-ortodox-catolic_RO.xlsx",
+          "size": 7507
         }
       }
     },

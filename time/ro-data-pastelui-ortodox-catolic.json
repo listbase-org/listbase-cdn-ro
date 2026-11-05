@@ -1,0 +1,246 @@
+{
+  "id": "ro-data-pastelui-ortodox-catolic",
+  "name": "Data Paștelui ortodox și catolic pe ani",
+  "title": "Data Paștelui ortodox și catolic pe ani",
+  "description": "Datele Paștelui occidental (catolic/protestant) și oriental (ortodox) pentru fiecare an, conform tabelului din articolul „Calculul datei de Paște”.",
+  "category": "time",
+  "source": "https://ro.wikipedia.org/wiki/Calculul_datei_de_Paște",
+  "source_url": "https://ro.wikipedia.org/wiki/Calculul_datei_de_Paște",
+  "updated": "2026-11",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "an",
+      "label": "An",
+      "type": "number"
+    },
+    {
+      "key": "paste_occidental",
+      "label": "Paste Occidental",
+      "type": "string"
+    },
+    {
+      "key": "paste_ortodox",
+      "label": "Paste Ortodox",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "an": 2006,
+      "paste_occidental": "16 aprilie",
+      "paste_ortodox": "23 aprilie"
+    },
+    {
+      "an": 2007,
+      "paste_occidental": "8 aprilie",
+      "paste_ortodox": "8 aprilie"
+    },
+    {
+      "an": 2008,
+      "paste_occidental": "23 martie",
+      "paste_ortodox": "27 aprilie"
+    },
+    {
+      "an": 2009,
+      "paste_occidental": "12 aprilie",
+      "paste_ortodox": "19 aprilie"
+    },
+    {
+      "an": 2010,
+      "paste_occidental": "4 aprilie",
+      "paste_ortodox": "4 aprilie"
+    },
+    {
+      "an": 2011,
+      "paste_occidental": "24 aprilie",
+      "paste_ortodox": "24 aprilie"
+    },
+    {
+      "an": 2012,
+      "paste_occidental": "8 aprilie",
+      "paste_ortodox": "15 aprilie"
+    },
+    {
+      "an": 2013,
+      "paste_occidental": "31 martie",
+      "paste_ortodox": "5 mai"
+    },
+    {
+      "an": 2014,
+      "paste_occidental": "20 aprilie",
+      "paste_ortodox": "20 aprilie"
+    },
+    {
+      "an": 2015,
+      "paste_occidental": "5 aprilie",
+      "paste_ortodox": "12 aprilie"
+    },
+    {
+      "an": 2016,
+      "paste_occidental": "27 martie",
+      "paste_ortodox": "1 mai"
+    },
+    {
+      "an": 2017,
+      "paste_occidental": "16 aprilie",
+      "paste_ortodox": "16 aprilie"
+    },
+    {
+      "an": 2018,
+      "paste_occidental": "1 aprilie",
+      "paste_ortodox": "8 aprilie"
+    },
+    {
+      "an": 2019,
+      "paste_occidental": "21 aprilie",
+      "paste_ortodox": "28 aprilie"
+    },
+    {
+      "an": 2020,
+      "paste_occidental": "12 aprilie",
+      "paste_ortodox": "19 aprilie"
+    },
+    {
+      "an": 2021,
+      "paste_occidental": "4 aprilie",
+      "paste_ortodox": "2 mai"
+    },
+    {
+      "an": 2022,
+      "paste_occidental": "17 aprilie",
+      "paste_ortodox": "24 aprilie"
+    },
+    {
+      "an": 2023,
+      "paste_occidental": "9 aprilie",
+      "paste_ortodox": "16 aprilie"
+    },
+    {
+      "an": 2024,
+      "paste_occidental": "31 martie",
+      "paste_ortodox": "5 mai"
+    },
+    {
+      "an": 2025,
+      "paste_occidental": "20 aprilie",
+      "paste_ortodox": "20 aprilie"
+    },
+    {
+      "an": 2026,
+      "paste_occidental": "5 aprilie",
+      "paste_ortodox": "12 aprilie"
+    },
+    {
+      "an": 2027,
+      "paste_occidental": "28 martie",
+      "paste_ortodox": "2 mai"
+    },
+    {
+      "an": 2028,
+      "paste_occidental": "16 aprilie",
+      "paste_ortodox": "16 aprilie"
+    },
+    {
+      "an": 2029,
+      "paste_occidental": "1 aprilie",
+      "paste_ortodox": "8 aprilie"
+    },
+    {
+      "an": 2030,
+      "paste_occidental": "21 aprilie",
+      "paste_ortodox": "28 aprilie"
+    },
+    {
+      "an": 2031,
+      "paste_occidental": "13 aprilie",
+      "paste_ortodox": "13 aprilie"
+    },
+    {
+      "an": 2032,
+      "paste_occidental": "28 martie",
+      "paste_ortodox": "2 mai"
+    },
+    {
+      "an": 2033,
+      "paste_occidental": "17 aprilie",
+      "paste_ortodox": "24 aprilie"
+    },
+    {
+      "an": 2034,
+      "paste_occidental": "9 aprilie",
+      "paste_ortodox": "9 aprilie"
+    },
+    {
+      "an": 2035,
+      "paste_occidental": "25 martie",
+      "paste_ortodox": "29 aprilie"
+    },
+    {
+      "an": 2036,
+      "paste_occidental": "13 aprilie",
+      "paste_ortodox": "20 aprilie"
+    },
+    {
+      "an": 2037,
+      "paste_occidental": "5 aprilie",
+      "paste_ortodox": "5 aprilie"
+    },
+    {
+      "an": 2038,
+      "paste_occidental": "25 aprilie",
+      "paste_ortodox": "25 aprilie"
+    },
+    {
+      "an": 2039,
+      "paste_occidental": "10 aprilie",
+      "paste_ortodox": "17 aprilie"
+    },
+    {
+      "an": 2040,
+      "paste_occidental": "1 aprilie",
+      "paste_ortodox": "6 mai"
+    },
+    {
+      "an": 2041,
+      "paste_occidental": "21 aprilie",
+      "paste_ortodox": "21 aprilie"
+    },
+    {
+      "an": 2042,
+      "paste_occidental": "6 aprilie",
+      "paste_ortodox": "13 aprilie"
+    },
+    {
+      "an": 2043,
+      "paste_occidental": "29 martie",
+      "paste_ortodox": "3 mai"
+    },
+    {
+      "an": 2044,
+      "paste_occidental": "17 aprilie",
+      "paste_ortodox": "24 aprilie"
+    },
+    {
+      "an": 2045,
+      "paste_occidental": "9 aprilie",
+      "paste_ortodox": "9 aprilie"
+    },
+    {
+      "an": 2046,
+      "paste_occidental": "25 martie",
+      "paste_ortodox": "29 aprilie"
+    }
+  ],
+  "meta": {
+    "title": "Data Paștelui ortodox și catolic pe ani - Free Download",
+    "description": "Datele Paștelui occidental (catolic/protestant) și oriental (ortodox) pentru fiecare an, conform tabelului din articolul „Calculul datei de Paște”. Contains 41 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Data Paștelui ortodox și catolic pe ani | ListBase",
+    "seo_description": "Download Data Paștelui ortodox și catolic pe ani — 41 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 41 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Calculul_datei_de_Paște"
+    ]
+  }
+}
