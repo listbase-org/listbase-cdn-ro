@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-05T02:11:28.565Z",
-  "total_datasets": 476,
-  "total_records": 166662,
+  "generated": "2026-11-05T02:11:38.015Z",
+  "total_datasets": 477,
+  "total_records": 166757,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "history",
@@ -5623,6 +5623,32 @@
         "xlsx": {
           "name": "ro-ministri-sanatatii_RO.xlsx",
           "size": 8892
+        }
+      }
+    },
+    {
+      "id": "ro-spitale-institutii-sanatate-bucuresti",
+      "name": "Spitale și instituții publice de sănătate din București",
+      "category": "health",
+      "record_count": 95,
+      "columns": [
+        "nume",
+        "sector",
+        "anul_infiintarii",
+        "subordonare",
+        "categorie"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Listă_de_spitale_și_instituții_publice_de_sănătate_din_București",
+      "updated": "2026-11",
+      "size": 25322,
+      "files": {
+        "csv": {
+          "name": "ro-spitale-institutii-sanatate-bucuresti_RO.csv",
+          "size": 12805
+        },
+        "xlsx": {
+          "name": "ro-spitale-institutii-sanatate-bucuresti_RO.xlsx",
+          "size": 11290
         }
       }
     },

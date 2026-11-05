@@ -1,0 +1,716 @@
+{
+  "id": "ro-spitale-institutii-sanatate-bucuresti",
+  "name": "Spitale și instituții publice de sănătate din București",
+  "title": "Spitale și instituții publice de sănătate din București",
+  "description": "Spitalele și instituțiile publice de sănătate din București: sector, anul înființării, autoritatea în subordinea căreia se află și tipul unității.",
+  "category": "health",
+  "source": "https://ro.wikipedia.org/wiki/Listă_de_spitale_și_instituții_publice_de_sănătate_din_București",
+  "source_url": "https://ro.wikipedia.org/wiki/Listă_de_spitale_și_instituții_publice_de_sănătate_din_București",
+  "updated": "2026-11",
+  "record_count": 95,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "sector",
+      "label": "Sector",
+      "type": "number"
+    },
+    {
+      "key": "anul_infiintarii",
+      "label": "Anul Infiintarii",
+      "type": "number"
+    },
+    {
+      "key": "subordonare",
+      "label": "Subordonare",
+      "type": "string"
+    },
+    {
+      "key": "categorie",
+      "label": "Categorie",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "Spitalul Clinic de Urgență pentru Copii „Grigore Alexandrescu”",
+      "sector": 1,
+      "anul_infiintarii": "1886",
+      "subordonare": "",
+      "categorie": "Unități aflate în subordinea Ministerului Sănătății"
+    },
+    {
+      "nume": "Spitalul Clinic de Urgență București",
+      "sector": 1,
+      "anul_infiintarii": "1934",
+      "subordonare": "",
+      "categorie": "Unități aflate în subordinea Ministerului Sănătății"
+    },
+    {
+      "nume": "Spitalul Clinic de Urgență Chirurgie Plastică, Reparatorie și Arsuri",
+      "sector": 1,
+      "anul_infiintarii": "1958",
+      "subordonare": "",
+      "categorie": "Unități aflate în subordinea Ministerului Sănătății"
+    },
+    {
+      "nume": "Spitalul Clinic de Urgențe Oftalmologice (București)",
+      "sector": 1,
+      "anul_infiintarii": "1949",
+      "subordonare": "",
+      "categorie": "Unități aflate în subordinea Ministerului Sănătății"
+    },
+    {
+      "nume": "Spitalul Clinic de Urgență „Sfântul Pantelimon”",
+      "sector": 2,
+      "anul_infiintarii": "1972",
+      "subordonare": "",
+      "categorie": "Unități aflate în subordinea Ministerului Sănătății"
+    },
+    {
+      "nume": "Spitalul Clinic de Urgență „Sfântul Ioan” București",
+      "sector": 4,
+      "anul_infiintarii": "1979",
+      "subordonare": "",
+      "categorie": "Unități aflate în subordinea Ministerului Sănătății"
+    },
+    {
+      "nume": "Spitalul Clinic de Urgență pentru copii „Maria Sklodowska Curie”",
+      "sector": 4,
+      "anul_infiintarii": "1984",
+      "subordonare": "",
+      "categorie": "Unități aflate în subordinea Ministerului Sănătății"
+    },
+    {
+      "nume": "Spitalul Clinic de Urgență „Bagdasar-Arseni”",
+      "sector": 4,
+      "anul_infiintarii": "1975",
+      "subordonare": "",
+      "categorie": "Unități aflate în subordinea Ministerului Sănătății"
+    },
+    {
+      "nume": "Spitalul Universitar de Urgență București",
+      "sector": 5,
+      "anul_infiintarii": "1978",
+      "subordonare": "",
+      "categorie": "Unități aflate în subordinea Ministerului Sănătății"
+    },
+    {
+      "nume": "Institutul Clinic Fundeni",
+      "sector": 2,
+      "anul_infiintarii": "1959",
+      "subordonare": "",
+      "categorie": "Unități aflate în subordinea Ministerului Sănătății"
+    },
+    {
+      "nume": "Institutul Clinic pentru Ocrotirea Mamei și Copilului „Alfred Rusescu”",
+      "sector": 2,
+      "anul_infiintarii": "1920",
+      "subordonare": "",
+      "categorie": "Unități aflate în subordinea Ministerului Sănătății"
+    },
+    {
+      "nume": "Institutul de Pneumoftiziologie „Marius Nasta”",
+      "sector": 5,
+      "anul_infiintarii": "1949",
+      "subordonare": "",
+      "categorie": "Unități aflate în subordinea Ministerului Sănătății"
+    },
+    {
+      "nume": "Institutul Național de Endocrinologie „C.I. Parhon”",
+      "sector": 1,
+      "anul_infiintarii": "1946",
+      "subordonare": "",
+      "categorie": "Unități aflate în subordinea Ministerului Sănătății"
+    },
+    {
+      "nume": "Institutul de Diabet Zaharat, Nutriție și Boli Metabolice Prof. Dr. N. Paulescu",
+      "sector": 1,
+      "anul_infiintarii": "1993",
+      "subordonare": "",
+      "categorie": "Unități aflate în subordinea Ministerului Sănătății"
+    },
+    {
+      "nume": "Institutul de Urgență pentru Boli Cardiovasculare „C.C. Iliescu”",
+      "sector": 2,
+      "anul_infiintarii": "1991",
+      "subordonare": "",
+      "categorie": "Unități aflate în subordinea Ministerului Sănătății"
+    },
+    {
+      "nume": "Institutul Național de Geriatrie și Gerontologie „Ana Aslan”",
+      "sector": 1,
+      "anul_infiintarii": "1952",
+      "subordonare": "",
+      "categorie": "Unități aflate în subordinea Ministerului Sănătății"
+    },
+    {
+      "nume": "Institutul Oncologic „Prof. Al. Trestioreanu” București",
+      "sector": 2,
+      "anul_infiintarii": "1949",
+      "subordonare": "",
+      "categorie": "Unități aflate în subordinea Ministerului Sănătății"
+    },
+    {
+      "nume": "Institutul Național de Boli Infecțioase „Prof. Dr. Matei Balș”",
+      "sector": 2,
+      "anul_infiintarii": "1990",
+      "subordonare": "",
+      "categorie": "Unități aflate în subordinea Ministerului Sănătății"
+    },
+    {
+      "nume": "Institutul de Fonoaudiologie și Chirurgie Funcțională O.R.L. „Prof. Dr. D. Hociotă”",
+      "sector": 5,
+      "anul_infiintarii": "1972",
+      "subordonare": "",
+      "categorie": "Unități aflate în subordinea Ministerului Sănătății"
+    },
+    {
+      "nume": "Institutul Național de Recuperare, Medicină Fizică și Balneologie",
+      "sector": 3,
+      "anul_infiintarii": "1924",
+      "subordonare": "",
+      "categorie": "Unități aflate în subordinea Ministerului Sănătății"
+    },
+    {
+      "nume": "Centrul Național Clinic de Recuperare neuropsihomotorie pentru copii „Dr. Nicolae Robănescu”",
+      "sector": 4,
+      "anul_infiintarii": "1968",
+      "subordonare": "",
+      "categorie": "Unități aflate în subordinea Ministerului Sănătății"
+    },
+    {
+      "nume": "Institutul Național de Neurologie și Boli Neurovasculare București",
+      "sector": 4,
+      "anul_infiintarii": "1995",
+      "subordonare": "",
+      "categorie": "Unități aflate în subordinea Ministerului Sănătății"
+    },
+    {
+      "nume": "Spitalul Clinic „Sfânta Maria” (București)",
+      "sector": 1,
+      "anul_infiintarii": "cca. 1944",
+      "subordonare": "",
+      "categorie": "Unități aflate în subordinea A.S.S.M.B."
+    },
+    {
+      "nume": "Spitalul Clinic de Chirurgie Oro-Maxilo-Facială „Prof. Dr. Dan Theodorescu”",
+      "sector": 1,
+      "anul_infiintarii": "1935",
+      "subordonare": "",
+      "categorie": "Unități aflate în subordinea A.S.S.M.B."
+    },
+    {
+      "nume": "Spitalul Clinic de Boli Infecțioase și Tropice „Dr. Victor Babeș”",
+      "sector": 3,
+      "anul_infiintarii": "1956",
+      "subordonare": "",
+      "categorie": "Unități aflate în subordinea A.S.S.M.B."
+    },
+    {
+      "nume": "Spitalul Clinic de Urologie „Prof. Dr. Theodor Burghele”",
+      "sector": 5,
+      "anul_infiintarii": "1948",
+      "subordonare": "",
+      "categorie": "Unități aflate în subordinea A.S.S.M.B."
+    },
+    {
+      "nume": "Spitalul Clinic „Dr. Ioan Cantacuzino”",
+      "sector": 2,
+      "anul_infiintarii": "1930",
+      "subordonare": "",
+      "categorie": "Unități aflate în subordinea A.S.S.M.B."
+    },
+    {
+      "nume": "Spitalul Clinic de Nefrologie „Dr. Carol Davila”",
+      "sector": 1,
+      "anul_infiintarii": "1894",
+      "subordonare": "",
+      "categorie": "Unități aflate în subordinea A.S.S.M.B."
+    },
+    {
+      "nume": "Centrul de Evaluare și Tratament a Toxicodependențelor pentru Tineri „Sf. Stelian”",
+      "sector": 6,
+      "anul_infiintarii": "2003",
+      "subordonare": "",
+      "categorie": "Unități aflate în subordinea A.S.S.M.B."
+    },
+    {
+      "nume": "Spitalul Clinic Colentina",
+      "sector": 2,
+      "anul_infiintarii": "1858",
+      "subordonare": "",
+      "categorie": "Unități aflate în subordinea A.S.S.M.B."
+    },
+    {
+      "nume": "Spitalul Clinic Colțea",
+      "sector": 3,
+      "anul_infiintarii": "1704",
+      "subordonare": "",
+      "categorie": "Unități aflate în subordinea A.S.S.M.B."
+    },
+    {
+      "nume": "Spitalul Clinic de Obstetrică și Ginecologie Filantropia",
+      "sector": 1,
+      "anul_infiintarii": "1813",
+      "subordonare": "",
+      "categorie": "Unități aflate în subordinea A.S.S.M.B."
+    },
+    {
+      "nume": "Spitalul Clinic de ortopedie-traumatologie și TBC osteoarticular „Foișor”",
+      "sector": 2,
+      "anul_infiintarii": "1984",
+      "subordonare": "",
+      "categorie": "Unități aflate în subordinea A.S.S.M.B."
+    },
+    {
+      "nume": "Spitalul Clinic de Copii „Dr. Victor Gomoiu”",
+      "sector": 2,
+      "anul_infiintarii": "1927",
+      "subordonare": "",
+      "categorie": "Unități aflate în subordinea A.S.S.M.B."
+    },
+    {
+      "nume": "Spitalul de Psihiatrie TITAN „Dr. Constantin Gorgos”",
+      "sector": 3,
+      "anul_infiintarii": "1979",
+      "subordonare": "",
+      "categorie": "Unități aflate în subordinea A.S.S.M.B."
+    },
+    {
+      "nume": "Spitalul Clinic „Nicolae Malaxa”",
+      "sector": 2,
+      "anul_infiintarii": "1963",
+      "subordonare": "",
+      "categorie": "Unități aflate în subordinea A.S.S.M.B."
+    },
+    {
+      "nume": "Spitalul Clinic de Psihiatrie „Prof. Dr. Alexandru Obregia”",
+      "sector": 4,
+      "anul_infiintarii": "1923",
+      "subordonare": "",
+      "categorie": "Unități aflate în subordinea A.S.S.M.B."
+    },
+    {
+      "nume": "Spitalul Clinic de Obstetrică-Ginecologie „Prof. Dr. Panait Sârbu”",
+      "sector": 6,
+      "anul_infiintarii": "1951",
+      "subordonare": "",
+      "categorie": "Unități aflate în subordinea A.S.S.M.B."
+    },
+    {
+      "nume": "Spitalul de Pneumoftiziologie „Sfântul Ștefan”",
+      "sector": 2,
+      "anul_infiintarii": "1963",
+      "subordonare": "",
+      "categorie": "Unități aflate în subordinea A.S.S.M.B."
+    },
+    {
+      "nume": "Spitalul de Boli Cronice „Sf. Luca”",
+      "sector": 4,
+      "anul_infiintarii": "1973",
+      "subordonare": "",
+      "categorie": "Unități aflate în subordinea A.S.S.M.B."
+    },
+    {
+      "nume": "Centrul Clinic de Boli Reumatismale „Dr. Ion Stoia”",
+      "sector": 5,
+      "anul_infiintarii": "1960",
+      "subordonare": "",
+      "categorie": "Unități aflate în subordinea A.S.S.M.B."
+    },
+    {
+      "nume": "Spitalul Universitar de Urgență Elias",
+      "sector": 1,
+      "anul_infiintarii": "1936",
+      "subordonare": "Academiei Române",
+      "categorie": "Unități departamentale"
+    },
+    {
+      "nume": "Spitalul Clinic „Prof. Dr. Constantin Angelescu”",
+      "sector": 3,
+      "anul_infiintarii": "?",
+      "subordonare": "Ministerului Justiției",
+      "categorie": "Unități departamentale"
+    },
+    {
+      "nume": "Penitenciarul Spital București-Rahova",
+      "sector": 5,
+      "anul_infiintarii": "2003",
+      "subordonare": "Administrației Naționale a Penitenciarelor",
+      "categorie": "Unități departamentale"
+    },
+    {
+      "nume": "Spitalul Universitar de Urgență Militar Central „Dr. Carol Davila”",
+      "sector": 1,
+      "anul_infiintarii": "1831",
+      "subordonare": "Ministerului Apărării Naționale",
+      "categorie": "Unități departamentale"
+    },
+    {
+      "nume": "Spitalul de Urgență „Prof. Dr. Dimitrie Gerota”",
+      "sector": 2,
+      "anul_infiintarii": "1912",
+      "subordonare": "Ministerului Afacerilor Interne",
+      "categorie": "Unități departamentale"
+    },
+    {
+      "nume": "Spitalul Clinic Nr.1 Căi Ferate Witting",
+      "sector": 6,
+      "anul_infiintarii": "1918",
+      "subordonare": "Ministerului Transporturilor și Infrastructurii",
+      "categorie": "Unități departamentale"
+    },
+    {
+      "nume": "Spitalul Clinic C.F. Nr.2",
+      "sector": 1,
+      "anul_infiintarii": "1942",
+      "subordonare": "Ministerului Transporturilor și Infrastructurii",
+      "categorie": "Unități departamentale"
+    },
+    {
+      "nume": "Centrul de Sănătate R.A.T.B",
+      "sector": 1,
+      "anul_infiintarii": "1937",
+      "subordonare": "Ministerului Transporturilor și Infrastructurii",
+      "categorie": "Unități departamentale"
+    },
+    {
+      "nume": "Spitalul Militar de Urgență „Prof. Dr. Agrippa Ionescu”",
+      "sector": 1,
+      "anul_infiintarii": "1958",
+      "subordonare": "Serviciului Român de Informații",
+      "categorie": "Unități departamentale"
+    },
+    {
+      "nume": "Centrul Clinic de Urgență de Boli Cardiovasculare al Armatei „Academician Vasile Cândea”",
+      "sector": 1,
+      "anul_infiintarii": "1990",
+      "subordonare": "Ministerului Apărării Naționale",
+      "categorie": "Unități departamentale"
+    },
+    {
+      "nume": "Maternitatea Elias",
+      "sector": 1,
+      "anul_infiintarii": "",
+      "subordonare": "Spitalul Universitar de Urgență Elias",
+      "categorie": "Maternități"
+    },
+    {
+      "nume": "Maternitatea Cantacuzino",
+      "sector": 2,
+      "anul_infiintarii": "",
+      "subordonare": "Spitalul Clinic „Dr. Ioan Cantacuzino”",
+      "categorie": "Maternități"
+    },
+    {
+      "nume": "Maternitatea „Sfântul Pantelimon”",
+      "sector": 2,
+      "anul_infiintarii": "",
+      "subordonare": "Spitalul Clinic de Urgență „Sfântul Pantelimon”",
+      "categorie": "Maternități"
+    },
+    {
+      "nume": "Maternitatea Polizu",
+      "sector": 2,
+      "anul_infiintarii": "",
+      "subordonare": "Institutul Clinic pentru Ocrotirea Mamei și Copilului „Alfred Rusescu”",
+      "categorie": "Maternități"
+    },
+    {
+      "nume": "Maternitatea Filantropia",
+      "sector": 1,
+      "anul_infiintarii": "",
+      "subordonare": "Spitalul Clinic de Obstetrică și Ginecologie Filantropia",
+      "categorie": "Maternități"
+    },
+    {
+      "nume": "Maternitatea Bucur",
+      "sector": 4,
+      "anul_infiintarii": "",
+      "subordonare": "Spitalul Clinic de Urgență „Sfântul Ioan” București",
+      "categorie": "Maternități"
+    },
+    {
+      "nume": "Maternitatea Giulești",
+      "sector": 6,
+      "anul_infiintarii": "",
+      "subordonare": "Spitalul Clinic de Obstetrică-Ginecologie „Prof. Dr. Panait Sârbu”",
+      "categorie": "Maternități"
+    },
+    {
+      "nume": "Maternitatea „Nicolae Malaxa”",
+      "sector": 2,
+      "anul_infiintarii": "",
+      "subordonare": "Spitalul Clinic „Nicolae Malaxa”",
+      "categorie": "Maternități"
+    },
+    {
+      "nume": "Maternitatea C.F. Nr.2",
+      "sector": 1,
+      "anul_infiintarii": "",
+      "subordonare": "Spitalul Clinic C.F. Nr.2",
+      "categorie": "Maternități"
+    },
+    {
+      "nume": "Ministerul Sănătății",
+      "sector": 1,
+      "anul_infiintarii": "1922",
+      "subordonare": "Guvernului României",
+      "categorie": "Alte instituții publice de sănătate"
+    },
+    {
+      "nume": "Institutul Național de Medicină Aeronautică și Spațială „General Doctor Aviator Victor Anastasiu”",
+      "sector": 1,
+      "anul_infiintarii": "1920",
+      "subordonare": "Ministerului Apărării Naționale",
+      "categorie": "Alte instituții publice de sănătate"
+    },
+    {
+      "nume": "Centrul Medical de Diagnostic, Tratament Ambulatoriu și Medicină Preventivă (București)",
+      "sector": 1,
+      "anul_infiintarii": "?",
+      "subordonare": "Academiei Române",
+      "categorie": "Alte instituții publice de sănătate"
+    },
+    {
+      "nume": "Centrul Medical de Diagnostic și Tratament Ambulatoriu „Academician Dr. Ștefan Milcu”",
+      "sector": 1,
+      "anul_infiintarii": "1949",
+      "subordonare": "Ministerului Apărării Naționale",
+      "categorie": "Alte instituții publice de sănătate"
+    },
+    {
+      "nume": "Institutul Național de Transfuzie Sanguină „Prof. Dr. C. T. Nicolau”",
+      "sector": 1,
+      "anul_infiintarii": "1949",
+      "subordonare": "Ministerului Sănătății",
+      "categorie": "Alte instituții publice de sănătate"
+    },
+    {
+      "nume": "Centrul de Transfuzie Sanguină București",
+      "sector": 1,
+      "anul_infiintarii": "1949",
+      "subordonare": "Ministerului Sănătății",
+      "categorie": "Alte instituții publice de sănătate"
+    },
+    {
+      "nume": "Agenția Națională de Transplant",
+      "sector": 1,
+      "anul_infiintarii": "2004",
+      "subordonare": "Ministerului Sănătății",
+      "categorie": "Alte instituții publice de sănătate"
+    },
+    {
+      "nume": "Centrul Național de Statistică și Informatică în Sănătate Publică",
+      "sector": 1,
+      "anul_infiintarii": "1970",
+      "subordonare": "Ministerului Sănătății",
+      "categorie": "Alte instituții publice de sănătate"
+    },
+    {
+      "nume": "Agenția Națională a Medicamentului și a Dispozitivelor Medicale",
+      "sector": 1,
+      "anul_infiintarii": "1956",
+      "subordonare": "Ministerului Sănătății",
+      "categorie": "Alte instituții publice de sănătate"
+    },
+    {
+      "nume": "Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor",
+      "sector": 1,
+      "anul_infiintarii": "2004",
+      "subordonare": "Ministerului Agriculturii și Dezvoltării Rurale",
+      "categorie": "Alte instituții publice de sănătate"
+    },
+    {
+      "nume": "Casa Județeană de Asigurări de Sănătate Ilfov",
+      "sector": 1,
+      "anul_infiintarii": "1999",
+      "subordonare": "Ministerului Sănătății",
+      "categorie": "Alte instituții publice de sănătate"
+    },
+    {
+      "nume": "Centrul Național de Sănătate Mintală și Luptă Antidrog",
+      "sector": 1,
+      "anul_infiintarii": "2009",
+      "subordonare": "Ministerului Sănătății",
+      "categorie": "Alte instituții publice de sănătate"
+    },
+    {
+      "nume": "Direcția de Sănătate Publică Ilfov",
+      "sector": 1,
+      "anul_infiintarii": "1999",
+      "subordonare": "Ministerului Sănătății",
+      "categorie": "Alte instituții publice de sănătate"
+    },
+    {
+      "nume": "Ordinul Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România (O.A.M.G.M.A.M.R.)",
+      "sector": 1,
+      "anul_infiintarii": "2001",
+      "subordonare": "Ministerului Sănătății",
+      "categorie": "Alte instituții publice de sănătate"
+    },
+    {
+      "nume": "Institutul Medico-Militar din București",
+      "sector": 1,
+      "anul_infiintarii": "1884",
+      "subordonare": "Ministerului Apărării Naționale",
+      "categorie": "Alte instituții publice de sănătate"
+    },
+    {
+      "nume": "Centrul de Cercetări Științifice Medico-Militare",
+      "sector": 1,
+      "anul_infiintarii": "1968",
+      "subordonare": "Ministerului Apărării Naționale",
+      "categorie": "Alte instituții publice de sănătate"
+    },
+    {
+      "nume": "Centrul Național de Statistică și Informatică în Sănătate Publică",
+      "sector": 1,
+      "anul_infiintarii": "1948",
+      "subordonare": "Institutului Național de Sănătate Publică",
+      "categorie": "Alte instituții publice de sănătate"
+    },
+    {
+      "nume": "Complexul de Servicii Sociale „Sf. Ecaterina”",
+      "sector": 1,
+      "anul_infiintarii": "1897",
+      "subordonare": "D.G.A.S. Sector 1",
+      "categorie": "Alte instituții publice de sănătate"
+    },
+    {
+      "nume": "Serviciul de Ambulanță București-Ilfov",
+      "sector": 2,
+      "anul_infiintarii": "2009",
+      "subordonare": "Ministerului Sănătății",
+      "categorie": "Alte instituții publice de sănătate"
+    },
+    {
+      "nume": "Ordinul Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din București",
+      "sector": 2,
+      "anul_infiintarii": "2001",
+      "subordonare": "O.A.M.G.M.A.M.R.",
+      "categorie": "Alte instituții publice de sănătate"
+    },
+    {
+      "nume": "Direcția de Sănătate Publică a Municipiului București",
+      "sector": 2,
+      "anul_infiintarii": "1999",
+      "subordonare": "Ministerului Sănătății",
+      "categorie": "Alte instituții publice de sănătate"
+    },
+    {
+      "nume": "Școala Națională de Sănătate Publică, Management și Perfecționare în Domeniul Sanitar București",
+      "sector": 2,
+      "anul_infiintarii": "2006",
+      "subordonare": "Ministerului Sănătății",
+      "categorie": "Alte instituții publice de sănătate"
+    },
+    {
+      "nume": "Centrul Teritorial Veterinar Sector 2",
+      "sector": 2,
+      "anul_infiintarii": "2001",
+      "subordonare": "Consiliului Local Sector 2",
+      "categorie": "Alte instituții publice de sănătate"
+    },
+    {
+      "nume": "Serviciul de Ambulanță București-Ilfov",
+      "sector": 2,
+      "anul_infiintarii": "2009",
+      "subordonare": "Ministerului Sănătății",
+      "categorie": "Alte instituții publice de sănătate"
+    },
+    {
+      "nume": "Institutul Național de Medicină Sportivă",
+      "sector": 2,
+      "anul_infiintarii": "1962",
+      "subordonare": "Ministerului Sănătății",
+      "categorie": "Alte instituții publice de sănătate"
+    },
+    {
+      "nume": "Academia de Științe Medicale",
+      "sector": 3,
+      "anul_infiintarii": "1935",
+      "subordonare": "Ministerului Sănătății",
+      "categorie": "Alte instituții publice de sănătate"
+    },
+    {
+      "nume": "Institutul de Virusologie „Ștefan S. Nicolau”",
+      "sector": 3,
+      "anul_infiintarii": "1949",
+      "subordonare": "Academiei Române",
+      "categorie": "Alte instituții publice de sănătate"
+    },
+    {
+      "nume": "Agenția Națională Antidrog",
+      "sector": 3,
+      "anul_infiintarii": "2003",
+      "subordonare": "Ministerului Afacerilor Interne",
+      "categorie": "Alte instituții publice de sănătate"
+    },
+    {
+      "nume": "Institutul Național de Medicină Legală „Prof. Dr. Mina Minovici”",
+      "sector": 4,
+      "anul_infiintarii": "1892",
+      "subordonare": "Ministerului Sănătății",
+      "categorie": "Alte instituții publice de sănătate"
+    },
+    {
+      "nume": "Institutul Național de Cercetare-Dezvoltare în Domeniul Patologiei și Științelor Biomedicale „Victor Babeș”",
+      "sector": 5,
+      "anul_infiintarii": "1887",
+      "subordonare": "Ministerului Educației și Cercetării Științifice",
+      "categorie": "Alte instituții publice de sănătate"
+    },
+    {
+      "nume": "Institutul Național de Statistică",
+      "sector": 5,
+      "anul_infiintarii": "2009",
+      "subordonare": "Ministerului Sănătății",
+      "categorie": "Alte instituții publice de sănătate"
+    },
+    {
+      "nume": "Institutul Național de Medicină Complementară și Alternativă București",
+      "sector": 5,
+      "anul_infiintarii": "2007",
+      "subordonare": "Ministerului Sănătății",
+      "categorie": "Alte instituții publice de sănătate"
+    },
+    {
+      "nume": "Institutul Național de Sănătate Publică",
+      "sector": 5,
+      "anul_infiintarii": "2009",
+      "subordonare": "Ministerului Sănătății",
+      "categorie": "Alte instituții publice de sănătate"
+    },
+    {
+      "nume": "Institutul Național de Expertiză Medicală și Recuperare a Capacității de Muncă",
+      "sector": 5,
+      "anul_infiintarii": "1950",
+      "subordonare": "Casei Naționale de Pensii Publice",
+      "categorie": "Alte instituții publice de sănătate"
+    },
+    {
+      "nume": "Institutul Național de Expertize Criminalistice",
+      "sector": 5,
+      "anul_infiintarii": "1998",
+      "subordonare": "Ministerului Justiției",
+      "categorie": "Alte instituții publice de sănătate"
+    }
+  ],
+  "meta": {
+    "title": "Spitale și instituții publice de sănătate din București - Free Download",
+    "description": "Spitalele și instituțiile publice de sănătate din București: sector, anul înființării, autoritatea în subordinea căreia se află și tipul unității. Contains 95 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Spitale și instituții publice de sănătate din București | ListBase",
+    "seo_description": "Download Spitale și instituții publice de sănătate din București — 95 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 95 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Listă_de_spitale_și_instituții_publice_de_sănătate_din_București"
+    ]
+  }
+}
