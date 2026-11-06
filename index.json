@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-06T02:38:44.405Z",
-  "total_datasets": 479,
-  "total_records": 166949,
+  "generated": "2026-11-06T02:38:53.745Z",
+  "total_datasets": 480,
+  "total_records": 166971,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 3
+      "dataset_count": 4
     }
   ],
   "datasets": [
@@ -15608,6 +15608,32 @@
         "xlsx": {
           "name": "ro-unitati-masura-vechi_RO.xlsx",
           "size": 10527
+        }
+      }
+    },
+    {
+      "id": "ro-unitati-si-derivate",
+      "name": "Unități SI derivate",
+      "category": "units",
+      "record_count": 22,
+      "columns": [
+        "marime",
+        "denumire",
+        "simbol",
+        "expresie_alte",
+        "expresie_fundamentale"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Sistemul_internațional_de_unități",
+      "updated": "2026-11",
+      "size": 5769,
+      "files": {
+        "csv": {
+          "name": "ro-unitati-si-derivate_RO.csv",
+          "size": 1591
+        },
+        "xlsx": {
+          "name": "ro-unitati-si-derivate_RO.xlsx",
+          "size": 7962
         }
       }
     },

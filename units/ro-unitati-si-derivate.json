@@ -1,0 +1,205 @@
+{
+  "id": "ro-unitati-si-derivate",
+  "name": "Unități SI derivate",
+  "title": "Unități SI derivate",
+  "description": "Unități derivate ale SI cu denumire, simbol și expresie în unități fundamentale.",
+  "category": "units",
+  "source": "https://ro.wikipedia.org/wiki/Sistemul_internațional_de_unități",
+  "source_url": "https://ro.wikipedia.org/wiki/Sistemul_internațional_de_unități",
+  "updated": "2026-11",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "marime",
+      "label": "Marime",
+      "type": "string"
+    },
+    {
+      "key": "denumire",
+      "label": "Denumire",
+      "type": "string"
+    },
+    {
+      "key": "simbol",
+      "label": "Simbol",
+      "type": "string"
+    },
+    {
+      "key": "expresie_alte",
+      "label": "Expresie Alte",
+      "type": "string"
+    },
+    {
+      "key": "expresie_fundamentale",
+      "label": "Expresie Fundamentale",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "marime": "unghi plan",
+      "denumire": "radian (b)",
+      "simbol": "rad",
+      "expresie_alte": "1 (b)",
+      "expresie_fundamentale": "m m −1"
+    },
+    {
+      "marime": "unghi solid",
+      "denumire": "steradian (b)",
+      "simbol": "sr (c)",
+      "expresie_alte": "1 (b)",
+      "expresie_fundamentale": "m 2 m −2"
+    },
+    {
+      "marime": "frecvență",
+      "denumire": "hertz (d)",
+      "simbol": "Hz",
+      "expresie_alte": "",
+      "expresie_fundamentale": "s −1"
+    },
+    {
+      "marime": "forță",
+      "denumire": "newton",
+      "simbol": "N",
+      "expresie_alte": "",
+      "expresie_fundamentale": "m kg s −2"
+    },
+    {
+      "marime": "presiune, tensiune mecanică",
+      "denumire": "pascal",
+      "simbol": "Pa",
+      "expresie_alte": "N m −2",
+      "expresie_fundamentale": "kg m −1 s −2"
+    },
+    {
+      "marime": "energie, lucru mecanic, cantitate de căldură",
+      "denumire": "joule",
+      "simbol": "J",
+      "expresie_alte": "N m",
+      "expresie_fundamentale": "kg m 2 s −2"
+    },
+    {
+      "marime": "putere, flux energetic",
+      "denumire": "watt",
+      "simbol": "W",
+      "expresie_alte": "J s −1",
+      "expresie_fundamentale": "kg m 2 s −3"
+    },
+    {
+      "marime": "sarcină electrică, cantitate de electricitate",
+      "denumire": "coulomb",
+      "simbol": "C",
+      "expresie_alte": "",
+      "expresie_fundamentale": "A s"
+    },
+    {
+      "marime": "diferență de potențial electric (tensiune) tensiune electromotoare",
+      "denumire": "volt",
+      "simbol": "V",
+      "expresie_alte": "J C −1",
+      "expresie_fundamentale": "kg m 2 A −1 s −3"
+    },
+    {
+      "marime": "capacitate electrică",
+      "denumire": "farad",
+      "simbol": "F",
+      "expresie_alte": "C V −1",
+      "expresie_fundamentale": "A 2 s 4 kg −1 m −2"
+    },
+    {
+      "marime": "rezistență electrică",
+      "denumire": "ohm",
+      "simbol": "Ω",
+      "expresie_alte": "V A −1",
+      "expresie_fundamentale": "kg m 2 A −2 s −3"
+    },
+    {
+      "marime": "conductanță electrică",
+      "denumire": "siemens",
+      "simbol": "S",
+      "expresie_alte": "A V −1",
+      "expresie_fundamentale": "A 2 s 3 kg −1 m −2"
+    },
+    {
+      "marime": "flux de inducție magnetică",
+      "denumire": "weber",
+      "simbol": "Wb",
+      "expresie_alte": "V s",
+      "expresie_fundamentale": "kg m 2 A −1 s −2"
+    },
+    {
+      "marime": "inducție magnetică",
+      "denumire": "tesla",
+      "simbol": "T",
+      "expresie_alte": "V s m −2",
+      "expresie_fundamentale": "kg A −1 s −2"
+    },
+    {
+      "marime": "inductanță",
+      "denumire": "henry",
+      "simbol": "H",
+      "expresie_alte": "V s A −1",
+      "expresie_fundamentale": "kg m 2 s −2 A −2"
+    },
+    {
+      "marime": "temperatură Celsius",
+      "denumire": "grad Celsius (e)",
+      "simbol": "°C",
+      "expresie_alte": "",
+      "expresie_fundamentale": "K"
+    },
+    {
+      "marime": "flux luminos",
+      "denumire": "lumen",
+      "simbol": "lm",
+      "expresie_alte": "",
+      "expresie_fundamentale": "cd sr"
+    },
+    {
+      "marime": "iluminare",
+      "denumire": "lux",
+      "simbol": "",
+      "expresie_alte": "lx",
+      "expresie_fundamentale": "m −2 lm"
+    },
+    {
+      "marime": "activitate (a unui radionuclid) ‡ (f)",
+      "denumire": "becquerel (d)",
+      "simbol": "Bq",
+      "expresie_alte": "",
+      "expresie_fundamentale": "s −1"
+    },
+    {
+      "marime": "doză absorbită, energie masică comunicată masică, kerma ‡",
+      "denumire": "gray",
+      "simbol": "Gy",
+      "expresie_alte": "J kg −1",
+      "expresie_fundamentale": "m 2 s −2"
+    },
+    {
+      "marime": "echivalent al dozei absorbite ‡ (ambiantă, direcțională, individuală)",
+      "denumire": "sievert (g)",
+      "simbol": "Sv",
+      "expresie_alte": "J kg −1",
+      "expresie_fundamentale": "m 2 s −2"
+    },
+    {
+      "marime": "activitate catalitică †",
+      "denumire": "katal",
+      "simbol": "kat",
+      "expresie_alte": "",
+      "expresie_fundamentale": "mol s −1"
+    }
+  ],
+  "meta": {
+    "title": "Unități SI derivate - Free Download",
+    "description": "Unități derivate ale SI cu denumire, simbol și expresie în unități fundamentale. Contains 22 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Unități SI derivate | ListBase",
+    "seo_description": "Download Unități SI derivate — 22 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 22 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Sistemul_internațional_de_unități"
+    ]
+  }
+}
