@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-06T02:39:15.220Z",
-  "total_datasets": 482,
-  "total_records": 167087,
+  "generated": "2026-11-06T02:39:23.407Z",
+  "total_datasets": 483,
+  "total_records": 167115,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 47
+      "dataset_count": 48
     },
     {
       "id": "entertainment",
@@ -1546,6 +1546,33 @@
         "xlsx": {
           "name": "ro-universitati_RO.xlsx",
           "size": 10447
+        }
+      }
+    },
+    {
+      "id": "ro-universitati-desfiintate",
+      "name": "Universități desființate din România",
+      "category": "education",
+      "record_count": 28,
+      "columns": [
+        "nume",
+        "oras",
+        "tip",
+        "infiintata",
+        "inchisa",
+        "motiv"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Lista_universităților_din_România",
+      "updated": "2026-11",
+      "size": 7355,
+      "files": {
+        "csv": {
+          "name": "ro-universitati-desfiintate_RO.csv",
+          "size": 2621
+        },
+        "xlsx": {
+          "name": "ro-universitati-desfiintate_RO.xlsx",
+          "size": 8269
         }
       }
     },

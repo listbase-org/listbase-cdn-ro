@@ -1,0 +1,280 @@
+{
+  "id": "ro-universitati-desfiintate",
+  "name": "Universități desființate din România",
+  "title": "Universități desființate din România",
+  "description": "Universități din România care au fost desființate sau fuzionate, cu anii de funcționare și motivul.",
+  "category": "education",
+  "source": "https://ro.wikipedia.org/wiki/Lista_universităților_din_România",
+  "source_url": "https://ro.wikipedia.org/wiki/Lista_universităților_din_România",
+  "updated": "2026-11",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "oras",
+      "label": "Oras",
+      "type": "string"
+    },
+    {
+      "key": "tip",
+      "label": "Tip",
+      "type": "string"
+    },
+    {
+      "key": "infiintata",
+      "label": "Infiintata",
+      "type": "number"
+    },
+    {
+      "key": "inchisa",
+      "label": "Inchisa",
+      "type": "number"
+    },
+    {
+      "key": "motiv",
+      "label": "Motiv",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "Universitatea \"Petru Maior\"",
+      "oras": "Târgu Mureș",
+      "tip": "Publică",
+      "infiintata": 1996,
+      "inchisa": 2018,
+      "motiv": "Fuziune prin absorbție de Universitatea de Medicină din Târgu Mureș"
+    },
+    {
+      "nume": "Institutul Teologic Romano-Catolic",
+      "oras": "Alba Iulia",
+      "tip": "Privată",
+      "infiintata": "",
+      "inchisa": 2007,
+      "motiv": "Absorbită de Universitatea Babeș-Bolyai"
+    },
+    {
+      "nume": "Universitatea de Nord",
+      "oras": "Baia Mare",
+      "tip": "Publică",
+      "infiintata": 1990,
+      "inchisa": 2011,
+      "motiv": "Absorbită de Universitatea Tehnică din Cluj-Napoca"
+    },
+    {
+      "nume": "Academia \"Ștefan Gheorghiu\"",
+      "oras": "București",
+      "tip": "Publică",
+      "infiintata": 1945,
+      "inchisa": 1989,
+      "motiv": "Clădirile au fost preluate de SNSPA și Universitatea din București"
+    },
+    {
+      "nume": "Institutul Teologic Romano-Catolic",
+      "oras": "București",
+      "tip": "Privată",
+      "infiintata": 1991,
+      "inchisa": 2014,
+      "motiv": "S-a transformat în seminar teologic fără acreditare universitară."
+    },
+    {
+      "nume": "Universitatea Financiar-Bancară",
+      "oras": "București",
+      "tip": "Privată",
+      "infiintata": 2009,
+      "inchisa": 2014,
+      "motiv": "Radiată"
+    },
+    {
+      "nume": "Universitatea \"Mihail Kogălniceanu\"",
+      "oras": "Iași",
+      "tip": "Privată",
+      "infiintata": 1990,
+      "inchisa": 2014,
+      "motiv": "Radiată"
+    },
+    {
+      "nume": "Universitatea „Gheorghe Zane”",
+      "oras": "Iași",
+      "tip": "Privată",
+      "infiintata": 1996,
+      "inchisa": 2013,
+      "motiv": "Radiată"
+    },
+    {
+      "nume": "Universitatea \"Mihai Eminescu\"",
+      "oras": "Timișoara",
+      "tip": "Privată",
+      "infiintata": 1992,
+      "inchisa": 2014,
+      "motiv": "Radiată"
+    },
+    {
+      "nume": "Universitatea Română de Științe și Arte \"Gheorghe Cristea\"",
+      "oras": "București",
+      "tip": "Privată",
+      "infiintata": 1990,
+      "inchisa": 2020,
+      "motiv": "Radiată"
+    },
+    {
+      "nume": "Universitatea \"George Barițiu\"",
+      "oras": "Brașov",
+      "tip": "Privată",
+      "infiintata": 2002,
+      "inchisa": 2017,
+      "motiv": "Radiată"
+    },
+    {
+      "nume": "Universitatea \"Mihai Viteazul\"",
+      "oras": "Craiova",
+      "tip": "Privată",
+      "infiintata": 2009,
+      "inchisa": 2013,
+      "motiv": "Radiată"
+    },
+    {
+      "nume": "Universitatea \"Alma Mater\"",
+      "oras": "Sibiu",
+      "tip": "Privată",
+      "infiintata": 2005,
+      "inchisa": "",
+      "motiv": "Radiată"
+    },
+    {
+      "nume": "Universitatea Europei de Sud-Est Lumina",
+      "oras": "București",
+      "tip": "Privată",
+      "infiintata": 2010,
+      "inchisa": 2016,
+      "motiv": "Radiată"
+    },
+    {
+      "nume": "Universitatea Tehnică",
+      "oras": "Baia Mare",
+      "tip": "Publică",
+      "infiintata": 1990,
+      "inchisa": 2013,
+      "motiv": "Absorbită de Universitatea Tehnică din Cluj-Napoca"
+    },
+    {
+      "nume": "Universitatea din Pitești",
+      "oras": "Pitești",
+      "tip": "Publică",
+      "infiintata": 1962,
+      "inchisa": 2023,
+      "motiv": "Absorbită de UNSTPB"
+    },
+    {
+      "nume": "Școala Normală Superioară",
+      "oras": "București",
+      "tip": "Privată",
+      "infiintata": 2001,
+      "inchisa": "",
+      "motiv": "Absorbită de Universitatea din București"
+    },
+    {
+      "nume": "Universitatea de Arte „Vatra”",
+      "oras": "Baia Mare",
+      "tip": "",
+      "infiintata": 2002,
+      "inchisa": "",
+      "motiv": "Radiată"
+    },
+    {
+      "nume": "Institutul Teologic Greco-Catolic „Bunavestire”",
+      "oras": "Blaj",
+      "tip": "",
+      "infiintata": "",
+      "inchisa": "",
+      "motiv": "Absorbită de Universitatea Babeș-Bolyai"
+    },
+    {
+      "nume": "Universitatea Populară „Sextil Pușcariu”",
+      "oras": "Brașov",
+      "tip": "",
+      "infiintata": 1919,
+      "inchisa": "",
+      "motiv": ""
+    },
+    {
+      "nume": "Universitatea „Avram Iancu”",
+      "oras": "Cluj-Napoca",
+      "tip": "",
+      "infiintata": 1992,
+      "inchisa": "",
+      "motiv": ""
+    },
+    {
+      "nume": "Institutul Teologic Romano-Catolic „Sfântul Iosif”",
+      "oras": "Iași",
+      "tip": "",
+      "infiintata": 1886,
+      "inchisa": "",
+      "motiv": ""
+    },
+    {
+      "nume": "Institutul Teologic Romano-Catolic Franciscan",
+      "oras": "Roman",
+      "tip": "",
+      "infiintata": 1990,
+      "inchisa": "",
+      "motiv": ""
+    },
+    {
+      "nume": "Universitatea Româno-Germană",
+      "oras": "Sibiu",
+      "tip": "",
+      "infiintata": 1989,
+      "inchisa": 2021,
+      "motiv": ""
+    },
+    {
+      "nume": "Universitatea Creștină Dimitrie Cantemir din Timișoara",
+      "oras": "Timișoara",
+      "tip": "",
+      "infiintata": 2002,
+      "inchisa": "",
+      "motiv": ""
+    },
+    {
+      "nume": "Academia Comercială",
+      "oras": "Satu Mare",
+      "tip": "",
+      "infiintata": 1997,
+      "inchisa": "",
+      "motiv": ""
+    },
+    {
+      "nume": "Universitatea Tehnică „Gabor Denes”",
+      "oras": "Târgu Mureș",
+      "tip": "",
+      "infiintata": "",
+      "inchisa": "",
+      "motiv": ""
+    },
+    {
+      "nume": "Universitatea Ecologică „Traian”",
+      "oras": "Deva",
+      "tip": "",
+      "infiintata": "",
+      "inchisa": "",
+      "motiv": ""
+    }
+  ],
+  "meta": {
+    "title": "Universități desființate din România - Free Download",
+    "description": "Universități din România care au fost desființate sau fuzionate, cu anii de funcționare și motivul. Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Universități desființate din România | ListBase",
+    "seo_description": "Download Universități desființate din România — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Lista_universităților_din_România"
+    ]
+  }
+}
