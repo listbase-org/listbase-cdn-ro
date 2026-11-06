@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-05T02:11:38.015Z",
-  "total_datasets": 477,
-  "total_records": 166757,
+  "generated": "2026-11-06T02:38:35.029Z",
+  "total_datasets": 478,
+  "total_records": 166942,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 1
+      "dataset_count": 2
     }
   ],
   "datasets": [
@@ -15549,6 +15549,34 @@
         "xlsx": {
           "name": "ro-vrancea-unlocode_RO.xlsx",
           "size": 8370
+        }
+      }
+    },
+    {
+      "id": "ro-unitati-de-masura",
+      "name": "Unități de măsură (CLDR română)",
+      "category": "units",
+      "record_count": 185,
+      "columns": [
+        "unit_code",
+        "categorie",
+        "nume",
+        "singular",
+        "plural",
+        "scurt",
+        "ingust"
+      ],
+      "source": "https://github.com/unicode-org/cldr",
+      "updated": "2026-11",
+      "size": 45602,
+      "files": {
+        "csv": {
+          "name": "ro-unitati-de-masura_RO.csv",
+          "size": 18782
+        },
+        "xlsx": {
+          "name": "ro-unitati-de-masura_RO.xlsx",
+          "size": 16185
         }
       }
     },

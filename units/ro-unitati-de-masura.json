@@ -1,0 +1,1726 @@
+{
+  "id": "ro-unitati-de-masura",
+  "name": "Unități de măsură (CLDR română)",
+  "title": "Unități de măsură (CLDR română)",
+  "description": "Unități de măsură cu denumiri și tipare în română din CLDR units.json (long/short/narrow).",
+  "category": "units",
+  "source": "https://github.com/unicode-org/cldr",
+  "source_url": "https://github.com/unicode-org/cldr",
+  "updated": "2026-11",
+  "record_count": 185,
+  "columns": [
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "categorie",
+      "label": "Categorie",
+      "type": "string"
+    },
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "singular",
+      "label": "Singular",
+      "type": "string"
+    },
+    {
+      "key": "plural",
+      "label": "Plural",
+      "type": "string"
+    },
+    {
+      "key": "scurt",
+      "label": "Scurt",
+      "type": "string"
+    },
+    {
+      "key": "ingust",
+      "label": "Ingust",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "unit_code": "acceleration-g-force",
+      "categorie": "acceleration",
+      "nume": "forță g",
+      "singular": "{0} forță g",
+      "plural": "{0} forță g",
+      "scurt": "{0} G",
+      "ingust": "{0} G"
+    },
+    {
+      "unit_code": "acceleration-meter-per-square-second",
+      "categorie": "acceleration",
+      "nume": "metri pe secundă la pătrat",
+      "singular": "{0} metru pe secundă la pătrat",
+      "plural": "{0} de metri pe secundă la pătrat",
+      "scurt": "{0} m/s²",
+      "ingust": "{0} m/s²"
+    },
+    {
+      "unit_code": "angle-arc-minute",
+      "categorie": "angle",
+      "nume": "minute de arc",
+      "singular": "{0} minut de arc",
+      "plural": "{0} de minute de arc",
+      "scurt": "{0} arcmin",
+      "ingust": "{0}′"
+    },
+    {
+      "unit_code": "angle-arc-second",
+      "categorie": "angle",
+      "nume": "secunde de arc",
+      "singular": "{0} secundă de arc",
+      "plural": "{0} de secunde de arc",
+      "scurt": "{0} arcsec",
+      "ingust": "{0}″"
+    },
+    {
+      "unit_code": "angle-degree",
+      "categorie": "angle",
+      "nume": "grade",
+      "singular": "{0} grad",
+      "plural": "{0} de grade",
+      "scurt": "{0}°",
+      "ingust": "{0}°"
+    },
+    {
+      "unit_code": "angle-radian",
+      "categorie": "angle",
+      "nume": "radiani",
+      "singular": "{0} radian",
+      "plural": "{0} de radiani",
+      "scurt": "{0} rad",
+      "ingust": "{0} rad"
+    },
+    {
+      "unit_code": "angle-revolution",
+      "categorie": "angle",
+      "nume": "revoluție",
+      "singular": "{0} revoluție",
+      "plural": "{0} de revoluții",
+      "scurt": "{0} rev.",
+      "ingust": "{0} rev."
+    },
+    {
+      "unit_code": "area-acre",
+      "categorie": "area",
+      "nume": "acri",
+      "singular": "{0} acru",
+      "plural": "{0} de acri",
+      "scurt": "{0} ac.",
+      "ingust": "{0} ac."
+    },
+    {
+      "unit_code": "area-dunam",
+      "categorie": "area",
+      "nume": "dunami",
+      "singular": "{0} dunam",
+      "plural": "{0} de dunami",
+      "scurt": "{0} dunami",
+      "ingust": "{0} dunami"
+    },
+    {
+      "unit_code": "area-hectare",
+      "categorie": "area",
+      "nume": "hectare",
+      "singular": "{0} hectar",
+      "plural": "{0} de hectare",
+      "scurt": "{0} ha",
+      "ingust": "{0} ha"
+    },
+    {
+      "unit_code": "area-square-centimeter",
+      "categorie": "area",
+      "nume": "centimetri pătrați",
+      "singular": "{0} centimetru pătrat",
+      "plural": "{0} de centimetri pătrați",
+      "scurt": "{0} cm²",
+      "ingust": "{0} cm²"
+    },
+    {
+      "unit_code": "area-square-foot",
+      "categorie": "area",
+      "nume": "picioare pătrate",
+      "singular": "{0} picior pătrat",
+      "plural": "{0} de picioare pătrate",
+      "scurt": "{0} ft²",
+      "ingust": "{0} ft²"
+    },
+    {
+      "unit_code": "area-square-inch",
+      "categorie": "area",
+      "nume": "inchi pătrați",
+      "singular": "{0} inch pătrat",
+      "plural": "{0} de inchi pătrați",
+      "scurt": "{0} in²",
+      "ingust": "{0} in²"
+    },
+    {
+      "unit_code": "area-square-kilometer",
+      "categorie": "area",
+      "nume": "kilometri pătrați",
+      "singular": "{0} kilometru pătrat",
+      "plural": "{0} de kilometri pătrați",
+      "scurt": "{0} km²",
+      "ingust": "{0} km²"
+    },
+    {
+      "unit_code": "area-square-meter",
+      "categorie": "area",
+      "nume": "metri pătrați",
+      "singular": "{0} metru pătrat",
+      "plural": "{0} de metri pătrați",
+      "scurt": "{0} m²",
+      "ingust": "{0} m²"
+    },
+    {
+      "unit_code": "area-square-mile",
+      "categorie": "area",
+      "nume": "mile pătrate",
+      "singular": "{0} milă pătrată",
+      "plural": "{0} de mile pătrate",
+      "scurt": "{0} mi²",
+      "ingust": "{0} mi²"
+    },
+    {
+      "unit_code": "area-square-yard",
+      "categorie": "area",
+      "nume": "iarzi pătrați",
+      "singular": "{0} iard pătrat",
+      "plural": "{0} de iarzi pătrați",
+      "scurt": "{0} yd²",
+      "ingust": "{0} yd²"
+    },
+    {
+      "unit_code": "concentr-item",
+      "categorie": "concentr",
+      "nume": "item",
+      "singular": "{0} de itemi",
+      "plural": "{0} de itemi",
+      "scurt": "{0} de itemi",
+      "ingust": "{0} itemi"
+    },
+    {
+      "unit_code": "concentr-karat",
+      "categorie": "concentr",
+      "nume": "carate",
+      "singular": "{0} carat",
+      "plural": "{0} de carate",
+      "scurt": "{0} kt",
+      "ingust": "{0} kt"
+    },
+    {
+      "unit_code": "concentr-milligram-ofglucose-per-deciliter",
+      "categorie": "concentr",
+      "nume": "miligrame pe decilitru",
+      "singular": "{0} miligram pe decilitru",
+      "plural": "{0} de miligrame pe decilitru",
+      "scurt": "{0} mg/dl",
+      "ingust": "{0} mg/dl"
+    },
+    {
+      "unit_code": "concentr-millimole-per-liter",
+      "categorie": "concentr",
+      "nume": "milimoli pe litru",
+      "singular": "{0} milimol pe litru",
+      "plural": "{0} de milimoli pe litru",
+      "scurt": "{0} mmol/l",
+      "ingust": "{0} mmol/l"
+    },
+    {
+      "unit_code": "concentr-mole",
+      "categorie": "concentr",
+      "nume": "moli",
+      "singular": "{0} mol",
+      "plural": "{0} de moli",
+      "scurt": "{0} moli",
+      "ingust": "{0} moli"
+    },
+    {
+      "unit_code": "concentr-percent",
+      "categorie": "concentr",
+      "nume": "procent",
+      "singular": "{0} procent",
+      "plural": "{0} de procente",
+      "scurt": "{0}%",
+      "ingust": "{0}%"
+    },
+    {
+      "unit_code": "concentr-permille",
+      "categorie": "concentr",
+      "nume": "promilă",
+      "singular": "{0} promilă",
+      "plural": "{0} de promile",
+      "scurt": "{0}‰",
+      "ingust": "{0} ‰"
+    },
+    {
+      "unit_code": "concentr-permillion",
+      "categorie": "concentr",
+      "nume": "părți pe milion",
+      "singular": "{0} parte pe milion",
+      "plural": "{0} de părți pe milion",
+      "scurt": "{0} ppm",
+      "ingust": "{0} ppm"
+    },
+    {
+      "unit_code": "concentr-permyriad",
+      "categorie": "concentr",
+      "nume": "‱",
+      "singular": "{0} la zece mii",
+      "plural": "{0} la zece mii",
+      "scurt": "{0}‱",
+      "ingust": "{0} ‱"
+    },
+    {
+      "unit_code": "consumption-liter-per-100-kilometer",
+      "categorie": "consumption",
+      "nume": "litri la suta de kilometri",
+      "singular": "{0} litru la suta de kilometri",
+      "plural": "{0} de litri la suta de kilometri",
+      "scurt": "{0} l/100 km",
+      "ingust": "{0} l/100 km"
+    },
+    {
+      "unit_code": "consumption-liter-per-kilometer",
+      "categorie": "consumption",
+      "nume": "litri pe kilometru",
+      "singular": "{0} litru pe kilometru",
+      "plural": "{0} de litri pe kilometru",
+      "scurt": "{0} l/km",
+      "ingust": "{0} l/km"
+    },
+    {
+      "unit_code": "consumption-mile-per-gallon",
+      "categorie": "consumption",
+      "nume": "mile pe galon",
+      "singular": "{0} milă pe galon",
+      "plural": "{0} de mile pe galon",
+      "scurt": "{0} mile/gal.",
+      "ingust": "{0} mi/gal"
+    },
+    {
+      "unit_code": "consumption-mile-per-gallon-imperial",
+      "categorie": "consumption",
+      "nume": "mile pe galon imperial",
+      "singular": "{0} milă pe galon imperial",
+      "plural": "{0} de mile pe galon imperial",
+      "scurt": "{0} mi/gal imp.",
+      "ingust": "{0} mi/gal imp."
+    },
+    {
+      "unit_code": "coordinateUnit",
+      "categorie": "coordinateUnit",
+      "nume": "punct cardinal",
+      "singular": "",
+      "plural": "",
+      "scurt": "",
+      "ingust": ""
+    },
+    {
+      "unit_code": "digital-bit",
+      "categorie": "digital",
+      "nume": "biți",
+      "singular": "{0} bit",
+      "plural": "{0} de biți",
+      "scurt": "{0} b",
+      "ingust": "{0} b"
+    },
+    {
+      "unit_code": "digital-byte",
+      "categorie": "digital",
+      "nume": "byți",
+      "singular": "{0} byte",
+      "plural": "{0} de byți",
+      "scurt": "{0} B",
+      "ingust": "{0} B"
+    },
+    {
+      "unit_code": "digital-gigabit",
+      "categorie": "digital",
+      "nume": "gigabiți",
+      "singular": "{0} gigabit",
+      "plural": "{0} de gigabiți",
+      "scurt": "{0} Gb",
+      "ingust": "{0} Gb"
+    },
+    {
+      "unit_code": "digital-gigabyte",
+      "categorie": "digital",
+      "nume": "gigabyți",
+      "singular": "{0} gigabyte",
+      "plural": "{0} de gigabyți",
+      "scurt": "{0} GB",
+      "ingust": "{0} GB"
+    },
+    {
+      "unit_code": "digital-kilobit",
+      "categorie": "digital",
+      "nume": "kilobiți",
+      "singular": "{0} kilobit",
+      "plural": "{0} de kilobiți",
+      "scurt": "{0} kb",
+      "ingust": "{0} kb"
+    },
+    {
+      "unit_code": "digital-kilobyte",
+      "categorie": "digital",
+      "nume": "kilobyți",
+      "singular": "{0} kilobyte",
+      "plural": "{0} de kilobyți",
+      "scurt": "{0} kB",
+      "ingust": "{0} kB"
+    },
+    {
+      "unit_code": "digital-megabit",
+      "categorie": "digital",
+      "nume": "megabiți",
+      "singular": "{0} megabit",
+      "plural": "{0} de megabiți",
+      "scurt": "{0} Mb",
+      "ingust": "{0} Mb"
+    },
+    {
+      "unit_code": "digital-megabyte",
+      "categorie": "digital",
+      "nume": "megabyți",
+      "singular": "{0} megabyte",
+      "plural": "{0} de megabyți",
+      "scurt": "{0} MB",
+      "ingust": "{0} MB"
+    },
+    {
+      "unit_code": "digital-petabyte",
+      "categorie": "digital",
+      "nume": "petabyți",
+      "singular": "{0} petabyte",
+      "plural": "{0} de petabyți",
+      "scurt": "{0} PB",
+      "ingust": "{0} PB"
+    },
+    {
+      "unit_code": "digital-terabit",
+      "categorie": "digital",
+      "nume": "terabiți",
+      "singular": "{0} terabit",
+      "plural": "{0} de terabiți",
+      "scurt": "{0} Tb",
+      "ingust": "{0} Tb"
+    },
+    {
+      "unit_code": "digital-terabyte",
+      "categorie": "digital",
+      "nume": "terabyți",
+      "singular": "{0} terabyte",
+      "plural": "{0} de terabyți",
+      "scurt": "{0} TB",
+      "ingust": "{0} TB"
+    },
+    {
+      "unit_code": "duration-century",
+      "categorie": "duration",
+      "nume": "secole",
+      "singular": "{0} secol",
+      "plural": "{0} de secole",
+      "scurt": "{0} sec.",
+      "ingust": "{0} sec."
+    },
+    {
+      "unit_code": "duration-day",
+      "categorie": "duration",
+      "nume": "zile",
+      "singular": "{0} zi",
+      "plural": "{0} de zile",
+      "scurt": "{0} zile",
+      "ingust": "{0} z"
+    },
+    {
+      "unit_code": "duration-decade",
+      "categorie": "duration",
+      "nume": "decenii",
+      "singular": "{0} deceniu",
+      "plural": "{0} de decenii",
+      "scurt": "{0} dec.",
+      "ingust": "{0} dec."
+    },
+    {
+      "unit_code": "duration-hour",
+      "categorie": "duration",
+      "nume": "ore",
+      "singular": "{0} oră",
+      "plural": "{0} de ore",
+      "scurt": "{0} ore",
+      "ingust": "{0} h"
+    },
+    {
+      "unit_code": "duration-microsecond",
+      "categorie": "duration",
+      "nume": "microsecunde",
+      "singular": "{0} microsecundă",
+      "plural": "{0} de microsecunde",
+      "scurt": "{0} μs",
+      "ingust": "{0} μs"
+    },
+    {
+      "unit_code": "duration-millisecond",
+      "categorie": "duration",
+      "nume": "milisecunde",
+      "singular": "{0} milisecundă",
+      "plural": "{0} de milisecunde",
+      "scurt": "{0} ms",
+      "ingust": "{0} ms"
+    },
+    {
+      "unit_code": "duration-minute",
+      "categorie": "duration",
+      "nume": "minute",
+      "singular": "{0} minut",
+      "plural": "{0} de minute",
+      "scurt": "{0} min.",
+      "ingust": "{0} m"
+    },
+    {
+      "unit_code": "duration-month",
+      "categorie": "duration",
+      "nume": "luni",
+      "singular": "{0} lună",
+      "plural": "{0} de luni",
+      "scurt": "{0} luni",
+      "ingust": "{0} l"
+    },
+    {
+      "unit_code": "duration-nanosecond",
+      "categorie": "duration",
+      "nume": "nanosecunde",
+      "singular": "{0} nanosecundă",
+      "plural": "{0} de nanosecunde",
+      "scurt": "{0} ns",
+      "ingust": "{0} ns"
+    },
+    {
+      "unit_code": "duration-quarter",
+      "categorie": "duration",
+      "nume": "trimestre",
+      "singular": "{0} trimestru",
+      "plural": "{0} de trimestre",
+      "scurt": "{0} trim.",
+      "ingust": "{0} trim."
+    },
+    {
+      "unit_code": "duration-second",
+      "categorie": "duration",
+      "nume": "secunde",
+      "singular": "{0} secundă",
+      "plural": "{0} de secunde",
+      "scurt": "{0} s",
+      "ingust": "{0} s"
+    },
+    {
+      "unit_code": "duration-week",
+      "categorie": "duration",
+      "nume": "săptămâni",
+      "singular": "{0} săptămână",
+      "plural": "{0} de săptămâni",
+      "scurt": "{0} săpt.",
+      "ingust": "{0} săpt."
+    },
+    {
+      "unit_code": "duration-year",
+      "categorie": "duration",
+      "nume": "ani",
+      "singular": "{0} an",
+      "plural": "{0} de ani",
+      "scurt": "{0} ani",
+      "ingust": "{0} a"
+    },
+    {
+      "unit_code": "electric-ampere",
+      "categorie": "electric",
+      "nume": "amperi",
+      "singular": "{0} amper",
+      "plural": "{0} de amperi",
+      "scurt": "{0} A",
+      "ingust": "{0} A"
+    },
+    {
+      "unit_code": "electric-milliampere",
+      "categorie": "electric",
+      "nume": "miliamperi",
+      "singular": "{0} miliamper",
+      "plural": "{0} de miliamperi",
+      "scurt": "{0} mA",
+      "ingust": "{0} mA"
+    },
+    {
+      "unit_code": "electric-ohm",
+      "categorie": "electric",
+      "nume": "ohmi",
+      "singular": "{0} ohm",
+      "plural": "{0} de ohmi",
+      "scurt": "{0} Ω",
+      "ingust": "{0} Ω"
+    },
+    {
+      "unit_code": "electric-volt",
+      "categorie": "electric",
+      "nume": "volți",
+      "singular": "{0} volt",
+      "plural": "{0} de volți",
+      "scurt": "{0} V",
+      "ingust": "{0} V"
+    },
+    {
+      "unit_code": "energy-british-thermal-unit",
+      "categorie": "energy",
+      "nume": "unități termice britanice",
+      "singular": "{0} unitate termică britanică",
+      "plural": "{0} de unități termice britanice",
+      "scurt": "{0} BTU",
+      "ingust": "{0} BTU"
+    },
+    {
+      "unit_code": "energy-calorie",
+      "categorie": "energy",
+      "nume": "calorii",
+      "singular": "{0} calorie",
+      "plural": "{0} de calorii",
+      "scurt": "{0} cal",
+      "ingust": "{0} cal"
+    },
+    {
+      "unit_code": "energy-electronvolt",
+      "categorie": "energy",
+      "nume": "electronvolți",
+      "singular": "{0} electronvolt",
+      "plural": "{0} de electronvolți",
+      "scurt": "{0} eV",
+      "ingust": "{0} eV"
+    },
+    {
+      "unit_code": "energy-foodcalorie",
+      "categorie": "energy",
+      "nume": "kilocalorii",
+      "singular": "{0} kilocalorie",
+      "plural": "{0} de kilocalorii",
+      "scurt": "",
+      "ingust": ""
+    },
+    {
+      "unit_code": "energy-joule",
+      "categorie": "energy",
+      "nume": "jouli",
+      "singular": "{0} joule",
+      "plural": "{0} de jouli",
+      "scurt": "{0} J",
+      "ingust": "{0} J"
+    },
+    {
+      "unit_code": "energy-kilocalorie",
+      "categorie": "energy",
+      "nume": "kilocalorii",
+      "singular": "{0} kilocalorie",
+      "plural": "{0} de kilocalorii",
+      "scurt": "{0} kcal",
+      "ingust": "{0} kcal"
+    },
+    {
+      "unit_code": "energy-kilojoule",
+      "categorie": "energy",
+      "nume": "kilojouli",
+      "singular": "{0} kilojoule",
+      "plural": "{0} de kilojouli",
+      "scurt": "{0} kJ",
+      "ingust": "{0} kJ"
+    },
+    {
+      "unit_code": "energy-kilowatt-hour",
+      "categorie": "energy",
+      "nume": "kilowați-oră",
+      "singular": "kilowatt-oră",
+      "plural": "{0} de kilowați-oră",
+      "scurt": "{0} kWh",
+      "ingust": "{0} kWh"
+    },
+    {
+      "unit_code": "energy-therm-us",
+      "categorie": "energy",
+      "nume": "thermi S.U.A.",
+      "singular": "{0} therm S.U.A.",
+      "plural": "{0} de thermi S.U.A.",
+      "scurt": "{0} thm",
+      "ingust": "{0} thm"
+    },
+    {
+      "unit_code": "force-kilowatt-hour-per-100-kilometer",
+      "categorie": "force",
+      "nume": "kilowatt-oră per 100 kilometri",
+      "singular": "{0} kilowatt-oră per 100 kilometri",
+      "plural": "{0} kilowați-oră per 100 kilometri",
+      "scurt": "{0} kWh/100 km",
+      "ingust": "{0}kWh/100 km"
+    },
+    {
+      "unit_code": "force-newton",
+      "categorie": "force",
+      "nume": "newtoni",
+      "singular": "{0} newton",
+      "plural": "{0} de newtoni",
+      "scurt": "{0} N",
+      "ingust": "{0} N"
+    },
+    {
+      "unit_code": "force-pound-force",
+      "categorie": "force",
+      "nume": "livre-forță",
+      "singular": "{0} livră-forță",
+      "plural": "{0} de livre-forță",
+      "scurt": "{0} lbf",
+      "ingust": "{0} lbf"
+    },
+    {
+      "unit_code": "frequency-gigahertz",
+      "categorie": "frequency",
+      "nume": "gigahertz",
+      "singular": "{0} gigahertz",
+      "plural": "{0} de gigahertzi",
+      "scurt": "{0} GHz",
+      "ingust": "{0} GHz"
+    },
+    {
+      "unit_code": "frequency-hertz",
+      "categorie": "frequency",
+      "nume": "hertz",
+      "singular": "{0} hertz",
+      "plural": "{0} de hertzi",
+      "scurt": "{0} Hz",
+      "ingust": "{0} Hz"
+    },
+    {
+      "unit_code": "frequency-kilohertz",
+      "categorie": "frequency",
+      "nume": "kilohertz",
+      "singular": "{0} kilohertz",
+      "plural": "{0} de kilohertzi",
+      "scurt": "{0} kHz",
+      "ingust": "{0} kHz"
+    },
+    {
+      "unit_code": "frequency-megahertz",
+      "categorie": "frequency",
+      "nume": "megahertz",
+      "singular": "{0} megahertz",
+      "plural": "{0} de megahertzi",
+      "scurt": "{0} MHz",
+      "ingust": "{0} MHz"
+    },
+    {
+      "unit_code": "graphics-dot",
+      "categorie": "graphics",
+      "nume": "puncte tipografice",
+      "singular": "{0} punct",
+      "plural": "{0} de puncte",
+      "scurt": "{0} pct.",
+      "ingust": "{0} pct."
+    },
+    {
+      "unit_code": "graphics-dot-per-centimeter",
+      "categorie": "graphics",
+      "nume": "puncte pe centimetru",
+      "singular": "{0} punct pe centimetru",
+      "plural": "{0} de puncte pe centimetru",
+      "scurt": "{0} dpc",
+      "ingust": "{0} dpc"
+    },
+    {
+      "unit_code": "graphics-dot-per-inch",
+      "categorie": "graphics",
+      "nume": "puncte pe inch",
+      "singular": "{0} punct pe inch",
+      "plural": "{0} de puncte pe inch",
+      "scurt": "{0} dpi",
+      "ingust": "{0} dpi"
+    },
+    {
+      "unit_code": "graphics-em",
+      "categorie": "graphics",
+      "nume": "em tipografic",
+      "singular": "{0} em",
+      "plural": "{0} em",
+      "scurt": "{0} em",
+      "ingust": "{0} em"
+    },
+    {
+      "unit_code": "graphics-megapixel",
+      "categorie": "graphics",
+      "nume": "megapixeli",
+      "singular": "{0} megapixel",
+      "plural": "{0} de megapixeli",
+      "scurt": "{0} MP",
+      "ingust": "{0} MP"
+    },
+    {
+      "unit_code": "graphics-pixel",
+      "categorie": "graphics",
+      "nume": "pixeli",
+      "singular": "{0} pixel",
+      "plural": "{0} de pixeli",
+      "scurt": "{0} px",
+      "ingust": "{0} px"
+    },
+    {
+      "unit_code": "graphics-pixel-per-centimeter",
+      "categorie": "graphics",
+      "nume": "pixeli pe centimetru",
+      "singular": "{0} pixel pe centimetru",
+      "plural": "{0} de pixeli pe centimetru",
+      "scurt": "{0} ppc",
+      "ingust": "{0} ppc"
+    },
+    {
+      "unit_code": "graphics-pixel-per-inch",
+      "categorie": "graphics",
+      "nume": "pixeli pe inch",
+      "singular": "{0} pixel pe inch",
+      "plural": "{0} de pixeli pe inch",
+      "scurt": "{0} ppi",
+      "ingust": "{0} ppi"
+    },
+    {
+      "unit_code": "length-astronomical-unit",
+      "categorie": "length",
+      "nume": "unități astronomice",
+      "singular": "{0} unitate astronomică",
+      "plural": "{0} de unități astronomice",
+      "scurt": "{0} ua",
+      "ingust": "{0} ua"
+    },
+    {
+      "unit_code": "length-centimeter",
+      "categorie": "length",
+      "nume": "centimetri",
+      "singular": "{0} centimetru",
+      "plural": "{0} de centimetri",
+      "scurt": "{0} cm",
+      "ingust": "{0} cm"
+    },
+    {
+      "unit_code": "length-decimeter",
+      "categorie": "length",
+      "nume": "decimetri",
+      "singular": "{0} decimetru",
+      "plural": "{0} de decimetri",
+      "scurt": "{0} dm",
+      "ingust": "{0} dm"
+    },
+    {
+      "unit_code": "length-earth-radius",
+      "categorie": "length",
+      "nume": "rază terestră",
+      "singular": "{0} rază terestră",
+      "plural": "{0} de raze terestre",
+      "scurt": "{0} R⊕",
+      "ingust": "{0} R⊕"
+    },
+    {
+      "unit_code": "length-fathom",
+      "categorie": "length",
+      "nume": "fathomi",
+      "singular": "{0} fathom",
+      "plural": "{0} de fathomi",
+      "scurt": "{0} fth",
+      "ingust": "{0} fth"
+    },
+    {
+      "unit_code": "length-foot",
+      "categorie": "length",
+      "nume": "picioare",
+      "singular": "{0} picior",
+      "plural": "{0} de picioare",
+      "scurt": "{0} ft",
+      "ingust": "{0} ft"
+    },
+    {
+      "unit_code": "length-furlong",
+      "categorie": "length",
+      "nume": "furlongi",
+      "singular": "{0} furlong",
+      "plural": "{0} de furlongi",
+      "scurt": "{0} fur",
+      "ingust": "{0} fur"
+    },
+    {
+      "unit_code": "length-inch",
+      "categorie": "length",
+      "nume": "inchi",
+      "singular": "{0} inch",
+      "plural": "{0} de inchi",
+      "scurt": "{0} in",
+      "ingust": "{0} in"
+    },
+    {
+      "unit_code": "length-kilometer",
+      "categorie": "length",
+      "nume": "kilometri",
+      "singular": "{0} kilometru",
+      "plural": "{0} de kilometri",
+      "scurt": "{0} km",
+      "ingust": "{0} km"
+    },
+    {
+      "unit_code": "length-light-year",
+      "categorie": "length",
+      "nume": "ani lumină",
+      "singular": "{0} an lumină",
+      "plural": "{0} de ani lumină",
+      "scurt": "{0} a.l.",
+      "ingust": "{0} a.l."
+    },
+    {
+      "unit_code": "length-meter",
+      "categorie": "length",
+      "nume": "metri",
+      "singular": "{0} metru",
+      "plural": "{0} de metri",
+      "scurt": "{0} m",
+      "ingust": "{0} m"
+    },
+    {
+      "unit_code": "length-micrometer",
+      "categorie": "length",
+      "nume": "micrometri",
+      "singular": "{0} micrometru",
+      "plural": "{0} de micrometri",
+      "scurt": "{0} μm",
+      "ingust": "{0} μm"
+    },
+    {
+      "unit_code": "length-mile",
+      "categorie": "length",
+      "nume": "mile",
+      "singular": "{0} milă",
+      "plural": "{0} de mile",
+      "scurt": "{0} mi",
+      "ingust": "{0} mi"
+    },
+    {
+      "unit_code": "length-mile-scandinavian",
+      "categorie": "length",
+      "nume": "milă scandinavă",
+      "singular": "{0} milă scandinavă",
+      "plural": "{0} de mile scandinave",
+      "scurt": "{0} smi",
+      "ingust": "{0} smi"
+    },
+    {
+      "unit_code": "length-millimeter",
+      "categorie": "length",
+      "nume": "milimetri",
+      "singular": "{0} milimetru",
+      "plural": "{0} de milimetri",
+      "scurt": "{0} mm",
+      "ingust": "{0} mm"
+    },
+    {
+      "unit_code": "length-nanometer",
+      "categorie": "length",
+      "nume": "nanometri",
+      "singular": "{0} nanometru",
+      "plural": "{0} de nanometri",
+      "scurt": "{0} nm",
+      "ingust": "{0} nm"
+    },
+    {
+      "unit_code": "length-nautical-mile",
+      "categorie": "length",
+      "nume": "mile nautice",
+      "singular": "{0} milă nautică",
+      "plural": "{0} de mile nautice",
+      "scurt": "{0} mn",
+      "ingust": "{0} mn"
+    },
+    {
+      "unit_code": "length-parsec",
+      "categorie": "length",
+      "nume": "parseci",
+      "singular": "{0} parsec",
+      "plural": "{0} de parseci",
+      "scurt": "{0} pc",
+      "ingust": "{0} pc"
+    },
+    {
+      "unit_code": "length-picometer",
+      "categorie": "length",
+      "nume": "picometri",
+      "singular": "{0} picometru",
+      "plural": "{0} de picometri",
+      "scurt": "{0} pm",
+      "ingust": "{0} pm"
+    },
+    {
+      "unit_code": "length-point",
+      "categorie": "length",
+      "nume": "puncte",
+      "singular": "{0} punct tipografic",
+      "plural": "{0} de puncte tipografice",
+      "scurt": "{0} pt",
+      "ingust": "{0} pt"
+    },
+    {
+      "unit_code": "length-solar-radius",
+      "categorie": "length",
+      "nume": "raze solare",
+      "singular": "{0} rază solară",
+      "plural": "{0} de raze solare",
+      "scurt": "{0} R☉",
+      "ingust": "{0} R☉"
+    },
+    {
+      "unit_code": "length-yard",
+      "categorie": "length",
+      "nume": "iarzi",
+      "singular": "{0} iard",
+      "plural": "{0} de iarzi",
+      "scurt": "{0} yd",
+      "ingust": "{0} yd"
+    },
+    {
+      "unit_code": "light-candela",
+      "categorie": "light",
+      "nume": "candelă",
+      "singular": "{0} candelă",
+      "plural": "{0} de candele",
+      "scurt": "{0} cd",
+      "ingust": "{0} cd"
+    },
+    {
+      "unit_code": "light-lumen",
+      "categorie": "light",
+      "nume": "lumen",
+      "singular": "{0} lumen",
+      "plural": "{0} de lumeni",
+      "scurt": "{0} lm",
+      "ingust": "{0} lm"
+    },
+    {
+      "unit_code": "light-lux",
+      "categorie": "light",
+      "nume": "lucși",
+      "singular": "{0} lux",
+      "plural": "{0} de lucși",
+      "scurt": "{0} lx",
+      "ingust": "{0} lx"
+    },
+    {
+      "unit_code": "light-solar-luminosity",
+      "categorie": "light",
+      "nume": "luminozități solare",
+      "singular": "{0} luminozitate solară",
+      "plural": "{0} de luminozități solare",
+      "scurt": "{0} L☉",
+      "ingust": "{0} L☉"
+    },
+    {
+      "unit_code": "mass-carat",
+      "categorie": "mass",
+      "nume": "carate",
+      "singular": "{0} carat",
+      "plural": "{0} de carate",
+      "scurt": "{0} ct",
+      "ingust": "{0} ct"
+    },
+    {
+      "unit_code": "mass-dalton",
+      "categorie": "mass",
+      "nume": "daltoni",
+      "singular": "{0} dalton",
+      "plural": "{0} de daltoni",
+      "scurt": "{0} Da",
+      "ingust": "{0} Da"
+    },
+    {
+      "unit_code": "mass-earth-mass",
+      "categorie": "mass",
+      "nume": "mase terestre",
+      "singular": "{0} masă terestră",
+      "plural": "{0} de mase terestre",
+      "scurt": "{0} M⊕",
+      "ingust": "{0} M⊕"
+    },
+    {
+      "unit_code": "mass-grain",
+      "categorie": "mass",
+      "nume": "boabă",
+      "singular": "{0} boabă",
+      "plural": "{0} de boabe",
+      "scurt": "{0} boabe",
+      "ingust": "{0} boabe"
+    },
+    {
+      "unit_code": "mass-gram",
+      "categorie": "mass",
+      "nume": "grame",
+      "singular": "{0} gram",
+      "plural": "{0} de grame",
+      "scurt": "{0} g",
+      "ingust": "{0} g"
+    },
+    {
+      "unit_code": "mass-kilogram",
+      "categorie": "mass",
+      "nume": "kilograme",
+      "singular": "{0} kilogram",
+      "plural": "{0} de kilograme",
+      "scurt": "{0} kg",
+      "ingust": "{0} kg"
+    },
+    {
+      "unit_code": "mass-microgram",
+      "categorie": "mass",
+      "nume": "micrograme",
+      "singular": "{0} microgram",
+      "plural": "{0} de micrograme",
+      "scurt": "{0} μg",
+      "ingust": "{0} μg"
+    },
+    {
+      "unit_code": "mass-milligram",
+      "categorie": "mass",
+      "nume": "miligrame",
+      "singular": "{0} miligram",
+      "plural": "{0} de miligrame",
+      "scurt": "{0} mg",
+      "ingust": "{0} mg"
+    },
+    {
+      "unit_code": "mass-ounce",
+      "categorie": "mass",
+      "nume": "uncii",
+      "singular": "{0} uncie",
+      "plural": "{0} de uncii",
+      "scurt": "{0} oz",
+      "ingust": "{0} oz"
+    },
+    {
+      "unit_code": "mass-ounce-troy",
+      "categorie": "mass",
+      "nume": "uncii monetare",
+      "singular": "{0} uncie monetară",
+      "plural": "{0} de uncii monetare",
+      "scurt": "{0} oz t",
+      "ingust": "{0} oz t"
+    },
+    {
+      "unit_code": "mass-pound",
+      "categorie": "mass",
+      "nume": "livre",
+      "singular": "{0} livră",
+      "plural": "{0} de livre",
+      "scurt": "{0} lb",
+      "ingust": "{0} lb"
+    },
+    {
+      "unit_code": "mass-solar-mass",
+      "categorie": "mass",
+      "nume": "mase solare",
+      "singular": "{0} masă solară",
+      "plural": "{0} de mase solare",
+      "scurt": "{0} M☉",
+      "ingust": "{0} M☉"
+    },
+    {
+      "unit_code": "mass-stone",
+      "categorie": "mass",
+      "nume": "stone",
+      "singular": "{0} stone",
+      "plural": "{0} de stone",
+      "scurt": "{0} st",
+      "ingust": "{0} st"
+    },
+    {
+      "unit_code": "mass-ton",
+      "categorie": "mass",
+      "nume": "tone scurte",
+      "singular": "{0} tonă scurtă",
+      "plural": "{0} de tone scurte",
+      "scurt": "{0} t.s.",
+      "ingust": "{0} t.s."
+    },
+    {
+      "unit_code": "mass-tonne",
+      "categorie": "mass",
+      "nume": "tone metrice",
+      "singular": "{0} tonă metrică",
+      "plural": "{0} de tone metrice",
+      "scurt": "{0} t",
+      "ingust": "{0} t"
+    },
+    {
+      "unit_code": "power-gigawatt",
+      "categorie": "power",
+      "nume": "gigawați",
+      "singular": "{0} gigawatt",
+      "plural": "{0} de gigawați",
+      "scurt": "{0} GW",
+      "ingust": "{0} GW"
+    },
+    {
+      "unit_code": "power-horsepower",
+      "categorie": "power",
+      "nume": "cai putere",
+      "singular": "{0} cal putere",
+      "plural": "{0} de cai putere",
+      "scurt": "{0} CP",
+      "ingust": "{0} CP"
+    },
+    {
+      "unit_code": "power-kilowatt",
+      "categorie": "power",
+      "nume": "kilowați",
+      "singular": "{0} kilowatt",
+      "plural": "{0} de kilowați",
+      "scurt": "{0} kW",
+      "ingust": "{0} kW"
+    },
+    {
+      "unit_code": "power-megawatt",
+      "categorie": "power",
+      "nume": "megawați",
+      "singular": "{0} megawatt",
+      "plural": "{0} de megawați",
+      "scurt": "{0} MW",
+      "ingust": "{0} MW"
+    },
+    {
+      "unit_code": "power-milliwatt",
+      "categorie": "power",
+      "nume": "miliwați",
+      "singular": "{0} miliwatt",
+      "plural": "{0} de miliwați",
+      "scurt": "{0} mW",
+      "ingust": "{0} mW"
+    },
+    {
+      "unit_code": "power-watt",
+      "categorie": "power",
+      "nume": "wați",
+      "singular": "{0} watt",
+      "plural": "{0} de wați",
+      "scurt": "{0} W",
+      "ingust": "{0} W"
+    },
+    {
+      "unit_code": "pressure-atmosphere",
+      "categorie": "pressure",
+      "nume": "atmosfere",
+      "singular": "{0} atmosferă",
+      "plural": "{0} de atmosfere",
+      "scurt": "{0} atm",
+      "ingust": "{0} atm"
+    },
+    {
+      "unit_code": "pressure-bar",
+      "categorie": "pressure",
+      "nume": "bari",
+      "singular": "{0} bar",
+      "plural": "{0} de bari",
+      "scurt": "{0} bar",
+      "ingust": "{0} bar"
+    },
+    {
+      "unit_code": "pressure-hectopascal",
+      "categorie": "pressure",
+      "nume": "hectopascali",
+      "singular": "{0} hectopascal",
+      "plural": "{0} de hectopascali",
+      "scurt": "{0} hPa",
+      "ingust": "{0} hPa"
+    },
+    {
+      "unit_code": "pressure-inch-ofhg",
+      "categorie": "pressure",
+      "nume": "inchi coloană de mercur",
+      "singular": "{0} inch coloană de mercur",
+      "plural": "{0} de inchi coloană de mercur",
+      "scurt": "{0} in Hg",
+      "ingust": "{0}″ Hg"
+    },
+    {
+      "unit_code": "pressure-kilopascal",
+      "categorie": "pressure",
+      "nume": "kilopascali",
+      "singular": "{0} kilopascal",
+      "plural": "{0} de kilopascali",
+      "scurt": "{0} kPa",
+      "ingust": "{0} kPa"
+    },
+    {
+      "unit_code": "pressure-megapascal",
+      "categorie": "pressure",
+      "nume": "megapascali",
+      "singular": "{0} megapascal",
+      "plural": "{0} de megapascali",
+      "scurt": "{0} MPa",
+      "ingust": "{0} MPa"
+    },
+    {
+      "unit_code": "pressure-millibar",
+      "categorie": "pressure",
+      "nume": "milibari",
+      "singular": "{0} milibar",
+      "plural": "{0} de milibari",
+      "scurt": "{0} mbar",
+      "ingust": "{0} mb"
+    },
+    {
+      "unit_code": "pressure-millimeter-ofhg",
+      "categorie": "pressure",
+      "nume": "milimetri coloană de mercur",
+      "singular": "{0} milimetru coloană de mercur",
+      "plural": "{0} de milimetri coloană de mercur",
+      "scurt": "{0} mm Hg",
+      "ingust": "{0} mm Hg"
+    },
+    {
+      "unit_code": "pressure-pascal",
+      "categorie": "pressure",
+      "nume": "pascali",
+      "singular": "{0} pascal",
+      "plural": "{0} de pascali",
+      "scurt": "{0} Pa",
+      "ingust": "{0} Pa"
+    },
+    {
+      "unit_code": "pressure-pound-force-per-square-inch",
+      "categorie": "pressure",
+      "nume": "livre pe inch pătrat",
+      "singular": "{0} livră pe inch pătrat",
+      "plural": "{0} de livre pe inch pătrat",
+      "scurt": "{0} psi",
+      "ingust": "{0} psi"
+    },
+    {
+      "unit_code": "speed-beaufort",
+      "categorie": "speed",
+      "nume": "Bft",
+      "singular": "Beaufort {0}",
+      "plural": "Beaufort {0}",
+      "scurt": "B {0}",
+      "ingust": "B {0}"
+    },
+    {
+      "unit_code": "speed-kilometer-per-hour",
+      "categorie": "speed",
+      "nume": "kilometri pe oră",
+      "singular": "{0} kilometru pe oră",
+      "plural": "{0} de kilometri pe oră",
+      "scurt": "{0} km/h",
+      "ingust": "{0} km/h"
+    },
+    {
+      "unit_code": "speed-knot",
+      "categorie": "speed",
+      "nume": "nod",
+      "singular": "{0} nod",
+      "plural": "{0} de noduri",
+      "scurt": "{0} kn",
+      "ingust": "{0} kn"
+    },
+    {
+      "unit_code": "speed-meter-per-second",
+      "categorie": "speed",
+      "nume": "metri pe secundă",
+      "singular": "{0} metru pe secundă",
+      "plural": "{0} de metri pe secundă",
+      "scurt": "{0} m/s",
+      "ingust": "{0} m/s"
+    },
+    {
+      "unit_code": "speed-mile-per-hour",
+      "categorie": "speed",
+      "nume": "mile pe oră",
+      "singular": "{0} milă pe oră",
+      "plural": "{0} de mile pe oră",
+      "scurt": "{0} mi/h",
+      "ingust": "{0} mi/h"
+    },
+    {
+      "unit_code": "temperature-celsius",
+      "categorie": "temperature",
+      "nume": "grade Celsius",
+      "singular": "{0} grad Celsius",
+      "plural": "{0} de grade Celsius",
+      "scurt": "{0} °C",
+      "ingust": "{0} °C"
+    },
+    {
+      "unit_code": "temperature-fahrenheit",
+      "categorie": "temperature",
+      "nume": "grade Fahrenheit",
+      "singular": "{0} grad Fahrenheit",
+      "plural": "{0} de grade Fahrenheit",
+      "scurt": "{0} °F",
+      "ingust": "{0} °F"
+    },
+    {
+      "unit_code": "temperature-generic",
+      "categorie": "temperature",
+      "nume": "°",
+      "singular": "{0} grad",
+      "plural": "{0} de grade",
+      "scurt": "{0}°",
+      "ingust": "{0}°"
+    },
+    {
+      "unit_code": "temperature-kelvin",
+      "categorie": "temperature",
+      "nume": "kelvini",
+      "singular": "{0} kelvin",
+      "plural": "{0} de kelvini",
+      "scurt": "{0} K",
+      "ingust": "{0} K"
+    },
+    {
+      "unit_code": "torque-newton-meter",
+      "categorie": "torque",
+      "nume": "newton-metri",
+      "singular": "{0} newton metru",
+      "plural": "{0} de newton metri",
+      "scurt": "{0} N⋅m",
+      "ingust": "{0} N⋅m"
+    },
+    {
+      "unit_code": "torque-pound-force-foot",
+      "categorie": "torque",
+      "nume": "livră-forță picioare",
+      "singular": "{0} livră-forță picior",
+      "plural": "{0} de livră-forță picioare",
+      "scurt": "{0} lbf⋅ft",
+      "ingust": "{0} lbf⋅ft"
+    },
+    {
+      "unit_code": "volume-acre-foot",
+      "categorie": "volume",
+      "nume": "acru-picioare",
+      "singular": "{0} acru-picior",
+      "plural": "{0} de acru-picioare",
+      "scurt": "{0} ac ft",
+      "ingust": "{0} ac ft"
+    },
+    {
+      "unit_code": "volume-barrel",
+      "categorie": "volume",
+      "nume": "barili",
+      "singular": "{0} baril",
+      "plural": "{0} de barili",
+      "scurt": "{0} bbl",
+      "ingust": "{0} bbl"
+    },
+    {
+      "unit_code": "volume-bushel",
+      "categorie": "volume",
+      "nume": "banițe",
+      "singular": "{0} baniță",
+      "plural": "{0} de banițe",
+      "scurt": "{0} bu",
+      "ingust": "{0} bu"
+    },
+    {
+      "unit_code": "volume-centiliter",
+      "categorie": "volume",
+      "nume": "centilitri",
+      "singular": "{0} centilitru",
+      "plural": "{0} de centilitri",
+      "scurt": "{0} cl",
+      "ingust": "{0} cl"
+    },
+    {
+      "unit_code": "volume-cubic-centimeter",
+      "categorie": "volume",
+      "nume": "centimetri cubi",
+      "singular": "{0} centimetru cub",
+      "plural": "{0} de centimetri cubi",
+      "scurt": "{0} cm³",
+      "ingust": "{0} cm³"
+    },
+    {
+      "unit_code": "volume-cubic-foot",
+      "categorie": "volume",
+      "nume": "picioare cubice",
+      "singular": "{0} picior cubic",
+      "plural": "{0} de picioare cubice",
+      "scurt": "{0} ft³",
+      "ingust": "{0} ft³"
+    },
+    {
+      "unit_code": "volume-cubic-inch",
+      "categorie": "volume",
+      "nume": "inchi cubici",
+      "singular": "{0} inch cubic",
+      "plural": "{0} de inchi cubici",
+      "scurt": "{0} in³",
+      "ingust": "{0} in³"
+    },
+    {
+      "unit_code": "volume-cubic-kilometer",
+      "categorie": "volume",
+      "nume": "kilometri cubi",
+      "singular": "{0} kilometru cub",
+      "plural": "{0} de kilometri cubi",
+      "scurt": "{0} km³",
+      "ingust": "{0} km³"
+    },
+    {
+      "unit_code": "volume-cubic-meter",
+      "categorie": "volume",
+      "nume": "metri cubi",
+      "singular": "{0} metru cub",
+      "plural": "{0} de metri cubi",
+      "scurt": "{0} m³",
+      "ingust": "{0} m³"
+    },
+    {
+      "unit_code": "volume-cubic-mile",
+      "categorie": "volume",
+      "nume": "mile cubice",
+      "singular": "{0} milă cubică",
+      "plural": "{0} de mile cubice",
+      "scurt": "{0} mi³",
+      "ingust": "{0} mi³"
+    },
+    {
+      "unit_code": "volume-cubic-yard",
+      "categorie": "volume",
+      "nume": "iarzi cubici",
+      "singular": "{0} iard cubic",
+      "plural": "{0} de iarzi cubici",
+      "scurt": "{0} yd³",
+      "ingust": "{0} yd³"
+    },
+    {
+      "unit_code": "volume-cup",
+      "categorie": "volume",
+      "nume": "căni",
+      "singular": "{0} cană",
+      "plural": "{0} de căni",
+      "scurt": "{0} c",
+      "ingust": "{0} c"
+    },
+    {
+      "unit_code": "volume-cup-metric",
+      "categorie": "volume",
+      "nume": "căni metrice",
+      "singular": "{0} cană metrică",
+      "plural": "{0} de căni metrice",
+      "scurt": "{0} mc",
+      "ingust": "{0} mc"
+    },
+    {
+      "unit_code": "volume-deciliter",
+      "categorie": "volume",
+      "nume": "decilitri",
+      "singular": "{0} decilitru",
+      "plural": "{0} de decilitri",
+      "scurt": "{0} dl",
+      "ingust": "{0} dl"
+    },
+    {
+      "unit_code": "volume-dessert-spoon",
+      "categorie": "volume",
+      "nume": "lingură de desert",
+      "singular": "{0} lingură de desert",
+      "plural": "{0} de linguri de desert",
+      "scurt": "{0} dstspn",
+      "ingust": "{0} dstspn"
+    },
+    {
+      "unit_code": "volume-dessert-spoon-imperial",
+      "categorie": "volume",
+      "nume": "lingură de desert imperială",
+      "singular": "{0} lingură de desert imperială",
+      "plural": "{0} de linguri de desert imperiale",
+      "scurt": "{0} dsp im",
+      "ingust": "{0} dsp im"
+    },
+    {
+      "unit_code": "volume-dram",
+      "categorie": "volume",
+      "nume": "dram lichid",
+      "singular": "{0} dram lichid",
+      "plural": "{0} de drami lichizi",
+      "scurt": "{0} dram fl",
+      "ingust": "{0} dr fl"
+    },
+    {
+      "unit_code": "volume-drop",
+      "categorie": "volume",
+      "nume": "picătură",
+      "singular": "{0} picătură",
+      "plural": "{0} de picături",
+      "scurt": "{0} de picături",
+      "ingust": "{0} pic."
+    },
+    {
+      "unit_code": "volume-fluid-ounce",
+      "categorie": "volume",
+      "nume": "uncii lichide",
+      "singular": "{0} uncie lichidă",
+      "plural": "{0} de uncii lichide",
+      "scurt": "{0} fl oz",
+      "ingust": "{0} fl oz"
+    },
+    {
+      "unit_code": "volume-fluid-ounce-imperial",
+      "categorie": "volume",
+      "nume": "uncii lichide imperiale",
+      "singular": "{0} uncie lichidă imperială",
+      "plural": "{0} de uncii lichide imperiale",
+      "scurt": "{0} fl oz imp.",
+      "ingust": "{0} fl oz im"
+    },
+    {
+      "unit_code": "volume-gallon",
+      "categorie": "volume",
+      "nume": "galoane",
+      "singular": "{0} galon",
+      "plural": "{0} de galoane",
+      "scurt": "{0} gal",
+      "ingust": "{0} gal"
+    },
+    {
+      "unit_code": "volume-gallon-imperial",
+      "categorie": "volume",
+      "nume": "galoane imperiale",
+      "singular": "{0} galon imperial",
+      "plural": "{0} de galoane imperiale",
+      "scurt": "{0} gal imp.",
+      "ingust": "{0} gal im"
+    },
+    {
+      "unit_code": "volume-hectoliter",
+      "categorie": "volume",
+      "nume": "hectolitri",
+      "singular": "{0} hectolitru",
+      "plural": "{0} de hectolitri",
+      "scurt": "{0} hl",
+      "ingust": "{0} hl"
+    },
+    {
+      "unit_code": "volume-jigger",
+      "categorie": "volume",
+      "nume": "jigger",
+      "singular": "{0} jigger",
+      "plural": "{0} de jiggere",
+      "scurt": "{0} jigger",
+      "ingust": "{0} jigger"
+    },
+    {
+      "unit_code": "volume-liter",
+      "categorie": "volume",
+      "nume": "litri",
+      "singular": "{0} litru",
+      "plural": "{0} de litri",
+      "scurt": "{0} l",
+      "ingust": "{0} l"
+    },
+    {
+      "unit_code": "volume-megaliter",
+      "categorie": "volume",
+      "nume": "megalitri",
+      "singular": "{0} megalitru",
+      "plural": "{0} de megalitri",
+      "scurt": "{0} Ml",
+      "ingust": "{0} Ml"
+    },
+    {
+      "unit_code": "volume-milliliter",
+      "categorie": "volume",
+      "nume": "mililitri",
+      "singular": "{0} mililitru",
+      "plural": "{0} de mililitri",
+      "scurt": "{0} ml",
+      "ingust": "{0} ml"
+    },
+    {
+      "unit_code": "volume-pinch",
+      "categorie": "volume",
+      "nume": "vârf de cuțit",
+      "singular": "{0} vârf de cuțit",
+      "plural": "{0} de vârfuri de cuțit",
+      "scurt": "{0} de vârfuri",
+      "ingust": "{0} vf."
+    },
+    {
+      "unit_code": "volume-pint",
+      "categorie": "volume",
+      "nume": "pinte",
+      "singular": "{0} pintă",
+      "plural": "{0} de pinte",
+      "scurt": "{0} pt",
+      "ingust": "{0} pt"
+    },
+    {
+      "unit_code": "volume-pint-metric",
+      "categorie": "volume",
+      "nume": "pinte metrice",
+      "singular": "{0} pintă metrică",
+      "plural": "{0} de pinte metrice",
+      "scurt": "{0} mpt",
+      "ingust": "{0} mpt"
+    },
+    {
+      "unit_code": "volume-quart",
+      "categorie": "volume",
+      "nume": "quarte",
+      "singular": "{0} quart",
+      "plural": "{0} de quarte",
+      "scurt": "{0} qt",
+      "ingust": "{0} qt"
+    },
+    {
+      "unit_code": "volume-quart-imperial",
+      "categorie": "volume",
+      "nume": "quart imperial",
+      "singular": "{0} quart imperial",
+      "plural": "{0} de quarte imperiale",
+      "scurt": "{0} qt imp.",
+      "ingust": "{0} qt im"
+    },
+    {
+      "unit_code": "volume-tablespoon",
+      "categorie": "volume",
+      "nume": "linguri",
+      "singular": "{0} lingură",
+      "plural": "{0} de linguri",
+      "scurt": "{0} tbsp",
+      "ingust": "{0} tbsp"
+    },
+    {
+      "unit_code": "volume-teaspoon",
+      "categorie": "volume",
+      "nume": "lingurițe",
+      "singular": "{0} linguriță",
+      "plural": "{0} de lingurițe",
+      "scurt": "{0} tsp",
+      "ingust": "{0} tsp"
+    }
+  ],
+  "meta": {
+    "title": "Unități de măsură (CLDR română) - Free Download",
+    "description": "Unități de măsură cu denumiri și tipare în română din CLDR units.json (long/short/narrow). Contains 185 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Unități de măsură (CLDR română) | ListBase",
+    "seo_description": "Download Unități de măsură (CLDR română) — 185 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 185 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/unicode-org/cldr"
+    ]
+  }
+}
