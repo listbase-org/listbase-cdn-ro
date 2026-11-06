@@ -1,0 +1,100 @@
+{
+  "id": "ro-unitati-si-fundamentale",
+  "name": "Unități SI fundamentale",
+  "title": "Unități SI fundamentale",
+  "description": "Cele șapte unități fundamentale ale Sistemului internațional de unități (SI), cu definiții în română.",
+  "category": "units",
+  "source": "https://ro.wikipedia.org/wiki/Sistemul_internațional_de_unități",
+  "source_url": "https://ro.wikipedia.org/wiki/Sistemul_internațional_de_unități",
+  "updated": "2026-11",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "marime",
+      "label": "Marime",
+      "type": "string"
+    },
+    {
+      "key": "simbol",
+      "label": "Simbol",
+      "type": "string"
+    },
+    {
+      "key": "denumire",
+      "label": "Denumire",
+      "type": "string"
+    },
+    {
+      "key": "simbol_unitate",
+      "label": "Simbol Unitate",
+      "type": "string"
+    },
+    {
+      "key": "definitie",
+      "label": "Definitie",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "marime": "lungime",
+      "simbol": "l",
+      "denumire": "metru",
+      "simbol_unitate": "m",
+      "definitie": "Metrul este lungimea drumului parcurs de lumină în vid în timp de 1/299 792 458 dintr-o secundă."
+    },
+    {
+      "marime": "masă",
+      "simbol": "m",
+      "denumire": "kilogram",
+      "simbol_unitate": "kg",
+      "definitie": "Kilogramul este masa prototipului internațional al kilogramului confecționat dintr-un aliaj de platină și iridiu (90 % - 10 %), cu o precizie de 0,0001 și care se păstrează la Biroul Internațional de Măsuri si Greutăți (BIPM) de la Sèvres - Franța. Din 2019: Kilogramul este definit prin fixarea valorii constantei lui Planck h la valoarea exactă de 6,626 070 15 × 10 −34 J⋅s (J = kg⋅m 2 ⋅s −2), date fiind definițiile metrului și a secundei. Formula devine astfel kg = h / 6,626 070 15 × 10 −34 ⋅m 2 ⋅s −1."
+    },
+    {
+      "marime": "timp",
+      "simbol": "t",
+      "denumire": "secundă",
+      "simbol_unitate": "s",
+      "definitie": "Secunda este durata a 9 192 631 770 perioade ale radiației care corespunde tranziției între două niveluri de energie hiperfine ale stării fundamentale a atomului de cesiu 133 la temperatura de 0 K."
+    },
+    {
+      "marime": "curent electric ‡",
+      "simbol": "I",
+      "denumire": "amper",
+      "simbol_unitate": "A",
+      "definitie": "Amperul este intensitatea unui curent electric constant care, menținut în două conductoare paralele, rectilinii, cu lungimea infinită și cu secțiunea circulară neglijabilă, așezate în vid, la o distanță de 1 metru unul de altul, ar produce între aceste conductoare o forță de 2×10 −7 dintr-un newton pe o lungime de 1 metru. Din 2019: Un curent de 1 / 1,602 176 634 × 10 −19 sarcini elementare e pe secundă."
+    },
+    {
+      "marime": "temperatură termodinamică",
+      "simbol": "T",
+      "denumire": "kelvin",
+      "simbol_unitate": "K",
+      "definitie": "Kelvinul, unitate de temperatură termodinamică, este fracțiunea 1/273,16 din temperatura termodinamică a punctului triplu al apei. Din 2019: Kelvinul este definit prin fixarea valorii numerice a constantei lui Boltzmann k la 1,380 649 × 10 −23 J⋅K −1, (J = kg⋅m 2 ⋅s −2), date fiind definițiile kilogramului, metrului și a secundei."
+    },
+    {
+      "marime": "cantitate de substanță",
+      "simbol": "n",
+      "denumire": "mol",
+      "simbol_unitate": "mol",
+      "definitie": "Molul este cantitatea de substanță a unui sistem care conține atâtea entități elementare câți atomi există în 0,012 kilograme de carbon C-12 (12 C). De câte ori se întrebuințează molul, entitățile elementare trebuie specificate, ele putând fi atomi, molecule, ioni, electroni, alte particule sau grupuri specificate de asemenea particule. Un mol conține numărul lui Avogadro de entități elementare. Din 2019: O cantitate de substanță egală cu exact 6,022 140 76 × 10 23 entități elementare. Acesta este valoarea numerică fixată pentru constanta lui Avogadro N A, atunci când este exprimată în unitatea mol −1 și este denumită numărul lui Avogadro."
+    },
+    {
+      "marime": "intensitate luminoasă",
+      "simbol": "I v",
+      "denumire": "candelă",
+      "simbol_unitate": "cd",
+      "definitie": "Candela este intensitatea luminoasă, într-o direcție dată, a unei surse care emite o radiație monocromatică cu frecvența de 540×10 12 hertzi și a cărei intensitate energetică, în această direcție este de 1/683 dintr-un watt pe steradian."
+    }
+  ],
+  "meta": {
+    "title": "Unități SI fundamentale - Free Download",
+    "description": "Cele șapte unități fundamentale ale Sistemului internațional de unități (SI), cu definiții în română. Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Unități SI fundamentale | ListBase",
+    "seo_description": "Download Unități SI fundamentale — 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Sistemul_internațional_de_unități"
+    ]
+  }
+}
