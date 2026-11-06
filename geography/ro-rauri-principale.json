@@ -1,0 +1,191 @@
+{
+  "id": "ro-rauri-principale",
+  "name": "Râuri principale din România",
+  "title": "Râuri principale din România",
+  "description": "Principalele râuri din România cu lungime (totală/în România) și bazin hidrografic.",
+  "category": "geography",
+  "source": "https://ro.wikipedia.org/wiki/Listă_de_râuri_din_România",
+  "source_url": "https://ro.wikipedia.org/wiki/Listă_de_râuri_din_România",
+  "updated": "2026-11",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "lungime_km",
+      "label": "Lungime Km",
+      "type": "string"
+    },
+    {
+      "key": "bazin_km2",
+      "label": "Bazin Km2",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "Dunărea (fluviu)",
+      "lungime_km": "2.860 (1.075)",
+      "bazin_km2": 817000
+    },
+    {
+      "nume": "Tisa",
+      "lungime_km": "966 (65)",
+      "bazin_km2": 157183
+    },
+    {
+      "nume": "Mureș",
+      "lungime_km": "789 (761)",
+      "bazin_km2": 30332
+    },
+    {
+      "nume": "Prut",
+      "lungime_km": "953 (742)",
+      "bazin_km2": 27500
+    },
+    {
+      "nume": "Olt",
+      "lungime_km": "615",
+      "bazin_km2": 24050
+    },
+    {
+      "nume": "Siret",
+      "lungime_km": "706 (559)",
+      "bazin_km2": 44835
+    },
+    {
+      "nume": "Someș",
+      "lungime_km": "465",
+      "bazin_km2": 15740
+    },
+    {
+      "nume": "Ialomița",
+      "lungime_km": "417",
+      "bazin_km2": 10350
+    },
+    {
+      "nume": "Argeș",
+      "lungime_km": "350",
+      "bazin_km2": 12550
+    },
+    {
+      "nume": "Jiu",
+      "lungime_km": "339",
+      "bazin_km2": 10080
+    },
+    {
+      "nume": "Buzău",
+      "lungime_km": "302",
+      "bazin_km2": 5264
+    },
+    {
+      "nume": "Dâmbovița",
+      "lungime_km": "286",
+      "bazin_km2": 2824
+    },
+    {
+      "nume": "Bistrița - Siret",
+      "lungime_km": "283",
+      "bazin_km2": 7039
+    },
+    {
+      "nume": "Jijia - Prut",
+      "lungime_km": "275",
+      "bazin_km2": 5757
+    },
+    {
+      "nume": "Târnava Mare",
+      "lungime_km": "246",
+      "bazin_km2": 6253
+    },
+    {
+      "nume": "Timiș - Dunăre",
+      "lungime_km": "244",
+      "bazin_km2": 5673
+    },
+    {
+      "nume": "Crișul Alb",
+      "lungime_km": "234",
+      "bazin_km2": 4240
+    },
+    {
+      "nume": "Vedea",
+      "lungime_km": "224",
+      "bazin_km2": 5430
+    },
+    {
+      "nume": "Moldova",
+      "lungime_km": "213",
+      "bazin_km2": 4299
+    },
+    {
+      "nume": "Bârlad",
+      "lungime_km": "207",
+      "bazin_km2": 7220
+    },
+    {
+      "nume": "Târnava Mică",
+      "lungime_km": "196",
+      "bazin_km2": 2071
+    },
+    {
+      "nume": "Prahova",
+      "lungime_km": "193",
+      "bazin_km2": 3738
+    },
+    {
+      "nume": "Neajlov",
+      "lungime_km": "186",
+      "bazin_km2": 3720
+    },
+    {
+      "nume": "Olteț - Olt",
+      "lungime_km": "185",
+      "bazin_km2": 2663
+    },
+    {
+      "nume": "Someșul Mic",
+      "lungime_km": "178",
+      "bazin_km2": 3773
+    },
+    {
+      "nume": "Suceava",
+      "lungime_km": "173",
+      "bazin_km2": 2298
+    },
+    {
+      "nume": "Bega",
+      "lungime_km": "170",
+      "bazin_km2": 2362
+    },
+    {
+      "nume": "Arieș",
+      "lungime_km": "166",
+      "bazin_km2": 3005
+    },
+    {
+      "nume": "Trotuș",
+      "lungime_km": "162",
+      "bazin_km2": 4456
+    },
+    {
+      "nume": "Putna - Siret",
+      "lungime_km": "144",
+      "bazin_km2": 2720
+    }
+  ],
+  "meta": {
+    "title": "Râuri principale din România - Free Download",
+    "description": "Principalele râuri din România cu lungime (totală/în România) și bazin hidrografic. Contains 30 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Râuri principale din România | ListBase",
+    "seo_description": "Download Râuri principale din România — 30 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 30 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Listă_de_râuri_din_România"
+    ]
+  }
+}

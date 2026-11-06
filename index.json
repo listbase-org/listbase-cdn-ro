@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-06T02:38:53.745Z",
-  "total_datasets": 480,
-  "total_records": 166971,
+  "generated": "2026-11-06T02:39:04.839Z",
+  "total_datasets": 481,
+  "total_records": 167001,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 93
+      "dataset_count": 94
     },
     {
       "id": "health",
@@ -4980,6 +4980,30 @@
         "xlsx": {
           "name": "ro-puncte-belvedere_RO.xlsx",
           "size": 20494
+        }
+      }
+    },
+    {
+      "id": "ro-rauri-principale",
+      "name": "Râuri principale din România",
+      "category": "geography",
+      "record_count": 30,
+      "columns": [
+        "nume",
+        "lungime_km",
+        "bazin_km2"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Listă_de_râuri_din_România",
+      "updated": "2026-11",
+      "size": 4174,
+      "files": {
+        "csv": {
+          "name": "ro-rauri-principale_RO.csv",
+          "size": 816
+        },
+        "xlsx": {
+          "name": "ro-rauri-principale_RO.xlsx",
+          "size": 7629
         }
       }
     },
