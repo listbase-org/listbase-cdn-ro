@@ -1,0 +1,926 @@
+{
+  "id": "ro-universitati-lista",
+  "name": "Universități din România",
+  "title": "Universități din România",
+  "description": "Lista universităților din România cu abreviere, locație, județ, an de înființare și tip (publică/privată).",
+  "category": "education",
+  "source": "https://ro.wikipedia.org/wiki/Lista_universităților_din_România",
+  "source_url": "https://ro.wikipedia.org/wiki/Lista_universităților_din_România",
+  "updated": "2026-11",
+  "record_count": 86,
+  "columns": [
+    {
+      "key": "nr",
+      "label": "Nr",
+      "type": "number"
+    },
+    {
+      "key": "denumire",
+      "label": "Denumire",
+      "type": "string"
+    },
+    {
+      "key": "abreviere",
+      "label": "Abreviere",
+      "type": "string"
+    },
+    {
+      "key": "locatie",
+      "label": "Locatie",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    },
+    {
+      "key": "infiintata",
+      "label": "Infiintata",
+      "type": "number"
+    },
+    {
+      "key": "tip",
+      "label": "Tip",
+      "type": "string"
+    },
+    {
+      "key": "cui",
+      "label": "Cui",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nr": 1,
+      "denumire": "Universitatea de Arhitectură și Urbanism Ion Mincu",
+      "abreviere": "UAUIM",
+      "locatie": "Sectorul 1",
+      "judet": "București",
+      "infiintata": 1952,
+      "tip": "Publică",
+      "cui": "14771110"
+    },
+    {
+      "nr": 2,
+      "denumire": "Universitatea de Științe Agronomice și Medicină Veterinară București",
+      "abreviere": "USAMV",
+      "locatie": "Sectorul 1",
+      "judet": "București",
+      "infiintata": 1852,
+      "tip": "Publică",
+      "cui": "4602041"
+    },
+    {
+      "nr": 3,
+      "denumire": "Academia de Studii Economice",
+      "abreviere": "ASE",
+      "locatie": "Sectorul 1",
+      "judet": "București",
+      "infiintata": 1913,
+      "tip": "Publică",
+      "cui": "4433775"
+    },
+    {
+      "nr": 4,
+      "denumire": "Universitatea Națională de Muzică",
+      "abreviere": "UNMB",
+      "locatie": "Sectorul 1",
+      "judet": "București",
+      "infiintata": 1864,
+      "tip": "Publică",
+      "cui": "21767856"
+    },
+    {
+      "nr": 5,
+      "denumire": "Universitatea Națională de Arte",
+      "abreviere": "UNARTE",
+      "locatie": "Sectorul 1",
+      "judet": "București",
+      "infiintata": 1864,
+      "tip": "Publică",
+      "cui": "4602033"
+    },
+    {
+      "nr": 6,
+      "denumire": "Școala Națională de Studii Politice și Administrative",
+      "abreviere": "SNSPA",
+      "locatie": "Sectorul 1",
+      "judet": "București",
+      "infiintata": 1991,
+      "tip": "Publică",
+      "cui": "9510194"
+    },
+    {
+      "nr": 7,
+      "denumire": "Academia Națională de Informații Mihai Viteazul",
+      "abreviere": "ANIMV",
+      "locatie": "Sectorul 1",
+      "judet": "București",
+      "infiintata": 1992,
+      "tip": "Militară",
+      "cui": "4204267"
+    },
+    {
+      "nr": 8,
+      "denumire": "Academia de Poliție Alexandru Ioan Cuza",
+      "abreviere": "APAIC",
+      "locatie": "Sectorul 1",
+      "judet": "București",
+      "infiintata": 1991,
+      "tip": "Militară",
+      "cui": "4266472"
+    },
+    {
+      "nr": 9,
+      "denumire": "Universitatea Româno-Americană",
+      "abreviere": "RAU",
+      "locatie": "Sectorul 1",
+      "judet": "București",
+      "infiintata": 1991,
+      "tip": "Privată",
+      "cui": "9081408"
+    },
+    {
+      "nr": 10,
+      "denumire": "Institutul Teologic Baptist",
+      "abreviere": "ITBB",
+      "locatie": "Sectorul 1",
+      "judet": "București",
+      "infiintata": 1921,
+      "tip": "Privată",
+      "cui": "4528379"
+    },
+    {
+      "nr": 11,
+      "denumire": "Institutul de Administrare a Afacerilor",
+      "abreviere": "ASEBUSS",
+      "locatie": "Sectorul 1",
+      "judet": "București",
+      "infiintata": 2009,
+      "tip": "Privată",
+      "cui": "25782999"
+    },
+    {
+      "nr": 12,
+      "denumire": "Universitatea Bioterra",
+      "abreviere": "",
+      "locatie": "Sectorul 1",
+      "judet": "București",
+      "infiintata": 1990,
+      "tip": "Privată",
+      "cui": "14771161"
+    },
+    {
+      "nr": 13,
+      "denumire": "Universitatea Tehnică de Construcții",
+      "abreviere": "UTCB",
+      "locatie": "Sectorul 2",
+      "judet": "București",
+      "infiintata": 1867,
+      "tip": "Publică",
+      "cui": "4266570"
+    },
+    {
+      "nr": 14,
+      "denumire": "Universitatea de Medicină și Farmacie Carol Davila",
+      "abreviere": "UMFCD",
+      "locatie": "Sectorul 2",
+      "judet": "București",
+      "infiintata": 1857,
+      "tip": "Publică",
+      "cui": "4192910"
+    },
+    {
+      "nr": 15,
+      "denumire": "Universitatea Națională de Artă Teatrală și Cinematografică Ion Luca Caragiale",
+      "abreviere": "UNATC",
+      "locatie": "Sectorul 2",
+      "judet": "București",
+      "infiintata": 1954,
+      "tip": "Publică",
+      "cui": "4453160"
+    },
+    {
+      "nr": 16,
+      "denumire": "Universitatea Athenaeum",
+      "abreviere": "UATH",
+      "locatie": "Sectorul 2",
+      "judet": "București",
+      "infiintata": 1990,
+      "tip": "Privată",
+      "cui": "18967528"
+    },
+    {
+      "nr": 17,
+      "denumire": "Institutul Teologic Creștin dupa Evanghelie Timotheus",
+      "abreviere": "ITT",
+      "locatie": "Sectorul 2",
+      "judet": "București",
+      "infiintata": 1992,
+      "tip": "Privată",
+      "cui": "8295705"
+    },
+    {
+      "nr": 18,
+      "denumire": "Universitatea Hyperion",
+      "abreviere": "UHB",
+      "locatie": "Sectorul 3",
+      "judet": "București",
+      "infiintata": 1990,
+      "tip": "Privată",
+      "cui": "2836240"
+    },
+    {
+      "nr": 19,
+      "denumire": "Universitatea Spiru Haret",
+      "abreviere": "USH",
+      "locatie": "Sectorul 3",
+      "judet": "București",
+      "infiintata": 1991,
+      "tip": "Privată",
+      "cui": "14871616"
+    },
+    {
+      "nr": 20,
+      "denumire": "Universitatea Creștină Dimitrie Cantemir",
+      "abreviere": "UCDC",
+      "locatie": "Sectorul 4",
+      "judet": "București",
+      "infiintata": 1990,
+      "tip": "Privată",
+      "cui": "10334873"
+    },
+    {
+      "nr": 21,
+      "denumire": "Universitatea Titu Maiorescu",
+      "abreviere": "UTM",
+      "locatie": "Sectorul 4",
+      "judet": "București",
+      "infiintata": 1990,
+      "tip": "Privată",
+      "cui": "4337662"
+    },
+    {
+      "nr": 22,
+      "denumire": "Universitatea Nicolae Titulescu",
+      "abreviere": "UNT",
+      "locatie": "Sectorul 4",
+      "judet": "București",
+      "infiintata": 1990,
+      "tip": "Privată",
+      "cui": "14770190"
+    },
+    {
+      "nr": 23,
+      "denumire": "Universitatea din București",
+      "abreviere": "UB",
+      "locatie": "Sectorul 5",
+      "judet": "București",
+      "infiintata": 1864,
+      "tip": "Publică",
+      "cui": "4505502"
+    },
+    {
+      "nr": 24,
+      "denumire": "Academia Tehnică Militară",
+      "abreviere": "ATMFI",
+      "locatie": "Sectorul 5",
+      "judet": "București",
+      "infiintata": 1949,
+      "tip": "Militară",
+      "cui": "4265868"
+    },
+    {
+      "nr": 25,
+      "denumire": "Universitatea Națională de Apărare Carol I",
+      "abreviere": "UNAP",
+      "locatie": "Sectorul 5",
+      "judet": "București",
+      "infiintata": 1889,
+      "tip": "Militară",
+      "cui": "4267052"
+    },
+    {
+      "nr": 26,
+      "denumire": "Politehnica din București",
+      "abreviere": "UPB",
+      "locatie": "Sectorul 6",
+      "judet": "București",
+      "infiintata": 1920,
+      "tip": "Publică",
+      "cui": "4183199"
+    },
+    {
+      "nr": 27,
+      "denumire": "Universitatea Națională de Educație Fizică și Sport",
+      "abreviere": "UNEFS",
+      "locatie": "Sectorul 6",
+      "judet": "București",
+      "infiintata": 1923,
+      "tip": "Publică",
+      "cui": "4267192"
+    },
+    {
+      "nr": 28,
+      "denumire": "Universitatea Ecologică",
+      "abreviere": "UEB",
+      "locatie": "Sectorul 6",
+      "judet": "București",
+      "infiintata": 1990,
+      "tip": "Privată",
+      "cui": "10240221"
+    },
+    {
+      "nr": 29,
+      "denumire": "Universitatea Artifex",
+      "abreviere": "UAB",
+      "locatie": "Sectorul 6",
+      "judet": "București",
+      "infiintata": 1992,
+      "tip": "Privată",
+      "cui": "17656965"
+    },
+    {
+      "nr": 30,
+      "denumire": "Institutul Teologic Penticostal",
+      "abreviere": "ITPB",
+      "locatie": "Sectorul 6",
+      "judet": "București",
+      "infiintata": 1992,
+      "tip": "Privată",
+      "cui": "4431243"
+    },
+    {
+      "nr": 31,
+      "denumire": "Universitatea Adventus",
+      "abreviere": "UA",
+      "locatie": "Cernica",
+      "judet": "Ilfov",
+      "infiintata": 1924,
+      "tip": "Privată",
+      "cui": "8883136"
+    },
+    {
+      "nr": 32,
+      "denumire": "Universitatea 1 Decembrie 1918",
+      "abreviere": "UAB",
+      "locatie": "Alba Iulia",
+      "judet": "Alba",
+      "infiintata": 1991,
+      "tip": "Publică",
+      "cui": "5665935"
+    },
+    {
+      "nr": 33,
+      "denumire": "Universitatea Aurel Vlaicu",
+      "abreviere": "UAV",
+      "locatie": "Arad",
+      "judet": "Arad",
+      "infiintata": 1991,
+      "tip": "Publică",
+      "cui": "3519500"
+    },
+    {
+      "nr": 34,
+      "denumire": "Universitatea de Vest Vasile Goldiș",
+      "abreviere": "UVVG",
+      "locatie": "Arad",
+      "judet": "Arad",
+      "infiintata": 1990,
+      "tip": "Privată",
+      "cui": "44310178"
+    },
+    {
+      "nr": 35,
+      "denumire": "Universitatea Vasile Alecsandri",
+      "abreviere": "UVAB",
+      "locatie": "Bacău",
+      "judet": "Bacău",
+      "infiintata": 1961,
+      "tip": "Publică",
+      "cui": "4278094"
+    },
+    {
+      "nr": 36,
+      "denumire": "Universitatea George Bacovia",
+      "abreviere": "UGB",
+      "locatie": "Bacău",
+      "judet": "Bacău",
+      "infiintata": 1992,
+      "tip": "Privată",
+      "cui": "9077555"
+    },
+    {
+      "nr": 37,
+      "denumire": "Universitatea Transilvania",
+      "abreviere": "UNITBV",
+      "locatie": "Brașov",
+      "judet": "Brașov",
+      "infiintata": 1971,
+      "tip": "Publică",
+      "cui": "4317754"
+    },
+    {
+      "nr": 38,
+      "denumire": "Academia Forțelor Aeriene Henri Coandă",
+      "abreviere": "AFA",
+      "locatie": "Brașov",
+      "judet": "Brașov",
+      "infiintata": 1912,
+      "tip": "Militară",
+      "cui": "4443256"
+    },
+    {
+      "nr": 39,
+      "denumire": "Universitatea Tehnică din Cluj-Napoca",
+      "abreviere": "UTCN",
+      "locatie": "Cluj-Napoca",
+      "judet": "Cluj",
+      "infiintata": 1953,
+      "tip": "Publică",
+      "cui": "4183199"
+    },
+    {
+      "nr": 40,
+      "denumire": "Universitatea de Științe Agricole și Medicină Veterinară Cluj-Napoca",
+      "abreviere": "USAMV",
+      "locatie": "Cluj-Napoca",
+      "judet": "Cluj",
+      "infiintata": 1869,
+      "tip": "Publică",
+      "cui": "4288381"
+    },
+    {
+      "nr": 41,
+      "denumire": "Universitatea Babeș-Bolyai",
+      "abreviere": "UBB",
+      "locatie": "Cluj-Napoca",
+      "judet": "Cluj",
+      "infiintata": 1872,
+      "tip": "Publică",
+      "cui": "4305849"
+    },
+    {
+      "nr": 42,
+      "denumire": "Universitatea de Medicină și Farmacie Iuliu Hațieganu",
+      "abreviere": "UMF Cluj",
+      "locatie": "Cluj-Napoca",
+      "judet": "Cluj",
+      "infiintata": 1919,
+      "tip": "Publică",
+      "cui": "4288047"
+    },
+    {
+      "nr": 43,
+      "denumire": "Academia Națională de Muzică Gheorghe Dima",
+      "abreviere": "ANMGD",
+      "locatie": "Cluj-Napoca",
+      "judet": "Cluj",
+      "infiintata": 1919,
+      "tip": "Publică",
+      "cui": "4722471"
+    },
+    {
+      "nr": 44,
+      "denumire": "Universitatea de Artă și Design",
+      "abreviere": "UAD",
+      "locatie": "Cluj-Napoca",
+      "judet": "Cluj",
+      "infiintata": 1926,
+      "tip": "Publică",
+      "cui": "4288098"
+    },
+    {
+      "nr": 45,
+      "denumire": "Universitatea Bogdan Vodă",
+      "abreviere": "UBV",
+      "locatie": "Cluj-Napoca",
+      "judet": "Cluj",
+      "infiintata": 1992,
+      "tip": "Privată",
+      "cui": "11306146"
+    },
+    {
+      "nr": 46,
+      "denumire": "Institutul Teologic Protestant",
+      "abreviere": "ITP",
+      "locatie": "Cluj-Napoca",
+      "judet": "Cluj",
+      "infiintata": 1948,
+      "tip": "Privată",
+      "cui": "4431243"
+    },
+    {
+      "nr": 47,
+      "denumire": "Universitatea Sapientia",
+      "abreviere": "",
+      "locatie": "Cluj-Napoca",
+      "judet": "Cluj",
+      "infiintata": 2001,
+      "tip": "Privată",
+      "cui": "14645945"
+    },
+    {
+      "nr": 48,
+      "denumire": "Universitatea Ovidius",
+      "abreviere": "UOC",
+      "locatie": "Constanța",
+      "judet": "Constanța",
+      "infiintata": 1990,
+      "tip": "Publică",
+      "cui": "4301332"
+    },
+    {
+      "nr": 49,
+      "denumire": "Universitatea Maritimă",
+      "abreviere": "UMC",
+      "locatie": "Constanța",
+      "judet": "Constanța",
+      "infiintata": 1971,
+      "tip": "Publică",
+      "cui": "2747321"
+    },
+    {
+      "nr": 50,
+      "denumire": "Academia Navală Mircea cel Bătrân",
+      "abreviere": "ANMB",
+      "locatie": "Constanța",
+      "judet": "Constanța",
+      "infiintata": 1872,
+      "tip": "Militară",
+      "cui": "4515484"
+    },
+    {
+      "nr": 51,
+      "denumire": "Universitatea Andrei Șaguna",
+      "abreviere": "",
+      "locatie": "Constanța",
+      "judet": "Constanța",
+      "infiintata": 1992,
+      "tip": "Privată",
+      "cui": "15333348"
+    },
+    {
+      "nr": 52,
+      "denumire": "Universitatea Tomis",
+      "abreviere": "",
+      "locatie": "Constanța",
+      "judet": "Constanța",
+      "infiintata": 1997,
+      "tip": "Provizorie",
+      "cui": "39709165"
+    },
+    {
+      "nr": 53,
+      "denumire": "Universitatea din Craiova",
+      "abreviere": "UCv",
+      "locatie": "Craiova",
+      "judet": "Dolj",
+      "infiintata": 1947,
+      "tip": "Publică",
+      "cui": "4314410"
+    },
+    {
+      "nr": 54,
+      "denumire": "Universitatea de Medicină și Farmacie din Craiova",
+      "abreviere": "UMF Craiova",
+      "locatie": "Craiova",
+      "judet": "Dolj",
+      "infiintata": 1970,
+      "tip": "Publică",
+      "cui": "10815397"
+    },
+    {
+      "nr": 55,
+      "denumire": "Universitatea Dunărea de Jos",
+      "abreviere": "UDJG",
+      "locatie": "Galați",
+      "judet": "Galați",
+      "infiintata": 1948,
+      "tip": "Publică",
+      "cui": "3127522"
+    },
+    {
+      "nr": 56,
+      "denumire": "Universitatea Internațională Danubius",
+      "abreviere": "UID",
+      "locatie": "Galați",
+      "judet": "Galați",
+      "infiintata": 1992,
+      "tip": "Publică",
+      "cui": "2676433"
+    },
+    {
+      "nr": 57,
+      "denumire": "Universitatea Tehnică Gheorghe Asachi",
+      "abreviere": "TUIASI",
+      "locatie": "Iași",
+      "judet": "Iași",
+      "infiintata": 1937,
+      "tip": "Publică",
+      "cui": "4701606"
+    },
+    {
+      "nr": 58,
+      "denumire": "Universitatea de Științele Vieții Ion Ionescu de la Brad",
+      "abreviere": "USV",
+      "locatie": "Iași",
+      "judet": "Iași",
+      "infiintata": 1912,
+      "tip": "Publică",
+      "cui": "4541840"
+    },
+    {
+      "nr": 59,
+      "denumire": "Universitatea Alexandru Ioan Cuza",
+      "abreviere": "UAIC",
+      "locatie": "Iași",
+      "judet": "Iași",
+      "infiintata": 1860,
+      "tip": "Publică",
+      "cui": "4701642"
+    },
+    {
+      "nr": 60,
+      "denumire": "Universitatea de Medicină și Farmacie Grigore T. Popa",
+      "abreviere": "UMF Iași",
+      "locatie": "Iași",
+      "judet": "Iași",
+      "infiintata": 1879,
+      "tip": "Publică",
+      "cui": "4701100"
+    },
+    {
+      "nr": 61,
+      "denumire": "Universitatea Națională de Arte George Enescu",
+      "abreviere": "UNAGE",
+      "locatie": "Iași",
+      "judet": "Iași",
+      "infiintata": 1860,
+      "tip": "Publică",
+      "cui": "4540925"
+    },
+    {
+      "nr": 62,
+      "denumire": "Universitatea Petre Andrei",
+      "abreviere": "UPA",
+      "locatie": "Iași",
+      "judet": "Iași",
+      "infiintata": 1990,
+      "tip": "Privată",
+      "cui": "26596943"
+    },
+    {
+      "nr": 63,
+      "denumire": "Universitatea Apollonia",
+      "abreviere": "ASA",
+      "locatie": "Iași",
+      "judet": "Iași",
+      "infiintata": 1991,
+      "tip": "Privată",
+      "cui": "26203254"
+    },
+    {
+      "nr": 64,
+      "denumire": "Institutul de Studii Europene",
+      "abreviere": "",
+      "locatie": "Iași",
+      "judet": "Iași",
+      "infiintata": 1998,
+      "tip": "Provizorie",
+      "cui": "14954126"
+    },
+    {
+      "nr": 65,
+      "denumire": "Universitatea din Oradea",
+      "abreviere": "UO",
+      "locatie": "Oradea",
+      "judet": "Bihor",
+      "infiintata": 1990,
+      "tip": "Publică",
+      "cui": "4287939"
+    },
+    {
+      "nr": 66,
+      "denumire": "Universitatea Agora",
+      "abreviere": "UAO",
+      "locatie": "Oradea",
+      "judet": "Bihor",
+      "infiintata": 2000,
+      "tip": "Privată",
+      "cui": "24747462"
+    },
+    {
+      "nr": 67,
+      "denumire": "Universitatea Emanuel",
+      "abreviere": "UEO",
+      "locatie": "Oradea",
+      "judet": "Bihor",
+      "infiintata": 2002,
+      "tip": "Privată",
+      "cui": "4208595"
+    },
+    {
+      "nr": 68,
+      "denumire": "Universitatea Creștină Partium",
+      "abreviere": "UCP",
+      "locatie": "Oradea",
+      "judet": "Bihor",
+      "infiintata": 1990,
+      "tip": "Privată",
+      "cui": "24693826"
+    },
+    {
+      "nr": 69,
+      "denumire": "Universitatea din Petroșani",
+      "abreviere": "UPet",
+      "locatie": "Petroșani",
+      "judet": "Hunedoara",
+      "infiintata": 1948,
+      "tip": "Publică",
+      "cui": "4374849"
+    },
+    {
+      "nr": 70,
+      "denumire": "Universitatea Petrol-Gaze",
+      "abreviere": "UPG",
+      "locatie": "Ploiești",
+      "judet": "Prahova",
+      "infiintata": 1948,
+      "tip": "Publică",
+      "cui": "2844790"
+    },
+    {
+      "nr": 71,
+      "denumire": "Universitatea Constantin Brâncoveanu",
+      "abreviere": "UCB",
+      "locatie": "Pitești",
+      "judet": "Pitești",
+      "infiintata": 1991,
+      "tip": "Privată",
+      "cui": "14372446"
+    },
+    {
+      "nr": 72,
+      "denumire": "Universitatea Lucian Blaga",
+      "abreviere": "ULB",
+      "locatie": "Sibiu",
+      "judet": "Sibiu",
+      "infiintata": 1990,
+      "tip": "Publică",
+      "cui": "4480173"
+    },
+    {
+      "nr": 73,
+      "denumire": "Academia Forțelor Terestre Nicolae Bălcescu",
+      "abreviere": "AFTNB",
+      "locatie": "Sibiu",
+      "judet": "Sibiu",
+      "infiintata": 1949,
+      "tip": "Militară",
+      "cui": "4241117"
+    },
+    {
+      "nr": 74,
+      "denumire": "Universitatea Ștefan cel Mare",
+      "abreviere": "USV",
+      "locatie": "Suceava",
+      "judet": "Suceava",
+      "infiintata": 1990,
+      "tip": "Publică",
+      "cui": "4244423"
+    },
+    {
+      "nr": 75,
+      "denumire": "Universitatea Valahia",
+      "abreviere": "UVT",
+      "locatie": "Târgoviște",
+      "judet": "Dâmbovița",
+      "infiintata": 1992,
+      "tip": "Publică",
+      "cui": "4279685"
+    },
+    {
+      "nr": 76,
+      "denumire": "Universitatea Constantin Brâncuși",
+      "abreviere": "UCB",
+      "locatie": "Târgu Jiu",
+      "judet": "Gorj",
+      "infiintata": 1990,
+      "tip": "Publică",
+      "cui": "4597441"
+    },
+    {
+      "nr": 77,
+      "denumire": "Universitatea de Medicină, Farmacie, Științe și Tehnologie George Emil Palade",
+      "abreviere": "UMFST",
+      "locatie": "Târgu Mureș",
+      "judet": "Târgu Mureș",
+      "infiintata": 1945,
+      "tip": "Publică",
+      "cui": "4322742"
+    },
+    {
+      "nr": 78,
+      "denumire": "Universitatea de Arte din Târgu Mureș",
+      "abreviere": "UAT",
+      "locatie": "Târgu Mureș",
+      "judet": "Târgu Mureș",
+      "infiintata": 1946,
+      "tip": "Publică",
+      "cui": "4323101"
+    },
+    {
+      "nr": 79,
+      "denumire": "Universitatea Dimitrie Cantemir",
+      "abreviere": "UDCTGM",
+      "locatie": "Târgu Mureș",
+      "judet": "Târgu Mureș",
+      "infiintata": 1991,
+      "tip": "Privată",
+      "cui": "17694128"
+    },
+    {
+      "nr": 80,
+      "denumire": "Universitatea Politehnica Timișoara",
+      "abreviere": "UPT",
+      "locatie": "Timișoara",
+      "judet": "Timiș",
+      "infiintata": 1920,
+      "tip": "Publică",
+      "cui": "4269282"
+    },
+    {
+      "nr": 81,
+      "denumire": "Universitatea de Științele Vieții Regele Mihai I",
+      "abreviere": "USVT",
+      "locatie": "Timișoara",
+      "judet": "Timiș",
+      "infiintata": 1945,
+      "tip": "Publică",
+      "cui": "3487181"
+    },
+    {
+      "nr": 82,
+      "denumire": "Universitatea de Vest din Timișoara",
+      "abreviere": "UVT",
+      "locatie": "Timișoara",
+      "judet": "Timiș",
+      "infiintata": 1944,
+      "tip": "Publică",
+      "cui": "4250670"
+    },
+    {
+      "nr": 83,
+      "denumire": "Universitatea de Medicină și Farmacie Victor Babeș",
+      "abreviere": "UMFT",
+      "locatie": "Timișoara",
+      "judet": "Timiș",
+      "infiintata": 1944,
+      "tip": "Publică",
+      "cui": "4269215"
+    },
+    {
+      "nr": 84,
+      "denumire": "Universitatea Tibiscus",
+      "abreviere": "UTT",
+      "locatie": "Timișoara",
+      "judet": "Timiș",
+      "infiintata": 1991,
+      "tip": "Privată",
+      "cui": "2803804"
+    },
+    {
+      "nr": 85,
+      "denumire": "Universitatea Ioan Slavici",
+      "abreviere": "UIS",
+      "locatie": "Timișoara",
+      "judet": "Timiș",
+      "infiintata": 2000,
+      "tip": "Privată",
+      "cui": "51472830"
+    },
+    {
+      "nr": 86,
+      "denumire": "Universitatea Europeană Drăgan",
+      "abreviere": "UED",
+      "locatie": "Lugoj",
+      "judet": "Timiș",
+      "infiintata": 1992,
+      "tip": "Privată",
+      "cui": "15724125"
+    }
+  ],
+  "meta": {
+    "title": "Universități din România - Free Download",
+    "description": "Lista universităților din România cu abreviere, locație, județ, an de înființare și tip (publică/privată). Contains 86 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Universități din România | ListBase",
+    "seo_description": "Download Universități din România — 86 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 86 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Lista_universităților_din_România"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-06T02:39:04.839Z",
-  "total_datasets": 481,
-  "total_records": 167001,
+  "generated": "2026-11-06T02:39:15.220Z",
+  "total_datasets": 482,
+  "total_records": 167087,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 46
+      "dataset_count": 47
     },
     {
       "id": "entertainment",
@@ -1546,6 +1546,35 @@
         "xlsx": {
           "name": "ro-universitati_RO.xlsx",
           "size": 10447
+        }
+      }
+    },
+    {
+      "id": "ro-universitati-lista",
+      "name": "Universități din România",
+      "category": "education",
+      "record_count": 86,
+      "columns": [
+        "nr",
+        "denumire",
+        "abreviere",
+        "locatie",
+        "judet",
+        "infiintata",
+        "tip",
+        "cui"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Lista_universităților_din_România",
+      "updated": "2026-11",
+      "size": 22874,
+      "files": {
+        "csv": {
+          "name": "ro-universitati-lista_RO.csv",
+          "size": 8767
+        },
+        "xlsx": {
+          "name": "ro-universitati-lista_RO.xlsx",
+          "size": 12204
         }
       }
     },
