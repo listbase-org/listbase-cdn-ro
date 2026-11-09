@@ -1,0 +1,344 @@
+{
+  "id": "ro-ministrii-educatiei",
+  "name": "Miniștrii educației ai României (din 1989)",
+  "title": "Miniștrii educației ai României (din 1989)",
+  "description": "Lista miniștrilor educației (învățământului, educației și cercetării) din România după 1989, cu mandatul, partidul și cabinetul.",
+  "category": "education",
+  "source": "https://ro.wikipedia.org/wiki/Ministerul_Educației_și_Cercetării_(România)",
+  "source_url": "https://ro.wikipedia.org/wiki/Ministerul_Educației_și_Cercetării_(România)",
+  "updated": "2026-11",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "nr",
+      "label": "Nr",
+      "type": "number"
+    },
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "inceput_mandat",
+      "label": "Inceput Mandat",
+      "type": "string"
+    },
+    {
+      "key": "sfarsit_mandat",
+      "label": "Sfarsit Mandat",
+      "type": "string"
+    },
+    {
+      "key": "partid",
+      "label": "Partid",
+      "type": "string"
+    },
+    {
+      "key": "cabinet",
+      "label": "Cabinet",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nr": "1",
+      "nume": "Mihai Șora",
+      "inceput_mandat": "26 decembrie 1989",
+      "sfarsit_mandat": "28 iunie 1990",
+      "partid": "Independent",
+      "cabinet": "Roman I"
+    },
+    {
+      "nr": "2",
+      "nume": "Gheorghe Ștefan",
+      "inceput_mandat": "28 iunie 1990",
+      "sfarsit_mandat": "16 octombrie 1991",
+      "partid": "FSN",
+      "cabinet": "Roman II"
+    },
+    {
+      "nr": "3",
+      "nume": "Mihail Golu",
+      "inceput_mandat": "16 octombrie 1991",
+      "sfarsit_mandat": "19 noiembrie 1992",
+      "partid": "FSN",
+      "cabinet": "Stolojan"
+    },
+    {
+      "nr": "4",
+      "nume": "Liviu Maior",
+      "inceput_mandat": "19 noiembrie 1992",
+      "sfarsit_mandat": "12 decembrie 1996",
+      "partid": "FDSN / PDSR",
+      "cabinet": "Văcăroiu"
+    },
+    {
+      "nr": "5",
+      "nume": "Virgil Petrescu",
+      "inceput_mandat": "12 decembrie 1996",
+      "sfarsit_mandat": "5 decembrie 1997",
+      "partid": "PNȚCD",
+      "cabinet": "Ciorbea"
+    },
+    {
+      "nr": "6",
+      "nume": "Andrei Marga",
+      "inceput_mandat": "5 decembrie 1997",
+      "sfarsit_mandat": "28 decembrie 2000",
+      "partid": "PNȚCD",
+      "cabinet": "Ciorbea, Vasile și Isărescu"
+    },
+    {
+      "nr": "7",
+      "nume": "Ecaterina Andronescu",
+      "inceput_mandat": "28 decembrie 2000",
+      "sfarsit_mandat": "19 iunie 2003",
+      "partid": "PSD",
+      "cabinet": "Năstase"
+    },
+    {
+      "nr": "8",
+      "nume": "Alexandru Athanasiu",
+      "inceput_mandat": "19 iunie 2003",
+      "sfarsit_mandat": "28 decembrie 2004",
+      "partid": "PSD",
+      "cabinet": "Năstase"
+    },
+    {
+      "nr": "9",
+      "nume": "Mircea Miclea",
+      "inceput_mandat": "28 decembrie 2004",
+      "sfarsit_mandat": "10 noiembrie 2005",
+      "partid": "PD",
+      "cabinet": "Tăriceanu"
+    },
+    {
+      "nr": "10",
+      "nume": "Mihai Hărdău",
+      "inceput_mandat": "10 noiembrie 2005",
+      "sfarsit_mandat": "5 aprilie 2007",
+      "partid": "PD",
+      "cabinet": "Tăriceanu"
+    },
+    {
+      "nr": "11",
+      "nume": "Cristian Adomniței",
+      "inceput_mandat": "5 aprilie 2007",
+      "sfarsit_mandat": "6 octombrie 2008",
+      "partid": "PNL",
+      "cabinet": "Tăriceanu"
+    },
+    {
+      "nr": "12",
+      "nume": "Anton Anton",
+      "inceput_mandat": "6 octombrie 2008",
+      "sfarsit_mandat": "22 decembrie 2008",
+      "partid": "PNL",
+      "cabinet": "Tăriceanu"
+    },
+    {
+      "nr": "13",
+      "nume": "Ecaterina Andronescu",
+      "inceput_mandat": "22 decembrie 2008",
+      "sfarsit_mandat": "1 octombrie 2009",
+      "partid": "PSD",
+      "cabinet": "Boc I"
+    },
+    {
+      "nr": "14",
+      "nume": "Emil Boc",
+      "inceput_mandat": "1 octombrie 2009",
+      "sfarsit_mandat": "23 decembrie 2009",
+      "partid": "PDL",
+      "cabinet": "Boc I"
+    },
+    {
+      "nr": "15",
+      "nume": "Daniel Funeriu",
+      "inceput_mandat": "23 decembrie 2009",
+      "sfarsit_mandat": "9 februarie 2012",
+      "partid": "PDL",
+      "cabinet": "Boc II"
+    },
+    {
+      "nr": "16",
+      "nume": "Cătălin Baba",
+      "inceput_mandat": "9 februarie 2012",
+      "sfarsit_mandat": "7 mai 2012",
+      "partid": "PDL",
+      "cabinet": "Ungureanu"
+    },
+    {
+      "nr": "17",
+      "nume": "Ioan Mang",
+      "inceput_mandat": "7 mai 2012",
+      "sfarsit_mandat": "15 mai 2012",
+      "partid": "PSD",
+      "cabinet": "Ponta I"
+    },
+    {
+      "nr": "18",
+      "nume": "Liviu Pop",
+      "inceput_mandat": "15 mai 2012",
+      "sfarsit_mandat": "2 iulie 2012",
+      "partid": "Independent",
+      "cabinet": "Ponta I"
+    },
+    {
+      "nr": "19",
+      "nume": "Ecaterina Andronescu",
+      "inceput_mandat": "2 iulie 2012",
+      "sfarsit_mandat": "21 decembrie 2012",
+      "partid": "PSD",
+      "cabinet": "Ponta I"
+    },
+    {
+      "nr": "20",
+      "nume": "Remus Pricopie",
+      "inceput_mandat": "21 decembrie 2012",
+      "sfarsit_mandat": "17 decembrie 2014",
+      "partid": "PSD",
+      "cabinet": "Ponta II și Ponta III"
+    },
+    {
+      "nr": "21",
+      "nume": "Sorin Cîmpeanu",
+      "inceput_mandat": "17 decembrie 2014",
+      "sfarsit_mandat": "17 noiembrie 2015",
+      "partid": "Independent",
+      "cabinet": "Ponta IV"
+    },
+    {
+      "nr": "22",
+      "nume": "Adrian Curaj",
+      "inceput_mandat": "17 noiembrie 2015",
+      "sfarsit_mandat": "5 iulie 2016",
+      "partid": "Independent",
+      "cabinet": "Cioloș"
+    },
+    {
+      "nr": "23",
+      "nume": "Mircea Dumitru",
+      "inceput_mandat": "5 iulie 2016",
+      "sfarsit_mandat": "4 ianuarie 2017",
+      "partid": "Independent",
+      "cabinet": "Cioloș"
+    },
+    {
+      "nr": "24",
+      "nume": "Pavel Năstase",
+      "inceput_mandat": "4 ianuarie 2017",
+      "sfarsit_mandat": "29 iunie 2017",
+      "partid": "PSD",
+      "cabinet": "Grindeanu"
+    },
+    {
+      "nr": "25",
+      "nume": "Liviu Pop",
+      "inceput_mandat": "29 iunie 2017",
+      "sfarsit_mandat": "29 ianuarie 2018",
+      "partid": "PSD",
+      "cabinet": "Tudose"
+    },
+    {
+      "nr": "26",
+      "nume": "Valentin Popa",
+      "inceput_mandat": "29 ianuarie 2018",
+      "sfarsit_mandat": "28 septembrie 2018",
+      "partid": "PSD",
+      "cabinet": "Dăncilă"
+    },
+    {
+      "nr": "27",
+      "nume": "Rovana Plumb",
+      "inceput_mandat": "28 septembrie 2018",
+      "sfarsit_mandat": "16 noiembrie 2018",
+      "partid": "PSD",
+      "cabinet": "Dăncilă"
+    },
+    {
+      "nr": "28",
+      "nume": "Ecaterina Andronescu",
+      "inceput_mandat": "16 noiembrie 2018",
+      "sfarsit_mandat": "2 august 2019",
+      "partid": "PSD",
+      "cabinet": "Dăncilă"
+    },
+    {
+      "nr": "29",
+      "nume": "Daniel Breaz",
+      "inceput_mandat": "2 august 2019",
+      "sfarsit_mandat": "4 noiembrie 2019",
+      "partid": "PSD",
+      "cabinet": "Dăncilă"
+    },
+    {
+      "nr": "30",
+      "nume": "Monica Anisie",
+      "inceput_mandat": "4 noiembrie 2019",
+      "sfarsit_mandat": "23 decembrie 2020",
+      "partid": "PNL",
+      "cabinet": "Orban I și Orban II"
+    },
+    {
+      "nr": "31",
+      "nume": "Sorin Cîmpeanu",
+      "inceput_mandat": "23 decembrie 2020",
+      "sfarsit_mandat": "29 septembrie 2022",
+      "partid": "PNL",
+      "cabinet": "Cîțu și Ciucă"
+    },
+    {
+      "nr": "32",
+      "nume": "Ligia Deca",
+      "inceput_mandat": "3 octombrie 2022",
+      "sfarsit_mandat": "22 decembrie 2024",
+      "partid": "PNL",
+      "cabinet": "Ciucă și Ciolacu"
+    },
+    {
+      "nr": "33",
+      "nume": "Daniel David",
+      "inceput_mandat": "23 decembrie 2024",
+      "sfarsit_mandat": "14 ianuarie 2026",
+      "partid": "Independent",
+      "cabinet": "Ciolacu și Bolojan"
+    },
+    {
+      "nr": "34",
+      "nume": "Ilie Bolojan",
+      "inceput_mandat": "14 ianuarie 2026",
+      "sfarsit_mandat": "27 febriuarie 2026",
+      "partid": "PNL",
+      "cabinet": "Bolojan"
+    },
+    {
+      "nr": "35",
+      "nume": "Mihai Dimian",
+      "inceput_mandat": "3 martie 2026",
+      "sfarsit_mandat": "20 octombrie 2026",
+      "partid": "Independent",
+      "cabinet": "Bolojan"
+    },
+    {
+      "nr": "34",
+      "nume": "Valentin-Sorin Costreie",
+      "inceput_mandat": "20 octombrie 2026",
+      "sfarsit_mandat": "",
+      "partid": "Independent",
+      "cabinet": "Niculescu"
+    }
+  ],
+  "meta": {
+    "title": "Miniștrii educației ai României (din 1989) - Free Download",
+    "description": "Lista miniștrilor educației (învățământului, educației și cercetării) din România după 1989, cu mandatul, partidul și cabinetul. Contains 36 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Miniștrii educației ai României (din 1989) | ListBase",
+    "seo_description": "Download Miniștrii educației ai României (din 1989) — 36 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 36 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Ministerul_Educației_și_Cercetării_(România)"
+    ]
+  }
+}

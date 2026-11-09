@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-09T02:17:47.173Z",
-  "total_datasets": 485,
-  "total_records": 167308,
+  "generated": "2026-11-09T02:17:54.997Z",
+  "total_datasets": 486,
+  "total_records": 167344,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 48
+      "dataset_count": 49
     },
     {
       "id": "entertainment",
@@ -1214,6 +1214,33 @@
         "xlsx": {
           "name": "ro-mehedinti-licee_RO.xlsx",
           "size": 7669
+        }
+      }
+    },
+    {
+      "id": "ro-ministrii-educatiei",
+      "name": "Miniștrii educației ai României (din 1989)",
+      "category": "education",
+      "record_count": 36,
+      "columns": [
+        "nr",
+        "nume",
+        "inceput_mandat",
+        "sfarsit_mandat",
+        "partid",
+        "cabinet"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Ministerul_Educației_și_Cercetării_(România)",
+      "updated": "2026-11",
+      "size": 9275,
+      "files": {
+        "csv": {
+          "name": "ro-ministrii-educatiei_RO.csv",
+          "size": 2927
+        },
+        "xlsx": {
+          "name": "ro-ministrii-educatiei_RO.xlsx",
+          "size": 8635
         }
       }
     },
