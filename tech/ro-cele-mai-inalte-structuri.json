@@ -1,0 +1,1320 @@
+{
+  "id": "ro-cele-mai-inalte-structuri",
+  "name": "Cele mai înalte structuri din România",
+  "title": "Cele mai înalte structuri din România",
+  "description": "Lista celor mai înalte construcții din România (coșuri industriale, turnuri de televiziune, antene, turbine eoliene, clădiri), cu amplasament, tip, an și înălțime.",
+  "category": "tech",
+  "source": "https://ro.wikipedia.org/wiki/Lista_celor_mai_înalte_structuri_din_România",
+  "source_url": "https://ro.wikipedia.org/wiki/Lista_celor_mai_înalte_structuri_din_România",
+  "updated": "2026-11",
+  "record_count": 158,
+  "columns": [
+    {
+      "key": "structura",
+      "label": "Structura",
+      "type": "string"
+    },
+    {
+      "key": "amplasament",
+      "label": "Amplasament",
+      "type": "string"
+    },
+    {
+      "key": "tip",
+      "label": "Tip",
+      "type": "string"
+    },
+    {
+      "key": "an_punere_functiune",
+      "label": "An Punere Functiune",
+      "type": "number"
+    },
+    {
+      "key": "inaltime_m",
+      "label": "Inaltime M",
+      "type": "number"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "structura": "Turnul Combinatului Cuprom",
+      "amplasament": "Baia Mare",
+      "tip": "Coș industrial",
+      "an_punere_functiune": 1995,
+      "inaltime_m": 351.5,
+      "note": ""
+    },
+    {
+      "structura": "ROMAG TERMO",
+      "amplasament": "Halânga, Mehedinți",
+      "tip": "Coș industrial",
+      "an_punere_functiune": 1981,
+      "inaltime_m": 300,
+      "note": ""
+    },
+    {
+      "structura": "Tetkron Brașov (fost CET Brașov)",
+      "amplasament": "Brașov",
+      "tip": "Coș industrial",
+      "an_punere_functiune": "",
+      "inaltime_m": 280,
+      "note": ""
+    },
+    {
+      "structura": "Complexul Energetic Turceni",
+      "amplasament": "Turceni",
+      "tip": "Coș industrial",
+      "an_punere_functiune": "",
+      "inaltime_m": 280,
+      "note": ""
+    },
+    {
+      "structura": "Complexul Energetic Rovinari",
+      "amplasament": "Rovinari",
+      "tip": "Coș industrial",
+      "an_punere_functiune": "",
+      "inaltime_m": 280,
+      "note": ""
+    },
+    {
+      "structura": "CET Sud Pitești",
+      "amplasament": "Pitești",
+      "tip": "Coș industrial",
+      "an_punere_functiune": 1989,
+      "inaltime_m": 280,
+      "note": "Alte surse menționează 310 m sau 180 m"
+    },
+    {
+      "structura": "Turnul IFA",
+      "amplasament": "Suceava",
+      "tip": "Coș industrial",
+      "an_punere_functiune": 1984,
+      "inaltime_m": 265,
+      "note": ""
+    },
+    {
+      "structura": "CET Târgu Jiu",
+      "amplasament": "Târgu Jiu",
+      "tip": "Coș industrial",
+      "an_punere_functiune": "",
+      "inaltime_m": 256,
+      "note": ""
+    },
+    {
+      "structura": "Stația de emisie Bod",
+      "amplasament": "Bod, Brașov",
+      "tip": "Releu",
+      "an_punere_functiune": "",
+      "inaltime_m": 250,
+      "note": ""
+    },
+    {
+      "structura": "Sometra Copșa Mică",
+      "amplasament": "Copșa Mică",
+      "tip": "Coș industrial",
+      "an_punere_functiune": "",
+      "inaltime_m": 250,
+      "note": ""
+    },
+    {
+      "structura": "CET Chișcani",
+      "amplasament": "Chiscani, Brăila",
+      "tip": "Coș industrial",
+      "an_punere_functiune": "",
+      "inaltime_m": 200,
+      "note": ""
+    },
+    {
+      "structura": "CET Progresu",
+      "amplasament": "București",
+      "tip": "Coș industrial",
+      "an_punere_functiune": "",
+      "inaltime_m": 240,
+      "note": ""
+    },
+    {
+      "structura": "Stația de emisie Rus",
+      "amplasament": "Rus, Sălaj",
+      "tip": "Releu",
+      "an_punere_functiune": "",
+      "inaltime_m": 240,
+      "note": ""
+    },
+    {
+      "structura": "Releul Feleacu",
+      "amplasament": "Feleacu, Cluj",
+      "tip": "Releu",
+      "an_punere_functiune": "",
+      "inaltime_m": 220,
+      "note": ""
+    },
+    {
+      "structura": "CET Constanța",
+      "amplasament": "Constanța",
+      "tip": "Coș industrial",
+      "an_punere_functiune": "",
+      "inaltime_m": 250,
+      "note": ""
+    },
+    {
+      "structura": "Stația de emisie Boldur",
+      "amplasament": "Boldur, Timiș",
+      "tip": "Releu",
+      "an_punere_functiune": 1969,
+      "inaltime_m": 213,
+      "note": ""
+    },
+    {
+      "structura": "Electrocentrale Deva",
+      "amplasament": "Mintia, Hunedoara",
+      "tip": "Coș industrial",
+      "an_punere_functiune": 1971,
+      "inaltime_m": 220,
+      "note": ""
+    },
+    {
+      "structura": "Ampelum Zlatna",
+      "amplasament": "Zlatna",
+      "tip": "Coș industrial",
+      "an_punere_functiune": 1988,
+      "inaltime_m": 220,
+      "note": ""
+    },
+    {
+      "structura": "CET Crivina",
+      "amplasament": "Anina",
+      "tip": "Coș industrial",
+      "an_punere_functiune": 1976,
+      "inaltime_m": 220,
+      "note": "Demolat în 2009"
+    },
+    {
+      "structura": "Stația de emisie Văcăreni",
+      "amplasament": "Văcăreni, Tulcea",
+      "tip": "Releu",
+      "an_punere_functiune": 1985,
+      "inaltime_m": 218,
+      "note": ""
+    },
+    {
+      "structura": "Turnul foste întreprinderi Vâscoza",
+      "amplasament": "Lupeni",
+      "tip": "Coș industrial",
+      "an_punere_functiune": "",
+      "inaltime_m": 216.4,
+      "note": ""
+    },
+    {
+      "structura": "Stația de emisie Boiu",
+      "amplasament": "Boiu, Hunedoara",
+      "tip": "Releu",
+      "an_punere_functiune": "",
+      "inaltime_m": 216,
+      "note": ""
+    },
+    {
+      "structura": "CET Bacău",
+      "amplasament": "Bacău",
+      "tip": "Coș industrial",
+      "an_punere_functiune": "",
+      "inaltime_m": 230,
+      "note": ""
+    },
+    {
+      "structura": "Stația de emisie Mihoveni",
+      "amplasament": "Mihoveni, Suceava",
+      "tip": "Releu",
+      "an_punere_functiune": "",
+      "inaltime_m": 214,
+      "note": ""
+    },
+    {
+      "structura": "Stația de emisie Săveni",
+      "amplasament": "Săveni",
+      "tip": "Releu",
+      "an_punere_functiune": 1988,
+      "inaltime_m": 200,
+      "note": ""
+    },
+    {
+      "structura": "Stația de emisie Urseni",
+      "amplasament": "Urseni, Timiș",
+      "tip": "Releu",
+      "an_punere_functiune": "",
+      "inaltime_m": 212,
+      "note": ""
+    },
+    {
+      "structura": "CET Doicești",
+      "amplasament": "Doicești, Dâmbovița",
+      "tip": "Coș industrial",
+      "an_punere_functiune": "",
+      "inaltime_m": 208,
+      "note": "Demolat în 2022"
+    },
+    {
+      "structura": "Stația de emisie Balota",
+      "amplasament": "Balota, Mehedinți",
+      "tip": "Releu",
+      "an_punere_functiune": "",
+      "inaltime_m": 208,
+      "note": ""
+    },
+    {
+      "structura": "Parcul eolian Ruginoasa",
+      "amplasament": "Ruginoasa, Iași",
+      "tip": "Turbină eoliană",
+      "an_punere_functiune": "",
+      "inaltime_m": 206,
+      "note": ""
+    },
+    {
+      "structura": "Turnul Combinatului",
+      "amplasament": "Dej",
+      "tip": "Coș industrial",
+      "an_punere_functiune": "",
+      "inaltime_m": 204,
+      "note": "Demolat în 2011"
+    },
+    {
+      "structura": "CET Arad",
+      "amplasament": "Arad",
+      "tip": "Coș industrial",
+      "an_punere_functiune": "",
+      "inaltime_m": 200,
+      "note": ""
+    },
+    {
+      "structura": "Turnul de telecomunicații Ciurel",
+      "amplasament": "București",
+      "tip": "Turn zăbrelit",
+      "an_punere_functiune": "",
+      "inaltime_m": 200,
+      "note": ""
+    },
+    {
+      "structura": "Stația de emisie Căprioara",
+      "amplasament": "Popeni, Vaslui",
+      "tip": "Releu",
+      "an_punere_functiune": "",
+      "inaltime_m": 200,
+      "note": ""
+    },
+    {
+      "structura": "Complexul Energetic Craiova",
+      "amplasament": "Craiova",
+      "tip": "Coș industrial",
+      "an_punere_functiune": "",
+      "inaltime_m": 200,
+      "note": "Alte surse menționează 150 m"
+    },
+    {
+      "structura": "Podul peste Dunăre de la Brăila",
+      "amplasament": "Brăila",
+      "tip": "Pod suspendat",
+      "an_punere_functiune": 2023,
+      "inaltime_m": 192,
+      "note": ""
+    },
+    {
+      "structura": "CET Sud Timișoara",
+      "amplasament": "Timișoara",
+      "tip": "Coș industrial",
+      "an_punere_functiune": "",
+      "inaltime_m": 181,
+      "note": ""
+    },
+    {
+      "structura": "Turnul de telecomunicații Strejnicu",
+      "amplasament": "Strejnicu, Prahova",
+      "tip": "Turn zăbrelit",
+      "an_punere_functiune": "",
+      "inaltime_m": 199,
+      "note": ""
+    },
+    {
+      "structura": "Stația de emisie Șcheia",
+      "amplasament": "Șcheia, Suceava",
+      "tip": "Releu",
+      "an_punere_functiune": "",
+      "inaltime_m": 197,
+      "note": ""
+    },
+    {
+      "structura": "Stația de emisie Orțișoara",
+      "amplasament": "Orțișoara, Timiș",
+      "tip": "Releu",
+      "an_punere_functiune": "",
+      "inaltime_m": 118,
+      "note": ""
+    },
+    {
+      "structura": "Stația de emisie Pietrăria",
+      "amplasament": "Pietrăria, Iași",
+      "tip": "Releu",
+      "an_punere_functiune": "",
+      "inaltime_m": 193,
+      "note": ""
+    },
+    {
+      "structura": "Parcul eolian Vârlezi",
+      "amplasament": "Vârlezi, Galați",
+      "tip": "Turbină eoliană",
+      "an_punere_functiune": "",
+      "inaltime_m": 150,
+      "note": ""
+    },
+    {
+      "structura": "Stația de emisie Voinești",
+      "amplasament": "Voinești, Dâmbovița",
+      "tip": "Releu",
+      "an_punere_functiune": "",
+      "inaltime_m": "",
+      "note": ""
+    },
+    {
+      "structura": "Stația de emisie Tâncăbești",
+      "amplasament": "Tâncăbești, Ilfov",
+      "tip": "Releu",
+      "an_punere_functiune": "",
+      "inaltime_m": 187,
+      "note": ""
+    },
+    {
+      "structura": "CET Slatina",
+      "amplasament": "Slatina",
+      "tip": "Coș industrial",
+      "an_punere_functiune": "",
+      "inaltime_m": 186,
+      "note": "Demolat în 2011"
+    },
+    {
+      "structura": "CET I Oradea",
+      "amplasament": "Oradea",
+      "tip": "Coș industrial",
+      "an_punere_functiune": "",
+      "inaltime_m": 180,
+      "note": ""
+    },
+    {
+      "structura": "CET Vest București",
+      "amplasament": "București",
+      "tip": "Coș industrial",
+      "an_punere_functiune": 1972,
+      "inaltime_m": 180,
+      "note": ""
+    },
+    {
+      "structura": "CET II Borzești",
+      "amplasament": "Onești",
+      "tip": "Coș industrial",
+      "an_punere_functiune": "",
+      "inaltime_m": 180,
+      "note": "Demolat în 2013"
+    },
+    {
+      "structura": "CET Suceava",
+      "amplasament": "Suceava",
+      "tip": "Coș industrial",
+      "an_punere_functiune": "",
+      "inaltime_m": 180,
+      "note": ""
+    },
+    {
+      "structura": "CET Zalău",
+      "amplasament": "Zalău",
+      "tip": "Coș industrial",
+      "an_punere_functiune": "",
+      "inaltime_m": 168,
+      "note": ""
+    },
+    {
+      "structura": "CET II Holboca",
+      "amplasament": "Holboca, Iași",
+      "tip": "Coș industrial",
+      "an_punere_functiune": 1986,
+      "inaltime_m": 164,
+      "note": ""
+    },
+    {
+      "structura": "Barajul Gura Apelor",
+      "amplasament": "Munții Retezat, Hunedoara",
+      "tip": "Baraj",
+      "an_punere_functiune": 1986,
+      "inaltime_m": 168,
+      "note": ""
+    },
+    {
+      "structura": "Stația de emisie Oradea",
+      "amplasament": "Oradea",
+      "tip": "Releu",
+      "an_punere_functiune": "",
+      "inaltime_m": 167,
+      "note": ""
+    },
+    {
+      "structura": "Barajul Vidraru",
+      "amplasament": "Munții Făgăraș, Argeș",
+      "tip": "Baraj",
+      "an_punere_functiune": "",
+      "inaltime_m": 166.6,
+      "note": ""
+    },
+    {
+      "structura": "Stația de emisie Jucu",
+      "amplasament": "Jucu de Sus, Cluj",
+      "tip": "Releu",
+      "an_punere_functiune": "",
+      "inaltime_m": 165,
+      "note": ""
+    },
+    {
+      "structura": "CET Paroșeni",
+      "amplasament": "Jiu-Paroșeni, Hunedoara",
+      "tip": "Coș industrial",
+      "an_punere_functiune": "",
+      "inaltime_m": 160,
+      "note": ""
+    },
+    {
+      "structura": "CET II Oradea",
+      "amplasament": "Oradea",
+      "tip": "Coș industrial",
+      "an_punere_functiune": 1987,
+      "inaltime_m": 160,
+      "note": "Demolat în 2016"
+    },
+    {
+      "structura": "Parcul eolian Valea Nucarilor",
+      "amplasament": "Valea Nucarilor, Tulcea",
+      "tip": "Turbină eoliană",
+      "an_punere_functiune": "",
+      "inaltime_m": 155,
+      "note": ""
+    },
+    {
+      "structura": "Stația de emisie Dobrogea-Sud",
+      "amplasament": "Băneasa, Constanța",
+      "tip": "Releu",
+      "an_punere_functiune": "",
+      "inaltime_m": 153,
+      "note": ""
+    },
+    {
+      "structura": "Stația de emisie Uricani",
+      "amplasament": "Uricani",
+      "tip": "Releu",
+      "an_punere_functiune": "",
+      "inaltime_m": 152,
+      "note": ""
+    },
+    {
+      "structura": "Antibiotice Iași",
+      "amplasament": "Iași",
+      "tip": "Coș industrial",
+      "an_punere_functiune": "",
+      "inaltime_m": 152,
+      "note": ""
+    },
+    {
+      "structura": "Donasid Călărași",
+      "amplasament": "Călărași",
+      "tip": "Coș industrial",
+      "an_punere_functiune": 1979,
+      "inaltime_m": 152,
+      "note": ""
+    },
+    {
+      "structura": "LEA Cernavodă-Stâlpu",
+      "amplasament": "Constanța, Ialomița",
+      "tip": "Turn zăbrelit",
+      "an_punere_functiune": 2022,
+      "inaltime_m": 150,
+      "note": "Sunt 2 stâlpi de 150 m la Dunăre și 2 stâlpi de 100 m peste brațul Borcea."
+    },
+    {
+      "structura": "Turnul de Televiziune",
+      "amplasament": "Galați",
+      "tip": "Turn din beton",
+      "an_punere_functiune": 1978,
+      "inaltime_m": 150,
+      "note": ""
+    },
+    {
+      "structura": "Turnul de Televiziune",
+      "amplasament": "Bacău",
+      "tip": "Turn din beton",
+      "an_punere_functiune": "",
+      "inaltime_m": 148,
+      "note": ""
+    },
+    {
+      "structura": "Parcul eolian Săcele",
+      "amplasament": "Săcele, Constanța",
+      "tip": "Turbină eoliană",
+      "an_punere_functiune": "",
+      "inaltime_m": 150,
+      "note": ""
+    },
+    {
+      "structura": "Platforma Petromidia",
+      "amplasament": "Năvodari",
+      "tip": "Coș industrial",
+      "an_punere_functiune": "",
+      "inaltime_m": 150,
+      "note": ""
+    },
+    {
+      "structura": "Parcul eolian Mihai Viteazu",
+      "amplasament": "Mihai Viteazu, Constanța",
+      "tip": "Turbină eoliană",
+      "an_punere_functiune": "",
+      "inaltime_m": 150,
+      "note": ""
+    },
+    {
+      "structura": "Parcul eolian Cogealac",
+      "amplasament": "Cogealac, Constanța",
+      "tip": "Turbină eoliană",
+      "an_punere_functiune": "",
+      "inaltime_m": 150,
+      "note": ""
+    },
+    {
+      "structura": "Parcul eolian Fântânele",
+      "amplasament": "Fântânele, Constanța",
+      "tip": "Turbină eoliană",
+      "an_punere_functiune": "",
+      "inaltime_m": 150,
+      "note": ""
+    },
+    {
+      "structura": "Parcul eolian Dorobanțu",
+      "amplasament": "Dorobanțu, Tulcea",
+      "tip": "Turbină eoliană",
+      "an_punere_functiune": "",
+      "inaltime_m": 150,
+      "note": ""
+    },
+    {
+      "structura": "Parcul eolian Albești",
+      "amplasament": "Albești, Vaslui",
+      "tip": "Turbină eoliană",
+      "an_punere_functiune": "",
+      "inaltime_m": 150,
+      "note": ""
+    },
+    {
+      "structura": "Parcul eolian Vutcani",
+      "amplasament": "Vutcani, Vaslui",
+      "tip": "Turbină eoliană",
+      "an_punere_functiune": "",
+      "inaltime_m": 150,
+      "note": ""
+    },
+    {
+      "structura": "Parcul eolian Peștera",
+      "amplasament": "Peștera, Constanța",
+      "tip": "Turbină eoliană",
+      "an_punere_functiune": "",
+      "inaltime_m": 150,
+      "note": ""
+    },
+    {
+      "structura": "Parcul eolian Siliștea",
+      "amplasament": "Siliștea, Constanța",
+      "tip": "Turbină eoliană",
+      "an_punere_functiune": "",
+      "inaltime_m": 150,
+      "note": ""
+    },
+    {
+      "structura": "Parcul eolian Pecineaga",
+      "amplasament": "Pecineaga, Constanța",
+      "tip": "Turbină eoliană",
+      "an_punere_functiune": "",
+      "inaltime_m": 150,
+      "note": ""
+    },
+    {
+      "structura": "Parcul eolian Crucea",
+      "amplasament": "Crucea, Constanța",
+      "tip": "Turbină eoliană",
+      "an_punere_functiune": "",
+      "inaltime_m": 150,
+      "note": ""
+    },
+    {
+      "structura": "Parcul eolian Tortoman",
+      "amplasament": "Tortoman, Constanța",
+      "tip": "Turbină eoliană",
+      "an_punere_functiune": "",
+      "inaltime_m": 150,
+      "note": ""
+    },
+    {
+      "structura": "Parcul eolian Târgușor",
+      "amplasament": "Târgușor, Constanța",
+      "tip": "Turbină eoliană",
+      "an_punere_functiune": "",
+      "inaltime_m": 150,
+      "note": ""
+    },
+    {
+      "structura": "Parcul eolian Cernavodă",
+      "amplasament": "Cernavodă",
+      "tip": "Turbină eoliană",
+      "an_punere_functiune": "",
+      "inaltime_m": 150,
+      "note": ""
+    },
+    {
+      "structura": "Parcul eolian Însurăței",
+      "amplasament": "Însurăței",
+      "tip": "Turbină eoliană",
+      "an_punere_functiune": "",
+      "inaltime_m": 150,
+      "note": ""
+    },
+    {
+      "structura": "Parcul eolian Smulți",
+      "amplasament": "Smulți, Galați",
+      "tip": "Turbină eoliană",
+      "an_punere_functiune": "",
+      "inaltime_m": 150,
+      "note": ""
+    },
+    {
+      "structura": "Stația de emisie Șiria",
+      "amplasament": "Șiria, Arad",
+      "tip": "Releu",
+      "an_punere_functiune": "",
+      "inaltime_m": 122,
+      "note": ""
+    },
+    {
+      "structura": "Turnul de televiziune",
+      "amplasament": "Techirghiol",
+      "tip": "Turn din beton",
+      "an_punere_functiune": "",
+      "inaltime_m": 195,
+      "note": ""
+    },
+    {
+      "structura": "Parcul eolian Casimcea",
+      "amplasament": "Casimcea, Tulcea",
+      "tip": "Turbină eoliană",
+      "an_punere_functiune": "",
+      "inaltime_m": 150,
+      "note": ""
+    },
+    {
+      "structura": "Turnul de telecomunicații Radiocom",
+      "amplasament": "București",
+      "tip": "Turn zăbrelit",
+      "an_punere_functiune": "",
+      "inaltime_m": 145,
+      "note": ""
+    },
+    {
+      "structura": "CET Govora",
+      "amplasament": "Râmnicu Vâlcea, Vâlcea",
+      "tip": "Coș de fum",
+      "an_punere_functiune": "",
+      "inaltime_m": 140,
+      "note": ""
+    },
+    {
+      "structura": "Turnul de telecomunicații Slatina",
+      "amplasament": "Slatina",
+      "tip": "Turn zăbrelit",
+      "an_punere_functiune": "",
+      "inaltime_m": 105,
+      "note": ""
+    },
+    {
+      "structura": "Stația de emisie Botiz",
+      "amplasament": "Botiz, Satu Mare",
+      "tip": "Releu",
+      "an_punere_functiune": "",
+      "inaltime_m": 139,
+      "note": ""
+    },
+    {
+      "structura": "Stația de emisie Târgu Jiu",
+      "amplasament": "Târgu Jiu",
+      "tip": "Releu",
+      "an_punere_functiune": "",
+      "inaltime_m": 138.7,
+      "note": ""
+    },
+    {
+      "structura": "Stația de emisie Galbeni",
+      "amplasament": "Galbeni, Bacău",
+      "tip": "Releu",
+      "an_punere_functiune": "",
+      "inaltime_m": "",
+      "note": ""
+    },
+    {
+      "structura": "Turnul de telecomunicații Câmpia Turzii",
+      "amplasament": "Câmpia Turzii",
+      "tip": "Turn zăbrelit",
+      "an_punere_functiune": "",
+      "inaltime_m": 135,
+      "note": ""
+    },
+    {
+      "structura": "Parcul eolian Limanu",
+      "amplasament": "Limanu, Constanța",
+      "tip": "Turbină eoliană",
+      "an_punere_functiune": "",
+      "inaltime_m": 134,
+      "note": ""
+    },
+    {
+      "structura": "Releul Măgura Boiului",
+      "amplasament": "Deva",
+      "tip": "Turn zăbrelit",
+      "an_punere_functiune": 1992,
+      "inaltime_m": 200,
+      "note": ""
+    },
+    {
+      "structura": "Stația de emisie Ciuperceni",
+      "amplasament": "Ciuperceni, Teleorman",
+      "tip": "Releu",
+      "an_punere_functiune": "",
+      "inaltime_m": "",
+      "note": ""
+    },
+    {
+      "structura": "CPL Bistrița",
+      "amplasament": "Bistrița",
+      "tip": "Coș industrial",
+      "an_punere_functiune": "",
+      "inaltime_m": 120,
+      "note": ""
+    },
+    {
+      "structura": "Turnul de telecomunicații Tei",
+      "amplasament": "București",
+      "tip": "Turn zăbrelit",
+      "an_punere_functiune": "",
+      "inaltime_m": 127,
+      "note": ""
+    },
+    {
+      "structura": "Barajul Bicaz",
+      "amplasament": "Masivul Ceahlău, Neamț",
+      "tip": "Baraj",
+      "an_punere_functiune": "",
+      "inaltime_m": 127,
+      "note": ""
+    },
+    {
+      "structura": "Portul Bechet stâlp electric",
+      "amplasament": "Bechet",
+      "tip": "Turn zăbrelit",
+      "an_punere_functiune": 1967,
+      "inaltime_m": 126.5,
+      "note": ""
+    },
+    {
+      "structura": "Parcul eolian Rahman",
+      "amplasament": "Rahman, Tulcea",
+      "tip": "Turbină eoliană",
+      "an_punere_functiune": "",
+      "inaltime_m": 120,
+      "note": ""
+    },
+    {
+      "structura": "Parcul eolian Baia",
+      "amplasament": "Baia, Tulcea",
+      "tip": "Turbină eoliană",
+      "an_punere_functiune": "",
+      "inaltime_m": 150,
+      "note": ""
+    },
+    {
+      "structura": "Releul Iscroni",
+      "amplasament": "Iscroni, Hunedoara",
+      "tip": "Releu",
+      "an_punere_functiune": "",
+      "inaltime_m": 123,
+      "note": ""
+    },
+    {
+      "structura": "CET 2 Ploiești",
+      "amplasament": "Ploiești",
+      "tip": "Coș industrial",
+      "an_punere_functiune": 1977,
+      "inaltime_m": 125,
+      "note": ""
+    },
+    {
+      "structura": "Barajul Poiana Mărului",
+      "amplasament": "Poiana Mărului, Caraș-Severin",
+      "tip": "Baraj",
+      "an_punere_functiune": "",
+      "inaltime_m": 125,
+      "note": "pe râul Bistra Mărului"
+    },
+    {
+      "structura": "Barajul Siriu",
+      "amplasament": "Masivul Siriu, Buzău",
+      "tip": "Baraj",
+      "an_punere_functiune": 1988,
+      "inaltime_m": 123,
+      "note": ""
+    },
+    {
+      "structura": "CET Botoșani",
+      "amplasament": "Botoșani",
+      "tip": "Coș industrial",
+      "an_punere_functiune": "",
+      "inaltime_m": 120,
+      "note": ""
+    },
+    {
+      "structura": "Turnul de telecomunicații Tulcea",
+      "amplasament": "Tulcea",
+      "tip": "Turn zăbrelit",
+      "an_punere_functiune": "",
+      "inaltime_m": 120,
+      "note": ""
+    },
+    {
+      "structura": "CET Brazi",
+      "amplasament": "Brazi, Prahova",
+      "tip": "Coș industrial",
+      "an_punere_functiune": 1973,
+      "inaltime_m": 120,
+      "note": ""
+    },
+    {
+      "structura": "Romplumb Baia Mare",
+      "amplasament": "Baia Mare",
+      "tip": "Coș industrial",
+      "an_punere_functiune": "",
+      "inaltime_m": 120,
+      "note": ""
+    },
+    {
+      "structura": "Barajul Drăgan",
+      "amplasament": "Munții Apuseni, Cluj",
+      "tip": "Baraj",
+      "an_punere_functiune": 1984,
+      "inaltime_m": 120,
+      "note": ""
+    },
+    {
+      "structura": "CET Sud București",
+      "amplasament": "București",
+      "tip": "Coș industrial",
+      "an_punere_functiune": 1965,
+      "inaltime_m": 120,
+      "note": ""
+    },
+    {
+      "structura": "Barajul Vidra",
+      "amplasament": "Voineasa, Vâlcea",
+      "tip": "Baraj",
+      "an_punere_functiune": "",
+      "inaltime_m": 118,
+      "note": ""
+    },
+    {
+      "structura": "Barajul Râușor",
+      "amplasament": "Munții Iezer-Păpușa, Argeș",
+      "tip": "Baraj",
+      "an_punere_functiune": 1987,
+      "inaltime_m": 117,
+      "note": ""
+    },
+    {
+      "structura": "Aglomeratorul II",
+      "amplasament": "Hunedoara",
+      "tip": "Coș industrial",
+      "an_punere_functiune": "",
+      "inaltime_m": "",
+      "note": ""
+    },
+    {
+      "structura": "Stația de emisie Topolog",
+      "amplasament": "Topolog, Tulcea",
+      "tip": "Releu",
+      "an_punere_functiune": "",
+      "inaltime_m": 119,
+      "note": ""
+    },
+    {
+      "structura": "LEA 750 kV Vetrino – Isaccea – Iujnoukraiinsk",
+      "amplasament": "Isaccea",
+      "tip": "Stâlp de curent",
+      "an_punere_functiune": "",
+      "inaltime_m": "",
+      "note": ""
+    },
+    {
+      "structura": "Releul Galați",
+      "amplasament": "Galați",
+      "tip": "Releu",
+      "an_punere_functiune": "",
+      "inaltime_m": 117.35,
+      "note": ""
+    },
+    {
+      "structura": "Stația de emisie Ghirdoveni",
+      "amplasament": "Ghirdoveni, Dâmbovița",
+      "tip": "Releu",
+      "an_punere_functiune": "",
+      "inaltime_m": "",
+      "note": ""
+    },
+    {
+      "structura": "Turnul de telecomunicații Nucet",
+      "amplasament": "Nucet",
+      "tip": "Turn zăbrelit",
+      "an_punere_functiune": "",
+      "inaltime_m": 115,
+      "note": ""
+    },
+    {
+      "structura": "Archim Arad",
+      "amplasament": "Arad",
+      "tip": "Coș industrial",
+      "an_punere_functiune": "",
+      "inaltime_m": "",
+      "note": ""
+    },
+    {
+      "structura": "Turnul de telecomunicații Semenic",
+      "amplasament": "Semenic, Caraș-Severin",
+      "tip": "Turn zăbrelit",
+      "an_punere_functiune": "",
+      "inaltime_m": 103.5,
+      "note": ""
+    },
+    {
+      "structura": "Releul Gălbiori",
+      "amplasament": "Gălbiori, Constanța",
+      "tip": "Releu",
+      "an_punere_functiune": "",
+      "inaltime_m": "",
+      "note": ""
+    },
+    {
+      "structura": "Turnul IFMA",
+      "amplasament": "București",
+      "tip": "Turn industrial",
+      "an_punere_functiune": 1988,
+      "inaltime_m": 114,
+      "note": "Demolat în 2020"
+    },
+    {
+      "structura": "Releul Măgura Odobeștilor",
+      "amplasament": "Bolotești, Vrancea",
+      "tip": "Turn zăbrelit",
+      "an_punere_functiune": "",
+      "inaltime_m": 111,
+      "note": ""
+    },
+    {
+      "structura": "Turnul Colorom Codlea",
+      "amplasament": "Codlea, Brașov",
+      "tip": "Coș industrial",
+      "an_punere_functiune": "",
+      "inaltime_m": 110,
+      "note": "Demolat în 21 iunie 2013"
+    },
+    {
+      "structura": "Stația meteorologică Mahmudia",
+      "amplasament": "Mahmudia, Tulcea",
+      "tip": "Turn radar",
+      "an_punere_functiune": "",
+      "inaltime_m": 110,
+      "note": ""
+    },
+    {
+      "structura": "Barajul Valea lui Iovan (Cerna Principal)",
+      "amplasament": "???, Gorj",
+      "tip": "Baraj",
+      "an_punere_functiune": "",
+      "inaltime_m": 110,
+      "note": ""
+    },
+    {
+      "structura": "Turnul de telecomunicații Râmnicu Sărat",
+      "amplasament": "Râmnicu Sărat",
+      "tip": "Turn zăbrelit",
+      "an_punere_functiune": "",
+      "inaltime_m": 111.5,
+      "note": ""
+    },
+    {
+      "structura": "Barajul Paltinu",
+      "amplasament": "Valea Doftanei, Prahova",
+      "tip": "Baraj",
+      "an_punere_functiune": 1971,
+      "inaltime_m": 108,
+      "note": ""
+    },
+    {
+      "structura": "Releul Baba Ana",
+      "amplasament": "Baba Ana, Prahova",
+      "tip": "Turn zăbrelit",
+      "an_punere_functiune": "",
+      "inaltime_m": 108,
+      "note": ""
+    },
+    {
+      "structura": "Turnul de telecomunicații Herăstrău",
+      "amplasament": "București",
+      "tip": "Turn zăbrelit",
+      "an_punere_functiune": "",
+      "inaltime_m": 107,
+      "note": ""
+    },
+    {
+      "structura": "Releul Vadu Izei",
+      "amplasament": "Vadu Izei, Maramureș",
+      "tip": "Releu",
+      "an_punere_functiune": "",
+      "inaltime_m": "",
+      "note": ""
+    },
+    {
+      "structura": "Turnul de telecomunicații Pitești",
+      "amplasament": "Pitești",
+      "tip": "Turn zăbrelit",
+      "an_punere_functiune": "",
+      "inaltime_m": 115,
+      "note": ""
+    },
+    {
+      "structura": "Turnul de telecomunicații Dej",
+      "amplasament": "Dej",
+      "tip": "Turn zăbrelit",
+      "an_punere_functiune": "",
+      "inaltime_m": 107,
+      "note": ""
+    },
+    {
+      "structura": "Turnul de telecomunicații Sighet",
+      "amplasament": "Sighetu Marmației",
+      "tip": "Turn zăbrelit",
+      "an_punere_functiune": "",
+      "inaltime_m": 106,
+      "note": ""
+    },
+    {
+      "structura": "Barajul Pecineagu",
+      "amplasament": "Munții Iezer-Păpușa, Argeș",
+      "tip": "Baraj",
+      "an_punere_functiune": 1984,
+      "inaltime_m": 107,
+      "note": ""
+    },
+    {
+      "structura": "Turnul de telecomunicații Murfatlar",
+      "amplasament": "Murfatlar",
+      "tip": "Turn zăbrelit",
+      "an_punere_functiune": "",
+      "inaltime_m": 105,
+      "note": ""
+    },
+    {
+      "structura": "Turnul de telecomunicații Medgidia",
+      "amplasament": "Medgidia",
+      "tip": "Turn zăbrelit",
+      "an_punere_functiune": "",
+      "inaltime_m": 105,
+      "note": ""
+    },
+    {
+      "structura": "Turnul de telecomunicații Cernavodă",
+      "amplasament": "Cernavodă",
+      "tip": "Turn zăbrelit",
+      "an_punere_functiune": "",
+      "inaltime_m": 105,
+      "note": ""
+    },
+    {
+      "structura": "Turnul de telecomunicații Brăila",
+      "amplasament": "Brăila",
+      "tip": "Turn zăbrelit",
+      "an_punere_functiune": "",
+      "inaltime_m": 105,
+      "note": ""
+    },
+    {
+      "structura": "Releul Sinoe",
+      "amplasament": "Sinoe, Constanța",
+      "tip": "Turn zăbrelit",
+      "an_punere_functiune": "",
+      "inaltime_m": "",
+      "note": ""
+    },
+    {
+      "structura": "Releul Siliștea Nouă",
+      "amplasament": "Siliștea Nouă, Suceava",
+      "tip": "Turn zăbrelit",
+      "an_punere_functiune": "",
+      "inaltime_m": "",
+      "note": ""
+    },
+    {
+      "structura": "Releul Conachi",
+      "amplasament": "Hanu Conachi, Galați",
+      "tip": "Turn zăbrelit",
+      "an_punere_functiune": "",
+      "inaltime_m": "",
+      "note": ""
+    },
+    {
+      "structura": "Releul Bodoc",
+      "amplasament": "Bodoc, Covasna",
+      "tip": "Turn zăbrelit",
+      "an_punere_functiune": "",
+      "inaltime_m": "",
+      "note": ""
+    },
+    {
+      "structura": "Turnul de telecomunicații Iași",
+      "amplasament": "Iași",
+      "tip": "Turn zăbrelit",
+      "an_punere_functiune": "",
+      "inaltime_m": 105,
+      "note": ""
+    },
+    {
+      "structura": "Turnul de telecomunicații Zalău",
+      "amplasament": "Zalău",
+      "tip": "Turn zăbrelit",
+      "an_punere_functiune": "",
+      "inaltime_m": 105,
+      "note": ""
+    },
+    {
+      "structura": "Releul Dâmbu Mare",
+      "amplasament": "Dâmbu Mare, Cluj",
+      "tip": "Turn zăbrelit",
+      "an_punere_functiune": "",
+      "inaltime_m": 105,
+      "note": ""
+    },
+    {
+      "structura": "Turnul de telecomunicații Tecuci",
+      "amplasament": "Tecuci",
+      "tip": "Turn zăbrelit",
+      "an_punere_functiune": "",
+      "inaltime_m": 105,
+      "note": ""
+    },
+    {
+      "structura": "Azomureș Târgu Mureș",
+      "amplasament": "Târgu Mureș",
+      "tip": "Coș industrial",
+      "an_punere_functiune": "",
+      "inaltime_m": "",
+      "note": ""
+    },
+    {
+      "structura": "Parcul eolian Topolog",
+      "amplasament": "Topolog, Tulcea",
+      "tip": "Turbină eoliană",
+      "an_punere_functiune": "",
+      "inaltime_m": 150,
+      "note": ""
+    },
+    {
+      "structura": "CET Iași",
+      "amplasament": "Iași",
+      "tip": "Coș industrial",
+      "an_punere_functiune": "",
+      "inaltime_m": 104,
+      "note": ""
+    },
+    {
+      "structura": "Vrancart Adjud",
+      "amplasament": "Adjud",
+      "tip": "Coș industrial",
+      "an_punere_functiune": "",
+      "inaltime_m": 101,
+      "note": ""
+    },
+    {
+      "structura": "Releul Ion Corvin",
+      "amplasament": "Ion Corvin, Constanța",
+      "tip": "Releu",
+      "an_punere_functiune": "",
+      "inaltime_m": "",
+      "note": ""
+    },
+    {
+      "structura": "Releul Tanacu",
+      "amplasament": "Tanacu, Vaslui",
+      "tip": "Turn zăbrelit",
+      "an_punere_functiune": "",
+      "inaltime_m": 101,
+      "note": ""
+    },
+    {
+      "structura": "Releul Peștera",
+      "amplasament": "Peștera, Constanța",
+      "tip": "Turn zăbrelit",
+      "an_punere_functiune": "",
+      "inaltime_m": "",
+      "note": ""
+    },
+    {
+      "structura": "Releul Șimleu",
+      "amplasament": "Șimleu Silvaniei",
+      "tip": "Turn zăbrelit",
+      "an_punere_functiune": "",
+      "inaltime_m": 100,
+      "note": ""
+    },
+    {
+      "structura": "Parcul eolian Ciocârlia",
+      "amplasament": "Ciocârlia, Constanța",
+      "tip": "Turbină eoliană",
+      "an_punere_functiune": "",
+      "inaltime_m": 100,
+      "note": ""
+    },
+    {
+      "structura": "Parcul eolian Topraisar",
+      "amplasament": "Topraisar, Constanța",
+      "tip": "Turbină eoliană",
+      "an_punere_functiune": "",
+      "inaltime_m": 100,
+      "note": ""
+    },
+    {
+      "structura": "Parcul eolian Pantelimon",
+      "amplasament": "Pantelimon, Constanța",
+      "tip": "Turbină eoliană",
+      "an_punere_functiune": "",
+      "inaltime_m": 150,
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "Cele mai înalte structuri din România - Free Download",
+    "description": "Lista celor mai înalte construcții din România (coșuri industriale, turnuri de televiziune, antene, turbine eoliene, clădiri), cu amplasament, tip, an și înălțime. Contains 158 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Cele mai înalte structuri din România | ListBase",
+    "seo_description": "Download Cele mai înalte structuri din România — 158 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 158 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Lista_celor_mai_înalte_structuri_din_România"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-09T02:17:39.604Z",
-  "total_datasets": 484,
-  "total_records": 167150,
+  "generated": "2026-11-09T02:17:47.173Z",
+  "total_datasets": 485,
+  "total_records": 167308,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "time",
@@ -13298,6 +13298,33 @@
         "xlsx": {
           "name": "ro-superliga-campioane-pe-cluburi_RO.xlsx",
           "size": 7478
+        }
+      }
+    },
+    {
+      "id": "ro-cele-mai-inalte-structuri",
+      "name": "Cele mai înalte structuri din România",
+      "category": "tech",
+      "record_count": 158,
+      "columns": [
+        "structura",
+        "amplasament",
+        "tip",
+        "an_punere_functiune",
+        "inaltime_m",
+        "note"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Lista_celor_mai_înalte_structuri_din_România",
+      "updated": "2026-11",
+      "size": 34127,
+      "files": {
+        "csv": {
+          "name": "ro-cele-mai-inalte-structuri_RO.csv",
+          "size": 11409
+        },
+        "xlsx": {
+          "name": "ro-cele-mai-inalte-structuri_RO.xlsx",
+          "size": 13583
         }
       }
     },
