@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-06T02:39:23.407Z",
-  "total_datasets": 483,
-  "total_records": 167115,
+  "generated": "2026-11-09T02:17:39.604Z",
+  "total_datasets": 484,
+  "total_records": 167150,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "language",
@@ -5753,6 +5753,30 @@
         "xlsx": {
           "name": "ro-statiuni-balneoclimaterice_RO.xlsx",
           "size": 9514
+        }
+      }
+    },
+    {
+      "id": "ro-batalii-principatul-moldovei",
+      "name": "Bătăliile purtate de Principatul Moldovei",
+      "category": "history",
+      "record_count": 35,
+      "columns": [
+        "secol",
+        "an",
+        "descriere"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Lista_bătăliilor_purtate_de_Principatul_Moldovei",
+      "updated": "2026-11",
+      "size": 10240,
+      "files": {
+        "csv": {
+          "name": "ro-batalii-principatul-moldovei_RO.csv",
+          "size": 6510
+        },
+        "xlsx": {
+          "name": "ro-batalii-principatul-moldovei_RO.xlsx",
+          "size": 9457
         }
       }
     },

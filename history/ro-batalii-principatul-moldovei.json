@@ -1,0 +1,216 @@
+{
+  "id": "ro-batalii-principatul-moldovei",
+  "name": "Bătăliile purtate de Principatul Moldovei",
+  "title": "Bătăliile purtate de Principatul Moldovei",
+  "description": "Cronologia bătăliilor și asediilor purtate de Principatul Moldovei, din secolul al XIV-lea, cu anul și descrierea evenimentului.",
+  "category": "history",
+  "source": "https://ro.wikipedia.org/wiki/Lista_bătăliilor_purtate_de_Principatul_Moldovei",
+  "source_url": "https://ro.wikipedia.org/wiki/Lista_bătăliilor_purtate_de_Principatul_Moldovei",
+  "updated": "2026-11",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "secol",
+      "label": "Secol",
+      "type": "string"
+    },
+    {
+      "key": "an",
+      "label": "An",
+      "type": "number"
+    },
+    {
+      "key": "descriere",
+      "label": "Descriere",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "secol": "Secolul al XIV-lea",
+      "an": "1368",
+      "descriere": "iulie, Bătălia de la Codrii Plonini - Trupele lui Cazimir al III-lea al Poloniei aliate cu trupele cu Ștefan (nepot al lui Bogdan I) sunt înfrânte de armata voievodului Moldovei Petru I (frate cu adversarul său Ștefan)"
+    },
+    {
+      "secol": "Secolul al XIV-lea",
+      "an": "1395",
+      "descriere": "2-12 februarie, Bătălia de la Ghindăoani - Domnitorul Moldovei Ștefan I înfrânge o expediție maghiară condusă de Sigismund de Luxemburg"
+    },
+    {
+      "secol": "Secolul al XIV-lea",
+      "an": "1399",
+      "descriere": "12 august - Bătălia de pe râul Vorskla (lângă Nipru) - tătarii înfrâng o coaliție formată din polonezi, lituanieni, moldoveni și valahi"
+    },
+    {
+      "secol": "Secolul al XV-lea",
+      "an": "1410",
+      "descriere": "15 iulie - Bătălia de la Grunwald - Alexandru cel Bun, ca vasal al lui Vladislav al II-lea al Poloniei, îi acordă sprijin în Războiul Polono-Lituaniano-Teutonic. La lupte participă și valahi și moldoveni. Victorie decisivă a polono-lituanienilor."
+    },
+    {
+      "secol": "Secolul al XV-lea",
+      "an": "1410",
+      "descriere": "26 iulie - 19 septembrie - Bătălia de la Marienburg din 1410, moldovenii participă alături de polonezi la asediul fortăreții teutone."
+    },
+    {
+      "secol": "Secolul al XV-lea",
+      "an": "1420",
+      "descriere": "primele confruntări dintre Moldova și Imperiul Otoman. Turcii au asediat Chilia și Cetatea Albă, dar Alexandru cel Bun a reușit să le apere."
+    },
+    {
+      "secol": "Secolul al XV-lea",
+      "an": "1422",
+      "descriere": "iulie-septembrie - Bătălia de la Marienburg din 1422, moldovenii înving trupe ale cavalerilor teutoni lângă Marienburg, în Prusia"
+    },
+    {
+      "secol": "Secolul al XV-lea",
+      "an": "1435",
+      "descriere": "Bătălia de la Podraga, luptă nedecisivă între Iliaș I al Moldovei și fratele său Ștefan al II-lea al Moldovei"
+    },
+    {
+      "secol": "Secolul al XV-lea",
+      "an": "1451 - 1457",
+      "descriere": "mai multe lupte pentru tron ale lui Petru Aron"
+    },
+    {
+      "secol": "Secolul al XV-lea",
+      "an": "1457",
+      "descriere": "12 aprilie - Bătălia de la Doljești 14 aprilie - Bătălia de la Orbic"
+    },
+    {
+      "secol": "Secolul al XV-lea",
+      "an": "1462",
+      "descriere": "22 iunie - primul asediu al Chiliei apărată de o garnizoană ungară, prima luptă (din două) pierdută a lui Ștefan cel Mare (potrivit tradiției)"
+    },
+    {
+      "secol": "Secolul al XV-lea",
+      "an": "1465",
+      "descriere": "23-25 ianuarie - al doilea asediu al Chiliei, Ștefan cel Mare cucerește cetatea Chiliei."
+    },
+    {
+      "secol": "Secolul al XV-lea",
+      "an": "1467",
+      "descriere": "14-15 decembrie - Bătălia de la Baia, oastea Moldovei, condusă de Ștefan cel Mare, înfrânge oastea Regatului Ungariei, condusă de Matia Corvinul, care se retrage"
+    },
+    {
+      "secol": "Secolul al XV-lea",
+      "an": "1469 sau 1470",
+      "descriere": "20 august - Bătălia de la Lipnic, oastea moldovenească, condusă de Ștefan cel Mare, a învins tătarii Hoardei de Aur"
+    },
+    {
+      "secol": "Secolul al XV-lea",
+      "an": "1471",
+      "descriere": "Bătălia de la Soci, oastea Moldovei, condusă de Ștefan cel Mare, înfrânge oastea munteană condusă de Radu cel Frumos"
+    },
+    {
+      "secol": "Secolul al XV-lea",
+      "an": "1473",
+      "descriere": "18-20 noiembrie 1473 - Bătălia de la pârâul Vodna, Ștefan cel Mare, înfrânge oastea munteană condusă de Radu cel Frumos 24 noiembrie - Asediul cetății Dâmbovița, Ștefan cel Mare înfrânge o garnizoană munteană 28 noiembrie - Ștefan cel Mare înfrânge o armată otomană"
+    },
+    {
+      "secol": "Secolul al XV-lea",
+      "an": "1475",
+      "descriere": "10 ianuarie - Bătălia de la Vaslui, armatele aliate creștine moldo-maghiaro-polone sub comanda lui Ștefan cel Mare înfrâng oastea otomano-munteană sub conducerea lui Suleiman Pașa (și Laiotă Basarab)"
+    },
+    {
+      "secol": "Secolul al XV-lea",
+      "an": "1476",
+      "descriere": "26 iulie - Bătălia de la Valea Albă, victorie (pirică) a otomanilor împotriva lui Ștefan cel Mare 16 noiembrie - Asediul Bucureștiului Asediul Cetății Neamțului de către Mahomed al II-lea care se retrage din fața tunurilor cetății"
+    },
+    {
+      "secol": "Secolul al XV-lea",
+      "an": "1477",
+      "descriere": "noiembrie - Ștefan cel Mare înfrânge oastea munteană condusă de Laiotă Basarab"
+    },
+    {
+      "secol": "Secolul al XV-lea",
+      "an": "1480",
+      "descriere": "1 iunie - Ștefan cel Mare înfrânge oastea munteană condusă de Basarab cel Tânăr"
+    },
+    {
+      "secol": "Secolul al XV-lea",
+      "an": "1481",
+      "descriere": "8 iulie - Bătălia de la Râmnic, Ștefan cel Mare înfrânge oastea condusă de Basarab cel Tânăr, domnul Munteniei, susținută de armata otomană condusă de Ali-beg și Skender-beg"
+    },
+    {
+      "secol": "Secolul al XV-lea",
+      "an": "1482",
+      "descriere": "10 martie - Asediul cetății Crăciuna. Ștefan cel Mare înfrânge garnizoana munteană"
+    },
+    {
+      "secol": "Secolul al XV-lea",
+      "an": "1484",
+      "descriere": "Asediul turcesc al Chiliei, cetatea este recuperată de turci din mâinile moldovenilor"
+    },
+    {
+      "secol": "Secolul al XV-lea",
+      "an": "1485",
+      "descriere": "Bătălia de la Cătlăbuga, Moldovenii conduși de Ștefan cel Mare înfrâng o oaste otomană"
+    },
+    {
+      "secol": "Secolul al XV-lea",
+      "an": "1486",
+      "descriere": "6 martie - Bătălia de la Șcheia, Moldovenii conduși de Ștefan cel Mare înfrâng o oaste otomană condusă de Bali-beg Malcoci Oglu, pașă de Silistra"
+    },
+    {
+      "secol": "Secolul al XV-lea",
+      "an": "1497",
+      "descriere": "26 octombrie - Bătălia de la Codrii Cosminului, Ștefan cel Mare îl înfrânge pe regele Ioan I Albert al Uniunii Polono-Lituaniene"
+    },
+    {
+      "secol": "Secolul al XV-lea",
+      "an": "1498",
+      "descriere": "iunie sau iulie - Ștefan cel Mare asediază și înfrânge garnizoanele din 3 cetăți poloneze: Asediul cetății Trembowla Asediul cetății Buczacz Asediul cetății Podhajce"
+    },
+    {
+      "secol": "Secolul al XVI-lea",
+      "an": "1529",
+      "descriere": "27 septembrie-14 octombrie - Primul Asediu al Vienei, aliații creștini resping trupele otomano-moldovenești"
+    },
+    {
+      "secol": "Secolul al XVI-lea",
+      "an": "1531",
+      "descriere": "Bătălia de la Gwozdiec, Petru Rareș este înfrânt de polonezi (a avut loc înainte de lupta de la Obertyn)"
+    },
+    {
+      "secol": "Secolul al XVI-lea",
+      "an": "1531",
+      "descriere": "22 august - Bătălia de la Obertyn, înfrângere a lui Petru Rareș, Pocuția este recucerită de polonezi"
+    },
+    {
+      "secol": "Secolul al XVI-lea",
+      "an": "1532",
+      "descriere": "19 septembrie - Bătălia de la Leobersdorf, Austria, armata otomană-moldovenească este distrusă complet de trupe austriece, croate și maghiare"
+    },
+    {
+      "secol": "Secolul al XVII-lea",
+      "an": "1620",
+      "descriere": "17 septembrie–7 octombrie Bătălia de la Țuțora, Moldova, o bătălie dintre Uniunea statală polono-lituaniană (sprijinită de trupele Moldovei) și Imperiul Otoman, (sprijinit de Hanatul Crimeii), victorie otomană"
+    },
+    {
+      "secol": "Secolul al XVII-lea",
+      "an": "1653",
+      "descriere": "27 mai - Bătălia de la Finta din Muntenia, moldoveni și cazaci conduși de Vasile Lupu sunt înfrânți decisiv de armatele muntene conduse de Matei Basarab. mai - Bătălia de la Tecuci 22 mai - Bătălia de la Focșani între o armată cazaco-moldovenească condusă de Timuș Hmelnițki pe de-o parte și o armată muntenească condusă de Diicu Buiescu în sprijinul moldoveanului Gheorghe Ștefan."
+    },
+    {
+      "secol": "Secolul al XVII-lea",
+      "an": "1683",
+      "descriere": "15 iulie-12 septembrie - Al doilea Asediu al Vienei, otomanii și trupe valahe, moldovene, transilvănene și din Crimeea sunt înfrânte decisiv de trupe creștine aliate. Vezi și Participarea românilor la asediul Vienei (1683)."
+    },
+    {
+      "secol": "Secolul al XIX-lea",
+      "an": "1829",
+      "descriere": "11 iunie - Bătălia de la Kulevicha, Bulgaria, rușii conduși de Hans Karl von Diebitsch și trupe românești (moldo-valahe) înfrâng trupe otomane"
+    }
+  ],
+  "meta": {
+    "title": "Bătăliile purtate de Principatul Moldovei - Free Download",
+    "description": "Cronologia bătăliilor și asediilor purtate de Principatul Moldovei, din secolul al XIV-lea, cu anul și descrierea evenimentului. Contains 35 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Bătăliile purtate de Principatul Moldovei | ListBase",
+    "seo_description": "Download Bătăliile purtate de Principatul Moldovei — 35 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 35 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Lista_bătăliilor_purtate_de_Principatul_Moldovei"
+    ]
+  }
+}
