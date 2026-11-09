@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-09T02:18:10.372Z",
-  "total_datasets": 488,
-  "total_records": 167501,
+  "generated": "2026-11-09T02:18:18.029Z",
+  "total_datasets": 489,
+  "total_records": 167543,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "music",
@@ -6078,6 +6078,31 @@
         "xlsx": {
           "name": "ro-penitenciare_RO.xlsx",
           "size": 8346
+        }
+      }
+    },
+    {
+      "id": "ro-procurori-generali",
+      "name": "Procurorii generali ai României",
+      "category": "law",
+      "record_count": 42,
+      "columns": [
+        "nr",
+        "nume",
+        "de_la",
+        "pana_la"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Procuror_General_al_României",
+      "updated": "2026-11",
+      "size": 7002,
+      "files": {
+        "csv": {
+          "name": "ro-procurori-generali_RO.csv",
+          "size": 2436
+        },
+        "xlsx": {
+          "name": "ro-procurori-generali_RO.xlsx",
+          "size": 8477
         }
       }
     },

@@ -1,0 +1,298 @@
+{
+  "id": "ro-procurori-generali",
+  "name": "Procurorii generali ai României",
+  "title": "Procurorii generali ai României",
+  "description": "Lista procurorilor generali ai României (Parchetul de pe lângă Înalta Curte de Casație și Justiție), din 1862 până în prezent.",
+  "category": "law",
+  "source": "https://ro.wikipedia.org/wiki/Procuror_General_al_României",
+  "source_url": "https://ro.wikipedia.org/wiki/Procuror_General_al_României",
+  "updated": "2026-11",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "nr",
+      "label": "Nr",
+      "type": "number"
+    },
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "de_la",
+      "label": "De La",
+      "type": "string"
+    },
+    {
+      "key": "pana_la",
+      "label": "Pana La",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nr": 1,
+      "nume": "Mihail Kogălniceanu",
+      "de_la": "11 februarie 1862",
+      "pana_la": "13 februarie 1862"
+    },
+    {
+      "nr": 2,
+      "nume": "Scarlat N. Ghica",
+      "de_la": "15 martie 1862",
+      "pana_la": "15 martie 1866"
+    },
+    {
+      "nr": 3,
+      "nume": "Alexandru Papiu-Ilarian",
+      "de_la": "15 martie 1866",
+      "pana_la": "iunie 1868"
+    },
+    {
+      "nr": 3,
+      "nume": "Alexandru Papiu-Ilarian",
+      "de_la": "septembrie 1868",
+      "pana_la": "8 decembrie 1868"
+    },
+    {
+      "nr": 4,
+      "nume": "Gheorghe Crețeanu",
+      "de_la": "iunie 1868",
+      "pana_la": "septembrie 1868"
+    },
+    {
+      "nr": 5,
+      "nume": "Dimitrie P. Vioreanu",
+      "de_la": "10 decembrie 1868",
+      "pana_la": "16 mai 1876"
+    },
+    {
+      "nr": 6,
+      "nume": "Scarlat Pherekyde",
+      "de_la": "19 decembrie 1877",
+      "pana_la": "14 februarie 1879"
+    },
+    {
+      "nr": 7,
+      "nume": "Gheorghe Filitti",
+      "de_la": "7 iunie 1879",
+      "pana_la": "10 ianuarie 1899"
+    },
+    {
+      "nr": 8,
+      "nume": "Dimitrie Alexandrescu",
+      "de_la": "17 septembrie 1899",
+      "pana_la": "26 iunie 1900"
+    },
+    {
+      "nr": 9,
+      "nume": "G. E. Schina",
+      "de_la": "26 iunie 1900",
+      "pana_la": "1905"
+    },
+    {
+      "nr": 10,
+      "nume": "Ciru Economu",
+      "de_la": "9 noiembrie 1906",
+      "pana_la": "1908"
+    },
+    {
+      "nr": 11,
+      "nume": "Corneliu Manolescu-Rîmniceanu",
+      "de_la": "1909",
+      "pana_la": "aprilie 1910"
+    },
+    {
+      "nr": 12,
+      "nume": "Grigore Ștefănescu",
+      "de_la": "1910",
+      "pana_la": "1910"
+    },
+    {
+      "nr": 13,
+      "nume": "Scarlat Popescu",
+      "de_la": "1910",
+      "pana_la": "1918"
+    },
+    {
+      "nr": 14,
+      "nume": "N. Procopescu",
+      "de_la": "1918",
+      "pana_la": "1923"
+    },
+    {
+      "nr": 15,
+      "nume": "Ion N. Stambulescu",
+      "de_la": "29 septembrie 1923",
+      "pana_la": "12 noiembrie 1930"
+    },
+    {
+      "nr": 16,
+      "nume": "Dimitrie Volanschi",
+      "de_la": "19 martie 1931",
+      "pana_la": "30 martie 1931"
+    },
+    {
+      "nr": 17,
+      "nume": "Constantin Viforeanu",
+      "de_la": "30 martie 1931",
+      "pana_la": "septembrie 1940"
+    },
+    {
+      "nr": 18,
+      "nume": "Coman Negoescu",
+      "de_la": "septembrie 1940",
+      "pana_la": "1943"
+    },
+    {
+      "nr": 19,
+      "nume": "Eugeniu P. Bănescu",
+      "de_la": "1943",
+      "pana_la": "1 ianuarie 1945"
+    },
+    {
+      "nr": 20,
+      "nume": "Dimitrie D. Apostolide",
+      "de_la": "ianuarie 1945",
+      "pana_la": "1946"
+    },
+    {
+      "nr": 21,
+      "nume": "Mircea V. Possa",
+      "de_la": "1946",
+      "pana_la": "11 februarie 1948"
+    },
+    {
+      "nr": 22,
+      "nume": "Alexandru Voitinovici",
+      "de_la": "1948",
+      "pana_la": "1952"
+    },
+    {
+      "nr": 23,
+      "nume": "Anton Tatu Jianu",
+      "de_la": "26 iunie 1952",
+      "pana_la": "24 ianuarie 1953"
+    },
+    {
+      "nr": 24,
+      "nume": "Augustin Alexa",
+      "de_la": "24 ianuarie 1953",
+      "pana_la": "29 martie 1973"
+    },
+    {
+      "nr": 25,
+      "nume": "Filimon Ardeleanu",
+      "de_la": "29 martie 1973",
+      "pana_la": "27 ianuarie 1977"
+    },
+    {
+      "nr": 26,
+      "nume": "Gheorghe Bobocea",
+      "de_la": "27 ianuarie 1977",
+      "pana_la": "27 octombrie 1979"
+    },
+    {
+      "nr": 27,
+      "nume": "Nicolae Popovici",
+      "de_la": "27 octombrie 1979",
+      "pana_la": "10 ianuarie 1990"
+    },
+    {
+      "nr": 28,
+      "nume": "Gheorghe Robu",
+      "de_la": "10 ianuarie 1990",
+      "pana_la": "10 decembrie 1990"
+    },
+    {
+      "nr": 29,
+      "nume": "Mihail-Ulpiu Popa-Cherecheanu",
+      "de_la": "10 decembrie 1990",
+      "pana_la": "26 aprilie 1993"
+    },
+    {
+      "nr": 30,
+      "nume": "Vasile Manea-Drăgulin",
+      "de_la": "26 aprilie 1993",
+      "pana_la": "27 august 1996"
+    },
+    {
+      "nr": 31,
+      "nume": "Nicolae Cochinescu",
+      "de_la": "27 august 1996",
+      "pana_la": "26 august 1997"
+    },
+    {
+      "nr": 32,
+      "nume": "Sorin Moisescu",
+      "de_la": "1 septembrie 1997",
+      "pana_la": "20 iunie 1998"
+    },
+    {
+      "nr": 33,
+      "nume": "Mircea Criste",
+      "de_la": "8 iulie 1998",
+      "pana_la": "25 ianuarie 2001"
+    },
+    {
+      "nr": 34,
+      "nume": "Tănase Joița",
+      "de_la": "25 ianuarie 2001",
+      "pana_la": "29 august 2003"
+    },
+    {
+      "nr": 35,
+      "nume": "Ilie Botoș",
+      "de_la": "29 august 2003",
+      "pana_la": "28 iulie 2006"
+    },
+    {
+      "nr": 36,
+      "nume": "Laura Codruța Kövesi",
+      "de_la": "2 octombrie 2006",
+      "pana_la": "2 octombrie 2012"
+    },
+    {
+      "nr": 37,
+      "nume": "Tiberiu-Mihail Nițu",
+      "de_la": "16 mai 2013",
+      "pana_la": "3 februarie 2016"
+    },
+    {
+      "nr": 38,
+      "nume": "Augustin Lazăr",
+      "de_la": "28 aprilie 2016",
+      "pana_la": "27 aprilie 2019"
+    },
+    {
+      "nr": 39,
+      "nume": "Gabriela Scutea",
+      "de_la": "20 februarie 2020",
+      "pana_la": "21 februarie 2023"
+    },
+    {
+      "nr": 40,
+      "nume": "Alex-Florin Florența",
+      "de_la": "30 martie 2023",
+      "pana_la": "30 martie 2026"
+    },
+    {
+      "nr": 41,
+      "nume": "Cristina Chiriac",
+      "de_la": "15 aprilie 2026",
+      "pana_la": "titular"
+    }
+  ],
+  "meta": {
+    "title": "Procurorii generali ai României - Free Download",
+    "description": "Lista procurorilor generali ai României (Parchetul de pe lângă Înalta Curte de Casație și Justiție), din 1862 până în prezent. Contains 42 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Procurorii generali ai României | ListBase",
+    "seo_description": "Download Procurorii generali ai României — 42 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 42 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Procuror_General_al_României"
+    ]
+  }
+}
