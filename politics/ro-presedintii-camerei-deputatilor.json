@@ -1,0 +1,862 @@
+{
+  "id": "ro-presedintii-camerei-deputatilor",
+  "name": "Președinții Camerei Deputaților din România",
+  "title": "Președinții Camerei Deputaților din România",
+  "description": "Lista președinților Adunării Deputaților și ai Camerei Deputaților din România, din 1862 până în prezent, cu mandatul și partidul.",
+  "category": "politics",
+  "source": "https://ro.wikipedia.org/wiki/Președintele_Camerei_Deputaților_din_România",
+  "source_url": "https://ro.wikipedia.org/wiki/Președintele_Camerei_Deputaților_din_România",
+  "updated": "2026-11",
+  "record_count": 89,
+  "columns": [
+    {
+      "key": "nr",
+      "label": "Nr",
+      "type": "number"
+    },
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "ani_viata",
+      "label": "Ani Viata",
+      "type": "string"
+    },
+    {
+      "key": "de_la",
+      "label": "De La",
+      "type": "string"
+    },
+    {
+      "key": "pana_la",
+      "label": "Pana La",
+      "type": "string"
+    },
+    {
+      "key": "partid",
+      "label": "Partid",
+      "type": "string"
+    },
+    {
+      "key": "perioada",
+      "label": "Perioada",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nr": "1",
+      "nume": "Mitropolitul-primat Nifon Rusailă",
+      "ani_viata": "1789–1875",
+      "de_la": "24 ianuarie 1862",
+      "pana_la": "2 mai 1864",
+      "partid": "Ind.",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "2",
+      "nume": "Alexandru Emanoil Florescu",
+      "ani_viata": "",
+      "de_la": "29 decembrie 1864",
+      "pana_la": "25 iunie 1865",
+      "partid": "C",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "3",
+      "nume": "Emanoil Costache Epureanu",
+      "ani_viata": "1823–1880",
+      "de_la": "12 decembrie 1865",
+      "pana_la": "3 ianuarie 1866",
+      "partid": "C",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "4",
+      "nume": "Nicolae Calimachi-Catargiu",
+      "ani_viata": "",
+      "de_la": "9 ianuarie 1866",
+      "pana_la": "12 februarie 1866",
+      "partid": "C",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "(3)",
+      "nume": "Emanoil Costache Epureanu",
+      "ani_viata": "1823–1880",
+      "de_la": "9 mai 1866",
+      "pana_la": "6 iulie 1866",
+      "partid": "C",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "5",
+      "nume": "Lascăr Catargiu",
+      "ani_viata": "1823–1899",
+      "de_la": "12 decembrie 1866",
+      "pana_la": "1 noiembrie 1867",
+      "partid": "C",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "6",
+      "nume": "Anastasie Fătu",
+      "ani_viata": "1816–1886",
+      "de_la": "15 ianuarie 1868",
+      "pana_la": "15 noiembrie 1868",
+      "partid": "LR",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "7",
+      "nume": "Ion C. Brătianu",
+      "ani_viata": "1821–1891",
+      "de_la": "18 noiembrie 1868",
+      "pana_la": "29 ianuarie 1869",
+      "partid": "LR",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "8",
+      "nume": "Costache Negri",
+      "ani_viata": "1812–1876",
+      "de_la": "8 mai 1869",
+      "pana_la": "17 noiembrie 1869",
+      "partid": "LM",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "9",
+      "nume": "Grigore Balș",
+      "ani_viata": "",
+      "de_la": "20 noiembrie 1869",
+      "pana_la": "1 mai 1870",
+      "partid": "CM",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "10",
+      "nume": "Gheorghe Costa-Foru",
+      "ani_viata": "1820–1876",
+      "de_la": "2 iulie 1870",
+      "pana_la": "3 februarie 1871",
+      "partid": "C",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "11",
+      "nume": "Nicolae Păcleanu",
+      "ani_viata": "",
+      "de_la": "5 februarie 1871",
+      "pana_la": "16 martie 1871",
+      "partid": "LR",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "12",
+      "nume": "Dimitrie Ghica",
+      "ani_viata": "1816–1897",
+      "de_la": "26 mai 1871",
+      "pana_la": "17 februarie 1876",
+      "partid": "C",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "13",
+      "nume": "Constantin N. Brăiloiu",
+      "ani_viata": "",
+      "de_la": "18 februarie 1876",
+      "pana_la": "3 mai 1876",
+      "partid": "C",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "14",
+      "nume": "Constantin A. Rosetti",
+      "ani_viata": "1816–1885",
+      "de_la": "25 iunie 1876",
+      "pana_la": "26 mai 1878",
+      "partid": "PNL",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "15",
+      "nume": "Gheorghe Vernescu",
+      "ani_viata": "",
+      "de_la": "6 iunie 1878",
+      "pana_la": "15 noiembrie 1878",
+      "partid": "PNL",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "(14)",
+      "nume": "Constantin A. Rosetti",
+      "ani_viata": "1816–1885",
+      "de_la": "17 noiembrie 1878",
+      "pana_la": "9 iunie 1881",
+      "partid": "PNL",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "16",
+      "nume": "Dimitrie Brătianu",
+      "ani_viata": "1818–1892",
+      "de_la": "9 iunie 1881",
+      "pana_la": "21 octombrie 1882",
+      "partid": "PNL",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "17",
+      "nume": "Dimitrie Lecca",
+      "ani_viata": "1832–1888",
+      "de_la": "21 octombrie 1882",
+      "pana_la": "5 martie 1883",
+      "partid": "PNL",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "(14)",
+      "nume": "Constantin A. Rosetti",
+      "ani_viata": "1816–1885",
+      "de_la": "16 mai 1883",
+      "pana_la": "17 octombrie 1883",
+      "partid": "PNL",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "(17)",
+      "nume": "Dimitrie Lecca",
+      "ani_viata": "1832–1888",
+      "de_la": "19 octombrie 1883",
+      "pana_la": "4 iulie 1888",
+      "partid": "PNL",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "(5)",
+      "nume": "Lascăr Catargiu",
+      "ani_viata": "1823–1899",
+      "de_la": "10 noiembrie 1888",
+      "pana_la": "14 ianuarie 1889",
+      "partid": "PC",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "18",
+      "nume": "Constantin Grădișteanu",
+      "ani_viata": "1833–1890",
+      "de_la": "19 ianuarie 1889",
+      "pana_la": "16 noiembrie 1889",
+      "partid": "PC",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "19",
+      "nume": "Gheorghe Grigore Cantacuzino",
+      "ani_viata": "1833–1913",
+      "de_la": "16 noiembrie 1889",
+      "pana_la": "22 februarie 1891",
+      "partid": "PC",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "20",
+      "nume": "Gheorghe Rosnovanu",
+      "ani_viata": "",
+      "de_la": "3 mai 1891",
+      "pana_la": "11 decembrie 1891",
+      "partid": "PC",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "21",
+      "nume": "Gheorghe Manu",
+      "ani_viata": "1833–1911",
+      "de_la": "26 februarie 1892",
+      "pana_la": "24 octombrie 1895",
+      "partid": "PC",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "22",
+      "nume": "Petre S. Aurelian",
+      "ani_viata": "1833–1909",
+      "de_la": "9 decembrie 1895",
+      "pana_la": "21 noiembrie 1896",
+      "partid": "PNL",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "23",
+      "nume": "Dimitrie Gianni",
+      "ani_viata": "1838–1902",
+      "de_la": "23 noiembrie 1896",
+      "pana_la": "21 aprilie 1899",
+      "partid": "PNL",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "24",
+      "nume": "Constantin P. Olănescu",
+      "ani_viata": "1845–1928",
+      "de_la": "13 iunie 1899",
+      "pana_la": "21 septembrie 1900",
+      "partid": "PC",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "(19)",
+      "nume": "Gheorghe Grigore Cantacuzino",
+      "ani_viata": "1833–1913",
+      "de_la": "25 septembrie 1900",
+      "pana_la": "14 februarie 1901",
+      "partid": "PC",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "25",
+      "nume": "Mihail Pherekyde",
+      "ani_viata": "1842–1926",
+      "de_la": "24 martie 1901",
+      "pana_la": "9 decembrie 1904",
+      "partid": "PNL",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "26",
+      "nume": "Ștefan Șendrea",
+      "ani_viata": "",
+      "de_la": "9 decembrie 1904",
+      "pana_la": "23 decembrie 1904",
+      "partid": "PNL",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "27",
+      "nume": "Grigore Triandafil",
+      "ani_viata": "",
+      "de_la": "25 februarie 1905",
+      "pana_la": "23 februarie 1907",
+      "partid": "PC",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "28",
+      "nume": "Constantin Cantacuzino-Pașcanu",
+      "ani_viata": "",
+      "de_la": "26 februarie 1907",
+      "pana_la": "26 aprilie 1907",
+      "partid": "PC",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "(25)",
+      "nume": "Mihail Pherekyde",
+      "ani_viata": "1842–1926",
+      "de_la": "8 iunie 1907",
+      "pana_la": "15 decembrie 1909",
+      "partid": "PNL",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "29",
+      "nume": "Basile M. Missir",
+      "ani_viata": "1843–1929",
+      "de_la": "15 decembrie 1909",
+      "pana_la": "16 februarie 1910",
+      "partid": "PNL",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "(25)",
+      "nume": "Mihail Pherekyde",
+      "ani_viata": "1842–1926",
+      "de_la": "16 februarie 1910",
+      "pana_la": "10 ianuarie 1911",
+      "partid": "PNL",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "(24)",
+      "nume": "Constantin P. Olănescu",
+      "ani_viata": "1845–1928",
+      "de_la": "8 martie 1911",
+      "pana_la": "17 octombrie 1912",
+      "partid": "PC",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "(28)",
+      "nume": "Constantin Cantacuzino-Pașcanu",
+      "ani_viata": "",
+      "de_la": "1 decembrie 1912",
+      "pana_la": "11 ianuarie 1914",
+      "partid": "PCD",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "(25)",
+      "nume": "Mihail Pherekyde",
+      "ani_viata": "1842–1926",
+      "de_la": "21 februarie 1914",
+      "pana_la": "11 decembrie 1916",
+      "partid": "PNL",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "30",
+      "nume": "Vasile Morțun",
+      "ani_viata": "",
+      "de_la": "11 decembrie 1916",
+      "pana_la": "25 aprilie 1918",
+      "partid": "PNL",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "31",
+      "nume": "Constantin Meissner",
+      "ani_viata": "1854–1942",
+      "de_la": "5 iunie 1918",
+      "pana_la": "5 noiembrie 1918",
+      "partid": "PCP",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "32",
+      "nume": "Alexandru Vaida-Voevod",
+      "ani_viata": "1872–1950",
+      "de_la": "28 noiembrie 1919",
+      "pana_la": "1 decembrie 1919",
+      "partid": "PNR",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "33",
+      "nume": "Nicolae Iorga",
+      "ani_viata": "1871–1940",
+      "de_la": "9 decembrie 1919",
+      "pana_la": "26 martie 1920",
+      "partid": "PND",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "34",
+      "nume": "Duiliu Zamfirescu",
+      "ani_viata": "1858–1922",
+      "de_la": "30 iunie 1920",
+      "pana_la": "22 ianuarie 1922",
+      "partid": "PP",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "35",
+      "nume": "Mihail G. Orleanu",
+      "ani_viata": "1859–1942",
+      "de_la": "6 aprilie 1922",
+      "pana_la": "27 martie 1926",
+      "partid": "PNL",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "36",
+      "nume": "Petre P. Negulescu",
+      "ani_viata": "1872–1951",
+      "de_la": "10 iulie 1926",
+      "pana_la": "5 iunie 1927",
+      "partid": "PP",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "37",
+      "nume": "Nicolae Săveanu",
+      "ani_viata": "1866–1952",
+      "de_la": "30 iulie 1927",
+      "pana_la": "10 noiembrie 1928",
+      "partid": "PNL",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "38",
+      "nume": "Ștefan Cicio Pop",
+      "ani_viata": "1865–1934",
+      "de_la": "23 decembrie 1928",
+      "pana_la": "30 aprilie 1931",
+      "partid": "PNȚ",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "39",
+      "nume": "Dimitrie Pompeiu",
+      "ani_viata": "1873–1954",
+      "de_la": "20 iunie 1931",
+      "pana_la": "10 iunie 1932",
+      "partid": "PND",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "(38)",
+      "nume": "Ștefan Cicio Pop",
+      "ani_viata": "1865–1934",
+      "de_la": "10 august 1932",
+      "pana_la": "18 noiembrie 1933",
+      "partid": "PNȚ",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "(37)",
+      "nume": "Nicolae Săveanu",
+      "ani_viata": "1866–1952",
+      "de_la": "10 februarie 1934",
+      "pana_la": "19 noiembrie 1937",
+      "partid": "PNL",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "(32)",
+      "nume": "Alexandru Vaida-Voevod",
+      "ani_viata": "1872–1950",
+      "de_la": "9 iunie 1939",
+      "pana_la": "5 septembrie 1940",
+      "partid": "FRN",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "40",
+      "nume": "Mihail Sadoveanu",
+      "ani_viata": "1880–1961",
+      "de_la": "5 decembrie 1946",
+      "pana_la": "24 februarie 1948",
+      "partid": "BPD",
+      "perioada": "Adunarea Deputaților (1862–1947)"
+    },
+    {
+      "nr": "41",
+      "nume": "Gheorghe Apostol",
+      "ani_viata": "1913–2010",
+      "de_la": "7 aprilie 1948",
+      "pana_la": "11 iunie 1948",
+      "partid": "PMR",
+      "perioada": "Marea Adunare Națională (1948–1989)"
+    },
+    {
+      "nr": "42",
+      "nume": "Constantin Agiu",
+      "ani_viata": "1891–1961",
+      "de_la": "11 iunie 1948",
+      "pana_la": "27 decembrie 1948",
+      "partid": "PMR",
+      "perioada": "Marea Adunare Națională (1948–1989)"
+    },
+    {
+      "nr": "43",
+      "nume": "Constantin Pârvulescu",
+      "ani_viata": "1895–1992",
+      "de_la": "27 decembrie 1948",
+      "pana_la": "5 iulie 1949",
+      "partid": "PMR",
+      "perioada": "Marea Adunare Națională (1948–1989)"
+    },
+    {
+      "nr": "44",
+      "nume": "Dumitru Petrescu",
+      "ani_viata": "1906–1969",
+      "de_la": "5 iulie 1949",
+      "pana_la": "28 decembrie 1949",
+      "partid": "PMR",
+      "perioada": "Marea Adunare Națională (1948–1989)"
+    },
+    {
+      "nr": "45",
+      "nume": "Alexandru Drăghici",
+      "ani_viata": "1913–1993",
+      "de_la": "28 decembrie 1949",
+      "pana_la": "26 ianuarie 1950",
+      "partid": "PMR",
+      "perioada": "Marea Adunare Națională (1948–1989)"
+    },
+    {
+      "nr": "(44)",
+      "nume": "Dumitru Petrescu",
+      "ani_viata": "1906–1969",
+      "de_la": "26 ianuarie 1950",
+      "pana_la": "29 mai 1950",
+      "partid": "PMR",
+      "perioada": "Marea Adunare Națională (1948–1989)"
+    },
+    {
+      "nr": "46",
+      "nume": "Constantin Doncea",
+      "ani_viata": "1904–1973",
+      "de_la": "29 mai 1950",
+      "pana_la": "6 septembrie 1950",
+      "partid": "PMR",
+      "perioada": "Marea Adunare Națională (1948–1989)"
+    },
+    {
+      "nr": "(41)",
+      "nume": "Gheorghe Apostol",
+      "ani_viata": "1913–2010",
+      "de_la": "6 septembrie 1950",
+      "pana_la": "5 aprilie 1951",
+      "partid": "PMR",
+      "perioada": "Marea Adunare Națională (1948–1989)"
+    },
+    {
+      "nr": "47",
+      "nume": "Ion Vincze",
+      "ani_viata": "1910–1996",
+      "de_la": "5 aprilie 1951",
+      "pana_la": "26 martie 1952",
+      "partid": "PMR",
+      "perioada": "Marea Adunare Națională (1948–1989)"
+    },
+    {
+      "nr": "(41)",
+      "nume": "Gheorghe Apostol",
+      "ani_viata": "1913–2010",
+      "de_la": "26 martie 1952",
+      "pana_la": "6 iunie 1952",
+      "partid": "PMR",
+      "perioada": "Marea Adunare Națională (1948–1989)"
+    },
+    {
+      "nr": "48",
+      "nume": "Gheorghe Stoica",
+      "ani_viata": "1900–1976",
+      "de_la": "2 iunie 1952",
+      "pana_la": "30 noiembrie 1952",
+      "partid": "PMR",
+      "perioada": "Marea Adunare Națională (1948–1989)"
+    },
+    {
+      "nr": "(43)",
+      "nume": "Constantin Pârvulescu",
+      "ani_viata": "1895–1992",
+      "de_la": "23 ianuarie 1953",
+      "pana_la": "5 martie 1961",
+      "partid": "PMR",
+      "perioada": "Marea Adunare Națională (1948–1989)"
+    },
+    {
+      "nr": "49",
+      "nume": "Ștefan Voitec",
+      "ani_viata": "1900–1984",
+      "de_la": "20 martie 1961",
+      "pana_la": "28 martie 1974",
+      "partid": "PMR/PCR",
+      "perioada": "Marea Adunare Națională (1948–1989)"
+    },
+    {
+      "nr": "50",
+      "nume": "Miron Constantinescu",
+      "ani_viata": "1917–1974",
+      "de_la": "28 martie 1974",
+      "pana_la": "18 iulie 1974",
+      "partid": "PCR",
+      "perioada": "Marea Adunare Națională (1948–1989)"
+    },
+    {
+      "nr": "51",
+      "nume": "Nicolae Giosan",
+      "ani_viata": "1921–1990",
+      "de_la": "26 iulie 1974",
+      "pana_la": "22 decembrie 1989",
+      "partid": "PCR",
+      "perioada": "Marea Adunare Națională (1948–1989)"
+    },
+    {
+      "nr": "52",
+      "nume": "Marțian Dan",
+      "ani_viata": "1935–2002",
+      "de_la": "19 iunie 1990",
+      "pana_la": "16 octombrie 1992",
+      "partid": "FSN",
+      "perioada": "Adunarea Deputaților (1990–1992)"
+    },
+    {
+      "nr": "53",
+      "nume": "Adrian Năstase",
+      "ani_viata": "1950–",
+      "de_la": "28 octombrie 1992",
+      "pana_la": "22 noiembrie 1996",
+      "partid": "FDSN/PDSR",
+      "perioada": "Camera Deputaților (1992–prezent)"
+    },
+    {
+      "nr": "54",
+      "nume": "Ion Diaconescu",
+      "ani_viata": "1917–2011",
+      "de_la": "27 noiembrie 1996",
+      "pana_la": "30 noiembrie 2000",
+      "partid": "PNȚCD",
+      "perioada": "Camera Deputaților (1992–prezent)"
+    },
+    {
+      "nr": "55",
+      "nume": "Valer Dorneanu",
+      "ani_viata": "1944–",
+      "de_la": "15 decembrie 2000",
+      "pana_la": "30 noiembrie 2004",
+      "partid": "PDSR/PSD",
+      "perioada": "Camera Deputaților (1992–prezent)"
+    },
+    {
+      "nr": "(53)",
+      "nume": "Adrian Năstase",
+      "ani_viata": "1950–",
+      "de_la": "19 decembrie 2004",
+      "pana_la": "16 martie 2006",
+      "partid": "PSD",
+      "perioada": "Camera Deputaților (1992–prezent)"
+    },
+    {
+      "nr": "56",
+      "nume": "Bogdan Olteanu",
+      "ani_viata": "1971–",
+      "de_la": "20 martie 2006",
+      "pana_la": "13 decembrie 2008",
+      "partid": "PNL",
+      "perioada": "Camera Deputaților (1992–prezent)"
+    },
+    {
+      "nr": "57",
+      "nume": "Roberta Anastase",
+      "ani_viata": "1976–",
+      "de_la": "19 decembrie 2008",
+      "pana_la": "3 iulie 2012",
+      "partid": "PDL",
+      "perioada": "Camera Deputaților (1992–prezent)"
+    },
+    {
+      "nr": "58",
+      "nume": "Valeriu Zgonea",
+      "ani_viata": "1967–",
+      "de_la": "3 iulie 2012",
+      "pana_la": "19 decembrie 2012",
+      "partid": "PSD",
+      "perioada": "Camera Deputaților (1992–prezent)"
+    },
+    {
+      "nr": "58",
+      "nume": "Valeriu Zgonea",
+      "ani_viata": "1967–",
+      "de_la": "19 decembrie 2012",
+      "pana_la": "13 iunie 2016",
+      "partid": "PSD",
+      "perioada": "Camera Deputaților (1992–prezent)"
+    },
+    {
+      "nr": "59",
+      "nume": "Florin Iordache",
+      "ani_viata": "1960–",
+      "de_la": "13 iunie 2016",
+      "pana_la": "21 decembrie 2016",
+      "partid": "PSD",
+      "perioada": "Camera Deputaților (1992–prezent)"
+    },
+    {
+      "nr": "60",
+      "nume": "Liviu Dragnea",
+      "ani_viata": "1962–",
+      "de_la": "21 decembrie 2016",
+      "pana_la": "29 mai 2019",
+      "partid": "PSD",
+      "perioada": "Camera Deputaților (1992–prezent)"
+    },
+    {
+      "nr": "61",
+      "nume": "Marcel Ciolacu",
+      "ani_viata": "1967–",
+      "de_la": "29 mai 2019",
+      "pana_la": "21 decembrie 2020",
+      "partid": "PSD",
+      "perioada": "Camera Deputaților (1992–prezent)"
+    },
+    {
+      "nr": "62",
+      "nume": "Ludovic Orban",
+      "ani_viata": "1963–",
+      "de_la": "21 decembrie 2020",
+      "pana_la": "12 octombrie 2021",
+      "partid": "PNL",
+      "perioada": "Camera Deputaților (1992–prezent)"
+    },
+    {
+      "nr": "—",
+      "nume": "Florin Roman",
+      "ani_viata": "1974–",
+      "de_la": "12 octombrie 2021",
+      "pana_la": "2 noiembrie 2021",
+      "partid": "PNL",
+      "perioada": "Camera Deputaților (1992–prezent)"
+    },
+    {
+      "nr": "—",
+      "nume": "Sorin Grindeanu",
+      "ani_viata": "1973–",
+      "de_la": "2 noiembrie 2021",
+      "pana_la": "23 noiembrie 2021",
+      "partid": "PSD",
+      "perioada": "Camera Deputaților (1992–prezent)"
+    },
+    {
+      "nr": "(61)",
+      "nume": "Marcel Ciolacu",
+      "ani_viata": "1967–",
+      "de_la": "23 noiembrie 2021",
+      "pana_la": "15 iunie 2023",
+      "partid": "PSD",
+      "perioada": "Camera Deputaților (1992–prezent)"
+    },
+    {
+      "nr": "—",
+      "nume": "Alfred Simonis",
+      "ani_viata": "1985–",
+      "de_la": "15 iunie 2023",
+      "pana_la": "2 septembrie 2024",
+      "partid": "PSD",
+      "perioada": "Camera Deputaților (1992–prezent)"
+    },
+    {
+      "nr": "63",
+      "nume": "Vasile-Daniel Suciu",
+      "ani_viata": "1980–",
+      "de_la": "2 septembrie 2024",
+      "pana_la": "23 decembrie 2024",
+      "partid": "PSD",
+      "perioada": "Camera Deputaților (1992–prezent)"
+    },
+    {
+      "nr": "64",
+      "nume": "Ciprian Șerban",
+      "ani_viata": "1985–",
+      "de_la": "23 decembrie 2024",
+      "pana_la": "23 iunie 2025",
+      "partid": "PSD",
+      "perioada": "Camera Deputaților (1992–prezent)"
+    },
+    {
+      "nr": "65",
+      "nume": "Sorin Grindeanu",
+      "ani_viata": "1973–",
+      "de_la": "24 iunie 2025",
+      "pana_la": "prezent",
+      "partid": "PSD",
+      "perioada": "Camera Deputaților (1992–prezent)"
+    }
+  ],
+  "meta": {
+    "title": "Președinții Camerei Deputaților din România - Free Download",
+    "description": "Lista președinților Adunării Deputaților și ai Camerei Deputaților din România, din 1862 până în prezent, cu mandatul și partidul. Contains 89 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Președinții Camerei Deputaților din România | ListBase",
+    "seo_description": "Download Președinții Camerei Deputaților din România — 89 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 89 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Președintele_Camerei_Deputaților_din_România"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-09T02:17:54.997Z",
-  "total_datasets": 486,
-  "total_records": 167344,
+  "generated": "2026-11-09T02:18:02.288Z",
+  "total_datasets": 487,
+  "total_records": 167433,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "reference",
@@ -6267,6 +6267,34 @@
         "xlsx": {
           "name": "ro-partide-politice_RO.xlsx",
           "size": 11774
+        }
+      }
+    },
+    {
+      "id": "ro-presedintii-camerei-deputatilor",
+      "name": "Președinții Camerei Deputaților din România",
+      "category": "politics",
+      "record_count": 89,
+      "columns": [
+        "nr",
+        "nume",
+        "ani_viata",
+        "de_la",
+        "pana_la",
+        "partid",
+        "perioada"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Președintele_Camerei_Deputaților_din_România",
+      "updated": "2026-11",
+      "size": 24113,
+      "files": {
+        "csv": {
+          "name": "ro-presedintii-camerei-deputatilor_RO.csv",
+          "size": 10614
+        },
+        "xlsx": {
+          "name": "ro-presedintii-camerei-deputatilor_RO.xlsx",
+          "size": 11638
         }
       }
     },
