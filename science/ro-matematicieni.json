@@ -1,0 +1,892 @@
+{
+  "id": "ro-matematicieni",
+  "name": "Matematicieni români",
+  "title": "Matematicieni români",
+  "description": "Lista matematicienilor români, cu anii nașterii și morții acolo unde sunt indicați în sursă.",
+  "category": "science",
+  "source": "https://ro.wikipedia.org/wiki/Listă_de_matematicieni_români",
+  "source_url": "https://ro.wikipedia.org/wiki/Listă_de_matematicieni_români",
+  "updated": "2026-11",
+  "record_count": 141,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "nascut",
+      "label": "Nascut",
+      "type": "number"
+    },
+    {
+      "key": "decedat",
+      "label": "Decedat",
+      "type": "number"
+    },
+    {
+      "key": "nota",
+      "label": "Nota",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "Ernest Abason",
+      "nascut": 1897,
+      "decedat": 1942,
+      "nota": ""
+    },
+    {
+      "nume": "Nicolae Abramescu",
+      "nascut": 1884,
+      "decedat": 1947,
+      "nota": ""
+    },
+    {
+      "nume": "Valeriu Alaci",
+      "nascut": 1884,
+      "decedat": 1955,
+      "nota": ""
+    },
+    {
+      "nume": "Titu Andreescu",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Cabiria Andreian Cazacu",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Aurel Angelescu",
+      "nascut": 1886,
+      "decedat": 1938,
+      "nota": ""
+    },
+    {
+      "nume": "Theodor Angheluță",
+      "nascut": 1882,
+      "decedat": 1964,
+      "nota": ""
+    },
+    {
+      "nume": "Mihai Anițescu",
+      "nascut": "",
+      "decedat": "",
+      "nota": "Argonne National Laboratory"
+    },
+    {
+      "nume": "Marian Aprodu",
+      "nascut": 1970,
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Emanoil Arghiriade",
+      "nascut": 1903,
+      "decedat": 1969,
+      "nota": ""
+    },
+    {
+      "nume": "Emanoil Bacaloglu",
+      "nascut": 1830,
+      "decedat": 1891,
+      "nota": ""
+    },
+    {
+      "nume": "Viorel P. Barbu",
+      "nascut": 1941,
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Dan Barbilian",
+      "nascut": 1895,
+      "decedat": 1961,
+      "nota": ""
+    },
+    {
+      "nume": "Radu Bădescu",
+      "nascut": 1904,
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Mihail Benado",
+      "nascut": 1920,
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Nicu Boboc",
+      "nascut": 1933,
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Constantin P. Bogdan",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Nicolae Botea",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Mihai Botez",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Mihail Ștefan Botez",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Neculai Ștefan Botez",
+      "nascut": 1843,
+      "decedat": 1920,
+      "nota": ""
+    },
+    {
+      "nume": "Gheorghe Bratu",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Dan Brânzei",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Daniel Breaz",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Gheorghe Buicliu",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Gheorghe Călugăreanu",
+      "nascut": 1902,
+      "decedat": 1976,
+      "nota": ""
+    },
+    {
+      "nume": "Zoia Ceaușescu",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Nicolae Ciorănescu",
+      "nascut": 1903,
+      "decedat": 1957,
+      "nota": ""
+    },
+    {
+      "nume": "George Ciucu",
+      "nascut": 1927,
+      "decedat": 1990,
+      "nota": ""
+    },
+    {
+      "nume": "Florica T. Câmpan",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Alexandru Climescu",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Ion Colojoară",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Mihnea Colțoiu",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Cezar Coșniță",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Ion L. Creangă",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Silvia Creangă",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Nicolae Dan Cristescu",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Romulus Cristescu",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Vasile Cristescu",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Ioan Cuculescu",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Neculai Culianu",
+      "nascut": 1832,
+      "decedat": 1915,
+      "nota": ""
+    },
+    {
+      "nume": "Petru N. Culianu",
+      "nascut": 1870,
+      "decedat": 1951,
+      "nota": ""
+    },
+    {
+      "nume": "Nicușor Dan",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Anton Davidoglu",
+      "nascut": 1876,
+      "decedat": 1958,
+      "nota": ""
+    },
+    {
+      "nume": "Aristide Deleanu",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Nicolae Dinculeanu",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Andrei Dobrescu",
+      "nascut": 1908,
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Lazăr Dragoș",
+      "nascut": 1930,
+      "decedat": 2009,
+      "nota": ""
+    },
+    {
+      "nume": "Constantin Drâmbă",
+      "nascut": 1907,
+      "decedat": 1997,
+      "nota": ""
+    },
+    {
+      "nume": "Dorel Duca",
+      "nascut": 1948,
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Ion P. Elianu",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "David Emmanuel",
+      "nascut": 1854,
+      "decedat": 1941,
+      "nota": ""
+    },
+    {
+      "nume": "Alexandru Froda",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Mihail Focșăneanu",
+      "nascut": 1905,
+      "decedat": 1972,
+      "nota": ""
+    },
+    {
+      "nume": "Ciprian Foiaș",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Gheorghe Galbură",
+      "nascut": 1916,
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Tudor Ganea",
+      "nascut": 1922,
+      "decedat": 1971,
+      "nota": ""
+    },
+    {
+      "nume": "Grigore Gheba",
+      "nascut": 1912,
+      "decedat": 2004,
+      "nota": ""
+    },
+    {
+      "nume": "Dan Andrei Geba",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Gheorghe Gheorghiev",
+      "nascut": 1907,
+      "decedat": 1999,
+      "nota": ""
+    },
+    {
+      "nume": "Octavian Gheorghiu",
+      "nascut": 1921,
+      "decedat": 1979,
+      "nota": ""
+    },
+    {
+      "nume": "Gheorghe Th. Gheorghiu",
+      "nascut": 1908,
+      "decedat": 1979,
+      "nota": ""
+    },
+    {
+      "nume": "Șerban Gheorghiu",
+      "nascut": 1896,
+      "decedat": 1957,
+      "nota": ""
+    },
+    {
+      "nume": "Mihail Ghermănescu",
+      "nascut": 1899,
+      "decedat": 1962,
+      "nota": ""
+    },
+    {
+      "nume": "Alexandru Ghika",
+      "nascut": 1902,
+      "decedat": 1964,
+      "nota": ""
+    },
+    {
+      "nume": "Ion Th. Grigore",
+      "nascut": 1907,
+      "decedat": 1990,
+      "nota": ""
+    },
+    {
+      "nume": "Adolf Haimovici",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Mendel Haimovici",
+      "nascut": 1906,
+      "decedat": 1973,
+      "nota": ""
+    },
+    {
+      "nume": "Aristide Halanay",
+      "nascut": 1924,
+      "decedat": 1997,
+      "nota": ""
+    },
+    {
+      "nume": "Spiru Haret",
+      "nascut": 1851,
+      "decedat": 1912,
+      "nota": ""
+    },
+    {
+      "nume": "Dan Hulubei",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Caius Iacob",
+      "nascut": 1912,
+      "decedat": 1992,
+      "nota": ""
+    },
+    {
+      "nume": "Andrei Ioachimescu",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Dumitru V. Ionescu",
+      "nascut": 1901,
+      "decedat": 1985,
+      "nota": ""
+    },
+    {
+      "nume": "Cassius T. Ionescu Tulcea",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Ion Ionescu",
+      "nascut": 1870,
+      "decedat": 1946,
+      "nota": ""
+    },
+    {
+      "nume": "Gheorghe Iuga",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Martin Jurchescu",
+      "nascut": 1927,
+      "decedat": 1996,
+      "nota": ""
+    },
+    {
+      "nume": "Traian Lalescu",
+      "nascut": 1882,
+      "decedat": 1929,
+      "nota": ""
+    },
+    {
+      "nume": "George Lusztig",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Dumitru Mangeron",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Valentin Manzur",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Froim Marcus",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Solomon Marcus",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Victor Marian",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Gheorghe Marinescu",
+      "nascut": "",
+      "decedat": "",
+      "nota": "1919 -?"
+    },
+    {
+      "nume": "Octav Mayer",
+      "nascut": 1895,
+      "decedat": 1966,
+      "nota": ""
+    },
+    {
+      "nume": "Nicolae N. Mihăileanu",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Eugen Gh. Mihăilescu",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Preda Mihăilescu",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Tiberiu Mihăilescu",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Gheorghe Mihoc",
+      "nascut": 1906,
+      "decedat": 1981,
+      "nota": ""
+    },
+    {
+      "nume": "Radu Miron",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Petru Mocanu",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Gheorghe Moroșanu",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Vera Myller-Lebedev",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Grigore Moisil",
+      "nascut": 1906,
+      "decedat": 1973,
+      "nota": ""
+    },
+    {
+      "nume": "Alexandru Myller",
+      "nascut": 1879,
+      "decedat": 1965,
+      "nota": ""
+    },
+    {
+      "nume": "Vera Myller",
+      "nascut": 1880,
+      "decedat": 1970,
+      "nota": ""
+    },
+    {
+      "nume": "Constantin Năstăsescu",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Dan Negruț -- University of Wisconsin",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Gheorghe Nichifor",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Constantin I. Nicolau",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Alexandru V. Nicolescu",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Miron Nicolescu",
+      "nascut": 1903,
+      "decedat": 1975,
+      "nota": ""
+    },
+    {
+      "nume": "Octav Onicescu",
+      "nascut": 1892,
+      "decedat": 1983,
+      "nota": ""
+    },
+    {
+      "nume": "Octavian Gilescu",
+      "nascut": 1891,
+      "decedat": 1917,
+      "nota": ""
+    },
+    {
+      "nume": "Alexandru Pantazi",
+      "nascut": 1896,
+      "decedat": 1948,
+      "nota": ""
+    },
+    {
+      "nume": "Ștefan Papadima",
+      "nascut": "",
+      "decedat": "",
+      "nota": "1953 -"
+    },
+    {
+      "nume": "Ștefan Petrescu",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Gheorghe Pic",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Gheorghe Pitiș",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Valentin Poénaru",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Dimitrie Pompeiu",
+      "nascut": 1873,
+      "decedat": 1954,
+      "nota": ""
+    },
+    {
+      "nume": "Nicolae Popescu",
+      "nascut": "",
+      "decedat": "",
+      "nota": "1937 -"
+    },
+    {
+      "nume": "Tiberiu Popoviciu",
+      "nascut": 1906,
+      "decedat": 1975,
+      "nota": ""
+    },
+    {
+      "nume": "Constantin Popovici",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Aurel Rășcanu",
+      "nascut": 1950,
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Radu Roșca",
+      "nascut": 1908,
+      "decedat": 2005,
+      "nota": ""
+    },
+    {
+      "nume": "Simion Sanielevici",
+      "nascut": 1870,
+      "decedat": 1963,
+      "nota": ""
+    },
+    {
+      "nume": "Petre Sergescu",
+      "nascut": 1893,
+      "decedat": 1954,
+      "nota": ""
+    },
+    {
+      "nume": "Florentin Smarandache",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Dimitrie D. Stancu",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Simion Stoilow",
+      "nascut": 1887,
+      "decedat": 1961,
+      "nota": ""
+    },
+    {
+      "nume": "Bogdan Suceavă",
+      "nascut": 1969,
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Gabriel Sudan",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Octavian Stănășilă",
+      "nascut": 1939,
+      "decedat": 2020,
+      "nota": ""
+    },
+    {
+      "nume": "Paul Tanco",
+      "nascut": 1843,
+      "decedat": 1916,
+      "nota": ""
+    },
+    {
+      "nume": "Nicolae Teodorescu",
+      "nascut": 1908,
+      "decedat": 2000,
+      "nota": ""
+    },
+    {
+      "nume": "Daniel Tătaru",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Grigore Țâra",
+      "nascut": 1943,
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Ovidiu N. Țino",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Gheorghe Țițeica",
+      "nascut": 1873,
+      "decedat": 1939,
+      "nota": ""
+    },
+    {
+      "nume": "Constantin Udriste",
+      "nascut": 1940,
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Ion Văduva",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Victor Vâlcovici",
+      "nascut": 1885,
+      "decedat": 1970,
+      "nota": ""
+    },
+    {
+      "nume": "Florin Vasilescu",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Dan-Virgil Voiculescu",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Gheorghe Vrânceanu",
+      "nascut": 1900,
+      "decedat": 1979,
+      "nota": ""
+    },
+    {
+      "nume": "Gheorghe Zapan",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Cătălin Zara",
+      "nascut": 1969,
+      "decedat": "",
+      "nota": ""
+    }
+  ],
+  "meta": {
+    "title": "Matematicieni români - Free Download",
+    "description": "Lista matematicienilor români, cu anii nașterii și morții acolo unde sunt indicați în sursă. Contains 141 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Matematicieni români | ListBase",
+    "seo_description": "Download Matematicieni români — 141 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 141 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Listă_de_matematicieni_români"
+    ]
+  }
+}
