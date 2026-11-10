@@ -1,0 +1,400 @@
+{
+  "id": "ro-cetati-dacice",
+  "name": "Cetăți și davae dacice",
+  "title": "Cetăți și davae dacice",
+  "description": "Lista cetăților și așezărilor fortificate dacice (dave) cunoscute, cu localizarea actuală acolo unde este identificată în sursă.",
+  "category": "history",
+  "source": "https://ro.wikipedia.org/wiki/Listă_de_cetăți_dacice",
+  "source_url": "https://ro.wikipedia.org/wiki/Listă_de_cetăți_dacice",
+  "updated": "2026-11",
+  "record_count": 91,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "localizare_actuala",
+      "label": "Localizare Actuala",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "Costești - Blidaru",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Costești - Cetățuie",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Acidava",
+      "localizare_actuala": "Enoșești"
+    },
+    {
+      "nume": "Acmonia",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Aedeva, Aedava sau Aedadeba",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Aizis",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Amutrium",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Angustia",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Apoulon",
+      "localizare_actuala": "Piatra Craivii, jud. Alba"
+    },
+    {
+      "nume": "Ad Aquas, Aquae sau Hydata",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Arcidava, Argedava sau Argidava",
+      "localizare_actuala": "Vărădia, Popești, or. Mihăilești, jud. Giurgiu - capitala lui Burebista"
+    },
+    {
+      "nume": "Arcinna",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Arcobadara",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Arutela",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Cetatea dacică de la Bănița",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Berzobis",
+      "localizare_actuala": "Berzovia"
+    },
+    {
+      "nume": "Buridava",
+      "localizare_actuala": "Ocnița, or. Ocnele Mari, jud. Vâlcea"
+    },
+    {
+      "nume": "Buteridava",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Callatis",
+      "localizare_actuala": "Mangalia - colonie grecească"
+    },
+    {
+      "nume": "Capidava",
+      "localizare_actuala": "Capidava, Constanța"
+    },
+    {
+      "nume": "Carsidava",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Cetatea dacică de la Căpâlna",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Cedonie / Cebonie",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Comidava / Cumidava",
+      "localizare_actuala": "Râșnov"
+    },
+    {
+      "nume": "Danedebai",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Dausdava",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Diacum",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Dierna",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Dinogetia",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Docidava",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Drobeta / Drubetis",
+      "localizare_actuala": "Drobeta Turnu Severin"
+    },
+    {
+      "nume": "Cetatea dacică Fețele Albe",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Frateria",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Genucla",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Gildova sau Gildoba",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Giridava",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Helis",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Itadeba sau Itadava",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Jidava",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Jidova",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Lizisis",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Malva, devenit Romula după curerirea romană",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Marcodava",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Napoca",
+      "localizare_actuala": "Cluj-Napoca"
+    },
+    {
+      "nume": "Nentinava",
+      "localizare_actuala": "Slobozia"
+    },
+    {
+      "nume": "Paloda",
+      "localizare_actuala": "Bârlad"
+    },
+    {
+      "nume": "Patridava",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Patruissa",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Pelendava",
+      "localizare_actuala": "Craiova"
+    },
+    {
+      "nume": "Petrodava",
+      "localizare_actuala": "Bâtca Doamnei, mun. Piatra Neamț"
+    },
+    {
+      "nume": "Pinum",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Piroboridava",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Pirum",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Polonda / Polondava",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Porolissum",
+      "localizare_actuala": "Moigrad, com. Mirșid, jud. Sălaj"
+    },
+    {
+      "nume": "Potaissa sau Patavissa",
+      "localizare_actuala": "Turda"
+    },
+    {
+      "nume": "Praetoria Augusta",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Ramidava",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Ranisstorum",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Recidava",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Romboses",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Romula",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Rucconium",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Rusidava",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Sacidava",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Salinae",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Sandava",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Sangidava - se presupune că se află în zona Toplița, județul Harghita",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Sarmizegethusa ton Basileion - Grădiștea de Munte, jud. Hunedoara,capitala lui Decebal",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Setidava sau Susudava",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Singidava",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Sornum",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Sucidava",
+      "localizare_actuala": "Corabia - Județul Olt"
+    },
+    {
+      "nume": "Tamasidava",
+      "localizare_actuala": "Pâncești, jud. Bacău (eronat, plasată la Răcatău, com. Horgești)"
+    },
+    {
+      "nume": "Tapae",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Tiasum",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Tibiscum",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Tirista",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Triphulum / Trifulon",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Troesmis",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Tsierna sau Dierna",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Ulpianum",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Utidava",
+      "localizare_actuala": "Tisești, Târgu Ocna"
+    },
+    {
+      "nume": "Zaldapa",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Zargidava",
+      "localizare_actuala": "Brad, com. Negri, jud. Bacău"
+    },
+    {
+      "nume": "Zeugma",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Zimnicea",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Ziridava",
+      "localizare_actuala": "Pecica, jud. Arad"
+    },
+    {
+      "nume": "Zisnedeva, Zisnudeva sau Zisnudeba",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Zurobara",
+      "localizare_actuala": ""
+    },
+    {
+      "nume": "Zusidava",
+      "localizare_actuala": "Grădiștea, jud. Brăila - neindentificată"
+    }
+  ],
+  "meta": {
+    "title": "Cetăți și davae dacice - Free Download",
+    "description": "Lista cetăților și așezărilor fortificate dacice (dave) cunoscute, cu localizarea actuală acolo unde este identificată în sursă. Contains 91 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Cetăți și davae dacice | ListBase",
+    "seo_description": "Download Cetăți și davae dacice — 91 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 91 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Listă_de_cetăți_dacice"
+    ]
+  }
+}

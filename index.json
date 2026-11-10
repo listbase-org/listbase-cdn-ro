@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-10T02:12:25.305Z",
-  "total_datasets": 493,
-  "total_records": 167981,
+  "generated": "2026-11-10T02:30:47.929Z",
+  "total_datasets": 494,
+  "total_records": 168072,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "language",
@@ -5833,6 +5833,29 @@
         "xlsx": {
           "name": "ro-castre-romane_RO.xlsx",
           "size": 14362
+        }
+      }
+    },
+    {
+      "id": "ro-cetati-dacice",
+      "name": "Cetăți și davae dacice",
+      "category": "history",
+      "record_count": 91,
+      "columns": [
+        "nume",
+        "localizare_actuala"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Listă_de_cetăți_dacice",
+      "updated": "2026-11",
+      "size": 8767,
+      "files": {
+        "csv": {
+          "name": "ro-cetati-dacice_RO.csv",
+          "size": 2309
+        },
+        "xlsx": {
+          "name": "ro-cetati-dacice_RO.xlsx",
+          "size": 8869
         }
       }
     },
