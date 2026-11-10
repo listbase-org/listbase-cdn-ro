@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-10T02:12:04.699Z",
-  "total_datasets": 490,
-  "total_records": 167636,
+  "generated": "2026-11-10T02:12:12.291Z",
+  "total_datasets": 491,
+  "total_records": 167674,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "politics",
@@ -6149,6 +6149,31 @@
         "xlsx": {
           "name": "ro-cantareti-de-opera_RO.xlsx",
           "size": 8811
+        }
+      }
+    },
+    {
+      "id": "ro-cantareti-folk",
+      "name": "Cântăreți români de folk",
+      "category": "music",
+      "record_count": 38,
+      "columns": [
+        "nume",
+        "nascut",
+        "decedat",
+        "nota"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Listă_de_cântăreți_români_de_folk",
+      "updated": "2026-11",
+      "size": 5536,
+      "files": {
+        "csv": {
+          "name": "ro-cantareti-folk_RO.csv",
+          "size": 1236
+        },
+        "xlsx": {
+          "name": "ro-cantareti-folk_RO.xlsx",
+          "size": 7912
         }
       }
     },

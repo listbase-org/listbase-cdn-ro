@@ -1,0 +1,274 @@
+{
+  "id": "ro-cantareti-folk",
+  "name": "Cântăreți români de folk",
+  "title": "Cântăreți români de folk",
+  "description": "Lista interpreților români de muzică folk, cu anii nașterii și, după caz, ai decesului.",
+  "category": "music",
+  "source": "https://ro.wikipedia.org/wiki/Listă_de_cântăreți_români_de_folk",
+  "source_url": "https://ro.wikipedia.org/wiki/Listă_de_cântăreți_români_de_folk",
+  "updated": "2026-11",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "nascut",
+      "label": "Nascut",
+      "type": "number"
+    },
+    {
+      "key": "decedat",
+      "label": "Decedat",
+      "type": "number"
+    },
+    {
+      "key": "nota",
+      "label": "Nota",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "Erzsébet Ádám",
+      "nascut": 1947,
+      "decedat": 2015,
+      "nota": ""
+    },
+    {
+      "nume": "Dan Andrei Aldea",
+      "nascut": 1950,
+      "decedat": 2020,
+      "nota": ""
+    },
+    {
+      "nume": "Zoia Alecu",
+      "nascut": 1956,
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Nicu Alifantis",
+      "nascut": 1954,
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Alexandru Andrieș",
+      "nascut": 1954,
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Adriana Ausch",
+      "nascut": 1953,
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Mircea Baniciu",
+      "nascut": 1949,
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Ducu Bertzi",
+      "nascut": 1955,
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Anda Călugăreanu",
+      "nascut": 1946,
+      "decedat": 1992,
+      "nota": ""
+    },
+    {
+      "nume": "Dan Chebac",
+      "nascut": 1952,
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Florin Chilian",
+      "nascut": 1968,
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Gelu Colceag",
+      "nascut": 1949,
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Ioana Crăciunescu",
+      "nascut": "",
+      "decedat": "",
+      "nota": "n.1950, versuri"
+    },
+    {
+      "nume": "Mihai Diaconescu",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Constantin Dragomir",
+      "nascut": 1953,
+      "decedat": 2007,
+      "nota": ""
+    },
+    {
+      "nume": "Mircea Florian",
+      "nascut": 1949,
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Radu Gheorghe",
+      "nascut": 1951,
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Tudor Gheorghe",
+      "nascut": 1945,
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Ion Hagiu",
+      "nascut": 1926,
+      "decedat": 1996,
+      "nota": ""
+    },
+    {
+      "nume": "Ovidiu Haidu",
+      "nascut": 1967,
+      "decedat": 2006,
+      "nota": ""
+    },
+    {
+      "nume": "Ștefan Hrușcă",
+      "nascut": 1957,
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Gil Ioniță",
+      "nascut": 1952,
+      "decedat": 2004,
+      "nota": ""
+    },
+    {
+      "nume": "Adrian Ivanițchi",
+      "nascut": 1947,
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Ovidiu Mihăilescu",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Ada Milea",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Maria Nagy",
+      "nascut": 1957,
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "George Nicolescu",
+      "nascut": "",
+      "decedat": "",
+      "nota": "n.1950 - d. 2024"
+    },
+    {
+      "nume": "Nicolae Robu",
+      "nascut": "",
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Emilian Onciu",
+      "nascut": 1957,
+      "decedat": 2008,
+      "nota": ""
+    },
+    {
+      "nume": "Marcela Saftiuc",
+      "nascut": 1951,
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Victor Socaciu",
+      "nascut": 1953,
+      "decedat": 2021,
+      "nota": ""
+    },
+    {
+      "nume": "Doru Stănculescu",
+      "nascut": 1950,
+      "decedat": 2021,
+      "nota": ""
+    },
+    {
+      "nume": "Tatiana Stepa",
+      "nascut": 1963,
+      "decedat": 2009,
+      "nota": ""
+    },
+    {
+      "nume": "Valeriu Sterian",
+      "nascut": 1952,
+      "decedat": 2000,
+      "nota": ""
+    },
+    {
+      "nume": "Narcisa Suciu",
+      "nascut": 1975,
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Vasile Șeicaru",
+      "nascut": 1951,
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Mircea Vintilă",
+      "nascut": 1949,
+      "decedat": "",
+      "nota": ""
+    },
+    {
+      "nume": "Nicu Vladimir",
+      "nascut": 1950,
+      "decedat": 1995,
+      "nota": ""
+    }
+  ],
+  "meta": {
+    "title": "Cântăreți români de folk - Free Download",
+    "description": "Lista interpreților români de muzică folk, cu anii nașterii și, după caz, ai decesului. Contains 38 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Cântăreți români de folk | ListBase",
+    "seo_description": "Download Cântăreți români de folk — 38 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 38 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Listă_de_cântăreți_români_de_folk"
+    ]
+  }
+}
