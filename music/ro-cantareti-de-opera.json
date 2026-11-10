@@ -1,0 +1,408 @@
+{
+  "id": "ro-cantareti-de-opera",
+  "name": "Cântăreți de operă români",
+  "title": "Cântăreți de operă români",
+  "description": "Lista cântăreților de operă români, cu tipul de voce (soprană, tenor, bariton etc.).",
+  "category": "music",
+  "source": "https://ro.wikipedia.org/wiki/Listă_de_cântăreți_de_operă_români",
+  "source_url": "https://ro.wikipedia.org/wiki/Listă_de_cântăreți_de_operă_români",
+  "updated": "2026-11",
+  "record_count": 93,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "tip_voce",
+      "label": "Tip Voce",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "Alexandru Agache",
+      "tip_voce": "bariton"
+    },
+    {
+      "nume": "Jean Athanasiu",
+      "tip_voce": "bariton"
+    },
+    {
+      "nume": "Dinu Bădescu",
+      "tip_voce": "tenor"
+    },
+    {
+      "nume": "Ion Băjenaru",
+      "tip_voce": "tenor"
+    },
+    {
+      "nume": "Maria Bieșu",
+      "tip_voce": "soprană"
+    },
+    {
+      "nume": "Nicolae Bretan",
+      "tip_voce": "bariton"
+    },
+    {
+      "nume": "Roxana Briban",
+      "tip_voce": "soprană"
+    },
+    {
+      "nume": "Ion Buzea",
+      "tip_voce": "tenor"
+    },
+    {
+      "nume": "Maria Cebotari",
+      "tip_voce": "soprană"
+    },
+    {
+      "nume": "Elena Cernei",
+      "tip_voce": "mezzo-soprană"
+    },
+    {
+      "nume": "Sorin Coliban",
+      "tip_voce": "bas-bariton"
+    },
+    {
+      "nume": "Roxana Constantinescu",
+      "tip_voce": "mezzo-soprană"
+    },
+    {
+      "nume": "Mioara Cortez",
+      "tip_voce": "soprană"
+    },
+    {
+      "nume": "Viorica Cortez",
+      "tip_voce": "mezzo-soprană"
+    },
+    {
+      "nume": "Cellia Costea",
+      "tip_voce": "soprană"
+    },
+    {
+      "nume": "Ileana Cotrubaș",
+      "tip_voce": "soprană"
+    },
+    {
+      "nume": "Valentina Crețoiu",
+      "tip_voce": "soprană"
+    },
+    {
+      "nume": "Florica Cristoforeanu",
+      "tip_voce": "soprană"
+    },
+    {
+      "nume": "Lucia Cicoară Drăgan",
+      "tip_voce": "mezzo-soprana"
+    },
+    {
+      "nume": "Ion Dacian",
+      "tip_voce": "tenor"
+    },
+    {
+      "nume": "Hariclea Darclée",
+      "tip_voce": "soprană"
+    },
+    {
+      "nume": "Ruxandra Donose",
+      "tip_voce": "mezzo-soprană"
+    },
+    {
+      "nume": "Dan Paul Dumitrescu",
+      "tip_voce": "bas"
+    },
+    {
+      "nume": "Octav Enigărescu",
+      "tip_voce": "bariton"
+    },
+    {
+      "nume": "Felicia Filip",
+      "tip_voce": "soprană"
+    },
+    {
+      "nume": "Arta Florescu",
+      "tip_voce": "soprană"
+    },
+    {
+      "nume": "Grigore Gabrielescu",
+      "tip_voce": "tenor"
+    },
+    {
+      "nume": "Elena Gaja",
+      "tip_voce": "mezzo-soprană"
+    },
+    {
+      "nume": "Angela Gheorghiu (soprană ]",
+      "tip_voce": ""
+    },
+    {
+      "nume": "Teodora Gheorghiu",
+      "tip_voce": "soprană"
+    },
+    {
+      "nume": "Traian Grozăvescu",
+      "tip_voce": "tenor"
+    },
+    {
+      "nume": "Carmen Hanganu",
+      "tip_voce": "soprană"
+    },
+    {
+      "nume": "Anita Hartig",
+      "tip_voce": "soprană"
+    },
+    {
+      "nume": "Pompei Hărășteanu",
+      "tip_voce": ""
+    },
+    {
+      "nume": "Nicolae Herlea",
+      "tip_voce": "bariton"
+    },
+    {
+      "nume": "Lya Hubic",
+      "tip_voce": "soprană"
+    },
+    {
+      "nume": "Ioan Hotea",
+      "tip_voce": "tenor"
+    },
+    {
+      "nume": "Magda Ianculescu",
+      "tip_voce": "soprană"
+    },
+    {
+      "nume": "Ștefan Ignat",
+      "tip_voce": "bariton"
+    },
+    {
+      "nume": "Dan Iordăchescu",
+      "tip_voce": "bariton"
+    },
+    {
+      "nume": "Simina Ivan",
+      "tip_voce": "soprană"
+    },
+    {
+      "nume": "Martha Kessler",
+      "tip_voce": ""
+    },
+    {
+      "nume": "Ludovic Konya",
+      "tip_voce": "bariton"
+    },
+    {
+      "nume": "Ladislau Konya",
+      "tip_voce": "bariton"
+    },
+    {
+      "nume": "Nicolae Leonard",
+      "tip_voce": "tenor"
+    },
+    {
+      "nume": "Mizzi Locker",
+      "tip_voce": "soprană"
+    },
+    {
+      "nume": "Elisabeta Marin",
+      "tip_voce": "soprană"
+    },
+    {
+      "nume": "Emil Marinescu",
+      "tip_voce": "tenor"
+    },
+    {
+      "nume": "Nelly Miricioiu",
+      "tip_voce": "soprană"
+    },
+    {
+      "nume": "Mircea Moisa",
+      "tip_voce": "bas"
+    },
+    {
+      "nume": "Eugenia Moldoveanu",
+      "tip_voce": "soprană"
+    },
+    {
+      "nume": "Vasile Moldoveanu",
+      "tip_voce": "tenor"
+    },
+    {
+      "nume": "Maria Moreanu",
+      "tip_voce": "mezzo-soprană"
+    },
+    {
+      "nume": "Elena Moșuc",
+      "tip_voce": "soprană"
+    },
+    {
+      "nume": "Mihai Munteanu",
+      "tip_voce": "tenor"
+    },
+    {
+      "nume": "Petre Munteanu",
+      "tip_voce": "tenor liric"
+    },
+    {
+      "nume": "Silvia Sorina Munteanu",
+      "tip_voce": "soprană"
+    },
+    {
+      "nume": "Corneliu Murgu",
+      "tip_voce": "tenor"
+    },
+    {
+      "nume": "Valentina Naforniță",
+      "tip_voce": "soprană"
+    },
+    {
+      "nume": "Octavian Naghiu",
+      "tip_voce": "tenor"
+    },
+    {
+      "nume": "Mihail Nasta",
+      "tip_voce": "tenor"
+    },
+    {
+      "nume": "Mariana Nicolesco",
+      "tip_voce": "soprană"
+    },
+    {
+      "nume": "George Niculescu-Basu",
+      "tip_voce": "bas"
+    },
+    {
+      "nume": "David Ohanesian",
+      "tip_voce": "bariton"
+    },
+    {
+      "nume": "Dimitrie Onofrei",
+      "tip_voce": "tenor"
+    },
+    {
+      "nume": "Cezar Ouatu",
+      "tip_voce": "contratenor"
+    },
+    {
+      "nume": "Zenaida Pally",
+      "tip_voce": "mezzo-soprană"
+    },
+    {
+      "nume": "Ionel Pantea",
+      "tip_voce": ""
+    },
+    {
+      "nume": "Constantin Pavel",
+      "tip_voce": "tenor"
+    },
+    {
+      "nume": "George Petean",
+      "tip_voce": "bariton"
+    },
+    {
+      "nume": "Ion Piso",
+      "tip_voce": "tenor, *1926"
+    },
+    {
+      "nume": "Dimitrie Popovici-Bayreuth",
+      "tip_voce": "bariton"
+    },
+    {
+      "nume": "Stella Roman",
+      "tip_voce": "soprană"
+    },
+    {
+      "nume": "Gheorghe Roșu",
+      "tip_voce": ""
+    },
+    {
+      "nume": "Joseph Schmidt",
+      "tip_voce": "tenor"
+    },
+    {
+      "nume": "Nicolae Secăreanu",
+      "tip_voce": "bas"
+    },
+    {
+      "nume": "Elena Simionescu",
+      "tip_voce": "soprană"
+    },
+    {
+      "nume": "Ludovic Spiess",
+      "tip_voce": "tenor spint"
+    },
+    {
+      "nume": "Georgeta Stoleriu",
+      "tip_voce": ""
+    },
+    {
+      "nume": "Petre Ștefănescu-Goangă",
+      "tip_voce": ""
+    },
+    {
+      "nume": "Șerban Tassian",
+      "tip_voce": "bariton"
+    },
+    {
+      "nume": "Dorin Teodorescu",
+      "tip_voce": "tenor"
+    },
+    {
+      "nume": "Valentin Teodorian",
+      "tip_voce": "tenor"
+    },
+    {
+      "nume": "Elena Teodorini",
+      "tip_voce": "mezzo-soprană"
+    },
+    {
+      "nume": "Aura Twarowska",
+      "tip_voce": "mezzo-soprană"
+    },
+    {
+      "nume": "Viorica Ursuleac",
+      "tip_voce": "soprană"
+    },
+    {
+      "nume": "Julia Varady",
+      "tip_voce": "soprană"
+    },
+    {
+      "nume": "Leontina Văduva",
+      "tip_voce": "soprană"
+    },
+    {
+      "nume": "Daniela Vlădescu",
+      "tip_voce": "soprană"
+    },
+    {
+      "nume": "Ionel Voineag",
+      "tip_voce": "tenor"
+    },
+    {
+      "nume": "Mirela Zafiri",
+      "tip_voce": "soprană"
+    },
+    {
+      "nume": "Adela Zaharia",
+      "tip_voce": "soprană"
+    },
+    {
+      "nume": "Virginia Zeani",
+      "tip_voce": "soprană lirică"
+    }
+  ],
+  "meta": {
+    "title": "Cântăreți de operă români - Free Download",
+    "description": "Lista cântăreților de operă români, cu tipul de voce (soprană, tenor, bariton etc.). Contains 93 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Cântăreți de operă români | ListBase",
+    "seo_description": "Download Cântăreți de operă români — 93 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 93 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Listă_de_cântăreți_de_operă_români"
+    ]
+  }
+}

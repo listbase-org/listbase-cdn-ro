@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-09T02:18:18.029Z",
-  "total_datasets": 489,
-  "total_records": 167543,
+  "generated": "2026-11-10T02:12:04.699Z",
+  "total_datasets": 490,
+  "total_records": 167636,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "politics",
@@ -6126,6 +6126,29 @@
         "xlsx": {
           "name": "ro-puncte-penalizare-auto_RO.xlsx",
           "size": 8232
+        }
+      }
+    },
+    {
+      "id": "ro-cantareti-de-opera",
+      "name": "Cântăreți de operă români",
+      "category": "music",
+      "record_count": 93,
+      "columns": [
+        "nume",
+        "tip_voce"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Listă_de_cântăreți_de_operă_români",
+      "updated": "2026-11",
+      "size": 8264,
+      "files": {
+        "csv": {
+          "name": "ro-cantareti-de-opera_RO.csv",
+          "size": 2655
+        },
+        "xlsx": {
+          "name": "ro-cantareti-de-opera_RO.xlsx",
+          "size": 8811
         }
       }
     },
