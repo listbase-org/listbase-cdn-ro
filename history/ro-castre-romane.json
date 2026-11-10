@@ -1,0 +1,1726 @@
+{
+  "id": "ro-castre-romane",
+  "name": "Castrele romane din România",
+  "title": "Castrele romane din România",
+  "description": "Lista castrelor romane de pe teritoriul României, cu localitatea modernă, limesul, suprafața, provincia romană și județul.",
+  "category": "history",
+  "source": "https://ro.wikipedia.org/wiki/Lista_castrelor_romane_din_România",
+  "source_url": "https://ro.wikipedia.org/wiki/Lista_castrelor_romane_din_România",
+  "updated": "2026-11",
+  "record_count": 166,
+  "columns": [
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "localitate",
+      "label": "Localitate",
+      "type": "string"
+    },
+    {
+      "key": "limes",
+      "label": "Limes",
+      "type": "string"
+    },
+    {
+      "key": "suprafata_ha",
+      "label": "Suprafata Ha",
+      "type": "number"
+    },
+    {
+      "key": "construit",
+      "label": "Construit",
+      "type": "number"
+    },
+    {
+      "key": "provincie_romana",
+      "label": "Provincie Romana",
+      "type": "string"
+    },
+    {
+      "key": "regiune",
+      "label": "Regiune",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nume": "Ad Pannonios",
+      "localitate": "Teregova",
+      "limes": "",
+      "suprafata_ha": 1.4,
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Banat",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "nume": "Aizis",
+      "localitate": "Fârliug",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Banat",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "nume": "Altenum",
+      "localitate": "Oltina",
+      "limes": "Moesiarum",
+      "suprafata_ha": 2,
+      "construit": "",
+      "provincie_romana": "Moesia Inferior",
+      "regiune": "Dobrogea",
+      "judet": "Constanța"
+    },
+    {
+      "nume": "Arcidava",
+      "localitate": "Vărădia",
+      "limes": "",
+      "suprafata_ha": 2.6,
+      "construit": "106",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Banat",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "nume": "Bersobis",
+      "localitate": "Berzovia",
+      "limes": "",
+      "suprafata_ha": 20,
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Banat",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "nume": "Caput Bubali",
+      "localitate": "Delinești",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Banat",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "nume": "Centum Putei",
+      "localitate": "Surducu Mare",
+      "limes": "",
+      "suprafata_ha": 1.7,
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Banat",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "nume": "Pons Augusti",
+      "localitate": "Voislova",
+      "limes": "",
+      "suprafata_ha": 0.17,
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Banat",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "nume": "Praetorium",
+      "localitate": "Mehadia",
+      "limes": "",
+      "suprafata_ha": 1.6,
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Banat",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "nume": "Tibiscum",
+      "localitate": "Jupa",
+      "limes": "",
+      "suprafata_ha": 5.4,
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Banat",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "nume": "(Constantin Daicoviciu)",
+      "localitate": "Constantin Daicoviciu",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Banat",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "nume": "(Cornuțel)",
+      "localitate": "Cornuțel",
+      "limes": "",
+      "suprafata_ha": 0.24,
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Banat",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "nume": "(Duleu)",
+      "localitate": "Duleu",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Banat",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "nume": "(Moldova Nouă)",
+      "localitate": "Moldova Nouă",
+      "limes": "Moesiarum",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Banat",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "nume": "(Pojejena)",
+      "localitate": "Pojejena",
+      "limes": "Moesiarum",
+      "suprafata_ha": 2.7,
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Banat",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "nume": "(Zăvoi)",
+      "localitate": "Zăvoi",
+      "limes": "",
+      "suprafata_ha": 11.2,
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Banat",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "nume": "Bacaucis",
+      "localitate": "Foeni",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Banat",
+      "judet": "Timiș"
+    },
+    {
+      "nume": "Morisena",
+      "localitate": "Cenad",
+      "limes": "Marisiensis",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Banat",
+      "judet": "Timiș"
+    },
+    {
+      "nume": "Temesiensis",
+      "localitate": "Timișoara",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Banat",
+      "judet": "Timiș"
+    },
+    {
+      "nume": "(Bulci)",
+      "localitate": "Bulci",
+      "limes": "Marisiensis",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Banat",
+      "judet": "Arad"
+    },
+    {
+      "nume": "(Arad)",
+      "localitate": "Arad",
+      "limes": "Marisiensis",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Banat",
+      "judet": "Arad"
+    },
+    {
+      "nume": "(Lipova)",
+      "localitate": "Lipova",
+      "limes": "Marisiensis",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Banat",
+      "judet": "Arad"
+    },
+    {
+      "nume": "(Tileagd)",
+      "localitate": "Tileagd",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Porolissensis",
+      "regiune": "Crișana",
+      "judet": "Bihor"
+    },
+    {
+      "nume": "(Cernavodă)",
+      "localitate": "Cernavodă",
+      "limes": "Moesiarum",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Moesia Inferior",
+      "regiune": "Dobrogea",
+      "judet": "Constanța"
+    },
+    {
+      "nume": "Capidava",
+      "localitate": "Capidava",
+      "limes": "Moesiarum",
+      "suprafata_ha": 1.33,
+      "construit": "",
+      "provincie_romana": "Moesia Inferior",
+      "regiune": "Dobrogea",
+      "judet": "Constanța"
+    },
+    {
+      "nume": "Carsium",
+      "localitate": "Hârșova",
+      "limes": "Moesiarum",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Moesia Inferior",
+      "regiune": "Dobrogea",
+      "judet": "Constanța"
+    },
+    {
+      "nume": "Sacidava",
+      "localitate": "Rasova",
+      "limes": "Moesiarum",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Moesia Inferior",
+      "regiune": "Dobrogea",
+      "judet": "Constanța"
+    },
+    {
+      "nume": "Ulmetum",
+      "localitate": "Pantelimon",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Moesia Inferior",
+      "regiune": "Dobrogea",
+      "judet": "Constanța"
+    },
+    {
+      "nume": "(Basarabi-Murfatlar)",
+      "localitate": "Murfatlar",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Moesia Inferior",
+      "regiune": "Dobrogea",
+      "judet": "Constanța"
+    },
+    {
+      "nume": "Arrubium",
+      "localitate": "Măcin",
+      "limes": "Moesiarum",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Moesia Inferior",
+      "regiune": "Dobrogea",
+      "judet": "Tulcea"
+    },
+    {
+      "nume": "Dinogetia",
+      "localitate": "Garvăn",
+      "limes": "Moesiarum",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Moesia Inferior",
+      "regiune": "Dobrogea",
+      "judet": "Tulcea"
+    },
+    {
+      "nume": "Noviodunum",
+      "localitate": "Isaccea",
+      "limes": "Moesiarum",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Moesia Inferior",
+      "regiune": "Dobrogea",
+      "judet": "Tulcea"
+    },
+    {
+      "nume": "Troesmis",
+      "localitate": "Turcoaia",
+      "limes": "Moesiarum",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Moesia Inferior",
+      "regiune": "Dobrogea",
+      "judet": "Tulcea"
+    },
+    {
+      "nume": "Piroboridava",
+      "localitate": "Poiana",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Moesia Inferior?",
+      "regiune": "Moldova",
+      "judet": "Galați"
+    },
+    {
+      "nume": "(Galați - Tirighina-Bărboși)",
+      "localitate": "Galați",
+      "limes": "Moesiarum",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Moesia Inferior",
+      "regiune": "Moldova",
+      "judet": "Galați"
+    },
+    {
+      "nume": "Jidava",
+      "localitate": "Câmpulung",
+      "limes": "",
+      "suprafata_ha": 1.3,
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Muntenia",
+      "judet": "Argeș"
+    },
+    {
+      "nume": "(Albota)",
+      "localitate": "Albota",
+      "limes": "Transalutanus",
+      "suprafata_ha": 0.4,
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Muntenia",
+      "judet": "Argeș"
+    },
+    {
+      "nume": "(Fâlfani)",
+      "localitate": "Fâlfani",
+      "limes": "Transalutanus",
+      "suprafata_ha": 0.6,
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Muntenia",
+      "judet": "Argeș"
+    },
+    {
+      "nume": "(Izbășești)",
+      "localitate": "Izbășești",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Muntenia",
+      "judet": "Argeș"
+    },
+    {
+      "nume": "(Purcăreni)",
+      "localitate": "Purcăreni",
+      "limes": "Transalutanus",
+      "suprafata_ha": "~3",
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Muntenia",
+      "judet": "Argeș"
+    },
+    {
+      "nume": "(Rucăr)",
+      "localitate": "Rucăr",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Muntenia",
+      "judet": "Argeș"
+    },
+    {
+      "nume": "(Săpata de Jos 1)",
+      "localitate": "Săpata",
+      "limes": "Transalutanus",
+      "suprafata_ha": 1.1,
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Muntenia",
+      "judet": "Argeș"
+    },
+    {
+      "nume": "(Săpata de Jos 2)",
+      "localitate": "Săpata",
+      "limes": "Transalutanus",
+      "suprafata_ha": 1.6,
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Muntenia",
+      "judet": "Argeș"
+    },
+    {
+      "nume": "(Urlueni 1)",
+      "localitate": "Urlueni",
+      "limes": "Transalutanus",
+      "suprafata_ha": 1.3,
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Muntenia",
+      "judet": "Argeș"
+    },
+    {
+      "nume": "(Urlueni 2)",
+      "localitate": "Urlueni",
+      "limes": "Transalutanus",
+      "suprafata_ha": 0.8,
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Muntenia",
+      "judet": "Argeș"
+    },
+    {
+      "nume": "(Voinești)",
+      "localitate": "Voinești",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Muntenia",
+      "judet": "Argeș"
+    },
+    {
+      "nume": "(Pietroasele)",
+      "localitate": "Pietroasele",
+      "limes": "",
+      "suprafata_ha": 1.95,
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Muntenia",
+      "judet": "Buzău"
+    },
+    {
+      "nume": "(Drajna de Sus)",
+      "localitate": "Drajna de Sus",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Muntenia",
+      "judet": "Prahova"
+    },
+    {
+      "nume": "(Ploiești)",
+      "localitate": "Ploiești",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Muntenia",
+      "judet": "Prahova"
+    },
+    {
+      "nume": "(Sfârleanca)",
+      "localitate": "Sfârleanca",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Muntenia",
+      "judet": "Prahova"
+    },
+    {
+      "nume": "(Târgșoru Vechi)",
+      "localitate": "Târgșoru Vechi",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Muntenia",
+      "judet": "Prahova"
+    },
+    {
+      "nume": "(Băneasa)",
+      "localitate": "Băneasa",
+      "limes": "Transalutanus",
+      "suprafata_ha": 2.2,
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Muntenia",
+      "judet": "Teleorman"
+    },
+    {
+      "nume": "(Ciuperceni)",
+      "localitate": "Ciuperceni",
+      "limes": "Moesiarum, Transalutanus",
+      "suprafata_ha": 13.6,
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Muntenia",
+      "judet": "Teleorman"
+    },
+    {
+      "nume": "(Gresia)",
+      "localitate": "Gresia",
+      "limes": "",
+      "suprafata_ha": 0.3,
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Muntenia",
+      "judet": "Teleorman"
+    },
+    {
+      "nume": "(Islaz 1)",
+      "localitate": "Islaz",
+      "limes": "Moesiarum",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Muntenia",
+      "judet": "Teleorman"
+    },
+    {
+      "nume": "(Islaz 2)",
+      "localitate": "Islaz",
+      "limes": "Moesiarum",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Muntenia",
+      "judet": "Teleorman"
+    },
+    {
+      "nume": "(Pietroșani)",
+      "localitate": "Pietroșani",
+      "limes": "Moesiarum",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Muntenia",
+      "judet": "Teleorman"
+    },
+    {
+      "nume": "(Roșiorii de Vede 1)",
+      "localitate": "Roșiorii de Vede",
+      "limes": "Transalutanus",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Muntenia",
+      "judet": "Teleorman"
+    },
+    {
+      "nume": "(Roșiorii de Vede 2)",
+      "localitate": "Roșiorii de Vede",
+      "limes": "Transalutanus",
+      "suprafata_ha": 0.3,
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Muntenia",
+      "judet": "Teleorman"
+    },
+    {
+      "nume": "(Salcia)",
+      "localitate": "Salcia",
+      "limes": "Transalutanus",
+      "suprafata_ha": 0.28,
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Muntenia",
+      "judet": "Teleorman"
+    },
+    {
+      "nume": "(Putineiu)",
+      "localitate": "Putineiu",
+      "limes": "Transalutanus",
+      "suprafata_ha": 0.28,
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Muntenia",
+      "judet": "Teleorman"
+    },
+    {
+      "nume": "Castranova",
+      "localitate": "Castranova",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Oltenia",
+      "judet": "Dolj"
+    },
+    {
+      "nume": "Pelendava",
+      "localitate": "Craiova",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Oltenia",
+      "judet": "Dolj"
+    },
+    {
+      "nume": "(Cioroiu Nou)",
+      "localitate": "Cioroiu Nou",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Oltenia",
+      "judet": "Dolj"
+    },
+    {
+      "nume": "(Desa)",
+      "localitate": "Desa",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Oltenia",
+      "judet": "Dolj"
+    },
+    {
+      "nume": "(Plosca)",
+      "localitate": "Plosca",
+      "limes": "Moesiarum",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Oltenia",
+      "judet": "Dolj"
+    },
+    {
+      "nume": "(Răcarii de Jos)",
+      "localitate": "Răcarii de Jos",
+      "limes": "",
+      "suprafata_ha": 2.5,
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Oltenia",
+      "judet": "Dolj"
+    },
+    {
+      "nume": "(Vârtop)",
+      "localitate": "Vârtop",
+      "limes": "",
+      "suprafata_ha": 1.5,
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Oltenia",
+      "judet": "Gorj"
+    },
+    {
+      "nume": "Ad Mutriam",
+      "localitate": "Cătunele",
+      "limes": "",
+      "suprafata_ha": 1.7,
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Oltenia",
+      "judet": "Gorj"
+    },
+    {
+      "nume": "(Bumbești-Jiu 1)",
+      "localitate": "Bumbești-Jiu",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Oltenia",
+      "judet": "Gorj"
+    },
+    {
+      "nume": "(Bumbești-Jiu 2)",
+      "localitate": "Bumbești-Jiu",
+      "limes": "",
+      "suprafata_ha": 1.44,
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Oltenia",
+      "judet": "Gorj"
+    },
+    {
+      "nume": "(Bumbești-Jiu 3)",
+      "localitate": "Bumbești-Jiu",
+      "limes": "",
+      "suprafata_ha": 2.8,
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Oltenia",
+      "judet": "Gorj"
+    },
+    {
+      "nume": "(Pinoasa)",
+      "localitate": "Pinoasa",
+      "limes": "",
+      "suprafata_ha": 2.5,
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Oltenia",
+      "judet": "Gorj"
+    },
+    {
+      "nume": "(Pleșa)",
+      "localitate": "Pleșa",
+      "limes": "",
+      "suprafata_ha": 3.6,
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Oltenia",
+      "judet": "Gorj"
+    },
+    {
+      "nume": "Drobeta",
+      "localitate": "Drobeta Turnu Severin",
+      "limes": "Moesiarum",
+      "suprafata_ha": 1.6,
+      "construit": "103",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Oltenia",
+      "judet": "Mehedinți"
+    },
+    {
+      "nume": "Dierna",
+      "localitate": "Orșova",
+      "limes": "Moesiarum",
+      "suprafata_ha": 0.35,
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Oltenia",
+      "judet": "Mehedinți"
+    },
+    {
+      "nume": "(Breznița-Ocol)",
+      "localitate": "Breznița-Ocol",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Oltenia",
+      "judet": "Mehedinți"
+    },
+    {
+      "nume": "(Hinova)",
+      "localitate": "Puținei",
+      "limes": "Moesiarum",
+      "suprafata_ha": 0.18,
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Oltenia",
+      "judet": "Mehedinți"
+    },
+    {
+      "nume": "(Puținei)",
+      "localitate": "Puținei",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Oltenia",
+      "judet": "Mehedinți"
+    },
+    {
+      "nume": "(Svinița)",
+      "localitate": "Svinița",
+      "limes": "Moesiarum",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Oltenia",
+      "judet": "Mehedinți"
+    },
+    {
+      "nume": "Acidava",
+      "localitate": "Enoșești",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Oltenia",
+      "judet": "Olt"
+    },
+    {
+      "nume": "Romula",
+      "localitate": "Reșca",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Oltenia",
+      "judet": "Olt"
+    },
+    {
+      "nume": "Sucidava",
+      "localitate": "Corabia",
+      "limes": "Moesiarum",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Oltenia",
+      "judet": "Olt"
+    },
+    {
+      "nume": "(Albești)",
+      "localitate": "Albești",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Oltenia",
+      "judet": "Olt"
+    },
+    {
+      "nume": "(Crâmpoia)",
+      "localitate": "Crâmpoia",
+      "limes": "Transalutanus",
+      "suprafata_ha": 0.7,
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Oltenia",
+      "judet": "Olt"
+    },
+    {
+      "nume": "(Slăveni)",
+      "localitate": "Slăveni",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Oltenia",
+      "judet": "Olt"
+    },
+    {
+      "nume": "Castra Traiana",
+      "localitate": "Dăești",
+      "limes": "Alutanus",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Oltenia",
+      "judet": "Vâlcea"
+    },
+    {
+      "nume": "Arutela",
+      "localitate": "Căciulata",
+      "limes": "Alutanus",
+      "suprafata_ha": "",
+      "construit": "138",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Oltenia",
+      "judet": "Vâlcea"
+    },
+    {
+      "nume": "Buridava",
+      "localitate": "Râmnicu Vâlcea",
+      "limes": "Alutanus",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Oltenia",
+      "judet": "Vâlcea"
+    },
+    {
+      "nume": "Pons Aluti",
+      "localitate": "Ionești",
+      "limes": "Alutanus",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Oltenia",
+      "judet": "Vâlcea"
+    },
+    {
+      "nume": "Pons Vetus",
+      "localitate": "Câineni",
+      "limes": "Alutanus",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Oltenia",
+      "judet": "Vâlcea"
+    },
+    {
+      "nume": "Praetorium",
+      "localitate": "Copăceni (Racovița), Vâlcea",
+      "limes": "Alutanus",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Oltenia",
+      "judet": "Vâlcea"
+    },
+    {
+      "nume": "Rusidava",
+      "localitate": "Drăgășani",
+      "limes": "Alutanus",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Oltenia",
+      "judet": "Vâlcea"
+    },
+    {
+      "nume": "(Rădăcinești)",
+      "localitate": "Rădăcinești",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Oltenia",
+      "judet": "Vâlcea"
+    },
+    {
+      "nume": "(Titești)",
+      "localitate": "Titești",
+      "limes": "",
+      "suprafata_ha": 0.26,
+      "construit": "",
+      "provincie_romana": "Dacia Malvensis",
+      "regiune": "Oltenia",
+      "judet": "Vâlcea"
+    },
+    {
+      "nume": "Apulum",
+      "localitate": "Alba Iulia",
+      "limes": "",
+      "suprafata_ha": 37.5,
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Alba"
+    },
+    {
+      "nume": "Abruttus",
+      "localitate": "Abrud",
+      "limes": "",
+      "suprafata_ha": 0.2,
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Alba"
+    },
+    {
+      "nume": "(Sântămărie)",
+      "localitate": "Cetatea de Baltă",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Alba"
+    },
+    {
+      "nume": "(Colțești)",
+      "localitate": "Colțești",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Alba"
+    },
+    {
+      "nume": "(Ighiu)",
+      "localitate": "Ighiu",
+      "limes": "",
+      "suprafata_ha": 0.2,
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Alba"
+    },
+    {
+      "nume": "(Războieni-Cetate)",
+      "localitate": "Războieni-Cetate",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Alba"
+    },
+    {
+      "nume": "(Sebeș)",
+      "localitate": "Sebeș",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Alba"
+    },
+    {
+      "nume": "(Șugag)",
+      "localitate": "Șugag",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Alba"
+    },
+    {
+      "nume": "(Stremț)",
+      "localitate": "Stremț",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Alba"
+    },
+    {
+      "nume": "Arcobadara",
+      "localitate": "Ilișua",
+      "limes": "Porolissensis",
+      "suprafata_ha": 3.3,
+      "construit": "106",
+      "provincie_romana": "Dacia Porolissensis",
+      "regiune": "Transilvania",
+      "judet": "Bistrița-Năsăud"
+    },
+    {
+      "nume": "(Livezile)",
+      "localitate": "Livezile",
+      "limes": "Porolissensis",
+      "suprafata_ha": 2,
+      "construit": "",
+      "provincie_romana": "Dacia Porolissensis",
+      "regiune": "Transilvania",
+      "judet": "Bistrița-Năsăud"
+    },
+    {
+      "nume": "(Orheiu Bistriței)",
+      "localitate": "Orheiu Bistriței",
+      "limes": "Porolissensis",
+      "suprafata_ha": 2.9,
+      "construit": "",
+      "provincie_romana": "Dacia Porolissensis",
+      "regiune": "Transilvania",
+      "judet": "Bistrița-Năsăud"
+    },
+    {
+      "nume": "Cumidava",
+      "localitate": "Râșnov",
+      "limes": "Transalutanus",
+      "suprafata_ha": 1.2,
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Brașov"
+    },
+    {
+      "nume": "Rupes",
+      "localitate": "Rupea",
+      "limes": "Porolissensis?",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Brașov"
+    },
+    {
+      "nume": "(Brașov - Șprenghi)",
+      "localitate": "Brașov",
+      "limes": "Transalutanus",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Brașov"
+    },
+    {
+      "nume": "(Cincșor)",
+      "localitate": "Cincșor",
+      "limes": "",
+      "suprafata_ha": 2.5,
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Brașov"
+    },
+    {
+      "nume": "(Drumul Carului)",
+      "localitate": "Drumul Carului",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Brașov"
+    },
+    {
+      "nume": "(Feldioara)",
+      "localitate": "Feldioara",
+      "limes": "",
+      "suprafata_ha": 1.5,
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Brașov"
+    },
+    {
+      "nume": "(Hoghiz)",
+      "localitate": "Hoghiz",
+      "limes": "Porolissensis?",
+      "suprafata_ha": 3.6,
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Brașov"
+    },
+    {
+      "nume": "(Șinca Veche)",
+      "localitate": "Șinca Veche",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Brașov"
+    },
+    {
+      "nume": "Clus",
+      "localitate": "Cluj",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "106",
+      "provincie_romana": "Dacia Porolissensis",
+      "regiune": "Transilvania",
+      "judet": "Cluj"
+    },
+    {
+      "nume": "Potaissa",
+      "localitate": "Turda",
+      "limes": "",
+      "suprafata_ha": 23.37,
+      "construit": "107",
+      "provincie_romana": "Dacia Porolissensis",
+      "regiune": "Transilvania",
+      "judet": "Cluj"
+    },
+    {
+      "nume": "Samum",
+      "localitate": "Cășeiu",
+      "limes": "Porolissensis",
+      "suprafata_ha": 2.7,
+      "construit": "106",
+      "provincie_romana": "Dacia Porolissensis",
+      "regiune": "Transilvania",
+      "judet": "Cluj"
+    },
+    {
+      "nume": "Resculum",
+      "localitate": "Bologa",
+      "limes": "Porolissensis",
+      "suprafata_ha": 2.6,
+      "construit": "",
+      "provincie_romana": "Dacia Porolissensis",
+      "regiune": "Transilvania",
+      "judet": "Cluj"
+    },
+    {
+      "nume": "(Gherla)",
+      "localitate": "Gherla",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "106",
+      "provincie_romana": "Dacia Porolissensis",
+      "regiune": "Transilvania",
+      "judet": "Cluj"
+    },
+    {
+      "nume": "(Gilău)",
+      "localitate": "Gilău",
+      "limes": "",
+      "suprafata_ha": 3,
+      "construit": "106",
+      "provincie_romana": "Dacia Porolissensis",
+      "regiune": "Transilvania",
+      "judet": "Cluj"
+    },
+    {
+      "nume": "(Mihai Viteazu)",
+      "localitate": "Mihai Viteazu",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Porolissensis",
+      "regiune": "Transilvania",
+      "judet": "Cluj"
+    },
+    {
+      "nume": "(Negreni)",
+      "localitate": "Negreni",
+      "limes": "Porolissensis",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Porolissensis",
+      "regiune": "Transilvania",
+      "judet": "Cluj"
+    },
+    {
+      "nume": "(Cluj - Sapca verde)",
+      "localitate": "Cluj",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Porolissensis",
+      "regiune": "Transilvania",
+      "judet": "Cluj"
+    },
+    {
+      "nume": "Augustia",
+      "localitate": "Brețcu",
+      "limes": "Porolissensis?",
+      "suprafata_ha": 2.5,
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Covasna"
+    },
+    {
+      "nume": "(Boroșneu Mare)",
+      "localitate": "Boroșneu Mare",
+      "limes": "Porolissensis?",
+      "suprafata_ha": 2.57,
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Covasna"
+    },
+    {
+      "nume": "(Reci / Comalău)",
+      "localitate": "Reci (a inclus comuna Comalău)",
+      "limes": "Transalutanus",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Covasna"
+    },
+    {
+      "nume": "(Olteni)",
+      "localitate": "Olteni",
+      "limes": "Porolissensis?",
+      "suprafata_ha": 1.3,
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Covasna"
+    },
+    {
+      "nume": "Praetoria Augusta",
+      "localitate": "Inlăceni",
+      "limes": "Porolissensis?",
+      "suprafata_ha": 2.07,
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Harghita"
+    },
+    {
+      "nume": "(Odorheiu Secuiesc)",
+      "localitate": "Odorheiu Secuiesc",
+      "limes": "Porolissensis?",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Harghita"
+    },
+    {
+      "nume": "(Sânpaul)",
+      "localitate": "Sânpaul",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Harghita"
+    },
+    {
+      "nume": "Germisara",
+      "localitate": "Cigmău / Geoagiu",
+      "limes": "",
+      "suprafata_ha": 3.8,
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Hunedoara"
+    },
+    {
+      "nume": "Micia",
+      "localitate": "Vețel",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Hunedoara"
+    },
+    {
+      "nume": "(Bănița)",
+      "localitate": "Bănița",
+      "limes": "",
+      "suprafata_ha": 7.4,
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Hunedoara"
+    },
+    {
+      "nume": "(Bucium)",
+      "localitate": "Bucium",
+      "limes": "",
+      "suprafata_ha": 2.56,
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Hunedoara"
+    },
+    {
+      "nume": "(Chitid)",
+      "localitate": "Chitid",
+      "limes": "",
+      "suprafata_ha": 3.15,
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Hunedoara"
+    },
+    {
+      "nume": "(Comărnicel 1)",
+      "localitate": "Petrila",
+      "limes": "",
+      "suprafata_ha": 5.8,
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Hunedoara"
+    },
+    {
+      "nume": "(Comărnicel 2)",
+      "localitate": "Petrila",
+      "limes": "",
+      "suprafata_ha": 7.8,
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Hunedoara"
+    },
+    {
+      "nume": "(Costești)",
+      "localitate": "Costești",
+      "limes": "",
+      "suprafata_ha": 3,
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Hunedoara"
+    },
+    {
+      "nume": "(Fizești)",
+      "localitate": "Fizești",
+      "limes": "",
+      "suprafata_ha": 0.31,
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Hunedoara"
+    },
+    {
+      "nume": "(Grădiștea de Munte)",
+      "localitate": "Grădiștea de Munte",
+      "limes": "",
+      "suprafata_ha": 0.4,
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Hunedoara"
+    },
+    {
+      "nume": "(Federi)",
+      "localitate": "Federi",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Hunedoara"
+    },
+    {
+      "nume": "(Hunedoara)",
+      "localitate": "Hunedoara",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Hunedoara"
+    },
+    {
+      "nume": "(Jigorul Mare)",
+      "localitate": "",
+      "limes": "",
+      "suprafata_ha": 7.4,
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Hunedoara"
+    },
+    {
+      "nume": "(Luncani)",
+      "localitate": "Luncani",
+      "limes": "",
+      "suprafata_ha": 2.4,
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Hunedoara"
+    },
+    {
+      "nume": "(Râu Bărbat)",
+      "localitate": "Râu Bărbat",
+      "limes": "",
+      "suprafata_ha": 0.96,
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Hunedoara"
+    },
+    {
+      "nume": "Castrum Stenarum",
+      "localitate": "Sighișoara",
+      "limes": "",
+      "suprafata_ha": 2.4,
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Mureș"
+    },
+    {
+      "nume": "(Brâncovenești)",
+      "localitate": "Brâncovenești",
+      "limes": "Porolissensis",
+      "suprafata_ha": 2.55,
+      "construit": "",
+      "provincie_romana": "Dacia Porolissensis",
+      "regiune": "Transilvania",
+      "judet": "Mureș"
+    },
+    {
+      "nume": "(Călugăreni)",
+      "localitate": "Călugăreni",
+      "limes": "Porolissensis?",
+      "suprafata_ha": 2.2,
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Mureș"
+    },
+    {
+      "nume": "(Cristești)",
+      "localitate": "Cristești",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Mureș"
+    },
+    {
+      "nume": "(Sărățeni)",
+      "localitate": "Sărățeni",
+      "limes": "Porolissensis?",
+      "suprafata_ha": 1.6,
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Mureș"
+    },
+    {
+      "nume": "(Târnăveni)",
+      "localitate": "Târnăveni",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Mureș"
+    },
+    {
+      "nume": "Certinae",
+      "localitate": "Romita",
+      "limes": "Porolissensis",
+      "suprafata_ha": 4.25,
+      "construit": "",
+      "provincie_romana": "Dacia Porolissensis",
+      "regiune": "Transilvania",
+      "judet": "Sălaj"
+    },
+    {
+      "nume": "Largina",
+      "localitate": "Românași",
+      "limes": "Porolissensis",
+      "suprafata_ha": 2,
+      "construit": "",
+      "provincie_romana": "Dacia Porolissensis",
+      "regiune": "Transilvania",
+      "judet": "Sălaj"
+    },
+    {
+      "nume": "Optatiana",
+      "localitate": "Sutoru",
+      "limes": "Porolissensis",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Porolissensis",
+      "regiune": "Transilvania",
+      "judet": "Sălaj"
+    },
+    {
+      "nume": "Porolissum",
+      "localitate": "Moigrad-Porolissum",
+      "limes": "Porolissensis",
+      "suprafata_ha": 6.9,
+      "construit": "106",
+      "provincie_romana": "Dacia Porolissensis",
+      "regiune": "Transilvania",
+      "judet": "Sălaj"
+    },
+    {
+      "nume": "(Brusturi)",
+      "localitate": "Brusturi",
+      "limes": "Porolissensis",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Porolissensis",
+      "regiune": "Transilvania",
+      "judet": "Sălaj"
+    },
+    {
+      "nume": "(Buciumi)",
+      "localitate": "Buciumi",
+      "limes": "Porolissensis",
+      "suprafata_ha": 2.2,
+      "construit": "",
+      "provincie_romana": "Dacia Porolissensis",
+      "regiune": "Transilvania",
+      "judet": "Sălaj"
+    },
+    {
+      "nume": "(Jac)",
+      "localitate": "Jac",
+      "limes": "Porolissensis",
+      "suprafata_ha": 6,
+      "construit": "",
+      "provincie_romana": "Dacia Porolissensis",
+      "regiune": "Transilvania",
+      "judet": "Sălaj"
+    },
+    {
+      "nume": "(Tihău)",
+      "localitate": "Tihău",
+      "limes": "Porolissensis",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Porolissensis",
+      "regiune": "Transilvania",
+      "judet": "Sălaj"
+    },
+    {
+      "nume": "(Zalău)",
+      "localitate": "Zalău",
+      "limes": "Porolissensis",
+      "suprafata_ha": 6.8,
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Sălaj"
+    },
+    {
+      "nume": "Caput Stenarum",
+      "localitate": "Boița",
+      "limes": "Alutanus",
+      "suprafata_ha": 0.2,
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Sibiu"
+    },
+    {
+      "nume": "Cedonia",
+      "localitate": "Sibiu",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Sibiu"
+    },
+    {
+      "nume": "Media",
+      "localitate": "Mediaș",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Sibiu"
+    },
+    {
+      "nume": "(Apoldu de Jos)",
+      "localitate": "Apoldu de Jos",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Sibiu"
+    },
+    {
+      "nume": "(Ocna Sibiului)",
+      "localitate": "Ocna Sibiului",
+      "limes": "",
+      "suprafata_ha": "",
+      "construit": "",
+      "provincie_romana": "Dacia Apulensis",
+      "regiune": "Transilvania",
+      "judet": "Sibiu"
+    }
+  ],
+  "meta": {
+    "title": "Castrele romane din România - Free Download",
+    "description": "Lista castrelor romane de pe teritoriul României, cu localitatea modernă, limesul, suprafața, provincia romană și județul. Contains 166 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Castrele romane din România | ListBase",
+    "seo_description": "Download Castrele romane din România — 166 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 166 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Lista_castrelor_romane_din_România"
+    ]
+  }
+}
