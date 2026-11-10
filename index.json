@@ -1,12 +1,12 @@
 {
   "lang": "ro",
-  "generated": "2026-11-10T02:30:47.929Z",
-  "total_datasets": 494,
-  "total_records": 168072,
+  "generated": "2026-11-10T02:44:20.589Z",
+  "total_datasets": 495,
+  "total_records": 168100,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "culture",
@@ -102,6 +102,33 @@
     }
   ],
   "datasets": [
+    {
+      "id": "ro-ministrii-agriculturii",
+      "name": "Miniștrii agriculturii ai României (din 1989)",
+      "category": "agriculture",
+      "record_count": 28,
+      "columns": [
+        "nr",
+        "nume",
+        "inceput_mandat",
+        "sfarsit_mandat",
+        "partid",
+        "cabinet"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Ministerul_Agriculturii_și_Dezvoltării_Rurale",
+      "updated": "2026-11",
+      "size": 7616,
+      "files": {
+        "csv": {
+          "name": "ro-ministrii-agriculturii_RO.csv",
+          "size": 2356
+        },
+        "xlsx": {
+          "name": "ro-ministrii-agriculturii_RO.xlsx",
+          "size": 8262
+        }
+      }
+    },
     {
       "id": "ro-podgorii-centre-viticole",
       "name": "Podgoriile și centrele viticole din România",

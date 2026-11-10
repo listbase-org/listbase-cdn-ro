@@ -1,0 +1,280 @@
+{
+  "id": "ro-ministrii-agriculturii",
+  "name": "Miniștrii agriculturii ai României (din 1989)",
+  "title": "Miniștrii agriculturii ai României (din 1989)",
+  "description": "Lista miniștrilor agriculturii (și dezvoltării rurale) din România după 1989, cu mandatul, partidul și cabinetul.",
+  "category": "agriculture",
+  "source": "https://ro.wikipedia.org/wiki/Ministerul_Agriculturii_și_Dezvoltării_Rurale",
+  "source_url": "https://ro.wikipedia.org/wiki/Ministerul_Agriculturii_și_Dezvoltării_Rurale",
+  "updated": "2026-11",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "nr",
+      "label": "Nr",
+      "type": "number"
+    },
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "inceput_mandat",
+      "label": "Inceput Mandat",
+      "type": "string"
+    },
+    {
+      "key": "sfarsit_mandat",
+      "label": "Sfarsit Mandat",
+      "type": "string"
+    },
+    {
+      "key": "partid",
+      "label": "Partid",
+      "type": "string"
+    },
+    {
+      "key": "cabinet",
+      "label": "Cabinet",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nr": 1,
+      "nume": "Nicolae Ștefan",
+      "inceput_mandat": "26 decembrie 1989",
+      "sfarsit_mandat": "28 iunie 1990",
+      "partid": "FSN",
+      "cabinet": "Roman I"
+    },
+    {
+      "nr": 2,
+      "nume": "Ioan Țipu",
+      "inceput_mandat": "28 iunie 1990",
+      "sfarsit_mandat": "3 iunie 1991",
+      "partid": "FSN",
+      "cabinet": "Roman II"
+    },
+    {
+      "nr": 3,
+      "nume": "Petre Mărculescu",
+      "inceput_mandat": "3 iunie 1991",
+      "sfarsit_mandat": "19 noiembrie 1992",
+      "partid": "PDAR",
+      "cabinet": "Roman II și Stolojan"
+    },
+    {
+      "nr": 4,
+      "nume": "Ioan Oancea",
+      "inceput_mandat": "19 noiembrie 1992",
+      "sfarsit_mandat": "18 august 1994",
+      "partid": "FDSN / PDSR",
+      "cabinet": "Văcăroiu"
+    },
+    {
+      "nr": 5,
+      "nume": "Valeriu Tabără",
+      "inceput_mandat": "18 august 1994",
+      "sfarsit_mandat": "3 septembrie 1996",
+      "partid": "PUNR",
+      "cabinet": "Văcăroiu"
+    },
+    {
+      "nr": 6,
+      "nume": "Alexandru Lăpușan",
+      "inceput_mandat": "3 septembrie 1996",
+      "sfarsit_mandat": "12 decembrie 1996",
+      "partid": "PDSR",
+      "cabinet": "Văcăroiu"
+    },
+    {
+      "nr": 7,
+      "nume": "Dinu Gavrilescu",
+      "inceput_mandat": "12 decembrie 1996",
+      "sfarsit_mandat": "2 decembrie 1998",
+      "partid": "PNȚCD",
+      "cabinet": "Ciorbea și Vasile"
+    },
+    {
+      "nr": 8,
+      "nume": "Ioan Avram Mureșan",
+      "inceput_mandat": "2 decembrie 1998",
+      "sfarsit_mandat": "28 decembrie 2000",
+      "partid": "PNȚCD",
+      "cabinet": "Vasile și Isărescu"
+    },
+    {
+      "nr": 9,
+      "nume": "Ilie Sârbu",
+      "inceput_mandat": "28 decembrie 2000",
+      "sfarsit_mandat": "14 iulie 2004",
+      "partid": "PSD",
+      "cabinet": "Năstase"
+    },
+    {
+      "nr": 10,
+      "nume": "Petre Daea",
+      "inceput_mandat": "14 iulie 2004",
+      "sfarsit_mandat": "28 decembrie 2004",
+      "partid": "PSD",
+      "cabinet": "Năstase"
+    },
+    {
+      "nr": 11,
+      "nume": "Gheorghe Flutur",
+      "inceput_mandat": "28 decembrie 2004",
+      "sfarsit_mandat": "23 noiembrie 2006",
+      "partid": "PNL",
+      "cabinet": "Tăriceanu"
+    },
+    {
+      "nr": 12,
+      "nume": "Dan Motreanu",
+      "inceput_mandat": "23 noiembrie 2006",
+      "sfarsit_mandat": "5 aprilie 2007",
+      "partid": "PNL",
+      "cabinet": "Tăriceanu"
+    },
+    {
+      "nr": 13,
+      "nume": "Decebal Traian Remeș",
+      "inceput_mandat": "5 aprilie 2007",
+      "sfarsit_mandat": "11 octombrie 2007",
+      "partid": "PNL",
+      "cabinet": "Tăriceanu"
+    },
+    {
+      "nr": 14,
+      "nume": "Dacian Cioloș",
+      "inceput_mandat": "11 octombrie 2007",
+      "sfarsit_mandat": "22 decembrie 2008",
+      "partid": "Independent",
+      "cabinet": "Tăriceanu"
+    },
+    {
+      "nr": 15,
+      "nume": "Ilie Sârbu",
+      "inceput_mandat": "22 decembrie 2008",
+      "sfarsit_mandat": "1 octombrie 2009",
+      "partid": "PSD",
+      "cabinet": "Boc I"
+    },
+    {
+      "nr": 16,
+      "nume": "Radu Berceanu",
+      "inceput_mandat": "1 octombrie 2009",
+      "sfarsit_mandat": "23 decembrie 2009",
+      "partid": "PDL",
+      "cabinet": "Boc I"
+    },
+    {
+      "nr": 17,
+      "nume": "Mihail Dumitru",
+      "inceput_mandat": "23 decembrie 2009",
+      "sfarsit_mandat": "3 septembrie 2010",
+      "partid": "Independent",
+      "cabinet": "Boc II"
+    },
+    {
+      "nr": 18,
+      "nume": "Valeriu Tabără",
+      "inceput_mandat": "3 septembrie 2010",
+      "sfarsit_mandat": "6 februarie 2012",
+      "partid": "PDL",
+      "cabinet": "Boc II"
+    },
+    {
+      "nr": 19,
+      "nume": "Stelian Fuia",
+      "inceput_mandat": "9 februarie 2012",
+      "sfarsit_mandat": "7 mai 2012",
+      "partid": "PDL",
+      "cabinet": "Ungureanu"
+    },
+    {
+      "nr": 20,
+      "nume": "Daniel Constantin",
+      "inceput_mandat": "7 mai 2012",
+      "sfarsit_mandat": "17 noiembrie 2015",
+      "partid": "PC/ALDE",
+      "cabinet": "Ponta I, Ponta II, Ponta III și Ponta IV"
+    },
+    {
+      "nr": 21,
+      "nume": "Achim Irimescu",
+      "inceput_mandat": "17 noiembrie 2015",
+      "sfarsit_mandat": "4 ianuarie 2017",
+      "partid": "Independent",
+      "cabinet": "Cioloș"
+    },
+    {
+      "nr": 22,
+      "nume": "Petre Daea",
+      "inceput_mandat": "4 ianuarie 2017",
+      "sfarsit_mandat": "4 noiembrie 2019",
+      "partid": "PSD",
+      "cabinet": "Grindeanu, Tudose și Dăncilă"
+    },
+    {
+      "nr": 23,
+      "nume": "Nechita-Adrian Oros",
+      "inceput_mandat": "4 noiembrie 2019",
+      "sfarsit_mandat": "28 septembrie 2021",
+      "partid": "PNL",
+      "cabinet": "Orban I, Orban II și Cîțu"
+    },
+    {
+      "nr": 24,
+      "nume": "Adrian-Ionuț Chesnoiu",
+      "inceput_mandat": "25 noiembrie 2021",
+      "sfarsit_mandat": "23 iunie 2022",
+      "partid": "PSD",
+      "cabinet": "Ciucă"
+    },
+    {
+      "nr": 25,
+      "nume": "Petre Daea",
+      "inceput_mandat": "23 iunie 2022",
+      "sfarsit_mandat": "15 iunie 2023",
+      "partid": "PSD",
+      "cabinet": "Ciucă"
+    },
+    {
+      "nr": 26,
+      "nume": "Florin-Ionuț Barbu",
+      "inceput_mandat": "15 iunie 2023",
+      "sfarsit_mandat": "23 decembrie 2024",
+      "partid": "PSD",
+      "cabinet": "Ciolacu"
+    },
+    {
+      "nr": 27,
+      "nume": "Florin-Ionuț Barbu",
+      "inceput_mandat": "23 decembrie 2024",
+      "sfarsit_mandat": "23 iunie 2025",
+      "partid": "PSD",
+      "cabinet": "Ciolacu II"
+    },
+    {
+      "nr": 28,
+      "nume": "Florin-Ionuț Barbu",
+      "inceput_mandat": "23 iunie 2025",
+      "sfarsit_mandat": "prezent",
+      "partid": "PSD",
+      "cabinet": "Bolojan"
+    }
+  ],
+  "meta": {
+    "title": "Miniștrii agriculturii ai României (din 1989) - Free Download",
+    "description": "Lista miniștrilor agriculturii (și dezvoltării rurale) din România după 1989, cu mandatul, partidul și cabinetul. Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Miniștrii agriculturii ai României (din 1989) | ListBase",
+    "seo_description": "Download Miniștrii agriculturii ai României (din 1989) — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Ministerul_Agriculturii_și_Dezvoltării_Rurale"
+    ]
+  }
+}
