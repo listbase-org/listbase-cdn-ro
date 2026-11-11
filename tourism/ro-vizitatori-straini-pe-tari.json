@@ -1,0 +1,250 @@
+{
+  "id": "ro-vizitatori-straini-pe-tari",
+  "name": "Vizitatori străini în România pe țări de proveniență",
+  "title": "Vizitatori străini în România pe țări de proveniență",
+  "description": "Numărul de vizitatori străini sosiți în România, pe țări de proveniență, pentru anii 2022 și 2024.",
+  "category": "tourism",
+  "source": "https://ro.wikipedia.org/wiki/Turismul_în_România",
+  "source_url": "https://ro.wikipedia.org/wiki/Turismul_în_România",
+  "updated": "2026-11",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "visitors_2024",
+      "label": "Visitors 2024",
+      "type": "number"
+    },
+    {
+      "key": "visitors_2022",
+      "label": "Visitors 2022",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "country": "Ucraina",
+      "visitors_2024": 3911617,
+      "visitors_2022": 3292747
+    },
+    {
+      "rank": 2,
+      "country": "Republica Moldova",
+      "visitors_2024": 2655656,
+      "visitors_2022": 2607301
+    },
+    {
+      "rank": 3,
+      "country": "Bulgaria",
+      "visitors_2024": 1599868,
+      "visitors_2022": 1538805
+    },
+    {
+      "rank": 4,
+      "country": "Ungaria",
+      "visitors_2024": 1267033,
+      "visitors_2022": 864546
+    },
+    {
+      "rank": 5,
+      "country": "Turcia",
+      "visitors_2024": 715973,
+      "visitors_2022": 728255
+    },
+    {
+      "rank": 6,
+      "country": "Marea Britanie",
+      "visitors_2024": 323975,
+      "visitors_2022": 231741
+    },
+    {
+      "rank": 7,
+      "country": "Polonia",
+      "visitors_2024": 247683,
+      "visitors_2022": 235485
+    },
+    {
+      "rank": 8,
+      "country": "Germania",
+      "visitors_2024": 227478,
+      "visitors_2022": 379910
+    },
+    {
+      "rank": 9,
+      "country": "Italia",
+      "visitors_2024": 224541,
+      "visitors_2022": 403485
+    },
+    {
+      "rank": 10,
+      "country": "Statele Unite",
+      "visitors_2024": 118349,
+      "visitors_2022": 173334
+    },
+    {
+      "rank": 11,
+      "country": "Franța",
+      "visitors_2024": 93455,
+      "visitors_2022": 195619
+    },
+    {
+      "rank": 12,
+      "country": "Austria",
+      "visitors_2024": 81657,
+      "visitors_2022": 98571
+    },
+    {
+      "rank": 13,
+      "country": "Grecia",
+      "visitors_2024": 69667,
+      "visitors_2022": 93196
+    },
+    {
+      "rank": 14,
+      "country": "Spania",
+      "visitors_2024": 52903,
+      "visitors_2022": 115730
+    },
+    {
+      "rank": 15,
+      "country": "Slovacia",
+      "visitors_2024": 46468,
+      "visitors_2022": 44697
+    },
+    {
+      "rank": 16,
+      "country": "Cehia",
+      "visitors_2024": 45722,
+      "visitors_2022": 46390
+    },
+    {
+      "rank": 17,
+      "country": "Irlanda",
+      "visitors_2024": 41214,
+      "visitors_2022": 37447
+    },
+    {
+      "rank": 18,
+      "country": "Țările de Jos",
+      "visitors_2024": 39404,
+      "visitors_2022": 77431
+    },
+    {
+      "rank": 19,
+      "country": "Portugalia",
+      "visitors_2024": 33651,
+      "visitors_2022": 41095
+    },
+    {
+      "rank": 20,
+      "country": "Belgia",
+      "visitors_2024": 33306,
+      "visitors_2022": 66121
+    },
+    {
+      "rank": 21,
+      "country": "Canada",
+      "visitors_2024": 24687,
+      "visitors_2022": 49693
+    },
+    {
+      "rank": 22,
+      "country": "Croația",
+      "visitors_2024": 24535,
+      "visitors_2022": 22732
+    },
+    {
+      "rank": 23,
+      "country": "Suedia",
+      "visitors_2024": 22545,
+      "visitors_2022": 41991
+    },
+    {
+      "rank": 24,
+      "country": "Cipru",
+      "visitors_2024": 20564,
+      "visitors_2022": 14071
+    },
+    {
+      "rank": 25,
+      "country": "Australia",
+      "visitors_2024": 15788,
+      "visitors_2022": 11690
+    },
+    {
+      "rank": 26,
+      "country": "Lituania",
+      "visitors_2024": 14213,
+      "visitors_2022": 15788
+    },
+    {
+      "rank": 27,
+      "country": "Danemarca",
+      "visitors_2024": 10754,
+      "visitors_2022": 23403
+    },
+    {
+      "rank": 28,
+      "country": "Letonia",
+      "visitors_2024": 9725,
+      "visitors_2022": 10589
+    },
+    {
+      "rank": 29,
+      "country": "Slovenia",
+      "visitors_2024": 8168,
+      "visitors_2022": 8270
+    },
+    {
+      "rank": 30,
+      "country": "Finlanda",
+      "visitors_2024": 6800,
+      "visitors_2022": 10282
+    },
+    {
+      "rank": 31,
+      "country": "Estonia",
+      "visitors_2024": 4194,
+      "visitors_2022": 5135
+    },
+    {
+      "rank": 32,
+      "country": "Noua Zeelandă",
+      "visitors_2024": 3410,
+      "visitors_2022": 2462
+    },
+    {
+      "rank": 33,
+      "country": "Malta",
+      "visitors_2024": 2095,
+      "visitors_2022": 3757
+    },
+    {
+      "rank": 34,
+      "country": "Luxemburg",
+      "visitors_2024": 1231,
+      "visitors_2022": 2599
+    }
+  ],
+  "meta": {
+    "title": "Vizitatori străini în România pe țări de proveniență - Free Download",
+    "description": "Numărul de vizitatori străini sosiți în România, pe țări de proveniență, pentru anii 2022 și 2024. Contains 34 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Vizitatori străini în România pe țări de proveniență | ListBase",
+    "seo_description": "Download Vizitatori străini în România pe țări de proveniență — 34 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 34 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Turismul_în_România"
+    ]
+  }
+}

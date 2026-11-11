@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-11T02:06:32.928Z",
-  "total_datasets": 497,
-  "total_records": 168240,
+  "generated": "2026-11-11T02:06:44.829Z",
+  "total_datasets": 498,
+  "total_records": 168274,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "transport",
@@ -13970,6 +13970,31 @@
         "xlsx": {
           "name": "ro-partii-schi-omologate_RO.xlsx",
           "size": 7859
+        }
+      }
+    },
+    {
+      "id": "ro-vizitatori-straini-pe-tari",
+      "name": "Vizitatori străini în România pe țări de proveniență",
+      "category": "tourism",
+      "record_count": 34,
+      "columns": [
+        "rank",
+        "country",
+        "visitors_2024",
+        "visitors_2022"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Turismul_în_România",
+      "updated": "2026-11",
+      "size": 5740,
+      "files": {
+        "csv": {
+          "name": "ro-vizitatori-straini-pe-tari_RO.csv",
+          "size": 1154
+        },
+        "xlsx": {
+          "name": "ro-vizitatori-straini-pe-tari_RO.xlsx",
+          "size": 7833
         }
       }
     },
