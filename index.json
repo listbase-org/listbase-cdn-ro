@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-11T02:06:21.655Z",
-  "total_datasets": 496,
-  "total_records": 168121,
+  "generated": "2026-11-11T02:06:32.928Z",
+  "total_datasets": 497,
+  "total_records": 168240,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "sports",
@@ -13362,6 +13362,31 @@
         "xlsx": {
           "name": "ro-comunitati-etnice-recensaminte_RO.xlsx",
           "size": 7494
+        }
+      }
+    },
+    {
+      "id": "ro-diaspora-romana-pe-tari",
+      "name": "Diaspora română pe țări",
+      "category": "society",
+      "record_count": 119,
+      "columns": [
+        "country",
+        "population",
+        "year",
+        "note"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Diaspora_română",
+      "updated": "2026-11",
+      "size": 15535,
+      "files": {
+        "csv": {
+          "name": "ro-diaspora-romana-pe-tari_RO.csv",
+          "size": 4813
+        },
+        "xlsx": {
+          "name": "ro-diaspora-romana-pe-tari_RO.xlsx",
+          "size": 10278
         }
       }
     },

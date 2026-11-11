@@ -1,0 +1,760 @@
+{
+  "id": "ro-diaspora-romana-pe-tari",
+  "name": "Diaspora română pe țări",
+  "title": "Diaspora română pe țări",
+  "description": "Numărul estimat al românilor (imigranți și etnici români) din diferite țări ale lumii, cu anul estimării.",
+  "category": "society",
+  "source": "https://ro.wikipedia.org/wiki/Diaspora_română",
+  "source_url": "https://ro.wikipedia.org/wiki/Diaspora_română",
+  "updated": "2026-11",
+  "record_count": 119,
+  "columns": [
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "country": "Italia",
+      "population": 1053042,
+      "year": 2025,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Germania",
+      "population": 909795,
+      "year": 2023,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Spania",
+      "population": 609270,
+      "year": 2025,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Regatul Unit",
+      "population": 550298,
+      "year": 2022,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Statele Unite",
+      "population": 464814,
+      "year": 2024,
+      "note": "165,199 (născuți în România)"
+    },
+    {
+      "country": "Canada",
+      "population": 238050,
+      "year": 2016,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Republica Moldova",
+      "population": 192800,
+      "year": 2014,
+      "note": "Indigeni"
+    },
+    {
+      "country": "Ucraina",
+      "population": 150989,
+      "year": 2001,
+      "note": "Indigeni în regiunile Cernăuți, Odesa și Transcarpatia"
+    },
+    {
+      "country": "Austria",
+      "population": 147490,
+      "year": 2023,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Franța",
+      "population": 142000,
+      "year": 2023,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Belgia",
+      "population": 124876,
+      "year": 2023,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Israel",
+      "population": 86200,
+      "year": 2020,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Olanda",
+      "population": 67385,
+      "year": 2026,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Danemarca",
+      "population": 44176,
+      "year": 2023,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Irlanda",
+      "population": 42460,
+      "year": 2022,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Suedia",
+      "population": 36738,
+      "year": 2023,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Elveția",
+      "population": 35841,
+      "year": 2024,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Serbia",
+      "population": 29332,
+      "year": 2011,
+      "note": "Indigeni în Voivodina și Timoc"
+    },
+    {
+      "country": "Grecia",
+      "population": 28250,
+      "year": 2021,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Australia",
+      "population": 28103,
+      "year": 2021,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Turcia",
+      "population": 24605,
+      "year": 2017,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Cipru",
+      "population": 24376,
+      "year": 2011,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Portugalia",
+      "population": 23393,
+      "year": 2022,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Cehia",
+      "population": 20469,
+      "year": 2023,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Norvegia",
+      "population": 18625,
+      "year": 2019,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Ungaria",
+      "population": 16542,
+      "year": 2023,
+      "note": "Indigeni în județele Békés, Csongrád și Hajdú-Bihar"
+    },
+    {
+      "country": "Kazahstan",
+      "population": 14666,
+      "year": 2009,
+      "note": "Imigranți/Strămutați în timpul celui de-al doilea război mondial"
+    },
+    {
+      "country": "Brazilia",
+      "population": 7393,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Slovacia",
+      "population": 6756,
+      "year": 2023,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Luxemburg",
+      "population": 6625,
+      "year": 2023,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Emiratele Arabe Unite",
+      "population": 6444,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Finlanda",
+      "population": 5628,
+      "year": 2021,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Polonia",
+      "population": 5126,
+      "year": 2023,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Bulgaria",
+      "population": 4556,
+      "year": 2019,
+      "note": "Indigeni în regiunea Vidin"
+    },
+    {
+      "country": "Rusia",
+      "population": 3913,
+      "year": 2017,
+      "note": "Imigranți/Strămutați în timpul celui de-al doilea război mondial"
+    },
+    {
+      "country": "Iordania",
+      "population": 3500,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Africa de Sud",
+      "population": 2671,
+      "year": 2017,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Islanda",
+      "population": 2505,
+      "year": 2022,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Qatar",
+      "population": 2500,
+      "year": 2019,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Noua Zeelandă",
+      "population": 2448,
+      "year": 2018,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Japonia",
+      "population": 2320,
+      "year": 2018,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Siria",
+      "population": 1500,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "China",
+      "population": 1320,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Malta",
+      "population": 1262,
+      "year": 2016,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Liban",
+      "population": 1200,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Argentina",
+      "population": 1118,
+      "year": 2017,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Afganistan",
+      "population": 950,
+      "year": 2019,
+      "note": "Militari, jandarmi și personal civil"
+    },
+    {
+      "country": "Palestina",
+      "population": 850,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Coreea de Sud",
+      "population": 634,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Uruguay",
+      "population": 616,
+      "year": 2017,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Libia",
+      "population": 609,
+      "year": 2017,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Kuweit",
+      "population": 600,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Mexic",
+      "population": 560,
+      "year": 2017,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Chile",
+      "population": 500,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Egipt",
+      "population": 500,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Maroc",
+      "population": 500,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Croația",
+      "population": 485,
+      "year": 2017,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Kirghizstan",
+      "population": 472,
+      "year": 2017,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Estonia",
+      "population": 400,
+      "year": "2015/2016",
+      "note": "Imigranți"
+    },
+    {
+      "country": "India",
+      "population": 400,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Singapore",
+      "population": 400,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Slovenia",
+      "population": 400,
+      "year": "2015/2016",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Paraguay",
+      "population": 398,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Bosnia și Herțegovina",
+      "population": 390,
+      "year": 2017,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Oman",
+      "population": 382,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Columbia",
+      "population": 350,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Tunisia",
+      "population": 350,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Ecuador",
+      "population": 311,
+      "year": 2017,
+      "note": "Imigranți"
+    },
+    {
+      "country": "San Marino",
+      "population": 283,
+      "year": 2018,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Letonia",
+      "population": 251,
+      "year": 2017,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Monaco",
+      "population": 250,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Georgia",
+      "population": 218,
+      "year": 2017,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Panama",
+      "population": 187,
+      "year": 2017,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Peru",
+      "population": 187,
+      "year": 2017,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Lituania",
+      "population": 165,
+      "year": 2017,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Indonezia",
+      "population": 155,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Venezuela",
+      "population": 150,
+      "year": 2020,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Hong Kong",
+      "population": 120,
+      "year": 2020,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Bahamas",
+      "population": 106,
+      "year": 2017,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Thailanda",
+      "population": 106,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Cuba",
+      "population": 100,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Macedonia de Nord",
+      "population": 100,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Vietnam",
+      "population": 100,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Costa Rica",
+      "population": 99,
+      "year": 2017,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Muntenegru",
+      "population": 91,
+      "year": 2017,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Pakistan",
+      "population": 75,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Bolivia",
+      "population": 74,
+      "year": 2017,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Macao",
+      "population": 70,
+      "year": 2020,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Insulele Feroe",
+      "population": 63,
+      "year": 2017,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Republica Dominicană",
+      "population": 43,
+      "year": 2017,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Sudan",
+      "population": 40,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Filipine",
+      "population": 36,
+      "year": 2017,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Armenia",
+      "population": 30,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Belarus",
+      "population": 30,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Namibia",
+      "population": 26,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Etiopia",
+      "population": 25,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Insulele Bermude",
+      "population": 25,
+      "year": 2017,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Groenlanda",
+      "population": 15,
+      "year": 2017,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Liechtenstein",
+      "population": 15,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Bangladesh",
+      "population": 10,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Botswana",
+      "population": 10,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Cambodgia",
+      "population": 10,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Comore",
+      "population": 10,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Madagascar",
+      "population": 10,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Malawi",
+      "population": 10,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Mauritius",
+      "population": 10,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Mozambic",
+      "population": 10,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Seychelles",
+      "population": 10,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Trinidad și Tobago",
+      "population": 10,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Burkina Faso",
+      "population": 7,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Maldive",
+      "population": 5,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Surinam",
+      "population": 5,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Guineea",
+      "population": 4,
+      "year": 2017,
+      "note": "Imigranți"
+    },
+    {
+      "country": "Antigua și Barbuda",
+      "population": 3,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Barbados",
+      "population": 3,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Guyana",
+      "population": 3,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Sfânta Lucia",
+      "population": 3,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Sfântul Cristofor și Nevis",
+      "population": 3,
+      "year": "N/A",
+      "note": "Imigranți"
+    },
+    {
+      "country": "Mongolia",
+      "population": 1,
+      "year": "N/A",
+      "note": "Imigranți"
+    }
+  ],
+  "meta": {
+    "title": "Diaspora română pe țări - Free Download",
+    "description": "Numărul estimat al românilor (imigranți și etnici români) din diferite țări ale lumii, cu anul estimării. Contains 119 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Diaspora română pe țări | ListBase",
+    "seo_description": "Download Diaspora română pe țări — 119 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 119 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Diaspora_română"
+    ]
+  }
+}
