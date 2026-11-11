@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-10T02:44:20.589Z",
-  "total_datasets": 495,
-  "total_records": 168100,
+  "generated": "2026-11-11T02:06:21.655Z",
+  "total_datasets": 496,
+  "total_records": 168121,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "education",
@@ -408,6 +408,31 @@
         "xlsx": {
           "name": "ro-cei-mai-bogati-romani-2024_RO.xlsx",
           "size": 7354
+        }
+      }
+    },
+    {
+      "id": "ro-componente-indice-bet",
+      "name": "Componența indicelui BET al Bursei de Valori București",
+      "category": "economy",
+      "record_count": 21,
+      "columns": [
+        "company",
+        "sector",
+        "ticker",
+        "index_weight_pct"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Indicele_Bursei_de_Valori_București",
+      "updated": "2026-11",
+      "size": 4911,
+      "files": {
+        "csv": {
+          "name": "ro-componente-indice-bet_RO.csv",
+          "size": 1333
+        },
+        "xlsx": {
+          "name": "ro-componente-indice-bet_RO.xlsx",
+          "size": 7746
         }
       }
     },

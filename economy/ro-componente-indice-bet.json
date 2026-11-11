@@ -1,0 +1,172 @@
+{
+  "id": "ro-componente-indice-bet",
+  "name": "Componența indicelui BET al Bursei de Valori București",
+  "title": "Componența indicelui BET al Bursei de Valori București",
+  "description": "Companiile incluse în indicele BET al Bursei de Valori București, cu domeniul de activitate, simbolul bursier și ponderea în indice.",
+  "category": "economy",
+  "source": "https://ro.wikipedia.org/wiki/Indicele_Bursei_de_Valori_București",
+  "source_url": "https://ro.wikipedia.org/wiki/Indicele_Bursei_de_Valori_București",
+  "updated": "2026-11",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "company",
+      "label": "Company",
+      "type": "string"
+    },
+    {
+      "key": "sector",
+      "label": "Sector",
+      "type": "string"
+    },
+    {
+      "key": "ticker",
+      "label": "Ticker",
+      "type": "string"
+    },
+    {
+      "key": "index_weight_pct",
+      "label": "Index Weight Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "company": "Banca Transilvania S.A.",
+      "sector": "bancar",
+      "ticker": "TLV",
+      "index_weight_pct": 20.64
+    },
+    {
+      "company": "S.P.E.E.H. HIDROELECTRICA S.A.",
+      "sector": "electricitate",
+      "ticker": "H2O",
+      "index_weight_pct": 17.23
+    },
+    {
+      "company": "OMV Petrom S.A.",
+      "sector": "petrolier",
+      "ticker": "SNP",
+      "index_weight_pct": 17.1
+    },
+    {
+      "company": "S.N.G.N. Romgaz S.A.",
+      "sector": "gaze naturale",
+      "ticker": "SNG",
+      "index_weight_pct": 9.39
+    },
+    {
+      "company": "BRD - Groupe Societe Generale",
+      "sector": "bancar",
+      "ticker": "BRD",
+      "index_weight_pct": 7.85
+    },
+    {
+      "company": "S.N. Nuclearelectrica S.A.",
+      "sector": "electricitate",
+      "ticker": "SNN",
+      "index_weight_pct": 4.5
+    },
+    {
+      "company": "Digi Communications N.V.",
+      "sector": "telecomunicatii",
+      "ticker": "DIGI",
+      "index_weight_pct": 2.85
+    },
+    {
+      "company": "Fondul Proprietatea SA",
+      "sector": "fonduri mutuale",
+      "ticker": "FP",
+      "index_weight_pct": 2.73
+    },
+    {
+      "company": "S.N.T.G.N. Transgaz S.A.",
+      "sector": "gaze naturale",
+      "ticker": "TGN",
+      "index_weight_pct": 2.72
+    },
+    {
+      "company": "Electrica S.A.",
+      "sector": "electricitate",
+      "ticker": "EL",
+      "index_weight_pct": 2.46
+    },
+    {
+      "company": "One United Properties S.A.",
+      "sector": "dezvoltator imobiliar",
+      "ticker": "ONE",
+      "index_weight_pct": 2.35
+    },
+    {
+      "company": "S.C. MedLife S.A.",
+      "sector": "servicii medicale",
+      "ticker": "M",
+      "index_weight_pct": 2.25
+    },
+    {
+      "company": "TTS (Transport Trade Services)",
+      "sector": "transportator de mărfuri",
+      "ticker": "TTS",
+      "index_weight_pct": 1.85
+    },
+    {
+      "company": "C.N.T.E.E. Transelectrica",
+      "sector": "electricitate",
+      "ticker": "TEL",
+      "index_weight_pct": 1.37
+    },
+    {
+      "company": "TeraPlast SA",
+      "sector": "procesator de polimeri",
+      "ticker": "TRP",
+      "index_weight_pct": 1.2
+    },
+    {
+      "company": "Bursa de Valori București S.A.",
+      "sector": "bursă de valori",
+      "ticker": "BVB",
+      "index_weight_pct": 0.82
+    },
+    {
+      "company": "Aquila Part Prod Com",
+      "sector": "distribuție",
+      "ticker": "AQ",
+      "index_weight_pct": 0.8
+    },
+    {
+      "company": "Purcari Wineries P.L.C.",
+      "sector": "producție de vin",
+      "ticker": "WINE",
+      "index_weight_pct": 0.75
+    },
+    {
+      "company": "Sphera Franchise Group",
+      "sector": "alimente",
+      "ticker": "SFG",
+      "index_weight_pct": 0.65
+    },
+    {
+      "company": "S.C. CONPET S.A.",
+      "sector": "transport prin conducte",
+      "ticker": "COTE",
+      "index_weight_pct": 0.45
+    },
+    {
+      "company": "Capitalizare indice: 50 miliarde de lei",
+      "sector": "Capitalizare indice: 50 miliarde de lei",
+      "ticker": "Capitalizare indice: 50 miliarde de lei",
+      "index_weight_pct": "Capitalizare indice: 50 miliarde de lei"
+    }
+  ],
+  "meta": {
+    "title": "Componența indicelui BET al Bursei de Valori București - Free Download",
+    "description": "Companiile incluse în indicele BET al Bursei de Valori București, cu domeniul de activitate, simbolul bursier și ponderea în indice. Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Componența indicelui BET al Bursei de Valori București | ListBase",
+    "seo_description": "Download Componența indicelui BET al Bursei de Valori București — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Indicele_Bursei_de_Valori_București"
+    ]
+  }
+}
