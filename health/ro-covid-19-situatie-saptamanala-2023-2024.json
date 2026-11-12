@@ -1,0 +1,424 @@
+{
+  "id": "ro-covid-19-situatie-saptamanala-2023-2024",
+  "name": "COVID-19 în România – situația săptămânală (2023–2024)",
+  "title": "COVID-19 în România – situația săptămânală (2023–2024)",
+  "description": "Numărul săptămânal de cazuri și decese COVID-19 în România în perioada endemică, cu rata de incidență și numărul de pacienți internați pe secții și în ATI.",
+  "category": "health",
+  "source": "https://ro.wikipedia.org/wiki/Pandemia_de_COVID-19_în_România",
+  "source_url": "https://ro.wikipedia.org/wiki/Pandemia_de_COVID-19_în_România",
+  "updated": "2026-11",
+  "record_count": 46,
+  "columns": [
+    {
+      "key": "interval",
+      "label": "Interval",
+      "type": "string"
+    },
+    {
+      "key": "cazuri",
+      "label": "Cazuri",
+      "type": "number"
+    },
+    {
+      "key": "decese",
+      "label": "Decese",
+      "type": "number"
+    },
+    {
+      "key": "rata_incidenta",
+      "label": "Rata Incidenta",
+      "type": "number"
+    },
+    {
+      "key": "pacienti_sectii",
+      "label": "Pacienti Sectii",
+      "type": "number"
+    },
+    {
+      "key": "pacienti_ati",
+      "label": "Pacienti Ati",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "interval": "06.05- 12.05.2024",
+      "cazuri": 129,
+      "decese": 6,
+      "rata_incidenta": 0.01,
+      "pacienti_sectii": 21,
+      "pacienti_ati": 3
+    },
+    {
+      "interval": "29.04- 05.05.2024",
+      "cazuri": 92,
+      "decese": 1,
+      "rata_incidenta": 0.01,
+      "pacienti_sectii": 13,
+      "pacienti_ati": 5
+    },
+    {
+      "interval": "22.04- 28.04.2024",
+      "cazuri": 157,
+      "decese": 0,
+      "rata_incidenta": 0.01,
+      "pacienti_sectii": 34,
+      "pacienti_ati": 4
+    },
+    {
+      "interval": "15.04- 21.04.2024",
+      "cazuri": 159,
+      "decese": 0,
+      "rata_incidenta": 0.02,
+      "pacienti_sectii": 46,
+      "pacienti_ati": 3
+    },
+    {
+      "interval": "08.04- 14.04.2024",
+      "cazuri": 212,
+      "decese": 5,
+      "rata_incidenta": 0.02,
+      "pacienti_sectii": 47,
+      "pacienti_ati": 9
+    },
+    {
+      "interval": "01.04- 07.04.2024",
+      "cazuri": 315,
+      "decese": 3,
+      "rata_incidenta": 0.03,
+      "pacienti_sectii": 69,
+      "pacienti_ati": 5
+    },
+    {
+      "interval": "25.03- 31.03.2024",
+      "cazuri": 342,
+      "decese": 2,
+      "rata_incidenta": 0.03,
+      "pacienti_sectii": 93,
+      "pacienti_ati": 6
+    },
+    {
+      "interval": "18.03- 24.03.2024",
+      "cazuri": 390,
+      "decese": 7,
+      "rata_incidenta": 0.04,
+      "pacienti_sectii": 97,
+      "pacienti_ati": 9
+    },
+    {
+      "interval": "11.03- 17.03.2024",
+      "cazuri": 451,
+      "decese": 6,
+      "rata_incidenta": 0.05,
+      "pacienti_sectii": 124,
+      "pacienti_ati": 10
+    },
+    {
+      "interval": "04.03- 10.03.2024",
+      "cazuri": 560,
+      "decese": 8,
+      "rata_incidenta": 0.06,
+      "pacienti_sectii": 122,
+      "pacienti_ati": 5
+    },
+    {
+      "interval": "26.02- 03.03.2024",
+      "cazuri": 627,
+      "decese": 9,
+      "rata_incidenta": 0.07,
+      "pacienti_sectii": 182,
+      "pacienti_ati": 16
+    },
+    {
+      "interval": "19.02- 25.02.2024",
+      "cazuri": 977,
+      "decese": 13,
+      "rata_incidenta": 0.09,
+      "pacienti_sectii": 192,
+      "pacienti_ati": 12
+    },
+    {
+      "interval": "12.02- 18.02.2024",
+      "cazuri": 1091,
+      "decese": 21,
+      "rata_incidenta": 0.14,
+      "pacienti_sectii": 263,
+      "pacienti_ati": 18
+    },
+    {
+      "interval": "29.01- 04.02.2024",
+      "cazuri": 1785,
+      "decese": 17,
+      "rata_incidenta": 0.17,
+      "pacienti_sectii": 314,
+      "pacienti_ati": 33
+    },
+    {
+      "interval": "29.01- 04.02.2024",
+      "cazuri": 1914,
+      "decese": 21,
+      "rata_incidenta": 0.18,
+      "pacienti_sectii": 372,
+      "pacienti_ati": 48
+    },
+    {
+      "interval": "22.01- 28.01.2024",
+      "cazuri": 1943,
+      "decese": 16,
+      "rata_incidenta": 0.19,
+      "pacienti_sectii": 383,
+      "pacienti_ati": 25
+    },
+    {
+      "interval": "15.01- 21.01.2024",
+      "cazuri": 2240,
+      "decese": 25,
+      "rata_incidenta": 0.21,
+      "pacienti_sectii": 457,
+      "pacienti_ati": 37
+    },
+    {
+      "interval": "08.01- 14.01.2024",
+      "cazuri": 2206,
+      "decese": 27,
+      "rata_incidenta": 0.2,
+      "pacienti_sectii": 442,
+      "pacienti_ati": 33
+    },
+    {
+      "interval": "01.01- 07.01.2024",
+      "cazuri": 2525,
+      "decese": 26,
+      "rata_incidenta": 0.19,
+      "pacienti_sectii": 549,
+      "pacienti_ati": 45
+    },
+    {
+      "interval": "25.12- 31.12.2023",
+      "cazuri": 2115,
+      "decese": 25,
+      "rata_incidenta": 0.18,
+      "pacienti_sectii": 256,
+      "pacienti_ati": 27
+    },
+    {
+      "interval": "18.12- 24.12.2023",
+      "cazuri": 1872,
+      "decese": 19,
+      "rata_incidenta": 0.16,
+      "pacienti_sectii": 239,
+      "pacienti_ati": 31
+    },
+    {
+      "interval": "11.12- 17.12.2023",
+      "cazuri": 1792,
+      "decese": 11,
+      "rata_incidenta": 0.14,
+      "pacienti_sectii": 416,
+      "pacienti_ati": 42
+    },
+    {
+      "interval": "04.12- 10.12.2023",
+      "cazuri": 1510,
+      "decese": 20,
+      "rata_incidenta": 0.12,
+      "pacienti_sectii": 399,
+      "pacienti_ati": 36
+    },
+    {
+      "interval": "27.11- 03.12.2023",
+      "cazuri": 1171,
+      "decese": 17,
+      "rata_incidenta": 0.11,
+      "pacienti_sectii": 422,
+      "pacienti_ati": 40
+    },
+    {
+      "interval": "20.11- 26.11.2023",
+      "cazuri": 1411,
+      "decese": 23,
+      "rata_incidenta": 0.12,
+      "pacienti_sectii": 393,
+      "pacienti_ati": 41
+    },
+    {
+      "interval": "13.11- 19.11.2023",
+      "cazuri": 1305,
+      "decese": 23,
+      "rata_incidenta": 0.14,
+      "pacienti_sectii": 390,
+      "pacienti_ati": 46
+    },
+    {
+      "interval": "06.11- 12.11.2023",
+      "cazuri": 1586,
+      "decese": 22,
+      "rata_incidenta": 0.2,
+      "pacienti_sectii": 425,
+      "pacienti_ati": 43
+    },
+    {
+      "interval": "30.10- 05.11.2023",
+      "cazuri": 2381,
+      "decese": 43,
+      "rata_incidenta": 0.4,
+      "pacienti_sectii": 707,
+      "pacienti_ati": 56
+    },
+    {
+      "interval": "23.10- 29.10.2023",
+      "cazuri": 5030,
+      "decese": 38,
+      "rata_incidenta": 0.54,
+      "pacienti_sectii": 837,
+      "pacienti_ati": 77
+    },
+    {
+      "interval": "16.10- 22.10.2023",
+      "cazuri": 6404,
+      "decese": 32,
+      "rata_incidenta": 0.65,
+      "pacienti_sectii": 995,
+      "pacienti_ati": 103
+    },
+    {
+      "interval": "09.10- 15.10.2023",
+      "cazuri": 7701,
+      "decese": 46,
+      "rata_incidenta": 0.82,
+      "pacienti_sectii": 996,
+      "pacienti_ati": 104
+    },
+    {
+      "interval": "02.10- 08.10.2023",
+      "cazuri": 9719,
+      "decese": 37,
+      "rata_incidenta": 1.08,
+      "pacienti_sectii": 1217,
+      "pacienti_ati": 75
+    },
+    {
+      "interval": "25.09- 01.10.2023",
+      "cazuri": 13165,
+      "decese": 31,
+      "rata_incidenta": 1.26,
+      "pacienti_sectii": 1077,
+      "pacienti_ati": 82
+    },
+    {
+      "interval": "18.09- 24.09.2023",
+      "cazuri": 14861,
+      "decese": 27,
+      "rata_incidenta": 0.95,
+      "pacienti_sectii": 1149,
+      "pacienti_ati": 74
+    },
+    {
+      "interval": "11.09- 17.09.2023",
+      "cazuri": 11226,
+      "decese": 18,
+      "rata_incidenta": 0.63,
+      "pacienti_sectii": 967,
+      "pacienti_ati": 63
+    },
+    {
+      "interval": "04.09- 10.09.2023",
+      "cazuri": 7171,
+      "decese": 14,
+      "rata_incidenta": 0.42,
+      "pacienti_sectii": 698,
+      "pacienti_ati": 47
+    },
+    {
+      "interval": "28.08- 03.09.2023",
+      "cazuri": 4772,
+      "decese": 12,
+      "rata_incidenta": 0.28,
+      "pacienti_sectii": 583,
+      "pacienti_ati": 45
+    },
+    {
+      "interval": "21.08- 27.08.2023",
+      "cazuri": 3326,
+      "decese": 4,
+      "rata_incidenta": 0.16,
+      "pacienti_sectii": 497,
+      "pacienti_ati": 41
+    },
+    {
+      "interval": "14.08- 20.08.2023",
+      "cazuri": 1894,
+      "decese": 4,
+      "rata_incidenta": 0.09,
+      "pacienti_sectii": 374,
+      "pacienti_ati": 38
+    },
+    {
+      "interval": "07.08- 13.08.2023",
+      "cazuri": 1054,
+      "decese": 3,
+      "rata_incidenta": 0.07,
+      "pacienti_sectii": 290,
+      "pacienti_ati": 37
+    },
+    {
+      "interval": "31.07- 06.08.2023",
+      "cazuri": 906,
+      "decese": 6,
+      "rata_incidenta": 0.05,
+      "pacienti_sectii": 295,
+      "pacienti_ati": 36
+    },
+    {
+      "interval": "24.07- 30.07.2023",
+      "cazuri": 595,
+      "decese": 4,
+      "rata_incidenta": 0.04,
+      "pacienti_sectii": 260,
+      "pacienti_ati": 37
+    },
+    {
+      "interval": "17.07- 23.07.2023",
+      "cazuri": 517,
+      "decese": 3,
+      "rata_incidenta": 0.04,
+      "pacienti_sectii": 244,
+      "pacienti_ati": 38
+    },
+    {
+      "interval": "10.07- 16.07.2023",
+      "cazuri": 430,
+      "decese": 3,
+      "rata_incidenta": 0.04,
+      "pacienti_sectii": 255,
+      "pacienti_ati": 42
+    },
+    {
+      "interval": "03.07- 09.07.2023",
+      "cazuri": 460,
+      "decese": 3,
+      "rata_incidenta": 0.04,
+      "pacienti_sectii": 245,
+      "pacienti_ati": 39
+    },
+    {
+      "interval": "26.06- 02.07.2023",
+      "cazuri": 510,
+      "decese": 7,
+      "rata_incidenta": 0.04,
+      "pacienti_sectii": 274,
+      "pacienti_ati": 37
+    }
+  ],
+  "meta": {
+    "title": "COVID-19 în România – situația săptămânală (2023–2024) - Free Download",
+    "description": "Numărul săptămânal de cazuri și decese COVID-19 în România în perioada endemică, cu rata de incidență și numărul de pacienți internați pe secții și în ATI. Contains 46 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "COVID-19 în România – situația săptămânală (2023–2024) | ListBase",
+    "seo_description": "Download COVID-19 în România – situația săptămânală (2023–2024) — 46 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 46 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Pandemia_de_COVID-19_în_România"
+    ]
+  }
+}

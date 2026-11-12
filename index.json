@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-12T02:06:19.065Z",
-  "total_datasets": 500,
-  "total_records": 168348,
+  "generated": "2026-11-12T02:06:29.233Z",
+  "total_datasets": 501,
+  "total_records": 168394,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "history",
@@ -5732,6 +5732,33 @@
         "xlsx": {
           "name": "ro-vrancea-orase_RO.xlsx",
           "size": 7348
+        }
+      }
+    },
+    {
+      "id": "ro-covid-19-situatie-saptamanala-2023-2024",
+      "name": "COVID-19 în România – situația săptămânală (2023–2024)",
+      "category": "health",
+      "record_count": 46,
+      "columns": [
+        "interval",
+        "cazuri",
+        "decese",
+        "rata_incidenta",
+        "pacienti_sectii",
+        "pacienti_ati"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Pandemia_de_COVID-19_în_România",
+      "updated": "2026-11",
+      "size": 10262,
+      "files": {
+        "csv": {
+          "name": "ro-covid-19-situatie-saptamanala-2023-2024_RO.csv",
+          "size": 2330
+        },
+        "xlsx": {
+          "name": "ro-covid-19-situatie-saptamanala-2023-2024_RO.xlsx",
+          "size": 8614
         }
       }
     },
