@@ -1,0 +1,160 @@
+{
+  "id": "ro-alfabetul-limbii-romane",
+  "name": "Alfabetul limbii române și numele literelor",
+  "title": "Alfabetul limbii române și numele literelor",
+  "description": "Cele 31 de litere ale alfabetului limbii române, cu denumirea fiecărei litere.",
+  "category": "language",
+  "source": "https://ro.wikipedia.org/wiki/Alfabetul_limbii_române",
+  "source_url": "https://ro.wikipedia.org/wiki/Alfabetul_limbii_române",
+  "updated": "2026-11",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "litera",
+      "label": "Litera",
+      "type": "string"
+    },
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "litera": "A, a",
+      "nume": "a"
+    },
+    {
+      "litera": "Ă, ă",
+      "nume": "ă"
+    },
+    {
+      "litera": "Â, â",
+      "nume": "î / î din a"
+    },
+    {
+      "litera": "B, b",
+      "nume": "be / bî"
+    },
+    {
+      "litera": "C, c",
+      "nume": "ce / cî"
+    },
+    {
+      "litera": "D, d",
+      "nume": "de / dî"
+    },
+    {
+      "litera": "E, e",
+      "nume": "e"
+    },
+    {
+      "litera": "F, f",
+      "nume": "ef / fe / fî"
+    },
+    {
+      "litera": "G, g",
+      "nume": "ge / ghe / gî"
+    },
+    {
+      "litera": "H, h",
+      "nume": "haș / ha / hî"
+    },
+    {
+      "litera": "I, i",
+      "nume": "i"
+    },
+    {
+      "litera": "Î, î",
+      "nume": "î / î din i"
+    },
+    {
+      "litera": "J, j",
+      "nume": "je / jî"
+    },
+    {
+      "litera": "K, k",
+      "nume": "ka / kappa"
+    },
+    {
+      "litera": "L, l",
+      "nume": "el / le / lî"
+    },
+    {
+      "litera": "M, m",
+      "nume": "em / me / mî"
+    },
+    {
+      "litera": "N, n",
+      "nume": "en / ne / nî"
+    },
+    {
+      "litera": "O, o",
+      "nume": "o"
+    },
+    {
+      "litera": "P, p",
+      "nume": "pe / pî"
+    },
+    {
+      "litera": "Q, q",
+      "nume": "kü / chiu"
+    },
+    {
+      "litera": "R, r",
+      "nume": "er / re / rî"
+    },
+    {
+      "litera": "S, s",
+      "nume": "es / se / sî"
+    },
+    {
+      "litera": "Ș, ș",
+      "nume": "șe / șî"
+    },
+    {
+      "litera": "T, t",
+      "nume": "te / tî"
+    },
+    {
+      "litera": "Ț, ț",
+      "nume": "țe / țî"
+    },
+    {
+      "litera": "U, u",
+      "nume": "u"
+    },
+    {
+      "litera": "V, v",
+      "nume": "ve / vî"
+    },
+    {
+      "litera": "W, w",
+      "nume": "dublu ve / dublu vî"
+    },
+    {
+      "litera": "X, x",
+      "nume": "ics"
+    },
+    {
+      "litera": "Y, y",
+      "nume": "i grec"
+    },
+    {
+      "litera": "Z, z",
+      "nume": "ze / zet / zî"
+    }
+  ],
+  "meta": {
+    "title": "Alfabetul limbii române și numele literelor - Free Download",
+    "description": "Cele 31 de litere ale alfabetului limbii române, cu denumirea fiecărei litere. Contains 31 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Alfabetul limbii române și numele literelor | ListBase",
+    "seo_description": "Download Alfabetul limbii române și numele literelor — 31 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 31 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Alfabetul_limbii_române"
+    ]
+  }
+}
