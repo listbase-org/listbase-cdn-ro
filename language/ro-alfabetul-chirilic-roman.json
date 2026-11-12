@@ -1,0 +1,448 @@
+{
+  "id": "ro-alfabetul-chirilic-roman",
+  "name": "Alfabetul chirilic românesc",
+  "title": "Alfabetul chirilic românesc",
+  "description": "Literele alfabetului chirilic folosit pentru scrierea limbii române (înainte și după 1830), cu valoarea numerică, echivalentul latin, forma din alfabetul de tranziție, fonemele și numele literelor.",
+  "category": "language",
+  "source": "https://ro.wikipedia.org/wiki/Alfabetul_chirilic_român",
+  "source_url": "https://ro.wikipedia.org/wiki/Alfabetul_chirilic_român",
+  "updated": "2026-11",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "litera_veche",
+      "label": "Litera Veche",
+      "type": "string"
+    },
+    {
+      "key": "litera_noua",
+      "label": "Litera Noua",
+      "type": "string"
+    },
+    {
+      "key": "valoare_numerica",
+      "label": "Valoare Numerica",
+      "type": "number"
+    },
+    {
+      "key": "echivalent_latin",
+      "label": "Echivalent Latin",
+      "type": "string"
+    },
+    {
+      "key": "alfabet_tranzitie",
+      "label": "Alfabet Tranzitie",
+      "type": "string"
+    },
+    {
+      "key": "foneme",
+      "label": "Foneme",
+      "type": "string"
+    },
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "litera_veche": "А а",
+      "litera_noua": "А а",
+      "valoare_numerica": "1",
+      "echivalent_latin": "a",
+      "alfabet_tranzitie": "A a",
+      "foneme": "/a/",
+      "nume": "Az"
+    },
+    {
+      "litera_veche": "Б б",
+      "litera_noua": "Б б",
+      "valoare_numerica": "",
+      "echivalent_latin": "b",
+      "alfabet_tranzitie": "Б б",
+      "foneme": "/b/",
+      "nume": "Buke"
+    },
+    {
+      "litera_veche": "В в",
+      "litera_noua": "В в",
+      "valoare_numerica": "2",
+      "echivalent_latin": "v",
+      "alfabet_tranzitie": "В в",
+      "foneme": "/v/",
+      "nume": "Vede"
+    },
+    {
+      "litera_veche": "Г г",
+      "litera_noua": "Г г",
+      "valoare_numerica": "3",
+      "echivalent_latin": "g, gh",
+      "alfabet_tranzitie": "G g",
+      "foneme": "/g/",
+      "nume": "Glagol"
+    },
+    {
+      "litera_veche": "Д д",
+      "litera_noua": "Д д",
+      "valoare_numerica": "4",
+      "echivalent_latin": "d",
+      "alfabet_tranzitie": "D d",
+      "foneme": "/d/",
+      "nume": "Dobru"
+    },
+    {
+      "litera_veche": "Є є",
+      "litera_noua": "Е e",
+      "valoare_numerica": "5",
+      "echivalent_latin": "e",
+      "alfabet_tranzitie": "E e",
+      "foneme": "/e/",
+      "nume": "Est"
+    },
+    {
+      "litera_veche": "Ж ж",
+      "litera_noua": "Ж ж",
+      "valoare_numerica": "",
+      "echivalent_latin": "j",
+      "alfabet_tranzitie": "Ж ж",
+      "foneme": "/ʒ/",
+      "nume": "Juvete"
+    },
+    {
+      "litera_veche": "Ѕ ѕ",
+      "litera_noua": "Dz dz",
+      "valoare_numerica": "6",
+      "echivalent_latin": "dz",
+      "alfabet_tranzitie": "Ḑ ḑ",
+      "foneme": "/dz/",
+      "nume": "Zalu"
+    },
+    {
+      "litera_veche": "Ӡ ӡ",
+      "litera_noua": "З з",
+      "valoare_numerica": "7",
+      "echivalent_latin": "z",
+      "alfabet_tranzitie": "Z z",
+      "foneme": "/z/",
+      "nume": "Zemle"
+    },
+    {
+      "litera_veche": "И и",
+      "litera_noua": "І і",
+      "valoare_numerica": "8",
+      "echivalent_latin": "i",
+      "alfabet_tranzitie": "I i",
+      "foneme": "/i/",
+      "nume": "Ije"
+    },
+    {
+      "litera_veche": "Ï ï",
+      "litera_noua": "І і",
+      "valoare_numerica": "10",
+      "echivalent_latin": "i",
+      "alfabet_tranzitie": "I i",
+      "foneme": "/i/",
+      "nume": "Ii"
+    },
+    {
+      "litera_veche": "Й й",
+      "litera_noua": "Ĭ ĭ",
+      "valoare_numerica": "",
+      "echivalent_latin": "i",
+      "alfabet_tranzitie": "Ĭ ĭ",
+      "foneme": "/ʲ/",
+      "nume": "I"
+    },
+    {
+      "litera_veche": "К к",
+      "litera_noua": "К к",
+      "valoare_numerica": "20",
+      "echivalent_latin": "c, ch",
+      "alfabet_tranzitie": "K k",
+      "foneme": "/k/",
+      "nume": "Kaku"
+    },
+    {
+      "litera_veche": "Λ ʌ",
+      "litera_noua": "Л л",
+      "valoare_numerica": "30",
+      "echivalent_latin": "l",
+      "alfabet_tranzitie": "L l",
+      "foneme": "/l/",
+      "nume": "Liude"
+    },
+    {
+      "litera_veche": "М м",
+      "litera_noua": "М м",
+      "valoare_numerica": "40",
+      "echivalent_latin": "m",
+      "alfabet_tranzitie": "M m",
+      "foneme": "/m/",
+      "nume": "Mislete"
+    },
+    {
+      "litera_veche": "N ɴ",
+      "litera_noua": "H н",
+      "valoare_numerica": "50",
+      "echivalent_latin": "n",
+      "alfabet_tranzitie": "N n",
+      "foneme": "/n/",
+      "nume": "Naș"
+    },
+    {
+      "litera_veche": "О o",
+      "litera_noua": "О o",
+      "valoare_numerica": "70",
+      "echivalent_latin": "o",
+      "alfabet_tranzitie": "O o",
+      "foneme": "/o̯/",
+      "nume": "On"
+    },
+    {
+      "litera_veche": "П п",
+      "litera_noua": "П п",
+      "valoare_numerica": "80",
+      "echivalent_latin": "p",
+      "alfabet_tranzitie": "П п",
+      "foneme": "/p/",
+      "nume": "Pokoi"
+    },
+    {
+      "litera_veche": "Р р",
+      "litera_noua": "Р р",
+      "valoare_numerica": "100",
+      "echivalent_latin": "r",
+      "alfabet_tranzitie": "Р р",
+      "foneme": "/r/",
+      "nume": "Râță"
+    },
+    {
+      "litera_veche": "С с",
+      "litera_noua": "С с",
+      "valoare_numerica": "200",
+      "echivalent_latin": "s",
+      "alfabet_tranzitie": "S s",
+      "foneme": "/s/",
+      "nume": "Slovă"
+    },
+    {
+      "litera_veche": "Т т",
+      "litera_noua": "Т т",
+      "valoare_numerica": "300",
+      "echivalent_latin": "t",
+      "alfabet_tranzitie": "T t",
+      "foneme": "/t/",
+      "nume": "Tferdu"
+    },
+    {
+      "litera_veche": "Ѹ ѹ",
+      "litera_noua": "Ꙋ ꙋ",
+      "valoare_numerica": "400",
+      "echivalent_latin": "u",
+      "alfabet_tranzitie": "У Ȣ",
+      "foneme": "/u/",
+      "nume": "Uc"
+    },
+    {
+      "litera_veche": "Ф ф",
+      "litera_noua": "Ф ф",
+      "valoare_numerica": "500",
+      "echivalent_latin": "f",
+      "alfabet_tranzitie": "F f",
+      "foneme": "/f/",
+      "nume": "Fertă"
+    },
+    {
+      "litera_veche": "Х х",
+      "litera_noua": "Х х",
+      "valoare_numerica": "600",
+      "echivalent_latin": "h",
+      "alfabet_tranzitie": "Х х",
+      "foneme": "/h/",
+      "nume": "Heru"
+    },
+    {
+      "litera_veche": "Ѡ ѡ",
+      "litera_noua": "О o",
+      "valoare_numerica": "800",
+      "echivalent_latin": "o",
+      "alfabet_tranzitie": "O o",
+      "foneme": "/o/",
+      "nume": "Omega"
+    },
+    {
+      "litera_veche": "Ц ц",
+      "litera_noua": "Ц ц",
+      "valoare_numerica": "900",
+      "echivalent_latin": "ț",
+      "alfabet_tranzitie": "Ц ц",
+      "foneme": "/ts/",
+      "nume": "Ți"
+    },
+    {
+      "litera_veche": "Ч ч",
+      "litera_noua": "Ч ч",
+      "valoare_numerica": "90",
+      "echivalent_latin": "c (înainte de e, i)",
+      "alfabet_tranzitie": "Ч ч",
+      "foneme": "/tʃ/",
+      "nume": "Cervu"
+    },
+    {
+      "litera_veche": "Ш ш",
+      "litera_noua": "Ш ш",
+      "valoare_numerica": "",
+      "echivalent_latin": "ș",
+      "alfabet_tranzitie": "Ш ш",
+      "foneme": "/ʃ/",
+      "nume": "Șa"
+    },
+    {
+      "litera_veche": "Ш̩ ш̩",
+      "litera_noua": "Щ щ",
+      "valoare_numerica": "",
+      "echivalent_latin": "șt",
+      "alfabet_tranzitie": "Щ щ",
+      "foneme": "/ʃt/",
+      "nume": "Ștea"
+    },
+    {
+      "litera_veche": "Ъ ъ",
+      "litera_noua": "Ъ ъ",
+      "valoare_numerica": "",
+      "echivalent_latin": "ă, ŭ",
+      "alfabet_tranzitie": "Ъ ъ",
+      "foneme": "/ə/",
+      "nume": "Ier"
+    },
+    {
+      "litera_veche": "Ь ь",
+      "litera_noua": "-",
+      "valoare_numerica": "",
+      "echivalent_latin": "ă, ŭ, ĭ",
+      "alfabet_tranzitie": "—",
+      "foneme": "—",
+      "nume": "Ieri"
+    },
+    {
+      "litera_veche": "Ѣ ѣ",
+      "litera_noua": "Ea ea",
+      "valoare_numerica": "",
+      "echivalent_latin": "ea",
+      "alfabet_tranzitie": "Ea ea",
+      "foneme": "/æ/",
+      "nume": "Iati"
+    },
+    {
+      "litera_veche": "Ю ю",
+      "litera_noua": "Ю ю",
+      "valoare_numerica": "",
+      "echivalent_latin": "iu",
+      "alfabet_tranzitie": "I [ɣ] i [ɣ] Ĭ [ɣ] ĭ [ɣ]",
+      "foneme": "/ju/",
+      "nume": "Iu"
+    },
+    {
+      "litera_veche": "Ѩ ѩ",
+      "litera_noua": "Ѩ ѩ",
+      "valoare_numerica": "",
+      "echivalent_latin": "ia",
+      "alfabet_tranzitie": "Ia ia",
+      "foneme": "/ja/",
+      "nume": "Iaco"
+    },
+    {
+      "litera_veche": "Ѥ ѥ",
+      "litera_noua": "Ie ie",
+      "valoare_numerica": "",
+      "echivalent_latin": "ie",
+      "alfabet_tranzitie": "Ie ie",
+      "foneme": "/je/",
+      "nume": ""
+    },
+    {
+      "litera_veche": "Ѧ ѧ",
+      "litera_noua": "ia",
+      "valoare_numerica": "",
+      "echivalent_latin": "ĭa, ea",
+      "alfabet_tranzitie": "Ia ia, Ea ea",
+      "foneme": "/ja/, /æ/",
+      "nume": "Ia"
+    },
+    {
+      "litera_veche": "Ѫ ѫ",
+      "litera_noua": "Ъ ъ",
+      "valoare_numerica": "",
+      "echivalent_latin": "â",
+      "alfabet_tranzitie": "Â â",
+      "foneme": "/ɨ/",
+      "nume": "Ius"
+    },
+    {
+      "litera_veche": "Ѯ ѯ",
+      "litera_noua": "Ѯ ѯ",
+      "valoare_numerica": "60",
+      "echivalent_latin": "x",
+      "alfabet_tranzitie": "Ks ks",
+      "foneme": "/ks/",
+      "nume": "Csi"
+    },
+    {
+      "litera_veche": "Ѱ ѱ",
+      "litera_noua": "Пс пс",
+      "valoare_numerica": "700",
+      "echivalent_latin": "ps",
+      "alfabet_tranzitie": "Пs пs",
+      "foneme": "/ps/",
+      "nume": "Psi"
+    },
+    {
+      "litera_veche": "Ѳ ѳ",
+      "litera_noua": "Th th",
+      "valoare_numerica": "9",
+      "echivalent_latin": "th, ft",
+      "alfabet_tranzitie": "T t, Ft ft",
+      "foneme": "/t/ și aprox. /θ/",
+      "nume": "Thita"
+    },
+    {
+      "litera_veche": "Ѵ ѵ",
+      "litera_noua": "Y y",
+      "valoare_numerica": "400",
+      "echivalent_latin": "i, u",
+      "alfabet_tranzitie": "I i; У [ɣ]",
+      "foneme": "/i/, /y/, /v/",
+      "nume": "Ijița"
+    },
+    {
+      "litera_veche": "Ꙟ ꙟ (↑ ↑)",
+      "litera_noua": "Ꙟн/Ꙟм ꙟн/ꙟм",
+      "valoare_numerica": "",
+      "echivalent_latin": "în, îm",
+      "alfabet_tranzitie": "În în Îm îm",
+      "foneme": "/ɨn/, /ɨm/",
+      "nume": "În"
+    },
+    {
+      "litera_veche": "Џ џ",
+      "litera_noua": "Џ џ",
+      "valoare_numerica": "",
+      "echivalent_latin": "g (înainte de e, i)",
+      "alfabet_tranzitie": "Џ џ",
+      "foneme": "/dʒ/",
+      "nume": "Gea"
+    }
+  ],
+  "meta": {
+    "title": "Alfabetul chirilic românesc - Free Download",
+    "description": "Literele alfabetului chirilic folosit pentru scrierea limbii române (înainte și după 1830), cu valoarea numerică, echivalentul latin, forma din alfabetul de tranziție, fonemele și numele literelor. Contains 43 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Alfabetul chirilic românesc | ListBase",
+    "seo_description": "Download Alfabetul chirilic românesc — 43 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 43 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Alfabetul_chirilic_român"
+    ]
+  }
+}

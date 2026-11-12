@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-11T02:06:44.829Z",
-  "total_datasets": 498,
-  "total_records": 168274,
+  "generated": "2026-11-12T02:06:07.304Z",
+  "total_datasets": 499,
+  "total_records": 168317,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "law",
@@ -6014,6 +6014,34 @@
         "xlsx": {
           "name": "ro-regii-romaniei_RO.xlsx",
           "size": 7681
+        }
+      }
+    },
+    {
+      "id": "ro-alfabetul-chirilic-roman",
+      "name": "Alfabetul chirilic românesc",
+      "category": "language",
+      "record_count": 43,
+      "columns": [
+        "litera_veche",
+        "litera_noua",
+        "valoare_numerica",
+        "echivalent_latin",
+        "alfabet_tranzitie",
+        "foneme",
+        "nume"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Alfabetul_chirilic_român",
+      "updated": "2026-11",
+      "size": 11535,
+      "files": {
+        "csv": {
+          "name": "ro-alfabetul-chirilic-roman_RO.csv",
+          "size": 2254
+        },
+        "xlsx": {
+          "name": "ro-alfabetul-chirilic-roman_RO.xlsx",
+          "size": 9193
         }
       }
     },
