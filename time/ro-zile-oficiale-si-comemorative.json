@@ -1,0 +1,586 @@
+{
+  "id": "ro-zile-oficiale-si-comemorative",
+  "name": "Zile oficiale, comemorative și aniversare în România",
+  "title": "Zile oficiale, comemorative și aniversare în România",
+  "description": "Lista zilelor oficiale, comemorative și aniversare stabilite prin lege în România (care nu sunt zile libere), cu data și observații.",
+  "category": "time",
+  "source": "https://ro.wikipedia.org/wiki/Sărbători_publice_în_România",
+  "source_url": "https://ro.wikipedia.org/wiki/Sărbători_publice_în_România",
+  "updated": "2026-11",
+  "record_count": 109,
+  "columns": [
+    {
+      "key": "data",
+      "label": "Data",
+      "type": "string"
+    },
+    {
+      "key": "nume",
+      "label": "Nume",
+      "type": "string"
+    },
+    {
+      "key": "observatii",
+      "label": "Observatii",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "data": "10 ianuarie",
+      "nume": "Ziua matematicii",
+      "observatii": ""
+    },
+    {
+      "data": "15 ianuarie",
+      "nume": "Ziua Culturii Naționale",
+      "observatii": "Ziua nașterii lui Mihai Eminescu"
+    },
+    {
+      "data": "27 ianuarie",
+      "nume": "Ziua Internațională de Comemorare a Victimelor Holocaustului",
+      "observatii": ""
+    },
+    {
+      "data": "19 februarie",
+      "nume": "Ziua Brâncuși",
+      "observatii": ""
+    },
+    {
+      "data": "20 februarie",
+      "nume": "Ziua Mondială a Justiției Sociale",
+      "observatii": ""
+    },
+    {
+      "data": "8 martie",
+      "nume": "Ziua Internațională a Femeii",
+      "observatii": ""
+    },
+    {
+      "data": "9 martie",
+      "nume": "Ziua Deținuților Politici Anticomuniști",
+      "observatii": ""
+    },
+    {
+      "data": "20 martie",
+      "nume": "Ziua Internațională a Francofoniei",
+      "observatii": ""
+    },
+    {
+      "data": "20 martie",
+      "nume": "Ziua Internațională a Fericirii",
+      "observatii": ""
+    },
+    {
+      "data": "21 martie",
+      "nume": "Ziua Internațională pentru Eliminarea Discriminării Rasiale",
+      "observatii": ""
+    },
+    {
+      "data": "21 martie",
+      "nume": "Ziua Mondială a Sindromului Down",
+      "observatii": ""
+    },
+    {
+      "data": "21 martie",
+      "nume": "Ziua Internațională a Pădurilor",
+      "observatii": ""
+    },
+    {
+      "data": "21 martie",
+      "nume": "Ziua Olteniei",
+      "observatii": "Intrarea în București a revoluționarului Tudor Vladimirescu în timpul Revoluția de la 1821"
+    },
+    {
+      "data": "22 martie",
+      "nume": "Ziua Mondială a Apei",
+      "observatii": ""
+    },
+    {
+      "data": "24 martie",
+      "nume": "Ziua Mondială de Luptă împotriva Tuberculozei",
+      "observatii": ""
+    },
+    {
+      "data": "25 martie",
+      "nume": "Ziua Poliției Române",
+      "observatii": ""
+    },
+    {
+      "data": "25 martie",
+      "nume": "Ziua Internațională a Comemorării Victimelor Sclaviei și Comerțului Transatlantic cu Sclavi",
+      "observatii": ""
+    },
+    {
+      "data": "27 martie",
+      "nume": "Ziua unirii Basarabiei cu România",
+      "observatii": "Unirea Basarabiei cu România"
+    },
+    {
+      "data": "Prima duminică din aprilie",
+      "nume": "Ziua NATO în România",
+      "observatii": ""
+    },
+    {
+      "data": "2 aprilie",
+      "nume": "Ziua Internațională de Conștientizare a Autismului",
+      "observatii": ""
+    },
+    {
+      "data": "3 aprilie",
+      "nume": "Ziua Jandarmeriei Române",
+      "observatii": ""
+    },
+    {
+      "data": "7 aprilie",
+      "nume": "Ziua Mondială a Sănătății",
+      "observatii": ""
+    },
+    {
+      "data": "8 aprilie",
+      "nume": "Sărbătoarea Etniei Romilor din România",
+      "observatii": ""
+    },
+    {
+      "data": "23 aprilie",
+      "nume": "Ziua Feroviarilor",
+      "observatii": ""
+    },
+    {
+      "data": "23 aprilie",
+      "nume": "Ziua Bibliotecarului",
+      "observatii": ""
+    },
+    {
+      "data": "23 aprilie",
+      "nume": "Ziua Mondială a Cărții și a Drepturilor de Autor",
+      "observatii": ""
+    },
+    {
+      "data": "23 aprilie",
+      "nume": "Ziua Națională a Consultantului Fiscal din România",
+      "observatii": ""
+    },
+    {
+      "data": "29 aprilie",
+      "nume": "Ziua Veteranilor de Război",
+      "observatii": ""
+    },
+    {
+      "data": "Prima duminică din mai",
+      "nume": "Ziua Mamei",
+      "observatii": ""
+    },
+    {
+      "data": "A doua duminică din mai",
+      "nume": "Ziua Tatălui",
+      "observatii": ""
+    },
+    {
+      "data": "A doua duminică din mai",
+      "nume": "Ziua Adolescentului",
+      "observatii": ""
+    },
+    {
+      "data": "A doua duminică din mai",
+      "nume": "Ziua Națională a Portului Tradițional",
+      "observatii": ""
+    },
+    {
+      "data": "2 mai",
+      "nume": "Ziua Națională a Tineretului",
+      "observatii": ""
+    },
+    {
+      "data": "3 mai",
+      "nume": "Ziua Mondială a Libertății Presei",
+      "observatii": ""
+    },
+    {
+      "data": "5 mai",
+      "nume": "Ziua Limbii Tătare",
+      "observatii": ""
+    },
+    {
+      "data": "8 mai",
+      "nume": "Ziua Egalității de Șanse între Femei și Bărbați",
+      "observatii": ""
+    },
+    {
+      "data": "9 mai",
+      "nume": "Ziua Victoriei Ziua Europei",
+      "observatii": ""
+    },
+    {
+      "data": "10 mai",
+      "nume": "Ziua Monarhiei",
+      "observatii": ""
+    },
+    {
+      "data": "10 mai",
+      "nume": "Ziua Independenței României",
+      "observatii": ""
+    },
+    {
+      "data": "14 mai",
+      "nume": "Ziua Dreptului Internațional Umanitar",
+      "observatii": ""
+    },
+    {
+      "data": "14 mai",
+      "nume": "Ziua națională de cinstire a martirilor din temnițele comuniste",
+      "observatii": ""
+    },
+    {
+      "data": "15 mai",
+      "nume": "Ziua Națională a Medicului Veterinar",
+      "observatii": ""
+    },
+    {
+      "data": "15 mai",
+      "nume": "Ziua Internațională a Familiei",
+      "observatii": ""
+    },
+    {
+      "data": "21 mai",
+      "nume": "Ziua Internațională pentru Diversitate Culturală",
+      "observatii": ""
+    },
+    {
+      "data": "24 mai",
+      "nume": "Ziua Limbii Bulgare",
+      "observatii": ""
+    },
+    {
+      "data": "25 mai",
+      "nume": "Ziua Limbii Slovace",
+      "observatii": ""
+    },
+    {
+      "data": "31 mai",
+      "nume": "Ziua Rezervistului Militar",
+      "observatii": ""
+    },
+    {
+      "data": "Ultima duminică din mai",
+      "nume": "Ziua Întreprinzătorilor din România",
+      "observatii": ""
+    },
+    {
+      "data": "Mai/Iunie",
+      "nume": "Ziua Eroilor (Înălțarea Domnului)",
+      "observatii": "A 40-a zi de la Paștele ortodox"
+    },
+    {
+      "data": "1 iunie",
+      "nume": "Ziua Mondială a Părinților",
+      "observatii": ""
+    },
+    {
+      "data": "2 iunie",
+      "nume": "Ziua Națională pentru Adopție",
+      "observatii": ""
+    },
+    {
+      "data": "4 iunie",
+      "nume": "Ziua Internațională a Copiilor Victime ale Agresiunii",
+      "observatii": ""
+    },
+    {
+      "data": "5 iunie",
+      "nume": "Ziua Națională împotriva Violenței asupra Copilului",
+      "observatii": ""
+    },
+    {
+      "data": "5 iunie",
+      "nume": "Ziua Mondială a Mediului",
+      "observatii": ""
+    },
+    {
+      "data": "14 iunie",
+      "nume": "Ziua Mondială a Donatorului de Sânge",
+      "observatii": ""
+    },
+    {
+      "data": "20 iunie",
+      "nume": "Ziua Mondială a Refugiatului",
+      "observatii": ""
+    },
+    {
+      "data": "26 iunie",
+      "nume": "Ziua Drapelului Național",
+      "observatii": ""
+    },
+    {
+      "data": "26 iunie",
+      "nume": "Ziua Internațională de Luptă împotriva Abuzului și Traficului Ilicit de Droguri",
+      "observatii": ""
+    },
+    {
+      "data": "26 iunie",
+      "nume": "Ziua Internațională pentru Sprijinirea Victimelor Torturii",
+      "observatii": ""
+    },
+    {
+      "data": "Prima duminică din iulie",
+      "nume": "Ziua Justiției",
+      "observatii": ""
+    },
+    {
+      "data": "A doua duminică din iulie",
+      "nume": "Ziua Statisticianului",
+      "observatii": ""
+    },
+    {
+      "data": "20 iulie",
+      "nume": "Ziua Aviației Române și a Forțelor Aeriene",
+      "observatii": ""
+    },
+    {
+      "data": "24 iulie",
+      "nume": "Ziua Poliției de Frontieră Române",
+      "observatii": ""
+    },
+    {
+      "data": "28 iulie",
+      "nume": "Ziua Națională a Ambulanței",
+      "observatii": ""
+    },
+    {
+      "data": "28 iulie",
+      "nume": "Ziua Mondială de Luptă împotriva Hepatitei",
+      "observatii": ""
+    },
+    {
+      "data": "29 iulie",
+      "nume": "Ziua Imnului Național al României",
+      "observatii": ""
+    },
+    {
+      "data": "30 iulie",
+      "nume": "Ziua Internațională a Prieteniei",
+      "observatii": ""
+    },
+    {
+      "data": "15 august",
+      "nume": "Ziua Marinei Române",
+      "observatii": ""
+    },
+    {
+      "data": "23 august",
+      "nume": "Ziua Comemorării Victimelor Fascismului și Comunismului",
+      "observatii": ""
+    },
+    {
+      "data": "31 august",
+      "nume": "Ziua Limbii Române",
+      "observatii": ""
+    },
+    {
+      "data": "1 septembrie",
+      "nume": "Ziua Rezervației Biosferei Delta Dunării",
+      "observatii": ""
+    },
+    {
+      "data": "13 septembrie",
+      "nume": "Ziua Pompierilor din România",
+      "observatii": ""
+    },
+    {
+      "data": "14 septembrie",
+      "nume": "Ziua Inginerului Român",
+      "observatii": ""
+    },
+    {
+      "data": "10 septembrie",
+      "nume": "Ziua Mondială pentru Prevenirea Suicidului",
+      "observatii": ""
+    },
+    {
+      "data": "15 septembrie",
+      "nume": "Ziua Internațională a Democrației",
+      "observatii": ""
+    },
+    {
+      "data": "21 septembrie",
+      "nume": "Ziua Mondială a Păcii",
+      "observatii": ""
+    },
+    {
+      "data": "28 septembrie",
+      "nume": "Ziua Limbii Cehe",
+      "observatii": ""
+    },
+    {
+      "data": "29 septembrie",
+      "nume": "Ziua Mondială a Inimii",
+      "observatii": ""
+    },
+    {
+      "data": "1 octombrie",
+      "nume": "Ziua Scafandrului Român",
+      "observatii": ""
+    },
+    {
+      "data": "1 octombrie",
+      "nume": "Ziua Internațională a Persoanelor Vârstnice",
+      "observatii": ""
+    },
+    {
+      "data": "5 octombrie",
+      "nume": "Ziua Mondială a Educației",
+      "observatii": ""
+    },
+    {
+      "data": "9 octombrie",
+      "nume": "Ziua Mondială a Poștei",
+      "observatii": ""
+    },
+    {
+      "data": "10 octombrie",
+      "nume": "Ziua Mondială a Sănătății Mintale",
+      "observatii": ""
+    },
+    {
+      "data": "11 octombrie",
+      "nume": "Ziua Școlii Ardelene",
+      "observatii": ""
+    },
+    {
+      "data": "17 octombrie",
+      "nume": "Ziua Internațională pentru Eradicarea Sărăciei",
+      "observatii": ""
+    },
+    {
+      "data": "24 octombrie",
+      "nume": "Ziua Națiunilor Unite",
+      "observatii": ""
+    },
+    {
+      "data": "25 octombrie",
+      "nume": "Ziua Armatei Române",
+      "observatii": "Nu este o sărbătoare publică națională, ci potrivit Decretului 381/1959, unde este declarată sub denumirea de „Ziua Forțelor Armate”, una „militară” și „populară”; zi de repaus pentru militari (cf. ibid.). Ținută de Armata Română, în aniversarea eliberării orașului Carei, ultimul oraș aflat sub ocupație în perioada celui de- Al Doilea Război Mondial."
+    },
+    {
+      "data": "11 noiembrie",
+      "nume": "Ziua Veteranilor",
+      "observatii": "Denumită inițial „Ziua Armistițiului”, data de 11 noiembrie marchează încheierea oficială a Primului Război Mondial."
+    },
+    {
+      "data": "14 noiembrie",
+      "nume": "Ziua Dobrogei",
+      "observatii": ""
+    },
+    {
+      "data": "14 noiembrie",
+      "nume": "Ziua Mondială a Diabetului",
+      "observatii": ""
+    },
+    {
+      "data": "16 noiembrie",
+      "nume": "Ziua Patrimoniului Mondial UNESCO din România",
+      "observatii": ""
+    },
+    {
+      "data": "16 noiembrie",
+      "nume": "Ziua Internațională a Toleranței",
+      "observatii": ""
+    },
+    {
+      "data": "19 noiembrie",
+      "nume": "Ziua Cercetătorului și Proiectantului din România",
+      "observatii": ""
+    },
+    {
+      "data": "19 noiembrie",
+      "nume": "Ziua Internațională a Bărbatului",
+      "observatii": ""
+    },
+    {
+      "data": "28 noiembrie",
+      "nume": "Ziua Bucovinei",
+      "observatii": "Unirea Bucovinei cu România"
+    },
+    {
+      "data": "A treia joi din noiembrie",
+      "nume": "Ziua Națională fără Tutun",
+      "observatii": ""
+    },
+    {
+      "data": "A treia duminică din noiembrie",
+      "nume": "Ziua Mondială de Comemorare a Victimelor Accidentelor de Circulație",
+      "observatii": ""
+    },
+    {
+      "data": "1 decembrie",
+      "nume": "Ziua Mondială de Combatere a SIDA",
+      "observatii": ""
+    },
+    {
+      "data": "2 decembrie",
+      "nume": "Ziua Internațională pentru Abolirea Sclaviei",
+      "observatii": ""
+    },
+    {
+      "data": "3 decembrie",
+      "nume": "Ziua Internațională a Persoanelor cu Dizabilități",
+      "observatii": ""
+    },
+    {
+      "data": "8 decembrie",
+      "nume": "Ziua Constituției României",
+      "observatii": ""
+    },
+    {
+      "data": "9 decembrie",
+      "nume": "Ziua Internațională Anticorupție",
+      "observatii": ""
+    },
+    {
+      "data": "10 decembrie",
+      "nume": "Ziua Drepturilor Omului",
+      "observatii": ""
+    },
+    {
+      "data": "13 decembrie",
+      "nume": "Sărbătorii Etniei Tătare din România",
+      "observatii": ""
+    },
+    {
+      "data": "16 decembrie",
+      "nume": "Ziua Solidarității Naționale împotriva Dictaturii",
+      "observatii": ""
+    },
+    {
+      "data": "18 decembrie",
+      "nume": "Ziua Minorităților Naționale din România",
+      "observatii": ""
+    },
+    {
+      "data": "20 decembrie",
+      "nume": "Ziua Internațională a Solidarității Umane",
+      "observatii": ""
+    },
+    {
+      "data": "21 decembrie",
+      "nume": "Ziua Memoriei Victimelor Comunismului în România",
+      "observatii": ""
+    },
+    {
+      "data": "22 decembrie",
+      "nume": "Ziua Victoriei Revoluției Române și a Libertății",
+      "observatii": ""
+    }
+  ],
+  "meta": {
+    "title": "Zile oficiale, comemorative și aniversare în România - Free Download",
+    "description": "Lista zilelor oficiale, comemorative și aniversare stabilite prin lege în România (care nu sunt zile libere), cu data și observații. Contains 109 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Zile oficiale, comemorative și aniversare în România | ListBase",
+    "seo_description": "Download Zile oficiale, comemorative și aniversare în România — 109 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 109 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Sărbători_publice_în_România"
+    ]
+  }
+}

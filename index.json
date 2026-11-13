@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-13T02:04:51.569Z",
-  "total_datasets": 504,
-  "total_records": 168503,
+  "generated": "2026-11-13T02:05:01.522Z",
+  "total_datasets": 505,
+  "total_records": 168612,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "tourism",
@@ -14011,6 +14011,30 @@
         "xlsx": {
           "name": "ro-sarbatori-multilingva_RO.xlsx",
           "size": 22116
+        }
+      }
+    },
+    {
+      "id": "ro-zile-oficiale-si-comemorative",
+      "name": "Zile oficiale, comemorative și aniversare în România",
+      "category": "time",
+      "record_count": 109,
+      "columns": [
+        "data",
+        "nume",
+        "observatii"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Sărbători_publice_în_România",
+      "updated": "2026-11",
+      "size": 15205,
+      "files": {
+        "csv": {
+          "name": "ro-zile-oficiale-si-comemorative_RO.csv",
+          "size": 6723
+        },
+        "xlsx": {
+          "name": "ro-zile-oficiale-si-comemorative_RO.xlsx",
+          "size": 10550
         }
       }
     },
