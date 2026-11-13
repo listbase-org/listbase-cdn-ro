@@ -1,0 +1,190 @@
+{
+  "id": "ro-cetati-moldovenesti",
+  "name": "Cetățile medievale ale Moldovei",
+  "title": "Cetățile medievale ale Moldovei",
+  "description": "Lista cetăților medievale ale Țării Moldovei, cu secolul în care au fost ridicate și statul (România, Republica Moldova, Ucraina) în care se află astăzi.",
+  "category": "history",
+  "source": "https://ro.wikipedia.org/wiki/Lista_cetăților_moldovenești",
+  "source_url": "https://ro.wikipedia.org/wiki/Lista_cetăților_moldovenești",
+  "updated": "2026-11",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "nr",
+      "label": "Nr",
+      "type": "number"
+    },
+    {
+      "key": "cetatea",
+      "label": "Cetatea",
+      "type": "string"
+    },
+    {
+      "key": "secolul_ridicarii",
+      "label": "Secolul Ridicarii",
+      "type": "string"
+    },
+    {
+      "key": "statul_actual",
+      "label": "Statul Actual",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nr": 1,
+      "cetatea": "Baia",
+      "secolul_ridicarii": "XIV",
+      "statul_actual": "România"
+    },
+    {
+      "nr": 2,
+      "cetatea": "Bârlad",
+      "secolul_ridicarii": "XII",
+      "statul_actual": "România"
+    },
+    {
+      "nr": 3,
+      "cetatea": "Cetatea Albă",
+      "secolul_ridicarii": "XIV",
+      "statul_actual": "Ucraina"
+    },
+    {
+      "nr": 4,
+      "cetatea": "Cetatea lui Iurghici (Palanca)",
+      "secolul_ridicarii": "XV",
+      "statul_actual": "Moldova"
+    },
+    {
+      "nr": 5,
+      "cetatea": "Chilia (Licostomo?)",
+      "secolul_ridicarii": "XV",
+      "statul_actual": "Ucraina"
+    },
+    {
+      "nr": 6,
+      "cetatea": "Costești",
+      "secolul_ridicarii": "XIII-XIV",
+      "statul_actual": "Moldova"
+    },
+    {
+      "nr": 7,
+      "cetatea": "Crăciuna",
+      "secolul_ridicarii": "XIV",
+      "statul_actual": "România"
+    },
+    {
+      "nr": 8,
+      "cetatea": "Fălciu (Falcin)",
+      "secolul_ridicarii": "XVIII",
+      "statul_actual": "România"
+    },
+    {
+      "nr": 9,
+      "cetatea": "Hmielov",
+      "secolul_ridicarii": "XIV",
+      "statul_actual": "Ucraina"
+    },
+    {
+      "nr": 10,
+      "cetatea": "Hotin",
+      "secolul_ridicarii": "XIV",
+      "statul_actual": "Ucraina"
+    },
+    {
+      "nr": 11,
+      "cetatea": "Iași",
+      "secolul_ridicarii": "XIV-XV",
+      "statul_actual": "România"
+    },
+    {
+      "nr": 12,
+      "cetatea": "Ismail (Smil)",
+      "secolul_ridicarii": "XV",
+      "statul_actual": "Ucraina"
+    },
+    {
+      "nr": 13,
+      "cetatea": "Neamț",
+      "secolul_ridicarii": "XIV",
+      "statul_actual": "România"
+    },
+    {
+      "nr": 14,
+      "cetatea": "Orhei",
+      "secolul_ridicarii": "XV",
+      "statul_actual": "Moldova"
+    },
+    {
+      "nr": 15,
+      "cetatea": "Roman (Cetatea Nouă)",
+      "secolul_ridicarii": "XV",
+      "statul_actual": "România"
+    },
+    {
+      "nr": 16,
+      "cetatea": "Roman (Cetatea Veche)",
+      "secolul_ridicarii": "XIV",
+      "statul_actual": "România"
+    },
+    {
+      "nr": 17,
+      "cetatea": "Siret",
+      "secolul_ridicarii": "",
+      "statul_actual": "România"
+    },
+    {
+      "nr": 18,
+      "cetatea": "Soroca",
+      "secolul_ridicarii": "XV",
+      "statul_actual": "Moldova"
+    },
+    {
+      "nr": 19,
+      "cetatea": "Suceava",
+      "secolul_ridicarii": "XIV",
+      "statul_actual": "România"
+    },
+    {
+      "nr": 20,
+      "cetatea": "Șcheia",
+      "secolul_ridicarii": "XIV",
+      "statul_actual": "România"
+    },
+    {
+      "nr": 21,
+      "cetatea": "Tatarbunar",
+      "secolul_ridicarii": "XVI-XVII",
+      "statul_actual": "Ucraina"
+    },
+    {
+      "nr": 22,
+      "cetatea": "Tighina",
+      "secolul_ridicarii": "XVI",
+      "statul_actual": "Moldova"
+    },
+    {
+      "nr": 23,
+      "cetatea": "Tintul (Toboc)",
+      "secolul_ridicarii": "XIV",
+      "statul_actual": "Ucraina"
+    },
+    {
+      "nr": 24,
+      "cetatea": "Țețina",
+      "secolul_ridicarii": "XIV",
+      "statul_actual": "Ucraina"
+    }
+  ],
+  "meta": {
+    "title": "Cetățile medievale ale Moldovei - Free Download",
+    "description": "Lista cetăților medievale ale Țării Moldovei, cu secolul în care au fost ridicate și statul (România, Republica Moldova, Ucraina) în care se află astăzi. Contains 24 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Cetățile medievale ale Moldovei | ListBase",
+    "seo_description": "Download Cetățile medievale ale Moldovei — 24 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 24 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Lista_cetăților_moldovenești"
+    ]
+  }
+}

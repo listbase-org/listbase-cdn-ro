@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-12T02:06:29.233Z",
-  "total_datasets": 501,
-  "total_records": 168394,
+  "generated": "2026-11-13T02:04:28.212Z",
+  "total_datasets": 502,
+  "total_records": 168418,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "language",
@@ -5935,6 +5935,31 @@
         "xlsx": {
           "name": "ro-cetati-dacice_RO.xlsx",
           "size": 8869
+        }
+      }
+    },
+    {
+      "id": "ro-cetati-moldovenesti",
+      "name": "Cetățile medievale ale Moldovei",
+      "category": "history",
+      "record_count": 24,
+      "columns": [
+        "nr",
+        "cetatea",
+        "secolul_ridicarii",
+        "statul_actual"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Lista_cetăților_moldovenești",
+      "updated": "2026-11",
+      "size": 4756,
+      "files": {
+        "csv": {
+          "name": "ro-cetati-moldovenesti_RO.csv",
+          "size": 891
+        },
+        "xlsx": {
+          "name": "ro-cetati-moldovenesti_RO.xlsx",
+          "size": 7484
         }
       }
     },
