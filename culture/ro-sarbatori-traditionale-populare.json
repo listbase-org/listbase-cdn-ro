@@ -1,0 +1,116 @@
+{
+  "id": "ro-sarbatori-traditionale-populare",
+  "name": "Sărbători tradiționale populare românești",
+  "title": "Sărbători tradiționale populare românești",
+  "description": "Lista sărbătorilor și obiceiurilor tradiționale din calendarul popular românesc (Dragobetele, Baba Dochia, Armindeni, Paparudele etc.), cu data la care se țin.",
+  "category": "culture",
+  "source": "https://ro.wikipedia.org/wiki/Sărbători_publice_în_România",
+  "source_url": "https://ro.wikipedia.org/wiki/Sărbători_publice_în_România",
+  "updated": "2026-11",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "data",
+      "label": "Data",
+      "type": "string"
+    },
+    {
+      "key": "sarbatoare",
+      "label": "Sarbatoare",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "data": "16 ianuarie",
+      "sarbatoare": "Sânpetru lupilor (sau Sânpetru de iarnă)"
+    },
+    {
+      "data": "17 ianuarie",
+      "sarbatoare": "Circovii de iarnă (sau Antanasiile)"
+    },
+    {
+      "data": "24 februarie",
+      "sarbatoare": "Dragobetele"
+    },
+    {
+      "data": "1 martie",
+      "sarbatoare": "Baba Dochia"
+    },
+    {
+      "data": "17 martie",
+      "sarbatoare": "Alexiile"
+    },
+    {
+      "data": "11 aprilie",
+      "sarbatoare": "Sărbătoarea dinților"
+    },
+    {
+      "data": "20 aprilie",
+      "sarbatoare": "Paparudele"
+    },
+    {
+      "data": "1 mai",
+      "sarbatoare": "Armindeni"
+    },
+    {
+      "data": "9 mai",
+      "sarbatoare": "Sfântul Nicolae de vară"
+    },
+    {
+      "data": "17 iulie",
+      "sarbatoare": "Marina"
+    },
+    {
+      "data": "21 iulie",
+      "sarbatoare": "Sfântul Ilie Pălie"
+    },
+    {
+      "data": "22 iulie",
+      "sarbatoare": "Opârlia (sau Sfântul Foca)"
+    },
+    {
+      "data": "27 iulie",
+      "sarbatoare": "Pinteleiu Călătorul"
+    },
+    {
+      "data": "11 noiembrie",
+      "sarbatoare": "Sărbătoarea tâlharilor"
+    },
+    {
+      "data": "",
+      "sarbatoare": "Joimărițele"
+    },
+    {
+      "data": "",
+      "sarbatoare": "Rusaliile"
+    },
+    {
+      "data": "",
+      "sarbatoare": "Marțolea (sau Marți-Seara)"
+    },
+    {
+      "data": "",
+      "sarbatoare": "Repotinii"
+    },
+    {
+      "data": "",
+      "sarbatoare": "Mărinii"
+    },
+    {
+      "data": "",
+      "sarbatoare": "Filipii"
+    }
+  ],
+  "meta": {
+    "title": "Sărbători tradiționale populare românești - Free Download",
+    "description": "Lista sărbătorilor și obiceiurilor tradiționale din calendarul popular românesc (Dragobetele, Baba Dochia, Armindeni, Paparudele etc.), cu data la care se țin. Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sărbători tradiționale populare românești | ListBase",
+    "seo_description": "Download Sărbători tradiționale populare românești — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Sărbători_publice_în_România"
+    ]
+  }
+}
