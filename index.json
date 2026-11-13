@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-13T02:04:40.806Z",
-  "total_datasets": 503,
-  "total_records": 168438,
+  "generated": "2026-11-13T02:04:51.569Z",
+  "total_datasets": 504,
+  "total_records": 168503,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "tech",
@@ -13681,6 +13681,36 @@
         "xlsx": {
           "name": "ro-canale-tv-sport_RO.xlsx",
           "size": 8500
+        }
+      }
+    },
+    {
+      "id": "ro-selectionerii-echipei-nationale-de-fotbal",
+      "name": "Selecționerii echipei naționale de fotbal a României",
+      "category": "sports",
+      "record_count": 65,
+      "columns": [
+        "antrenor",
+        "mandat",
+        "durata_zile",
+        "meciuri",
+        "victorii",
+        "egaluri",
+        "infrangeri",
+        "procent_victorii",
+        "competitii_majore"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Lista_antrenorilor_echipei_naționale_de_fotbal_a_României",
+      "updated": "2026-11",
+      "size": 21511,
+      "files": {
+        "csv": {
+          "name": "ro-selectionerii-echipei-nationale-de-fotbal_RO.csv",
+          "size": 6882
+        },
+        "xlsx": {
+          "name": "ro-selectionerii-echipei-nationale-de-fotbal_RO.xlsx",
+          "size": 11024
         }
       }
     },

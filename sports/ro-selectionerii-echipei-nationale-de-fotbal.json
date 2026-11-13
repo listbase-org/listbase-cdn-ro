@@ -1,0 +1,786 @@
+{
+  "id": "ro-selectionerii-echipei-nationale-de-fotbal",
+  "name": "Selecționerii echipei naționale de fotbal a României",
+  "title": "Selecționerii echipei naționale de fotbal a României",
+  "description": "Lista tuturor antrenorilor (selecționerilor) echipei naționale de fotbal a României din 1922 până azi, cu mandatul, numărul de meciuri, victorii, egaluri, înfrângeri și competițiile majore.",
+  "category": "sports",
+  "source": "https://ro.wikipedia.org/wiki/Lista_antrenorilor_echipei_naționale_de_fotbal_a_României",
+  "source_url": "https://ro.wikipedia.org/wiki/Lista_antrenorilor_echipei_naționale_de_fotbal_a_României",
+  "updated": "2026-11",
+  "record_count": 65,
+  "columns": [
+    {
+      "key": "antrenor",
+      "label": "Antrenor",
+      "type": "string"
+    },
+    {
+      "key": "mandat",
+      "label": "Mandat",
+      "type": "string"
+    },
+    {
+      "key": "durata_zile",
+      "label": "Durata Zile",
+      "type": "number"
+    },
+    {
+      "key": "meciuri",
+      "label": "Meciuri",
+      "type": "number"
+    },
+    {
+      "key": "victorii",
+      "label": "Victorii",
+      "type": "number"
+    },
+    {
+      "key": "egaluri",
+      "label": "Egaluri",
+      "type": "number"
+    },
+    {
+      "key": "infrangeri",
+      "label": "Infrangeri",
+      "type": "number"
+    },
+    {
+      "key": "procent_victorii",
+      "label": "Procent Victorii",
+      "type": "number"
+    },
+    {
+      "key": "competitii_majore",
+      "label": "Competitii Majore",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "antrenor": "Teofil Moraru",
+      "mandat": "1 iunie 1922–15 septembrie 1923",
+      "durata_zile": 471,
+      "meciuri": 5,
+      "victorii": 1,
+      "egaluri": 2,
+      "infrangeri": 2,
+      "procent_victorii": 20,
+      "competitii_majore": ""
+    },
+    {
+      "antrenor": "Constantin Rădulescu",
+      "mandat": "26 octombrie 1923",
+      "durata_zile": "",
+      "meciuri": 1,
+      "victorii": 0,
+      "egaluri": 1,
+      "infrangeri": 0,
+      "procent_victorii": 0,
+      "competitii_majore": ""
+    },
+    {
+      "antrenor": "Adrian Suciu",
+      "mandat": "mai 1923–iulie 1924",
+      "durata_zile": "",
+      "meciuri": 2,
+      "victorii": 0,
+      "egaluri": 0,
+      "infrangeri": 2,
+      "procent_victorii": 0,
+      "competitii_majore": "JO 1924 – Runda a doua"
+    },
+    {
+      "antrenor": "Teofil Moraru (2)",
+      "mandat": "1 iulie 1924–30 aprilie 1928",
+      "durata_zile": 1399,
+      "meciuri": 9,
+      "victorii": 5,
+      "egaluri": 1,
+      "infrangeri": 3,
+      "procent_victorii": 55.6,
+      "competitii_majore": ""
+    },
+    {
+      "antrenor": "Constantin Rădulescu (2)",
+      "mandat": "1 mai 1928–31 mai 1934",
+      "durata_zile": 2221,
+      "meciuri": 32,
+      "victorii": 20,
+      "egaluri": 1,
+      "infrangeri": 11,
+      "procent_victorii": 62.5,
+      "competitii_majore": "Campionatul Mondial 1930 – Faza grupelor Campionatul Mondial 1934 – Optimi de finală"
+    },
+    {
+      "antrenor": "Alexandru Săvulescu",
+      "mandat": "1 octombrie 1934–31 ianuarie 1935",
+      "durata_zile": 122,
+      "meciuri": 4,
+      "victorii": 1,
+      "egaluri": 2,
+      "infrangeri": 1,
+      "procent_victorii": 25,
+      "competitii_majore": ""
+    },
+    {
+      "antrenor": "Constantin Rădulescu (3)",
+      "mandat": "1 iunie 1935–31 decembrie 1938",
+      "durata_zile": 1309,
+      "meciuri": 24,
+      "victorii": 7,
+      "egaluri": 6,
+      "infrangeri": 11,
+      "procent_victorii": 29.2,
+      "competitii_majore": "Campionatul Mondial 1938 – Optimi de finală"
+    },
+    {
+      "antrenor": "Virgil Economu",
+      "mandat": "7 mai 1939–14 iulie 1940",
+      "durata_zile": 434,
+      "meciuri": 9,
+      "victorii": 2,
+      "egaluri": 2,
+      "infrangeri": 5,
+      "procent_victorii": 22.2,
+      "competitii_majore": ""
+    },
+    {
+      "antrenor": "Liviu Iuga",
+      "mandat": "15 septembrie–30 septembrie 1940",
+      "durata_zile": 15,
+      "meciuri": 1,
+      "victorii": 1,
+      "egaluri": 0,
+      "infrangeri": 0,
+      "procent_victorii": 100,
+      "competitii_majore": ""
+    },
+    {
+      "antrenor": "Virgil Economu (2)",
+      "mandat": "1 iunie–12 octombrie 1941",
+      "durata_zile": 434,
+      "meciuri": 2,
+      "victorii": 1,
+      "egaluri": 0,
+      "infrangeri": 1,
+      "procent_victorii": 50,
+      "competitii_majore": ""
+    },
+    {
+      "antrenor": "Ion Lăpușneanu",
+      "mandat": "16 august–11 octombrie 1942",
+      "durata_zile": 56,
+      "meciuri": 3,
+      "victorii": 0,
+      "egaluri": 1,
+      "infrangeri": 2,
+      "procent_victorii": 0,
+      "competitii_majore": ""
+    },
+    {
+      "antrenor": "Emerich Vogl",
+      "mandat": "1–30 iunie 1943",
+      "durata_zile": 29,
+      "meciuri": 1,
+      "victorii": 0,
+      "egaluri": 1,
+      "infrangeri": 0,
+      "procent_victorii": 0,
+      "competitii_majore": ""
+    },
+    {
+      "antrenor": "Coloman Braun-Bogdan",
+      "mandat": "28 septembrie–1 octombrie 1945",
+      "durata_zile": 3,
+      "meciuri": 1,
+      "victorii": 0,
+      "egaluri": 0,
+      "infrangeri": 1,
+      "procent_victorii": 0,
+      "competitii_majore": ""
+    },
+    {
+      "antrenor": "Virgil Economu (3)",
+      "mandat": "8–13 octombrie 1946",
+      "durata_zile": 5,
+      "meciuri": 3,
+      "victorii": 1,
+      "egaluri": 1,
+      "infrangeri": 1,
+      "procent_victorii": 33.3,
+      "competitii_majore": ""
+    },
+    {
+      "antrenor": "Colea Vâlcov",
+      "mandat": "1 mai 1947–31 decembrie 1949",
+      "durata_zile": 975,
+      "meciuri": 8,
+      "victorii": 5,
+      "egaluri": 0,
+      "infrangeri": 3,
+      "procent_victorii": 62.5,
+      "competitii_majore": ""
+    },
+    {
+      "antrenor": "Francisc Rónay",
+      "mandat": "21 septembrie 1947",
+      "durata_zile": "",
+      "meciuri": 1,
+      "victorii": 0,
+      "egaluri": 0,
+      "infrangeri": 1,
+      "procent_victorii": 0,
+      "competitii_majore": ""
+    },
+    {
+      "antrenor": "Petre Steinbach",
+      "mandat": "6 iunie 1948",
+      "durata_zile": "",
+      "meciuri": 1,
+      "victorii": 0,
+      "egaluri": 0,
+      "infrangeri": 1,
+      "procent_victorii": 0,
+      "competitii_majore": ""
+    },
+    {
+      "antrenor": "Iuliu Baratky",
+      "mandat": "1 iunie-31 octombrie 1948",
+      "durata_zile": 152,
+      "meciuri": 3,
+      "victorii": 2,
+      "egaluri": 1,
+      "infrangeri": 0,
+      "procent_victorii": 66.7,
+      "competitii_majore": ""
+    },
+    {
+      "antrenor": "Coloman Braun-Bogdan (2)",
+      "mandat": "23 octombrie 1949",
+      "durata_zile": "",
+      "meciuri": 1,
+      "victorii": 0,
+      "egaluri": 1,
+      "infrangeri": 0,
+      "procent_victorii": 0,
+      "competitii_majore": ""
+    },
+    {
+      "antrenor": "Gheorghe Albu",
+      "mandat": "14 mai 1950",
+      "durata_zile": "",
+      "meciuri": 1,
+      "victorii": 0,
+      "egaluri": 1,
+      "infrangeri": 0,
+      "procent_victorii": 0,
+      "competitii_majore": ""
+    },
+    {
+      "antrenor": "Emerich Vogl (2)",
+      "mandat": "15 mai 1950-14 mai 1952",
+      "durata_zile": 730,
+      "meciuri": 4,
+      "victorii": 2,
+      "egaluri": 2,
+      "infrangeri": 0,
+      "procent_victorii": 50,
+      "competitii_majore": ""
+    },
+    {
+      "antrenor": "Gheorghe Popescu",
+      "mandat": "15 mai 1952-12 octombrie 1953",
+      "durata_zile": 515,
+      "meciuri": 6,
+      "victorii": 4,
+      "egaluri": 0,
+      "infrangeri": 2,
+      "procent_victorii": 66.7,
+      "competitii_majore": "JO 1952 – Runda preliminară"
+    },
+    {
+      "antrenor": "Ștefan Dobay",
+      "mandat": "13 octombrie 1953-30 septembrie 1954",
+      "durata_zile": 352,
+      "meciuri": 3,
+      "victorii": 1,
+      "egaluri": 0,
+      "infrangeri": 2,
+      "procent_victorii": 33.3,
+      "competitii_majore": "Campionatul Mondial 1954 – Nu s-a calificat"
+    },
+    {
+      "antrenor": "Gheorghe Popescu (2)",
+      "mandat": "15 mai 1955-14 septembrie 1958",
+      "durata_zile": 1218,
+      "meciuri": 17,
+      "victorii": 6,
+      "egaluri": 4,
+      "infrangeri": 7,
+      "procent_victorii": 35.3,
+      "competitii_majore": "Campionatul Mondial 1958 – Nu s-a calificat"
+    },
+    {
+      "antrenor": "Augustin Botescu",
+      "mandat": "15 septembrie 1958-30 septembrie 1960",
+      "durata_zile": 746,
+      "meciuri": 7,
+      "victorii": 2,
+      "egaluri": 0,
+      "infrangeri": 5,
+      "procent_victorii": 28.6,
+      "competitii_majore": "CNE 1960 – Nu s-a calificat"
+    },
+    {
+      "antrenor": "Gheorghe Popescu (3)",
+      "mandat": "1 mai-31 octombrie 1961",
+      "durata_zile": 183,
+      "meciuri": 2,
+      "victorii": 2,
+      "egaluri": 0,
+      "infrangeri": 0,
+      "procent_victorii": 100,
+      "competitii_majore": ""
+    },
+    {
+      "antrenor": "Constantin Teașcă",
+      "mandat": "1 septembrie-1 noiembrie 1962",
+      "durata_zile": 61,
+      "meciuri": 3,
+      "victorii": 1,
+      "egaluri": 0,
+      "infrangeri": 2,
+      "procent_victorii": 33.3,
+      "competitii_majore": "CNE 1964 – Nu s-a calificat"
+    },
+    {
+      "antrenor": "Gheorghe Popescu (4)",
+      "mandat": "2 noiembrie-24 decembrie 1962",
+      "durata_zile": 52,
+      "meciuri": 2,
+      "victorii": 1,
+      "egaluri": 0,
+      "infrangeri": 1,
+      "procent_victorii": 50,
+      "competitii_majore": ""
+    },
+    {
+      "antrenor": "Silviu Ploeșteanu",
+      "mandat": "25 decembrie 1962-30 iunie 1964",
+      "durata_zile": 553,
+      "meciuri": 3,
+      "victorii": 1,
+      "egaluri": 2,
+      "infrangeri": 0,
+      "procent_victorii": 33.3,
+      "competitii_majore": ""
+    },
+    {
+      "antrenor": "Ilie Oană",
+      "mandat": "2 mai 1965-24 mai 1967",
+      "durata_zile": 752,
+      "meciuri": 19,
+      "victorii": 11,
+      "egaluri": 0,
+      "infrangeri": 8,
+      "procent_victorii": 57.9,
+      "competitii_majore": "Campionatul Mondial 1966 – Nu s-a calificat"
+    },
+    {
+      "antrenor": "Bazil Marian",
+      "mandat": "4 ianuarie 1967",
+      "durata_zile": "",
+      "meciuri": 1,
+      "victorii": 0,
+      "egaluri": 1,
+      "infrangeri": 0,
+      "procent_victorii": 0,
+      "competitii_majore": ""
+    },
+    {
+      "antrenor": "Angelo Niculescu",
+      "mandat": "1 iunie 1967-29 octombrie 1972",
+      "durata_zile": 1977,
+      "meciuri": 37,
+      "victorii": 12,
+      "egaluri": 17,
+      "infrangeri": 8,
+      "procent_victorii": 32.4,
+      "competitii_majore": "Euro 1968 – Nu s-a calificat Campionatul Mondial 1970 – Faza grupelor Euro 1972 – Nu s-a calificat"
+    },
+    {
+      "antrenor": "Constantin Teașcă (2)",
+      "mandat": "29 octombrie 1967",
+      "durata_zile": "",
+      "meciuri": 1,
+      "victorii": 0,
+      "egaluri": 1,
+      "infrangeri": 0,
+      "procent_victorii": 0,
+      "competitii_majore": ""
+    },
+    {
+      "antrenor": "Gheorghe Ola",
+      "mandat": "30 ianuarie-23 aprilie 1972",
+      "durata_zile": 84,
+      "meciuri": 2,
+      "victorii": 1,
+      "egaluri": 1,
+      "infrangeri": 0,
+      "procent_victorii": 50,
+      "competitii_majore": ""
+    },
+    {
+      "antrenor": "Valentin Stănescu",
+      "mandat": "18 aprilie 1973-3 decembrie 1975",
+      "durata_zile": 959,
+      "meciuri": 23,
+      "victorii": 7,
+      "egaluri": 11,
+      "infrangeri": 5,
+      "procent_victorii": 30.4,
+      "competitii_majore": "Campionatul Mondial 1974 – Nu s-a calificat Euro 1976 – Nu s-a calificat"
+    },
+    {
+      "antrenor": "Cornel Drăgușin",
+      "mandat": "17 decembrie 1975",
+      "durata_zile": "",
+      "meciuri": 1,
+      "victorii": 0,
+      "egaluri": 1,
+      "infrangeri": 0,
+      "procent_victorii": 0,
+      "competitii_majore": ""
+    },
+    {
+      "antrenor": "Ștefan Kovács",
+      "mandat": "24 martie 1976-29 august 1979",
+      "durata_zile": 1253,
+      "meciuri": 29,
+      "victorii": 10,
+      "egaluri": 8,
+      "infrangeri": 11,
+      "procent_victorii": 34.5,
+      "competitii_majore": "Campionatul Mondial 1978 – Nu s-a calificat"
+    },
+    {
+      "antrenor": "Florin Halagian",
+      "mandat": "13 mai 1979",
+      "durata_zile": "",
+      "meciuri": 1,
+      "victorii": 0,
+      "egaluri": 1,
+      "infrangeri": 0,
+      "procent_victorii": 0,
+      "competitii_majore": ""
+    },
+    {
+      "antrenor": "Constantin Cernăianu",
+      "mandat": "14 octombrie 1979-27 aprilie 1980",
+      "durata_zile": 196,
+      "meciuri": 6,
+      "victorii": 1,
+      "egaluri": 1,
+      "infrangeri": 4,
+      "procent_victorii": 16.7,
+      "competitii_majore": "Euro 1980 – Nu s-a calificat"
+    },
+    {
+      "antrenor": "Ștefan Kovács (2)",
+      "mandat": "18 mai 1980",
+      "durata_zile": "",
+      "meciuri": 1,
+      "victorii": 0,
+      "egaluri": 1,
+      "infrangeri": 0,
+      "procent_victorii": 0,
+      "competitii_majore": ""
+    },
+    {
+      "antrenor": "Valentin Stănescu (2)",
+      "mandat": "7 iunie 1980-23 septembrie 1981",
+      "durata_zile": 473,
+      "meciuri": 13,
+      "victorii": 5,
+      "egaluri": 3,
+      "infrangeri": 5,
+      "procent_victorii": 38.5,
+      "competitii_majore": ""
+    },
+    {
+      "antrenor": "Ștefan Kovács (3)",
+      "mandat": "10 octombrie 1981",
+      "durata_zile": "",
+      "meciuri": 1,
+      "victorii": 0,
+      "egaluri": 0,
+      "infrangeri": 1,
+      "procent_victorii": 0,
+      "competitii_majore": ""
+    },
+    {
+      "antrenor": "Mircea Lucescu",
+      "mandat": "1 noiembrie 1981-2 octombrie 1986",
+      "durata_zile": 1796,
+      "meciuri": 58,
+      "victorii": 24,
+      "egaluri": 19,
+      "infrangeri": 15,
+      "procent_victorii": 41.4,
+      "competitii_majore": "Campionatul Mondial 1982 – Nu s-a calificat Euro 1984 – Faza grupelor Campionatul Mondial 1986 – Nu s-a calificat"
+    },
+    {
+      "antrenor": "Emeric Jenei",
+      "mandat": "1 octombrie 1986-30 iunie 1990",
+      "durata_zile": 1368,
+      "meciuri": 38,
+      "victorii": 18,
+      "egaluri": 11,
+      "infrangeri": 9,
+      "procent_victorii": 47.4,
+      "competitii_majore": "Euro 1988 – Nu s-a calificat Campionatul Mondial 1990 – Optimi de finală"
+    },
+    {
+      "antrenor": "Gheorghe Constantin",
+      "mandat": "15 august-31 octombrie 1990",
+      "durata_zile": 77,
+      "meciuri": 4,
+      "victorii": 2,
+      "egaluri": 0,
+      "infrangeri": 2,
+      "procent_victorii": 50,
+      "competitii_majore": ""
+    },
+    {
+      "antrenor": "Mircea Rădulescu",
+      "mandat": "5 decembrie 1990-15 februarie 1992",
+      "durata_zile": 437,
+      "meciuri": 16,
+      "victorii": 7,
+      "egaluri": 3,
+      "infrangeri": 6,
+      "procent_victorii": 43.8,
+      "competitii_majore": "Euro 1992 – Nu s-a calificat"
+    },
+    {
+      "antrenor": "Cornel Dinu",
+      "mandat": "8 aprilie 1992-2 iunie 1993",
+      "durata_zile": 420,
+      "meciuri": 13,
+      "victorii": 7,
+      "egaluri": 2,
+      "infrangeri": 4,
+      "procent_victorii": 53.8,
+      "competitii_majore": ""
+    },
+    {
+      "antrenor": "Anghel Iordănescu",
+      "mandat": "8 septembrie 1993-31 iulie 1998",
+      "durata_zile": 1787,
+      "meciuri": 57,
+      "victorii": 34,
+      "egaluri": 12,
+      "infrangeri": 11,
+      "procent_victorii": 59.6,
+      "competitii_majore": "Campionatul Mondial 1994 – Sferturi de finală Euro 1996 – Faza grupelor Campionatul Mondial 1998 – Optimi de finală"
+    },
+    {
+      "antrenor": "Victor Pițurcă",
+      "mandat": "1 august 1998-1 decembrie 1999",
+      "durata_zile": 487,
+      "meciuri": 16,
+      "victorii": 9,
+      "egaluri": 6,
+      "infrangeri": 1,
+      "procent_victorii": 56.3,
+      "competitii_majore": "Euro 2000 – Calificare"
+    },
+    {
+      "antrenor": "Emeric Jenei (2)",
+      "mandat": "1 ianuarie-30 iunie 2000",
+      "durata_zile": 181,
+      "meciuri": 11,
+      "victorii": 4,
+      "egaluri": 2,
+      "infrangeri": 5,
+      "procent_victorii": 36.4,
+      "competitii_majore": "Euro 2000 – Sferturi de finală"
+    },
+    {
+      "antrenor": "Ladislau Bölöni",
+      "mandat": "1 iulie 2000-30 iunie 2001",
+      "durata_zile": 364,
+      "meciuri": 13,
+      "victorii": 8,
+      "egaluri": 2,
+      "infrangeri": 3,
+      "procent_victorii": 61.5,
+      "competitii_majore": ""
+    },
+    {
+      "antrenor": "Gavril Balint",
+      "mandat": "15 august 2001",
+      "durata_zile": "",
+      "meciuri": 1,
+      "victorii": 0,
+      "egaluri": 1,
+      "infrangeri": 0,
+      "procent_victorii": 0,
+      "competitii_majore": ""
+    },
+    {
+      "antrenor": "Gheorghe Hagi",
+      "mandat": "5 septembrie-27 noiembrie 2001",
+      "durata_zile": 87,
+      "meciuri": 4,
+      "victorii": 1,
+      "egaluri": 2,
+      "infrangeri": 1,
+      "procent_victorii": 25,
+      "competitii_majore": "Campionatul Mondial 2002 – Nu s-a calificat"
+    },
+    {
+      "antrenor": "Anghel Iordănescu (2)",
+      "mandat": "18 decembrie 2001-19 noiembrie 2004",
+      "durata_zile": 1067,
+      "meciuri": 27,
+      "victorii": 11,
+      "egaluri": 4,
+      "infrangeri": 12,
+      "procent_victorii": 40.7,
+      "competitii_majore": "Euro 2004 – Nu s-a calificat"
+    },
+    {
+      "antrenor": "Victor Pițurcă (2)",
+      "mandat": "10 decembrie 2004-9 aprilie 2009",
+      "durata_zile": 1581,
+      "meciuri": 46,
+      "victorii": 27,
+      "egaluri": 7,
+      "infrangeri": 12,
+      "procent_victorii": 58.7,
+      "competitii_majore": "Campionatul Mondial 2006 – Nu s-a calificat Euro 2008 – Faza grupelor Campionatul Mondial 2010 – Nu s-a calificat"
+    },
+    {
+      "antrenor": "Răzvan Lucescu",
+      "mandat": "29 aprilie 2009-4 iunie 2011",
+      "durata_zile": 766,
+      "meciuri": 21,
+      "victorii": 7,
+      "egaluri": 7,
+      "infrangeri": 7,
+      "procent_victorii": 33.3,
+      "competitii_majore": ""
+    },
+    {
+      "antrenor": "Ștefan Iovan",
+      "mandat": "7-11 iunie 2011",
+      "durata_zile": 5,
+      "meciuri": 2,
+      "victorii": 0,
+      "egaluri": 0,
+      "infrangeri": 2,
+      "procent_victorii": 0,
+      "competitii_majore": ""
+    },
+    {
+      "antrenor": "Victor Pițurcă (3)",
+      "mandat": "14 iunie 2011-16 octombrie 2014",
+      "durata_zile": 1220,
+      "meciuri": 34,
+      "victorii": 17,
+      "egaluri": 10,
+      "infrangeri": 7,
+      "procent_victorii": 50,
+      "competitii_majore": "Euro 2012 – Nu s-a calificat Campionatul Mondial 2014 – Nu s-a calificat"
+    },
+    {
+      "antrenor": "Anghel Iordănescu (3)",
+      "mandat": "27 octombrie 2014-30 iunie 2016",
+      "durata_zile": 612,
+      "meciuri": 17,
+      "victorii": 6,
+      "egaluri": 8,
+      "infrangeri": 3,
+      "procent_victorii": 35.3,
+      "competitii_majore": "Euro 2016 – Faza grupelor"
+    },
+    {
+      "antrenor": "Christoph Daum",
+      "mandat": "7 iulie 2016-14 septembrie 2017",
+      "durata_zile": 434,
+      "meciuri": 10,
+      "victorii": 3,
+      "egaluri": 3,
+      "infrangeri": 4,
+      "procent_victorii": 30,
+      "competitii_majore": "Campionatul Mondial 2018 – Nu s-a calificat"
+    },
+    {
+      "antrenor": "Cosmin Contra",
+      "mandat": "22 septembrie 2017-18 noiembrie 2019",
+      "durata_zile": 787,
+      "meciuri": 24,
+      "victorii": 13,
+      "egaluri": 6,
+      "infrangeri": 5,
+      "procent_victorii": 54.2,
+      "competitii_majore": "Euro 2020 – Nu s-a calificat"
+    },
+    {
+      "antrenor": "Mirel Rădoi",
+      "mandat": "26 noiembrie 2019-30 noiembrie 2021",
+      "durata_zile": 735,
+      "meciuri": 20,
+      "victorii": 9,
+      "egaluri": 3,
+      "infrangeri": 8,
+      "procent_victorii": 45,
+      "competitii_majore": "Euro 2020 – Nu s-a calificat Campionatul Mondial 2022 – Nu s-a calificat"
+    },
+    {
+      "antrenor": "Edward Iordănescu",
+      "mandat": "26 ianuarie 2022-22 iulie 2024",
+      "durata_zile": 908,
+      "meciuri": 28,
+      "victorii": 10,
+      "egaluri": 10,
+      "infrangeri": 8,
+      "procent_victorii": 35.7,
+      "competitii_majore": "Euro 2024 – Optimi de finală"
+    },
+    {
+      "antrenor": "Mircea Lucescu (2)",
+      "mandat": "6 august 2024-2 aprilie 2026",
+      "durata_zile": 604,
+      "meciuri": 18,
+      "victorii": 11,
+      "egaluri": 1,
+      "infrangeri": 6,
+      "procent_victorii": 61.1,
+      "competitii_majore": "Campionatul Mondial 2026 – Nu s-a calificat"
+    },
+    {
+      "antrenor": "Gheorghe Hagi (2)",
+      "mandat": "20 aprilie 2026-prezent",
+      "durata_zile": "",
+      "meciuri": 6,
+      "victorii": 1,
+      "egaluri": 1,
+      "infrangeri": 4,
+      "procent_victorii": 16.7,
+      "competitii_majore": ""
+    }
+  ],
+  "meta": {
+    "title": "Selecționerii echipei naționale de fotbal a României - Free Download",
+    "description": "Lista tuturor antrenorilor (selecționerilor) echipei naționale de fotbal a României din 1922 până azi, cu mandatul, numărul de meciuri, victorii, egaluri, înfrângeri și competițiile majore. Contains 65 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Selecționerii echipei naționale de fotbal a României | ListBase",
+    "seo_description": "Download Selecționerii echipei naționale de fotbal a României — 65 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 65 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Lista_antrenorilor_echipei_naționale_de_fotbal_a_României"
+    ]
+  }
+}
