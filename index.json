@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-14T02:05:10.109Z",
-  "total_datasets": 506,
-  "total_records": 168620,
+  "generated": "2026-11-14T02:05:22.307Z",
+  "total_datasets": 507,
+  "total_records": 168629,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "music",
@@ -6286,6 +6286,32 @@
         "xlsx": {
           "name": "ro-curti-de-apel_RO.xlsx",
           "size": 7649
+        }
+      }
+    },
+    {
+      "id": "ro-judecatorii-curtii-constitutionale",
+      "name": "Judecătorii Curții Constituționale a României (componența actuală)",
+      "category": "law",
+      "record_count": 9,
+      "columns": [
+        "judecator",
+        "numit_de",
+        "inceput_mandat",
+        "final_mandat",
+        "presedinte_ccr"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Curtea_Constituțională_a_României",
+      "updated": "2026-11",
+      "size": 3624,
+      "files": {
+        "csv": {
+          "name": "ro-judecatorii-curtii-constitutionale_RO.csv",
+          "size": 579
+        },
+        "xlsx": {
+          "name": "ro-judecatorii-curtii-constitutionale_RO.xlsx",
+          "size": 7114
         }
       }
     },

@@ -1,0 +1,114 @@
+{
+  "id": "ro-judecatorii-curtii-constitutionale",
+  "name": "Judecătorii Curții Constituționale a României (componența actuală)",
+  "title": "Judecătorii Curții Constituționale a României (componența actuală)",
+  "description": "Componența actuală a Curții Constituționale a României: cei nouă judecători, autoritatea care i-a numit (Senat, Camera Deputaților, Președinte) și perioada mandatului.",
+  "category": "law",
+  "source": "https://ro.wikipedia.org/wiki/Curtea_Constituțională_a_României",
+  "source_url": "https://ro.wikipedia.org/wiki/Curtea_Constituțională_a_României",
+  "updated": "2026-11",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "judecator",
+      "label": "Judecator",
+      "type": "string"
+    },
+    {
+      "key": "numit_de",
+      "label": "Numit De",
+      "type": "string"
+    },
+    {
+      "key": "inceput_mandat",
+      "label": "Inceput Mandat",
+      "type": "number"
+    },
+    {
+      "key": "final_mandat",
+      "label": "Final Mandat",
+      "type": "number"
+    },
+    {
+      "key": "presedinte_ccr",
+      "label": "Presedinte Ccr",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "judecator": "Mihai Busuioc",
+      "numit_de": "Senat",
+      "inceput_mandat": 2025,
+      "final_mandat": 2034,
+      "presedinte_ccr": "nu"
+    },
+    {
+      "judecator": "Cristian Deliorga",
+      "numit_de": "Senat",
+      "inceput_mandat": 2019,
+      "final_mandat": 2028,
+      "presedinte_ccr": "nu"
+    },
+    {
+      "judecator": "Laura-Iuliana Scântei",
+      "numit_de": "Senat",
+      "inceput_mandat": 2022,
+      "final_mandat": 2031,
+      "presedinte_ccr": "nu"
+    },
+    {
+      "judecator": "Csaba Asztalos",
+      "numit_de": "Camera Deputaților",
+      "inceput_mandat": 2025,
+      "final_mandat": 2034,
+      "presedinte_ccr": "nu"
+    },
+    {
+      "judecator": "Gheorghe Stan",
+      "numit_de": "Camera Deputaților",
+      "inceput_mandat": 2019,
+      "final_mandat": 2028,
+      "presedinte_ccr": "nu"
+    },
+    {
+      "judecator": "Bogdan Licu",
+      "numit_de": "Camera Deputaților",
+      "inceput_mandat": 2022,
+      "final_mandat": 2031,
+      "presedinte_ccr": "nu"
+    },
+    {
+      "judecator": "Dacian Dragoș",
+      "numit_de": "Președintele României",
+      "inceput_mandat": 2025,
+      "final_mandat": 2034,
+      "presedinte_ccr": "nu"
+    },
+    {
+      "judecator": "Simina Tănăsescu",
+      "numit_de": "Președintele României",
+      "inceput_mandat": 2019,
+      "final_mandat": 2028,
+      "presedinte_ccr": "da"
+    },
+    {
+      "judecator": "Mihaela Ciochină",
+      "numit_de": "Președintele României",
+      "inceput_mandat": 2022,
+      "final_mandat": 2031,
+      "presedinte_ccr": "nu"
+    }
+  ],
+  "meta": {
+    "title": "Judecătorii Curții Constituționale a României (componența actuală) - Free Download",
+    "description": "Componența actuală a Curții Constituționale a României: cei nouă judecători, autoritatea care i-a numit (Senat, Camera Deputaților, Președinte) și perioada mandatului. Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Judecătorii Curții Constituționale a României (componența actuală) | ListBase",
+    "seo_description": "Download Judecătorii Curții Constituționale a României (componența actuală) — 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Curtea_Constituțională_a_României"
+    ]
+  }
+}
