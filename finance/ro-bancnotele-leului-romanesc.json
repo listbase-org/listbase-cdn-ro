@@ -1,0 +1,107 @@
+{
+  "id": "ro-bancnotele-leului-romanesc",
+  "name": "Bancnotele leului românesc în circulație",
+  "title": "Bancnotele leului românesc în circulație",
+  "description": "Bancnotele aflate în circulație în România (1–500 lei): dimensiune, culoare predominantă și elementele de pe față și verso.",
+  "category": "finance",
+  "source": "https://ro.wikipedia.org/wiki/Leu_românesc",
+  "source_url": "https://ro.wikipedia.org/wiki/Leu_românesc",
+  "updated": "2026-11",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "valoare",
+      "label": "Valoare",
+      "type": "string"
+    },
+    {
+      "key": "dimensiune_mm",
+      "label": "Dimensiune Mm",
+      "type": "string"
+    },
+    {
+      "key": "culoare_predominanta",
+      "label": "Culoare Predominanta",
+      "type": "string"
+    },
+    {
+      "key": "fata",
+      "label": "Fata",
+      "type": "string"
+    },
+    {
+      "key": "verso",
+      "label": "Verso",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "valoare": "1 leu",
+      "dimensiune_mm": "120 × 62",
+      "culoare_predominanta": "verde",
+      "fata": "portretul istoricului Nicolae Iorga",
+      "verso": "Mănăstirea Curtea de Argeș precum și stema Țării Românești"
+    },
+    {
+      "valoare": "5 lei",
+      "dimensiune_mm": "127 × 67",
+      "culoare_predominanta": "violet",
+      "fata": "portretul compozitorului George Enescu și o garoafă",
+      "verso": "Ateneul Român precum și un pian și un fragment de partitură muzicală"
+    },
+    {
+      "valoare": "10 lei",
+      "dimensiune_mm": "133 × 72",
+      "culoare_predominanta": "roșu",
+      "fata": "portretul pictorului Nicolae Grigorescu și flori de nalbe",
+      "verso": "o casă țărănească din județul Vâlcea și un fragment dintr-o pictură de-a sa"
+    },
+    {
+      "valoare": "20 lei",
+      "dimensiune_mm": "136 × 77",
+      "culoare_predominanta": "verde oliv",
+      "fata": "portretul eroinei Ecaterina Teodoroiu",
+      "verso": "Mausoleul de la Mărășești și o reprezentare a Victoriei înaripate de pe Medalia Victoriei"
+    },
+    {
+      "valoare": "50 lei",
+      "dimensiune_mm": "140 × 77",
+      "culoare_predominanta": "galben",
+      "fata": "portretul aviatorului și inventatorului Aurel Vlaicu",
+      "verso": "Avionul Vlaicu II și un cap de vultur"
+    },
+    {
+      "valoare": "100 lei",
+      "dimensiune_mm": "147 × 82",
+      "culoare_predominanta": "albastru",
+      "fata": "portretul scriitorului Ion Luca Caragiale",
+      "verso": "o statuie a sa și vechea clădire a Teatrului Național din București"
+    },
+    {
+      "valoare": "200 lei",
+      "dimensiune_mm": "150 × 82",
+      "culoare_predominanta": "portocaliu",
+      "fata": "portretul scriitorului și filosofului Lucian Blaga",
+      "verso": "Gânditorul de la Hamangia și o veche moară de apă"
+    },
+    {
+      "valoare": "500 lei",
+      "dimensiune_mm": "153 × 82",
+      "culoare_predominanta": "gri",
+      "fata": "portretul poetului Mihai Eminescu",
+      "verso": "o pagină din ziarul „Timpul”, un tei, și clădirea Bibliotecii Centrale Universitare din Iași"
+    }
+  ],
+  "meta": {
+    "title": "Bancnotele leului românesc în circulație - Free Download",
+    "description": "Bancnotele aflate în circulație în România (1–500 lei): dimensiune, culoare predominantă și elementele de pe față și verso. Contains 8 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Bancnotele leului românesc în circulație | ListBase",
+    "seo_description": "Download Bancnotele leului românesc în circulație — 8 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 8 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Leu_românesc"
+    ]
+  }
+}

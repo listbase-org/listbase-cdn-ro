@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-13T02:05:01.522Z",
-  "total_datasets": 505,
-  "total_records": 168612,
+  "generated": "2026-11-14T02:05:10.109Z",
+  "total_datasets": 506,
+  "total_records": 168620,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 15
+      "dataset_count": 16
     },
     {
       "id": "food",
@@ -2348,6 +2348,32 @@
         "xlsx": {
           "name": "ro-arad-banci_RO.xlsx",
           "size": 6987
+        }
+      }
+    },
+    {
+      "id": "ro-bancnotele-leului-romanesc",
+      "name": "Bancnotele leului românesc în circulație",
+      "category": "finance",
+      "record_count": 8,
+      "columns": [
+        "valoare",
+        "dimensiune_mm",
+        "culoare_predominanta",
+        "fata",
+        "verso"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Leu_românesc",
+      "updated": "2026-11",
+      "size": 3882,
+      "files": {
+        "csv": {
+          "name": "ro-bancnotele-leului-romanesc_RO.csv",
+          "size": 1301
+        },
+        "xlsx": {
+          "name": "ro-bancnotele-leului-romanesc_RO.xlsx",
+          "size": 7568
         }
       }
     },
