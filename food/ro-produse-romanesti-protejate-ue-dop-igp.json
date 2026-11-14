@@ -1,0 +1,322 @@
+{
+  "id": "ro-produse-romanesti-protejate-ue-dop-igp",
+  "name": "Produse alimentare și băuturi spirtoase românești protejate în UE (DOP/IGP)",
+  "title": "Produse alimentare și băuturi spirtoase românești protejate în UE (DOP/IGP)",
+  "description": "Lista produselor alimentare și băuturilor spirtoase din România înregistrate în registrul UE al indicațiilor geografice (eAmbrosia): denumire, tip de protecție (DOP/IGP), stadiu și data înregistrării.",
+  "category": "food",
+  "source": "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/",
+  "source_url": "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/",
+  "updated": "2026-11",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "denumire",
+      "label": "Denumire",
+      "type": "string"
+    },
+    {
+      "key": "alte_denumiri",
+      "label": "Alte Denumiri",
+      "type": "string"
+    },
+    {
+      "key": "tip_protectie",
+      "label": "Tip Protectie",
+      "type": "string"
+    },
+    {
+      "key": "categorie_produs",
+      "label": "Categorie Produs",
+      "type": "string"
+    },
+    {
+      "key": "stadiu",
+      "label": "Stadiu",
+      "type": "string"
+    },
+    {
+      "key": "numar_dosar",
+      "label": "Numar Dosar",
+      "type": "string"
+    },
+    {
+      "key": "data_inregistrarii",
+      "label": "Data Inregistrarii",
+      "type": "date"
+    }
+  ],
+  "rows": [
+    {
+      "denumire": "Babic de Buzău",
+      "alte_denumiri": "",
+      "tip_protectie": "IGP",
+      "categorie_produs": "Produs alimentar",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PGI-RO-03000",
+      "data_inregistrarii": "2026-06-11"
+    },
+    {
+      "denumire": "Batog de sturion",
+      "alte_denumiri": "",
+      "tip_protectie": "IGP",
+      "categorie_produs": "Produs alimentar",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PGI-RO-02979",
+      "data_inregistrarii": "2026-02-18"
+    },
+    {
+      "denumire": "Bere Sadu",
+      "alte_denumiri": "",
+      "tip_protectie": "IGP",
+      "categorie_produs": "Produs alimentar",
+      "stadiu": "publicat",
+      "numar_dosar": "PGI-RO-03386",
+      "data_inregistrarii": ""
+    },
+    {
+      "denumire": "Brânză de burduf de Ibăneşti",
+      "alte_denumiri": "",
+      "tip_protectie": "IGP",
+      "categorie_produs": "Produs alimentar",
+      "stadiu": "cerere depusă",
+      "numar_dosar": "PGI-RO-03544",
+      "data_inregistrarii": ""
+    },
+    {
+      "denumire": "Brânză frământată de Teaca",
+      "alte_denumiri": "",
+      "tip_protectie": "IGP",
+      "categorie_produs": "Produs alimentar",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PGI-RO-03380",
+      "data_inregistrarii": "2026-09-09"
+    },
+    {
+      "denumire": "Caşcaval de Săveni",
+      "alte_denumiri": "",
+      "tip_protectie": "IGP",
+      "categorie_produs": "Produs alimentar",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PGI-RO-02361",
+      "data_inregistrarii": "2021-04-22"
+    },
+    {
+      "denumire": "Cârnaţi de Pleşcoi",
+      "alte_denumiri": "",
+      "tip_protectie": "IGP",
+      "categorie_produs": "Produs alimentar",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PGI-RO-02174",
+      "data_inregistrarii": "2019-10-04"
+    },
+    {
+      "denumire": "Cârnați din topor din Vâlcea",
+      "alte_denumiri": "",
+      "tip_protectie": "IGP",
+      "categorie_produs": "Produs alimentar",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PGI-RO-03263",
+      "data_inregistrarii": "2025-11-11"
+    },
+    {
+      "denumire": "Magiun de prune Topoloveni",
+      "alte_denumiri": "",
+      "tip_protectie": "IGP",
+      "categorie_produs": "Produs alimentar",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PGI-RO-0763",
+      "data_inregistrarii": "2011-04-08"
+    },
+    {
+      "denumire": "Novac afumat din Ţara Bârsei",
+      "alte_denumiri": "",
+      "tip_protectie": "IGP",
+      "categorie_produs": "Produs alimentar",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PGI-RO-01183",
+      "data_inregistrarii": "2017-04-06"
+    },
+    {
+      "denumire": "Pită de Pecica",
+      "alte_denumiri": "",
+      "tip_protectie": "IGP",
+      "categorie_produs": "Produs alimentar",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PGI-RO-02826",
+      "data_inregistrarii": "2023-06-26"
+    },
+    {
+      "denumire": "Plăcintă dobrogeană",
+      "alte_denumiri": "",
+      "tip_protectie": "IGP",
+      "categorie_produs": "Produs alimentar",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PGI-RO-02510",
+      "data_inregistrarii": "2023-03-30"
+    },
+    {
+      "denumire": "Salam Poiana Mărului",
+      "alte_denumiri": "",
+      "tip_protectie": "IGP",
+      "categorie_produs": "Produs alimentar",
+      "stadiu": "publicat",
+      "numar_dosar": "PGI-RO-03383",
+      "data_inregistrarii": ""
+    },
+    {
+      "denumire": "Salam de Sibiu",
+      "alte_denumiri": "",
+      "tip_protectie": "IGP",
+      "categorie_produs": "Produs alimentar",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PGI-RO-01280",
+      "data_inregistrarii": "2016-02-19"
+    },
+    {
+      "denumire": "Salată cu icre de știucă de Tulcea",
+      "alte_denumiri": "",
+      "tip_protectie": "IGP",
+      "categorie_produs": "Produs alimentar",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PGI-RO-02476",
+      "data_inregistrarii": "2021-06-04"
+    },
+    {
+      "denumire": "Salinate de Turda",
+      "alte_denumiri": "",
+      "tip_protectie": "IGP",
+      "categorie_produs": "Produs alimentar",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PGI-RO-02825",
+      "data_inregistrarii": "2023-11-03"
+    },
+    {
+      "denumire": "Scrumbie de Dunăre afumată",
+      "alte_denumiri": "",
+      "tip_protectie": "IGP",
+      "categorie_produs": "Produs alimentar",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PGI-RO-02234",
+      "data_inregistrarii": "2018-12-03"
+    },
+    {
+      "denumire": "Telemea de Ibăneşti",
+      "alte_denumiri": "",
+      "tip_protectie": "DOP",
+      "categorie_produs": "Produs alimentar",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PDO-RO-01182",
+      "data_inregistrarii": "2016-03-15"
+    },
+    {
+      "denumire": "Telemea de Sibiu",
+      "alte_denumiri": "",
+      "tip_protectie": "IGP",
+      "categorie_produs": "Produs alimentar",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PGI-RO-02473",
+      "data_inregistrarii": "2019-10-16"
+    },
+    {
+      "denumire": "Horincă de Cămârzana",
+      "alte_denumiri": "",
+      "tip_protectie": "IGP",
+      "categorie_produs": "Băutură spirtoasă",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PGI-RO-02004",
+      "data_inregistrarii": "2005-06-21"
+    },
+    {
+      "denumire": "Pălincă",
+      "alte_denumiri": "",
+      "tip_protectie": "IGP",
+      "categorie_produs": "Băutură spirtoasă",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PGI-RO-02005",
+      "data_inregistrarii": "2008-02-13"
+    },
+    {
+      "denumire": "Vinars Murfatlar",
+      "alte_denumiri": "",
+      "tip_protectie": "IGP",
+      "categorie_produs": "Băutură spirtoasă",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PGI-RO-02000",
+      "data_inregistrarii": "2005-06-21"
+    },
+    {
+      "denumire": "Vinars Segarcea",
+      "alte_denumiri": "",
+      "tip_protectie": "IGP",
+      "categorie_produs": "Băutură spirtoasă",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PGI-RO-02006",
+      "data_inregistrarii": "2005-06-21"
+    },
+    {
+      "denumire": "Vinars Târnave",
+      "alte_denumiri": "",
+      "tip_protectie": "IGP",
+      "categorie_produs": "Băutură spirtoasă",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PGI-RO-02007",
+      "data_inregistrarii": "2005-06-21"
+    },
+    {
+      "denumire": "Vinars Vaslui",
+      "alte_denumiri": "",
+      "tip_protectie": "IGP",
+      "categorie_produs": "Băutură spirtoasă",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PGI-RO-02012",
+      "data_inregistrarii": "2005-06-21"
+    },
+    {
+      "denumire": "Vinars Vrancea",
+      "alte_denumiri": "",
+      "tip_protectie": "IGP",
+      "categorie_produs": "Băutură spirtoasă",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PGI-RO-02011",
+      "data_inregistrarii": "2005-06-21"
+    },
+    {
+      "denumire": "Țuică Zetea de Medieșu Aurit",
+      "alte_denumiri": "",
+      "tip_protectie": "IGP",
+      "categorie_produs": "Băutură spirtoasă",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PGI-RO-02001",
+      "data_inregistrarii": "2005-06-21"
+    },
+    {
+      "denumire": "Țuică de Argeș",
+      "alte_denumiri": "",
+      "tip_protectie": "IGP",
+      "categorie_produs": "Băutură spirtoasă",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PGI-RO-02003",
+      "data_inregistrarii": "2005-06-21"
+    },
+    {
+      "denumire": "Țuică de prune Sordony de Horezu",
+      "alte_denumiri": "",
+      "tip_protectie": "IGP",
+      "categorie_produs": "Băutură spirtoasă",
+      "stadiu": "cerere depusă",
+      "numar_dosar": "PGI-RO-03377",
+      "data_inregistrarii": ""
+    }
+  ],
+  "meta": {
+    "title": "Produse alimentare și băuturi spirtoase românești protejate în UE (DOP/IGP) - Free Download",
+    "description": "Lista produselor alimentare și băuturilor spirtoase din România înregistrate în registrul UE al indicațiilor geografice (eAmbrosia): denumire, tip de protecție (DOP/IGP), stadiu și data înregistrării. Contains 29 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Produse alimentare și băuturi spirtoase românești protejate în UE (DOP/IGP) | ListBase",
+    "seo_description": "Download Produse alimentare și băuturi spirtoase românești protejate în UE (DOP/IGP) — 29 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 29 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/"
+    ]
+  }
+}

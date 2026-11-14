@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-14T02:05:22.307Z",
-  "total_datasets": 507,
-  "total_records": 168629,
+  "generated": "2026-11-14T02:05:33.367Z",
+  "total_datasets": 508,
+  "total_records": 168658,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "geography",
@@ -2839,6 +2839,34 @@
         "xlsx": {
           "name": "ro-mancaruri-romanesti_RO.xlsx",
           "size": 14600
+        }
+      }
+    },
+    {
+      "id": "ro-produse-romanesti-protejate-ue-dop-igp",
+      "name": "Produse alimentare și băuturi spirtoase românești protejate în UE (DOP/IGP)",
+      "category": "food",
+      "record_count": 29,
+      "columns": [
+        "denumire",
+        "alte_denumiri",
+        "tip_protectie",
+        "categorie_produs",
+        "stadiu",
+        "numar_dosar",
+        "data_inregistrarii"
+      ],
+      "source": "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/",
+      "updated": "2026-11",
+      "size": 10181,
+      "files": {
+        "csv": {
+          "name": "ro-produse-romanesti-protejate-ue-dop-igp_RO.csv",
+          "size": 2858
+        },
+        "xlsx": {
+          "name": "ro-produse-romanesti-protejate-ue-dop-igp_RO.xlsx",
+          "size": 8373
         }
       }
     },
