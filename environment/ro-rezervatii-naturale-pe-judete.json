@@ -1,0 +1,3776 @@
+{
+  "id": "ro-rezervatii-naturale-pe-judete",
+  "name": "Rezervațiile naturale din România pe județe",
+  "title": "Rezervațiile naturale din România pe județe",
+  "description": "Lista rezervațiilor naturale din România (peșteri, chei, lacuri, păduri, locuri fosilifere etc.) grupate pe județe.",
+  "category": "environment",
+  "source": "https://ro.wikipedia.org/wiki/Lista_rezervațiilor_naturale_din_România",
+  "source_url": "https://ro.wikipedia.org/wiki/Lista_rezervațiilor_naturale_din_România",
+  "updated": "2026-11",
+  "record_count": 935,
+  "columns": [
+    {
+      "key": "rezervatie",
+      "label": "Rezervatie",
+      "type": "string"
+    },
+    {
+      "key": "judet",
+      "label": "Judet",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rezervatie": "Avenul cu două intrări",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Avenul din Șesuri",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Avenul de la Tău",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Calcarele de la Ampoița",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Calcarele de la Valea Mică",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Bulzul Gălzii",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Cascada Vârciorog",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Cascada Pișoaia",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Cheile Ampoiței",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Cheile Găldiței și Turcului",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Cheile Gălzii",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Cheile Gârdișoarei",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Cheile Caprei",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Cheile Vălișoarei",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Cheile Cibului",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Cheile Glodului",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Calcarele cu orbitoline de la Piatra Corbului",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Cheile Geogelului",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Cheile Piatra Bălții",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Cheile Întregalde",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Cheile Plaiului",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Cheile Mândruțului",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Cheile Mănăstirii",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Cheile Pociovaliștei",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Cheile Poșăgii",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Cheile Râmețului",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Cheile Runcului",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Cheile Văii Cetii",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Cheile Pravului",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Cheile Văii Morilor",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Cheile Siloșului",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Cheile Tecșeștilor",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Dealul cu Melci",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Detunata Goală",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Detunata Flocoasă",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Huda Orbului",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Izbucul Cotețul Dobreștilor",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Izbucul Poliței",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Izbucul Tăuzului",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Iezerul Ighiel",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Iezerul Șurianul",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Izbucul Mătișești",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Laricetul de la Vidolm",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Luncile Prigoanei",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Masa Jidovului",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Oul Arșiței",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Pădurea Sloboda",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Peștera Hodobana",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Peștera Coiba Mică",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Peștera Vârtopașu",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Peștera de la Hoanca Apei",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Peștera din Peretele Dârninii",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Peșterile Lucia",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Vânătările Ponorului",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Pârâul Bobii",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Avenul din Hoanca Urzicarului",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Huda lui Papară",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Peștera Coiba Mare",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Peștera-aven ghețarul de sub Zgurăști",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Peștera de la Groși",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Peștera Ghețarul Scărișoara",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Peștera Ghețarul de la Vârtop",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Peștera Poarta Zmeilor",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Peștera Pojarul Poliței",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Tăul fără fund de la Băgău",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Poiana cu narcise de la Negrileasa",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Poienile cu narcise de la Tecșești",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Șesul Craiului - Scărița-Belioara",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Piatra Boului",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Piatra Despicată",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Piatra Grohotișului",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Piatra Poienii",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Piatra Varului",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Piatra Bulbuci",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Piatra Cetii",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Piatra Craivei",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Piatra Corbului (Roșia Montană)",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Piatra Tomii",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Râpa Roșie",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Stânca Grunzii",
+      "judet": "Alba"
+    },
+    {
+      "rezervatie": "Pădurea Lunca - colonie de stârci",
+      "judet": "Arad"
+    },
+    {
+      "rezervatie": "Pădurea Socodor - colonie de stârci",
+      "judet": "Arad"
+    },
+    {
+      "rezervatie": "Baltele Gurahonț",
+      "judet": "Arad"
+    },
+    {
+      "rezervatie": "Dosul Laurului",
+      "judet": "Arad"
+    },
+    {
+      "rezervatie": "Poiana cu narcise Rovina",
+      "judet": "Arad"
+    },
+    {
+      "rezervatie": "Rezervația de soluri sărăturate",
+      "judet": "Arad"
+    },
+    {
+      "rezervatie": "Arboretele de fag de la Râul Mic",
+      "judet": "Arad"
+    },
+    {
+      "rezervatie": "Runcu-Groși",
+      "judet": "Arad"
+    },
+    {
+      "rezervatie": "Pădurea de stejar pufos de la Cărand",
+      "judet": "Arad"
+    },
+    {
+      "rezervatie": "Arboretul Macea",
+      "judet": "Arad"
+    },
+    {
+      "rezervatie": "Prundul Mare",
+      "judet": "Arad"
+    },
+    {
+      "rezervatie": "Locul fosilifer Monoroștia",
+      "judet": "Arad"
+    },
+    {
+      "rezervatie": "Locul fosilifer Zăbalț",
+      "judet": "Arad"
+    },
+    {
+      "rezervatie": "Peștera Valea Morii",
+      "judet": "Arad"
+    },
+    {
+      "rezervatie": "Peștera lui Duțu",
+      "judet": "Arad"
+    },
+    {
+      "rezervatie": "Peștera Sinesie",
+      "judet": "Arad"
+    },
+    {
+      "rezervatie": "Balta Rovina",
+      "judet": "Arad"
+    },
+    {
+      "rezervatie": "Balta Șoimoș",
+      "judet": "Arad"
+    },
+    {
+      "rezervatie": "Stârcii cenușii de la Sâc",
+      "judet": "Arad"
+    },
+    {
+      "rezervatie": "Lacul Bascov",
+      "judet": "Argeș"
+    },
+    {
+      "rezervatie": "Lacul lui Bârcă",
+      "judet": "Argeș"
+    },
+    {
+      "rezervatie": "Poiana cu narcise Negrași",
+      "judet": "Argeș"
+    },
+    {
+      "rezervatie": "Granitul de la Albești",
+      "judet": "Argeș"
+    },
+    {
+      "rezervatie": "Calcarul numulitic de la Albești",
+      "judet": "Argeș"
+    },
+    {
+      "rezervatie": "Microrelieful carstic de la Cetățeni",
+      "judet": "Argeș"
+    },
+    {
+      "rezervatie": "Golul alpin Moldoveanu - Capra",
+      "judet": "Argeș"
+    },
+    {
+      "rezervatie": "Golul alpin Valea Rea - Zârna",
+      "judet": "Argeș"
+    },
+    {
+      "rezervatie": "Lacul Buda",
+      "judet": "Argeș"
+    },
+    {
+      "rezervatie": "Lacul Galbena IV",
+      "judet": "Argeș"
+    },
+    {
+      "rezervatie": "Lacul Hârtop I",
+      "judet": "Argeș"
+    },
+    {
+      "rezervatie": "Lacul Hârtop II",
+      "judet": "Argeș"
+    },
+    {
+      "rezervatie": "Lacul Hârtop V",
+      "judet": "Argeș"
+    },
+    {
+      "rezervatie": "Lacul Iezer, Munții Făgăraș",
+      "judet": "Argeș"
+    },
+    {
+      "rezervatie": "Lacul Izvorul-Mușeteică",
+      "judet": "Argeș"
+    },
+    {
+      "rezervatie": "Lacul Jgheburoasa",
+      "judet": "Argeș"
+    },
+    {
+      "rezervatie": "Lacul Mănăstirii",
+      "judet": "Argeș"
+    },
+    {
+      "rezervatie": "Lacul Scărișoara Galbenă",
+      "judet": "Argeș"
+    },
+    {
+      "rezervatie": "Lacul Valea Rea",
+      "judet": "Argeș"
+    },
+    {
+      "rezervatie": "Lacul Zârna",
+      "judet": "Argeș"
+    },
+    {
+      "rezervatie": "Valea Vâlsanului",
+      "judet": "Argeș"
+    },
+    {
+      "rezervatie": "Zona carstică Dâmbovicioara - Brusturet",
+      "judet": "Argeș"
+    },
+    {
+      "rezervatie": "Zona carstică Măgura - Nucșoara",
+      "judet": "Argeș"
+    },
+    {
+      "rezervatie": "Locul fosilifer Suslănești",
+      "judet": "Argeș"
+    },
+    {
+      "rezervatie": "Avenul din Grind",
+      "judet": "Argeș"
+    },
+    {
+      "rezervatie": "Peștera Dâmbovicioara",
+      "judet": "Argeș"
+    },
+    {
+      "rezervatie": "Peștera Dobreștilor",
+      "judet": "Argeș"
+    },
+    {
+      "rezervatie": "Peștera nr. 15",
+      "judet": "Argeș"
+    },
+    {
+      "rezervatie": "Peștera de la Piscul Negru",
+      "judet": "Argeș"
+    },
+    {
+      "rezervatie": "Peștera Stanciului",
+      "judet": "Argeș"
+    },
+    {
+      "rezervatie": "Peștera Uluce",
+      "judet": "Argeș"
+    },
+    {
+      "rezervatie": "Lacul Galbeni",
+      "judet": "Bacău"
+    },
+    {
+      "rezervatie": "Lacul Lilieci",
+      "judet": "Bacău"
+    },
+    {
+      "rezervatie": "Lacul Răcăciuni",
+      "judet": "Bacău"
+    },
+    {
+      "rezervatie": "Lacul Berești",
+      "judet": "Bacău"
+    },
+    {
+      "rezervatie": "Lacul Balătău",
+      "judet": "Bacău"
+    },
+    {
+      "rezervatie": "Pădurea Runc, Buhuși",
+      "judet": "Bacău"
+    },
+    {
+      "rezervatie": "Pădurea Izvorul Alb",
+      "judet": "Bacău"
+    },
+    {
+      "rezervatie": "Calcarele cu Litothamnius",
+      "judet": "Bacău"
+    },
+    {
+      "rezervatie": "Cineritele de Nutasca - Ruseni",
+      "judet": "Bacău"
+    },
+    {
+      "rezervatie": "Pădurea de pini de la Moinești",
+      "judet": "Bacău"
+    },
+    {
+      "rezervatie": "Pădurea Arsura",
+      "judet": "Bacău"
+    },
+    {
+      "rezervatie": "Puncte fosilifere în conglomerate de Pietricica",
+      "judet": "Bacău"
+    },
+    {
+      "rezervatie": "Rezervația naturală Măgura",
+      "judet": "Bacău"
+    },
+    {
+      "rezervatie": "Rezervația naturală Nemira",
+      "judet": "Bacău"
+    },
+    {
+      "rezervatie": "Dealul Perchiu",
+      "judet": "Bacău"
+    },
+    {
+      "rezervatie": "Punctul fosilifer Cârligata",
+      "judet": "Bacău"
+    },
+    {
+      "rezervatie": "Punctul fosilifer La Runc",
+      "judet": "Bacău"
+    },
+    {
+      "rezervatie": "Tuful de la Falcău",
+      "judet": "Bacău"
+    },
+    {
+      "rezervatie": "Tuful de la Valea Uzului",
+      "judet": "Bacău"
+    },
+    {
+      "rezervatie": "Strate tip pentru „Formațiunea de Pietrosu”",
+      "judet": "Bacău"
+    },
+    {
+      "rezervatie": "Strate tip pentru „Formațiunea de Supan”",
+      "judet": "Bacău"
+    },
+    {
+      "rezervatie": "Buciaș",
+      "judet": "Bacău"
+    },
+    {
+      "rezervatie": "Complexul hidrografic Valea Rece",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Dealul Pacău",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Fâneața Izvoarelor Crișul Pietros",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Depresiunea Bălileasa",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Fâneața Valea Roșie",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Molhașurile din Valea Izbucelor",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Pădurea cu narcise de la Oșorhei",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Pășunea cu Corynephorus de la Voievozi",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Pârâul Pețea",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Piatra Grăitoare",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Poiana cu narcise de la Goroniște",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Valea Iadei cu Syringa josichaea",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Vârful Cârligați",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Vârful Buteasa",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Pietrele Galbenei",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Piatra Bulzului",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Izbucul intermitent de la Călugări",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Groapa Ruginoasa - Valea Seacă",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Cetatea Rădesei",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Defileul Crișului Negru la Borz",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Defileul Crișului Repede",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Ferice Plai și Hoancă",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Groapa de la Bârsa",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Lacul Cicoș",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Pietrele Boghii",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Poiana Florilor",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Platoul Carstic Padiș",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Săritoarea Bohodeiului",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Valea Galbenei",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Valea Sighiștelului",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Vârful Biserica Moțului",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Platoul Carstic Lumea Pierdută",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Calcarele cu hippuriți din Valea Crișului",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Calcarele tortoniene de la Miheleu",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Calcarele tortoniene de la Tășad",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Gruiul Pietrii",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Lentila 204 Brusturi - Cornet",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Locul fosilifer de la Cornițel",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Locul fosilifer de pe Dealul Șomleu",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Locul fosilifer din Valea Lionii-Peștiș",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Avenul Borțigului",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Avenul Câmpeneasa cu Izbucul Boiu",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Complexul Carstic din Valea Ponorului",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Ghețarul Focul Viu",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Peștera cu Apă din Valea Leșului",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Peștera Ciurul Ponor",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Peștera Ciur Izbuc",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Peștera Farcu",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Peștera Gălășeni",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Peștera Grueț",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Peștera Igrița",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Peștera Meziad",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Peștera lui Micula",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Peștera Osoi",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Peștera Urșilor",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Peștera Toplița",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Peștera Smeilor de la Onceasa",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Peștera Vacii",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Peștera Vântului",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Sistemul Carstic Peștera Cerbului - Avenul cu Vacă",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Colonia de păsări de la Pădurea Rădvani",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Izvoarele mezotermale Răbăgani",
+      "judet": "Bihor"
+    },
+    {
+      "rezervatie": "Crovul de la Larion",
+      "judet": "Bistrița-Năsăud"
+    },
+    {
+      "rezervatie": "„La Sărătură”",
+      "judet": "Bistrița-Năsăud"
+    },
+    {
+      "rezervatie": "Poiana cu narcise de pe Masivul Saca",
+      "judet": "Bistrița-Năsăud"
+    },
+    {
+      "rezervatie": "Poiana cu narcise de pe Șesul Mogoșenilor",
+      "judet": "Bistrița-Năsăud"
+    },
+    {
+      "rezervatie": "Poiana cu narcise de pe Șesul Văii Budacului",
+      "judet": "Bistrița-Năsăud"
+    },
+    {
+      "rezervatie": "Piatra Cușmei",
+      "judet": "Bistrița-Năsăud"
+    },
+    {
+      "rezervatie": "Rezervația naturală Piatra Fântânele",
+      "judet": "Bistrița-Năsăud"
+    },
+    {
+      "rezervatie": "Pădurea Posmuș",
+      "judet": "Bistrița-Năsăud"
+    },
+    {
+      "rezervatie": "Masivul de sare de la Sărățel",
+      "judet": "Bistrița-Năsăud"
+    },
+    {
+      "rezervatie": "Râpa cu păpuși",
+      "judet": "Bistrița-Năsăud"
+    },
+    {
+      "rezervatie": "Vulcanii noroioși „La Gloduri”",
+      "judet": "Bistrița-Năsăud"
+    },
+    {
+      "rezervatie": "Zăvoaiele Borcutului",
+      "judet": "Bistrița-Năsăud"
+    },
+    {
+      "rezervatie": "Ineu - Lala",
+      "judet": "Bistrița-Năsăud"
+    },
+    {
+      "rezervatie": "Izvoarele Mihăiesei",
+      "judet": "Bistrița-Năsăud"
+    },
+    {
+      "rezervatie": "Lacul Zagra",
+      "judet": "Bistrița-Năsăud"
+    },
+    {
+      "rezervatie": "Locul fosilifer Râpa Mare",
+      "judet": "Bistrița-Năsăud"
+    },
+    {
+      "rezervatie": "Tăul Zânelor",
+      "judet": "Bistrița-Năsăud"
+    },
+    {
+      "rezervatie": "Valea Repedea",
+      "judet": "Bistrița-Năsăud"
+    },
+    {
+      "rezervatie": "Piatra Corbului",
+      "judet": "Bistrița-Năsăud"
+    },
+    {
+      "rezervatie": "Râpa Verde",
+      "judet": "Bistrița-Năsăud"
+    },
+    {
+      "rezervatie": "Comarnic (arie protejată)",
+      "judet": "Bistrița-Năsăud"
+    },
+    {
+      "rezervatie": "Cheile Bistriței Ardelene",
+      "judet": "Bistrița-Năsăud"
+    },
+    {
+      "rezervatie": "Stâncile Tătarului, Munții Călimani",
+      "judet": "Bistrița-Năsăud"
+    },
+    {
+      "rezervatie": "Peștera Tăușoare",
+      "judet": "Bistrița-Năsăud"
+    },
+    {
+      "rezervatie": "Peștera din Valea Cobășelului",
+      "judet": "Bistrița-Năsăud"
+    },
+    {
+      "rezervatie": "Turbăria de la Dersca",
+      "judet": "Botoșani"
+    },
+    {
+      "rezervatie": "Bucecea - Bălțile Siretului",
+      "judet": "Botoșani"
+    },
+    {
+      "rezervatie": "Arinișul de la Horlăceni",
+      "judet": "Botoșani"
+    },
+    {
+      "rezervatie": "Făgetul secular Stuhoasa",
+      "judet": "Botoșani"
+    },
+    {
+      "rezervatie": "Pădurea Ciornohal",
+      "judet": "Botoșani"
+    },
+    {
+      "rezervatie": "Pădurea Tudora",
+      "judet": "Botoșani"
+    },
+    {
+      "rezervatie": "Stânca Ripiceni",
+      "judet": "Botoșani"
+    },
+    {
+      "rezervatie": "Stânca Ștefănești",
+      "judet": "Botoșani"
+    },
+    {
+      "rezervatie": "Rotbav",
+      "judet": "Brașov"
+    },
+    {
+      "rezervatie": "Complexul piscicol Dumbrăvița",
+      "judet": "Brașov"
+    },
+    {
+      "rezervatie": "Dealul Cetății - Lempeș",
+      "judet": "Brașov"
+    },
+    {
+      "rezervatie": "Mlaștina Hărman",
+      "judet": "Brașov"
+    },
+    {
+      "rezervatie": "Poienile cu narcise din Dumbrava Vadului",
+      "judet": "Brașov"
+    },
+    {
+      "rezervatie": "Pădurea și mlaștinile eutrofe de la Prejmer",
+      "judet": "Brașov"
+    },
+    {
+      "rezervatie": "Stejerișul Mare (Colții Corbului Mare)",
+      "judet": "Brașov"
+    },
+    {
+      "rezervatie": "Cotul Turzunului",
+      "judet": "Brașov"
+    },
+    {
+      "rezervatie": "Cheile Zărneștilor",
+      "judet": "Brașov"
+    },
+    {
+      "rezervatie": "Cheile Dopca",
+      "judet": "Brașov"
+    },
+    {
+      "rezervatie": "Coloanele de bazalt de la Piatra Cioplită",
+      "judet": "Brașov"
+    },
+    {
+      "rezervatie": "Coloanele de bazalt de la Racoș",
+      "judet": "Brașov"
+    },
+    {
+      "rezervatie": "Complexul Geologic Racoșul de Jos",
+      "judet": "Brașov"
+    },
+    {
+      "rezervatie": "Microcanionul în bazalt de la Hoghiz",
+      "judet": "Brașov"
+    },
+    {
+      "rezervatie": "Stânca bazaltică de la Rupea",
+      "judet": "Brașov"
+    },
+    {
+      "rezervatie": "Vulcanii Noroioși de la Băile Homorod",
+      "judet": "Brașov"
+    },
+    {
+      "rezervatie": "Holbav",
+      "judet": "Brașov"
+    },
+    {
+      "rezervatie": "Bucegi (Abruptul Bucșoiu, Mălăești, Gaura)",
+      "judet": "Brașov"
+    },
+    {
+      "rezervatie": "Munții Postăvarul",
+      "judet": "Brașov"
+    },
+    {
+      "rezervatie": "Muntele Tâmpa",
+      "judet": "Brașov"
+    },
+    {
+      "rezervatie": "Pădurea Bogății",
+      "judet": "Brașov"
+    },
+    {
+      "rezervatie": "Locul fosilifer Carhaga",
+      "judet": "Brașov"
+    },
+    {
+      "rezervatie": "Locul fosilifer Ormeniș",
+      "judet": "Brașov"
+    },
+    {
+      "rezervatie": "Locul fosilifer Purcăreni",
+      "judet": "Brașov"
+    },
+    {
+      "rezervatie": "Piatra Craiului",
+      "judet": "Brașov"
+    },
+    {
+      "rezervatie": "Peștera Comăna",
+      "judet": "Brașov"
+    },
+    {
+      "rezervatie": "Peștera Liliecilor",
+      "judet": "Brașov"
+    },
+    {
+      "rezervatie": "Peștera Bârlogul Ursului",
+      "judet": "Brașov"
+    },
+    {
+      "rezervatie": "Peștera Valea Cetății",
+      "judet": "Brașov"
+    },
+    {
+      "rezervatie": "Rezervația naturală Lacul Jirlău",
+      "judet": "Brăila"
+    },
+    {
+      "rezervatie": "Pădurea Camenița",
+      "judet": "Brăila"
+    },
+    {
+      "rezervatie": "Dealul cu Lilieci Cernătești",
+      "judet": "Buzău"
+    },
+    {
+      "rezervatie": "Pădurea Crivineni",
+      "judet": "Buzău"
+    },
+    {
+      "rezervatie": "Pădurea Brădeanu",
+      "judet": "Buzău"
+    },
+    {
+      "rezervatie": "Pădurea cu tisă",
+      "judet": "Buzău"
+    },
+    {
+      "rezervatie": "Focul Viu - Lopătari",
+      "judet": "Buzău"
+    },
+    {
+      "rezervatie": "Platoul Meledic",
+      "judet": "Buzău"
+    },
+    {
+      "rezervatie": "Piatra Albă „La Grunj”",
+      "judet": "Buzău"
+    },
+    {
+      "rezervatie": "Vulcanii Noroioși de la Pâclele Mari",
+      "judet": "Buzău"
+    },
+    {
+      "rezervatie": "Vulcanii Noroioși de la Pâclele Mici",
+      "judet": "Buzău"
+    },
+    {
+      "rezervatie": "Chihlimbarul de Buzău",
+      "judet": "Buzău"
+    },
+    {
+      "rezervatie": "Balta Albă (rezervație)",
+      "judet": "Buzău"
+    },
+    {
+      "rezervatie": "Balta Amară",
+      "judet": "Buzău"
+    },
+    {
+      "rezervatie": "Pădurea Lacurile Bisoca",
+      "judet": "Buzău"
+    },
+    {
+      "rezervatie": "Blocurile de calcar de la Bădila",
+      "judet": "Buzău"
+    },
+    {
+      "rezervatie": "Sarea lui Buzău",
+      "judet": "Buzău"
+    },
+    {
+      "rezervatie": "Divici - Pojejena",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Dăncioanea",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Dealul Cărăula",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Zona umedă Ostrov - Moldova Veche",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Zona umedă Insula Calinovăț",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Fâneața cu narcise Zervești",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Pădurea Ezerișel",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Rezervația Domogled",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Sfinxul Bănățean",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Valea Greațca",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Groposu",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Balta Nera - Dunăre",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Bârzavița",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Buhui - Mărghitaș",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Cheile Carașului",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Cheile Globului",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Cheile Gârliștei",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Cheile Rudăriei",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Cheile Nerei - Beușnița",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Cheile Șușarei",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Coronini - Bedina",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Cuptor - Brădișoru de Jos",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Dealul Petrolea - Cuptoare",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Ducin",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Iardașița",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Iauna - Craiova",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Izvorul Bigăr",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Izvoarele Carașului",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Izvoarele Nerei",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Lisovacea",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Ogașul Slătinic",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Râpa cu lăstuni din Valea Divici",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Râpa Neagră",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Ravena Crouri",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Valea Ciclovei - Ilidia",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Rezervația naturală Baziaș",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Rezervația naturală Valea Mare",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Rusca Montană",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Locul fosilifer de la Apadia",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Locul fosilifer de la Delinești",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Locul fosilifer de la Ezeriș",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Locul fosilifer de la Globu Craiovei",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Locul fosilifer de la Petroșnița",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Locul fosilifer de la Târnova",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Locul fosilifer de la Tirol",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Locul fosilifer de la Valeapai",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Locul fosilifer de la Zorlențu Mare",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Locul fosilifer de la Soceni",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Pădurea Pleșu",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Peștera Bârzoni",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Peștera Buhui",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Peștera Comarnic",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Peștera Exploratorii '85",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Peștera cu apă din Valea Polevii",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Peștera Popovăț",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Peștera Răsuflătoarei",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Belareca",
+      "judet": "Caraș-Severin"
+    },
+    {
+      "rezervatie": "Ostrovul Ciocănești",
+      "judet": "Călărași"
+    },
+    {
+      "rezervatie": "Ostrovul Haralambie",
+      "judet": "Călărași"
+    },
+    {
+      "rezervatie": "Ostrovul Șoimul",
+      "judet": "Călărași"
+    },
+    {
+      "rezervatie": "Pădurea Ciornuleasa",
+      "judet": "Călărași"
+    },
+    {
+      "rezervatie": "Fânațele Suatu I și II",
+      "judet": "Cluj"
+    },
+    {
+      "rezervatie": "Molhașul Mare de la Izbuc",
+      "judet": "Cluj"
+    },
+    {
+      "rezervatie": "Pârâul Dumbrava",
+      "judet": "Cluj"
+    },
+    {
+      "rezervatie": "Rezervația Fânațele Clujului",
+      "judet": "Cluj"
+    },
+    {
+      "rezervatie": "Valea Morilor",
+      "judet": "Cluj"
+    },
+    {
+      "rezervatie": "Cariera Corabia",
+      "judet": "Cluj"
+    },
+    {
+      "rezervatie": "Gipsurile de la Leghia",
+      "judet": "Cluj"
+    },
+    {
+      "rezervatie": "Rezervația de orbeți de la Apahida",
+      "judet": "Cluj"
+    },
+    {
+      "rezervatie": "Cheile Baciului",
+      "judet": "Cluj"
+    },
+    {
+      "rezervatie": "Cheile Turenilor",
+      "judet": "Cluj"
+    },
+    {
+      "rezervatie": "Cheile Turzii",
+      "judet": "Cluj"
+    },
+    {
+      "rezervatie": "Dealul cu Fluturi",
+      "judet": "Cluj"
+    },
+    {
+      "rezervatie": "Făgetul Clujului",
+      "judet": "Cluj"
+    },
+    {
+      "rezervatie": "Pădurea Ciuașului",
+      "judet": "Cluj"
+    },
+    {
+      "rezervatie": "Sărăturile și Ocna Veche",
+      "judet": "Cluj"
+    },
+    {
+      "rezervatie": "Locul fosilifer Coruș",
+      "judet": "Cluj"
+    },
+    {
+      "rezervatie": "Peștera Mare de pe Valea Firei",
+      "judet": "Cluj"
+    },
+    {
+      "rezervatie": "Peștera din Piatra Ponorului",
+      "judet": "Cluj"
+    },
+    {
+      "rezervatie": "Peștera Vârfurașu",
+      "judet": "Cluj"
+    },
+    {
+      "rezervatie": "Lacul Știucilor",
+      "judet": "Cluj"
+    },
+    {
+      "rezervatie": "Stufărișurile de la Sic",
+      "judet": "Cluj"
+    },
+    {
+      "rezervatie": "Valea Legiilor",
+      "judet": "Cluj"
+    },
+    {
+      "rezervatie": "Dunele marine de la Agigea",
+      "judet": "Constanța"
+    },
+    {
+      "rezervatie": "Pâlcul de stejari brumării",
+      "judet": "Constanța"
+    },
+    {
+      "rezervatie": "Valu lui Traian",
+      "judet": "Constanța"
+    },
+    {
+      "rezervatie": "Pădurea Canareaua Fetii",
+      "judet": "Constanța"
+    },
+    {
+      "rezervatie": "Pădurea Dumbrăveni",
+      "judet": "Constanța"
+    },
+    {
+      "rezervatie": "Pădurea Esechioi",
+      "judet": "Constanța"
+    },
+    {
+      "rezervatie": "Fântânița - Murfatlar",
+      "judet": "Constanța"
+    },
+    {
+      "rezervatie": "Pădurea Hagieni",
+      "judet": "Constanța"
+    },
+    {
+      "rezervatie": "Pereții calcaroși de la Petroșani",
+      "judet": "Constanța"
+    },
+    {
+      "rezervatie": "Masivul Geologic Cheia",
+      "judet": "Constanța"
+    },
+    {
+      "rezervatie": "Dealul Alah Bair",
+      "judet": "Constanța"
+    },
+    {
+      "rezervatie": "Rezervația naturală Gura Dobrogei",
+      "judet": "Constanța"
+    },
+    {
+      "rezervatie": "Insula Ceaplace",
+      "judet": "Constanța"
+    },
+    {
+      "rezervatie": "Insulele Prundu cu păsări",
+      "judet": "Constanța"
+    },
+    {
+      "rezervatie": "Lacul Bugeac",
+      "judet": "Constanța"
+    },
+    {
+      "rezervatie": "Lacul Dunăreni",
+      "judet": "Constanța"
+    },
+    {
+      "rezervatie": "Lacul Oltina",
+      "judet": "Constanța"
+    },
+    {
+      "rezervatie": "Lacul Vederoasa",
+      "judet": "Constanța"
+    },
+    {
+      "rezervatie": "Mlaștina Hergheliei",
+      "judet": "Constanța"
+    },
+    {
+      "rezervatie": "Pădurea Celea Mare - Valea lui Ene",
+      "judet": "Constanța"
+    },
+    {
+      "rezervatie": "Pădurea Cetate",
+      "judet": "Constanța"
+    },
+    {
+      "rezervatie": "Pădurea Bratca",
+      "judet": "Constanța"
+    },
+    {
+      "rezervatie": "Canaralele de la Hârșova",
+      "judet": "Constanța"
+    },
+    {
+      "rezervatie": "Recifii jurasici Cheia",
+      "judet": "Constanța"
+    },
+    {
+      "rezervatie": "Reciful neurojurasic de la Topalu",
+      "judet": "Constanța"
+    },
+    {
+      "rezervatie": "Locul fosilifer Seimenii Mari",
+      "judet": "Constanța"
+    },
+    {
+      "rezervatie": "Locul fosilifer Aliman",
+      "judet": "Constanța"
+    },
+    {
+      "rezervatie": "Locul fosilifer Credința",
+      "judet": "Constanța"
+    },
+    {
+      "rezervatie": "Locul fosilifer Cernavodă",
+      "judet": "Constanța"
+    },
+    {
+      "rezervatie": "Locul fosilifer Movila Banului",
+      "judet": "Constanța"
+    },
+    {
+      "rezervatie": "Peștera La Adam",
+      "judet": "Constanța"
+    },
+    {
+      "rezervatie": "Peștera Gura Dobrogei",
+      "judet": "Constanța"
+    },
+    {
+      "rezervatie": "Peștera Limanu",
+      "judet": "Constanța"
+    },
+    {
+      "rezervatie": "Obanul Mare și Peștera La Movile",
+      "judet": "Constanța"
+    },
+    {
+      "rezervatie": "Cetatea Histria",
+      "judet": "Constanța"
+    },
+    {
+      "rezervatie": "Corbu-Nuntași - Histria",
+      "judet": "Constanța"
+    },
+    {
+      "rezervatie": "Grindul Chituc",
+      "judet": "Constanța"
+    },
+    {
+      "rezervatie": "Grindul Lupilor",
+      "judet": "Constanța"
+    },
+    {
+      "rezervatie": "Vama Veche - 2 Mai (Acvatoriul litoral marin)",
+      "judet": "Constanța"
+    },
+    {
+      "rezervatie": "Lacul Agigea",
+      "judet": "Constanța"
+    },
+    {
+      "rezervatie": "Lacul Techirghiol",
+      "judet": "Constanța"
+    },
+    {
+      "rezervatie": "Turbăria Ruginosu",
+      "judet": "Covasna"
+    },
+    {
+      "rezervatie": "Cheile Vârghișului",
+      "judet": "Covasna"
+    },
+    {
+      "rezervatie": "Dealul Ciocașului - Dealul Vițelului",
+      "judet": "Covasna"
+    },
+    {
+      "rezervatie": "Mestecănișul de la Reci și Bălțile de la Ozun-Sântionlunca",
+      "judet": "Covasna"
+    },
+    {
+      "rezervatie": "Turbăria Lăptici",
+      "judet": "Dâmbovița"
+    },
+    {
+      "rezervatie": "Poiana Crucii",
+      "judet": "Dâmbovița"
+    },
+    {
+      "rezervatie": "Izvorul de la Corbii Ciungi",
+      "judet": "Dâmbovița"
+    },
+    {
+      "rezervatie": "Poiana cu narcise din Valea Neajlovului",
+      "judet": "Dâmbovița"
+    },
+    {
+      "rezervatie": "Cheile Tătarului, Munții Bucegi",
+      "judet": "Dâmbovița"
+    },
+    {
+      "rezervatie": "Peștera Cocora și Cheile Urșilor",
+      "judet": "Dâmbovița"
+    },
+    {
+      "rezervatie": "Orzea - Zănoaga",
+      "judet": "Dâmbovița"
+    },
+    {
+      "rezervatie": "Zănoaga - Lucăcilă",
+      "judet": "Dâmbovița"
+    },
+    {
+      "rezervatie": "Locul fosilifer de la Vama Strunga",
+      "judet": "Dâmbovița"
+    },
+    {
+      "rezervatie": "Rezervația Plaiul Hoților",
+      "judet": "Dâmbovița"
+    },
+    {
+      "rezervatie": "Plaiul Domnesc",
+      "judet": "Dâmbovița"
+    },
+    {
+      "rezervatie": "Peștera Răteiului",
+      "judet": "Dâmbovița"
+    },
+    {
+      "rezervatie": "Valea Horoabei",
+      "judet": "Dâmbovița"
+    },
+    {
+      "rezervatie": "Balta Cilieni - Băilești",
+      "judet": "Dolj"
+    },
+    {
+      "rezervatie": "Balta Neagră",
+      "judet": "Dolj"
+    },
+    {
+      "rezervatie": "Balta Lată",
+      "judet": "Dolj"
+    },
+    {
+      "rezervatie": "Complexul lacustru Preajba-Făcăi",
+      "judet": "Dolj"
+    },
+    {
+      "rezervatie": "Lacul Adunații de Geormane",
+      "judet": "Dolj"
+    },
+    {
+      "rezervatie": "Lacul Ionele",
+      "judet": "Dolj"
+    },
+    {
+      "rezervatie": "Râul Bălășan (amonte de Băilești)",
+      "judet": "Dolj"
+    },
+    {
+      "rezervatie": "Râurile Dersănțui și Terpezița (amonte de Fântânele)",
+      "judet": "Dolj"
+    },
+    {
+      "rezervatie": "Lacul Caraula",
+      "judet": "Dolj"
+    },
+    {
+      "rezervatie": "Dunele Dăbuleni („La Cetate”)",
+      "judet": "Dolj"
+    },
+    {
+      "rezervatie": "Pajiștea Gogoșu-Ștefănel",
+      "judet": "Dolj"
+    },
+    {
+      "rezervatie": "Pajiștea Cetate din Lunca Dunării",
+      "judet": "Dolj"
+    },
+    {
+      "rezervatie": "Pajiștea halofilă Gighera",
+      "judet": "Dolj"
+    },
+    {
+      "rezervatie": "Poiana Bujorului din Pădurea Plenița",
+      "judet": "Dolj"
+    },
+    {
+      "rezervatie": "Valea Rea-Radovan",
+      "judet": "Dolj"
+    },
+    {
+      "rezervatie": "Pădurea seculară Zăval",
+      "judet": "Dolj"
+    },
+    {
+      "rezervatie": "Rezervația ornitologică Ciuperceni-Desa",
+      "judet": "Dolj"
+    },
+    {
+      "rezervatie": "Locul fosilifer Bucovăț",
+      "judet": "Dolj"
+    },
+    {
+      "rezervatie": "Locul fosilifer Drănic",
+      "judet": "Dolj"
+    },
+    {
+      "rezervatie": "Lacul Pochina",
+      "judet": "Galați"
+    },
+    {
+      "rezervatie": "Lacul Vlășcuța",
+      "judet": "Galați"
+    },
+    {
+      "rezervatie": "Lunca joasă a Prutului",
+      "judet": "Galați"
+    },
+    {
+      "rezervatie": "Balta Potcoava",
+      "judet": "Galați"
+    },
+    {
+      "rezervatie": "Balta Tălăbasca",
+      "judet": "Galați"
+    },
+    {
+      "rezervatie": "Dunele de nisip de la Hanu Conachi",
+      "judet": "Galați"
+    },
+    {
+      "rezervatie": "Ostrovul Prut",
+      "judet": "Galați"
+    },
+    {
+      "rezervatie": "Pădurea Breana - Roșcani",
+      "judet": "Galați"
+    },
+    {
+      "rezervatie": "Pădurea Buciumeni",
+      "judet": "Galați"
+    },
+    {
+      "rezervatie": "Pădurea Fundeanu",
+      "judet": "Galați"
+    },
+    {
+      "rezervatie": "Pădurea Gârboavele",
+      "judet": "Galați"
+    },
+    {
+      "rezervatie": "Pădurea Pogănești",
+      "judet": "Galați"
+    },
+    {
+      "rezervatie": "Pădurea Tălășmani",
+      "judet": "Galați"
+    },
+    {
+      "rezervatie": "Locul fosilifer Berești",
+      "judet": "Galați"
+    },
+    {
+      "rezervatie": "Locul fosilifer Rateș",
+      "judet": "Galați"
+    },
+    {
+      "rezervatie": "Locul fosilifer Tirighina - Bărboși",
+      "judet": "Galați"
+    },
+    {
+      "rezervatie": "Ostroavele Cama - Dinu - Păsărica",
+      "judet": "Giurgiu"
+    },
+    {
+      "rezervatie": "Pădurea Oloaga - Grădinari",
+      "judet": "Giurgiu"
+    },
+    {
+      "rezervatie": "Pădurea Manafu",
+      "judet": "Giurgiu"
+    },
+    {
+      "rezervatie": "Pădurea Padina Tătarului",
+      "judet": "Giurgiu"
+    },
+    {
+      "rezervatie": "Pădurea Teșila",
+      "judet": "Giurgiu"
+    },
+    {
+      "rezervatie": "Cotul cu Aluni",
+      "judet": "Gorj"
+    },
+    {
+      "rezervatie": "Rezervația botanică Cioclovina",
+      "judet": "Gorj"
+    },
+    {
+      "rezervatie": "Pădurea Bărcului",
+      "judet": "Gorj"
+    },
+    {
+      "rezervatie": "Pădurea Gorganu",
+      "judet": "Gorj"
+    },
+    {
+      "rezervatie": "Pădurea Polovragi",
+      "judet": "Gorj"
+    },
+    {
+      "rezervatie": "Pădurea Tismana-Pocruia",
+      "judet": "Gorj"
+    },
+    {
+      "rezervatie": "Formațiunile eocene de la Săcelu",
+      "judet": "Gorj"
+    },
+    {
+      "rezervatie": "Izbucul Jaleșului",
+      "judet": "Gorj"
+    },
+    {
+      "rezervatie": "Piatra Biserica Dracilor",
+      "judet": "Gorj"
+    },
+    {
+      "rezervatie": "Muntele Oslea",
+      "judet": "Gorj"
+    },
+    {
+      "rezervatie": "Piatra Cloșanilor",
+      "judet": "Gorj"
+    },
+    {
+      "rezervatie": "Piatra Boroștenilor",
+      "judet": "Gorj"
+    },
+    {
+      "rezervatie": "Piatra Andreaua",
+      "judet": "Gorj"
+    },
+    {
+      "rezervatie": "Piatra Buha",
+      "judet": "Gorj"
+    },
+    {
+      "rezervatie": "Sfinxul Lainicilor",
+      "judet": "Gorj"
+    },
+    {
+      "rezervatie": "Stâncile Rafailă",
+      "judet": "Gorj"
+    },
+    {
+      "rezervatie": "Cheile Corcoaiei",
+      "judet": "Gorj"
+    },
+    {
+      "rezervatie": "Cheile Oltețului și Peștera Polovragi",
+      "judet": "Gorj"
+    },
+    {
+      "rezervatie": "Cheile Sohodolului",
+      "judet": "Gorj"
+    },
+    {
+      "rezervatie": "Ciucevele Cernei",
+      "judet": "Gorj"
+    },
+    {
+      "rezervatie": "Cornetul Pocruiei",
+      "judet": "Gorj"
+    },
+    {
+      "rezervatie": "Dealul Gornăcelu",
+      "judet": "Gorj"
+    },
+    {
+      "rezervatie": "Izvoarele Izvernei",
+      "judet": "Gorj"
+    },
+    {
+      "rezervatie": "Izvoarele minerale Săcelu",
+      "judet": "Gorj"
+    },
+    {
+      "rezervatie": "Rezervația Domogled",
+      "judet": "Gorj"
+    },
+    {
+      "rezervatie": "Locul fosilifer Buzești",
+      "judet": "Gorj"
+    },
+    {
+      "rezervatie": "Locul fosilifer Gârbovu",
+      "judet": "Gorj"
+    },
+    {
+      "rezervatie": "Locul fosilifer Groșerea",
+      "judet": "Gorj"
+    },
+    {
+      "rezervatie": "Locul fosilifer Săulești",
+      "judet": "Gorj"
+    },
+    {
+      "rezervatie": "Locul fosilifer Valea Deșului",
+      "judet": "Gorj"
+    },
+    {
+      "rezervatie": "Cheile și Peștera Pătrunsa",
+      "judet": "Gorj"
+    },
+    {
+      "rezervatie": "Valea Ibanului",
+      "judet": "Gorj"
+    },
+    {
+      "rezervatie": "Valea Sodomului",
+      "judet": "Gorj"
+    },
+    {
+      "rezervatie": "Peștera Gura Plaiului",
+      "judet": "Gorj"
+    },
+    {
+      "rezervatie": "Peștera Lazului",
+      "judet": "Gorj"
+    },
+    {
+      "rezervatie": "Peștera Iedului",
+      "judet": "Gorj"
+    },
+    {
+      "rezervatie": "Peștera Martel",
+      "judet": "Gorj"
+    },
+    {
+      "rezervatie": "Peștera Muierilor",
+      "judet": "Gorj"
+    },
+    {
+      "rezervatie": "Peștera Polovragi",
+      "judet": "Gorj"
+    },
+    {
+      "rezervatie": "Piemontul Nyíres de la Borzont",
+      "judet": "Harghita"
+    },
+    {
+      "rezervatie": "Rezervația botanică Borsec",
+      "judet": "Harghita"
+    },
+    {
+      "rezervatie": "Poiana narciselor de la Vlăhița",
+      "judet": "Harghita"
+    },
+    {
+      "rezervatie": "Scaunul Rotund",
+      "judet": "Harghita"
+    },
+    {
+      "rezervatie": "Vulcanii noroioși de la Filiaș",
+      "judet": "Harghita"
+    },
+    {
+      "rezervatie": "Pietrele Roșii",
+      "judet": "Harghita"
+    },
+    {
+      "rezervatie": "Dealul Firtuș",
+      "judet": "Harghita"
+    },
+    {
+      "rezervatie": "Tinovul Luci",
+      "judet": "Harghita"
+    },
+    {
+      "rezervatie": "Tinovul „Kicsi Romlásmezö” de la Plăieșii de Jos",
+      "judet": "Harghita"
+    },
+    {
+      "rezervatie": "Lacul Dracului",
+      "judet": "Harghita"
+    },
+    {
+      "rezervatie": "Lacul Rat",
+      "judet": "Harghita"
+    },
+    {
+      "rezervatie": "Mlaștina Büdös - Sântimbru",
+      "judet": "Harghita"
+    },
+    {
+      "rezervatie": "Mlaștina Csemő - Vrabia",
+      "judet": "Harghita"
+    },
+    {
+      "rezervatie": "Mlaștina După Luncă",
+      "judet": "Harghita"
+    },
+    {
+      "rezervatie": "Mlaștina cea Mare",
+      "judet": "Harghita"
+    },
+    {
+      "rezervatie": "Mlaștina Nyirkert",
+      "judet": "Harghita"
+    },
+    {
+      "rezervatie": "Mlaștina Dumbrava Harghitei",
+      "judet": "Harghita"
+    },
+    {
+      "rezervatie": "Mlaștina Borsároș - Sâncrăieni",
+      "judet": "Harghita"
+    },
+    {
+      "rezervatie": "Mlaștina Valea de Mijloc",
+      "judet": "Harghita"
+    },
+    {
+      "rezervatie": "Mlaștina Beneș",
+      "judet": "Harghita"
+    },
+    {
+      "rezervatie": "Mlaștina Nádaș",
+      "judet": "Harghita"
+    },
+    {
+      "rezervatie": "Tinovul Mohoș",
+      "judet": "Harghita"
+    },
+    {
+      "rezervatie": "Rezervația geologică de la Sâncrăieni",
+      "judet": "Harghita"
+    },
+    {
+      "rezervatie": "Dealul Melcului (Firtuș)",
+      "judet": "Harghita"
+    },
+    {
+      "rezervatie": "Muntele de sare Praid",
+      "judet": "Harghita"
+    },
+    {
+      "rezervatie": "Piatra Șoimilor",
+      "judet": "Harghita"
+    },
+    {
+      "rezervatie": "Cheile Bicazului și Lacul Roșu",
+      "judet": "Harghita"
+    },
+    {
+      "rezervatie": "Lacul Sfânta Ana",
+      "judet": "Harghita"
+    },
+    {
+      "rezervatie": "Masivul Hășmașul Mare, Piatra Singuratică - Hășmașul Negru",
+      "judet": "Harghita"
+    },
+    {
+      "rezervatie": "Pârâul Dobreanului",
+      "judet": "Harghita"
+    },
+    {
+      "rezervatie": "Rezervația Lacul Iezer din Călimani",
+      "judet": "Harghita"
+    },
+    {
+      "rezervatie": "Popasul păsărilor de la Sânpaul",
+      "judet": "Harghita"
+    },
+    {
+      "rezervatie": "Cascada de apă termală Toplița",
+      "judet": "Harghita"
+    },
+    {
+      "rezervatie": "Avenul Licaș",
+      "judet": "Harghita"
+    },
+    {
+      "rezervatie": "Peștera Șugău",
+      "judet": "Harghita"
+    },
+    {
+      "rezervatie": "Codrii seculari pe Valea Dobrișoarei și Prisloapei",
+      "judet": "Hunedoara"
+    },
+    {
+      "rezervatie": "Pădurea Bejan",
+      "judet": "Hunedoara"
+    },
+    {
+      "rezervatie": "Măgura Uroiului",
+      "judet": "Hunedoara"
+    },
+    {
+      "rezervatie": "Podul natural de la Grohot",
+      "judet": "Hunedoara"
+    },
+    {
+      "rezervatie": "Tufurile calcaroase din Valea Bobâlna",
+      "judet": "Hunedoara"
+    },
+    {
+      "rezervatie": "Apele mezotermale Geoagiu-Băi",
+      "judet": "Hunedoara"
+    },
+    {
+      "rezervatie": "Calcarele de la Boiu de Sus",
+      "judet": "Hunedoara"
+    },
+    {
+      "rezervatie": "Cheile Crivadiei",
+      "judet": "Hunedoara"
+    },
+    {
+      "rezervatie": "Calcarele din Dealul Măgura",
+      "judet": "Hunedoara"
+    },
+    {
+      "rezervatie": "Calcarele de la Godinești",
+      "judet": "Hunedoara"
+    },
+    {
+      "rezervatie": "Cheile Cernei",
+      "judet": "Hunedoara"
+    },
+    {
+      "rezervatie": "Cheile Jiețului",
+      "judet": "Hunedoara"
+    },
+    {
+      "rezervatie": "Cheile Ribicioarei și Uibăreștilor",
+      "judet": "Hunedoara"
+    },
+    {
+      "rezervatie": "Cheile Madei",
+      "judet": "Hunedoara"
+    },
+    {
+      "rezervatie": "Cheile Taia",
+      "judet": "Hunedoara"
+    },
+    {
+      "rezervatie": "Dealul Cetății Deva",
+      "judet": "Hunedoara"
+    },
+    {
+      "rezervatie": "Complexul carstic Ponorâci-Cioclovina",
+      "judet": "Hunedoara"
+    },
+    {
+      "rezervatie": "Măgurile Săcărâmbului",
+      "judet": "Hunedoara"
+    },
+    {
+      "rezervatie": "Muntele Vâlcan",
+      "judet": "Hunedoara"
+    },
+    {
+      "rezervatie": "Peștera Bolii",
+      "judet": "Hunedoara"
+    },
+    {
+      "rezervatie": "Rezervația Boholt",
+      "judet": "Hunedoara"
+    },
+    {
+      "rezervatie": "Locul fosilifer Ohaba-Ponor",
+      "judet": "Hunedoara"
+    },
+    {
+      "rezervatie": "Locul fosilifer Lăpugiu de Sus",
+      "judet": "Hunedoara"
+    },
+    {
+      "rezervatie": "Locul fosilifer cu dinozauri Sânpetru",
+      "judet": "Hunedoara"
+    },
+    {
+      "rezervatie": "Paleofauna reptiliană Tuștea",
+      "judet": "Hunedoara"
+    },
+    {
+      "rezervatie": "Peștera Cizmei",
+      "judet": "Hunedoara"
+    },
+    {
+      "rezervatie": "Peștera Tecuri",
+      "judet": "Hunedoara"
+    },
+    {
+      "rezervatie": "Peștera Șura Mare",
+      "judet": "Hunedoara"
+    },
+    {
+      "rezervatie": "Peștera Zeicului",
+      "judet": "Hunedoara"
+    },
+    {
+      "rezervatie": "Peștera cu Corali",
+      "judet": "Hunedoara"
+    },
+    {
+      "rezervatie": "Rezervația științifică Gemenele",
+      "judet": "Hunedoara"
+    },
+    {
+      "rezervatie": "Lacul Amara",
+      "judet": "Ialomița"
+    },
+    {
+      "rezervatie": "Lacurile Bentu Mic, Bentu Mic Cotoi și Bentu Mare",
+      "judet": "Ialomița"
+    },
+    {
+      "rezervatie": "Lacul Fundata",
+      "judet": "Ialomița"
+    },
+    {
+      "rezervatie": "Lacul Rodeanu",
+      "judet": "Ialomița"
+    },
+    {
+      "rezervatie": "Lacul Strachina",
+      "judet": "Ialomița"
+    },
+    {
+      "rezervatie": "Pădurea de Stejari Seculari Alexeni",
+      "judet": "Ialomița"
+    },
+    {
+      "rezervatie": "Pădurea de Stejari Seculari Canton Hățiș",
+      "judet": "Ialomița"
+    },
+    {
+      "rezervatie": "Acumularea Chirița",
+      "judet": "Iași"
+    },
+    {
+      "rezervatie": "Acumularea Pârcovaci",
+      "judet": "Iași"
+    },
+    {
+      "rezervatie": "Cotul Sălăgeni",
+      "judet": "Iași"
+    },
+    {
+      "rezervatie": "Balta Teiva Vișina",
+      "judet": "Iași"
+    },
+    {
+      "rezervatie": "Cotul Bran pe Râul Prut",
+      "judet": "Iași"
+    },
+    {
+      "rezervatie": "Prutețul Bălătău",
+      "judet": "Iași"
+    },
+    {
+      "rezervatie": "Rezervația acvatică Râul Prut",
+      "judet": "Iași"
+    },
+    {
+      "rezervatie": "Fânețele seculare Valea lui David",
+      "judet": "Iași"
+    },
+    {
+      "rezervatie": "Poiana cu Schit",
+      "judet": "Iași"
+    },
+    {
+      "rezervatie": "Sărăturile de la Valea Ilenei",
+      "judet": "Iași"
+    },
+    {
+      "rezervatie": "Făgetul Secular Humosu",
+      "judet": "Iași"
+    },
+    {
+      "rezervatie": "Lunca Mircești (Vasile Alecsandri)",
+      "judet": "Iași"
+    },
+    {
+      "rezervatie": "Pârâul Pietrei - Bazga Răducăneni",
+      "judet": "Iași"
+    },
+    {
+      "rezervatie": "Pădurea Cătălina - Cotnari",
+      "judet": "Iași"
+    },
+    {
+      "rezervatie": "Pădurea Dancu-Iași",
+      "judet": "Iași"
+    },
+    {
+      "rezervatie": "Pădurea Frumușica",
+      "judet": "Iași"
+    },
+    {
+      "rezervatie": "Pădurea Icușeni",
+      "judet": "Iași"
+    },
+    {
+      "rezervatie": "Pădurea Medeleni",
+      "judet": "Iași"
+    },
+    {
+      "rezervatie": "Pădurea Pietrosu",
+      "judet": "Iași"
+    },
+    {
+      "rezervatie": "Pădurea Roșcani",
+      "judet": "Iași"
+    },
+    {
+      "rezervatie": "Pădurea Tătăruși",
+      "judet": "Iași"
+    },
+    {
+      "rezervatie": "Pădurea Uricani",
+      "judet": "Iași"
+    },
+    {
+      "rezervatie": "Poieni - Cărbunăriei",
+      "judet": "Iași"
+    },
+    {
+      "rezervatie": "Bohotin - Pietrosu",
+      "judet": "Iași"
+    },
+    {
+      "rezervatie": "Punctul fosilifer Băiceni",
+      "judet": "Iași"
+    },
+    {
+      "rezervatie": "Locul fosilifer Dealul Repedea",
+      "judet": "Iași"
+    },
+    {
+      "rezervatie": "Șcheia",
+      "judet": "Iași"
+    },
+    {
+      "rezervatie": "Grădiștea - Căldărușani - Dridu",
+      "judet": "Ilfov"
+    },
+    {
+      "rezervatie": "Pădurea Snagov",
+      "judet": "Ilfov"
+    },
+    {
+      "rezervatie": "Lacul Snagov",
+      "judet": "Ilfov"
+    },
+    {
+      "rezervatie": "Lacul Căldărușani",
+      "judet": "Ilfov"
+    },
+    {
+      "rezervatie": "Mlaștinile Vlășinescu",
+      "judet": "Maramureș"
+    },
+    {
+      "rezervatie": "Tăul lui Dumitru",
+      "judet": "Maramureș"
+    },
+    {
+      "rezervatie": "Mlaștina Tăul Negru",
+      "judet": "Maramureș"
+    },
+    {
+      "rezervatie": "Cheile Lăpușului",
+      "judet": "Maramureș"
+    },
+    {
+      "rezervatie": "Cornu Nedeii - Ciungii Bălăsinii",
+      "judet": "Maramureș"
+    },
+    {
+      "rezervatie": "Mlaștina Iezerul Mare",
+      "judet": "Maramureș"
+    },
+    {
+      "rezervatie": "Poiana cu narcise Tomnatec - Sehleanu",
+      "judet": "Maramureș"
+    },
+    {
+      "rezervatie": "Arboretul de castan comestibil de la Baia Mare",
+      "judet": "Maramureș"
+    },
+    {
+      "rezervatie": "Pădurea Bavna",
+      "judet": "Maramureș"
+    },
+    {
+      "rezervatie": "Pădurea Crăiasa",
+      "judet": "Maramureș"
+    },
+    {
+      "rezervatie": "Pădurea de larice Coștiui",
+      "judet": "Maramureș"
+    },
+    {
+      "rezervatie": "Pădurea cu pini Comja",
+      "judet": "Maramureș"
+    },
+    {
+      "rezervatie": "Pădurea Ronișoara",
+      "judet": "Maramureș"
+    },
+    {
+      "rezervatie": "Coloanele de la Limpedea",
+      "judet": "Maramureș"
+    },
+    {
+      "rezervatie": "Cheile Babei",
+      "judet": "Maramureș"
+    },
+    {
+      "rezervatie": "Rozeta de piatră Ilba",
+      "judet": "Maramureș"
+    },
+    {
+      "rezervatie": "Cheile Tătarului",
+      "judet": "Maramureș"
+    },
+    {
+      "rezervatie": "Izvorul Bătrâna",
+      "judet": "Maramureș"
+    },
+    {
+      "rezervatie": "Lacul Albastru",
+      "judet": "Maramureș"
+    },
+    {
+      "rezervatie": "Arcer - Țibleș Bran",
+      "judet": "Maramureș"
+    },
+    {
+      "rezervatie": "Creasta Cocoșului",
+      "judet": "Maramureș"
+    },
+    {
+      "rezervatie": "Lacul Morărenilor",
+      "judet": "Maramureș"
+    },
+    {
+      "rezervatie": "Mlaștina Poiana Brazilor",
+      "judet": "Maramureș"
+    },
+    {
+      "rezervatie": "Peștera și izbucul Izvorul Albastru al Izei",
+      "judet": "Maramureș"
+    },
+    {
+      "rezervatie": "Vârful Farcău - Lacul Vinderelu - Vârful Mihăilecu",
+      "judet": "Maramureș"
+    },
+    {
+      "rezervatie": "Rezervația fosiliferă Chiuzbaia",
+      "judet": "Maramureș"
+    },
+    {
+      "rezervatie": "Stâncăriile Sâlhoi - Zâmbroslavele",
+      "judet": "Maramureș"
+    },
+    {
+      "rezervatie": "Peștera Boiu Mare",
+      "judet": "Maramureș"
+    },
+    {
+      "rezervatie": "Peștera cu Oase de la Poiana Botizii",
+      "judet": "Maramureș"
+    },
+    {
+      "rezervatie": "Peștera din Dealul Solovan",
+      "judet": "Maramureș"
+    },
+    {
+      "rezervatie": "Peștera Vălenii Șomcutei",
+      "judet": "Maramureș"
+    },
+    {
+      "rezervatie": "Rezervația științifică Pietrosu Mare",
+      "judet": "Maramureș"
+    },
+    {
+      "rezervatie": "Rezervația științifică Piatra Rea",
+      "judet": "Maramureș"
+    },
+    {
+      "rezervatie": "Cracul Crucii",
+      "judet": "Mehedinți"
+    },
+    {
+      "rezervatie": "Cracul Găioara",
+      "judet": "Mehedinți"
+    },
+    {
+      "rezervatie": "Fața Virului",
+      "judet": "Mehedinți"
+    },
+    {
+      "rezervatie": "Gura Văii - Vârciorova",
+      "judet": "Mehedinți"
+    },
+    {
+      "rezervatie": "Dealul Duhovnei",
+      "judet": "Mehedinți"
+    },
+    {
+      "rezervatie": "Pădurea Borovăț",
+      "judet": "Mehedinți"
+    },
+    {
+      "rezervatie": "Pădurea Bunget",
+      "judet": "Mehedinți"
+    },
+    {
+      "rezervatie": "Pădurea Drăghiceanu",
+      "judet": "Mehedinți"
+    },
+    {
+      "rezervatie": "Pădurea Stârmina",
+      "judet": "Mehedinți"
+    },
+    {
+      "rezervatie": "Pădurea de liliac Ponoarele",
+      "judet": "Mehedinți"
+    },
+    {
+      "rezervatie": "Tufărișurile mediteraneene de la Isverna",
+      "judet": "Mehedinți"
+    },
+    {
+      "rezervatie": "Cheile Coșuștei",
+      "judet": "Mehedinți"
+    },
+    {
+      "rezervatie": "Complexul carstic de la Ponoarele",
+      "judet": "Mehedinți"
+    },
+    {
+      "rezervatie": "Vârful lui Stan",
+      "judet": "Mehedinți"
+    },
+    {
+      "rezervatie": "Pereții calcaroși de la Izvoarele Coșuștei",
+      "judet": "Mehedinți"
+    },
+    {
+      "rezervatie": "Cazanele Mari și Cazanele Mici",
+      "judet": "Mehedinți"
+    },
+    {
+      "rezervatie": "Cornetul Babelor și Cerboanei",
+      "judet": "Mehedinți"
+    },
+    {
+      "rezervatie": "Cornetul Piatra Încălecată",
+      "judet": "Mehedinți"
+    },
+    {
+      "rezervatie": "Cornetul Bălții",
+      "judet": "Mehedinți"
+    },
+    {
+      "rezervatie": "Cheile Topolniței și Peștera Topolniței",
+      "judet": "Mehedinți"
+    },
+    {
+      "rezervatie": "Cornetul Văii și Valea Mănăstirii",
+      "judet": "Mehedinți"
+    },
+    {
+      "rezervatie": "Dealul Vărănic",
+      "judet": "Mehedinți"
+    },
+    {
+      "rezervatie": "Izvorul și stâncăriile de la Câmana",
+      "judet": "Mehedinți"
+    },
+    {
+      "rezervatie": "Tufărișurile mediteraneene Cornetul Obârșia-Cloșani",
+      "judet": "Mehedinți"
+    },
+    {
+      "rezervatie": "Valea Oglănicului",
+      "judet": "Mehedinți"
+    },
+    {
+      "rezervatie": "Valea Țesna",
+      "judet": "Mehedinți"
+    },
+    {
+      "rezervatie": "Locul fosilifer Bahna",
+      "judet": "Mehedinți"
+    },
+    {
+      "rezervatie": "Locul fosilifer Malovăț",
+      "judet": "Mehedinți"
+    },
+    {
+      "rezervatie": "Locul fosilifer Svinița",
+      "judet": "Mehedinți"
+    },
+    {
+      "rezervatie": "Locul fosilifer Pietrele Roșii",
+      "judet": "Mehedinți"
+    },
+    {
+      "rezervatie": "Peștera Epuran",
+      "judet": "Mehedinți"
+    },
+    {
+      "rezervatie": "Rezervația de bujori Zau de Câmpie",
+      "judet": "Mureș"
+    },
+    {
+      "rezervatie": "Rezervația cu lalea pestriță Vălenii de Mureș",
+      "judet": "Mureș"
+    },
+    {
+      "rezervatie": "Poiana cu narcise Gurghiu",
+      "judet": "Mureș"
+    },
+    {
+      "rezervatie": "Arboretul de Chamaecyparis lawsoniana Sângeorgiu de Pădure",
+      "judet": "Mureș"
+    },
+    {
+      "rezervatie": "Molidul de rezonanță din Pădurea Lăpușna",
+      "judet": "Mureș"
+    },
+    {
+      "rezervatie": "Pădurea Mociar",
+      "judet": "Mureș"
+    },
+    {
+      "rezervatie": "Stejarii seculari de la Breite",
+      "judet": "Mureș"
+    },
+    {
+      "rezervatie": "Rezervația de stejar pufos",
+      "judet": "Mureș"
+    },
+    {
+      "rezervatie": "Defileul Deda - Toplița",
+      "judet": "Mureș"
+    },
+    {
+      "rezervatie": "Lacul Fărăgău",
+      "judet": "Mureș"
+    },
+    {
+      "rezervatie": "Lacul Ursu",
+      "judet": "Mureș"
+    },
+    {
+      "rezervatie": "Pădurea Săbed",
+      "judet": "Mureș"
+    },
+    {
+      "rezervatie": "Scaunul Domnului",
+      "judet": "Mureș"
+    },
+    {
+      "rezervatie": "Seaca",
+      "judet": "Mureș"
+    },
+    {
+      "rezervatie": "Stejarii seculari de la Sângeorgiu de Mureș",
+      "judet": "Mureș"
+    },
+    {
+      "rezervatie": "Lacul Cuejdel",
+      "judet": "Neamț"
+    },
+    {
+      "rezervatie": "Lacul Izvorul Muntelui",
+      "judet": "Neamț"
+    },
+    {
+      "rezervatie": "Pârâul Borcuța",
+      "judet": "Neamț"
+    },
+    {
+      "rezervatie": "Lacul Pângărați",
+      "judet": "Neamț"
+    },
+    {
+      "rezervatie": "Lacul Vaduri",
+      "judet": "Neamț"
+    },
+    {
+      "rezervatie": "Rezervația faunistică Borca",
+      "judet": "Neamț"
+    },
+    {
+      "rezervatie": "Rezervația faunistică Brateș",
+      "judet": "Neamț"
+    },
+    {
+      "rezervatie": "Rezervația de Zimbri - Neamț",
+      "judet": "Neamț"
+    },
+    {
+      "rezervatie": "Dealul Vulpii-Botoaia (Ochiul de Stepă)",
+      "judet": "Neamț"
+    },
+    {
+      "rezervatie": "Codrii de Aramă",
+      "judet": "Neamț"
+    },
+    {
+      "rezervatie": "Codrii de Argint",
+      "judet": "Neamț"
+    },
+    {
+      "rezervatie": "Codrul secular Runc",
+      "judet": "Neamț"
+    },
+    {
+      "rezervatie": "Pădurea Dobreni",
+      "judet": "Neamț"
+    },
+    {
+      "rezervatie": "Pădurea Goșman",
+      "judet": "Neamț"
+    },
+    {
+      "rezervatie": "Pădurea Pângărați",
+      "judet": "Neamț"
+    },
+    {
+      "rezervatie": "Pădurea Secu",
+      "judet": "Neamț"
+    },
+    {
+      "rezervatie": "Piatra Teiului",
+      "judet": "Neamț"
+    },
+    {
+      "rezervatie": "Stânca Șerbești",
+      "judet": "Neamț"
+    },
+    {
+      "rezervatie": "Cheile Bicazului",
+      "judet": "Neamț"
+    },
+    {
+      "rezervatie": "Cheile Șugăului",
+      "judet": "Neamț"
+    },
+    {
+      "rezervatie": "Locul fosilifer Agârcia",
+      "judet": "Neamț"
+    },
+    {
+      "rezervatie": "Locul fosilifer Cernegura",
+      "judet": "Neamț"
+    },
+    {
+      "rezervatie": "Locul fosilifer Cozla",
+      "judet": "Neamț"
+    },
+    {
+      "rezervatie": "Locul fosilifer Pietricica",
+      "judet": "Neamț"
+    },
+    {
+      "rezervatie": "Cascada Duruitoarea",
+      "judet": "Neamț"
+    },
+    {
+      "rezervatie": "Peștera Munticelu",
+      "judet": "Neamț"
+    },
+    {
+      "rezervatie": "Peștera Toșorog",
+      "judet": "Neamț"
+    },
+    {
+      "rezervatie": "Polița cu Crini",
+      "judet": "Neamț"
+    },
+    {
+      "rezervatie": "Lacul Izbiceni",
+      "judet": "Olt"
+    },
+    {
+      "rezervatie": "Lacul Strejești",
+      "judet": "Olt"
+    },
+    {
+      "rezervatie": "Iris - Malu Roșu",
+      "judet": "Olt"
+    },
+    {
+      "rezervatie": "Rezervația de bujori a Academiei",
+      "judet": "Olt"
+    },
+    {
+      "rezervatie": "Casa Pădurii din Pădurea Potelu",
+      "judet": "Olt"
+    },
+    {
+      "rezervatie": "Pădurea Braniștea Catârilor",
+      "judet": "Olt"
+    },
+    {
+      "rezervatie": "Pădurea Călugărească",
+      "judet": "Olt"
+    },
+    {
+      "rezervatie": "Pădurea Reșca",
+      "judet": "Olt"
+    },
+    {
+      "rezervatie": "Pădurea Seaca - Optășani",
+      "judet": "Olt"
+    },
+    {
+      "rezervatie": "Rezervația de arborete de gârniță",
+      "judet": "Olt"
+    },
+    {
+      "rezervatie": "Valea Oltețului",
+      "judet": "Olt"
+    },
+    {
+      "rezervatie": "Arinișul de la Sinaia - Cumpătul",
+      "judet": "Prahova"
+    },
+    {
+      "rezervatie": "Muntele de Sare Slănic Prahova",
+      "judet": "Prahova"
+    },
+    {
+      "rezervatie": "Tigăile din Ciucaș",
+      "judet": "Prahova"
+    },
+    {
+      "rezervatie": "Abruptul prahovean Bucegi",
+      "judet": "Prahova"
+    },
+    {
+      "rezervatie": "Munții Colții lui Barbeș",
+      "judet": "Prahova"
+    },
+    {
+      "rezervatie": "Locul fosilifer Plaiul Hoților",
+      "judet": "Prahova"
+    },
+    {
+      "rezervatie": "Balta Cehei",
+      "judet": "Sălaj"
+    },
+    {
+      "rezervatie": "Mlaștina de la Iaz",
+      "judet": "Sălaj"
+    },
+    {
+      "rezervatie": "Pădurea Lapiș",
+      "judet": "Sălaj"
+    },
+    {
+      "rezervatie": "Poiana cu narcise de la Racâș-Hida",
+      "judet": "Sălaj"
+    },
+    {
+      "rezervatie": "Pădurea „La Castani”",
+      "judet": "Sălaj"
+    },
+    {
+      "rezervatie": "Rezervația peisagistică Tusa-Barcău",
+      "judet": "Sălaj"
+    },
+    {
+      "rezervatie": "Stejărișul Panic",
+      "judet": "Sălaj"
+    },
+    {
+      "rezervatie": "Stejărișul de baltă Panic",
+      "judet": "Sălaj"
+    },
+    {
+      "rezervatie": "Calcarele de Rona",
+      "judet": "Sălaj"
+    },
+    {
+      "rezervatie": "Grădina Zmeilor",
+      "judet": "Sălaj"
+    },
+    {
+      "rezervatie": "Pietrele Moșu și Baba",
+      "judet": "Sălaj"
+    },
+    {
+      "rezervatie": "Gresiile de pe Stânca Dracului",
+      "judet": "Sălaj"
+    },
+    {
+      "rezervatie": "Lunca cu lalea pestriță - Valea Sălajului",
+      "judet": "Sălaj"
+    },
+    {
+      "rezervatie": "Stanii Clițului",
+      "judet": "Sălaj"
+    },
+    {
+      "rezervatie": "Peștera Măgurici",
+      "judet": "Sălaj"
+    },
+    {
+      "rezervatie": "Heleșteele de la Moftinu Mic",
+      "judet": "Satu Mare"
+    },
+    {
+      "rezervatie": "Dunele de nisip Foieni",
+      "judet": "Satu Mare"
+    },
+    {
+      "rezervatie": "Mlaștina Vermeș",
+      "judet": "Satu Mare"
+    },
+    {
+      "rezervatie": "Tinoavele din Munții Oaș",
+      "judet": "Satu Mare"
+    },
+    {
+      "rezervatie": "Pădurea de frasini Urziceni",
+      "judet": "Satu Mare"
+    },
+    {
+      "rezervatie": "Pădurea cu pini Comja",
+      "judet": "Satu Mare"
+    },
+    {
+      "rezervatie": "Pădurea Runc",
+      "judet": "Satu Mare"
+    },
+    {
+      "rezervatie": "Cursul inferior al Râului Tur",
+      "judet": "Satu Mare"
+    },
+    {
+      "rezervatie": "Iezărele Cindrelului",
+      "judet": "Sibiu"
+    },
+    {
+      "rezervatie": "Șuvara Sașilor",
+      "judet": "Sibiu"
+    },
+    {
+      "rezervatie": "Lacul Tătarilor",
+      "judet": "Sibiu"
+    },
+    {
+      "rezervatie": "Canionul Mihăileni",
+      "judet": "Sibiu"
+    },
+    {
+      "rezervatie": "Lacul fără fund Ocna Sibiului",
+      "judet": "Sibiu"
+    },
+    {
+      "rezervatie": "Masa Jidovului",
+      "judet": "Sibiu"
+    },
+    {
+      "rezervatie": "Pintenii din Coasta Jinei",
+      "judet": "Sibiu"
+    },
+    {
+      "rezervatie": "Vulcanii noroioși de la Hașag",
+      "judet": "Sibiu"
+    },
+    {
+      "rezervatie": "Dealul Zackel",
+      "judet": "Sibiu"
+    },
+    {
+      "rezervatie": "Golul Alpin al Munților Făgăraș între Podragu - Suru",
+      "judet": "Sibiu"
+    },
+    {
+      "rezervatie": "Valea Bâlii",
+      "judet": "Sibiu"
+    },
+    {
+      "rezervatie": "La Grumaji",
+      "judet": "Sibiu"
+    },
+    {
+      "rezervatie": "Calcarele eocene de la Turnu Roșu - Porcești",
+      "judet": "Sibiu"
+    },
+    {
+      "rezervatie": "Calcarele cu hippuriți de la Cisnădioara",
+      "judet": "Sibiu"
+    },
+    {
+      "rezervatie": "Fânațele seculare de la Calafindești",
+      "judet": "Suceava"
+    },
+    {
+      "rezervatie": "Răchitișul Mare",
+      "judet": "Suceava"
+    },
+    {
+      "rezervatie": "Tinovul Găina - Lucina",
+      "judet": "Suceava"
+    },
+    {
+      "rezervatie": "Tinovul Poiana Stampei",
+      "judet": "Suceava"
+    },
+    {
+      "rezervatie": "Tinovul Șaru Dornei",
+      "judet": "Suceava"
+    },
+    {
+      "rezervatie": "Fânațele seculare Frumoasa",
+      "judet": "Suceava"
+    },
+    {
+      "rezervatie": "Fânațele montane Todirescu",
+      "judet": "Suceava"
+    },
+    {
+      "rezervatie": "Fânațele seculare Ponoare",
+      "judet": "Suceava"
+    },
+    {
+      "rezervatie": "Codrul secular Slătioara",
+      "judet": "Suceava"
+    },
+    {
+      "rezervatie": "Codrul secular Giumalău",
+      "judet": "Suceava"
+    },
+    {
+      "rezervatie": "Codrul secular Loben",
+      "judet": "Suceava"
+    },
+    {
+      "rezervatie": "Făgetul Dragomirna",
+      "judet": "Suceava"
+    },
+    {
+      "rezervatie": "Jnepenișul cu Pinus cembra - Călimani",
+      "judet": "Suceava"
+    },
+    {
+      "rezervatie": "Peștera Liliecilor",
+      "judet": "Suceava"
+    },
+    {
+      "rezervatie": "Pădurea Crujana",
+      "judet": "Suceava"
+    },
+    {
+      "rezervatie": "Pădurea Roșoșa",
+      "judet": "Suceava"
+    },
+    {
+      "rezervatie": "Pădurea Voivodeasa",
+      "judet": "Suceava"
+    },
+    {
+      "rezervatie": "Pădurea Zamostea - Lunca",
+      "judet": "Suceava"
+    },
+    {
+      "rezervatie": "Doisprezece Apostoli",
+      "judet": "Suceava"
+    },
+    {
+      "rezervatie": "Moara Dracului",
+      "judet": "Suceava"
+    },
+    {
+      "rezervatie": "Piatra Țibăului",
+      "judet": "Suceava"
+    },
+    {
+      "rezervatie": "Klippa de calcare triasice Pârâul Cailor",
+      "judet": "Suceava"
+    },
+    {
+      "rezervatie": "Piatra Buhei",
+      "judet": "Suceava"
+    },
+    {
+      "rezervatie": "Piatra Pinului și Piatra Șoimului",
+      "judet": "Suceava"
+    },
+    {
+      "rezervatie": "Cheile Zugrenilor",
+      "judet": "Suceava"
+    },
+    {
+      "rezervatie": "Cheile Lucavei",
+      "judet": "Suceava"
+    },
+    {
+      "rezervatie": "Pietrele Doamnei",
+      "judet": "Suceava"
+    },
+    {
+      "rezervatie": "Rezervația Bila-Lala",
+      "judet": "Suceava"
+    },
+    {
+      "rezervatie": "Stratele cu Aptychus de la Pojorâta",
+      "judet": "Suceava"
+    },
+    {
+      "rezervatie": "Balta Suhaia",
+      "judet": "Teleorman"
+    },
+    {
+      "rezervatie": "Ostrovul Gâsca",
+      "judet": "Teleorman"
+    },
+    {
+      "rezervatie": "Ostrovul Mare",
+      "judet": "Teleorman"
+    },
+    {
+      "rezervatie": "Pădurea Pojorâtele",
+      "judet": "Teleorman"
+    },
+    {
+      "rezervatie": "Pădurea Troianu",
+      "judet": "Teleorman"
+    },
+    {
+      "rezervatie": "Lunca Pogănișului",
+      "judet": "Timiș"
+    },
+    {
+      "rezervatie": "Pajiștea cu narcise Bătești",
+      "judet": "Timiș"
+    },
+    {
+      "rezervatie": "Movila Sisitak",
+      "judet": "Timiș"
+    },
+    {
+      "rezervatie": "Arboretumul Bazoș",
+      "judet": "Timiș"
+    },
+    {
+      "rezervatie": "Pădurea Bistra",
+      "judet": "Timiș"
+    },
+    {
+      "rezervatie": "Pădurea Cenad",
+      "judet": "Timiș"
+    },
+    {
+      "rezervatie": "Insula Igriș",
+      "judet": "Timiș"
+    },
+    {
+      "rezervatie": "Insula Mare Cenad",
+      "judet": "Timiș"
+    },
+    {
+      "rezervatie": "Lacul Surduc",
+      "judet": "Timiș"
+    },
+    {
+      "rezervatie": "Rezervația ornitologică Beba Veche",
+      "judet": "Timiș"
+    },
+    {
+      "rezervatie": "Mlaștinile Murani",
+      "judet": "Timiș"
+    },
+    {
+      "rezervatie": "Mlaștinile Satchinez",
+      "judet": "Timiș"
+    },
+    {
+      "rezervatie": "Locul fosilifer Rădmănești",
+      "judet": "Timiș"
+    },
+    {
+      "rezervatie": "Sărăturile Diniaș",
+      "judet": "Timiș"
+    },
+    {
+      "rezervatie": "Lacul Belciug",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Lacul Potcoava",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Lacul Rotundu",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Arinișul Erenciuc",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Capul Doloșman",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Complexul Sacalin Zătoane",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Complexul Periteașca - Leahova",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Complexul Vătafu - Lunghuleț",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Dealul Ghiunghiurmez",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Lacul Nebunu",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Insula Popina",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Rezervația botanică Korum Tarla",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Rezervația de liliac Valea Oilor",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Rezervația de liliac Fântâna Mare",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Rezervația naturală Dealul Bujorului",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Pădurea Babadag - Codru",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Pădurea Caraorman",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Pădurea Letea",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Pădurea Valea Fagilor",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Rezervația Agighiol",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Vârful Secarul",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Grindul și Lacul Răducu",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Roșca - Buhaiova",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Sărăturile Murighiol",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Beidaud",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Carasan - Teke",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Chervant - Priopcea",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Călugăru - Iancina",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Casimcea",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Colțanii Mari",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Dealurile Beștepe",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Dealul Deniz Tepe",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Dealul Mândrești",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Dealul Sarica",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Enisala",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Lacul Traian",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Mănăstirea Cocoș",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Măgurele",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Muchiile Cernei - Iaila",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Muntele Consul",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Pădurea Niculițel",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Peceneaga",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Războieni",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Uspenia",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Valea Mahomencea",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Valea Ostrovului",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Locul fosilifer Dealul Bujoarele",
+      "judet": "Tulcea"
+    },
+    {
+      "rezervatie": "Coasta Rupturile - Tanacu",
+      "judet": "Vaslui"
+    },
+    {
+      "rezervatie": "Fâneața de la Glodeni",
+      "judet": "Vaslui"
+    },
+    {
+      "rezervatie": "Movila lui Burcel",
+      "judet": "Vaslui"
+    },
+    {
+      "rezervatie": "Pădurea Hârboanca",
+      "judet": "Vaslui"
+    },
+    {
+      "rezervatie": "Pădurea Bădeana",
+      "judet": "Vaslui"
+    },
+    {
+      "rezervatie": "Pădurea Bălteni",
+      "judet": "Vaslui"
+    },
+    {
+      "rezervatie": "Pădurea Seaca-Movileni",
+      "judet": "Vaslui"
+    },
+    {
+      "rezervatie": "Locul fosilifer Nisipăria Hulubăț",
+      "judet": "Vaslui"
+    },
+    {
+      "rezervatie": "Locul fosilifer Mălușteni",
+      "judet": "Vaslui"
+    },
+    {
+      "rezervatie": "Lacul Strejești",
+      "judet": "Vâlcea"
+    },
+    {
+      "rezervatie": "Mlaștina Mosoroasa",
+      "judet": "Vâlcea"
+    },
+    {
+      "rezervatie": "Muzeul Trovanților",
+      "judet": "Vâlcea"
+    },
+    {
+      "rezervatie": "Piramidele de la Slătioara",
+      "judet": "Vâlcea"
+    },
+    {
+      "rezervatie": "Piramidele din Valea Stăncioiului",
+      "judet": "Vâlcea"
+    },
+    {
+      "rezervatie": "Rezervația Ocnele Mari",
+      "judet": "Vâlcea"
+    },
+    {
+      "rezervatie": "Căldarea Gâlcescu",
+      "judet": "Vâlcea"
+    },
+    {
+      "rezervatie": "Jnepenișul Stricatul",
+      "judet": "Vâlcea"
+    },
+    {
+      "rezervatie": "Iezerul Latorița",
+      "judet": "Vâlcea"
+    },
+    {
+      "rezervatie": "Muntele Stogu",
+      "judet": "Vâlcea"
+    },
+    {
+      "rezervatie": "Pădurea Silea",
+      "judet": "Vâlcea"
+    },
+    {
+      "rezervatie": "Pădurea Călinești - Brezoi",
+      "judet": "Vâlcea"
+    },
+    {
+      "rezervatie": "Pădurea Latorița",
+      "judet": "Vâlcea"
+    },
+    {
+      "rezervatie": "Pădurea Tisa Mare",
+      "judet": "Vâlcea"
+    },
+    {
+      "rezervatie": "Pădurea Valea Cheii",
+      "judet": "Vâlcea"
+    },
+    {
+      "rezervatie": "Rezervația Cristești",
+      "judet": "Vâlcea"
+    },
+    {
+      "rezervatie": "Rezervația Sterpu-Dealul Negru",
+      "judet": "Vâlcea"
+    },
+    {
+      "rezervatie": "Rezervația Miru-Bora",
+      "judet": "Vâlcea"
+    },
+    {
+      "rezervatie": "Rezervația Rădița - Mânzu",
+      "judet": "Vâlcea"
+    },
+    {
+      "rezervatie": "Rezervația paleontologică Golești",
+      "judet": "Vâlcea"
+    },
+    {
+      "rezervatie": "Avenul Piciorul Boului",
+      "judet": "Vâlcea"
+    },
+    {
+      "rezervatie": "Peștera Arnăuților",
+      "judet": "Vâlcea"
+    },
+    {
+      "rezervatie": "Peștera Caprelor",
+      "judet": "Vâlcea"
+    },
+    {
+      "rezervatie": "Peștera Clopot",
+      "judet": "Vâlcea"
+    },
+    {
+      "rezervatie": "Peștera cu Lac",
+      "judet": "Vâlcea"
+    },
+    {
+      "rezervatie": "Peștera cu Perle",
+      "judet": "Vâlcea"
+    },
+    {
+      "rezervatie": "Peștera Munteanu - Murgoci",
+      "judet": "Vâlcea"
+    },
+    {
+      "rezervatie": "Peștera Liliecilor",
+      "judet": "Vâlcea"
+    },
+    {
+      "rezervatie": "Peștera Pagodelor",
+      "judet": "Vâlcea"
+    },
+    {
+      "rezervatie": "Peștera Rac",
+      "judet": "Vâlcea"
+    },
+    {
+      "rezervatie": "Peștera Valea Bistrița",
+      "judet": "Vâlcea"
+    },
+    {
+      "rezervatie": "Lunca Siretului Inferior",
+      "judet": "Vrancea"
+    },
+    {
+      "rezervatie": "Măgura Odobești",
+      "judet": "Vrancea"
+    },
+    {
+      "rezervatie": "Lacul Negru - Cheile Nărujei I",
+      "judet": "Vrancea"
+    },
+    {
+      "rezervatie": "Pădurea Reghiu - Scruntaru",
+      "judet": "Vrancea"
+    },
+    {
+      "rezervatie": "Poiana Muntioru",
+      "judet": "Vrancea"
+    },
+    {
+      "rezervatie": "Pădurea Lepșa - Zboina",
+      "judet": "Vrancea"
+    },
+    {
+      "rezervatie": "Pădurea Schitu - Dălhăuți",
+      "judet": "Vrancea"
+    },
+    {
+      "rezervatie": "Valea Tișiței",
+      "judet": "Vrancea"
+    },
+    {
+      "rezervatie": "Cascada Putnei",
+      "judet": "Vrancea"
+    },
+    {
+      "rezervatie": "Rezervația Algheanu",
+      "judet": "Vrancea"
+    },
+    {
+      "rezervatie": "Râpa Roșie - Dealul Morii",
+      "judet": "Vrancea"
+    },
+    {
+      "rezervatie": "Strâmtura - Coza",
+      "judet": "Vrancea"
+    },
+    {
+      "rezervatie": "Cascada Mișina",
+      "judet": "Vrancea"
+    },
+    {
+      "rezervatie": "Căldările Zăbalei - Zârna Mică",
+      "judet": "Vrancea"
+    },
+    {
+      "rezervatie": "Focul Viu de la Andreiașu de Jos",
+      "judet": "Vrancea"
+    },
+    {
+      "rezervatie": "Lunca Siretului",
+      "judet": "Vrancea"
+    },
+    {
+      "rezervatie": "Muntele Goru",
+      "judet": "Vrancea"
+    },
+    {
+      "rezervatie": "Pădurea Verdele - Cheile Nărujei II",
+      "judet": "Vrancea"
+    },
+    {
+      "rezervatie": "Pădurea Cenaru",
+      "judet": "Vrancea"
+    },
+    {
+      "rezervatie": "Pădurea Merișor - Cotul Zătuanului",
+      "judet": "Vrancea"
+    },
+    {
+      "rezervatie": "Pârâul Bozu",
+      "judet": "Vrancea"
+    },
+    {
+      "rezervatie": "Groapa cu Pini",
+      "judet": "Vrancea"
+    }
+  ],
+  "meta": {
+    "title": "Rezervațiile naturale din România pe județe - Free Download",
+    "description": "Lista rezervațiilor naturale din România (peșteri, chei, lacuri, păduri, locuri fosilifere etc.) grupate pe județe. Contains 935 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Rezervațiile naturale din România pe județe | ListBase",
+    "seo_description": "Download Rezervațiile naturale din România pe județe — 935 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 935 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Lista_rezervațiilor_naturale_din_România"
+    ]
+  }
+}

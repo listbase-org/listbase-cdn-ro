@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-14T02:05:33.367Z",
-  "total_datasets": 508,
-  "total_records": 168658,
+  "generated": "2026-11-14T02:05:46.932Z",
+  "total_datasets": 509,
+  "total_records": 169593,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "finance",
@@ -2293,6 +2293,29 @@
         "xlsx": {
           "name": "ro-parcuri-nationale-naturale_RO.xlsx",
           "size": 9033
+        }
+      }
+    },
+    {
+      "id": "ro-rezervatii-naturale-pe-judete",
+      "name": "Rezervațiile naturale din România pe județe",
+      "category": "environment",
+      "record_count": 935,
+      "columns": [
+        "rezervatie",
+        "judet"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Lista_rezervațiilor_naturale_din_România",
+      "updated": "2026-11",
+      "size": 80926,
+      "files": {
+        "csv": {
+          "name": "ro-rezervatii-naturale-pe-judete_RO.csv",
+          "size": 33610
+        },
+        "xlsx": {
+          "name": "ro-rezervatii-naturale-pe-judete_RO.xlsx",
+          "size": 26261
         }
       }
     },
