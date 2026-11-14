@@ -1,0 +1,496 @@
+{
+  "id": "ro-vinuri-doc-si-ig-protejate-ue",
+  "name": "Vinurile românești cu denumire de origine controlată (DOC) și indicație geografică (IG)",
+  "title": "Vinurile românești cu denumire de origine controlată (DOC) și indicație geografică (IG)",
+  "description": "Lista podgoriilor și vinurilor din România protejate în registrul UE eAmbrosia ca denumire de origine (DOC/DOP) sau indicație geografică (IG/IGP), cu numărul dosarului și data înregistrării.",
+  "category": "agriculture",
+  "source": "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/",
+  "source_url": "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/",
+  "updated": "2026-11",
+  "record_count": 55,
+  "columns": [
+    {
+      "key": "denumire",
+      "label": "Denumire",
+      "type": "string"
+    },
+    {
+      "key": "alte_denumiri",
+      "label": "Alte Denumiri",
+      "type": "string"
+    },
+    {
+      "key": "tip_protectie",
+      "label": "Tip Protectie",
+      "type": "string"
+    },
+    {
+      "key": "stadiu",
+      "label": "Stadiu",
+      "type": "string"
+    },
+    {
+      "key": "numar_dosar",
+      "label": "Numar Dosar",
+      "type": "string"
+    },
+    {
+      "key": "data_inregistrarii",
+      "label": "Data Inregistrarii",
+      "type": "date"
+    }
+  ],
+  "rows": [
+    {
+      "denumire": "Adamclisi",
+      "alte_denumiri": "",
+      "tip_protectie": "DOC (DOP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PDO-RO-N0037",
+      "data_inregistrarii": "2020-07-30"
+    },
+    {
+      "denumire": "Aiud",
+      "alte_denumiri": "",
+      "tip_protectie": "DOC (DOP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PDO-RO-A0366",
+      "data_inregistrarii": "2007-05-10"
+    },
+    {
+      "denumire": "Alba Iulia",
+      "alte_denumiri": "",
+      "tip_protectie": "DOC (DOP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PDO-RO-A0368",
+      "data_inregistrarii": "2007-05-10"
+    },
+    {
+      "denumire": "Babadag",
+      "alte_denumiri": "",
+      "tip_protectie": "DOC (DOP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PDO-RO-A1424",
+      "data_inregistrarii": "2007-05-10"
+    },
+    {
+      "denumire": "Banat",
+      "alte_denumiri": "",
+      "tip_protectie": "DOC (DOP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PDO-RO-A0028",
+      "data_inregistrarii": "2007-05-10"
+    },
+    {
+      "denumire": "Banu Mărăcine",
+      "alte_denumiri": "",
+      "tip_protectie": "DOC (DOP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PDO-RO-A1558",
+      "data_inregistrarii": "2007-05-10"
+    },
+    {
+      "denumire": "Bohotin",
+      "alte_denumiri": "",
+      "tip_protectie": "DOC (DOP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PDO-RO-A0138",
+      "data_inregistrarii": "2007-05-10"
+    },
+    {
+      "denumire": "Colinele Dobrogei",
+      "alte_denumiri": "",
+      "tip_protectie": "IG (IGP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PGI-RO-A0612",
+      "data_inregistrarii": "2007-04-28"
+    },
+    {
+      "denumire": "Coteşti",
+      "alte_denumiri": "",
+      "tip_protectie": "DOC (DOP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PDO-RO-A1577",
+      "data_inregistrarii": "2007-05-10"
+    },
+    {
+      "denumire": "Cotnari",
+      "alte_denumiri": "",
+      "tip_protectie": "DOC (DOP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PDO-RO-A0135",
+      "data_inregistrarii": "2007-05-10"
+    },
+    {
+      "denumire": "Crişana",
+      "alte_denumiri": "",
+      "tip_protectie": "DOC (DOP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PDO-RO-A0105",
+      "data_inregistrarii": "2007-05-10"
+    },
+    {
+      "denumire": "Dealu Bujorului",
+      "alte_denumiri": "",
+      "tip_protectie": "DOC (DOP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PDO-RO-A0132",
+      "data_inregistrarii": "2007-05-10"
+    },
+    {
+      "denumire": "Dealu Mare",
+      "alte_denumiri": "",
+      "tip_protectie": "DOC (DOP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PDO-RO-A1062",
+      "data_inregistrarii": "2007-05-10"
+    },
+    {
+      "denumire": "Dealu Mare",
+      "alte_denumiri": "",
+      "tip_protectie": "DOC (DOP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PDO-RO-A1067",
+      "data_inregistrarii": "2007-05-10"
+    },
+    {
+      "denumire": "Dealu Mare",
+      "alte_denumiri": "",
+      "tip_protectie": "DOC (DOP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PDO-RO-A1336",
+      "data_inregistrarii": "2007-05-10"
+    },
+    {
+      "denumire": "Dealu Mare",
+      "alte_denumiri": "",
+      "tip_protectie": "DOC (DOP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PDO-RO-A1079",
+      "data_inregistrarii": "2007-05-10"
+    },
+    {
+      "denumire": "Dealurile Crişanei",
+      "alte_denumiri": "",
+      "tip_protectie": "IG (IGP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PGI-RO-A0106",
+      "data_inregistrarii": "2007-04-28"
+    },
+    {
+      "denumire": "Dealurile Moldovei",
+      "alte_denumiri": "",
+      "tip_protectie": "IG (IGP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PGI-RO-A1591",
+      "data_inregistrarii": "2007-04-28"
+    },
+    {
+      "denumire": "Dealurile Munteniei",
+      "alte_denumiri": "",
+      "tip_protectie": "IG (IGP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PGI-RO-A1427",
+      "data_inregistrarii": "2007-04-28"
+    },
+    {
+      "denumire": "Dealurile Munteniei",
+      "alte_denumiri": "",
+      "tip_protectie": "IG (IGP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PGI-RO-A1085",
+      "data_inregistrarii": "2007-04-28"
+    },
+    {
+      "denumire": "Dealurile Olteniei",
+      "alte_denumiri": "",
+      "tip_protectie": "IG (IGP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PGI-RO-A1095",
+      "data_inregistrarii": "2007-04-28"
+    },
+    {
+      "denumire": "Dealurile Sătmarului",
+      "alte_denumiri": "",
+      "tip_protectie": "IG (IGP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PGI-RO-A0107",
+      "data_inregistrarii": "2007-04-28"
+    },
+    {
+      "denumire": "Dealurile Transilvaniei",
+      "alte_denumiri": "",
+      "tip_protectie": "IG (IGP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PGI-RO-A0288",
+      "data_inregistrarii": "2007-04-28"
+    },
+    {
+      "denumire": "Dealurile Vrancei",
+      "alte_denumiri": "",
+      "tip_protectie": "IG (IGP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PGI-RO-A1582",
+      "data_inregistrarii": "2007-04-28"
+    },
+    {
+      "denumire": "Dealurile Zarandului",
+      "alte_denumiri": "",
+      "tip_protectie": "IG (IGP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PGI-RO-A0031",
+      "data_inregistrarii": "2007-04-28"
+    },
+    {
+      "denumire": "Drăgăşani",
+      "alte_denumiri": "",
+      "tip_protectie": "DOC (DOP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PDO-RO-A0286",
+      "data_inregistrarii": "2007-05-10"
+    },
+    {
+      "denumire": "Huşi",
+      "alte_denumiri": "",
+      "tip_protectie": "DOC (DOP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PDO-RO-A1583",
+      "data_inregistrarii": "2007-05-10"
+    },
+    {
+      "denumire": "Iana",
+      "alte_denumiri": "",
+      "tip_protectie": "DOC (DOP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PDO-RO-A0136",
+      "data_inregistrarii": "2007-05-10"
+    },
+    {
+      "denumire": "Iaşi",
+      "alte_denumiri": "",
+      "tip_protectie": "DOC (DOP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PDO-RO-A0139",
+      "data_inregistrarii": "2007-05-10"
+    },
+    {
+      "denumire": "Jidvei",
+      "alte_denumiri": "",
+      "tip_protectie": "DOC (DOP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PDO-RO-02854",
+      "data_inregistrarii": "2025-01-23"
+    },
+    {
+      "denumire": "Lechinţa",
+      "alte_denumiri": "",
+      "tip_protectie": "DOC (DOP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PDO-RO-A0369",
+      "data_inregistrarii": "2007-05-10"
+    },
+    {
+      "denumire": "Mehedinţi",
+      "alte_denumiri": "",
+      "tip_protectie": "DOC (DOP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PDO-RO-A1072",
+      "data_inregistrarii": "2007-05-10"
+    },
+    {
+      "denumire": "Miniş",
+      "alte_denumiri": "",
+      "tip_protectie": "DOC (DOP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PDO-RO-A0029",
+      "data_inregistrarii": "2007-05-10"
+    },
+    {
+      "denumire": "Murfatlar",
+      "alte_denumiri": "",
+      "tip_protectie": "DOC (DOP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PDO-RO-A0624",
+      "data_inregistrarii": "2007-05-10"
+    },
+    {
+      "denumire": "Murfatlar",
+      "alte_denumiri": "",
+      "tip_protectie": "DOC (DOP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PDO-RO-A0030",
+      "data_inregistrarii": "2007-05-10"
+    },
+    {
+      "denumire": "Nicoreşti",
+      "alte_denumiri": "",
+      "tip_protectie": "DOC (DOP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PDO-RO-A0133",
+      "data_inregistrarii": "2007-05-10"
+    },
+    {
+      "denumire": "Odobeşti",
+      "alte_denumiri": "",
+      "tip_protectie": "DOC (DOP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PDO-RO-A1586",
+      "data_inregistrarii": "2007-05-10"
+    },
+    {
+      "denumire": "Oltina",
+      "alte_denumiri": "",
+      "tip_protectie": "DOC (DOP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PDO-RO-A0611",
+      "data_inregistrarii": "2007-05-10"
+    },
+    {
+      "denumire": "Panciu",
+      "alte_denumiri": "",
+      "tip_protectie": "DOC (DOP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PDO-RO-A1193",
+      "data_inregistrarii": "2007-05-10"
+    },
+    {
+      "denumire": "Panciu",
+      "alte_denumiri": "",
+      "tip_protectie": "DOC (DOP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PDO-RO-A1093",
+      "data_inregistrarii": "2007-05-10"
+    },
+    {
+      "denumire": "Panciu",
+      "alte_denumiri": "",
+      "tip_protectie": "DOC (DOP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PDO-RO-A1584",
+      "data_inregistrarii": "2007-05-10"
+    },
+    {
+      "denumire": "Pietroasa",
+      "alte_denumiri": "",
+      "tip_protectie": "DOC (DOP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PDO-RO-A0134",
+      "data_inregistrarii": "2007-05-10"
+    },
+    {
+      "denumire": "Recaş",
+      "alte_denumiri": "",
+      "tip_protectie": "DOC (DOP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PDO-RO-A0027",
+      "data_inregistrarii": "2007-05-10"
+    },
+    {
+      "denumire": "Sarica Niculiţel",
+      "alte_denumiri": "",
+      "tip_protectie": "DOC (DOP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PDO-RO-A1575",
+      "data_inregistrarii": "2007-05-10"
+    },
+    {
+      "denumire": "Sebeş-Apold",
+      "alte_denumiri": "",
+      "tip_protectie": "DOC (DOP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PDO-RO-A0371",
+      "data_inregistrarii": "2007-05-10"
+    },
+    {
+      "denumire": "Segarcea",
+      "alte_denumiri": "",
+      "tip_protectie": "DOC (DOP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PDO-RO-A1214",
+      "data_inregistrarii": "2007-05-10"
+    },
+    {
+      "denumire": "Strunga",
+      "alte_denumiri": "",
+      "tip_protectie": "DOC (DOP)",
+      "stadiu": "cerere depusă",
+      "numar_dosar": "PDO-RO-03446",
+      "data_inregistrarii": ""
+    },
+    {
+      "denumire": "Sâmbureşti",
+      "alte_denumiri": "",
+      "tip_protectie": "DOC (DOP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PDO-RO-A0282",
+      "data_inregistrarii": "2007-05-10"
+    },
+    {
+      "denumire": "Terasele Dunării",
+      "alte_denumiri": "",
+      "tip_protectie": "IG (IGP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PGI-RO-A1077",
+      "data_inregistrarii": "2007-04-28"
+    },
+    {
+      "denumire": "Târnave",
+      "alte_denumiri": "",
+      "tip_protectie": "DOC (DOP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PDO-RO-A1064",
+      "data_inregistrarii": "2007-05-10"
+    },
+    {
+      "denumire": "Târnave",
+      "alte_denumiri": "",
+      "tip_protectie": "DOC (DOP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PDO-RO-A0365",
+      "data_inregistrarii": "2007-05-10"
+    },
+    {
+      "denumire": "Viile Caraşului",
+      "alte_denumiri": "",
+      "tip_protectie": "IG (IGP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PGI-RO-A0032",
+      "data_inregistrarii": "2007-04-28"
+    },
+    {
+      "denumire": "Viile Timişului",
+      "alte_denumiri": "",
+      "tip_protectie": "IG (IGP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PGI-RO-A0108",
+      "data_inregistrarii": "2007-04-28"
+    },
+    {
+      "denumire": "Însurăţei",
+      "alte_denumiri": "",
+      "tip_protectie": "DOC (DOP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PDO-RO-N1588",
+      "data_inregistrarii": "2018-11-14"
+    },
+    {
+      "denumire": "Ştefăneşti",
+      "alte_denumiri": "",
+      "tip_protectie": "DOC (DOP)",
+      "stadiu": "înregistrat",
+      "numar_dosar": "PDO-RO-A1309",
+      "data_inregistrarii": "2007-05-10"
+    }
+  ],
+  "meta": {
+    "title": "Vinurile românești cu denumire de origine controlată (DOC) și indicație geografică (IG) - Free Download",
+    "description": "Lista podgoriilor și vinurilor din România protejate în registrul UE eAmbrosia ca denumire de origine (DOC/DOP) sau indicație geografică (IG/IGP), cu numărul dosarului și data înregistrării. Contains 55 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Vinurile românești cu denumire de origine controlată (DOC) și indicație geografică (IG) | ListBase",
+    "seo_description": "Download Vinurile românești cu denumire de origine controlată (DOC) și indicație geografică (IG) — 55 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 55 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/"
+    ]
+  }
+}

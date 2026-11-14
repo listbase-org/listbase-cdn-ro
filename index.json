@@ -1,12 +1,12 @@
 {
   "lang": "ro",
-  "generated": "2026-11-14T02:05:46.932Z",
-  "total_datasets": 509,
-  "total_records": 169593,
+  "generated": "2026-11-14T02:05:58.382Z",
+  "total_datasets": 510,
+  "total_records": 169648,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "culture",
@@ -239,6 +239,33 @@
         "xlsx": {
           "name": "ro-soiuri-struguri_RO.xlsx",
           "size": 8740
+        }
+      }
+    },
+    {
+      "id": "ro-vinuri-doc-si-ig-protejate-ue",
+      "name": "Vinurile românești cu denumire de origine controlată (DOC) și indicație geografică (IG)",
+      "category": "agriculture",
+      "record_count": 55,
+      "columns": [
+        "denumire",
+        "alte_denumiri",
+        "tip_protectie",
+        "stadiu",
+        "numar_dosar",
+        "data_inregistrarii"
+      ],
+      "source": "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/",
+      "updated": "2026-11",
+      "size": 14346,
+      "files": {
+        "csv": {
+          "name": "ro-vinuri-doc-si-ig-protejate-ue_RO.csv",
+          "size": 4028
+        },
+        "xlsx": {
+          "name": "ro-vinuri-doc-si-ig-protejate-ue_RO.xlsx",
+          "size": 8847
         }
       }
     },
