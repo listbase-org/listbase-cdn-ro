@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-14T02:05:58.382Z",
-  "total_datasets": 510,
-  "total_records": 169648,
+  "generated": "2026-11-15T02:12:06.555Z",
+  "total_datasets": 511,
+  "total_records": 169694,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "education",
@@ -510,6 +510,36 @@
         "xlsx": {
           "name": "ro-guvernatorii-bnr_RO.xlsx",
           "size": 8796
+        }
+      }
+    },
+    {
+      "id": "ro-indicatori-macroeconomici-1980-2025",
+      "name": "Indicatori macroeconomici ai României 1980–2025 (PIB, inflație, șomaj, datorie)",
+      "category": "economy",
+      "record_count": 46,
+      "columns": [
+        "an",
+        "pib_mld_usd_ppc",
+        "pib_pe_locuitor_usd_ppc",
+        "pib_mld_usd_nominal",
+        "pib_pe_locuitor_usd_nominal",
+        "crestere_pib_procente",
+        "rata_inflatiei_procente",
+        "somaj_procente",
+        "datoria_publica_procent_pib"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Economia_României",
+      "updated": "2026-11",
+      "size": 17591,
+      "files": {
+        "csv": {
+          "name": "ro-indicatori-macroeconomici-1980-2025_RO.csv",
+          "size": 2971
+        },
+        "xlsx": {
+          "name": "ro-indicatori-macroeconomici-1980-2025_RO.xlsx",
+          "size": 9174
         }
       }
     },

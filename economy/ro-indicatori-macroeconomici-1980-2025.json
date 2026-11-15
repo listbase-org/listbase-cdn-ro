@@ -1,0 +1,577 @@
+{
+  "id": "ro-indicatori-macroeconomici-1980-2025",
+  "name": "Indicatori macroeconomici ai României 1980–2025 (PIB, inflație, șomaj, datorie)",
+  "title": "Indicatori macroeconomici ai României 1980–2025 (PIB, inflație, șomaj, datorie)",
+  "description": "Principalii indicatori economici ai României pe ani: PIB (PPC și nominal), PIB pe locuitor, creșterea economică, rata inflației, rata șomajului și datoria publică ca procent din PIB (date FMI).",
+  "category": "economy",
+  "source": "https://ro.wikipedia.org/wiki/Economia_României",
+  "source_url": "https://ro.wikipedia.org/wiki/Economia_României",
+  "updated": "2026-11",
+  "record_count": 46,
+  "columns": [
+    {
+      "key": "an",
+      "label": "An",
+      "type": "number"
+    },
+    {
+      "key": "pib_mld_usd_ppc",
+      "label": "Pib Mld Usd Ppc",
+      "type": "number"
+    },
+    {
+      "key": "pib_pe_locuitor_usd_ppc",
+      "label": "Pib Pe Locuitor Usd Ppc",
+      "type": "number"
+    },
+    {
+      "key": "pib_mld_usd_nominal",
+      "label": "Pib Mld Usd Nominal",
+      "type": "number"
+    },
+    {
+      "key": "pib_pe_locuitor_usd_nominal",
+      "label": "Pib Pe Locuitor Usd Nominal",
+      "type": "number"
+    },
+    {
+      "key": "crestere_pib_procente",
+      "label": "Crestere Pib Procente",
+      "type": "number"
+    },
+    {
+      "key": "rata_inflatiei_procente",
+      "label": "Rata Inflatiei Procente",
+      "type": "number"
+    },
+    {
+      "key": "somaj_procente",
+      "label": "Somaj Procente",
+      "type": "number"
+    },
+    {
+      "key": "datoria_publica_procent_pib",
+      "label": "Datoria Publica Procent Pib",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "an": 1980,
+      "pib_mld_usd_ppc": 114.1,
+      "pib_pe_locuitor_usd_ppc": 5087,
+      "pib_mld_usd_nominal": 46.1,
+      "pib_pe_locuitor_usd_nominal": 2052,
+      "crestere_pib_procente": 3.3,
+      "rata_inflatiei_procente": 1.5,
+      "somaj_procente": "",
+      "datoria_publica_procent_pib": ""
+    },
+    {
+      "an": 1981,
+      "pib_mld_usd_ppc": 125.1,
+      "pib_pe_locuitor_usd_ppc": 5541,
+      "pib_mld_usd_nominal": 55.3,
+      "pib_pe_locuitor_usd_nominal": 2450,
+      "crestere_pib_procente": 0.1,
+      "rata_inflatiei_procente": 2.2,
+      "somaj_procente": "",
+      "datoria_publica_procent_pib": ""
+    },
+    {
+      "an": 1982,
+      "pib_mld_usd_ppc": 138,
+      "pib_pe_locuitor_usd_ppc": 6084,
+      "pib_mld_usd_nominal": 55.4,
+      "pib_pe_locuitor_usd_nominal": 2441,
+      "crestere_pib_procente": 3.9,
+      "rata_inflatiei_procente": 16.9,
+      "somaj_procente": "",
+      "datoria_publica_procent_pib": ""
+    },
+    {
+      "an": 1983,
+      "pib_mld_usd_ppc": 152,
+      "pib_pe_locuitor_usd_ppc": 6674,
+      "pib_mld_usd_nominal": 48.4,
+      "pib_pe_locuitor_usd_nominal": 2125,
+      "crestere_pib_procente": 6,
+      "rata_inflatiei_procente": 4.7,
+      "somaj_procente": "",
+      "datoria_publica_procent_pib": ""
+    },
+    {
+      "an": 1984,
+      "pib_mld_usd_ppc": 167,
+      "pib_pe_locuitor_usd_ppc": 7300,
+      "pib_mld_usd_nominal": 39.1,
+      "pib_pe_locuitor_usd_nominal": 1710,
+      "crestere_pib_procente": 6,
+      "rata_inflatiei_procente": -0.3,
+      "somaj_procente": "",
+      "datoria_publica_procent_pib": ""
+    },
+    {
+      "an": 1985,
+      "pib_mld_usd_ppc": 172,
+      "pib_pe_locuitor_usd_ppc": 7490,
+      "pib_mld_usd_nominal": 48.3,
+      "pib_pe_locuitor_usd_nominal": 2101,
+      "crestere_pib_procente": -0.1,
+      "rata_inflatiei_procente": -0.2,
+      "somaj_procente": 4,
+      "datoria_publica_procent_pib": ""
+    },
+    {
+      "an": 1986,
+      "pib_mld_usd_ppc": 179.7,
+      "pib_pe_locuitor_usd_ppc": 7783,
+      "pib_mld_usd_nominal": 52.3,
+      "pib_pe_locuitor_usd_nominal": 2264,
+      "crestere_pib_procente": 2.4,
+      "rata_inflatiei_procente": 0.7,
+      "somaj_procente": 3.9,
+      "datoria_publica_procent_pib": ""
+    },
+    {
+      "an": 1987,
+      "pib_mld_usd_ppc": 185.7,
+      "pib_pe_locuitor_usd_ppc": 7994,
+      "pib_mld_usd_nominal": 58.5,
+      "pib_pe_locuitor_usd_nominal": 2517,
+      "crestere_pib_procente": 0.8,
+      "rata_inflatiei_procente": 1.1,
+      "somaj_procente": 3.7,
+      "datoria_publica_procent_pib": ""
+    },
+    {
+      "an": 1988,
+      "pib_mld_usd_ppc": 191.2,
+      "pib_pe_locuitor_usd_ppc": 8191,
+      "pib_mld_usd_nominal": 60.5,
+      "pib_pe_locuitor_usd_nominal": 2593,
+      "crestere_pib_procente": -0.5,
+      "rata_inflatiei_procente": 2.6,
+      "somaj_procente": "▬ 3,7",
+      "datoria_publica_procent_pib": ""
+    },
+    {
+      "an": 1989,
+      "pib_mld_usd_ppc": 187.2,
+      "pib_pe_locuitor_usd_ppc": 7990,
+      "pib_mld_usd_nominal": 54.2,
+      "pib_pe_locuitor_usd_nominal": 2314,
+      "crestere_pib_procente": -5.8,
+      "rata_inflatiei_procente": 0.9,
+      "somaj_procente": 3.4,
+      "datoria_publica_procent_pib": ""
+    },
+    {
+      "an": 1990,
+      "pib_mld_usd_ppc": 183.3,
+      "pib_pe_locuitor_usd_ppc": 7814,
+      "pib_mld_usd_nominal": 38.5,
+      "pib_pe_locuitor_usd_nominal": 1641,
+      "crestere_pib_procente": -5.6,
+      "rata_inflatiei_procente": 127.9,
+      "somaj_procente": "▬ 3,4",
+      "datoria_publica_procent_pib": ""
+    },
+    {
+      "an": 1991,
+      "pib_mld_usd_ppc": 165,
+      "pib_pe_locuitor_usd_ppc": 7045,
+      "pib_mld_usd_nominal": 29.1,
+      "pib_pe_locuitor_usd_nominal": 1241,
+      "crestere_pib_procente": -12.9,
+      "rata_inflatiei_procente": 161.1,
+      "somaj_procente": 3.5,
+      "datoria_publica_procent_pib": ""
+    },
+    {
+      "an": 1992,
+      "pib_mld_usd_ppc": 154,
+      "pib_pe_locuitor_usd_ppc": 6599,
+      "pib_mld_usd_nominal": 19.8,
+      "pib_pe_locuitor_usd_nominal": 847,
+      "crestere_pib_procente": -8.8,
+      "rata_inflatiei_procente": 210.4,
+      "somaj_procente": 5.4,
+      "datoria_publica_procent_pib": ""
+    },
+    {
+      "an": 1993,
+      "pib_mld_usd_ppc": 160,
+      "pib_pe_locuitor_usd_ppc": 6896,
+      "pib_mld_usd_nominal": 26.6,
+      "pib_pe_locuitor_usd_nominal": 1147,
+      "crestere_pib_procente": 1.5,
+      "rata_inflatiei_procente": 256.1,
+      "somaj_procente": 9.2,
+      "datoria_publica_procent_pib": ""
+    },
+    {
+      "an": 1994,
+      "pib_mld_usd_ppc": 169.9,
+      "pib_pe_locuitor_usd_ppc": 7365,
+      "pib_mld_usd_nominal": 30.4,
+      "pib_pe_locuitor_usd_nominal": 1317,
+      "crestere_pib_procente": 3.9,
+      "rata_inflatiei_procente": 136.7,
+      "somaj_procente": 11,
+      "datoria_publica_procent_pib": ""
+    },
+    {
+      "an": 1995,
+      "pib_mld_usd_ppc": 185.8,
+      "pib_pe_locuitor_usd_ppc": 8105,
+      "pib_mld_usd_nominal": 35.8,
+      "pib_pe_locuitor_usd_nominal": 1563,
+      "crestere_pib_procente": 7.1,
+      "rata_inflatiei_procente": 32.3,
+      "somaj_procente": 9.9,
+      "datoria_publica_procent_pib": ""
+    },
+    {
+      "an": 1996,
+      "pib_mld_usd_ppc": 196.7,
+      "pib_pe_locuitor_usd_ppc": 8627,
+      "pib_mld_usd_nominal": 35.7,
+      "pib_pe_locuitor_usd_nominal": 1565,
+      "crestere_pib_procente": 3.9,
+      "rata_inflatiei_procente": 38.8,
+      "somaj_procente": 7.3,
+      "datoria_publica_procent_pib": ""
+    },
+    {
+      "an": 1997,
+      "pib_mld_usd_ppc": 188,
+      "pib_pe_locuitor_usd_ppc": 8289,
+      "pib_mld_usd_nominal": 35.6,
+      "pib_pe_locuitor_usd_nominal": 1571,
+      "crestere_pib_procente": -6.1,
+      "rata_inflatiei_procente": 154.8,
+      "somaj_procente": 7.9,
+      "datoria_publica_procent_pib": ""
+    },
+    {
+      "an": 1998,
+      "pib_mld_usd_ppc": 180.9,
+      "pib_pe_locuitor_usd_ppc": 8018,
+      "pib_mld_usd_nominal": 42.6,
+      "pib_pe_locuitor_usd_nominal": 1885,
+      "crestere_pib_procente": -4.8,
+      "rata_inflatiei_procente": 59.1,
+      "somaj_procente": 9.6,
+      "datoria_publica_procent_pib": ""
+    },
+    {
+      "an": 1999,
+      "pib_mld_usd_ppc": 181.4,
+      "pib_pe_locuitor_usd_ppc": 8076,
+      "pib_mld_usd_nominal": 36,
+      "pib_pe_locuitor_usd_nominal": 1600,
+      "crestere_pib_procente": -1.2,
+      "rata_inflatiei_procente": 45.8,
+      "somaj_procente": 7.2,
+      "datoria_publica_procent_pib": ""
+    },
+    {
+      "an": 2000,
+      "pib_mld_usd_ppc": 190.9,
+      "pib_pe_locuitor_usd_ppc": 8501,
+      "pib_mld_usd_nominal": 37.4,
+      "pib_pe_locuitor_usd_nominal": 1667,
+      "crestere_pib_procente": 2.9,
+      "rata_inflatiei_procente": 45.7,
+      "somaj_procente": 7.6,
+      "datoria_publica_procent_pib": 29.5
+    },
+    {
+      "an": 2001,
+      "pib_mld_usd_ppc": 205.1,
+      "pib_pe_locuitor_usd_ppc": 9145,
+      "pib_mld_usd_nominal": 40.4,
+      "pib_pe_locuitor_usd_nominal": 1800,
+      "crestere_pib_procente": 5.1,
+      "rata_inflatiei_procente": 34.5,
+      "somaj_procente": 7.4,
+      "datoria_publica_procent_pib": 27.4
+    },
+    {
+      "an": 2002,
+      "pib_mld_usd_ppc": 220.2,
+      "pib_pe_locuitor_usd_ppc": 10083,
+      "pib_mld_usd_nominal": 46,
+      "pib_pe_locuitor_usd_nominal": 2108,
+      "crestere_pib_procente": 5.7,
+      "rata_inflatiei_procente": 22.5,
+      "somaj_procente": 8.3,
+      "datoria_publica_procent_pib": 27.3
+    },
+    {
+      "an": 2003,
+      "pib_mld_usd_ppc": 229.7,
+      "pib_pe_locuitor_usd_ppc": 10620,
+      "pib_mld_usd_nominal": 57.8,
+      "pib_pe_locuitor_usd_nominal": 2672,
+      "crestere_pib_procente": 2.3,
+      "rata_inflatiei_procente": 15.4,
+      "somaj_procente": 7.8,
+      "datoria_publica_procent_pib": 24.9
+    },
+    {
+      "an": 2004,
+      "pib_mld_usd_ppc": 260.1,
+      "pib_pe_locuitor_usd_ppc": 12091,
+      "pib_mld_usd_nominal": 75.1,
+      "pib_pe_locuitor_usd_nominal": 3487,
+      "crestere_pib_procente": 10.3,
+      "rata_inflatiei_procente": 11.9,
+      "somaj_procente": 8,
+      "datoria_publica_procent_pib": 21.3
+    },
+    {
+      "an": 2005,
+      "pib_mld_usd_ppc": 280.1,
+      "pib_pe_locuitor_usd_ppc": 13140,
+      "pib_mld_usd_nominal": 98.5,
+      "pib_pe_locuitor_usd_nominal": 4608,
+      "crestere_pib_procente": 4.7,
+      "rata_inflatiei_procente": 9,
+      "somaj_procente": 7.1,
+      "datoria_publica_procent_pib": 17.8
+    },
+    {
+      "an": 2006,
+      "pib_mld_usd_ppc": 312.9,
+      "pib_pe_locuitor_usd_ppc": 14718,
+      "pib_mld_usd_nominal": 122.1,
+      "pib_pe_locuitor_usd_nominal": 5744,
+      "crestere_pib_procente": 8,
+      "rata_inflatiei_procente": 6.6,
+      "somaj_procente": 7.2,
+      "datoria_publica_procent_pib": 12.7
+    },
+    {
+      "an": 2007,
+      "pib_mld_usd_ppc": 344.5,
+      "pib_pe_locuitor_usd_ppc": 16301,
+      "pib_mld_usd_nominal": 174.8,
+      "pib_pe_locuitor_usd_nominal": 8.273,
+      "crestere_pib_procente": 7.2,
+      "rata_inflatiei_procente": 4.8,
+      "somaj_procente": 6.3,
+      "datoria_publica_procent_pib": 12.4
+    },
+    {
+      "an": 2008,
+      "pib_mld_usd_ppc": 384.1,
+      "pib_pe_locuitor_usd_ppc": 18613,
+      "pib_mld_usd_nominal": 215.6,
+      "pib_pe_locuitor_usd_nominal": 10446,
+      "crestere_pib_procente": 9.4,
+      "rata_inflatiei_procente": 7.8,
+      "somaj_procente": 5.6,
+      "datoria_publica_procent_pib": 13
+    },
+    {
+      "an": 2009,
+      "pib_mld_usd_ppc": 365.1,
+      "pib_pe_locuitor_usd_ppc": 17861,
+      "pib_mld_usd_nominal": 174.6,
+      "pib_pe_locuitor_usd_nominal": 8540,
+      "crestere_pib_procente": -5.5,
+      "rata_inflatiei_procente": 5.6,
+      "somaj_procente": 8.4,
+      "datoria_publica_procent_pib": 22.5
+    },
+    {
+      "an": 2010,
+      "pib_mld_usd_ppc": 355,
+      "pib_pe_locuitor_usd_ppc": 17493,
+      "pib_mld_usd_nominal": 170.3,
+      "pib_pe_locuitor_usd_nominal": 8391,
+      "crestere_pib_procente": -3.9,
+      "rata_inflatiei_procente": 6.1,
+      "somaj_procente": 9,
+      "datoria_publica_procent_pib": 30.2
+    },
+    {
+      "an": 2011,
+      "pib_mld_usd_ppc": 378.8,
+      "pib_pe_locuitor_usd_ppc": 18754,
+      "pib_mld_usd_nominal": 192.8,
+      "pib_pe_locuitor_usd_nominal": 9546,
+      "crestere_pib_procente": 4.5,
+      "rata_inflatiei_procente": 5.8,
+      "somaj_procente": 9.1,
+      "datoria_publica_procent_pib": 32.6
+    },
+    {
+      "an": 2012,
+      "pib_mld_usd_ppc": 397.3,
+      "pib_pe_locuitor_usd_ppc": 19771,
+      "pib_mld_usd_nominal": 179.2,
+      "pib_pe_locuitor_usd_nominal": 8919,
+      "crestere_pib_procente": 1.9,
+      "rata_inflatiei_procente": 3.3,
+      "somaj_procente": 8.7,
+      "datoria_publica_procent_pib": 36.2
+    },
+    {
+      "an": 2013,
+      "pib_mld_usd_ppc": 393.2,
+      "pib_pe_locuitor_usd_ppc": 19641,
+      "pib_mld_usd_nominal": 189.8,
+      "pib_pe_locuitor_usd_nominal": 9481,
+      "crestere_pib_procente": 0.2,
+      "rata_inflatiei_procente": 4,
+      "somaj_procente": 9,
+      "datoria_publica_procent_pib": 39.2
+    },
+    {
+      "an": 2014,
+      "pib_mld_usd_ppc": 410.8,
+      "pib_pe_locuitor_usd_ppc": 20592,
+      "pib_mld_usd_nominal": 200,
+      "pib_pe_locuitor_usd_nominal": 10025,
+      "crestere_pib_procente": 4.1,
+      "rata_inflatiei_procente": 1.1,
+      "somaj_procente": 8.6,
+      "datoria_publica_procent_pib": 40.5
+    },
+    {
+      "an": 2015,
+      "pib_mld_usd_ppc": 428.6,
+      "pib_pe_locuitor_usd_ppc": 21570,
+      "pib_mld_usd_nominal": 177.9,
+      "pib_pe_locuitor_usd_nominal": 8951,
+      "crestere_pib_procente": 3.2,
+      "rata_inflatiei_procente": -0.6,
+      "somaj_procente": 8.4,
+      "datoria_publica_procent_pib": 39.4
+    },
+    {
+      "an": 2016,
+      "pib_mld_usd_ppc": 470.9,
+      "pib_pe_locuitor_usd_ppc": 23831,
+      "pib_mld_usd_nominal": 185.3,
+      "pib_pe_locuitor_usd_nominal": 9378,
+      "crestere_pib_procente": 2.9,
+      "rata_inflatiei_procente": -1.6,
+      "somaj_procente": 7.2,
+      "datoria_publica_procent_pib": 39.5
+    },
+    {
+      "an": 2017,
+      "pib_mld_usd_ppc": 530.8,
+      "pib_pe_locuitor_usd_ppc": 27020,
+      "pib_mld_usd_nominal": 210.5,
+      "pib_pe_locuitor_usd_nominal": 10717,
+      "crestere_pib_procente": 8.2,
+      "rata_inflatiei_procente": 1.3,
+      "somaj_procente": 6.1,
+      "datoria_publica_procent_pib": 37.1
+    },
+    {
+      "an": 2018,
+      "pib_mld_usd_ppc": 576.3,
+      "pib_pe_locuitor_usd_ppc": 29504,
+      "pib_mld_usd_nominal": 243.5,
+      "pib_pe_locuitor_usd_nominal": 12465,
+      "crestere_pib_procente": 6,
+      "rata_inflatiei_procente": 4.6,
+      "somaj_procente": 5.2,
+      "datoria_publica_procent_pib": 36.2
+    },
+    {
+      "an": 2019,
+      "pib_mld_usd_ppc": 609.2,
+      "pib_pe_locuitor_usd_ppc": 31379,
+      "pib_mld_usd_nominal": 251,
+      "pib_pe_locuitor_usd_nominal": 12928,
+      "crestere_pib_procente": 3.8,
+      "rata_inflatiei_procente": 3.8,
+      "somaj_procente": 4.9,
+      "datoria_publica_procent_pib": 36.6
+    },
+    {
+      "an": 2020,
+      "pib_mld_usd_ppc": 594.4,
+      "pib_pe_locuitor_usd_ppc": 30751,
+      "pib_mld_usd_nominal": 251.7,
+      "pib_pe_locuitor_usd_nominal": 13021,
+      "crestere_pib_procente": -3.7,
+      "rata_inflatiei_procente": 2.6,
+      "somaj_procente": 6.1,
+      "datoria_publica_procent_pib": 49.4
+    },
+    {
+      "an": 2021,
+      "pib_mld_usd_ppc": 657.5,
+      "pib_pe_locuitor_usd_ppc": 34245,
+      "pib_mld_usd_nominal": 285.6,
+      "pib_pe_locuitor_usd_nominal": 14874,
+      "crestere_pib_procente": 5.9,
+      "rata_inflatiei_procente": 5,
+      "somaj_procente": 5.6,
+      "datoria_publica_procent_pib": 51.1
+    },
+    {
+      "an": 2022,
+      "pib_mld_usd_ppc": 737.3,
+      "pib_pe_locuitor_usd_ppc": 38721,
+      "pib_mld_usd_nominal": 301.8,
+      "pib_pe_locuitor_usd_nominal": 15851,
+      "crestere_pib_procente": 4.8,
+      "rata_inflatiei_procente": 13.8,
+      "somaj_procente": "▬ 5,6",
+      "datoria_publica_procent_pib": 48.7
+    },
+    {
+      "an": 2023,
+      "pib_mld_usd_ppc": 783.9,
+      "pib_pe_locuitor_usd_ppc": 41633,
+      "pib_mld_usd_nominal": 348.9,
+      "pib_pe_locuitor_usd_nominal": 18530,
+      "crestere_pib_procente": 2.4,
+      "rata_inflatiei_procente": 10.5,
+      "somaj_procente": "▬ 5,6",
+      "datoria_publica_procent_pib": 48.3
+    },
+    {
+      "an": 2024,
+      "pib_mld_usd_ppc": 830.5,
+      "pib_pe_locuitor_usd_ppc": 44484,
+      "pib_mld_usd_nominal": 376.7,
+      "pib_pe_locuitor_usd_nominal": 20175,
+      "crestere_pib_procente": 3.6,
+      "rata_inflatiei_procente": 5.8,
+      "somaj_procente": 5.4,
+      "datoria_publica_procent_pib": 49.3
+    },
+    {
+      "an": 2025,
+      "pib_mld_usd_ppc": 878,
+      "pib_pe_locuitor_usd_ppc": 47441,
+      "pib_mld_usd_nominal": 405.2,
+      "pib_pe_locuitor_usd_nominal": 21893,
+      "crestere_pib_procente": 3.7,
+      "rata_inflatiei_procente": 4.2,
+      "somaj_procente": 5.3,
+      "datoria_publica_procent_pib": 50.3
+    }
+  ],
+  "meta": {
+    "title": "Indicatori macroeconomici ai României 1980–2025 (PIB, inflație, șomaj, datorie) - Free Download",
+    "description": "Principalii indicatori economici ai României pe ani: PIB (PPC și nominal), PIB pe locuitor, creșterea economică, rata inflației, rata șomajului și datoria publică ca procent din PIB (date FMI). Contains 46 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Indicatori macroeconomici ai României 1980–2025 (PIB, inflație, șomaj, datorie) | ListBase",
+    "seo_description": "Download Indicatori macroeconomici ai României 1980–2025 (PIB, inflație, șomaj, datorie) — 46 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 46 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Economia_României"
+    ]
+  }
+}
