@@ -1,0 +1,120 @@
+{
+  "id": "ro-prefixe-binare",
+  "name": "Prefixele binare (kibi, mebi, gibi…)",
+  "title": "Prefixele binare (kibi, mebi, gibi…)",
+  "description": "Prefixele binare IEC (kibi, mebi, gibi, tebi etc.) cu simbolul, puterea lui 2, valoarea și prefixul SI zecimal corespunzător.",
+  "category": "units",
+  "source": "https://ro.wikipedia.org/wiki/Prefixe_binare",
+  "source_url": "https://ro.wikipedia.org/wiki/Prefixe_binare",
+  "updated": "2026-11",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "prefix",
+      "label": "Prefix",
+      "type": "string"
+    },
+    {
+      "key": "simbol",
+      "label": "Simbol",
+      "type": "string"
+    },
+    {
+      "key": "putere",
+      "label": "Putere",
+      "type": "string"
+    },
+    {
+      "key": "valoare",
+      "label": "Valoare",
+      "type": "number"
+    },
+    {
+      "key": "prefix_si_corespunzator",
+      "label": "Prefix Si Corespunzator",
+      "type": "string"
+    },
+    {
+      "key": "valoare_si",
+      "label": "Valoare Si",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "prefix": "kibi",
+      "simbol": "Ki",
+      "putere": "2^10",
+      "valoare": 1024,
+      "prefix_si_corespunzator": "k",
+      "valoare_si": 1000
+    },
+    {
+      "prefix": "mebi",
+      "simbol": "Mi",
+      "putere": "2^20",
+      "valoare": 1048576,
+      "prefix_si_corespunzator": "M",
+      "valoare_si": 1000000
+    },
+    {
+      "prefix": "gibi",
+      "simbol": "Gi",
+      "putere": "2^30",
+      "valoare": 1073741824,
+      "prefix_si_corespunzator": "G",
+      "valoare_si": 1000000000
+    },
+    {
+      "prefix": "tebi",
+      "simbol": "Ti",
+      "putere": "2^40",
+      "valoare": 1099511627776,
+      "prefix_si_corespunzator": "T",
+      "valoare_si": 1000000000000
+    },
+    {
+      "prefix": "pebi",
+      "simbol": "Pi",
+      "putere": "2^50",
+      "valoare": 1125899906842624,
+      "prefix_si_corespunzator": "P",
+      "valoare_si": 1000000000000000
+    },
+    {
+      "prefix": "exbi",
+      "simbol": "Ei",
+      "putere": "2^60",
+      "valoare": 1152921504606847000,
+      "prefix_si_corespunzator": "E",
+      "valoare_si": 1000000000000000000
+    },
+    {
+      "prefix": "zebi",
+      "simbol": "Zi",
+      "putere": "2^70",
+      "valoare": 1.1805916207174113e+21,
+      "prefix_si_corespunzator": "Z",
+      "valoare_si": 1e+21
+    },
+    {
+      "prefix": "yobi",
+      "simbol": "Yi",
+      "putere": "2^80",
+      "valoare": 1.2089258196146292e+24,
+      "prefix_si_corespunzator": "Y",
+      "valoare_si": 1e+24
+    }
+  ],
+  "meta": {
+    "title": "Prefixele binare (kibi, mebi, gibi…) - Free Download",
+    "description": "Prefixele binare IEC (kibi, mebi, gibi, tebi etc.) cu simbolul, puterea lui 2, valoarea și prefixul SI zecimal corespunzător. Contains 8 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Prefixele binare (kibi, mebi, gibi…) | ListBase",
+    "seo_description": "Download Prefixele binare (kibi, mebi, gibi…) — 8 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 8 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Prefixe_binare"
+    ]
+  }
+}
