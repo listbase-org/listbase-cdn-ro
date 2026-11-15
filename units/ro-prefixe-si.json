@@ -1,0 +1,191 @@
+{
+  "id": "ro-prefixe-si",
+  "name": "Prefixele SI (de la yocto la yotta)",
+  "title": "Prefixele SI (de la yocto la yotta)",
+  "description": "Prefixele Sistemului Internațional de Unități cu simbolul, factorul de multiplicare, anul adoptării și etimologia denumirii.",
+  "category": "units",
+  "source": "https://ro.wikipedia.org/wiki/Prefix_SI",
+  "source_url": "https://ro.wikipedia.org/wiki/Prefix_SI",
+  "updated": "2026-11",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "prefix",
+      "label": "Prefix",
+      "type": "string"
+    },
+    {
+      "key": "simbol",
+      "label": "Simbol",
+      "type": "string"
+    },
+    {
+      "key": "factor",
+      "label": "Factor",
+      "type": "string"
+    },
+    {
+      "key": "anul_adoptarii",
+      "label": "Anul Adoptarii",
+      "type": "number"
+    },
+    {
+      "key": "etimologie",
+      "label": "Etimologie",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "prefix": "yotta",
+      "simbol": "Y",
+      "factor": "10^24",
+      "anul_adoptarii": 1991,
+      "etimologie": "greacă ὀκτώ (októ) = opt, deoarece prefixul înseamnă 1000 8"
+    },
+    {
+      "prefix": "zetta",
+      "simbol": "Z",
+      "factor": "10^21",
+      "anul_adoptarii": 1991,
+      "etimologie": "latină septem = șapte, de la 1000 7"
+    },
+    {
+      "prefix": "exa",
+      "simbol": "E",
+      "factor": "10^18",
+      "anul_adoptarii": 1975,
+      "etimologie": "greacă ἕξ = șase (ca și hexa), de la 1000 6"
+    },
+    {
+      "prefix": "peta",
+      "simbol": "P",
+      "factor": "10^15",
+      "anul_adoptarii": 1975,
+      "etimologie": "greacă πέντε = cinci (ca și penta), de la 1000 5"
+    },
+    {
+      "prefix": "tera",
+      "simbol": "T",
+      "factor": "10^12",
+      "anul_adoptarii": 1960,
+      "etimologie": "greacă τέρας = monstru. De asemenea, seamănă cu τετρα = patru"
+    },
+    {
+      "prefix": "giga",
+      "simbol": "G",
+      "factor": "10^9",
+      "anul_adoptarii": 1960,
+      "etimologie": "greacă γίγας = uriaș, gigant"
+    },
+    {
+      "prefix": "mega",
+      "simbol": "M",
+      "factor": "10^6 (un milion)",
+      "anul_adoptarii": 1960,
+      "etimologie": "greacă μέγας = mare"
+    },
+    {
+      "prefix": "kilo",
+      "simbol": "k",
+      "factor": "10^3 (o mie)",
+      "anul_adoptarii": 1795,
+      "etimologie": "greacă χίλιοι = o mie"
+    },
+    {
+      "prefix": "hecto",
+      "simbol": "h",
+      "factor": "10^2 (o sută)",
+      "anul_adoptarii": 1795,
+      "etimologie": "greacă ἑκατόν (hekaton) = o sută"
+    },
+    {
+      "prefix": "deca",
+      "simbol": "da",
+      "factor": "10^1 (zece)",
+      "anul_adoptarii": 1795,
+      "etimologie": "greacă δέκα = zece"
+    },
+    {
+      "prefix": "deci",
+      "simbol": "d",
+      "factor": "10^-1 = 0,1",
+      "anul_adoptarii": 1795,
+      "etimologie": "latină decimus = zecime"
+    },
+    {
+      "prefix": "centi",
+      "simbol": "c",
+      "factor": "10^-2 = 0,01",
+      "anul_adoptarii": 1795,
+      "etimologie": "latină centum = o sută"
+    },
+    {
+      "prefix": "mili",
+      "simbol": "m",
+      "factor": "10^-3 = 0,001",
+      "anul_adoptarii": 1795,
+      "etimologie": "latină mille = o mie"
+    },
+    {
+      "prefix": "micro",
+      "simbol": "μ",
+      "factor": "10^-6",
+      "anul_adoptarii": 1960,
+      "etimologie": "greacă μικρός = mic"
+    },
+    {
+      "prefix": "nano",
+      "simbol": "n",
+      "factor": "10^-9",
+      "anul_adoptarii": 1960,
+      "etimologie": "greacă νᾶνος = pitic"
+    },
+    {
+      "prefix": "pico",
+      "simbol": "p",
+      "factor": "10^-12",
+      "anul_adoptarii": 1960,
+      "etimologie": "italiană piccolo = mic"
+    },
+    {
+      "prefix": "femto",
+      "simbol": "f",
+      "factor": "10^-15",
+      "anul_adoptarii": 1964,
+      "etimologie": "daneză femten = cincisprezece"
+    },
+    {
+      "prefix": "atto",
+      "simbol": "a",
+      "factor": "10^-18",
+      "anul_adoptarii": 1964,
+      "etimologie": "daneză atten = optsprezece"
+    },
+    {
+      "prefix": "zepto",
+      "simbol": "z",
+      "factor": "10^-21",
+      "anul_adoptarii": 1991,
+      "etimologie": "latină septem = șapte, de la 1000 -7"
+    },
+    {
+      "prefix": "yocto",
+      "simbol": "y",
+      "factor": "10^-24",
+      "anul_adoptarii": 1991,
+      "etimologie": "greacă ὀκτώ (októ) = opt, de la 1000 -8"
+    }
+  ],
+  "meta": {
+    "title": "Prefixele SI (de la yocto la yotta) - Free Download",
+    "description": "Prefixele Sistemului Internațional de Unități cu simbolul, factorul de multiplicare, anul adoptării și etimologia denumirii. Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Prefixele SI (de la yocto la yotta) | ListBase",
+    "seo_description": "Download Prefixele SI (de la yocto la yotta) — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Prefix_SI"
+    ]
+  }
+}

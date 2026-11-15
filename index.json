@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-15T02:12:18.232Z",
-  "total_datasets": 512,
-  "total_records": 169702,
+  "generated": "2026-11-15T02:12:29.480Z",
+  "total_datasets": 513,
+  "total_records": 169722,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 5
+      "dataset_count": 6
     }
   ],
   "datasets": [
@@ -16382,6 +16382,32 @@
         "xlsx": {
           "name": "ro-prefixe-binare_RO.xlsx",
           "size": 7161
+        }
+      }
+    },
+    {
+      "id": "ro-prefixe-si",
+      "name": "Prefixele SI (de la yocto la yotta)",
+      "category": "units",
+      "record_count": 20,
+      "columns": [
+        "prefix",
+        "simbol",
+        "factor",
+        "anul_adoptarii",
+        "etimologie"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Prefix_SI",
+      "updated": "2026-11",
+      "size": 5137,
+      "files": {
+        "csv": {
+          "name": "ro-prefixe-si_RO.csv",
+          "size": 1427
+        },
+        "xlsx": {
+          "name": "ro-prefixe-si_RO.xlsx",
+          "size": 7847
         }
       }
     },
