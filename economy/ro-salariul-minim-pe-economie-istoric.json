@@ -1,0 +1,565 @@
+{
+  "id": "ro-salariul-minim-pe-economie-istoric",
+  "name": "Salariul minim brut pe economie în România (istoric 1991–2026)",
+  "title": "Salariul minim brut pe economie în România (istoric 1991–2026)",
+  "description": "Evoluția salariului minim brut garantat în plată în România, cu data intrării în vigoare, valoarea în lei (ROL/RON), echivalentul în euro, nivelul pentru studii superioare și hotărârea de guvern.",
+  "category": "economy",
+  "source": "https://ro.wikipedia.org/wiki/Salariu_minim_pe_economie",
+  "source_url": "https://ro.wikipedia.org/wiki/Salariu_minim_pe_economie",
+  "updated": "2026-11",
+  "record_count": 56,
+  "columns": [
+    {
+      "key": "valabil_de_la",
+      "label": "Valabil De La",
+      "type": "string"
+    },
+    {
+      "key": "valoare",
+      "label": "Valoare",
+      "type": "number"
+    },
+    {
+      "key": "moneda",
+      "label": "Moneda",
+      "type": "string"
+    },
+    {
+      "key": "valoare_euro",
+      "label": "Valoare Euro",
+      "type": "number"
+    },
+    {
+      "key": "studii_superioare",
+      "label": "Studii Superioare",
+      "type": "string"
+    },
+    {
+      "key": "act_normativ",
+      "label": "Act Normativ",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "valabil_de_la": "1 iulie 2026",
+      "valoare": 4325,
+      "moneda": "RON",
+      "valoare_euro": 825,
+      "studii_superioare": "",
+      "act_normativ": "HG 146/2026",
+      "note": "Valoarea netă a salariului minim este de 2.699 RON"
+    },
+    {
+      "valabil_de_la": "1 ianuarie 2025",
+      "valoare": 4050,
+      "moneda": "RON",
+      "valoare_euro": 814,
+      "studii_superioare": "",
+      "act_normativ": "HG 1506/2024",
+      "note": "Valoarea netă a salariului minim este de 2.574 RON"
+    },
+    {
+      "valabil_de_la": "1 iulie 2024",
+      "valoare": 3700,
+      "moneda": "RON",
+      "valoare_euro": 743,
+      "studii_superioare": "",
+      "act_normativ": "HG 598/2024",
+      "note": "Valoarea netă a salariului minim este de 2.363 RON"
+    },
+    {
+      "valabil_de_la": "1 octombrie 2023",
+      "valoare": 3300,
+      "moneda": "RON",
+      "valoare_euro": 664,
+      "studii_superioare": "",
+      "act_normativ": "HG 900/2023",
+      "note": "Valoarea netă a salariului minim este de 2.079 RON"
+    },
+    {
+      "valabil_de_la": "1 ianuarie 2023",
+      "valoare": 3000,
+      "moneda": "RON",
+      "valoare_euro": 606,
+      "studii_superioare": "",
+      "act_normativ": "",
+      "note": "Valoarea netă a salariului minim este de 1.898 RON"
+    },
+    {
+      "valabil_de_la": "1 ianuarie 2022",
+      "valoare": 2550,
+      "moneda": "RON",
+      "valoare_euro": 515,
+      "studii_superioare": "",
+      "act_normativ": "",
+      "note": "Valoarea netă a salariului minim este de 309€"
+    },
+    {
+      "valabil_de_la": "13 ianuarie 2021",
+      "valoare": 2300,
+      "moneda": "RON",
+      "valoare_euro": 473,
+      "studii_superioare": "2.350 RON",
+      "act_normativ": "HG 4/2021",
+      "note": "Valoarea neta a salariului minim este de 285€"
+    },
+    {
+      "valabil_de_la": "1 ianuarie 2020",
+      "valoare": 2230,
+      "moneda": "RON",
+      "valoare_euro": 466,
+      "studii_superioare": "2.350 RON",
+      "act_normativ": "HG 935/2019",
+      "note": "Valoarea neta a salariului minim este de 1.346 RON."
+    },
+    {
+      "valabil_de_la": "1 ianuarie 2019",
+      "valoare": 2080,
+      "moneda": "RON",
+      "valoare_euro": 446,
+      "studii_superioare": "2.350 RON (505€)",
+      "act_normativ": "HG 937/2018",
+      "note": ""
+    },
+    {
+      "valabil_de_la": "1 ianuarie 2018",
+      "valoare": 1900,
+      "moneda": "RON",
+      "valoare_euro": 408,
+      "studii_superioare": "",
+      "act_normativ": "H.G. 846/2017",
+      "note": ""
+    },
+    {
+      "valabil_de_la": "1 februarie 2017",
+      "valoare": 1450,
+      "moneda": "RON",
+      "valoare_euro": 320,
+      "studii_superioare": "",
+      "act_normativ": "H.G. 1/2017",
+      "note": "1,3 milioane de angajați, reprezentând 30% din total, lucrează pe salariul minim."
+    },
+    {
+      "valabil_de_la": "1 mai 2016",
+      "valoare": 1250,
+      "moneda": "RON",
+      "valoare_euro": 277,
+      "studii_superioare": "",
+      "act_normativ": "H.G. 1017/2015",
+      "note": ""
+    },
+    {
+      "valabil_de_la": "1 iulie 2015",
+      "valoare": 1050,
+      "moneda": "RON",
+      "valoare_euro": 236,
+      "studii_superioare": "",
+      "act_normativ": "HG 1091/2014",
+      "note": ""
+    },
+    {
+      "valabil_de_la": "1 ianuarie 2015",
+      "valoare": 975,
+      "moneda": "RON",
+      "valoare_euro": 216,
+      "studii_superioare": "",
+      "act_normativ": "HG 1091/2014",
+      "note": "În anul 2015, România avea al doilea cel mai mic salariu din Uniunea Europeană, după Bulgaria. Aproximativ 2,4 milioane de salariați aveau salariul minim pe economie sau mai mic, ceea ce reprezenta 40% din numărul total al salariaților activi. Dintre aceștia, 1,6 milioane aveau normă întreagă, iar 0,7 milioane lucrau cu normă parțială."
+    },
+    {
+      "valabil_de_la": "1 iulie 2014",
+      "valoare": 900,
+      "moneda": "RON",
+      "valoare_euro": 205,
+      "studii_superioare": "",
+      "act_normativ": "HG 871/2013",
+      "note": ""
+    },
+    {
+      "valabil_de_la": "1 ianuarie 2014",
+      "valoare": 850,
+      "moneda": "RON",
+      "valoare_euro": 189,
+      "studii_superioare": "",
+      "act_normativ": "HG 871/2013",
+      "note": "La sfârșitul anului 2014 existau peste un milion de angajați (adică 20% din totalul salariaților din economie) care aveau salariul minim, aproape de 12 ori mai mult decât în august 2011."
+    },
+    {
+      "valabil_de_la": "1 iulie 2013",
+      "valoare": 800,
+      "moneda": "RON",
+      "valoare_euro": 179,
+      "studii_superioare": "",
+      "act_normativ": "HG 23/2013",
+      "note": "În decembrie 2013, România avea al doilea cel mai mic salariu din Uniunea Europeană, după Bulgaria."
+    },
+    {
+      "valabil_de_la": "1 februarie 2013",
+      "valoare": 750,
+      "moneda": "RON",
+      "valoare_euro": 171,
+      "studii_superioare": "",
+      "act_normativ": "HG 23/2013",
+      "note": ""
+    },
+    {
+      "valabil_de_la": "1 ianuarie 2012",
+      "valoare": 700,
+      "moneda": "RON",
+      "valoare_euro": 155,
+      "studii_superioare": "",
+      "act_normativ": "HG 1225/2011",
+      "note": "În aprilie 2012, România era singura țară în care aproape un sfert dintre angajați aveau salariul minim."
+    },
+    {
+      "valabil_de_la": "1 ianuarie 2011",
+      "valoare": 670,
+      "moneda": "RON",
+      "valoare_euro": 159,
+      "studii_superioare": "",
+      "act_normativ": "HG 1193/2010",
+      "note": "În august 2011, mai puțin de 90.000 de salariați erau plătiți la nivelul salariului minim pe economie."
+    },
+    {
+      "valabil_de_la": "1 ianuarie 2009",
+      "valoare": 600,
+      "moneda": "RON",
+      "valoare_euro": 142,
+      "studii_superioare": "1.200 RON (298€)",
+      "act_normativ": "",
+      "note": ""
+    },
+    {
+      "valabil_de_la": "1 octombrie 2008",
+      "valoare": 540,
+      "moneda": "RON",
+      "valoare_euro": 142,
+      "studii_superioare": "",
+      "act_normativ": "",
+      "note": ""
+    },
+    {
+      "valabil_de_la": "1 ianuarie 2008",
+      "valoare": 500,
+      "moneda": "RON",
+      "valoare_euro": 140,
+      "studii_superioare": "",
+      "act_normativ": "",
+      "note": ""
+    },
+    {
+      "valabil_de_la": "1 ianuarie 2007",
+      "valoare": 390,
+      "moneda": "RON",
+      "valoare_euro": 114,
+      "studii_superioare": "",
+      "act_normativ": "",
+      "note": ""
+    },
+    {
+      "valabil_de_la": "1 ianuarie 2006",
+      "valoare": 330,
+      "moneda": "RON",
+      "valoare_euro": 90,
+      "studii_superioare": "",
+      "act_normativ": "",
+      "note": ""
+    },
+    {
+      "valabil_de_la": "1 ianuarie 2005",
+      "valoare": 310,
+      "moneda": "RON",
+      "valoare_euro": 85,
+      "studii_superioare": "",
+      "act_normativ": "",
+      "note": ""
+    },
+    {
+      "valabil_de_la": "1 ianuarie 2004",
+      "valoare": 2800000,
+      "moneda": "ROL",
+      "valoare_euro": 70,
+      "studii_superioare": "",
+      "act_normativ": "",
+      "note": ""
+    },
+    {
+      "valabil_de_la": "1 ianuarie 2003",
+      "valoare": 2500000,
+      "moneda": "ROL",
+      "valoare_euro": 65,
+      "studii_superioare": "",
+      "act_normativ": "",
+      "note": ""
+    },
+    {
+      "valabil_de_la": "1 ianuarie 2002",
+      "valoare": 1750000,
+      "moneda": "ROL",
+      "valoare_euro": 55,
+      "studii_superioare": "",
+      "act_normativ": "",
+      "note": ""
+    },
+    {
+      "valabil_de_la": "1 ianuarie 2001",
+      "valoare": 1400000,
+      "moneda": "ROL",
+      "valoare_euro": 55,
+      "studii_superioare": "",
+      "act_normativ": "",
+      "note": ""
+    },
+    {
+      "valabil_de_la": "1 decembrie 2000",
+      "valoare": 1000000,
+      "moneda": "ROL",
+      "valoare_euro": 45,
+      "studii_superioare": "",
+      "act_normativ": "",
+      "note": ""
+    },
+    {
+      "valabil_de_la": "1 februarie 2000",
+      "valoare": 700000,
+      "moneda": "ROL",
+      "valoare_euro": 39,
+      "studii_superioare": "",
+      "act_normativ": "",
+      "note": ""
+    },
+    {
+      "valabil_de_la": "1 mai 1999",
+      "valoare": 450000,
+      "moneda": "ROL",
+      "valoare_euro": 28,
+      "studii_superioare": "",
+      "act_normativ": "",
+      "note": ""
+    },
+    {
+      "valabil_de_la": "1 aprilie 1998",
+      "valoare": 350000,
+      "moneda": "ROL",
+      "valoare_euro": 38,
+      "studii_superioare": "",
+      "act_normativ": "",
+      "note": ""
+    },
+    {
+      "valabil_de_la": "1 octombrie 1997",
+      "valoare": 250000,
+      "moneda": "ROL",
+      "valoare_euro": "",
+      "studii_superioare": "",
+      "act_normativ": "",
+      "note": ""
+    },
+    {
+      "valabil_de_la": "1 august 1997",
+      "valoare": 225000,
+      "moneda": "ROL",
+      "valoare_euro": "",
+      "studii_superioare": "",
+      "act_normativ": "",
+      "note": ""
+    },
+    {
+      "valabil_de_la": "1 februarie 1997",
+      "valoare": 150000,
+      "moneda": "ROL",
+      "valoare_euro": "",
+      "studii_superioare": "",
+      "act_normativ": "",
+      "note": ""
+    },
+    {
+      "valabil_de_la": "1 august 1996",
+      "valoare": 97000,
+      "moneda": "ROL",
+      "valoare_euro": "",
+      "studii_superioare": "",
+      "act_normativ": "",
+      "note": ""
+    },
+    {
+      "valabil_de_la": "1 aprilie 1995",
+      "valoare": 75000,
+      "moneda": "ROL",
+      "valoare_euro": "",
+      "studii_superioare": "",
+      "act_normativ": "",
+      "note": ""
+    },
+    {
+      "valabil_de_la": "1 iulie 1994",
+      "valoare": 65000,
+      "moneda": "ROL",
+      "valoare_euro": "",
+      "studii_superioare": "",
+      "act_normativ": "",
+      "note": ""
+    },
+    {
+      "valabil_de_la": "15 martie 1994",
+      "valoare": 60000,
+      "moneda": "ROL",
+      "valoare_euro": "",
+      "studii_superioare": "",
+      "act_normativ": "",
+      "note": ""
+    },
+    {
+      "valabil_de_la": "1 decembrie 1993",
+      "valoare": 45000,
+      "moneda": "ROL",
+      "valoare_euro": "",
+      "studii_superioare": "",
+      "act_normativ": "",
+      "note": ""
+    },
+    {
+      "valabil_de_la": "1 octombrie 1993",
+      "valoare": 40200,
+      "moneda": "ROL",
+      "valoare_euro": "",
+      "studii_superioare": "",
+      "act_normativ": "",
+      "note": ""
+    },
+    {
+      "valabil_de_la": "1 mai 1993",
+      "valoare": 30000,
+      "moneda": "ROL",
+      "valoare_euro": "",
+      "studii_superioare": "",
+      "act_normativ": "",
+      "note": ""
+    },
+    {
+      "valabil_de_la": "1 martie 1993",
+      "valoare": 17600,
+      "moneda": "ROL",
+      "valoare_euro": "",
+      "studii_superioare": "",
+      "act_normativ": "",
+      "note": ""
+    },
+    {
+      "valabil_de_la": "1 ianuarie 1993",
+      "valoare": 16600,
+      "moneda": "ROL",
+      "valoare_euro": "",
+      "studii_superioare": "",
+      "act_normativ": "",
+      "note": ""
+    },
+    {
+      "valabil_de_la": "1 noiembrie 1992",
+      "valoare": 15215,
+      "moneda": "ROL",
+      "valoare_euro": "",
+      "studii_superioare": "",
+      "act_normativ": "",
+      "note": ""
+    },
+    {
+      "valabil_de_la": "1 septembrie 1992",
+      "valoare": 12920,
+      "moneda": "ROL",
+      "valoare_euro": "",
+      "studii_superioare": "",
+      "act_normativ": "",
+      "note": ""
+    },
+    {
+      "valabil_de_la": "1 mai 1992",
+      "valoare": 11200,
+      "moneda": "ROL",
+      "valoare_euro": "",
+      "studii_superioare": "",
+      "act_normativ": "",
+      "note": ""
+    },
+    {
+      "valabil_de_la": "1 martie 1992",
+      "valoare": 9150,
+      "moneda": "ROL",
+      "valoare_euro": "",
+      "studii_superioare": "",
+      "act_normativ": "",
+      "note": ""
+    },
+    {
+      "valabil_de_la": "1 ianuarie 1992",
+      "valoare": 8500,
+      "moneda": "ROL",
+      "valoare_euro": "",
+      "studii_superioare": "",
+      "act_normativ": "",
+      "note": ""
+    },
+    {
+      "valabil_de_la": "1 noiembrie 1991",
+      "valoare": 7000,
+      "moneda": "ROL",
+      "valoare_euro": "",
+      "studii_superioare": "",
+      "act_normativ": "",
+      "note": ""
+    },
+    {
+      "valabil_de_la": "1 septembrie 1991",
+      "valoare": 6775,
+      "moneda": "ROL",
+      "valoare_euro": "",
+      "studii_superioare": "",
+      "act_normativ": "",
+      "note": ""
+    },
+    {
+      "valabil_de_la": "1 mai 1991",
+      "valoare": 5975,
+      "moneda": "ROL",
+      "valoare_euro": "",
+      "studii_superioare": "",
+      "act_normativ": "",
+      "note": ""
+    },
+    {
+      "valabil_de_la": "1 aprilie 1991",
+      "valoare": 4675,
+      "moneda": "ROL",
+      "valoare_euro": "",
+      "studii_superioare": "",
+      "act_normativ": "",
+      "note": ""
+    },
+    {
+      "valabil_de_la": "1 martie 1991",
+      "valoare": 3150,
+      "moneda": "ROL",
+      "valoare_euro": "",
+      "studii_superioare": "",
+      "act_normativ": "",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "Salariul minim brut pe economie în România (istoric 1991–2026) - Free Download",
+    "description": "Evoluția salariului minim brut garantat în plată în România, cu data intrării în vigoare, valoarea în lei (ROL/RON), echivalentul în euro, nivelul pentru studii superioare și hotărârea de guvern. Contains 56 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Salariul minim brut pe economie în România (istoric 1991–2026) | ListBase",
+    "seo_description": "Download Salariul minim brut pe economie în România (istoric 1991–2026) — 56 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 56 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Salariu_minim_pe_economie"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-15T02:12:29.480Z",
-  "total_datasets": 513,
-  "total_records": 169722,
+  "generated": "2026-11-15T02:12:40.941Z",
+  "total_datasets": 514,
+  "total_records": 169778,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "education",
@@ -593,6 +593,34 @@
         "xlsx": {
           "name": "ro-ministri-finante_RO.xlsx",
           "size": 13348
+        }
+      }
+    },
+    {
+      "id": "ro-salariul-minim-pe-economie-istoric",
+      "name": "Salariul minim brut pe economie în România (istoric 1991–2026)",
+      "category": "economy",
+      "record_count": 56,
+      "columns": [
+        "valabil_de_la",
+        "valoare",
+        "moneda",
+        "valoare_euro",
+        "studii_superioare",
+        "act_normativ",
+        "note"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Salariu_minim_pe_economie",
+      "updated": "2026-11",
+      "size": 15089,
+      "files": {
+        "csv": {
+          "name": "ro-salariul-minim-pe-economie-istoric_RO.csv",
+          "size": 4187
+        },
+        "xlsx": {
+          "name": "ro-salariul-minim-pe-economie-istoric_RO.xlsx",
+          "size": 9477
         }
       }
     },
