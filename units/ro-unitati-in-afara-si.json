@@ -1,0 +1,345 @@
+{
+  "id": "ro-unitati-in-afara-si",
+  "name": "Unități de măsură care nu fac parte din SI",
+  "title": "Unități de măsură care nu fac parte din SI",
+  "description": "Unități de măsură din afara Sistemului Internațional (minut, oră, hectar, litru, tonă, bar, ångström, milă marină, erg etc.) cu mărimea, simbolul și valoarea în unități SI.",
+  "category": "units",
+  "source": "https://ro.wikipedia.org/wiki/Unități_care_nu_fac_parte_din_SI",
+  "source_url": "https://ro.wikipedia.org/wiki/Unități_care_nu_fac_parte_din_SI",
+  "updated": "2026-11",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "marime",
+      "label": "Marime",
+      "type": "string"
+    },
+    {
+      "key": "denumire",
+      "label": "Denumire",
+      "type": "string"
+    },
+    {
+      "key": "simbol",
+      "label": "Simbol",
+      "type": "string"
+    },
+    {
+      "key": "valoare_in_si",
+      "label": "Valoare In Si",
+      "type": "string"
+    },
+    {
+      "key": "categorie",
+      "label": "Categorie",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "marime": "timp",
+      "denumire": "minut",
+      "simbol": "min",
+      "valoare_in_si": "1 min = 60 s",
+      "categorie": "Unități acceptate pentru utilizare cu SI"
+    },
+    {
+      "marime": "timp",
+      "denumire": "oră",
+      "simbol": "h",
+      "valoare_in_si": "1 h = 60 min = 3 600 s",
+      "categorie": "Unități acceptate pentru utilizare cu SI"
+    },
+    {
+      "marime": "timp",
+      "denumire": "zi",
+      "simbol": "d",
+      "valoare_in_si": "1 d = 24 h = 86 400 s",
+      "categorie": "Unități acceptate pentru utilizare cu SI"
+    },
+    {
+      "marime": "unghi plan",
+      "denumire": "grad",
+      "simbol": "°",
+      "valoare_in_si": "1° = (π/180) rad",
+      "categorie": "Unități acceptate pentru utilizare cu SI"
+    },
+    {
+      "marime": "unghi plan",
+      "denumire": "minut",
+      "simbol": "'",
+      "valoare_in_si": "1' = (1/60)° = (π/10^800) rad",
+      "categorie": "Unități acceptate pentru utilizare cu SI"
+    },
+    {
+      "marime": "unghi plan",
+      "denumire": "secundă",
+      "simbol": "\"",
+      "valoare_in_si": "1\" = (1/60)' = (π/648 000) rad",
+      "categorie": "Unități acceptate pentru utilizare cu SI"
+    },
+    {
+      "marime": "suprafață",
+      "denumire": "hectar",
+      "simbol": "ha",
+      "valoare_in_si": "1 ha = 1 hm 2 = 10^4 m 2",
+      "categorie": "Unități acceptate pentru utilizare cu SI"
+    },
+    {
+      "marime": "volum",
+      "denumire": "litru",
+      "simbol": "L, l",
+      "valoare_in_si": "1 L = l l = 1 dm 3 = 10^3 cm 3 = 10^-3 m 3",
+      "categorie": "Unități acceptate pentru utilizare cu SI"
+    },
+    {
+      "marime": "masă",
+      "denumire": "tonă",
+      "simbol": "t",
+      "valoare_in_si": "1 t = 10^3 kg",
+      "categorie": "Unități acceptate pentru utilizare cu SI"
+    },
+    {
+      "marime": "energie",
+      "denumire": "electronvolt",
+      "simbol": "eV",
+      "valoare_in_si": "1,602 177 33 (49)×10^-19 J",
+      "categorie": "Unități acceptate cu SI, cu valori obținute experimental"
+    },
+    {
+      "marime": "masă",
+      "denumire": "dalton",
+      "simbol": "Da",
+      "valoare_in_si": "1 Da = 1,660 538 86 (28)×10^-27 kg",
+      "categorie": "Unități acceptate cu SI, cu valori obținute experimental"
+    },
+    {
+      "marime": "masă",
+      "denumire": "unitate de masă atomică unificată",
+      "simbol": "u",
+      "valoare_in_si": "1 u = 1 Da",
+      "categorie": "Unități acceptate cu SI, cu valori obținute experimental"
+    },
+    {
+      "marime": "lungime",
+      "denumire": "unitate astronomică",
+      "simbol": "ua",
+      "valoare_in_si": "1 ua = 1,495 978 706 91 (6) ×10^11 m",
+      "categorie": "Unități acceptate cu SI, cu valori obținute experimental"
+    },
+    {
+      "marime": "viteză",
+      "denumire": "unitate naturală de viteză (viteza luminii în vid)",
+      "simbol": "c 0",
+      "valoare_in_si": "299 792 458 m/s (exact)",
+      "categorie": "Unități acceptate cu SI, cu valori obținute experimental"
+    },
+    {
+      "marime": "acțiune",
+      "denumire": "unitate naturală de acțiune (constanta lui Planck redusă)",
+      "simbol": "ħ",
+      "valoare_in_si": "1,054 571 68 (18) ×10^-34 J s",
+      "categorie": "Unități acceptate cu SI, cu valori obținute experimental"
+    },
+    {
+      "marime": "masă",
+      "denumire": "unitate naturală de masă (masa electronului)",
+      "simbol": "m e",
+      "valoare_in_si": "9,109 382 6 (16) ×10^-31 kg",
+      "categorie": "Unități acceptate cu SI, cu valori obținute experimental"
+    },
+    {
+      "marime": "timp",
+      "denumire": "unitate naturală de timp",
+      "simbol": "ħ / (m e c 0 2)",
+      "valoare_in_si": "1,288 088 667 7 (86) ×10^-21",
+      "categorie": "Unități acceptate cu SI, cu valori obținute experimental"
+    },
+    {
+      "marime": "sarcină",
+      "denumire": "unitate atomică de sarcină (sarcină electrică elementară)",
+      "simbol": "e",
+      "valoare_in_si": "1,602 176 53 (14) ×10^-19 C",
+      "categorie": "Unități acceptate cu SI, cu valori obținute experimental"
+    },
+    {
+      "marime": "masă",
+      "denumire": "unitate atomică de masă (masa electronului)",
+      "simbol": "m e",
+      "valoare_in_si": "9,109 382 6 (16) ×10^-31 kg",
+      "categorie": "Unități acceptate cu SI, cu valori obținute experimental"
+    },
+    {
+      "marime": "acțiune",
+      "denumire": "unitate atomică de acțiune (constanta lui Planck redusă)",
+      "simbol": "ħ",
+      "valoare_in_si": "1,054 571 68 (18) ×10^-34 J s",
+      "categorie": "Unități acceptate cu SI, cu valori obținute experimental"
+    },
+    {
+      "marime": "lungime",
+      "denumire": "unitate atomică de lungime, bohr (raza lui Bohr)",
+      "simbol": "a 0",
+      "valoare_in_si": "0,529 177 210^8 (18) ×10^-10 m",
+      "categorie": "Unități acceptate cu SI, cu valori obținute experimental"
+    },
+    {
+      "marime": "energie",
+      "denumire": "unitate atomică de energie, hartree (energie Hartree)",
+      "simbol": "E h",
+      "valoare_in_si": "4,359 744 17 (75) ×10^-18 J",
+      "categorie": "Unități acceptate cu SI, cu valori obținute experimental"
+    },
+    {
+      "marime": "timp",
+      "denumire": "unitate atomică de timp",
+      "simbol": "ħ/E h",
+      "valoare_in_si": "2,418 884 326 505 (16) ×10^-17 s",
+      "categorie": "Unități acceptate cu SI, cu valori obținute experimental"
+    },
+    {
+      "marime": "presiune",
+      "denumire": "bar",
+      "simbol": "bar",
+      "valoare_in_si": "1 bar = 0,1 MPa = 100 kPa = 10^5 Pa",
+      "categorie": "Alte unități în afara SI (utilizare acceptată)"
+    },
+    {
+      "marime": "presiune",
+      "denumire": "milimetru de mercur",
+      "simbol": "mmHg",
+      "valoare_in_si": "1 mmHg = 133,322 Pa",
+      "categorie": "Alte unități în afara SI (utilizare acceptată)"
+    },
+    {
+      "marime": "lungime",
+      "denumire": "ångström",
+      "simbol": "Å",
+      "valoare_in_si": "1 Å = 0,1 nm = 100 pm = 10^-10 m",
+      "categorie": "Alte unități în afara SI (utilizare acceptată)"
+    },
+    {
+      "marime": "distanță",
+      "denumire": "milă marină",
+      "simbol": "NM, Nm",
+      "valoare_in_si": "1 NM = 1852 m",
+      "categorie": "Alte unități în afara SI (utilizare acceptată)"
+    },
+    {
+      "marime": "suprafață",
+      "denumire": "barn",
+      "simbol": "b",
+      "valoare_in_si": "1 b = 100 fm 2 = (10^-12 cm 2 = 10^-28 m 2)",
+      "categorie": "Alte unități în afara SI (utilizare acceptată)"
+    },
+    {
+      "marime": "viteză",
+      "denumire": "nod",
+      "simbol": "kn",
+      "valoare_in_si": "1 kn = (1852/3600) m/s",
+      "categorie": "Alte unități în afara SI (utilizare acceptată)"
+    },
+    {
+      "marime": "logaritmul unui raport",
+      "denumire": "neper (g, i) bel (h, i) decibel (h, i)",
+      "simbol": "Np B dB",
+      "valoare_in_si": "Pentru valoarea numerică a raportului unui neper, bel sau decibel, vedeți nota (j).",
+      "categorie": "Alte unități în afara SI (utilizare acceptată)"
+    },
+    {
+      "marime": "cantitatea de informație",
+      "denumire": "bit bait octet",
+      "simbol": "b B O",
+      "valoare_in_si": "Un bit este cantitatea elementară de informație. 1 bait = 1 octet = 8 biți.",
+      "categorie": "Alte unități în afara SI (utilizare acceptată)"
+    },
+    {
+      "marime": "energie",
+      "denumire": "erg",
+      "simbol": "erg",
+      "valoare_in_si": "1 erg = 10^-7 J",
+      "categorie": "Unități CGS și alte unități în afara SI"
+    },
+    {
+      "marime": "forță",
+      "denumire": "dynă",
+      "simbol": "dyn",
+      "valoare_in_si": "1 dyn = 10^-5 N",
+      "categorie": "Unități CGS și alte unități în afara SI"
+    },
+    {
+      "marime": "viscozitate dinamică",
+      "denumire": "poise",
+      "simbol": "P",
+      "valoare_in_si": "1 P = 1 dyn s cm -2 = 0,1 Pa s",
+      "categorie": "Unități CGS și alte unități în afara SI"
+    },
+    {
+      "marime": "viscozitate cinematică",
+      "denumire": "stokes",
+      "simbol": "St",
+      "valoare_in_si": "1 St = 1 cm2 s -1 = 10^-4 m 2 s -1",
+      "categorie": "Unități CGS și alte unități în afara SI"
+    },
+    {
+      "marime": "luminanță luminoasă",
+      "denumire": "stilb",
+      "simbol": "sb",
+      "valoare_in_si": "1 sb = 1 cd cm -2 = 10^4 cd m -2",
+      "categorie": "Unități CGS și alte unități în afara SI"
+    },
+    {
+      "marime": "iluminare luminoasă",
+      "denumire": "phot",
+      "simbol": "ph",
+      "valoare_in_si": "1 ph = 1 cd sr cm -2 = 10^4 lx",
+      "categorie": "Unități CGS și alte unități în afara SI"
+    },
+    {
+      "marime": "accelerație",
+      "denumire": "gal",
+      "simbol": "Gal",
+      "valoare_in_si": "1 Gal = 1 cm s -2 = 10^-2 m s -2",
+      "categorie": "Unități CGS și alte unități în afara SI"
+    },
+    {
+      "marime": "flux magnetic",
+      "denumire": "maxwell",
+      "simbol": "Mx",
+      "valoare_in_si": "1 Mx = 1 G cm 2 = 10^-8 Wb",
+      "categorie": "Unități CGS și alte unități în afara SI"
+    },
+    {
+      "marime": "inducție magnetică",
+      "denumire": "gauss",
+      "simbol": "G",
+      "valoare_in_si": "1 G = 1 Mx/cm 2 = 10^-4 T",
+      "categorie": "Unități CGS și alte unități în afara SI"
+    },
+    {
+      "marime": "câmp magnetic",
+      "denumire": "oersted",
+      "simbol": "Oe",
+      "valoare_in_si": "1 Oe = (10^3 /4π) A m -1",
+      "categorie": "Unități CGS și alte unități în afara SI"
+    },
+    {
+      "marime": "densitate spectrală a fluxului radiației",
+      "denumire": "Jansky",
+      "simbol": "Jy",
+      "valoare_in_si": "1 Jy = 10^-26 W m -2 Hz -1",
+      "categorie": "Unități CGS și alte unități în afara SI"
+    }
+  ],
+  "meta": {
+    "title": "Unități de măsură care nu fac parte din SI - Free Download",
+    "description": "Unități de măsură din afara Sistemului Internațional (minut, oră, hectar, litru, tonă, bar, ångström, milă marină, erg etc.) cu mărimea, simbolul și valoarea în unități SI. Contains 42 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Unități de măsură care nu fac parte din SI | ListBase",
+    "seo_description": "Download Unități de măsură care nu fac parte din SI — 42 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 42 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Unități_care_nu_fac_parte_din_SI"
+    ]
+  }
+}

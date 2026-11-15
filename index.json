@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-15T02:12:52.645Z",
-  "total_datasets": 515,
-  "total_records": 169858,
+  "generated": "2026-11-15T02:13:02.728Z",
+  "total_datasets": 516,
+  "total_records": 169900,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 6
+      "dataset_count": 7
     }
   ],
   "datasets": [
@@ -16495,6 +16495,32 @@
         "xlsx": {
           "name": "ro-unitati-de-masura_RO.xlsx",
           "size": 16185
+        }
+      }
+    },
+    {
+      "id": "ro-unitati-in-afara-si",
+      "name": "Unități de măsură care nu fac parte din SI",
+      "category": "units",
+      "record_count": 42,
+      "columns": [
+        "marime",
+        "denumire",
+        "simbol",
+        "valoare_in_si",
+        "categorie"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Unități_care_nu_fac_parte_din_SI",
+      "updated": "2026-11",
+      "size": 11746,
+      "files": {
+        "csv": {
+          "name": "ro-unitati-in-afara-si_RO.csv",
+          "size": 5341
+        },
+        "xlsx": {
+          "name": "ro-unitati-in-afara-si_RO.xlsx",
+          "size": 9205
         }
       }
     },
