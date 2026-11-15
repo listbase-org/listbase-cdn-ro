@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-15T02:12:40.941Z",
-  "total_datasets": 514,
-  "total_records": 169778,
+  "generated": "2026-11-15T02:12:52.645Z",
+  "total_datasets": 515,
+  "total_records": 169858,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "sports",
@@ -13782,6 +13782,37 @@
         "xlsx": {
           "name": "ro-sindicate_RO.xlsx",
           "size": 7660
+        }
+      }
+    },
+    {
+      "id": "ro-statistici-vitale-1946-2025",
+      "name": "Statistici vitale ale României 1946–2025 (nașteri, decese, spor natural)",
+      "category": "society",
+      "record_count": 80,
+      "columns": [
+        "an",
+        "populatia_medie",
+        "nasteri_vii",
+        "decese",
+        "spor_natural",
+        "rata_natalitatii_la_1000",
+        "rata_mortalitatii_la_1000",
+        "spor_natural_la_1000",
+        "migratie_neta_la_1000",
+        "rata_fertilitatii_totale"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Demografia_României",
+      "updated": "2026-11",
+      "size": 29802,
+      "files": {
+        "csv": {
+          "name": "ro-statistici-vitale-1946-2025_RO.csv",
+          "size": 6437
+        },
+        "xlsx": {
+          "name": "ro-statistici-vitale-1946-2025_RO.xlsx",
+          "size": 11717
         }
       }
     },
