@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-16T02:13:29.247Z",
-  "total_datasets": 518,
-  "total_records": 169924,
+  "generated": "2026-11-16T02:13:39.902Z",
+  "total_datasets": 519,
+  "total_records": 169954,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "time",
@@ -14041,6 +14041,30 @@
         "xlsx": {
           "name": "ro-cele-mai-inalte-structuri_RO.xlsx",
           "size": 13583
+        }
+      }
+    },
+    {
+      "id": "ro-frecvente-radio-fm-bucuresti",
+      "name": "Frecvențele posturilor de radio FM din București",
+      "category": "tech",
+      "record_count": 30,
+      "columns": [
+        "post_radio",
+        "frecventa_mhz",
+        "gen"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Lista_posturilor_de_radio_din_București",
+      "updated": "2026-11",
+      "size": 5974,
+      "files": {
+        "csv": {
+          "name": "ro-frecvente-radio-fm-bucuresti_RO.csv",
+          "size": 2265
+        },
+        "xlsx": {
+          "name": "ro-frecvente-radio-fm-bucuresti_RO.xlsx",
+          "size": 7972
         }
       }
     },

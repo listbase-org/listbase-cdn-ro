@@ -1,0 +1,191 @@
+{
+  "id": "ro-frecvente-radio-fm-bucuresti",
+  "name": "Frecvențele posturilor de radio FM din București",
+  "title": "Frecvențele posturilor de radio FM din București",
+  "description": "Lista posturilor de radio care emit pe FM în București, cu frecvența (MHz) și genul/formatul fiecărui post, după Wikipedia în limba română.",
+  "category": "tech",
+  "source": "https://ro.wikipedia.org/wiki/Lista_posturilor_de_radio_din_București",
+  "source_url": "https://ro.wikipedia.org/wiki/Lista_posturilor_de_radio_din_București",
+  "updated": "2026-11",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "post_radio",
+      "label": "Post Radio",
+      "type": "string"
+    },
+    {
+      "key": "frecventa_mhz",
+      "label": "Frecventa Mhz",
+      "type": "number"
+    },
+    {
+      "key": "gen",
+      "label": "Gen",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "post_radio": "Radio Impuls",
+      "frecventa_mhz": 88,
+      "gen": "Știri, Divertisment, Muzică - Contemporary Hit Radio & Hot Hits"
+    },
+    {
+      "post_radio": "Radio Trinitas",
+      "frecventa_mhz": 88.5,
+      "gen": "Creștin, Religios"
+    },
+    {
+      "post_radio": "Radio ZU",
+      "frecventa_mhz": 89,
+      "gen": "Știri, Divertisment, Muzică - Top 40, Hot Hits / Heavy Rotation"
+    },
+    {
+      "post_radio": "Dance FM",
+      "frecventa_mhz": 89.5,
+      "gen": "Muzică - Dance & Clubbing"
+    },
+    {
+      "post_radio": "Nostalgia Radio FM",
+      "frecventa_mhz": 90.2,
+      "gen": "Știri, Muzică - Classic & Adult Contemporary"
+    },
+    {
+      "post_radio": "Magic FM",
+      "frecventa_mhz": 90.8,
+      "gen": "Știri, Muzică - Classic & Adult Contemporary"
+    },
+    {
+      "post_radio": "Național FM",
+      "frecventa_mhz": 91.7,
+      "gen": "Muzică - 100% Românească"
+    },
+    {
+      "post_radio": "Vibe FM",
+      "frecventa_mhz": 92.1,
+      "gen": "Muzică Românească"
+    },
+    {
+      "post_radio": "Urban FM",
+      "frecventa_mhz": 92.7,
+      "gen": "Muzică - Urban,Hip-Hop,Rap,Trap"
+    },
+    {
+      "post_radio": "RFI România | RFI Monde",
+      "frecventa_mhz": 93.5,
+      "gen": "Știri interne & internaționale, Talk-Show, Actualitate, Emisiuni informative"
+    },
+    {
+      "post_radio": "Radio Vocea Evangheliei | Radio Vocea Speranței",
+      "frecventa_mhz": 94.2,
+      "gen": "Creștin, Religios"
+    },
+    {
+      "post_radio": "Radio Guerrilla",
+      "frecventa_mhz": 94.8,
+      "gen": "Muzică - Alternative Adult Contemporany"
+    },
+    {
+      "post_radio": "Kiss FM",
+      "frecventa_mhz": 96.1,
+      "gen": "Știri, Divertisment, Muzică - Top 40, Hot Hits / Heavy Rotation"
+    },
+    {
+      "post_radio": "Gold FM",
+      "frecventa_mhz": 96.9,
+      "gen": "Știri, Muzică - Classic & Adult Contemporary"
+    },
+    {
+      "post_radio": "Digi FM",
+      "frecventa_mhz": 97.9,
+      "gen": "Știri, Muzică - Soft Adult Contemporary, Emisiuni informative"
+    },
+    {
+      "post_radio": "București FM",
+      "frecventa_mhz": 98.3,
+      "gen": "Știri locale, Muzică - Adult Contemporary, Emisiuni informative"
+    },
+    {
+      "post_radio": "Radio Itsy Bitsy",
+      "frecventa_mhz": 99.3,
+      "gen": "Copii & Sfaturi pentru părinți, Emisiuni informative"
+    },
+    {
+      "post_radio": "Virgin Radio",
+      "frecventa_mhz": 100.2,
+      "gen": "Știri, Divertisment, Muzică - Top 40, Hot Hits / Heavy Rotation"
+    },
+    {
+      "post_radio": "Rock FM",
+      "frecventa_mhz": 100.6,
+      "gen": "Muzică - Rock & Classic Rock / 80's & 90's"
+    },
+    {
+      "post_radio": "Radio România Cultural",
+      "frecventa_mhz": 101.3,
+      "gen": "Știri, Educațional, Cultural"
+    },
+    {
+      "post_radio": "Romantic FM",
+      "frecventa_mhz": 101.9,
+      "gen": "Muzică - Oldies / 60's 70's 80's & 90's, Love & Latino & Soft Music"
+    },
+    {
+      "post_radio": "PRO FM",
+      "frecventa_mhz": 102.8,
+      "gen": "Știri, Divertisment, Muzică - Top 40, Hot Hits / Heavy Rotation"
+    },
+    {
+      "post_radio": "Radio Seven",
+      "frecventa_mhz": 103.4,
+      "gen": "Știri, Muzică - Alternative Adult Contemporary"
+    },
+    {
+      "post_radio": "Digi 24 FM",
+      "frecventa_mhz": 103.8,
+      "gen": "Retransmitere Digi 24"
+    },
+    {
+      "post_radio": "Radio România Muzical",
+      "frecventa_mhz": 104.8,
+      "gen": "Muzică simfonică, operă/operetă, muzică corală & tradițională, jazz și muzică de film"
+    },
+    {
+      "post_radio": "Radio România Actualități",
+      "frecventa_mhz": 105.3,
+      "gen": "Știri, Talk-Show, Emisiuni informative"
+    },
+    {
+      "post_radio": "Sport Total FM",
+      "frecventa_mhz": 105.8,
+      "gen": "Știri & Emisiuni & Transmisiuni sportive"
+    },
+    {
+      "post_radio": "3FM",
+      "frecventa_mhz": 106.2,
+      "gen": "Retransmitere Antena 3"
+    },
+    {
+      "post_radio": "Europa FM",
+      "frecventa_mhz": 106.7,
+      "gen": "Știri, Muzică - Adult Contemporary, Emisiuni informative"
+    },
+    {
+      "post_radio": "Euronews Radio",
+      "frecventa_mhz": 107.3,
+      "gen": "Știri, Muzică - Adult Contemporary, Emisiuni informative"
+    }
+  ],
+  "meta": {
+    "title": "Frecvențele posturilor de radio FM din București - Free Download",
+    "description": "Lista posturilor de radio care emit pe FM în București, cu frecvența (MHz) și genul/formatul fiecărui post, după Wikipedia în limba română. Contains 30 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Frecvențele posturilor de radio FM din București | ListBase",
+    "seo_description": "Download Frecvențele posturilor de radio FM din București — 30 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 30 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Lista_posturilor_de_radio_din_București"
+    ]
+  }
+}
