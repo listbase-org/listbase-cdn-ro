@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-15T02:13:02.728Z",
-  "total_datasets": 516,
-  "total_records": 169900,
+  "generated": "2026-11-16T02:13:18.645Z",
+  "total_datasets": 517,
+  "total_records": 169909,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "society",
@@ -13531,6 +13531,37 @@
         "xlsx": {
           "name": "ro-vrancea-municipii_RO.xlsx",
           "size": 7105
+        }
+      }
+    },
+    {
+      "id": "ro-cheltuieli-cercetare-dezvoltare-pe-regiuni",
+      "name": "Cheltuielile pentru cercetare-dezvoltare pe regiuni ale României (2024)",
+      "category": "science",
+      "record_count": 9,
+      "columns": [
+        "cod_nuts",
+        "regiune",
+        "cheltuieli_cd_mil_eur_2024",
+        "cheltuieli_cd_pct_pib_2024",
+        "eur_pe_locuitor_2024",
+        "sector_intreprinderi_mil_eur_2024",
+        "sector_guvernamental_mil_eur_2024",
+        "invatamant_superior_mil_eur_2024",
+        "cheltuieli_cd_pct_pib_2015",
+        "cheltuieli_cd_pct_pib_2020"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/rd_e_gerdreg/default/table",
+      "updated": "2026-11",
+      "size": 6823,
+      "files": {
+        "csv": {
+          "name": "ro-cheltuieli-cercetare-dezvoltare-pe-regiuni_RO.csv",
+          "size": 1040
+        },
+        "xlsx": {
+          "name": "ro-cheltuieli-cercetare-dezvoltare-pe-regiuni_RO.xlsx",
+          "size": 7545
         }
       }
     },

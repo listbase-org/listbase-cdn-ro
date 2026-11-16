@@ -1,0 +1,184 @@
+{
+  "id": "ro-cheltuieli-cercetare-dezvoltare-pe-regiuni",
+  "name": "Cheltuielile pentru cercetare-dezvoltare pe regiuni ale României (2024)",
+  "title": "Cheltuielile pentru cercetare-dezvoltare pe regiuni ale României (2024)",
+  "description": "Cheltuielile totale pentru cercetare-dezvoltare (C-D) în România și pe cele 8 regiuni de dezvoltare: milioane euro, procent din PIB, euro pe locuitor și defalcare pe sectoare de performanță în 2024, plus % din PIB în 2015 și 2020 (Eurostat rd_e_gerdreg).",
+  "category": "science",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/rd_e_gerdreg/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/rd_e_gerdreg/default/table",
+  "updated": "2026-11",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "cod_nuts",
+      "label": "Cod Nuts",
+      "type": "string"
+    },
+    {
+      "key": "regiune",
+      "label": "Regiune",
+      "type": "string"
+    },
+    {
+      "key": "cheltuieli_cd_mil_eur_2024",
+      "label": "Cheltuieli Cd Mil Eur 2024",
+      "type": "number"
+    },
+    {
+      "key": "cheltuieli_cd_pct_pib_2024",
+      "label": "Cheltuieli Cd Pct Pib 2024",
+      "type": "number"
+    },
+    {
+      "key": "eur_pe_locuitor_2024",
+      "label": "Eur Pe Locuitor 2024",
+      "type": "number"
+    },
+    {
+      "key": "sector_intreprinderi_mil_eur_2024",
+      "label": "Sector Intreprinderi Mil Eur 2024",
+      "type": "number"
+    },
+    {
+      "key": "sector_guvernamental_mil_eur_2024",
+      "label": "Sector Guvernamental Mil Eur 2024",
+      "type": "number"
+    },
+    {
+      "key": "invatamant_superior_mil_eur_2024",
+      "label": "Invatamant Superior Mil Eur 2024",
+      "type": "number"
+    },
+    {
+      "key": "cheltuieli_cd_pct_pib_2015",
+      "label": "Cheltuieli Cd Pct Pib 2015",
+      "type": "number"
+    },
+    {
+      "key": "cheltuieli_cd_pct_pib_2020",
+      "label": "Cheltuieli Cd Pct Pib 2020",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "cod_nuts": "RO",
+      "regiune": "România",
+      "cheltuieli_cd_mil_eur_2024": 1624.214,
+      "cheltuieli_cd_pct_pib_2024": 0.46,
+      "eur_pe_locuitor_2024": 85.182,
+      "sector_intreprinderi_mil_eur_2024": 1043.183,
+      "sector_guvernamental_mil_eur_2024": 434.933,
+      "invatamant_superior_mil_eur_2024": 141.381,
+      "cheltuieli_cd_pct_pib_2015": 0.49,
+      "cheltuieli_cd_pct_pib_2020": 0.47
+    },
+    {
+      "cod_nuts": "RO11",
+      "regiune": "Nord-Vest",
+      "cheltuieli_cd_mil_eur_2024": 84.046,
+      "cheltuieli_cd_pct_pib_2024": 0.19,
+      "eur_pe_locuitor_2024": 33.092,
+      "sector_intreprinderi_mil_eur_2024": 15.605,
+      "sector_guvernamental_mil_eur_2024": 20.783,
+      "invatamant_superior_mil_eur_2024": 45.934,
+      "cheltuieli_cd_pct_pib_2015": 0.41,
+      "cheltuieli_cd_pct_pib_2020": 0.2
+    },
+    {
+      "cod_nuts": "RO12",
+      "regiune": "Centru",
+      "cheltuieli_cd_mil_eur_2024": 139.479,
+      "cheltuieli_cd_pct_pib_2024": 0.36,
+      "eur_pe_locuitor_2024": 60.96,
+      "sector_intreprinderi_mil_eur_2024": 122.654,
+      "sector_guvernamental_mil_eur_2024": 5.647,
+      "invatamant_superior_mil_eur_2024": 11.179,
+      "cheltuieli_cd_pct_pib_2015": 0.33,
+      "cheltuieli_cd_pct_pib_2020": 0.34
+    },
+    {
+      "cod_nuts": "RO21",
+      "regiune": "Nord-Est",
+      "cheltuieli_cd_mil_eur_2024": 74.774,
+      "cheltuieli_cd_pct_pib_2024": 0.2,
+      "eur_pe_locuitor_2024": 23.173,
+      "sector_intreprinderi_mil_eur_2024": 38.821,
+      "sector_guvernamental_mil_eur_2024": 25.505,
+      "invatamant_superior_mil_eur_2024": 10.398,
+      "cheltuieli_cd_pct_pib_2015": 0.44,
+      "cheltuieli_cd_pct_pib_2020": 0.28
+    },
+    {
+      "cod_nuts": "RO22",
+      "regiune": "Sud-Est",
+      "cheltuieli_cd_mil_eur_2024": 28.418,
+      "cheltuieli_cd_pct_pib_2024": 0.09,
+      "eur_pe_locuitor_2024": 12.118,
+      "sector_intreprinderi_mil_eur_2024": 1.329,
+      "sector_guvernamental_mil_eur_2024": 22.131,
+      "invatamant_superior_mil_eur_2024": 4.95,
+      "cheltuieli_cd_pct_pib_2015": 0.08,
+      "cheltuieli_cd_pct_pib_2020": 0.09
+    },
+    {
+      "cod_nuts": "RO31",
+      "regiune": "Sud-Muntenia",
+      "cheltuieli_cd_mil_eur_2024": 156.037,
+      "cheltuieli_cd_pct_pib_2024": 0.42,
+      "eur_pe_locuitor_2024": 55.066,
+      "sector_intreprinderi_mil_eur_2024": 145.033,
+      "sector_guvernamental_mil_eur_2024": 10.122,
+      "invatamant_superior_mil_eur_2024": 0.882,
+      "cheltuieli_cd_pct_pib_2015": 0.35,
+      "cheltuieli_cd_pct_pib_2020": 0.35
+    },
+    {
+      "cod_nuts": "RO32",
+      "regiune": "București-Ilfov",
+      "cheltuieli_cd_mil_eur_2024": 998.779,
+      "cheltuieli_cd_pct_pib_2024": 0.96,
+      "eur_pe_locuitor_2024": 433.226,
+      "sector_intreprinderi_mil_eur_2024": 640.284,
+      "sector_guvernamental_mil_eur_2024": 304.624,
+      "invatamant_superior_mil_eur_2024": 50.937,
+      "cheltuieli_cd_pct_pib_2015": 0.92,
+      "cheltuieli_cd_pct_pib_2020": 0.93
+    },
+    {
+      "cod_nuts": "RO41",
+      "regiune": "Sud-Vest Oltenia",
+      "cheltuieli_cd_mil_eur_2024": 30.43,
+      "cheltuieli_cd_pct_pib_2024": 0.11,
+      "eur_pe_locuitor_2024": 16.398,
+      "sector_intreprinderi_mil_eur_2024": 3.598,
+      "sector_guvernamental_mil_eur_2024": 22.356,
+      "invatamant_superior_mil_eur_2024": 4.477,
+      "cheltuieli_cd_pct_pib_2015": 0.21,
+      "cheltuieli_cd_pct_pib_2020": 0.1
+    },
+    {
+      "cod_nuts": "RO42",
+      "regiune": "Vest",
+      "cheltuieli_cd_mil_eur_2024": 112.249,
+      "cheltuieli_cd_pct_pib_2024": 0.36,
+      "eur_pe_locuitor_2024": 67.095,
+      "sector_intreprinderi_mil_eur_2024": 75.859,
+      "sector_guvernamental_mil_eur_2024": 23.766,
+      "invatamant_superior_mil_eur_2024": 12.624,
+      "cheltuieli_cd_pct_pib_2015": 0.43,
+      "cheltuieli_cd_pct_pib_2020": 0.63
+    }
+  ],
+  "meta": {
+    "title": "Cheltuielile pentru cercetare-dezvoltare pe regiuni ale României (2024) - Free Download",
+    "description": "Cheltuielile totale pentru cercetare-dezvoltare (C-D) în România și pe cele 8 regiuni de dezvoltare: milioane euro, procent din PIB, euro pe locuitor și defalcare pe sectoare de performanță în 2024, plus % din PIB în 2015 și 2020 (Eurostat rd_e_gerdreg). Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Cheltuielile pentru cercetare-dezvoltare pe regiuni ale României (2024) | ListBase",
+    "seo_description": "Download Cheltuielile pentru cercetare-dezvoltare pe regiuni ale României (2024) — 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records / 10 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/rd_e_gerdreg/default/table"
+    ]
+  }
+}
