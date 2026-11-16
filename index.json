@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-16T02:13:49.848Z",
-  "total_datasets": 520,
-  "total_records": 169963,
+  "generated": "2026-11-16T02:14:00.927Z",
+  "total_datasets": 521,
+  "total_records": 169972,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "history",
@@ -5994,6 +5994,37 @@
         "xlsx": {
           "name": "ro-ministri-sanatatii_RO.xlsx",
           "size": 8892
+        }
+      }
+    },
+    {
+      "id": "ro-speranta-de-viata-pe-regiuni-de-dezvoltare",
+      "name": "Speranța de viață la naștere pe regiuni de dezvoltare ale României (2019–2024)",
+      "category": "health",
+      "record_count": 9,
+      "columns": [
+        "cod_nuts",
+        "regiune",
+        "total_2019",
+        "total_2020",
+        "total_2021",
+        "total_2022",
+        "total_2023",
+        "total_2024",
+        "barbati_2024",
+        "femei_2024"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/demo_r_mlifexp/default/table",
+      "updated": "2026-11",
+      "size": 5136,
+      "files": {
+        "csv": {
+          "name": "ro-speranta-de-viata-pe-regiuni-de-dezvoltare_RO.csv",
+          "size": 789
+        },
+        "xlsx": {
+          "name": "ro-speranta-de-viata-pe-regiuni-de-dezvoltare_RO.xlsx",
+          "size": 7342
         }
       }
     },

@@ -1,0 +1,184 @@
+{
+  "id": "ro-speranta-de-viata-pe-regiuni-de-dezvoltare",
+  "name": "Speranța de viață la naștere pe regiuni de dezvoltare ale României (2019–2024)",
+  "title": "Speranța de viață la naștere pe regiuni de dezvoltare ale României (2019–2024)",
+  "description": "Speranța de viață la naștere (ani) în România și în cele 8 regiuni de dezvoltare (NUTS 2), total pe ani 2019–2024, plus valorile pentru bărbați și femei în 2024, conform Eurostat (demo_r_mlifexp).",
+  "category": "health",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/demo_r_mlifexp/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/demo_r_mlifexp/default/table",
+  "updated": "2026-11",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "cod_nuts",
+      "label": "Cod Nuts",
+      "type": "string"
+    },
+    {
+      "key": "regiune",
+      "label": "Regiune",
+      "type": "string"
+    },
+    {
+      "key": "total_2019",
+      "label": "Total 2019",
+      "type": "number"
+    },
+    {
+      "key": "total_2020",
+      "label": "Total 2020",
+      "type": "number"
+    },
+    {
+      "key": "total_2021",
+      "label": "Total 2021",
+      "type": "number"
+    },
+    {
+      "key": "total_2022",
+      "label": "Total 2022",
+      "type": "number"
+    },
+    {
+      "key": "total_2023",
+      "label": "Total 2023",
+      "type": "number"
+    },
+    {
+      "key": "total_2024",
+      "label": "Total 2024",
+      "type": "number"
+    },
+    {
+      "key": "barbati_2024",
+      "label": "Barbati 2024",
+      "type": "number"
+    },
+    {
+      "key": "femei_2024",
+      "label": "Femei 2024",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "cod_nuts": "RO",
+      "regiune": "România",
+      "total_2019": 75.6,
+      "total_2020": 74.1,
+      "total_2021": 72.8,
+      "total_2022": 75.1,
+      "total_2023": 76.3,
+      "total_2024": 76.5,
+      "barbati_2024": 72.8,
+      "femei_2024": 80.3
+    },
+    {
+      "cod_nuts": "RO11",
+      "regiune": "Nord-Vest",
+      "total_2019": 75.6,
+      "total_2020": 74,
+      "total_2021": 72.8,
+      "total_2022": 75.3,
+      "total_2023": 76.5,
+      "total_2024": 76.6,
+      "barbati_2024": 73.1,
+      "femei_2024": 80.2
+    },
+    {
+      "cod_nuts": "RO12",
+      "regiune": "Centru",
+      "total_2019": 76,
+      "total_2020": 74.3,
+      "total_2021": 73.3,
+      "total_2022": 75.5,
+      "total_2023": 76.9,
+      "total_2024": 77,
+      "barbati_2024": 73.8,
+      "femei_2024": 80.3
+    },
+    {
+      "cod_nuts": "RO21",
+      "regiune": "Nord-Est",
+      "total_2019": 74.6,
+      "total_2020": 73.2,
+      "total_2021": 72,
+      "total_2022": 74.5,
+      "total_2023": 75.4,
+      "total_2024": 75.5,
+      "barbati_2024": 71.5,
+      "femei_2024": 80
+    },
+    {
+      "cod_nuts": "RO22",
+      "regiune": "Sud-Est",
+      "total_2019": 74.3,
+      "total_2020": 73.6,
+      "total_2021": 72.1,
+      "total_2022": 74.4,
+      "total_2023": 75.6,
+      "total_2024": 75.7,
+      "barbati_2024": 71.6,
+      "femei_2024": 79.9
+    },
+    {
+      "cod_nuts": "RO31",
+      "regiune": "Sud-Muntenia",
+      "total_2019": 75.4,
+      "total_2020": 73.7,
+      "total_2021": 72.4,
+      "total_2022": 74.6,
+      "total_2023": 76,
+      "total_2024": 76.3,
+      "barbati_2024": 72.4,
+      "femei_2024": 80.3
+    },
+    {
+      "cod_nuts": "RO32",
+      "regiune": "București-Ilfov",
+      "total_2019": 77.2,
+      "total_2020": 75.4,
+      "total_2021": 73.9,
+      "total_2022": 76.5,
+      "total_2023": 77.6,
+      "total_2024": 77.8,
+      "barbati_2024": 74.2,
+      "femei_2024": 81
+    },
+    {
+      "cod_nuts": "RO41",
+      "regiune": "Sud-Vest Oltenia",
+      "total_2019": 76.2,
+      "total_2020": 74.9,
+      "total_2021": 73.4,
+      "total_2022": 75.4,
+      "total_2023": 76.9,
+      "total_2024": 76.9,
+      "barbati_2024": 73.3,
+      "femei_2024": 80.6
+    },
+    {
+      "cod_nuts": "RO42",
+      "regiune": "Vest",
+      "total_2019": 75.6,
+      "total_2020": 74,
+      "total_2021": 72.5,
+      "total_2022": 75,
+      "total_2023": 76.4,
+      "total_2024": 76.4,
+      "barbati_2024": 73.1,
+      "femei_2024": 79.8
+    }
+  ],
+  "meta": {
+    "title": "Speranța de viață la naștere pe regiuni de dezvoltare ale României (2019–2024) - Free Download",
+    "description": "Speranța de viață la naștere (ani) în România și în cele 8 regiuni de dezvoltare (NUTS 2), total pe ani 2019–2024, plus valorile pentru bărbați și femei în 2024, conform Eurostat (demo_r_mlifexp). Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Speranța de viață la naștere pe regiuni de dezvoltare ale României (2019–2024) | ListBase",
+    "seo_description": "Download Speranța de viață la naștere pe regiuni de dezvoltare ale României (2019–2024) — 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records / 10 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/demo_r_mlifexp/default/table"
+    ]
+  }
+}
