@@ -1,0 +1,198 @@
+{
+  "id": "ro-innoptari-turistice-pe-regiuni",
+  "name": "Înnoptări în structurile de cazare turistică pe regiuni ale României (2019–2025)",
+  "title": "Înnoptări în structurile de cazare turistică pe regiuni ale României (2019–2025)",
+  "description": "Numărul de înnoptări în structurile de primire turistică (hoteluri, cazare de vacanță, campinguri) în România și pe cele 8 regiuni de dezvoltare, pe ani 2019–2025, cu defalcarea rezidenți/nerezidenți pentru 2025 (Eurostat tour_occ_nin2).",
+  "category": "tourism",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/tour_occ_nin2/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/tour_occ_nin2/default/table",
+  "updated": "2026-11",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "cod_nuts",
+      "label": "Cod Nuts",
+      "type": "string"
+    },
+    {
+      "key": "regiune",
+      "label": "Regiune",
+      "type": "string"
+    },
+    {
+      "key": "innoptari_total_2019",
+      "label": "Innoptari Total 2019",
+      "type": "number"
+    },
+    {
+      "key": "innoptari_total_2020",
+      "label": "Innoptari Total 2020",
+      "type": "number"
+    },
+    {
+      "key": "innoptari_total_2021",
+      "label": "Innoptari Total 2021",
+      "type": "number"
+    },
+    {
+      "key": "innoptari_total_2022",
+      "label": "Innoptari Total 2022",
+      "type": "number"
+    },
+    {
+      "key": "innoptari_total_2023",
+      "label": "Innoptari Total 2023",
+      "type": "number"
+    },
+    {
+      "key": "innoptari_total_2024",
+      "label": "Innoptari Total 2024",
+      "type": "number"
+    },
+    {
+      "key": "innoptari_total_2025",
+      "label": "Innoptari Total 2025",
+      "type": "number"
+    },
+    {
+      "key": "innoptari_rezidenti_2025",
+      "label": "Innoptari Rezidenti 2025",
+      "type": "number"
+    },
+    {
+      "key": "innoptari_nerezidenti_2025",
+      "label": "Innoptari Nerezidenti 2025",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "cod_nuts": "RO",
+      "regiune": "România",
+      "innoptari_total_2019": 29889894,
+      "innoptari_total_2020": 14454464,
+      "innoptari_total_2021": 22422471,
+      "innoptari_total_2022": 26614221,
+      "innoptari_total_2023": 29205568,
+      "innoptari_total_2024": 30231204,
+      "innoptari_total_2025": 29719596,
+      "innoptari_rezidenti_2025": 24387224,
+      "innoptari_nerezidenti_2025": 5332372
+    },
+    {
+      "cod_nuts": "RO11",
+      "regiune": "Nord-Vest",
+      "innoptari_total_2019": 3769644,
+      "innoptari_total_2020": 1640652,
+      "innoptari_total_2021": 2750612,
+      "innoptari_total_2022": 3455229,
+      "innoptari_total_2023": 3678717,
+      "innoptari_total_2024": 3748817,
+      "innoptari_total_2025": 3608745,
+      "innoptari_rezidenti_2025": 3087514,
+      "innoptari_nerezidenti_2025": 521231
+    },
+    {
+      "cod_nuts": "RO12",
+      "regiune": "Centru",
+      "innoptari_total_2019": 6372951,
+      "innoptari_total_2020": 3064855,
+      "innoptari_total_2021": 4811568,
+      "innoptari_total_2022": 5752929,
+      "innoptari_total_2023": 6304368,
+      "innoptari_total_2024": 6197874,
+      "innoptari_total_2025": 5996780,
+      "innoptari_rezidenti_2025": 5051722,
+      "innoptari_nerezidenti_2025": 945058
+    },
+    {
+      "cod_nuts": "RO21",
+      "regiune": "Nord-Est",
+      "innoptari_total_2019": 2623007,
+      "innoptari_total_2020": 1281378,
+      "innoptari_total_2021": 2128958,
+      "innoptari_total_2022": 2693873,
+      "innoptari_total_2023": 2815147,
+      "innoptari_total_2024": 2823862,
+      "innoptari_total_2025": 2697659,
+      "innoptari_rezidenti_2025": 2440715,
+      "innoptari_nerezidenti_2025": 256944
+    },
+    {
+      "cod_nuts": "RO22",
+      "regiune": "Sud-Est",
+      "innoptari_total_2019": 6293170,
+      "innoptari_total_2020": 4077415,
+      "innoptari_total_2021": 5949042,
+      "innoptari_total_2022": 5585584,
+      "innoptari_total_2023": 6139882,
+      "innoptari_total_2024": 6638369,
+      "innoptari_total_2025": 6662549,
+      "innoptari_rezidenti_2025": 6402085,
+      "innoptari_nerezidenti_2025": 260464
+    },
+    {
+      "cod_nuts": "RO31",
+      "regiune": "Sud-Muntenia",
+      "innoptari_total_2019": 2301949,
+      "innoptari_total_2020": 1098222,
+      "innoptari_total_2021": 1634154,
+      "innoptari_total_2022": 1978547,
+      "innoptari_total_2023": 2245981,
+      "innoptari_total_2024": 2375234,
+      "innoptari_total_2025": 2045771,
+      "innoptari_rezidenti_2025": 1812894,
+      "innoptari_nerezidenti_2025": 232877
+    },
+    {
+      "cod_nuts": "RO32",
+      "regiune": "București-Ilfov",
+      "innoptari_total_2019": 3823988,
+      "innoptari_total_2020": 1052571,
+      "innoptari_total_2021": 2003299,
+      "innoptari_total_2022": 3509593,
+      "innoptari_total_2023": 3904303,
+      "innoptari_total_2024": 4219483,
+      "innoptari_total_2025": 4458918,
+      "innoptari_rezidenti_2025": 1748936,
+      "innoptari_nerezidenti_2025": 2709982
+    },
+    {
+      "cod_nuts": "RO41",
+      "regiune": "Sud-Vest Oltenia",
+      "innoptari_total_2019": 2227483,
+      "innoptari_total_2020": 1145467,
+      "innoptari_total_2021": 1635453,
+      "innoptari_total_2022": 1881670,
+      "innoptari_total_2023": 2160225,
+      "innoptari_total_2024": 2255006,
+      "innoptari_total_2025": 2241656,
+      "innoptari_rezidenti_2025": 2150223,
+      "innoptari_nerezidenti_2025": 91433
+    },
+    {
+      "cod_nuts": "RO42",
+      "regiune": "Vest",
+      "innoptari_total_2019": 2477702,
+      "innoptari_total_2020": 1093904,
+      "innoptari_total_2021": 1509385,
+      "innoptari_total_2022": 1756796,
+      "innoptari_total_2023": 1956945,
+      "innoptari_total_2024": 1972559,
+      "innoptari_total_2025": 2007518,
+      "innoptari_rezidenti_2025": 1693135,
+      "innoptari_nerezidenti_2025": 314383
+    }
+  ],
+  "meta": {
+    "title": "Înnoptări în structurile de cazare turistică pe regiuni ale României (2019–2025) - Free Download",
+    "description": "Numărul de înnoptări în structurile de primire turistică (hoteluri, cazare de vacanță, campinguri) în România și pe cele 8 regiuni de dezvoltare, pe ani 2019–2025, cu defalcarea rezidenți/nerezidenți pentru 2025 (Eurostat tour_occ_nin2). Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Înnoptări în structurile de cazare turistică pe regiuni ale României (2019–2025) | ListBase",
+    "seo_description": "Download Înnoptări în structurile de cazare turistică pe regiuni ale României (2019–2025) — 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records / 11 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/tour_occ_nin2/default/table"
+    ]
+  }
+}
