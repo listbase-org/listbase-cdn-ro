@@ -1,0 +1,316 @@
+{
+  "id": "ro-expresii-de-timp-relativ",
+  "name": "Expresii de timp relativ în limba română (ieri, mâine, anul viitor, acum 3 zile…)",
+  "title": "Expresii de timp relativ în limba română (ieri, mâine, anul viitor, acum 3 zile…)",
+  "description": "Expresiile românești pentru timp relativ — alaltăieri, ieri, azi, mâine, poimâine, luna trecută, săptămâna viitoare, „peste {0} de zile”, „acum {0} ani” — pentru fiecare unitate de timp și zi a săptămânii, din Unicode CLDR (ro).",
+  "category": "time",
+  "source": "https://github.com/unicode-org/cldr/blob/main/common/main/ro.xml",
+  "source_url": "https://github.com/unicode-org/cldr/blob/main/common/main/ro.xml",
+  "updated": "2026-11",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "field",
+      "label": "Field",
+      "type": "string"
+    },
+    {
+      "key": "denumire",
+      "label": "Denumire",
+      "type": "string"
+    },
+    {
+      "key": "acum_2",
+      "label": "Acum 2",
+      "type": "string"
+    },
+    {
+      "key": "precedent",
+      "label": "Precedent",
+      "type": "string"
+    },
+    {
+      "key": "curent",
+      "label": "Curent",
+      "type": "string"
+    },
+    {
+      "key": "urmator",
+      "label": "Urmator",
+      "type": "string"
+    },
+    {
+      "key": "peste_2",
+      "label": "Peste 2",
+      "type": "string"
+    },
+    {
+      "key": "viitor_singular",
+      "label": "Viitor Singular",
+      "type": "string"
+    },
+    {
+      "key": "viitor_cateva",
+      "label": "Viitor Cateva",
+      "type": "string"
+    },
+    {
+      "key": "viitor_plural",
+      "label": "Viitor Plural",
+      "type": "string"
+    },
+    {
+      "key": "trecut_singular",
+      "label": "Trecut Singular",
+      "type": "string"
+    },
+    {
+      "key": "trecut_cateva",
+      "label": "Trecut Cateva",
+      "type": "string"
+    },
+    {
+      "key": "trecut_plural",
+      "label": "Trecut Plural",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "field": "year",
+      "denumire": "an",
+      "acum_2": "",
+      "precedent": "anul trecut",
+      "curent": "anul acesta",
+      "urmator": "anul viitor",
+      "peste_2": "",
+      "viitor_singular": "peste {0} an",
+      "viitor_cateva": "peste {0} ani",
+      "viitor_plural": "peste {0} de ani",
+      "trecut_singular": "acum {0} an",
+      "trecut_cateva": "acum {0} ani",
+      "trecut_plural": "acum {0} de ani"
+    },
+    {
+      "field": "quarter",
+      "denumire": "trimestru",
+      "acum_2": "",
+      "precedent": "trimestrul trecut",
+      "curent": "trimestrul acesta",
+      "urmator": "trimestrul viitor",
+      "peste_2": "",
+      "viitor_singular": "peste {0} trimestru",
+      "viitor_cateva": "peste {0} trimestre",
+      "viitor_plural": "peste {0} de trimestre",
+      "trecut_singular": "acum {0} trimestru",
+      "trecut_cateva": "acum {0} trimestre",
+      "trecut_plural": "acum {0} de trimestre"
+    },
+    {
+      "field": "month",
+      "denumire": "lună",
+      "acum_2": "",
+      "precedent": "luna trecută",
+      "curent": "luna aceasta",
+      "urmator": "luna viitoare",
+      "peste_2": "",
+      "viitor_singular": "peste {0} lună",
+      "viitor_cateva": "peste {0} luni",
+      "viitor_plural": "peste {0} de luni",
+      "trecut_singular": "acum {0} lună",
+      "trecut_cateva": "acum {0} luni",
+      "trecut_plural": "acum {0} de luni"
+    },
+    {
+      "field": "week",
+      "denumire": "săptămână",
+      "acum_2": "",
+      "precedent": "săptămâna trecută",
+      "curent": "săptămâna aceasta",
+      "urmator": "săptămâna viitoare",
+      "peste_2": "",
+      "viitor_singular": "peste {0} săptămână",
+      "viitor_cateva": "peste {0} săptămâni",
+      "viitor_plural": "peste {0} de săptămâni",
+      "trecut_singular": "acum {0} săptămână",
+      "trecut_cateva": "acum {0} săptămâni",
+      "trecut_plural": "acum {0} de săptămâni"
+    },
+    {
+      "field": "day",
+      "denumire": "zi",
+      "acum_2": "alaltăieri",
+      "precedent": "ieri",
+      "curent": "azi",
+      "urmator": "mâine",
+      "peste_2": "poimâine",
+      "viitor_singular": "peste {0} zi",
+      "viitor_cateva": "peste {0} zile",
+      "viitor_plural": "peste {0} de zile",
+      "trecut_singular": "acum {0} zi",
+      "trecut_cateva": "acum {0} zile",
+      "trecut_plural": "acum {0} de zile"
+    },
+    {
+      "field": "sun",
+      "denumire": "duminică",
+      "acum_2": "",
+      "precedent": "duminica trecută",
+      "curent": "duminica aceasta",
+      "urmator": "duminica viitoare",
+      "peste_2": "",
+      "viitor_singular": "duminică, peste {0} săptămână",
+      "viitor_cateva": "duminică, peste {0} săptămâni",
+      "viitor_plural": "duminică, peste {0} de săptămâni",
+      "trecut_singular": "duminică, acum {0} săptămână",
+      "trecut_cateva": "duminică, acum {0} săptămâni",
+      "trecut_plural": "duminică, acum {0} de săptămâni"
+    },
+    {
+      "field": "mon",
+      "denumire": "luni",
+      "acum_2": "",
+      "precedent": "lunea trecută",
+      "curent": "lunea aceasta",
+      "urmator": "lunea viitoare",
+      "peste_2": "",
+      "viitor_singular": "luni, peste {0} săptămână",
+      "viitor_cateva": "luni, peste {0} săptămâni",
+      "viitor_plural": "luni, peste {0} de săptămâni",
+      "trecut_singular": "luni, acum {0} săptămână",
+      "trecut_cateva": "luni, acum {0} săptămâni",
+      "trecut_plural": "luni, acum {0} de săptămâni"
+    },
+    {
+      "field": "tue",
+      "denumire": "marți",
+      "acum_2": "",
+      "precedent": "marțea trecută",
+      "curent": "marțea aceasta",
+      "urmator": "marțea viitoare",
+      "peste_2": "",
+      "viitor_singular": "marți, peste {0} săptămână",
+      "viitor_cateva": "marți, peste {0} săptămâni",
+      "viitor_plural": "marți, peste {0} de săptămâni",
+      "trecut_singular": "marți, acum {0} săptămână",
+      "trecut_cateva": "marți, acum {0} săptămâni",
+      "trecut_plural": "marți, acum {0} de săptămâni"
+    },
+    {
+      "field": "wed",
+      "denumire": "miercuri",
+      "acum_2": "",
+      "precedent": "miercurea trecută",
+      "curent": "miercurea aceasta",
+      "urmator": "miercurea viitoare",
+      "peste_2": "",
+      "viitor_singular": "miercuri, peste {0} săptămână",
+      "viitor_cateva": "miercuri, peste {0} săptămâni",
+      "viitor_plural": "miercuri, peste {0} de săptămâni",
+      "trecut_singular": "miercuri, acum {0} săptămână",
+      "trecut_cateva": "miercuri, acum {0} săptămâni",
+      "trecut_plural": "miercuri, acum {0} de săptămâni"
+    },
+    {
+      "field": "thu",
+      "denumire": "joi",
+      "acum_2": "",
+      "precedent": "joia trecută",
+      "curent": "joia aceasta",
+      "urmator": "joia viitoare",
+      "peste_2": "",
+      "viitor_singular": "joi, peste {0} săptămână",
+      "viitor_cateva": "joi, peste {0} săptămâni",
+      "viitor_plural": "joi, peste {0} de săptămâni",
+      "trecut_singular": "joi, acum {0} săptămână",
+      "trecut_cateva": "joi, acum {0} săptămâni",
+      "trecut_plural": "joi, acum {0} de săptămâni"
+    },
+    {
+      "field": "fri",
+      "denumire": "vineri",
+      "acum_2": "",
+      "precedent": "vinerea trecută",
+      "curent": "vinerea aceasta",
+      "urmator": "vinerea viitoare",
+      "peste_2": "",
+      "viitor_singular": "vineri, peste {0} săptămână",
+      "viitor_cateva": "vineri, peste {0} săptămâni",
+      "viitor_plural": "vineri, peste {0} de săptămâni",
+      "trecut_singular": "vineri, acum {0} săptămână",
+      "trecut_cateva": "vineri, acum {0} săptămâni",
+      "trecut_plural": "vineri, acum {0} de săptămâni"
+    },
+    {
+      "field": "sat",
+      "denumire": "sâmbătă",
+      "acum_2": "",
+      "precedent": "sâmbăta trecută",
+      "curent": "sâmbăta aceasta",
+      "urmator": "sâmbăta viitoare",
+      "peste_2": "",
+      "viitor_singular": "sâmbătă, peste {0} săptămână",
+      "viitor_cateva": "sâmbătă, peste {0} săptămâni",
+      "viitor_plural": "sâmbătă, peste {0} de săptămâni",
+      "trecut_singular": "sâmbătă, acum {0} săptămână",
+      "trecut_cateva": "sâmbătă, acum {0} săptămâni",
+      "trecut_plural": "sâmbătă, acum {0} de săptămâni"
+    },
+    {
+      "field": "hour",
+      "denumire": "oră",
+      "acum_2": "",
+      "precedent": "",
+      "curent": "ora aceasta",
+      "urmator": "",
+      "peste_2": "",
+      "viitor_singular": "peste {0} oră",
+      "viitor_cateva": "peste {0} ore",
+      "viitor_plural": "peste {0} de ore",
+      "trecut_singular": "acum {0} oră",
+      "trecut_cateva": "acum {0} ore",
+      "trecut_plural": "acum {0} de ore"
+    },
+    {
+      "field": "minute",
+      "denumire": "minut",
+      "acum_2": "",
+      "precedent": "",
+      "curent": "minutul acesta",
+      "urmator": "",
+      "peste_2": "",
+      "viitor_singular": "peste {0} minut",
+      "viitor_cateva": "peste {0} minute",
+      "viitor_plural": "peste {0} de minute",
+      "trecut_singular": "acum {0} minut",
+      "trecut_cateva": "acum {0} minute",
+      "trecut_plural": "acum {0} de minute"
+    },
+    {
+      "field": "second",
+      "denumire": "secundă",
+      "acum_2": "",
+      "precedent": "",
+      "curent": "acum",
+      "urmator": "",
+      "peste_2": "",
+      "viitor_singular": "peste {0} secundă",
+      "viitor_cateva": "peste {0} secunde",
+      "viitor_plural": "peste {0} de secunde",
+      "trecut_singular": "acum {0} secundă",
+      "trecut_cateva": "acum {0} secunde",
+      "trecut_plural": "acum {0} de secunde"
+    }
+  ],
+  "meta": {
+    "title": "Expresii de timp relativ în limba română (ieri, mâine, anul viitor, acum 3 zile…) - Free Download",
+    "description": "Expresiile românești pentru timp relativ — alaltăieri, ieri, azi, mâine, poimâine, luna trecută, săptămâna viitoare, „peste {0} de zile”, „acum {0} ani” — pentru fiecare unitate de timp și zi a săptămânii, din Unicode CLDR (ro). Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Expresii de timp relativ în limba română (ieri, mâine, anul viitor, acum 3 zile…) | ListBase",
+    "seo_description": "Download Expresii de timp relativ în limba română (ieri, mâine, anul viitor, acum 3 zile…) — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/unicode-org/cldr/blob/main/common/main/ro.xml"
+    ]
+  }
+}

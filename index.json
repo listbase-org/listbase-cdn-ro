@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-16T02:13:18.645Z",
-  "total_datasets": 517,
-  "total_records": 169909,
+  "generated": "2026-11-16T02:13:29.247Z",
+  "total_datasets": 518,
+  "total_records": 169924,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "tourism",
@@ -14170,6 +14170,40 @@
         "xlsx": {
           "name": "ro-data-pastelui-ortodox-catolic_RO.xlsx",
           "size": 7507
+        }
+      }
+    },
+    {
+      "id": "ro-expresii-de-timp-relativ",
+      "name": "Expresii de timp relativ în limba română (ieri, mâine, anul viitor, acum 3 zile…)",
+      "category": "time",
+      "record_count": 15,
+      "columns": [
+        "field",
+        "denumire",
+        "acum_2",
+        "precedent",
+        "curent",
+        "urmator",
+        "peste_2",
+        "viitor_singular",
+        "viitor_cateva",
+        "viitor_plural",
+        "trecut_singular",
+        "trecut_cateva",
+        "trecut_plural"
+      ],
+      "source": "https://github.com/unicode-org/cldr/blob/main/common/main/ro.xml",
+      "updated": "2026-11",
+      "size": 10678,
+      "files": {
+        "csv": {
+          "name": "ro-expresii-de-timp-relativ_RO.csv",
+          "size": 3596
+        },
+        "xlsx": {
+          "name": "ro-expresii-de-timp-relativ_RO.xlsx",
+          "size": 8331
         }
       }
     },
