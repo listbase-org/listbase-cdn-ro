@@ -1,0 +1,178 @@
+{
+  "id": "ro-cupa-romaniei-fotbal-feminin-finale",
+  "name": "Cupa României la fotbal feminin – finale",
+  "title": "Cupa României la fotbal feminin – finale",
+  "description": "Câștigătoarele și finalistele Cupei României la fotbal feminin din 2004 până în prezent, cu scorul finalei.",
+  "category": "sports",
+  "source": "https://ro.wikipedia.org/wiki/Cupa_României_(fotbal_feminin)",
+  "source_url": "https://ro.wikipedia.org/wiki/Cupa_României_(fotbal_feminin)",
+  "updated": "2026-11",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "winner",
+      "label": "Winner",
+      "type": "string"
+    },
+    {
+      "key": "runner_up",
+      "label": "Runner Up",
+      "type": "string"
+    },
+    {
+      "key": "final_score",
+      "label": "Final Score",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 2004,
+      "winner": "CFF Clujana",
+      "runner_up": "Șantierul Naval Constanța",
+      "final_score": "4–0"
+    },
+    {
+      "year": 2005,
+      "winner": "CFF Clujana",
+      "runner_up": "Smart Sport București",
+      "final_score": "2–1"
+    },
+    {
+      "year": 2006,
+      "winner": "CFF Clujana",
+      "runner_up": "Pandurii Târgu Jiu",
+      "final_score": "3–2"
+    },
+    {
+      "year": 2007,
+      "winner": "Pandurii Târgu Jiu",
+      "runner_up": "CFF Clujana",
+      "final_score": "1–1 (6–5 pen.)"
+    },
+    {
+      "year": 2008,
+      "winner": "CFF Clujana",
+      "runner_up": "Smart Sport București",
+      "final_score": "7–0"
+    },
+    {
+      "year": 2009,
+      "winner": "Ripensia Timișoara",
+      "runner_up": "FCM Târgoviște",
+      "final_score": "4–0"
+    },
+    {
+      "year": 2010,
+      "winner": "ASA Târgu Mureș",
+      "runner_up": "CFF Clujana",
+      "final_score": "4–0"
+    },
+    {
+      "year": 2011,
+      "winner": "CFF Olimpia Cluj",
+      "runner_up": "ASA Târgu Mureș",
+      "final_score": "2–0"
+    },
+    {
+      "year": 2012,
+      "winner": "CFF Olimpia Cluj",
+      "runner_up": "ASA Târgu Mureș",
+      "final_score": "1–0"
+    },
+    {
+      "year": 2013,
+      "winner": "CFF Olimpia Cluj",
+      "runner_up": "ASA Târgu Mureș",
+      "final_score": "6–0"
+    },
+    {
+      "year": 2014,
+      "winner": "CFF Olimpia Cluj",
+      "runner_up": "ASA Târgu Mureș",
+      "final_score": "3–0"
+    },
+    {
+      "year": 2015,
+      "winner": "CFF Olimpia Cluj",
+      "runner_up": "ASA Târgu Mureș",
+      "final_score": "4–0"
+    },
+    {
+      "year": 2016,
+      "winner": "ASA Târgu Mureș",
+      "runner_up": "CFF Olimpia Cluj",
+      "final_score": "2–1"
+    },
+    {
+      "year": 2017,
+      "winner": "CFF Olimpia Cluj",
+      "runner_up": "Navobi Iași",
+      "final_score": "5–0"
+    },
+    {
+      "year": 2018,
+      "winner": "CSS Târgoviște",
+      "runner_up": "ACS Heniu Prundu Bârgăului",
+      "final_score": "3–0"
+    },
+    {
+      "year": 2019,
+      "winner": "ACS Vasas Femina",
+      "runner_up": "Fortuna Becicherecu Mic",
+      "final_score": "5–0"
+    },
+    {
+      "year": 2020,
+      "winner": "anulat din cauza pandemiei covid 19",
+      "runner_up": "anulat din cauza pandemiei covid 19",
+      "final_score": "anulat din cauza pandemiei covid 19"
+    },
+    {
+      "year": 2021,
+      "winner": "U Olimpia Cluj",
+      "runner_up": "ACS Heniu Prundu Bârgăului",
+      "final_score": "1–0 d.p."
+    },
+    {
+      "year": 2022,
+      "winner": "U Olimpia Cluj",
+      "runner_up": "ACS Heniu Prundu Bârgăului",
+      "final_score": "6–2"
+    },
+    {
+      "year": 2023,
+      "winner": "Carmen București",
+      "runner_up": "U Olimpia Cluj",
+      "final_score": "2–1 d.p."
+    },
+    {
+      "year": 2024,
+      "winner": "U Olimpia Cluj",
+      "runner_up": "FK Csíkszereda",
+      "final_score": "3–1 d.p."
+    },
+    {
+      "year": 2025,
+      "winner": "FK Csíkszereda",
+      "runner_up": "Farul Constanța",
+      "final_score": "3–0"
+    }
+  ],
+  "meta": {
+    "title": "Cupa României la fotbal feminin – finale - Free Download",
+    "description": "Câștigătoarele și finalistele Cupei României la fotbal feminin din 2004 până în prezent, cu scorul finalei. Contains 22 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Cupa României la fotbal feminin – finale | ListBase",
+    "seo_description": "Download Cupa României la fotbal feminin – finale — 22 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 22 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Cupa_României_(fotbal_feminin)"
+    ]
+  }
+}

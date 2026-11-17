@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-16T02:14:00.927Z",
-  "total_datasets": 521,
-  "total_records": 169972,
+  "generated": "2026-11-17T02:21:56.015Z",
+  "total_datasets": 522,
+  "total_records": 169994,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "tech",
@@ -13962,6 +13962,31 @@
         "xlsx": {
           "name": "ro-canale-tv-sport_RO.xlsx",
           "size": 8500
+        }
+      }
+    },
+    {
+      "id": "ro-cupa-romaniei-fotbal-feminin-finale",
+      "name": "Cupa României la fotbal feminin – finale",
+      "category": "sports",
+      "record_count": 22,
+      "columns": [
+        "year",
+        "winner",
+        "runner_up",
+        "final_score"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Cupa_României_(fotbal_feminin)",
+      "updated": "2026-11",
+      "size": 4786,
+      "files": {
+        "csv": {
+          "name": "ro-cupa-romaniei-fotbal-feminin-finale_RO.csv",
+          "size": 1345
+        },
+        "xlsx": {
+          "name": "ro-cupa-romaniei-fotbal-feminin-finale_RO.xlsx",
+          "size": 7498
         }
       }
     },
