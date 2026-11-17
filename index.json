@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-17T02:22:04.438Z",
-  "total_datasets": 523,
-  "total_records": 170063,
+  "generated": "2026-11-17T02:22:13.859Z",
+  "total_datasets": 524,
+  "total_records": 170152,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "reference",
@@ -6928,6 +6928,36 @@
         "xlsx": {
           "name": "ro-prim-ministri_RO.xlsx",
           "size": 16292
+        }
+      }
+    },
+    {
+      "id": "ro-primarii-craiovei",
+      "name": "Primarii municipiului Craiova",
+      "category": "politics",
+      "record_count": 89,
+      "columns": [
+        "no",
+        "name",
+        "life",
+        "occupation",
+        "notes",
+        "term_start",
+        "term_end",
+        "party",
+        "period"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Lista_primarilor_Craiovei",
+      "updated": "2026-11",
+      "size": 32718,
+      "files": {
+        "csv": {
+          "name": "ro-primarii-craiovei_RO.csv",
+          "size": 16145
+        },
+        "xlsx": {
+          "name": "ro-primarii-craiovei_RO.xlsx",
+          "size": 13529
         }
       }
     },
