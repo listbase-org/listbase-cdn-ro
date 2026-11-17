@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-17T02:21:56.015Z",
-  "total_datasets": 522,
-  "total_records": 169994,
+  "generated": "2026-11-17T02:22:04.438Z",
+  "total_datasets": 523,
+  "total_records": 170063,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "economy",
@@ -319,6 +319,31 @@
         "xlsx": {
           "name": "ro-manastiri_RO.xlsx",
           "size": 19946
+        }
+      }
+    },
+    {
+      "id": "ro-mitropoliti-ungrovlahiei",
+      "name": "Mitropoliții Ungrovlahiei și patriarhii Bisericii Ortodoxe Române",
+      "category": "culture",
+      "record_count": 69,
+      "columns": [
+        "period",
+        "name",
+        "notes",
+        "office"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Listă_de_mitropoliți_ai_Ungrovlahiei",
+      "updated": "2026-11",
+      "size": 12910,
+      "files": {
+        "csv": {
+          "name": "ro-mitropoliti-ungrovlahiei_RO.csv",
+          "size": 5807
+        },
+        "xlsx": {
+          "name": "ro-mitropoliti-ungrovlahiei_RO.xlsx",
+          "size": 9253
         }
       }
     },

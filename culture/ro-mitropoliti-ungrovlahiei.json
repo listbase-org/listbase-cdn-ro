@@ -1,0 +1,460 @@
+{
+  "id": "ro-mitropoliti-ungrovlahiei",
+  "name": "Mitropoliții Ungrovlahiei și patriarhii Bisericii Ortodoxe Române",
+  "title": "Mitropoliții Ungrovlahiei și patriarhii Bisericii Ortodoxe Române",
+  "description": "Lista cronologică a mitropoliților Ungrovlahiei (din 1359) și a mitropoliților Munteniei și Dobrogei – patriarhi ai Bisericii Ortodoxe Române.",
+  "category": "culture",
+  "source": "https://ro.wikipedia.org/wiki/Listă_de_mitropoliți_ai_Ungrovlahiei",
+  "source_url": "https://ro.wikipedia.org/wiki/Listă_de_mitropoliți_ai_Ungrovlahiei",
+  "updated": "2026-11",
+  "record_count": 69,
+  "columns": [
+    {
+      "key": "period",
+      "label": "Period",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    },
+    {
+      "key": "office",
+      "label": "Office",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "period": "1359 - 1372",
+      "name": "Iachint de Vicina",
+      "notes": "Sărbătorit de Biserica Ortodoxă Română pe 28 octombrie",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1372 - 1381",
+      "name": "Hariton",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1381 -?",
+      "name": "Antim",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "? -?",
+      "name": "Teodor I",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "atestat în 1412",
+      "name": "Eftimie I",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "atestat în 1464",
+      "name": "Iosif",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "atestat în 1482",
+      "name": "Macarie I",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "atestat în 1412",
+      "name": "Ilarion I",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1502-1505",
+      "name": "Nifon",
+      "notes": "Canonizat de Patriarhia Ecumenică și de Biserica Ortodoxă Română",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "circa 1505 - circa 1508",
+      "name": "Maxim Brancović",
+      "notes": "Canonizat de Biserica Ortodoxă Sârbă",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "circa 1512 - circa 1521",
+      "name": "Macarie al II-lea",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1521 - 1523",
+      "name": "Ilarion al II-lea",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "atestat în 1525",
+      "name": "Teodor al II-lea",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "atestat în 1533",
+      "name": "Mitrofan I",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1535 - 1544",
+      "name": "Varlaam I",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1544 - 1558",
+      "name": "Anania",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1559 - 1566",
+      "name": "Efrem",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1566 - 1568",
+      "name": "Daniil I",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1568 - 1576",
+      "name": "Eftimie al II-lea",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1576 - 1586",
+      "name": "Serafim",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1586 - 1589",
+      "name": "Mihail I",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1589 - 1592",
+      "name": "Nichifor",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1592 - 1594",
+      "name": "Mihail al II-lea",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1594 - 1602",
+      "name": "Eftimie al II-lea",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1602 - 1629",
+      "name": "Luca din Cipru",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1629 - 1636",
+      "name": "Grigore I",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1636 - 1648",
+      "name": "Teofil",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1648 - 1653",
+      "name": "Ștefan I",
+      "notes": "prima oară",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1653 - 1655",
+      "name": "Ignațiu",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1655 - 1668",
+      "name": "Ștefan I",
+      "notes": "a doua oară",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1668 - 1672",
+      "name": "Teodosie",
+      "notes": "prima oară",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1672",
+      "name": "Dionisie I",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1672 - 1679",
+      "name": "Varlaam al II-lea",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1679 - 1708",
+      "name": "Teodosie",
+      "notes": "a doua oară",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1708 - 1716",
+      "name": "Antim Ivireanul",
+      "notes": "Episcop al Râmnicului (1705 - 1708) Canonizat de Biserica Ortodoxă Română",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1716 - 1719",
+      "name": "Mitrofan al II-lea",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1719 - 1731",
+      "name": "Daniil al II-lea",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1731 - 1738",
+      "name": "Ștefan al II-lea",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1738 - 1753",
+      "name": "Neofit I Cretanul",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1753 - 1760",
+      "name": "Filaret I",
+      "notes": "Episcop al al Buzăului (1748 - 1753)",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1760 - 1770",
+      "name": "Grigorie al II-lea de la Colțea",
+      "notes": "prima oară",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1770 - 1770",
+      "name": "Grigorie al III-lea",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1770 - 1787",
+      "name": "Grigorie al II-lea de la Colțea",
+      "notes": "a doua oară",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1787 - 1792",
+      "name": "Cosma Popescu",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1792 - 1793",
+      "name": "Filaret al II-lea",
+      "notes": "Mitropolit al Mirelor (1776 - 1780), Episcop al Râmnicului (1780 - 1792)",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1793 - 1810",
+      "name": "Dositei Filitti",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1810 - 1812",
+      "name": "Ignatie",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1812 - 1819",
+      "name": "Nectarie",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1819 - 1823",
+      "name": "Vacanță",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1821 - 1823",
+      "name": "Dionisie al II-lea Lupu",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1823 - 1834",
+      "name": "Grigorie al IV-lea, Dascălul",
+      "notes": "Canonizat de Biserica Ortodoxă Română.",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1834 - 1840",
+      "name": "Vacanță",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1840 - 1849",
+      "name": "Neofit al II-lea",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1850 - 1865",
+      "name": "Nifon Rusailă",
+      "notes": "Din 1865 Primat al Bisericii Ortodoxe Române",
+      "office": "Mitropoliți ai Ungrovlahiei"
+    },
+    {
+      "period": "1865 - 1875",
+      "name": "Nifon Rusailă",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei - Primați ai Bisericii Ortodoxe Române"
+    },
+    {
+      "period": "1875 - 1886",
+      "name": "Calinic Miclescu",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei - Primați ai Bisericii Ortodoxe Române"
+    },
+    {
+      "period": "1886 - 1893",
+      "name": "Iosif Gheorghian",
+      "notes": "prima oară",
+      "office": "Mitropoliți ai Ungrovlahiei - Primați ai Bisericii Ortodoxe Române"
+    },
+    {
+      "period": "1893 - 1896",
+      "name": "Ghenadie Petrescu",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei - Primați ai Bisericii Ortodoxe Române"
+    },
+    {
+      "period": "1896 - 1909",
+      "name": "Iosif Gheorghian",
+      "notes": "a doua oară",
+      "office": "Mitropoliți ai Ungrovlahiei - Primați ai Bisericii Ortodoxe Române"
+    },
+    {
+      "period": "1909 - 1911",
+      "name": "Atanasie Mironescu",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei - Primați ai Bisericii Ortodoxe Române"
+    },
+    {
+      "period": "1911 - 1919",
+      "name": "Conon Arămescu-Donici",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei - Primați ai Bisericii Ortodoxe Române"
+    },
+    {
+      "period": "1919 - 1925",
+      "name": "Miron Cristea",
+      "notes": "Din 1925 Patriarh.",
+      "office": "Mitropoliți ai Ungrovlahiei - Primați ai Bisericii Ortodoxe Române"
+    },
+    {
+      "period": "1925 - 1939",
+      "name": "Miron Cristea",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei - Patriarhi ai Bisericii Ortodoxe Române"
+    },
+    {
+      "period": "1939 - 1948",
+      "name": "Nicodim Munteanu",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei - Patriarhi ai Bisericii Ortodoxe Române"
+    },
+    {
+      "period": "1948 - 1977",
+      "name": "Justinian Marina",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei - Patriarhi ai Bisericii Ortodoxe Române"
+    },
+    {
+      "period": "1977 - 1986",
+      "name": "Justin Moisescu",
+      "notes": "",
+      "office": "Mitropoliți ai Ungrovlahiei - Patriarhi ai Bisericii Ortodoxe Române"
+    },
+    {
+      "period": "1986 - 1990",
+      "name": "Teoctist Arăpașu",
+      "notes": "Din 1990, prin reorganizare, Mitropolia Ungrovlahiei ia denumirea de Mitropolia Munteniei și Dobrogei.",
+      "office": "Mitropoliți ai Ungrovlahiei - Patriarhi ai Bisericii Ortodoxe Române"
+    },
+    {
+      "period": "1990 - 2007",
+      "name": "Teoctist Arăpașu",
+      "notes": "",
+      "office": "Mitropoliți ai Munteniei și Dobrogei - Patriarhi ai Bisericii Ortodoxe Române"
+    },
+    {
+      "period": "din 2007",
+      "name": "Daniel Ciobotea",
+      "notes": "",
+      "office": "Mitropoliți ai Munteniei și Dobrogei - Patriarhi ai Bisericii Ortodoxe Române"
+    }
+  ],
+  "meta": {
+    "title": "Mitropoliții Ungrovlahiei și patriarhii Bisericii Ortodoxe Române - Free Download",
+    "description": "Lista cronologică a mitropoliților Ungrovlahiei (din 1359) și a mitropoliților Munteniei și Dobrogei – patriarhi ai Bisericii Ortodoxe Române. Contains 69 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mitropoliții Ungrovlahiei și patriarhii Bisericii Ortodoxe Române | ListBase",
+    "seo_description": "Download Mitropoliții Ungrovlahiei și patriarhii Bisericii Ortodoxe Române — 69 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 69 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Listă_de_mitropoliți_ai_Ungrovlahiei"
+    ]
+  }
+}
