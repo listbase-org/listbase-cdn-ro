@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-17T02:22:13.859Z",
-  "total_datasets": 524,
-  "total_records": 170152,
+  "generated": "2026-11-17T02:22:23.271Z",
+  "total_datasets": 525,
+  "total_records": 170234,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "reference",
@@ -6958,6 +6958,36 @@
         "xlsx": {
           "name": "ro-primarii-craiovei_RO.xlsx",
           "size": 13529
+        }
+      }
+    },
+    {
+      "id": "ro-primarii-iasiului",
+      "name": "Primarii municipiului Iași",
+      "category": "politics",
+      "record_count": 82,
+      "columns": [
+        "no",
+        "name",
+        "life",
+        "occupation",
+        "notes",
+        "term_start",
+        "term_end",
+        "party",
+        "period"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Lista_primarilor_Iașiului",
+      "updated": "2026-11",
+      "size": 27322,
+      "files": {
+        "csv": {
+          "name": "ro-primarii-iasiului_RO.csv",
+          "size": 11915
+        },
+        "xlsx": {
+          "name": "ro-primarii-iasiului_RO.xlsx",
+          "size": 12467
         }
       }
     },

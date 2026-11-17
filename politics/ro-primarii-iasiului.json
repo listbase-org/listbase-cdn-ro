@@ -1,0 +1,973 @@
+{
+  "id": "ro-primarii-iasiului",
+  "name": "Primarii municipiului Iași",
+  "title": "Primarii municipiului Iași",
+  "description": "Lista primarilor orașului Iași din 1864 până în prezent, cu datele de viață, ocupația, perioada mandatului și partidul.",
+  "category": "politics",
+  "source": "https://ro.wikipedia.org/wiki/Lista_primarilor_Iașiului",
+  "source_url": "https://ro.wikipedia.org/wiki/Lista_primarilor_Iașiului",
+  "updated": "2026-11",
+  "record_count": 82,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "life",
+      "label": "Life",
+      "type": "string"
+    },
+    {
+      "key": "occupation",
+      "label": "Occupation",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    },
+    {
+      "key": "term_start",
+      "label": "Term Start",
+      "type": "string"
+    },
+    {
+      "key": "term_end",
+      "label": "Term End",
+      "type": "string"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "period",
+      "label": "Period",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": "1 (1)",
+      "name": "Dimitrie Gusti",
+      "life": "24 octombrie 1818 – 26 martie 1887",
+      "occupation": "poet, scriitor, profesor",
+      "notes": "primul mandat",
+      "term_start": "24 august 1864",
+      "term_end": "5 decembrie 1866",
+      "party": "PNL",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "2 (1)",
+      "name": "Teodor V. Tăutu",
+      "life": "11 august 1828 – 6 august 1902",
+      "occupation": "",
+      "notes": "primul mandat",
+      "term_start": "5 decembrie 1866",
+      "term_end": "26 iunie 1868",
+      "party": "",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "3",
+      "name": "Ioan Antoniadi",
+      "life": "? – 1886",
+      "occupation": "",
+      "notes": "",
+      "term_start": "3 septembrie 1868",
+      "term_end": "2 iunie 1869",
+      "party": "",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "4 (2)",
+      "name": "Dimitrie Gusti",
+      "life": "24 octombrie 1818 – 26 martie 1887",
+      "occupation": "poet, scriitor, profesor",
+      "notes": "al doilea mandat",
+      "term_start": "18 iulie 1869",
+      "term_end": "aprilie 1870",
+      "party": "PNL",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "5 (2)",
+      "name": "Teodor V. Tăutu",
+      "life": "11 august 1828 – 6 august 1902",
+      "occupation": "",
+      "notes": "al doilea mandat",
+      "term_start": "25 mai 1870",
+      "term_end": "25 octombrie 1870",
+      "party": "",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "6",
+      "name": "Iordachi Beldiman",
+      "life": "? – 28 noiembrie 1870",
+      "occupation": "",
+      "notes": "",
+      "term_start": "25 noiembrie 1870",
+      "term_end": "28 noiembrie 1870 (deces)",
+      "party": "",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "7 (1)",
+      "name": "Constantin Cristodulo-Cerchez",
+      "life": "1831 –? decembrie 1901",
+      "occupation": "",
+      "notes": "primul mandat",
+      "term_start": "5 decembrie 1870",
+      "term_end": "7 octombrie 1871",
+      "party": "",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "8 (3)",
+      "name": "Dimitrie Gusti",
+      "life": "24 octombrie 1818 – 26 martie 1887",
+      "occupation": "poet, scriitor, profesor",
+      "notes": "al treilea mandat",
+      "term_start": "decembrie 1871",
+      "term_end": "mai 1872",
+      "party": "PNL",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "9 (1)",
+      "name": "Nicolae Gane",
+      "life": "1 februarie 1838 – 16 aprilie 1916",
+      "occupation": "scriitor",
+      "notes": "primul mandat",
+      "term_start": "17 iunie 1872",
+      "term_end": "19 mai 1876",
+      "party": "",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "10",
+      "name": "Grigore Tufescu",
+      "life": "1857 – 16 septembrie 1926",
+      "occupation": "",
+      "notes": "",
+      "term_start": "19 mai 1876",
+      "term_end": "10 ianuarie 1877",
+      "party": "",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "11",
+      "name": "Scarlat Pastia",
+      "life": "6 octombrie 1827 – 24 decembrie 1900",
+      "occupation": "jurist",
+      "notes": "",
+      "term_start": "11 ianuarie 1877",
+      "term_end": "24 aprilie 1879 (demisie)",
+      "party": "",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "12 (2)",
+      "name": "Constantin Cristodulo-Cerchez",
+      "life": "1831 –? decembrie 1901",
+      "occupation": "",
+      "notes": "al doilea mandat",
+      "term_start": "24 aprilie 1879",
+      "term_end": "februarie 1880 (demisie)",
+      "party": "PNL",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "13 (1)",
+      "name": "Vasile Pogor",
+      "life": "20 august 1833 – 20 martie 1906",
+      "occupation": "publicist, poet",
+      "notes": "primul mandat",
+      "term_start": "februarie 1880",
+      "term_end": "26 aprilie 1881",
+      "party": "",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "14 (2)",
+      "name": "Nicolae Gane",
+      "life": "1 februarie 1838 – 16 aprilie 1916",
+      "occupation": "scriitor",
+      "notes": "al doilea mandat",
+      "term_start": "27 aprilie 1881",
+      "term_end": "23 iunie 1881",
+      "party": "",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "15",
+      "name": "Ioan Ornescu",
+      "life": "15 august 1853 – 13 martie 1896",
+      "occupation": "avocat",
+      "notes": "",
+      "term_start": "23 iunie 1881",
+      "term_end": "13 octombrie 1881",
+      "party": "",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "16 (4)",
+      "name": "Dimitrie Gusti",
+      "life": "24 octombrie 1818 – 26 martie 1887",
+      "occupation": "poet, scriitor, profesor",
+      "notes": "al patrulea mandat",
+      "term_start": "octombrie 1881",
+      "term_end": "februarie 1883",
+      "party": "PNL",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "17",
+      "name": "Leon Negruzzi",
+      "life": "5 iunie 1840 – 16 iulie 1890",
+      "occupation": "jurist, poet, prozator",
+      "notes": "",
+      "term_start": "3 februarie 1883",
+      "term_end": "7 decembrie 1886",
+      "party": "PC",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "18 (5)",
+      "name": "Dimitrie Gusti",
+      "life": "24 octombrie 1818 – 26 martie 1887",
+      "occupation": "poet, scriitor, profesor",
+      "notes": "al cincilea mandat",
+      "term_start": "decembrie 1886",
+      "term_end": "martie 1887",
+      "party": "PNL",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "19 (3)",
+      "name": "Nicolae Gane",
+      "life": "1 februarie 1838 – 16 aprilie 1916",
+      "occupation": "scriitor",
+      "notes": "al treilea mandat",
+      "term_start": "4 iunie 1887",
+      "term_end": "4 martie 1888",
+      "party": "",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "20 (2)",
+      "name": "Vasile Pogor",
+      "life": "20 august 1833 – 20 martie 1906",
+      "occupation": "publicist, poet",
+      "notes": "al doilea mandat",
+      "term_start": "7 iunie 1888",
+      "term_end": "7 iunie 1890",
+      "party": "",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "21",
+      "name": "Pandele Zamfirescu",
+      "life": "1843 – 3 ianuarie 1926",
+      "occupation": "",
+      "notes": "",
+      "term_start": "26 martie 1891",
+      "term_end": "7 iunie 1891",
+      "party": "",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "22",
+      "name": "Constantin Langa",
+      "life": "1829 – 17 decembrie 1914",
+      "occupation": "colonel",
+      "notes": "",
+      "term_start": "7 iunie 1891",
+      "term_end": "30 mai 1892",
+      "party": "",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "23 (3)",
+      "name": "Vasile Pogor",
+      "life": "20 august 1833 – 20 martie 1906",
+      "occupation": "publicist, poet",
+      "notes": "al treilea mandat",
+      "term_start": "30 mai 1892",
+      "term_end": "11 noiembrie 1894",
+      "party": "",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "24",
+      "name": "Ioan Diamandi",
+      "life": "1836 – 24 noiembrie 1898",
+      "occupation": "",
+      "notes": "",
+      "term_start": "11 noiembrie 1894",
+      "term_end": "19 noiembrie 1895",
+      "party": "",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "25 (4)",
+      "name": "Nicolae Gane",
+      "life": "1 februarie 1838 – 16 aprilie 1916",
+      "occupation": "scriitor",
+      "notes": "al patrulea mandat",
+      "term_start": "19 noiembrie 1895",
+      "term_end": "22 aprilie 1899",
+      "party": "",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "26",
+      "name": "Alexandru A. Bădărău",
+      "life": "9 aprilie 1859 – 27 martie 1927",
+      "occupation": "profesor, publicist",
+      "notes": "",
+      "term_start": "22 aprilie 1899",
+      "term_end": "19 februarie 1901",
+      "party": "PC-D",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "27",
+      "name": "Constantin B. Pennescu",
+      "life": "1854 – 2 ianuarie 1928",
+      "occupation": "avocat",
+      "notes": "",
+      "term_start": "12 aprilie 1901",
+      "term_end": "24 decembrie 1904",
+      "party": "PNL",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "28 (1)",
+      "name": "Gheorghe Lascăr",
+      "life": "1857 – 1928",
+      "occupation": "profesor",
+      "notes": "primul mandat",
+      "term_start": "24 decembrie 1904",
+      "term_end": "9 aprilie 1907",
+      "party": "PC",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "29 (1)",
+      "name": "Petru Poni",
+      "life": "4 ianuarie 1841 – 2 aprilie 1925",
+      "occupation": "chimist, fizician, profesor",
+      "notes": "primul mandat",
+      "term_start": "9 aprilie 1907",
+      "term_end": "11 iulie 1907",
+      "party": "",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "30 (5)",
+      "name": "Nicolae Gane",
+      "life": "1 februarie 1838 – 16 aprilie 1916",
+      "occupation": "scriitor",
+      "notes": "al cincilea mandat",
+      "term_start": "11 iulie 1907",
+      "term_end": "6 ianuarie 1911",
+      "party": "",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "31",
+      "name": "Dimitrie A. Greceanu",
+      "life": "10 august 1859 – 10 decembrie 1920",
+      "occupation": "",
+      "notes": "",
+      "term_start": "6 ianuarie 1911",
+      "term_end": "30 aprilie 1912",
+      "party": "PC",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "32 (1)",
+      "name": "Gheorghe N. Botez",
+      "life": "1860 – 18 aprilie 1926",
+      "occupation": "",
+      "notes": "",
+      "term_start": "30 aprilie 1912",
+      "term_end": "29 decembrie 1912",
+      "party": "",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "33",
+      "name": "Matei B. Cantacuzino",
+      "life": "10 iulie 1855 – 10 august 1925",
+      "occupation": "jurist",
+      "notes": "",
+      "term_start": "29 decembrie 1912",
+      "term_end": "6 ianuarie 1914",
+      "party": "PC",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "34",
+      "name": "Alexandru Teodoreanu",
+      "life": "1847 –?",
+      "occupation": "",
+      "notes": "",
+      "term_start": "6 ianuarie 1914",
+      "term_end": "17 martie 1914",
+      "party": "",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "35",
+      "name": "Anastasie Triandafil",
+      "life": "1845 – 1 decembrie 1916",
+      "occupation": "",
+      "notes": "",
+      "term_start": "17 martie 1914",
+      "term_end": "27 aprilie 1914",
+      "party": "",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "36",
+      "name": "George G. Mârzescu",
+      "life": "4 iulie 1876 – 12 mai 1926",
+      "occupation": "jurist",
+      "notes": "",
+      "term_start": "27 aprilie 1914",
+      "term_end": "14 decembrie 1916",
+      "party": "PNL",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "37",
+      "name": "Mihai Tomida",
+      "life": "1867 – 9 ianuarie 1928",
+      "occupation": "profesor",
+      "notes": "",
+      "term_start": "27 decembrie 1916",
+      "term_end": "1918",
+      "party": "PNL",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "38",
+      "name": "Nicolae A. Racoviță",
+      "life": "1878 – 1948",
+      "occupation": "",
+      "notes": "",
+      "term_start": "1918",
+      "term_end": "1918",
+      "party": "",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "39 (2)",
+      "name": "Gheorghe N. Botez",
+      "life": "1860 – 18 aprilie 1926",
+      "occupation": "",
+      "notes": "",
+      "term_start": "1918",
+      "term_end": "1918",
+      "party": "PP",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "40",
+      "name": "Emil R. Cernătescu",
+      "life": "1853 – 24 iulie 1936",
+      "occupation": "judecător",
+      "notes": "",
+      "term_start": "1918",
+      "term_end": "1919",
+      "party": "",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "41",
+      "name": "Constantin Crupenschi",
+      "life": "1861 – 7 decembrie 1928",
+      "occupation": "avocat, procuror",
+      "notes": "",
+      "term_start": "1919",
+      "term_end": "1920",
+      "party": "PNL",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "42",
+      "name": "Panait Zosin",
+      "life": "27 iunie 1873 – decembrie 1942",
+      "occupation": "medic, profesor universitar",
+      "notes": "",
+      "term_start": "1920",
+      "term_end": "1920",
+      "party": "socialist",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "43",
+      "name": "Mihai Negruzzi",
+      "life": "1873 – 1958",
+      "occupation": "general, scriitor",
+      "notes": "",
+      "term_start": "10 aprilie 1920",
+      "term_end": "4 august 1921",
+      "party": "",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "44",
+      "name": "Petru Pogonat",
+      "life": "23 ianuarie 1880 – 2 ianuarie 1957",
+      "occupation": "avocat",
+      "notes": "",
+      "term_start": "4 august 1921",
+      "term_end": "18 decembrie 1921 (demisie)",
+      "party": "PP",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "45 (2)",
+      "name": "Gheorghe Lascăr",
+      "life": "1857 – 1928",
+      "occupation": "profesor",
+      "notes": "al doilea mandat",
+      "term_start": "26 decembrie 1921 (desemnat) 31 decembrie 1921 (instalat oficial)",
+      "term_end": "ianuarie 1922",
+      "party": "PC-D",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "46",
+      "name": "Eugen Herovanu",
+      "life": "13 septembrie 1874 – 31 decembrie 1956",
+      "occupation": "jurist, prozator",
+      "notes": "",
+      "term_start": "28 ianuarie 1922",
+      "term_end": "5 iunie 1922 (demisie)",
+      "party": "",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "47",
+      "name": "Constantin Toma",
+      "life": "1878 – 2 noiembrie 1942",
+      "occupation": "avocat",
+      "notes": "",
+      "term_start": "12 iunie 1922",
+      "term_end": "12 martie 1926",
+      "party": "PNL",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "48",
+      "name": "Constantin Enășescu",
+      "life": "1863 –? martie 1939",
+      "occupation": "medic",
+      "notes": "",
+      "term_start": "12 martie 1926",
+      "term_end": "25 aprilie 1926",
+      "party": "PC-D",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "49",
+      "name": "Nicolae Petrea",
+      "life": "? – 8 august 1943",
+      "occupation": "avocat",
+      "notes": "",
+      "term_start": "22 mai 1926",
+      "term_end": "14 octombrie 1927",
+      "party": "PP",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "50 (1)",
+      "name": "Osvald Racoviță",
+      "life": "28 aprilie 1887 –? aprilie 1974",
+      "occupation": "avocat",
+      "notes": "primul mandat",
+      "term_start": "14 octombrie 1927",
+      "term_end": "28 august 1929",
+      "party": "PNL",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "51",
+      "name": "Nicolae Cananău",
+      "life": "1867 – 26 februarie 1938",
+      "occupation": "",
+      "notes": "",
+      "term_start": "21 august 1929 (desemnat) 28 august 1929 (instalat oficial)",
+      "term_end": "30 decembrie 1929",
+      "party": "PNȚ",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "52",
+      "name": "Petru Bogdan",
+      "life": "29 ianuarie 1873 – 28 martie 1944",
+      "occupation": "chimist",
+      "notes": "",
+      "term_start": "1 ianuarie 1930",
+      "term_end": "martie 1934",
+      "party": "",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "53",
+      "name": "Gheorghe Vasiliu-Voina",
+      "life": "1887 – 1960",
+      "occupation": "avocat",
+      "notes": "",
+      "term_start": "1934",
+      "term_end": "1934",
+      "party": "PNL",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "54 (2)",
+      "name": "Osvald Racoviță",
+      "life": "28 aprilie 1887 –? aprilie 1974",
+      "occupation": "avocat",
+      "notes": "al doilea mandat",
+      "term_start": "22 martie 1934",
+      "term_end": "13 februarie 1938",
+      "party": "PNL",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "55",
+      "name": "Nicolae N. Gane",
+      "life": "1973 – 1956",
+      "occupation": "judecător, procuror",
+      "notes": "",
+      "term_start": "1938",
+      "term_end": "1938",
+      "party": "PNC",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "56",
+      "name": "Mihai Eșanu",
+      "life": "? –?",
+      "occupation": "",
+      "notes": "",
+      "term_start": "13 februarie 1938",
+      "term_end": "1 octombrie 1938",
+      "party": "",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "57 (1)",
+      "name": "Constantin Ionescu",
+      "life": "23 septembrie 1882 – 7 iunie 1973",
+      "occupation": "general",
+      "notes": "primul mandat",
+      "term_start": "10 octombrie 1938",
+      "term_end": "10 octombrie 1940",
+      "party": "",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "58",
+      "name": "Spiridon Poleacu",
+      "life": "1891 – 1972",
+      "occupation": "",
+      "notes": "",
+      "term_start": "10 octombrie 1940",
+      "term_end": "26 ianuarie 1941",
+      "party": "ML",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "59 (2)",
+      "name": "Constantin Ionescu",
+      "life": "23 septembrie 1882 – 7 iunie 1973",
+      "occupation": "general",
+      "notes": "al doilea mandat",
+      "term_start": "26 ianuarie 1941",
+      "term_end": "2 iunie 1943",
+      "party": "",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "60",
+      "name": "Constantin N. Ifrim",
+      "life": "13 septembrie 1884 – 14 octombrie 1960",
+      "occupation": "avocat, ziarist, proprietar de presă",
+      "notes": "",
+      "term_start": "2 iunie 1943",
+      "term_end": "25 august 1944",
+      "party": "PNL",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "61",
+      "name": "Alfred Winkler",
+      "life": "? – 1956",
+      "occupation": "jurist",
+      "notes": "",
+      "term_start": "5 septembrie 1944",
+      "term_end": "10 martie 1945",
+      "party": "",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "62",
+      "name": "Eduard Lăzărescu",
+      "life": "1885 – 23 august 1948",
+      "occupation": "avocat, ziarist",
+      "notes": "",
+      "term_start": "10 martie 1945",
+      "term_end": "septembrie 1947",
+      "party": "PNL",
+      "period": "Perioada Regatului României"
+    },
+    {
+      "no": "63",
+      "name": "Anton Paluga",
+      "life": "1896 –?",
+      "occupation": "strungar, ceferist",
+      "notes": "",
+      "term_start": "31 decembrie 1947",
+      "term_end": "16 decembrie 1950",
+      "party": "PCR",
+      "period": "Perioada comunistă"
+    },
+    {
+      "no": "64",
+      "name": "Constantin Crăcană",
+      "life": "? –?",
+      "occupation": "maistru turnător",
+      "notes": "",
+      "term_start": "16 decembrie 1950",
+      "term_end": "martie 1953",
+      "party": "PCR",
+      "period": "Perioada comunistă"
+    },
+    {
+      "no": "65",
+      "name": "Ion Niculi",
+      "life": "25 ianuarie 1887 – 31 iulie 1979",
+      "occupation": "muncitor tipograf",
+      "notes": "",
+      "term_start": "28 martie 1953",
+      "term_end": "martie 1956",
+      "party": "PCR",
+      "period": "Perioada comunistă"
+    },
+    {
+      "no": "66",
+      "name": "Octav Iliescu",
+      "life": "10 noiembrie 1922 – 11 ianuarie 2000",
+      "occupation": "",
+      "notes": "",
+      "term_start": "18 martie 1956",
+      "term_end": "decembrie 1959",
+      "party": "PCR",
+      "period": "Perioada comunistă"
+    },
+    {
+      "no": "67",
+      "name": "Anghel Negulescu",
+      "life": "1922 – 23 decembrie 1992",
+      "occupation": "inginer",
+      "notes": "",
+      "term_start": "20 decembrie 1959",
+      "term_end": "29 decembrie 1964",
+      "party": "PCR",
+      "period": "Perioada comunistă"
+    },
+    {
+      "no": "68",
+      "name": "Gheorghe Filip",
+      "life": "1932 –?",
+      "occupation": "",
+      "notes": "",
+      "term_start": "decembrie 1964",
+      "term_end": "13 aprilie 1967",
+      "party": "PCR",
+      "period": "Perioada comunistă"
+    },
+    {
+      "no": "69",
+      "name": "Gheorghe Cambose",
+      "life": "1932 – iulie 2006",
+      "occupation": "inginer",
+      "notes": "",
+      "term_start": "13 aprilie 1967",
+      "term_end": "20 februarie 1968",
+      "party": "PCR",
+      "period": "Perioada comunistă"
+    },
+    {
+      "no": "70",
+      "name": "Ioan Manciuc",
+      "life": "25 iulie 1929 – 27 martie 1979",
+      "occupation": "electrician",
+      "notes": "",
+      "term_start": "21 februarie 1968",
+      "term_end": "27 martie 1979",
+      "party": "PCR",
+      "period": "Perioada comunistă"
+    },
+    {
+      "no": "71",
+      "name": "Eugen Nechifor-Moraru",
+      "life": "23 decembrie 1929 – 27 martie 2003",
+      "occupation": "ofițer în rezervă",
+      "notes": "",
+      "term_start": "20 octombrie 1979",
+      "term_end": "22 noiembrie 1989",
+      "party": "PCR",
+      "period": "Perioada comunistă"
+    },
+    {
+      "no": "72",
+      "name": "Dumitru Nagîț",
+      "life": "1949 – 31 ianuarie 2003",
+      "occupation": "economist",
+      "notes": "",
+      "term_start": "22 noiembrie 1989",
+      "term_end": "22 decembrie 1989",
+      "party": "PCR",
+      "period": "Perioada comunistă"
+    },
+    {
+      "no": "73",
+      "name": "Ionel Onofraș",
+      "life": "? –",
+      "occupation": "",
+      "notes": "",
+      "term_start": "decembrie 1989",
+      "term_end": "februarie 1990",
+      "party": "",
+      "period": "Perioada post-comunistă"
+    },
+    {
+      "no": "74 (1)",
+      "name": "Vasile Dumitriu",
+      "life": "28 martie 1951 –",
+      "occupation": "",
+      "notes": "primul mandat",
+      "term_start": "?",
+      "term_end": "25 august 1990",
+      "party": "FSN",
+      "period": "Perioada post-comunistă"
+    },
+    {
+      "no": "75",
+      "name": "Emil Uncheșel",
+      "life": "24 septembrie 1938 –",
+      "occupation": "inginer",
+      "notes": "",
+      "term_start": "25 august 1990",
+      "term_end": "5 iunie 1991 (demisie)",
+      "party": "",
+      "period": "Perioada post-comunistă"
+    },
+    {
+      "no": "76",
+      "name": "Emil Alexandrescu",
+      "life": "19 noiembrie 1937 – 4 martie 1992",
+      "occupation": "inginer",
+      "notes": "",
+      "term_start": "14 iunie 1991",
+      "term_end": "4 martie 1992 (deces)",
+      "party": "FSN",
+      "period": "Perioada post-comunistă"
+    },
+    {
+      "no": "77 (2)",
+      "name": "Vasile Dumitriu",
+      "life": "28 martie 1951 –",
+      "occupation": "",
+      "notes": "al doilea mandat (interimar)",
+      "term_start": "5 martie 1992",
+      "term_end": "22 iunie 1992",
+      "party": "Indep.",
+      "period": "Perioada post-comunistă"
+    },
+    {
+      "no": "78",
+      "name": "Constantin Simirad",
+      "life": "13 mai 1941 – 28 martie 2021",
+      "occupation": "profesor universitar",
+      "notes": "",
+      "term_start": "22 iunie 1992",
+      "term_end": "28 noiembrie 2003",
+      "party": "CDR / PM PSD",
+      "period": "Perioada post-comunistă"
+    },
+    {
+      "no": "79",
+      "name": "Gheorghe Nichita",
+      "life": "5 septembrie 1956 –",
+      "occupation": "inginer",
+      "notes": "",
+      "term_start": "28 martie 2021",
+      "term_end": "22 mai 2015 (arestat, suspendat)",
+      "party": "PSD",
+      "period": "Perioada post-comunistă"
+    },
+    {
+      "no": "80",
+      "name": "Mihai Chirica",
+      "life": "1 septembrie 1971 –",
+      "occupation": "inginer",
+      "notes": "interimar",
+      "term_start": "25 mai 2015",
+      "term_end": "5 iunie 2016",
+      "party": "PSD / Indep. PNL",
+      "period": "Perioada post-comunistă"
+    },
+    {
+      "no": "80",
+      "name": "Mihai Chirica",
+      "life": "1 septembrie 1971 –",
+      "occupation": "inginer",
+      "notes": "primar ales",
+      "term_start": "5 iunie 2016",
+      "term_end": "4 februarie 2022",
+      "party": "PSD / Indep. PNL",
+      "period": "Perioada post-comunistă"
+    },
+    {
+      "no": "80",
+      "name": "Mihai Chirica",
+      "life": "1 septembrie 1971 –",
+      "occupation": "inginer",
+      "notes": "reluare mandat",
+      "term_start": "11 februarie 2022",
+      "term_end": "prezent",
+      "party": "PSD / Indep. PNL",
+      "period": "Perioada post-comunistă"
+    }
+  ],
+  "meta": {
+    "title": "Primarii municipiului Iași - Free Download",
+    "description": "Lista primarilor orașului Iași din 1864 până în prezent, cu datele de viață, ocupația, perioada mandatului și partidul. Contains 82 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Primarii municipiului Iași | ListBase",
+    "seo_description": "Download Primarii municipiului Iași — 82 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 82 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Lista_primarilor_Iașiului"
+    ]
+  }
+}
