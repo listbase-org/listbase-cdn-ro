@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-18T02:30:38.497Z",
-  "total_datasets": 526,
-  "total_records": 170404,
+  "generated": "2026-11-18T02:30:48.184Z",
+  "total_datasets": 527,
+  "total_records": 170528,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "geography",
@@ -3028,6 +3028,30 @@
         "xlsx": {
           "name": "ro-produse-romanesti-protejate-ue-dop-igp_RO.xlsx",
           "size": 8373
+        }
+      }
+    },
+    {
+      "id": "ro-rachiuri-tuici-palinci-indicatii-geografice",
+      "name": "Rachiuri, țuici, pălinci și vinarsuri românești",
+      "category": "food",
+      "record_count": 124,
+      "columns": [
+        "name",
+        "category",
+        "origin"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Listă_de_rachiuri_românești",
+      "updated": "2026-11",
+      "size": 15439,
+      "files": {
+        "csv": {
+          "name": "ro-rachiuri-tuici-palinci-indicatii-geografice_RO.csv",
+          "size": 5977
+        },
+        "xlsx": {
+          "name": "ro-rachiuri-tuici-palinci-indicatii-geografice_RO.xlsx",
+          "size": 9916
         }
       }
     },

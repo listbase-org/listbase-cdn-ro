@@ -1,0 +1,661 @@
+{
+  "id": "ro-rachiuri-tuici-palinci-indicatii-geografice",
+  "name": "Rachiuri, țuici, pălinci și vinarsuri românești",
+  "title": "Rachiuri, țuici, pălinci și vinarsuri românești",
+  "description": "Băuturi spirtoase tradiționale românești cu indicație geografică (rachiuri, pălinci, țuici, vinarsuri), pe categorii, cu zona de origine din denumire.",
+  "category": "food",
+  "source": "https://ro.wikipedia.org/wiki/Listă_de_rachiuri_românești",
+  "source_url": "https://ro.wikipedia.org/wiki/Listă_de_rachiuri_românești",
+  "updated": "2026-11",
+  "record_count": 124,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "origin",
+      "label": "Origin",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Rachiu de Apold",
+      "category": "Rachiu de drojdie",
+      "origin": "Apold"
+    },
+    {
+      "name": "Rachiu de Bihor",
+      "category": "Rachiu de drojdie",
+      "origin": "Bihor"
+    },
+    {
+      "name": "Rachiu de Huși",
+      "category": "Rachiu de drojdie",
+      "origin": "Huși"
+    },
+    {
+      "name": "Rachiu de Iași",
+      "category": "Rachiu de drojdie",
+      "origin": "Iași"
+    },
+    {
+      "name": "Rachiu de Jidvei",
+      "category": "Rachiu de drojdie",
+      "origin": "Jidvei"
+    },
+    {
+      "name": "Rachiu de Mangalia",
+      "category": "Rachiu de drojdie",
+      "origin": "Mangalia"
+    },
+    {
+      "name": "Rachiu de Ostrov",
+      "category": "Rachiu de drojdie",
+      "origin": "Ostrov"
+    },
+    {
+      "name": "Rachiu de Silvana",
+      "category": "Rachiu de drojdie",
+      "origin": "Silvana"
+    },
+    {
+      "name": "Rachiu de Valu lui Traian",
+      "category": "Rachiu de drojdie",
+      "origin": "Valu lui Traian"
+    },
+    {
+      "name": "Rachiu de Buzău",
+      "category": "Rachiu de fructe",
+      "origin": "Buzău"
+    },
+    {
+      "name": "Rachiu de Cîlnău",
+      "category": "Rachiu de fructe",
+      "origin": "Cîlnău"
+    },
+    {
+      "name": "Rachiu de Dragosloveni",
+      "category": "Rachiu de fructe",
+      "origin": "Dragosloveni"
+    },
+    {
+      "name": "Rachiu de Focșani",
+      "category": "Rachiu de fructe",
+      "origin": "Focșani"
+    },
+    {
+      "name": "Rachiu de Jariștea",
+      "category": "Rachiu de fructe",
+      "origin": "Jariștea"
+    },
+    {
+      "name": "Rachiu de Vrancea",
+      "category": "Rachiu de fructe",
+      "origin": "Vrancea"
+    },
+    {
+      "name": "Voinicu Voinești",
+      "category": "Rachiu de fructe",
+      "origin": ""
+    },
+    {
+      "name": "Pălincă de Ardeal",
+      "category": "Pălincă",
+      "origin": "Ardeal"
+    },
+    {
+      "name": "Pălincă de Bihor",
+      "category": "Pălincă",
+      "origin": "Bihor"
+    },
+    {
+      "name": "Pălincă de Câmârzana",
+      "category": "Pălincă",
+      "origin": "Câmârzana"
+    },
+    {
+      "name": "Pălincă de Cîlnău",
+      "category": "Pălincă",
+      "origin": "Cîlnău"
+    },
+    {
+      "name": "Pălincă de Cluj",
+      "category": "Pălincă",
+      "origin": "Cluj"
+    },
+    {
+      "name": "Pălincă de Maramureș",
+      "category": "Pălincă",
+      "origin": "Maramureș"
+    },
+    {
+      "name": "Pălincă de Medieșu Aurit",
+      "category": "Pălincă",
+      "origin": "Medieșu Aurit"
+    },
+    {
+      "name": "Pălincă de Oaș",
+      "category": "Pălincă",
+      "origin": "Oaș"
+    },
+    {
+      "name": "Pălincă de Valea Vinului",
+      "category": "Pălincă",
+      "origin": "Valea Vinului"
+    },
+    {
+      "name": "Pălincă de Zalău",
+      "category": "Pălincă",
+      "origin": "Zalău"
+    },
+    {
+      "name": "Pălincă de Chechiș Maramureș",
+      "category": "Pălincă",
+      "origin": "Chechiș Maramureș"
+    },
+    {
+      "name": "Rachiu de Brabova",
+      "category": "Rachiu de caise",
+      "origin": "Brabova"
+    },
+    {
+      "name": "Rachiu de Cîrcea",
+      "category": "Rachiu de caise",
+      "origin": "Cîrcea"
+    },
+    {
+      "name": "Rachiu de Cluj",
+      "category": "Rachiu de caise",
+      "origin": "Cluj"
+    },
+    {
+      "name": "Rachiu de Dăbuleni",
+      "category": "Rachiu de caise",
+      "origin": "Dăbuleni"
+    },
+    {
+      "name": "Rachiu de Făclia",
+      "category": "Rachiu de caise",
+      "origin": "Făclia"
+    },
+    {
+      "name": "Rachiu de Țâmburești",
+      "category": "Rachiu de caise",
+      "origin": "Țâmburești"
+    },
+    {
+      "name": "Rachiu de Brădești",
+      "category": "Rachiu de cireșe",
+      "origin": "Brădești"
+    },
+    {
+      "name": "Rachiu de Circea",
+      "category": "Rachiu de cireșe",
+      "origin": "Circea"
+    },
+    {
+      "name": "Rachiu de Cotnari",
+      "category": "Rachiu de cireșe",
+      "origin": "Cotnari"
+    },
+    {
+      "name": "Rachiu de Goiești",
+      "category": "Rachiu de cireșe",
+      "origin": "Goiești"
+    },
+    {
+      "name": "Rachiu de Simnic",
+      "category": "Rachiu de cireșe",
+      "origin": "Simnic"
+    },
+    {
+      "name": "Rachiu de gutui 20 ani Vinia Iasi",
+      "category": "Rachiu de gutui",
+      "origin": "gutui 20 ani Vinia Iasi"
+    },
+    {
+      "name": "Rachiu de Cucea",
+      "category": "Rachiu de mere",
+      "origin": "Cucea"
+    },
+    {
+      "name": "Rachiu de Dâmbovița Nouă",
+      "category": "Rachiu de mere",
+      "origin": "Dâmbovița Nouă"
+    },
+    {
+      "name": "Rachiu de Dealu Mare",
+      "category": "Rachiu de mere",
+      "origin": "Dealu Mare"
+    },
+    {
+      "name": "Rachiu de Drosia",
+      "category": "Rachiu de mere",
+      "origin": "Drosia"
+    },
+    {
+      "name": "Rachiu de Dunăreni",
+      "category": "Rachiu de mere",
+      "origin": "Dunăreni"
+    },
+    {
+      "name": "Rachiu de Terpezia",
+      "category": "Rachiu de mere",
+      "origin": "Terpezia"
+    },
+    {
+      "name": "Rachiu de Porolissum",
+      "category": "Rachiu de mere",
+      "origin": "Porolissum"
+    },
+    {
+      "name": "Rachiu de Mediaș",
+      "category": "Rachiu de mere",
+      "origin": "Mediaș"
+    },
+    {
+      "name": "Rachiu de Chechiș Maramureș",
+      "category": "Rachiu de mere",
+      "origin": "Chechiș Maramureș"
+    },
+    {
+      "name": "Rachiu de Varvor",
+      "category": "Rachiu de pere",
+      "origin": "Varvor"
+    },
+    {
+      "name": "Rachiu de Piscu Sadovei",
+      "category": "Rachiu de piersici",
+      "origin": "Piscu Sadovei"
+    },
+    {
+      "name": "Rachiu de Calafat",
+      "category": "Rachiu de vișine",
+      "origin": "Calafat"
+    },
+    {
+      "name": "Rachiu de Bucium",
+      "category": "Rachiu de vișine",
+      "origin": "Bucium"
+    },
+    {
+      "name": "Rachiu de Tulcea",
+      "category": "Rachiu de tescovină",
+      "origin": "Tulcea"
+    },
+    {
+      "name": "Rachiu de Alba Iulia",
+      "category": "Rachiu de vin",
+      "origin": "Alba Iulia"
+    },
+    {
+      "name": "Rachiu de Teremia Mare",
+      "category": "Rachiu de vin",
+      "origin": "Teremia Mare"
+    },
+    {
+      "name": "Vinars Banu Mărăcine",
+      "category": "Vinars",
+      "origin": "Banu Mărăcine"
+    },
+    {
+      "name": "Vinars Brancoveanu",
+      "category": "Vinars",
+      "origin": "Brancoveanu"
+    },
+    {
+      "name": "Vinars Carpatin",
+      "category": "Vinars",
+      "origin": "Carpatin"
+    },
+    {
+      "name": "Vinars Diosig",
+      "category": "Vinars",
+      "origin": "Diosig"
+    },
+    {
+      "name": "Vinars Dragosloveni",
+      "category": "Vinars",
+      "origin": "Dragosloveni"
+    },
+    {
+      "name": "Vinars Focșani",
+      "category": "Vinars",
+      "origin": "Focșani"
+    },
+    {
+      "name": "Vinars Huși",
+      "category": "Vinars",
+      "origin": "Huși"
+    },
+    {
+      "name": "Vinars Iași",
+      "category": "Vinars",
+      "origin": "Iași"
+    },
+    {
+      "name": "Vinars Jariștea",
+      "category": "Vinars",
+      "origin": "Jariștea"
+    },
+    {
+      "name": "Vinars Măderat",
+      "category": "Vinars",
+      "origin": "Măderat"
+    },
+    {
+      "name": "Vinars Murfatlar",
+      "category": "Vinars",
+      "origin": "Murfatlar"
+    },
+    {
+      "name": "Vinars Napoca",
+      "category": "Vinars",
+      "origin": "Napoca"
+    },
+    {
+      "name": "Vinars Pietroasa",
+      "category": "Vinars",
+      "origin": "Pietroasa"
+    },
+    {
+      "name": "Vinars Sanislau",
+      "category": "Vinars",
+      "origin": "Sanislau"
+    },
+    {
+      "name": "Vinars Sebeș",
+      "category": "Vinars",
+      "origin": "Sebeș"
+    },
+    {
+      "name": "Vinars Segarcea",
+      "category": "Vinars",
+      "origin": "Segarcea"
+    },
+    {
+      "name": "Vinars Ștefănești",
+      "category": "Vinars",
+      "origin": "Ștefănești"
+    },
+    {
+      "name": "Vinars Târnave",
+      "category": "Vinars",
+      "origin": "Târnave"
+    },
+    {
+      "name": "Vinars Vaslui",
+      "category": "Vinars",
+      "origin": "Vaslui"
+    },
+    {
+      "name": "Vinars Vrancea",
+      "category": "Vinars",
+      "origin": "Vrancea"
+    },
+    {
+      "name": "Vinars Jidvei",
+      "category": "Vinars",
+      "origin": "Jidvei"
+    },
+    {
+      "name": "Țuică de Bosanci",
+      "category": "Țuică",
+      "origin": "Bosanci"
+    },
+    {
+      "name": "Țuică de Bran",
+      "category": "Țuică",
+      "origin": "Bran"
+    },
+    {
+      "name": "Țuică de Buzău",
+      "category": "Țuică",
+      "origin": "Buzău"
+    },
+    {
+      "name": "Țuică de Buzești",
+      "category": "Țuică",
+      "origin": "Buzești"
+    },
+    {
+      "name": "Țuică de Cluj",
+      "category": "Țuică",
+      "origin": "Cluj"
+    },
+    {
+      "name": "Țuică de Dâmbovița",
+      "category": "Țuică",
+      "origin": "Dâmbovița"
+    },
+    {
+      "name": "Țuică de Dragosloveni",
+      "category": "Țuică",
+      "origin": "Dragosloveni"
+    },
+    {
+      "name": "Țuică de Feneș",
+      "category": "Țuică",
+      "origin": "Feneș"
+    },
+    {
+      "name": "Țuică de Focșani",
+      "category": "Țuică",
+      "origin": "Focșani"
+    },
+    {
+      "name": "Țuică de Horezu",
+      "category": "Țuică",
+      "origin": "Horezu"
+    },
+    {
+      "name": "Țuică de Jariștea",
+      "category": "Țuică",
+      "origin": "Jariștea"
+    },
+    {
+      "name": "Țuică de Jidvei",
+      "category": "Țuică",
+      "origin": "Jidvei"
+    },
+    {
+      "name": "Țuică de Livezi",
+      "category": "Țuică",
+      "origin": "Livezi"
+    },
+    {
+      "name": "Țuică de Maramureș",
+      "category": "Țuică",
+      "origin": "Maramureș"
+    },
+    {
+      "name": "Țuică de Măgura",
+      "category": "Țuică",
+      "origin": "Măgura"
+    },
+    {
+      "name": "Țuică de Murgas",
+      "category": "Țuică",
+      "origin": "Murgas"
+    },
+    {
+      "name": "Țuică de Naruja",
+      "category": "Țuică",
+      "origin": "Naruja"
+    },
+    {
+      "name": "Țuică de Negrești",
+      "category": "Țuică",
+      "origin": "Negrești"
+    },
+    {
+      "name": "Țuică de Pitești",
+      "category": "Țuică",
+      "origin": "Pitești"
+    },
+    {
+      "name": "Țuică de Pietraia",
+      "category": "Țuică",
+      "origin": "Pietraia"
+    },
+    {
+      "name": "Țuică de Tifești",
+      "category": "Țuică",
+      "origin": "Tifești"
+    },
+    {
+      "name": "Țuică de Valea Milcovului",
+      "category": "Țuică",
+      "origin": "Valea Milcovului"
+    },
+    {
+      "name": "Țuică de Valea Putnei",
+      "category": "Țuică",
+      "origin": "Valea Putnei"
+    },
+    {
+      "name": "Țuică de Valea Sării",
+      "category": "Țuică",
+      "origin": "Valea Sării"
+    },
+    {
+      "name": "Țuică de Valea Vinului",
+      "category": "Țuică",
+      "origin": "Valea Vinului"
+    },
+    {
+      "name": "Țuică de Văleni",
+      "category": "Țuică",
+      "origin": "Văleni"
+    },
+    {
+      "name": "Țuică de Vidra",
+      "category": "Țuică",
+      "origin": "Vidra"
+    },
+    {
+      "name": "Țuică de Vrancea",
+      "category": "Țuică",
+      "origin": "Vrancea"
+    },
+    {
+      "name": "Principe Mihai",
+      "category": "Țuică",
+      "origin": ""
+    },
+    {
+      "name": "Zetea de Medieșu Aurit",
+      "category": "Țuică",
+      "origin": "Medieșu Aurit"
+    },
+    {
+      "name": "Țuică de Dealul Mare",
+      "category": "Țuică bătrână",
+      "origin": "Dealul Mare"
+    },
+    {
+      "name": "Țuică de Porolissum",
+      "category": "Țuică bătrână",
+      "origin": "Porolissum"
+    },
+    {
+      "name": "Turnul lui Ștefan",
+      "category": "Țuică bătrână",
+      "origin": ""
+    },
+    {
+      "name": "Țuică de Argeș",
+      "category": "Țuică superioară",
+      "origin": "Argeș"
+    },
+    {
+      "name": "Țuică de Silvania",
+      "category": "Țuică superioară",
+      "origin": "Silvania"
+    },
+    {
+      "name": "Țuică de Zalău",
+      "category": "Țuică superioară",
+      "origin": "Zalău"
+    },
+    {
+      "name": "Ardelenească de Bistrița",
+      "category": "Țuică selecționată",
+      "origin": "Bistrița"
+    },
+    {
+      "name": "Horincă de Cămârzana",
+      "category": "Țuică selecționată",
+      "origin": "Cămârzana"
+    },
+    {
+      "name": "Horincă de Chioar",
+      "category": "Țuică selecționată",
+      "origin": "Chioar"
+    },
+    {
+      "name": "Horincă de Lăpuș",
+      "category": "Țuică selecționată",
+      "origin": "Lăpuș"
+    },
+    {
+      "name": "Horincă de Maramureș",
+      "category": "Țuică selecționată",
+      "origin": "Maramureș"
+    },
+    {
+      "name": "Horincă de Seini",
+      "category": "Țuică selecționată",
+      "origin": "Seini"
+    },
+    {
+      "name": "Șliboviță de Maramureș",
+      "category": "Țuică selecționată",
+      "origin": "Maramureș"
+    },
+    {
+      "name": "Turț de Maramureș",
+      "category": "Țuică selecționată",
+      "origin": "Maramureș"
+    },
+    {
+      "name": "Turț de Oaș",
+      "category": "Țuică selecționată",
+      "origin": "Oaș"
+    },
+    {
+      "name": "Țuică Maramureșană",
+      "category": "Țuică selecționată",
+      "origin": "Maramureșană"
+    },
+    {
+      "name": "Țuică de Bihor",
+      "category": "Țuică selecționată",
+      "origin": "Bihor"
+    },
+    {
+      "name": "Țuică Mureșana",
+      "category": "Țuică selecționată",
+      "origin": "Mureșana"
+    }
+  ],
+  "meta": {
+    "title": "Rachiuri, țuici, pălinci și vinarsuri românești - Free Download",
+    "description": "Băuturi spirtoase tradiționale românești cu indicație geografică (rachiuri, pălinci, țuici, vinarsuri), pe categorii, cu zona de origine din denumire. Contains 124 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Rachiuri, țuici, pălinci și vinarsuri românești | ListBase",
+    "seo_description": "Download Rachiuri, țuici, pălinci și vinarsuri românești — 124 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 124 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Listă_de_rachiuri_românești"
+    ]
+  }
+}
