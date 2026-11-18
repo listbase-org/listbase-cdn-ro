@@ -1,0 +1,1591 @@
+{
+  "id": "ro-lacuri",
+  "name": "Lacuri din România",
+  "title": "Lacuri din România",
+  "description": "Lacuri glaciare, de acumulare, de alunecare și vulcanice din România, cu lanțul muntos, bazinul hidrografic, tipul lacului, altitudinea, suprafața și adâncimea maximă.",
+  "category": "environment",
+  "source": "https://ro.wikipedia.org/wiki/Listă_de_lacuri_din_România",
+  "source_url": "https://ro.wikipedia.org/wiki/Listă_de_lacuri_din_România",
+  "updated": "2026-11",
+  "record_count": 170,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "mountain_range",
+      "label": "Mountain Range",
+      "type": "string"
+    },
+    {
+      "key": "river_basin",
+      "label": "River Basin",
+      "type": "string"
+    },
+    {
+      "key": "lake_type",
+      "label": "Lake Type",
+      "type": "string"
+    },
+    {
+      "key": "altitude_m",
+      "label": "Altitude M",
+      "type": "number"
+    },
+    {
+      "key": "area_ha",
+      "label": "Area Ha",
+      "type": "number"
+    },
+    {
+      "key": "max_depth_m",
+      "label": "Max Depth M",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Avrig",
+      "mountain_range": "Munții Făgăraș",
+      "river_basin": "Râul Avrig",
+      "lake_type": "glaciar",
+      "altitude_m": 2011,
+      "area_ha": 1.47,
+      "max_depth_m": 4.5
+    },
+    {
+      "name": "Colibița",
+      "mountain_range": "Munții Călimani",
+      "river_basin": "Bistrița",
+      "lake_type": "acumulare",
+      "altitude_m": 900,
+      "area_ha": 314,
+      "max_depth_m": 92
+    },
+    {
+      "name": "Bodi-Ferneziu",
+      "mountain_range": "Munții Gutâi",
+      "river_basin": "Săsar",
+      "lake_type": "acumulare",
+      "altitude_m": 425,
+      "area_ha": 1.6,
+      "max_depth_m": 5
+    },
+    {
+      "name": "Bodi I",
+      "mountain_range": "Munții Gutâi",
+      "river_basin": "Săsar",
+      "lake_type": "acumulare",
+      "altitude_m": 720,
+      "area_ha": 4.5,
+      "max_depth_m": 7
+    },
+    {
+      "name": "Bodi II",
+      "mountain_range": "Munții Gutâi",
+      "river_basin": "Săsar",
+      "lake_type": "acumulare",
+      "altitude_m": 700,
+      "area_ha": 1,
+      "max_depth_m": 4
+    },
+    {
+      "name": "Firiza",
+      "mountain_range": "Munții Gutâi",
+      "river_basin": "Săsar",
+      "lake_type": "acumulare",
+      "altitude_m": 370,
+      "area_ha": 110,
+      "max_depth_m": 37.5
+    },
+    {
+      "name": "Lighet",
+      "mountain_range": "Munții Gutâi",
+      "river_basin": "Lăpuș",
+      "lake_type": "acumulare",
+      "altitude_m": 340,
+      "area_ha": 3,
+      "max_depth_m": 5.5
+    },
+    {
+      "name": "Călinești",
+      "mountain_range": "Munții Oaș",
+      "river_basin": "Turulung",
+      "lake_type": "acumulare",
+      "altitude_m": 150,
+      "area_ha": 160,
+      "max_depth_m": 9
+    },
+    {
+      "name": "Nistru",
+      "mountain_range": "Munții Gutâi",
+      "river_basin": "Săsar",
+      "lake_type": "acumulare",
+      "altitude_m": 340,
+      "area_ha": 1.2,
+      "max_depth_m": 5
+    },
+    {
+      "name": "Vinderel",
+      "mountain_range": "Munții Maramureșului",
+      "river_basin": "Vișeu",
+      "lake_type": "nivație și alunecare",
+      "altitude_m": 1665,
+      "area_ha": 0.9,
+      "max_depth_m": 5.5
+    },
+    {
+      "name": "Lala Mic",
+      "mountain_range": "Munții Rodnei",
+      "river_basin": "Bistrița",
+      "lake_type": "glaciar",
+      "altitude_m": "",
+      "area_ha": "",
+      "max_depth_m": 0.4
+    },
+    {
+      "name": "Lala Mare",
+      "mountain_range": "Munții Rodnei",
+      "river_basin": "Bistrița",
+      "lake_type": "glaciar",
+      "altitude_m": 1815,
+      "area_ha": 0.6,
+      "max_depth_m": 2
+    },
+    {
+      "name": "Buhăescu I",
+      "mountain_range": "Munții Rodnei",
+      "river_basin": "Vișeu",
+      "lake_type": "glaciar",
+      "altitude_m": 1905,
+      "area_ha": 0.05,
+      "max_depth_m": 2
+    },
+    {
+      "name": "Buhăescu II",
+      "mountain_range": "Munții Rodnei",
+      "river_basin": "Vișeu",
+      "lake_type": "glaciar",
+      "altitude_m": 1890,
+      "area_ha": 0.2,
+      "max_depth_m": 5
+    },
+    {
+      "name": "Buhăescu III",
+      "mountain_range": "Munții Rodnei",
+      "river_basin": "Vișeu",
+      "lake_type": "glaciar",
+      "altitude_m": 1820,
+      "area_ha": 0.1,
+      "max_depth_m": 1
+    },
+    {
+      "name": "Iezer",
+      "mountain_range": "Munții Rodnei",
+      "river_basin": "Vișeu",
+      "lake_type": "glaciar",
+      "altitude_m": 1825,
+      "area_ha": 0.5,
+      "max_depth_m": 2.5
+    },
+    {
+      "name": "Sadova",
+      "mountain_range": "Obcina Feredeu",
+      "river_basin": "Moldova",
+      "lake_type": "alunecare",
+      "altitude_m": 915,
+      "area_ha": 1.5,
+      "max_depth_m": 5
+    },
+    {
+      "name": "Izvorul Măgurii",
+      "mountain_range": "Munții Bârgău",
+      "river_basin": "Ilva",
+      "lake_type": "alunecare",
+      "altitude_m": 880,
+      "area_ha": 0.2,
+      "max_depth_m": 2
+    },
+    {
+      "name": "Zânelor",
+      "mountain_range": "Munții Bârgău",
+      "river_basin": "Colibița",
+      "lake_type": "alunecare",
+      "altitude_m": 1290,
+      "area_ha": 0.3,
+      "max_depth_m": 2.5
+    },
+    {
+      "name": "Răciciș",
+      "mountain_range": "Munții Călimani",
+      "river_basin": "Toplița",
+      "lake_type": "alunecare",
+      "altitude_m": 1730,
+      "area_ha": 0.1,
+      "max_depth_m": 3
+    },
+    {
+      "name": "Lacul Bicaz",
+      "mountain_range": "Masivul Ceahlău",
+      "river_basin": "Bistrița",
+      "lake_type": "acumulare",
+      "altitude_m": 513,
+      "area_ha": 3000,
+      "max_depth_m": 90
+    },
+    {
+      "name": "Pângărați",
+      "mountain_range": "Munții Tarcău",
+      "river_basin": "Bistrița",
+      "lake_type": "acumulare",
+      "altitude_m": 369,
+      "area_ha": 155,
+      "max_depth_m": 15
+    },
+    {
+      "name": "Vaduri",
+      "mountain_range": "Munții Tarcău",
+      "river_basin": "Bistrița",
+      "lake_type": "acumulare",
+      "altitude_m": 360,
+      "area_ha": 115,
+      "max_depth_m": 15
+    },
+    {
+      "name": "Bâtca Doamnei",
+      "mountain_range": "Munții Tarcău",
+      "river_basin": "Bistrița",
+      "lake_type": "acumulare",
+      "altitude_m": 324,
+      "area_ha": 235,
+      "max_depth_m": 16
+    },
+    {
+      "name": "Piatra Neamț",
+      "mountain_range": "Munții Tarcău",
+      "river_basin": "Bistrița",
+      "lake_type": "acumulare",
+      "altitude_m": 313,
+      "area_ha": 16,
+      "max_depth_m": 4
+    },
+    {
+      "name": "Lacul Roșu",
+      "mountain_range": "Munții Hășmaș",
+      "river_basin": "Bicaz",
+      "lake_type": "alunecare",
+      "altitude_m": 983,
+      "area_ha": 13,
+      "max_depth_m": 12.5
+    },
+    {
+      "name": "Lacu Oii",
+      "mountain_range": "Munții Hășmaș",
+      "river_basin": "Bicaz",
+      "lake_type": "acumulare",
+      "altitude_m": 1000,
+      "area_ha": 3,
+      "max_depth_m": 5
+    },
+    {
+      "name": "Pârâul Roșu",
+      "mountain_range": "Munții Hășmaș",
+      "river_basin": "Bicaz",
+      "lake_type": "acumulare",
+      "altitude_m": 1000,
+      "area_ha": 3,
+      "max_depth_m": 10
+    },
+    {
+      "name": "Mesteacăn",
+      "mountain_range": "Munții Hășmaș",
+      "river_basin": "Olt",
+      "lake_type": "acumulare",
+      "altitude_m": 900,
+      "area_ha": 15,
+      "max_depth_m": 16
+    },
+    {
+      "name": "Sf. Ana",
+      "mountain_range": "Munții Ciucului",
+      "river_basin": "Olt",
+      "lake_type": "vulcanic",
+      "altitude_m": 950,
+      "area_ha": 19.5,
+      "max_depth_m": 7
+    },
+    {
+      "name": "Poiana Uzului",
+      "mountain_range": "Munții Ciucului",
+      "river_basin": "Trotuș",
+      "lake_type": "acumulare",
+      "altitude_m": 550,
+      "area_ha": 335,
+      "max_depth_m": 75
+    },
+    {
+      "name": "Balătău",
+      "mountain_range": "Munții Ciucului",
+      "river_basin": "Trotuș",
+      "lake_type": "alunecare",
+      "altitude_m": 550,
+      "area_ha": 4.5,
+      "max_depth_m": 3
+    },
+    {
+      "name": "Lacu Verde",
+      "mountain_range": "Munții Vrancei",
+      "river_basin": "Șușița",
+      "lake_type": "alunecare",
+      "altitude_m": 1040,
+      "area_ha": 0.5,
+      "max_depth_m": 4
+    },
+    {
+      "name": "Lacul Vulturilor",
+      "mountain_range": "Munții Buzăului",
+      "river_basin": "Buzău",
+      "lake_type": "nivație",
+      "altitude_m": 1405,
+      "area_ha": 0.9,
+      "max_depth_m": 2.5
+    },
+    {
+      "name": "Lacu Negru",
+      "mountain_range": "Munții Buzăului",
+      "river_basin": "Buzău",
+      "lake_type": "alunecare",
+      "altitude_m": 1050,
+      "area_ha": 1.6,
+      "max_depth_m": 5
+    },
+    {
+      "name": "Mocearu",
+      "mountain_range": "Munții Buzăului",
+      "river_basin": "Buzău",
+      "lake_type": "alunecare",
+      "altitude_m": 775,
+      "area_ha": 7,
+      "max_depth_m": 8
+    },
+    {
+      "name": "Hânsaru",
+      "mountain_range": "Munții Buzăului",
+      "river_basin": "Buzău",
+      "lake_type": "alunecare",
+      "altitude_m": 900,
+      "area_ha": 0.5,
+      "max_depth_m": 3
+    },
+    {
+      "name": "Paltinu",
+      "mountain_range": "Munții Bârsei",
+      "river_basin": "Doftana",
+      "lake_type": "acumulare",
+      "altitude_m": 650,
+      "area_ha": 215,
+      "max_depth_m": 107
+    },
+    {
+      "name": "Săcele",
+      "mountain_range": "Munții Bârsei",
+      "river_basin": "Tărlung",
+      "lake_type": "acumulare",
+      "altitude_m": 745,
+      "area_ha": 123,
+      "max_depth_m": 45
+    },
+    {
+      "name": "Scropoasa",
+      "mountain_range": "Munții Bucegi",
+      "river_basin": "Ialomița",
+      "lake_type": "acumulare",
+      "altitude_m": 1197,
+      "area_ha": 6,
+      "max_depth_m": 15
+    },
+    {
+      "name": "Pucioasa",
+      "mountain_range": "Munții Bucegi",
+      "river_basin": "Ialomița",
+      "lake_type": "acumulare",
+      "altitude_m": 400,
+      "area_ha": 105,
+      "max_depth_m": 30
+    },
+    {
+      "name": "Iezer",
+      "mountain_range": "Munții Iezer-Păpușa",
+      "river_basin": "Râul Târgului",
+      "lake_type": "glaciar",
+      "altitude_m": 2130,
+      "area_ha": 0.4,
+      "max_depth_m": 6.5
+    },
+    {
+      "name": "Zârna",
+      "mountain_range": "Munții Făgărașului",
+      "river_basin": "Râul Doamnei",
+      "lake_type": "glaciar",
+      "altitude_m": 2050,
+      "area_ha": 0.5,
+      "max_depth_m": 0.5
+    },
+    {
+      "name": "Jgheburoasa",
+      "mountain_range": "Munții Făgărașului",
+      "river_basin": "Râul Doamnei",
+      "lake_type": "glaciar",
+      "altitude_m": 2150,
+      "area_ha": 1,
+      "max_depth_m": 2
+    },
+    {
+      "name": "Hârtop I",
+      "mountain_range": "Munții Făgărașului",
+      "river_basin": "Râul Doamnei",
+      "lake_type": "glaciar",
+      "altitude_m": 2230,
+      "area_ha": 0.3,
+      "max_depth_m": 2
+    },
+    {
+      "name": "Hârtop II",
+      "mountain_range": "Munții Făgărașului",
+      "river_basin": "Râul Doamnei",
+      "lake_type": "glaciar",
+      "altitude_m": 2200,
+      "area_ha": 0.35,
+      "max_depth_m": 0.7
+    },
+    {
+      "name": "Hârtop V",
+      "mountain_range": "Munții Făgărașului",
+      "river_basin": "Râul Doamnei",
+      "lake_type": "glaciar",
+      "altitude_m": 2100,
+      "area_ha": 1,
+      "max_depth_m": 3
+    },
+    {
+      "name": "Mănăstirii",
+      "mountain_range": "Munții Făgărașului",
+      "river_basin": "Râul Doamnei",
+      "lake_type": "glaciar",
+      "altitude_m": 2165,
+      "area_ha": 0.5,
+      "max_depth_m": 2.5
+    },
+    {
+      "name": "Valea Rea",
+      "mountain_range": "Munții Făgărașului",
+      "river_basin": "Râul Doamnei",
+      "lake_type": "glaciar",
+      "altitude_m": 2160,
+      "area_ha": 0.45,
+      "max_depth_m": 21
+    },
+    {
+      "name": "Scărișoara",
+      "mountain_range": "Munții Făgărașului",
+      "river_basin": "Râul Doamnei",
+      "lake_type": "glaciar",
+      "altitude_m": 2200,
+      "area_ha": 1.2,
+      "max_depth_m": 9
+    },
+    {
+      "name": "Galbena II — III — IV",
+      "mountain_range": "Munții Făgărașului",
+      "river_basin": "Râul Doamnei",
+      "lake_type": "glaciar",
+      "altitude_m": "",
+      "area_ha": 0.5,
+      "max_depth_m": 1
+    },
+    {
+      "name": "Văsălatu",
+      "mountain_range": "Munții Făgărașului",
+      "river_basin": "Râul Doamnei",
+      "lake_type": "acumulare",
+      "altitude_m": 860,
+      "area_ha": 2.5,
+      "max_depth_m": 14
+    },
+    {
+      "name": "Buda Arhivat în 19 august 2014, la Wayback Machine.",
+      "mountain_range": "Munții Făgărașului",
+      "river_basin": "Argeș",
+      "lake_type": "glaciar",
+      "altitude_m": 2055,
+      "area_ha": 0.9,
+      "max_depth_m": 2
+    },
+    {
+      "name": "Podu Giurgiului",
+      "mountain_range": "Munții Făgărașului",
+      "river_basin": "Argeș",
+      "lake_type": "glaciar",
+      "altitude_m": 2220,
+      "area_ha": 0.2,
+      "max_depth_m": 3
+    },
+    {
+      "name": "Capra",
+      "mountain_range": "Munții Făgărașului",
+      "river_basin": "Capra",
+      "lake_type": "glaciar",
+      "altitude_m": 2230,
+      "area_ha": 1.8,
+      "max_depth_m": 8
+    },
+    {
+      "name": "Călțun",
+      "mountain_range": "Munții Făgărașului",
+      "river_basin": "Capra",
+      "lake_type": "glaciar",
+      "altitude_m": 2135,
+      "area_ha": 0.8,
+      "max_depth_m": 12
+    },
+    {
+      "name": "Vidraru",
+      "mountain_range": "Munții Făgărașului",
+      "river_basin": "Argeș",
+      "lake_type": "acumulare",
+      "altitude_m": 830,
+      "area_ha": 893,
+      "max_depth_m": 155
+    },
+    {
+      "name": "Oiești",
+      "mountain_range": "Munții Făgărașului",
+      "river_basin": "Argeș",
+      "lake_type": "acumulare",
+      "altitude_m": 505,
+      "area_ha": 40,
+      "max_depth_m": 4.5
+    },
+    {
+      "name": "Cumpăna",
+      "mountain_range": "Munții Făgărașului",
+      "river_basin": "Argeș",
+      "lake_type": "acumulare",
+      "altitude_m": 920,
+      "area_ha": 3,
+      "max_depth_m": 24
+    },
+    {
+      "name": "Dobroneagu",
+      "mountain_range": "Munții Făgărașului",
+      "river_basin": "Vâlsan",
+      "lake_type": "acumulare",
+      "altitude_m": 955,
+      "area_ha": 2,
+      "max_depth_m": 15
+    },
+    {
+      "name": "Urlea",
+      "mountain_range": "Munții Făgărașului",
+      "river_basin": "Olt",
+      "lake_type": "glaciar",
+      "altitude_m": 2200,
+      "area_ha": 2,
+      "max_depth_m": 4.5
+    },
+    {
+      "name": "Podragu",
+      "mountain_range": "Munții Făgărașului",
+      "river_basin": "Arpaș",
+      "lake_type": "glaciar",
+      "altitude_m": 2110,
+      "area_ha": 2.8,
+      "max_depth_m": 15.5
+    },
+    {
+      "name": "Podragu Mic",
+      "mountain_range": "Munții Făgărașului",
+      "river_basin": "Arpaș",
+      "lake_type": "glaciar",
+      "altitude_m": 2105,
+      "area_ha": 0.25,
+      "max_depth_m": 2
+    },
+    {
+      "name": "Podrăgel",
+      "mountain_range": "Munții Făgărașului",
+      "river_basin": "Arpaș",
+      "lake_type": "glaciar",
+      "altitude_m": 2000,
+      "area_ha": 0.7,
+      "max_depth_m": 4
+    },
+    {
+      "name": "Bâlea",
+      "mountain_range": "Munții Făgărașului",
+      "river_basin": "Bâlea",
+      "lake_type": "glaciar",
+      "altitude_m": 2040,
+      "area_ha": 4.65,
+      "max_depth_m": 11
+    },
+    {
+      "name": "Doamnei",
+      "mountain_range": "Munții Făgărașului",
+      "river_basin": "Bâlea",
+      "lake_type": "glaciar",
+      "altitude_m": 1865,
+      "area_ha": 0.3,
+      "max_depth_m": 1.6
+    },
+    {
+      "name": "Lacul Avrig",
+      "mountain_range": "Munții Făgărașului",
+      "river_basin": "Râul Olt",
+      "lake_type": "glaciar",
+      "altitude_m": 2010,
+      "area_ha": 1.5,
+      "max_depth_m": 4.5
+    },
+    {
+      "name": "Iezeru Mare",
+      "mountain_range": "Munții Cindrel",
+      "river_basin": "Râu Mare",
+      "lake_type": "glaciar",
+      "altitude_m": 1970,
+      "area_ha": 3.4,
+      "max_depth_m": 13
+    },
+    {
+      "name": "Iezeru Mic",
+      "mountain_range": "Munții Cindrel",
+      "river_basin": "Râu Mare",
+      "lake_type": "glaciar",
+      "altitude_m": 1955,
+      "area_ha": 0.26,
+      "max_depth_m": 1.7
+    },
+    {
+      "name": "Gura Râului",
+      "mountain_range": "Munții Cindrel",
+      "river_basin": "Râu Mare",
+      "lake_type": "acumulare",
+      "altitude_m": 658,
+      "area_ha": 65,
+      "max_depth_m": 17
+    },
+    {
+      "name": "Sadu V",
+      "mountain_range": "Munții Cindrel",
+      "river_basin": "Sadu",
+      "lake_type": "acumulare",
+      "altitude_m": 1150,
+      "area_ha": 72,
+      "max_depth_m": 68
+    },
+    {
+      "name": "Șureanu",
+      "mountain_range": "Munții Șureanu",
+      "river_basin": "Râu Mare (Cugir)",
+      "lake_type": "glaciar",
+      "altitude_m": 1840,
+      "area_ha": 0.5,
+      "max_depth_m": 7.5
+    },
+    {
+      "name": "Oașa",
+      "mountain_range": "Munții Șureanu",
+      "river_basin": "Sebeș",
+      "lake_type": "acumulare",
+      "altitude_m": 1260,
+      "area_ha": 453,
+      "max_depth_m": 90
+    },
+    {
+      "name": "Iezer Parâng",
+      "mountain_range": "Munții Parâng",
+      "river_basin": "Lotru",
+      "lake_type": "glaciar",
+      "altitude_m": 1900,
+      "area_ha": 0.6,
+      "max_depth_m": 1.6
+    },
+    {
+      "name": "Călcescu",
+      "mountain_range": "Munții Parâng",
+      "river_basin": "Lotru",
+      "lake_type": "glaciar",
+      "altitude_m": 1930,
+      "area_ha": 3.2,
+      "max_depth_m": 10
+    },
+    {
+      "name": "Câlcescu I",
+      "mountain_range": "Munții Parâng",
+      "river_basin": "Lotru",
+      "lake_type": "glaciar",
+      "altitude_m": 1980,
+      "area_ha": 0.55,
+      "max_depth_m": 4
+    },
+    {
+      "name": "Păsări",
+      "mountain_range": "Munții Parâng",
+      "river_basin": "Lotru",
+      "lake_type": "glaciar",
+      "altitude_m": 2090,
+      "area_ha": 0.3,
+      "max_depth_m": 3
+    },
+    {
+      "name": "Zănoaga Mare",
+      "mountain_range": "Munții Parâng",
+      "river_basin": "Lotru",
+      "lake_type": "glaciar",
+      "altitude_m": 2030,
+      "area_ha": 1,
+      "max_depth_m": 2
+    },
+    {
+      "name": "Vidra",
+      "mountain_range": "Munții Parâng",
+      "river_basin": "Lotru",
+      "lake_type": "acumulare",
+      "altitude_m": 1289,
+      "area_ha": 1035,
+      "max_depth_m": 109
+    },
+    {
+      "name": "Balindru",
+      "mountain_range": "Munții Parâng",
+      "river_basin": "Lotru",
+      "lake_type": "acumulare",
+      "altitude_m": 1030,
+      "area_ha": 6,
+      "max_depth_m": 27
+    },
+    {
+      "name": "Mălaia",
+      "mountain_range": "Munții Parâng",
+      "river_basin": "Lotru",
+      "lake_type": "acumulare",
+      "altitude_m": 480,
+      "area_ha": 46,
+      "max_depth_m": 22
+    },
+    {
+      "name": "Jidoaia",
+      "mountain_range": "Munții Parâng",
+      "river_basin": "Lotru",
+      "lake_type": "acumulare",
+      "altitude_m": 1280,
+      "area_ha": 3.5,
+      "max_depth_m": 36
+    },
+    {
+      "name": "Iezer-Latorița",
+      "mountain_range": "Munții Parâng",
+      "river_basin": "Lotru",
+      "lake_type": "glaciar",
+      "altitude_m": 1630,
+      "area_ha": 0.8,
+      "max_depth_m": 1.5
+    },
+    {
+      "name": "Galbenu",
+      "mountain_range": "Munții Parâng",
+      "river_basin": "Lotru",
+      "lake_type": "acumulare",
+      "altitude_m": 1304,
+      "area_ha": 17,
+      "max_depth_m": 49
+    },
+    {
+      "name": "Petrimanu",
+      "mountain_range": "Munții Parâng",
+      "river_basin": "Lotru",
+      "lake_type": "acumulare",
+      "altitude_m": 1130,
+      "area_ha": 17,
+      "max_depth_m": 48
+    },
+    {
+      "name": "Ghereșu",
+      "mountain_range": "Munții Parâng",
+      "river_basin": "Jieț",
+      "lake_type": "glaciar",
+      "altitude_m": 1980,
+      "area_ha": 0.35,
+      "max_depth_m": 5.5
+    },
+    {
+      "name": "Tăul fără Fund",
+      "mountain_range": "Munții Parâng",
+      "river_basin": "Jieț",
+      "lake_type": "glaciar",
+      "altitude_m": 1980,
+      "area_ha": 3.6,
+      "max_depth_m": 17.5
+    },
+    {
+      "name": "Mândra",
+      "mountain_range": "Munții Parâng",
+      "river_basin": "Jieț",
+      "lake_type": "glaciar",
+      "altitude_m": 2150,
+      "area_ha": 1.2,
+      "max_depth_m": 8.5
+    },
+    {
+      "name": "Zănoaga Stânii",
+      "mountain_range": "Munții Parâng",
+      "river_basin": "Jieț",
+      "lake_type": "glaciar",
+      "altitude_m": 1910,
+      "area_ha": 0.6,
+      "max_depth_m": 1.5
+    },
+    {
+      "name": "Tăul Verde I",
+      "mountain_range": "Munții Parâng",
+      "river_basin": "Jieț",
+      "lake_type": "glaciar",
+      "altitude_m": 2020,
+      "area_ha": 0.6,
+      "max_depth_m": 5.5
+    },
+    {
+      "name": "Tăul Verde III",
+      "mountain_range": "Munții Parâng",
+      "river_basin": "Jieț",
+      "lake_type": "glaciar",
+      "altitude_m": 2005,
+      "area_ha": 0.05,
+      "max_depth_m": 1
+    },
+    {
+      "name": "Slivei",
+      "mountain_range": "Munții Parâng",
+      "river_basin": "Jieț",
+      "lake_type": "glaciar",
+      "altitude_m": 2115,
+      "area_ha": 0.3,
+      "max_depth_m": 3
+    },
+    {
+      "name": "Tăul Înghețat",
+      "mountain_range": "Munții Parâng",
+      "river_basin": "Jieț",
+      "lake_type": "glaciar",
+      "altitude_m": 2115,
+      "area_ha": 0.15,
+      "max_depth_m": 5
+    },
+    {
+      "name": "Mija",
+      "mountain_range": "Munții Parâng",
+      "river_basin": "Jieț",
+      "lake_type": "glaciar",
+      "altitude_m": 1975,
+      "area_ha": 0.8,
+      "max_depth_m": 6.5
+    },
+    {
+      "name": "Lotrana",
+      "mountain_range": "Munții Parâng",
+      "river_basin": "Gilort",
+      "lake_type": "glaciar",
+      "altitude_m": 1875,
+      "area_ha": 0.15,
+      "max_depth_m": 1
+    },
+    {
+      "name": "Peleaga",
+      "mountain_range": "Munții Retezat",
+      "river_basin": "Râu Mare (Mureș)",
+      "lake_type": "glaciar",
+      "altitude_m": 2112,
+      "area_ha": 1.7,
+      "max_depth_m": 4.6
+    },
+    {
+      "name": "Peleguța",
+      "mountain_range": "Munții Retezat",
+      "river_basin": "Râu Mare (Mureș)",
+      "lake_type": "glaciar",
+      "altitude_m": 2115,
+      "area_ha": 0.95,
+      "max_depth_m": 5
+    },
+    {
+      "name": "Lia",
+      "mountain_range": "Munții Retezat",
+      "river_basin": "Râu Mare (Mureș)",
+      "lake_type": "glaciar",
+      "altitude_m": 1910,
+      "area_ha": 1.35,
+      "max_depth_m": 4.5
+    },
+    {
+      "name": "Ana",
+      "mountain_range": "Munții Retezat",
+      "river_basin": "Râu Mare (Mureș)",
+      "lake_type": "glaciar",
+      "altitude_m": 1990,
+      "area_ha": 3.1,
+      "max_depth_m": 11.5
+    },
+    {
+      "name": "Viorica",
+      "mountain_range": "Munții Retezat",
+      "river_basin": "Râu Mare (Mureș)",
+      "lake_type": "glaciar",
+      "altitude_m": 2070,
+      "area_ha": 0.95,
+      "max_depth_m": 6.2
+    },
+    {
+      "name": "Florica",
+      "mountain_range": "Munții Retezat",
+      "river_basin": "Râu Mare (Mureș)",
+      "lake_type": "glaciar",
+      "altitude_m": 2090,
+      "area_ha": 0.8,
+      "max_depth_m": 2
+    },
+    {
+      "name": "Porții",
+      "mountain_range": "Munții Retezat",
+      "river_basin": "Râu Mare (Mureș)",
+      "lake_type": "glaciar",
+      "altitude_m": 2200,
+      "area_ha": 0.1,
+      "max_depth_m": 2
+    },
+    {
+      "name": "Agățat",
+      "mountain_range": "Munții Retezat",
+      "river_basin": "Râu Mare (Mureș)",
+      "lake_type": "glaciar",
+      "altitude_m": 2230,
+      "area_ha": 0.5,
+      "max_depth_m": 4
+    },
+    {
+      "name": "Bucura",
+      "mountain_range": "Munții Retezat",
+      "river_basin": "Râu Mare (Mureș)",
+      "lake_type": "glaciar",
+      "altitude_m": 2040,
+      "area_ha": 8.9,
+      "max_depth_m": 15.5
+    },
+    {
+      "name": "Slăvei",
+      "mountain_range": "Munții Retezat",
+      "river_basin": "Râu Mare (Mureș)",
+      "lake_type": "glaciar",
+      "altitude_m": 1930,
+      "area_ha": 3.3,
+      "max_depth_m": 6
+    },
+    {
+      "name": "Răsucit",
+      "mountain_range": "Munții Retezat",
+      "river_basin": "Râu Mare (Mureș)",
+      "lake_type": "glaciar",
+      "altitude_m": 2090,
+      "area_ha": 0.8,
+      "max_depth_m": 3
+    },
+    {
+      "name": "Urât",
+      "mountain_range": "Munții Retezat",
+      "river_basin": "Râu Mare (Mureș)",
+      "lake_type": "glaciar",
+      "altitude_m": 2090,
+      "area_ha": 0.4,
+      "max_depth_m": 1
+    },
+    {
+      "name": "Ascuns",
+      "mountain_range": "Munții Retezat",
+      "river_basin": "Râu Mare (Mureș)",
+      "lake_type": "glaciar",
+      "altitude_m": 2100,
+      "area_ha": 0.4,
+      "max_depth_m": 1.5
+    },
+    {
+      "name": "Judele",
+      "mountain_range": "Munții Retezat",
+      "river_basin": "Râu Mare (Mureș)",
+      "lake_type": "glaciar",
+      "altitude_m": 2202,
+      "area_ha": 0.84,
+      "max_depth_m": 4.05
+    },
+    {
+      "name": "Zănoaga",
+      "mountain_range": "Munții Retezat",
+      "river_basin": "Râu Mare (Mureș)",
+      "lake_type": "glaciar",
+      "altitude_m": 2010,
+      "area_ha": 6,
+      "max_depth_m": 29
+    },
+    {
+      "name": "Spurcat",
+      "mountain_range": "Munții Retezat",
+      "river_basin": "Râu Mare (Mureș)",
+      "lake_type": "glaciar",
+      "altitude_m": 1970,
+      "area_ha": 1.9,
+      "max_depth_m": 12.5
+    },
+    {
+      "name": "Cârlig 1",
+      "mountain_range": "Munții Retezat",
+      "river_basin": "Râu Mare (Mureș)",
+      "lake_type": "glaciar",
+      "altitude_m": 1935,
+      "area_ha": 0.35,
+      "max_depth_m": 3.5
+    },
+    {
+      "name": "Cârlig 2",
+      "mountain_range": "Munții Retezat",
+      "river_basin": "Râu Mare (Mureș)",
+      "lake_type": "glaciar",
+      "altitude_m": 1930,
+      "area_ha": 0.3,
+      "max_depth_m": 0.7
+    },
+    {
+      "name": "Negru",
+      "mountain_range": "Munții Retezat",
+      "river_basin": "Râu Mare (Mureș)",
+      "lake_type": "glaciar",
+      "altitude_m": 2010,
+      "area_ha": 4,
+      "max_depth_m": 26
+    },
+    {
+      "name": "Gemenele",
+      "mountain_range": "Munții Retezat",
+      "river_basin": "Râu Mare (Mureș)",
+      "lake_type": "glaciar",
+      "altitude_m": 1900,
+      "area_ha": 2.5,
+      "max_depth_m": 5.5
+    },
+    {
+      "name": "Iezilor",
+      "mountain_range": "Munții Retezat",
+      "river_basin": "Râu Mare (Mureș)",
+      "lake_type": "glaciar",
+      "altitude_m": 2090,
+      "area_ha": 0.2,
+      "max_depth_m": 3.5
+    },
+    {
+      "name": "Știrbului",
+      "mountain_range": "Munții Retezat",
+      "river_basin": "Râu Mare (Mureș)",
+      "lake_type": "glaciar",
+      "altitude_m": 2090,
+      "area_ha": 0.95,
+      "max_depth_m": 9
+    },
+    {
+      "name": "Șteviei",
+      "mountain_range": "Munții Retezat",
+      "river_basin": "Râu Mare (Mureș)",
+      "lake_type": "glaciar",
+      "altitude_m": 2070,
+      "area_ha": 0.7,
+      "max_depth_m": 10
+    },
+    {
+      "name": "Valea Rea",
+      "mountain_range": "Munții Retezat",
+      "river_basin": "Nucșoara",
+      "lake_type": "glaciar",
+      "altitude_m": 2190,
+      "area_ha": 0.8,
+      "max_depth_m": 4
+    },
+    {
+      "name": "Galeșu",
+      "mountain_range": "Munții Retezat",
+      "river_basin": "Nucșoara",
+      "lake_type": "glaciar",
+      "altitude_m": 1990,
+      "area_ha": 3.7,
+      "max_depth_m": 19.5
+    },
+    {
+      "name": "Țapului",
+      "mountain_range": "Munții Retezat",
+      "river_basin": "Bărbat",
+      "lake_type": "glaciar",
+      "altitude_m": 2130,
+      "area_ha": 2.3,
+      "max_depth_m": 6
+    },
+    {
+      "name": "Păpușii",
+      "mountain_range": "Munții Retezat",
+      "river_basin": "Bărbat",
+      "lake_type": "glaciar",
+      "altitude_m": 2160,
+      "area_ha": 0.4,
+      "max_depth_m": 4.9
+    },
+    {
+      "name": "Custura Mare",
+      "mountain_range": "Munții Retezat",
+      "river_basin": "Bărbat",
+      "lake_type": "glaciar",
+      "altitude_m": 2165,
+      "area_ha": 2.8,
+      "max_depth_m": 7.5
+    },
+    {
+      "name": "Custura Mică",
+      "mountain_range": "Munții Retezat",
+      "river_basin": "Bărbat",
+      "lake_type": "glaciar",
+      "altitude_m": 2135,
+      "area_ha": 0.8,
+      "max_depth_m": 7.5
+    },
+    {
+      "name": "Buta",
+      "mountain_range": "Munții Retezat",
+      "river_basin": "Jiu",
+      "lake_type": "glaciar",
+      "altitude_m": 1720,
+      "area_ha": 0.3,
+      "max_depth_m": 4.5
+    },
+    {
+      "name": "Borăscu Mare",
+      "mountain_range": "Munții Godeanu",
+      "river_basin": "Râu Mare",
+      "lake_type": "glaciar",
+      "altitude_m": 1855,
+      "area_ha": 0.35,
+      "max_depth_m": 3.5
+    },
+    {
+      "name": "Scărișoara",
+      "mountain_range": "Munții Godeanu",
+      "river_basin": "Râu Mare",
+      "lake_type": "glaciar",
+      "altitude_m": 1935,
+      "area_ha": 0.85,
+      "max_depth_m": 2
+    },
+    {
+      "name": "Gugu",
+      "mountain_range": "Munții Godeanu",
+      "river_basin": "Râu Mare",
+      "lake_type": "glaciar",
+      "altitude_m": 1990,
+      "area_ha": 0.4,
+      "max_depth_m": 3.5
+    },
+    {
+      "name": "Netiș",
+      "mountain_range": "Munții Țarcu",
+      "river_basin": "Râu Mare",
+      "lake_type": "glaciar",
+      "altitude_m": 1045,
+      "area_ha": 1.1,
+      "max_depth_m": 3
+    },
+    {
+      "name": "Bistra",
+      "mountain_range": "Munții Țarcu",
+      "river_basin": "Bistra Ardeal",
+      "lake_type": "glaciar",
+      "altitude_m": 1940,
+      "area_ha": 1.1,
+      "max_depth_m": 7
+    },
+    {
+      "name": "Valea lui Iovan",
+      "mountain_range": "Munții Godeanu",
+      "river_basin": "Cerna",
+      "lake_type": "acumulare",
+      "altitude_m": 685,
+      "area_ha": 296,
+      "max_depth_m": 107
+    },
+    {
+      "name": "Valea de Pești",
+      "mountain_range": "Munții Vâlcan",
+      "river_basin": "Jiul de Vest",
+      "lake_type": "acumulare",
+      "altitude_m": 830,
+      "area_ha": 31,
+      "max_depth_m": 53
+    },
+    {
+      "name": "Tău fără Fund",
+      "mountain_range": "Munții Vâlcan",
+      "river_basin": "Jiul de Vest",
+      "lake_type": "alunecare",
+      "altitude_m": 620,
+      "area_ha": 0.3,
+      "max_depth_m": 10.5
+    },
+    {
+      "name": "Cinciș Cerna",
+      "mountain_range": "Munții Poiana Ruscă",
+      "river_basin": "Râul Cerna (Mureș)",
+      "lake_type": "acumulare",
+      "altitude_m": 300,
+      "area_ha": 261,
+      "max_depth_m": 40
+    },
+    {
+      "name": "Surduc",
+      "mountain_range": "Munții Poiana Ruscă",
+      "river_basin": "",
+      "lake_type": "acumulare",
+      "altitude_m": 195,
+      "area_ha": 460,
+      "max_depth_m": 20
+    },
+    {
+      "name": "Buhui",
+      "mountain_range": "Munții Semenic",
+      "river_basin": "Caraș",
+      "lake_type": "acumulare",
+      "altitude_m": 640,
+      "area_ha": 10,
+      "max_depth_m": 12
+    },
+    {
+      "name": "Mărghitaș",
+      "mountain_range": "Munții Semenic",
+      "river_basin": "Caraș",
+      "lake_type": "acumulare",
+      "altitude_m": 645,
+      "area_ha": 4,
+      "max_depth_m": 6
+    },
+    {
+      "name": "Mioarelor",
+      "mountain_range": "Munții Făgăraș",
+      "river_basin": "Râul Doamnei",
+      "lake_type": "glaciar",
+      "altitude_m": 2282,
+      "area_ha": 0.15,
+      "max_depth_m": 0.4
+    },
+    {
+      "name": "Gozna",
+      "mountain_range": "Munții Semenic",
+      "river_basin": "Bârzava",
+      "lake_type": "acumulare",
+      "altitude_m": 610,
+      "area_ha": 66,
+      "max_depth_m": 40
+    },
+    {
+      "name": "Văliug",
+      "mountain_range": "Munții Semenic",
+      "river_basin": "Bârzava",
+      "lake_type": "acumulare",
+      "altitude_m": 500,
+      "area_ha": 12,
+      "max_depth_m": 25
+    },
+    {
+      "name": "Secu",
+      "mountain_range": "Munții Semenic",
+      "river_basin": "Bârzava",
+      "lake_type": "acumulare",
+      "altitude_m": 350,
+      "area_ha": 105,
+      "max_depth_m": 30
+    },
+    {
+      "name": "Trei Ape",
+      "mountain_range": "Munții Semenic",
+      "river_basin": "Timiș",
+      "lake_type": "acumulare",
+      "altitude_m": 835,
+      "area_ha": 53,
+      "max_depth_m": 30
+    },
+    {
+      "name": "Ferendia",
+      "mountain_range": "Munții Dognecei",
+      "river_basin": "Bârzava",
+      "lake_type": "acumulare",
+      "altitude_m": 265,
+      "area_ha": 0.5,
+      "max_depth_m": 5
+    },
+    {
+      "name": "Lacu Mic",
+      "mountain_range": "Munții Dognecei",
+      "river_basin": "Caraș",
+      "lake_type": "acumulare",
+      "altitude_m": 465,
+      "area_ha": 2.3,
+      "max_depth_m": 10
+    },
+    {
+      "name": "Lacu Mare",
+      "mountain_range": "Munții Dognecei",
+      "river_basin": "Caraș",
+      "lake_type": "acumulare",
+      "altitude_m": 400,
+      "area_ha": 6.2,
+      "max_depth_m": 9
+    },
+    {
+      "name": "Lacu Mare-Oravița",
+      "mountain_range": "Munții Aninei",
+      "river_basin": "Caraș",
+      "lake_type": "acumulare",
+      "altitude_m": 315,
+      "area_ha": 1,
+      "max_depth_m": 4
+    },
+    {
+      "name": "Lacu Mic-Oravița",
+      "mountain_range": "Munții Aninei",
+      "river_basin": "Caraș",
+      "lake_type": "acumulare",
+      "altitude_m": 285,
+      "area_ha": 0.8,
+      "max_depth_m": 10
+    },
+    {
+      "name": "Iezer Ighiel",
+      "mountain_range": "Munții Trascăului",
+      "river_basin": "Ampoi",
+      "lake_type": "alunecare",
+      "altitude_m": 920,
+      "area_ha": 3.2,
+      "max_depth_m": 10
+    },
+    {
+      "name": "Țarinii",
+      "mountain_range": "Munții Metaliferi",
+      "river_basin": "V. Abrudului",
+      "lake_type": "acumulare",
+      "altitude_m": 1000,
+      "area_ha": 0.6,
+      "max_depth_m": 10
+    },
+    {
+      "name": "Lacu Mare",
+      "mountain_range": "Munții Metaliferi",
+      "river_basin": "V. Abrudului",
+      "lake_type": "acumulare",
+      "altitude_m": 930,
+      "area_ha": 2.5,
+      "max_depth_m": 5
+    },
+    {
+      "name": "Anghel",
+      "mountain_range": "Munții Metaliferi",
+      "river_basin": "V. Abrudului",
+      "lake_type": "acumulare",
+      "altitude_m": 850,
+      "area_ha": 0.6,
+      "max_depth_m": 4
+    },
+    {
+      "name": "Brazi",
+      "mountain_range": "Munții Metaliferi",
+      "river_basin": "V. Abrudului",
+      "lake_type": "acumulare",
+      "altitude_m": 930,
+      "area_ha": 0.6,
+      "max_depth_m": 6
+    },
+    {
+      "name": "Cartuș",
+      "mountain_range": "Munții Metaliferi",
+      "river_basin": "V. Abrudului",
+      "lake_type": "acumulare",
+      "altitude_m": "",
+      "area_ha": 0.3,
+      "max_depth_m": 2
+    },
+    {
+      "name": "Corali",
+      "mountain_range": "Munții Metaliferi",
+      "river_basin": "V. Abrudului",
+      "lake_type": "acumulare",
+      "altitude_m": 930,
+      "area_ha": 0.8,
+      "max_depth_m": 8
+    },
+    {
+      "name": "Găurari",
+      "mountain_range": "Munții Metaliferi",
+      "river_basin": "V. Abrudului",
+      "lake_type": "acumulare",
+      "altitude_m": "",
+      "area_ha": 0.4,
+      "max_depth_m": 2
+    },
+    {
+      "name": "Seliște",
+      "mountain_range": "Munții Metaliferi",
+      "river_basin": "V. Abrudului",
+      "lake_type": "acumulare",
+      "altitude_m": "",
+      "area_ha": 0.4,
+      "max_depth_m": 2
+    },
+    {
+      "name": "Muntari",
+      "mountain_range": "Munții Metaliferi",
+      "river_basin": "V. Abrudului",
+      "lake_type": "acumulare",
+      "altitude_m": "",
+      "area_ha": 0.2,
+      "max_depth_m": 2
+    },
+    {
+      "name": "Făerag",
+      "mountain_range": "Munții Metaliferi",
+      "river_basin": "Mureș",
+      "lake_type": "acumulare",
+      "altitude_m": 465,
+      "area_ha": 3.4,
+      "max_depth_m": 2
+    },
+    {
+      "name": "Caraciu",
+      "mountain_range": "Munții Metaliferi",
+      "river_basin": "Mureș",
+      "lake_type": "acumulare",
+      "altitude_m": 680,
+      "area_ha": 1.4,
+      "max_depth_m": 7
+    },
+    {
+      "name": "Leșu",
+      "mountain_range": "Munții Bihorului",
+      "river_basin": "V. Iadului",
+      "lake_type": "acumulare",
+      "altitude_m": 560,
+      "area_ha": 147,
+      "max_depth_m": 56
+    },
+    {
+      "name": "Toplița",
+      "mountain_range": "Munții Bihorului",
+      "river_basin": "Crișul Negru",
+      "lake_type": "acumulare",
+      "altitude_m": 300,
+      "area_ha": 8,
+      "max_depth_m": 15
+    },
+    {
+      "name": "Gilău",
+      "mountain_range": "Munții Gilăului",
+      "river_basin": "Someșu Mic",
+      "lake_type": "acumulare",
+      "altitude_m": 410,
+      "area_ha": 70,
+      "max_depth_m": 9
+    },
+    {
+      "name": "Tarnița",
+      "mountain_range": "Munții Gilăului",
+      "river_basin": "Someșu Cald",
+      "lake_type": "acumulare",
+      "altitude_m": 620,
+      "area_ha": 215,
+      "max_depth_m": 97
+    },
+    {
+      "name": "Fântânele",
+      "mountain_range": "Munții Gilăului",
+      "river_basin": "Someșu Cald",
+      "lake_type": "acumulare",
+      "altitude_m": 990,
+      "area_ha": 980,
+      "max_depth_m": 92
+    },
+    {
+      "name": "Izvorul Alb",
+      "mountain_range": "Munții Gilăului",
+      "river_basin": "Someșu Cald",
+      "lake_type": "acumulare",
+      "altitude_m": 1010,
+      "area_ha": 1,
+      "max_depth_m": 6
+    },
+    {
+      "name": "Izvorul Băii",
+      "mountain_range": "Munții Gilăului",
+      "river_basin": "Someșu Rece",
+      "lake_type": "acumulare",
+      "altitude_m": 1035,
+      "area_ha": 7,
+      "max_depth_m": 43
+    },
+    {
+      "name": "Negruța",
+      "mountain_range": "Munții Gilăului",
+      "river_basin": "Someșu Rece",
+      "lake_type": "acumulare",
+      "altitude_m": 1055,
+      "area_ha": 0.5,
+      "max_depth_m": 2
+    },
+    {
+      "name": "Blăjoaia",
+      "mountain_range": "Munții Gilăului",
+      "river_basin": "Someșu Rece",
+      "lake_type": "acumulare",
+      "altitude_m": 1200,
+      "area_ha": 1,
+      "max_depth_m": 6
+    },
+    {
+      "name": "Iara",
+      "mountain_range": "Munții Gilăului",
+      "river_basin": "Arieș",
+      "lake_type": "acumulare",
+      "altitude_m": 1055,
+      "area_ha": 1,
+      "max_depth_m": 8
+    },
+    {
+      "name": "Șoimu",
+      "mountain_range": "Munții Gilăului",
+      "river_basin": "Arieș",
+      "lake_type": "acumulare",
+      "altitude_m": 1042,
+      "area_ha": 0.2,
+      "max_depth_m": 7
+    }
+  ],
+  "meta": {
+    "title": "Lacuri din România - Free Download",
+    "description": "Lacuri glaciare, de acumulare, de alunecare și vulcanice din România, cu lanțul muntos, bazinul hidrografic, tipul lacului, altitudinea, suprafața și adâncimea maximă. Contains 170 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Lacuri din România | ListBase",
+    "seo_description": "Download Lacuri din România — 170 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 170 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Listă_de_lacuri_din_România"
+    ]
+  }
+}
