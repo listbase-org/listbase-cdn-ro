@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-18T02:30:48.184Z",
-  "total_datasets": 527,
-  "total_records": 170528,
+  "generated": "2026-11-19T02:18:12.741Z",
+  "total_datasets": 528,
+  "total_records": 170547,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "politics",
@@ -6723,6 +6723,31 @@
         "xlsx": {
           "name": "ro-case-de-discuri_RO.xlsx",
           "size": 7199
+        }
+      }
+    },
+    {
+      "id": "ro-cerbul-de-aur-editii-castigatori",
+      "name": "Festivalul Cerbul de Aur – ediții, câștigători și prezentatori",
+      "category": "music",
+      "record_count": 19,
+      "columns": [
+        "editie",
+        "an",
+        "castigatori",
+        "prezentatori"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Cerbul_de_Aur",
+      "updated": "2026-11",
+      "size": 6417,
+      "files": {
+        "csv": {
+          "name": "ro-cerbul-de-aur-editii-castigatori_RO.csv",
+          "size": 3048
+        },
+        "xlsx": {
+          "name": "ro-cerbul-de-aur-editii-castigatori_RO.xlsx",
+          "size": 8519
         }
       }
     },

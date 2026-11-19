@@ -1,0 +1,160 @@
+{
+  "id": "ro-cerbul-de-aur-editii-castigatori",
+  "name": "Festivalul Cerbul de Aur – ediții, câștigători și prezentatori",
+  "title": "Festivalul Cerbul de Aur – ediții, câștigători și prezentatori",
+  "description": "Edițiile Festivalului Internațional de Muzică „Cerbul de Aur” de la Brașov (1968–2019), cu anul, câștigătorii și prezentatorii fiecărei ediții.",
+  "category": "music",
+  "source": "https://ro.wikipedia.org/wiki/Cerbul_de_Aur",
+  "source_url": "https://ro.wikipedia.org/wiki/Cerbul_de_Aur",
+  "updated": "2026-11",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "editie",
+      "label": "Editie",
+      "type": "string"
+    },
+    {
+      "key": "an",
+      "label": "An",
+      "type": "number"
+    },
+    {
+      "key": "castigatori",
+      "label": "Castigatori",
+      "type": "string"
+    },
+    {
+      "key": "prezentatori",
+      "label": "Prezentatori",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "editie": "Ediția I",
+      "an": 1968,
+      "castigatori": "Jacques Hustin; Josef Laufer; Kalinka",
+      "prezentatori": "Stela Popescu, Luminița Iacobescu, Iurie Darie"
+    },
+    {
+      "editie": "Ediția a II-a",
+      "an": 1969,
+      "castigatori": "Luminița Dobrescu; Hana Pazeltová; Conny Vink",
+      "prezentatori": "Sanda Țăranu, Silviu Stănculescu (pe scenă), Ioana Măgură și Andrei Magheru (radio), care au înmânat premiul"
+    },
+    {
+      "editie": "Ediția a III-a",
+      "an": 1970,
+      "castigatori": "Thérèse Steinmetz; Lise Marke (Belgia) și Angela Similea (Romania); Pașa Hristova (Bulgaria)",
+      "prezentatori": "Valeria Gagealov și Andrei Magheru"
+    },
+    {
+      "editie": "Ediția a IV-a",
+      "an": 1971,
+      "castigatori": "Ann-Louise Hanson; Helena Vondráčková (ex æquo); Corina Chiriac; Lili Castel",
+      "prezentatori": ""
+    },
+    {
+      "editie": "Ediția a V-a",
+      "an": 1992,
+      "castigatori": "Marele Premiu și Trofeul „Cerbul de Aur” - Trie Utami, Indonezia; Premiul I - Margarita Popova, Bulgaria; Premiul al II-lea - Arja Koriseva, Finlanda; Premiul al III-lea - Laura Stoica, România",
+      "prezentatori": "Ricky Dandel, Bianca Brad, Tomi Cristin și Ruxandra Enescu"
+    },
+    {
+      "editie": "Ediția a VI-a",
+      "an": 1993,
+      "castigatori": "Marele Premiu și Trofeul „Cerbul de Aur” - Arina, Lituania",
+      "prezentatori": "Ricky Dandel, Manuela Hărăbor"
+    },
+    {
+      "editie": "Ediția a VII-a",
+      "an": 1994,
+      "castigatori": "Worthy Davis",
+      "prezentatori": "Bianca Brad, Beatrice Vornicu, Daniela Popescu, Cristina Stoica, Tania Budi și Ricky Dandel"
+    },
+    {
+      "editie": "Ediția a VIII-a",
+      "an": 1995,
+      "castigatori": "Cramp in The Leg",
+      "prezentatori": "Toni Grecu și Daniela Gămulescu"
+    },
+    {
+      "editie": "Ediția a IX-a",
+      "an": 1996,
+      "castigatori": "Monica Anghel",
+      "prezentatori": "Miruna Coca Cosma, Ricky Dandel și Hugo de Campos"
+    },
+    {
+      "editie": "Ediția a X-a",
+      "an": 1997,
+      "castigatori": "Meiske Shakila Sherhalawan",
+      "prezentatori": "Andreea Marin, Tania Budi și Horia Brenciu"
+    },
+    {
+      "editie": "Ediția a XI-a",
+      "an": 2001,
+      "castigatori": "Proconsul",
+      "prezentatori": "Ricky Dandel și Gianina Corondan"
+    },
+    {
+      "editie": "Ediția a XII-a",
+      "an": 2002,
+      "castigatori": "Paula Seling – România; Premiul I: Lash – Australia; Premiul II: Mike Peterson – Țările de Jos; Premiul III: Millenium – Republica Moldova",
+      "prezentatori": "Andreea Marin și Cosmin Cernat"
+    },
+    {
+      "editie": "Ediția a XIII-a",
+      "an": 2003,
+      "castigatori": "Sha Baoliang – China; Premiul I: Sister K – Țările de Jos; Premiul II: Nico – România; Premiul III: Kaffe – Bulgaria",
+      "prezentatori": "Vedetele TVR"
+    },
+    {
+      "editie": "Ediția a XIV-a",
+      "an": 2004,
+      "castigatori": "Eleanor Cassar – Malta; Premiul I: Slang – România; Premiul II: Anri – Georgia; Premiul III: Analia Selis – Argentina",
+      "prezentatori": "Ioana Moldovan și Gabriel Coveșeanu"
+    },
+    {
+      "editie": "Ediția a XV-a",
+      "an": 2005,
+      "castigatori": "Linda – Italia („Îți mulțumesc”); Premiul I: Vanessa Quai – Vanuatu; Premiul II: Andra – România; Premiul III: Olivia Lewis – Malta",
+      "prezentatori": "Cosmin Cernat și Ramona Bădescu"
+    },
+    {
+      "editie": "Ediția a XVI-a",
+      "an": 2008,
+      "castigatori": "Răzvan Krivach; Biondo; Toni Poptămaș & Desperado",
+      "prezentatori": "Elvin Dandel, Alina Sorescu și Ruxandra Gheorghe"
+    },
+    {
+      "editie": "Ediția a XVII-a",
+      "an": 2009,
+      "castigatori": "Antonino Spadaccino; trupa The Marker; Ovidiu Jacobsen",
+      "prezentatori": "Mihai Constantin, Aurelian Temișan, Delia Budeanu, Alexandra Tararache și Raluca Hogyes"
+    },
+    {
+      "editie": "Ediția a XVIII-a",
+      "an": 2018,
+      "castigatori": "Inis Neziri – Albania; Premiul I: Olivier Kaye – Belgia; Premiul II: Antonia Ghigovska – Macedonia; Premiul III: Kelly Joyce – Franța",
+      "prezentatori": "Gabriel Garko, Aurelian Temișan, Ilinca Avram, Iulia Vântur și Iuliana Tudor"
+    },
+    {
+      "editie": "Ediția a XIX-a",
+      "an": 2019,
+      "castigatori": "Eliza G. – Italia; Premiul I: Sara de Blue – Austria; Premiul II: Ralfs Eilands – Letonia; Premiul III: Monika Marija – Lituania",
+      "prezentatori": "Elvin Dandel, Eda Marcus"
+    }
+  ],
+  "meta": {
+    "title": "Festivalul Cerbul de Aur – ediții, câștigători și prezentatori - Free Download",
+    "description": "Edițiile Festivalului Internațional de Muzică „Cerbul de Aur” de la Brașov (1968–2019), cu anul, câștigătorii și prezentatorii fiecărei ediții. Contains 19 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Festivalul Cerbul de Aur – ediții, câștigători și prezentatori | ListBase",
+    "seo_description": "Download Festivalul Cerbul de Aur – ediții, câștigători și prezentatori — 19 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 19 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Cerbul_de_Aur"
+    ]
+  }
+}
