@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-19T02:18:24.794Z",
-  "total_datasets": 529,
-  "total_records": 170558,
+  "generated": "2026-11-19T02:18:38.352Z",
+  "total_datasets": 530,
+  "total_records": 170577,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "law",
@@ -6516,6 +6516,29 @@
         "xlsx": {
           "name": "ro-expresii-romanesti_RO.xlsx",
           "size": 13883
+        }
+      }
+    },
+    {
+      "id": "ro-limbi-minoritare-numar-vorbitori",
+      "name": "Limbi minoritare vorbite în România – număr de vorbitori nativi",
+      "category": "language",
+      "record_count": 19,
+      "columns": [
+        "limba",
+        "numar_vorbitori"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Limbile_vorbite_în_România",
+      "updated": "2026-11",
+      "size": 2961,
+      "files": {
+        "csv": {
+          "name": "ro-limbi-minoritare-numar-vorbitori_RO.csv",
+          "size": 373
+        },
+        "xlsx": {
+          "name": "ro-limbi-minoritare-numar-vorbitori_RO.xlsx",
+          "size": 7095
         }
       }
     },

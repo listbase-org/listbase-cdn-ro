@@ -1,0 +1,112 @@
+{
+  "id": "ro-limbi-minoritare-numar-vorbitori",
+  "name": "Limbi minoritare vorbite în România – număr de vorbitori nativi",
+  "title": "Limbi minoritare vorbite în România – număr de vorbitori nativi",
+  "description": "Limbile minoritare vorbite în România și numărul de vorbitori nativi conform recensământului, după Wikipedia în limba română.",
+  "category": "language",
+  "source": "https://ro.wikipedia.org/wiki/Limbile_vorbite_în_România",
+  "source_url": "https://ro.wikipedia.org/wiki/Limbile_vorbite_în_România",
+  "updated": "2026-11",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "limba",
+      "label": "Limba",
+      "type": "string"
+    },
+    {
+      "key": "numar_vorbitori",
+      "label": "Numar Vorbitori",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "limba": "Armeană",
+      "numar_vorbitori": 739
+    },
+    {
+      "limba": "Bulgară",
+      "numar_vorbitori": 6518
+    },
+    {
+      "limba": "Cehă",
+      "numar_vorbitori": 2174
+    },
+    {
+      "limba": "Chineză",
+      "numar_vorbitori": 2039
+    },
+    {
+      "limba": "Croată",
+      "numar_vorbitori": 5167
+    },
+    {
+      "limba": "Germană",
+      "numar_vorbitori": 26557
+    },
+    {
+      "limba": "Greacă",
+      "numar_vorbitori": 2561
+    },
+    {
+      "limba": "Idiș",
+      "numar_vorbitori": 643
+    },
+    {
+      "limba": "Italiană",
+      "numar_vorbitori": 2949
+    },
+    {
+      "limba": "Macedoneană",
+      "numar_vorbitori": 769
+    },
+    {
+      "limba": "Maghiară",
+      "numar_vorbitori": 1259914
+    },
+    {
+      "limba": "Poloneză",
+      "numar_vorbitori": 2079
+    },
+    {
+      "limba": "Romani",
+      "numar_vorbitori": 245677
+    },
+    {
+      "limba": "Rusă",
+      "numar_vorbitori": 18946
+    },
+    {
+      "limba": "Sârbă",
+      "numar_vorbitori": 16805
+    },
+    {
+      "limba": "Slovacă",
+      "numar_vorbitori": 12802
+    },
+    {
+      "limba": "Tătară",
+      "numar_vorbitori": 17677
+    },
+    {
+      "limba": "Turcă",
+      "numar_vorbitori": 25302
+    },
+    {
+      "limba": "Ucraineană",
+      "numar_vorbitori": 48910
+    }
+  ],
+  "meta": {
+    "title": "Limbi minoritare vorbite în România – număr de vorbitori nativi - Free Download",
+    "description": "Limbile minoritare vorbite în România și numărul de vorbitori nativi conform recensământului, după Wikipedia în limba română. Contains 19 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Limbi minoritare vorbite în România – număr de vorbitori nativi | ListBase",
+    "seo_description": "Download Limbi minoritare vorbite în România – număr de vorbitori nativi — 19 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 19 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Limbile_vorbite_în_România"
+    ]
+  }
+}
