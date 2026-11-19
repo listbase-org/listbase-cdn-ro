@@ -1,0 +1,256 @@
+{
+  "id": "ro-efective-animale-2013-2024",
+  "name": "Efectivele de animale din România 2013–2024 (mii de capete)",
+  "title": "Efectivele de animale din România 2013–2024 (mii de capete)",
+  "description": "Efectivele de animale domestice din România pe categorii (porci, bovine, ovine, caprine, păsări etc.), în mii de capete, pentru anii 2013–2024.",
+  "category": "agriculture",
+  "source": "https://ro.wikipedia.org/wiki/Agricultura_României",
+  "source_url": "https://ro.wikipedia.org/wiki/Agricultura_României",
+  "updated": "2026-11",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "categorie",
+      "label": "Categorie",
+      "type": "string"
+    },
+    {
+      "key": "mii_capete_2024",
+      "label": "Mii Capete 2024",
+      "type": "number"
+    },
+    {
+      "key": "mii_capete_2023",
+      "label": "Mii Capete 2023",
+      "type": "number"
+    },
+    {
+      "key": "mii_capete_2022",
+      "label": "Mii Capete 2022",
+      "type": "number"
+    },
+    {
+      "key": "mii_capete_2021",
+      "label": "Mii Capete 2021",
+      "type": "number"
+    },
+    {
+      "key": "mii_capete_2020",
+      "label": "Mii Capete 2020",
+      "type": "number"
+    },
+    {
+      "key": "mii_capete_2019",
+      "label": "Mii Capete 2019",
+      "type": "number"
+    },
+    {
+      "key": "mii_capete_2018",
+      "label": "Mii Capete 2018",
+      "type": "number"
+    },
+    {
+      "key": "mii_capete_2017",
+      "label": "Mii Capete 2017",
+      "type": "number"
+    },
+    {
+      "key": "mii_capete_2016",
+      "label": "Mii Capete 2016",
+      "type": "number"
+    },
+    {
+      "key": "mii_capete_2015",
+      "label": "Mii Capete 2015",
+      "type": "number"
+    },
+    {
+      "key": "mii_capete_2014",
+      "label": "Mii Capete 2014",
+      "type": "number"
+    },
+    {
+      "key": "mii_capete_2013",
+      "label": "Mii Capete 2013",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "categorie": "Porci",
+      "mii_capete_2024": 3258,
+      "mii_capete_2023": 3154,
+      "mii_capete_2022": 3329,
+      "mii_capete_2021": 3620,
+      "mii_capete_2020": 3785,
+      "mii_capete_2019": 3834,
+      "mii_capete_2018": 3925,
+      "mii_capete_2017": 4708,
+      "mii_capete_2016": 4927,
+      "mii_capete_2015": 5042,
+      "mii_capete_2014": 5180,
+      "mii_capete_2013": 5234
+    },
+    {
+      "categorie": "Cai",
+      "mii_capete_2024": "",
+      "mii_capete_2023": 290,
+      "mii_capete_2022": 323,
+      "mii_capete_2021": 374,
+      "mii_capete_2020": 408,
+      "mii_capete_2019": 448,
+      "mii_capete_2018": 481,
+      "mii_capete_2017": 520,
+      "mii_capete_2016": 503,
+      "mii_capete_2015": 525,
+      "mii_capete_2014": 548,
+      "mii_capete_2013": 575
+    },
+    {
+      "categorie": "Cornute mari",
+      "mii_capete_2024": 1826,
+      "mii_capete_2023": 1832,
+      "mii_capete_2022": 1852,
+      "mii_capete_2021": 1845,
+      "mii_capete_2020": 1895,
+      "mii_capete_2019": 1942,
+      "mii_capete_2018": 1996,
+      "mii_capete_2017": 2050,
+      "mii_capete_2016": 2092,
+      "mii_capete_2015": 2069,
+      "mii_capete_2014": 2022,
+      "mii_capete_2013": 2009
+    },
+    {
+      "categorie": "Vaci",
+      "mii_capete_2024": 1809,
+      "mii_capete_2023": 1815,
+      "mii_capete_2022": 1834,
+      "mii_capete_2021": 1827,
+      "mii_capete_2020": 1875,
+      "mii_capete_2019": 1923,
+      "mii_capete_2018": 1977,
+      "mii_capete_2017": 2050,
+      "mii_capete_2016": 2092,
+      "mii_capete_2015": 2069,
+      "mii_capete_2014": 2022,
+      "mii_capete_2013": 2009
+    },
+    {
+      "categorie": "Bivoli",
+      "mii_capete_2024": 16.6,
+      "mii_capete_2023": 16.9,
+      "mii_capete_2022": 17.9,
+      "mii_capete_2021": 18.5,
+      "mii_capete_2020": 19.6,
+      "mii_capete_2019": 19,
+      "mii_capete_2018": 18.9,
+      "mii_capete_2017": "",
+      "mii_capete_2016": "",
+      "mii_capete_2015": "",
+      "mii_capete_2014": "",
+      "mii_capete_2013": ""
+    },
+    {
+      "categorie": "Cornute mici",
+      "mii_capete_2024": 11870,
+      "mii_capete_2023": 11721,
+      "mii_capete_2022": 11731,
+      "mii_capete_2021": 11580,
+      "mii_capete_2020": 11893,
+      "mii_capete_2019": 11954,
+      "mii_capete_2018": 11716,
+      "mii_capete_2017": 11359,
+      "mii_capete_2016": 11250,
+      "mii_capete_2015": 10935,
+      "mii_capete_2014": 10449,
+      "mii_capete_2013": 10100
+    },
+    {
+      "categorie": "Oi",
+      "mii_capete_2024": 10443,
+      "mii_capete_2023": 10300,
+      "mii_capete_2022": 10247,
+      "mii_capete_2021": 10087,
+      "mii_capete_2020": 10282,
+      "mii_capete_2019": 10359,
+      "mii_capete_2018": 10176,
+      "mii_capete_2017": 9876,
+      "mii_capete_2016": 9810,
+      "mii_capete_2015": 9518,
+      "mii_capete_2014": 9136,
+      "mii_capete_2013": 8834
+    },
+    {
+      "categorie": "Capre",
+      "mii_capete_2024": 1426,
+      "mii_capete_2023": 1422,
+      "mii_capete_2022": 1483,
+      "mii_capete_2021": 1493,
+      "mii_capete_2020": 1612,
+      "mii_capete_2019": 1595,
+      "mii_capete_2018": 1539,
+      "mii_capete_2017": 1483,
+      "mii_capete_2016": 1440,
+      "mii_capete_2015": 1417,
+      "mii_capete_2014": 1313,
+      "mii_capete_2013": 1266
+    },
+    {
+      "categorie": "Păsări",
+      "mii_capete_2024": "",
+      "mii_capete_2023": 77266,
+      "mii_capete_2022": 82409,
+      "mii_capete_2021": 81991,
+      "mii_capete_2020": 77983,
+      "mii_capete_2019": 77923,
+      "mii_capete_2018": 77983,
+      "mii_capete_2017": 81383,
+      "mii_capete_2016": 84306,
+      "mii_capete_2015": 81130,
+      "mii_capete_2014": 85140,
+      "mii_capete_2013": 85816
+    },
+    {
+      "categorie": "Pui de găină",
+      "mii_capete_2024": "",
+      "mii_capete_2023": 74068,
+      "mii_capete_2022": 78268,
+      "mii_capete_2021": 77148,
+      "mii_capete_2020": 73901,
+      "mii_capete_2019": 73993,
+      "mii_capete_2018": 73289,
+      "mii_capete_2017": 75690,
+      "mii_capete_2016": 78648,
+      "mii_capete_2015": 75447,
+      "mii_capete_2014": 79440,
+      "mii_capete_2013": 80136
+    },
+    {
+      "categorie": "Curcani",
+      "mii_capete_2024": "",
+      "mii_capete_2023": 1137,
+      "mii_capete_2022": "",
+      "mii_capete_2021": "",
+      "mii_capete_2020": 1677,
+      "mii_capete_2019": "",
+      "mii_capete_2018": "",
+      "mii_capete_2017": 1002,
+      "mii_capete_2016": 1000,
+      "mii_capete_2015": 998,
+      "mii_capete_2014": 1000,
+      "mii_capete_2013": 1000
+    }
+  ],
+  "meta": {
+    "title": "Efectivele de animale din România 2013–2024 (mii de capete) - Free Download",
+    "description": "Efectivele de animale domestice din România pe categorii (porci, bovine, ovine, caprine, păsări etc.), în mii de capete, pentru anii 2013–2024. Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Efectivele de animale din România 2013–2024 (mii de capete) | ListBase",
+    "seo_description": "Download Efectivele de animale din România 2013–2024 (mii de capete) — 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records / 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Agricultura_României"
+    ]
+  }
+}

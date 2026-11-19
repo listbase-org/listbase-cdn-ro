@@ -1,12 +1,12 @@
 {
   "lang": "ro",
-  "generated": "2026-11-19T02:18:12.741Z",
-  "total_datasets": 528,
-  "total_records": 170547,
+  "generated": "2026-11-19T02:18:24.794Z",
+  "total_datasets": 529,
+  "total_records": 170558,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "culture",
@@ -102,6 +102,40 @@
     }
   ],
   "datasets": [
+    {
+      "id": "ro-efective-animale-2013-2024",
+      "name": "Efectivele de animale din România 2013–2024 (mii de capete)",
+      "category": "agriculture",
+      "record_count": 11,
+      "columns": [
+        "categorie",
+        "mii_capete_2024",
+        "mii_capete_2023",
+        "mii_capete_2022",
+        "mii_capete_2021",
+        "mii_capete_2020",
+        "mii_capete_2019",
+        "mii_capete_2018",
+        "mii_capete_2017",
+        "mii_capete_2016",
+        "mii_capete_2015",
+        "mii_capete_2014",
+        "mii_capete_2013"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Agricultura_României",
+      "updated": "2026-11",
+      "size": 7289,
+      "files": {
+        "csv": {
+          "name": "ro-efective-animale-2013-2024_RO.csv",
+          "size": 1240
+        },
+        "xlsx": {
+          "name": "ro-efective-animale-2013-2024_RO.xlsx",
+          "size": 7630
+        }
+      }
+    },
     {
       "id": "ro-ministrii-agriculturii",
       "name": "Miniștrii agriculturii ai României (din 1989)",
