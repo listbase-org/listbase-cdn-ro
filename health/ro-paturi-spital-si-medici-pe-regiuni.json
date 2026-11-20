@@ -1,0 +1,344 @@
+{
+  "id": "ro-paturi-spital-si-medici-pe-regiuni",
+  "name": "Paturi de spital și medici la 100.000 de locuitori pe regiuni (2021–2024)",
+  "title": "Paturi de spital și medici la 100.000 de locuitori pe regiuni (2021–2024)",
+  "description": "Numărul de paturi de spital și numărul de medici la 100.000 de locuitori în România și în regiunile de dezvoltare, pe ani, 2021–2024. Sursa: Eurostat (hlth_rs_bdsrg2, hlth_rs_physreg).",
+  "category": "health",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/hlth_rs_bdsrg2/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/hlth_rs_bdsrg2/default/table",
+  "updated": "2026-11",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "cod_nuts",
+      "label": "Cod Nuts",
+      "type": "string"
+    },
+    {
+      "key": "regiune",
+      "label": "Regiune",
+      "type": "string"
+    },
+    {
+      "key": "nivel",
+      "label": "Nivel",
+      "type": "string"
+    },
+    {
+      "key": "an",
+      "label": "An",
+      "type": "number"
+    },
+    {
+      "key": "paturi_spital_la_100000_locuitori",
+      "label": "Paturi Spital La 100000 Locuitori",
+      "type": "number"
+    },
+    {
+      "key": "medici_la_100000_locuitori",
+      "label": "Medici La 100000 Locuitori",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "cod_nuts": "RO",
+      "regiune": "România",
+      "nivel": "țară",
+      "an": 2021,
+      "paturi_spital_la_100000_locuitori": 720.55,
+      "medici_la_100000_locuitori": 350.88
+    },
+    {
+      "cod_nuts": "RO",
+      "regiune": "România",
+      "nivel": "țară",
+      "an": 2022,
+      "paturi_spital_la_100000_locuitori": 727.69,
+      "medici_la_100000_locuitori": 364.78
+    },
+    {
+      "cod_nuts": "RO",
+      "regiune": "România",
+      "nivel": "țară",
+      "an": 2023,
+      "paturi_spital_la_100000_locuitori": 728.41,
+      "medici_la_100000_locuitori": 372.3
+    },
+    {
+      "cod_nuts": "RO",
+      "regiune": "România",
+      "nivel": "țară",
+      "an": 2024,
+      "paturi_spital_la_100000_locuitori": 730.74,
+      "medici_la_100000_locuitori": 381.24
+    },
+    {
+      "cod_nuts": "RO11",
+      "regiune": "Nord-Vest",
+      "nivel": "regiune de dezvoltare",
+      "an": 2021,
+      "paturi_spital_la_100000_locuitori": 746.45,
+      "medici_la_100000_locuitori": 362.19
+    },
+    {
+      "cod_nuts": "RO11",
+      "regiune": "Nord-Vest",
+      "nivel": "regiune de dezvoltare",
+      "an": 2022,
+      "paturi_spital_la_100000_locuitori": 751.74,
+      "medici_la_100000_locuitori": 367.64
+    },
+    {
+      "cod_nuts": "RO11",
+      "regiune": "Nord-Vest",
+      "nivel": "regiune de dezvoltare",
+      "an": 2023,
+      "paturi_spital_la_100000_locuitori": 752.21,
+      "medici_la_100000_locuitori": 371.47
+    },
+    {
+      "cod_nuts": "RO11",
+      "regiune": "Nord-Vest",
+      "nivel": "regiune de dezvoltare",
+      "an": 2024,
+      "paturi_spital_la_100000_locuitori": 753.3,
+      "medici_la_100000_locuitori": 375.51
+    },
+    {
+      "cod_nuts": "RO12",
+      "regiune": "Centru",
+      "nivel": "regiune de dezvoltare",
+      "an": 2021,
+      "paturi_spital_la_100000_locuitori": 753.12,
+      "medici_la_100000_locuitori": 360.44
+    },
+    {
+      "cod_nuts": "RO12",
+      "regiune": "Centru",
+      "nivel": "regiune de dezvoltare",
+      "an": 2022,
+      "paturi_spital_la_100000_locuitori": 750.12,
+      "medici_la_100000_locuitori": 358.88
+    },
+    {
+      "cod_nuts": "RO12",
+      "regiune": "Centru",
+      "nivel": "regiune de dezvoltare",
+      "an": 2023,
+      "paturi_spital_la_100000_locuitori": 747.57,
+      "medici_la_100000_locuitori": 369.93
+    },
+    {
+      "cod_nuts": "RO12",
+      "regiune": "Centru",
+      "nivel": "regiune de dezvoltare",
+      "an": 2024,
+      "paturi_spital_la_100000_locuitori": 748.75,
+      "medici_la_100000_locuitori": 374.31
+    },
+    {
+      "cod_nuts": "RO21",
+      "regiune": "Nord-Est",
+      "nivel": "regiune de dezvoltare",
+      "an": 2021,
+      "paturi_spital_la_100000_locuitori": 649.57,
+      "medici_la_100000_locuitori": 266.84
+    },
+    {
+      "cod_nuts": "RO21",
+      "regiune": "Nord-Est",
+      "nivel": "regiune de dezvoltare",
+      "an": 2022,
+      "paturi_spital_la_100000_locuitori": 660.69,
+      "medici_la_100000_locuitori": 286.25
+    },
+    {
+      "cod_nuts": "RO21",
+      "regiune": "Nord-Est",
+      "nivel": "regiune de dezvoltare",
+      "an": 2023,
+      "paturi_spital_la_100000_locuitori": 663.49,
+      "medici_la_100000_locuitori": 272.79
+    },
+    {
+      "cod_nuts": "RO21",
+      "regiune": "Nord-Est",
+      "nivel": "regiune de dezvoltare",
+      "an": 2024,
+      "paturi_spital_la_100000_locuitori": 667.93,
+      "medici_la_100000_locuitori": 283.13
+    },
+    {
+      "cod_nuts": "RO22",
+      "regiune": "Sud-Est",
+      "nivel": "regiune de dezvoltare",
+      "an": 2021,
+      "paturi_spital_la_100000_locuitori": 633.55,
+      "medici_la_100000_locuitori": 237.42
+    },
+    {
+      "cod_nuts": "RO22",
+      "regiune": "Sud-Est",
+      "nivel": "regiune de dezvoltare",
+      "an": 2022,
+      "paturi_spital_la_100000_locuitori": 631.55,
+      "medici_la_100000_locuitori": 238.99
+    },
+    {
+      "cod_nuts": "RO22",
+      "regiune": "Sud-Est",
+      "nivel": "regiune de dezvoltare",
+      "an": 2023,
+      "paturi_spital_la_100000_locuitori": 634.22,
+      "medici_la_100000_locuitori": 253.92
+    },
+    {
+      "cod_nuts": "RO22",
+      "regiune": "Sud-Est",
+      "nivel": "regiune de dezvoltare",
+      "an": 2024,
+      "paturi_spital_la_100000_locuitori": 638.19,
+      "medici_la_100000_locuitori": 257.55
+    },
+    {
+      "cod_nuts": "RO31",
+      "regiune": "Sud-Muntenia",
+      "nivel": "regiune de dezvoltare",
+      "an": 2021,
+      "paturi_spital_la_100000_locuitori": 536.11,
+      "medici_la_100000_locuitori": 165.44
+    },
+    {
+      "cod_nuts": "RO31",
+      "regiune": "Sud-Muntenia",
+      "nivel": "regiune de dezvoltare",
+      "an": 2022,
+      "paturi_spital_la_100000_locuitori": 538.94,
+      "medici_la_100000_locuitori": 167.1
+    },
+    {
+      "cod_nuts": "RO31",
+      "regiune": "Sud-Muntenia",
+      "nivel": "regiune de dezvoltare",
+      "an": 2023,
+      "paturi_spital_la_100000_locuitori": 541.24,
+      "medici_la_100000_locuitori": 169.87
+    },
+    {
+      "cod_nuts": "RO31",
+      "regiune": "Sud-Muntenia",
+      "nivel": "regiune de dezvoltare",
+      "an": 2024,
+      "paturi_spital_la_100000_locuitori": 542.15,
+      "medici_la_100000_locuitori": 175.46
+    },
+    {
+      "cod_nuts": "RO32",
+      "regiune": "București-Ilfov",
+      "nivel": "regiune de dezvoltare",
+      "an": 2021,
+      "paturi_spital_la_100000_locuitori": 1061.38,
+      "medici_la_100000_locuitori": 721.12
+    },
+    {
+      "cod_nuts": "RO32",
+      "regiune": "București-Ilfov",
+      "nivel": "regiune de dezvoltare",
+      "an": 2022,
+      "paturi_spital_la_100000_locuitori": 1066.6,
+      "medici_la_100000_locuitori": 765.4
+    },
+    {
+      "cod_nuts": "RO32",
+      "regiune": "București-Ilfov",
+      "nivel": "regiune de dezvoltare",
+      "an": 2023,
+      "paturi_spital_la_100000_locuitori": 1056.32,
+      "medici_la_100000_locuitori": 803.73
+    },
+    {
+      "cod_nuts": "RO32",
+      "regiune": "București-Ilfov",
+      "nivel": "regiune de dezvoltare",
+      "an": 2024,
+      "paturi_spital_la_100000_locuitori": 1056.87,
+      "medici_la_100000_locuitori": 818.94
+    },
+    {
+      "cod_nuts": "RO41",
+      "regiune": "Sud-Vest Oltenia",
+      "nivel": "regiune de dezvoltare",
+      "an": 2021,
+      "paturi_spital_la_100000_locuitori": 708.35,
+      "medici_la_100000_locuitori": 331.63
+    },
+    {
+      "cod_nuts": "RO41",
+      "regiune": "Sud-Vest Oltenia",
+      "nivel": "regiune de dezvoltare",
+      "an": 2022,
+      "paturi_spital_la_100000_locuitori": 715.79,
+      "medici_la_100000_locuitori": 338.81
+    },
+    {
+      "cod_nuts": "RO41",
+      "regiune": "Sud-Vest Oltenia",
+      "nivel": "regiune de dezvoltare",
+      "an": 2023,
+      "paturi_spital_la_100000_locuitori": 723.52,
+      "medici_la_100000_locuitori": 343.31
+    },
+    {
+      "cod_nuts": "RO41",
+      "regiune": "Sud-Vest Oltenia",
+      "nivel": "regiune de dezvoltare",
+      "an": 2024,
+      "paturi_spital_la_100000_locuitori": 717.66,
+      "medici_la_100000_locuitori": 350.62
+    },
+    {
+      "cod_nuts": "RO42",
+      "regiune": "Vest",
+      "nivel": "regiune de dezvoltare",
+      "an": 2021,
+      "paturi_spital_la_100000_locuitori": 797.55,
+      "medici_la_100000_locuitori": 495.84
+    },
+    {
+      "cod_nuts": "RO42",
+      "regiune": "Vest",
+      "nivel": "regiune de dezvoltare",
+      "an": 2022,
+      "paturi_spital_la_100000_locuitori": 798.58,
+      "medici_la_100000_locuitori": 517.04
+    },
+    {
+      "cod_nuts": "RO42",
+      "regiune": "Vest",
+      "nivel": "regiune de dezvoltare",
+      "an": 2023,
+      "paturi_spital_la_100000_locuitori": 796.31,
+      "medici_la_100000_locuitori": 517.93
+    },
+    {
+      "cod_nuts": "RO42",
+      "regiune": "Vest",
+      "nivel": "regiune de dezvoltare",
+      "an": 2024,
+      "paturi_spital_la_100000_locuitori": 805.44,
+      "medici_la_100000_locuitori": 539.11
+    }
+  ],
+  "meta": {
+    "title": "Paturi de spital și medici la 100.000 de locuitori pe regiuni (2021–2024) - Free Download",
+    "description": "Numărul de paturi de spital și numărul de medici la 100.000 de locuitori în România și în regiunile de dezvoltare, pe ani, 2021–2024. Sursa: Eurostat (hlth_rs_bdsrg2, hlth_rs_physreg). Contains 36 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Paturi de spital și medici la 100.000 de locuitori pe regiuni (2021–2024) | ListBase",
+    "seo_description": "Download Paturi de spital și medici la 100.000 de locuitori pe regiuni (2021–2024) — 36 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 36 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/hlth_rs_bdsrg2/default/table"
+    ]
+  }
+}

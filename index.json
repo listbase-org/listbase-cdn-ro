@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-19T02:18:38.352Z",
-  "total_datasets": 530,
-  "total_records": 170577,
+  "generated": "2026-11-20T02:24:47.499Z",
+  "total_datasets": 531,
+  "total_records": 170613,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "history",
@@ -6105,6 +6105,33 @@
         "xlsx": {
           "name": "ro-ministri-sanatatii_RO.xlsx",
           "size": 8892
+        }
+      }
+    },
+    {
+      "id": "ro-paturi-spital-si-medici-pe-regiuni",
+      "name": "Paturi de spital și medici la 100.000 de locuitori pe regiuni (2021–2024)",
+      "category": "health",
+      "record_count": 36,
+      "columns": [
+        "cod_nuts",
+        "regiune",
+        "nivel",
+        "an",
+        "paturi_spital_la_100000_locuitori",
+        "medici_la_100000_locuitori"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/hlth_rs_bdsrg2/default/table",
+      "updated": "2026-11",
+      "size": 10152,
+      "files": {
+        "csv": {
+          "name": "ro-paturi-spital-si-medici-pe-regiuni_RO.csv",
+          "size": 2500
+        },
+        "xlsx": {
+          "name": "ro-paturi-spital-si-medici-pe-regiuni_RO.xlsx",
+          "size": 8007
         }
       }
     },
