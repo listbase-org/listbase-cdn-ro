@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-20T02:25:00.248Z",
-  "total_datasets": 532,
-  "total_records": 170626,
+  "generated": "2026-11-20T02:25:10.944Z",
+  "total_datasets": 533,
+  "total_records": 170681,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "sports",
@@ -14121,6 +14121,41 @@
         "xlsx": {
           "name": "ro-statistici-vitale-1946-2025_RO.xlsx",
           "size": 11717
+        }
+      }
+    },
+    {
+      "id": "ro-varsta-mediana-a-populatiei-pe-judete",
+      "name": "Vârsta mediană a populației pe județe și regiuni (2015–2025)",
+      "category": "society",
+      "record_count": 55,
+      "columns": [
+        "cod_nuts",
+        "denumire",
+        "nivel",
+        "varsta_mediana_2015",
+        "varsta_mediana_2016",
+        "varsta_mediana_2017",
+        "varsta_mediana_2018",
+        "varsta_mediana_2019",
+        "varsta_mediana_2020",
+        "varsta_mediana_2021",
+        "varsta_mediana_2022",
+        "varsta_mediana_2023",
+        "varsta_mediana_2024",
+        "varsta_mediana_2025"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/demo_r_pjanind3/default/table",
+      "updated": "2026-11",
+      "size": 29490,
+      "files": {
+        "csv": {
+          "name": "ro-varsta-mediana-a-populatiei-pe-judete_RO.csv",
+          "size": 6062
+        },
+        "xlsx": {
+          "name": "ro-varsta-mediana-a-populatiei-pe-judete_RO.xlsx",
+          "size": 10776
         }
       }
     },
