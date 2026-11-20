@@ -1,0 +1,304 @@
+{
+  "id": "ro-utilizarea-internetului-pe-regiuni",
+  "name": "Utilizarea internetului pe regiuni de dezvoltare (2015–2025)",
+  "title": "Utilizarea internetului pe regiuni de dezvoltare (2015–2025)",
+  "description": "Procentul persoanelor (16–74 de ani) care au utilizat internetul în ultimele 3 luni, în România, pe macroregiuni și regiuni de dezvoltare, 2015–2025. Sursa: Eurostat (isoc_r_iuse_i).",
+  "category": "tech",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/isoc_r_iuse_i/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/isoc_r_iuse_i/default/table",
+  "updated": "2026-11",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "cod_nuts",
+      "label": "Cod Nuts",
+      "type": "string"
+    },
+    {
+      "key": "denumire",
+      "label": "Denumire",
+      "type": "string"
+    },
+    {
+      "key": "nivel",
+      "label": "Nivel",
+      "type": "string"
+    },
+    {
+      "key": "procent_2015",
+      "label": "Procent 2015",
+      "type": "number"
+    },
+    {
+      "key": "procent_2016",
+      "label": "Procent 2016",
+      "type": "number"
+    },
+    {
+      "key": "procent_2017",
+      "label": "Procent 2017",
+      "type": "number"
+    },
+    {
+      "key": "procent_2018",
+      "label": "Procent 2018",
+      "type": "number"
+    },
+    {
+      "key": "procent_2019",
+      "label": "Procent 2019",
+      "type": "number"
+    },
+    {
+      "key": "procent_2020",
+      "label": "Procent 2020",
+      "type": "number"
+    },
+    {
+      "key": "procent_2021",
+      "label": "Procent 2021",
+      "type": "number"
+    },
+    {
+      "key": "procent_2022",
+      "label": "Procent 2022",
+      "type": "number"
+    },
+    {
+      "key": "procent_2023",
+      "label": "Procent 2023",
+      "type": "number"
+    },
+    {
+      "key": "procent_2024",
+      "label": "Procent 2024",
+      "type": "number"
+    },
+    {
+      "key": "procent_2025",
+      "label": "Procent 2025",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "cod_nuts": "RO",
+      "denumire": "România",
+      "nivel": "țară",
+      "procent_2015": 51.79,
+      "procent_2016": 56.33,
+      "procent_2017": 60.78,
+      "procent_2018": 68.3,
+      "procent_2019": 71.56,
+      "procent_2020": 76.19,
+      "procent_2021": 81.82,
+      "procent_2022": 84.05,
+      "procent_2023": 88.05,
+      "procent_2024": 90.44,
+      "procent_2025": 92.43
+    },
+    {
+      "cod_nuts": "RO1",
+      "denumire": "Macroregiunea Unu",
+      "nivel": "macroregiune",
+      "procent_2015": 52.64,
+      "procent_2016": 57.73,
+      "procent_2017": 61.97,
+      "procent_2018": 71.11,
+      "procent_2019": 75.41,
+      "procent_2020": 77.99,
+      "procent_2021": 84.71,
+      "procent_2022": 86.6,
+      "procent_2023": 88.1,
+      "procent_2024": 93.34,
+      "procent_2025": 93.66
+    },
+    {
+      "cod_nuts": "RO11",
+      "denumire": "Nord-Vest",
+      "nivel": "regiune de dezvoltare",
+      "procent_2015": 51.96,
+      "procent_2016": 57.7,
+      "procent_2017": 64.48,
+      "procent_2018": 75.25,
+      "procent_2019": 80.33,
+      "procent_2020": 80.98,
+      "procent_2021": 86.33,
+      "procent_2022": 87.42,
+      "procent_2023": 89.39,
+      "procent_2024": 95.05,
+      "procent_2025": 92.37
+    },
+    {
+      "cod_nuts": "RO12",
+      "denumire": "Centru",
+      "nivel": "regiune de dezvoltare",
+      "procent_2015": 53.4,
+      "procent_2016": 57.77,
+      "procent_2017": 59.15,
+      "procent_2018": 66.49,
+      "procent_2019": 69.91,
+      "procent_2020": 74.65,
+      "procent_2021": 82.91,
+      "procent_2022": 85.68,
+      "procent_2023": 86.64,
+      "procent_2024": 91.44,
+      "procent_2025": 95.09
+    },
+    {
+      "cod_nuts": "RO2",
+      "denumire": "Macroregiunea Doi",
+      "nivel": "macroregiune",
+      "procent_2015": 46.26,
+      "procent_2016": 51.76,
+      "procent_2017": 54.7,
+      "procent_2018": 61.65,
+      "procent_2019": 67.58,
+      "procent_2020": 73.04,
+      "procent_2021": 80.23,
+      "procent_2022": 81.59,
+      "procent_2023": 87.65,
+      "procent_2024": 88.38,
+      "procent_2025": 91.61
+    },
+    {
+      "cod_nuts": "RO21",
+      "denumire": "Nord-Est",
+      "nivel": "regiune de dezvoltare",
+      "procent_2015": 46.58,
+      "procent_2016": 51.4,
+      "procent_2017": 54.55,
+      "procent_2018": 62.12,
+      "procent_2019": 68.96,
+      "procent_2020": 73.28,
+      "procent_2021": 81.63,
+      "procent_2022": 81.64,
+      "procent_2023": 89.56,
+      "procent_2024": 90.2,
+      "procent_2025": 93.28
+    },
+    {
+      "cod_nuts": "RO22",
+      "denumire": "Sud-Est",
+      "nivel": "regiune de dezvoltare",
+      "procent_2015": 45.86,
+      "procent_2016": 52.23,
+      "procent_2017": 54.89,
+      "procent_2018": 61.04,
+      "procent_2019": 65.79,
+      "procent_2020": 72.73,
+      "procent_2021": 78.39,
+      "procent_2022": 81.54,
+      "procent_2023": 85.13,
+      "procent_2024": 85.98,
+      "procent_2025": 89.36
+    },
+    {
+      "cod_nuts": "RO3",
+      "denumire": "Macroregiunea Trei",
+      "nivel": "macroregiune",
+      "procent_2015": 57.47,
+      "procent_2016": 59.93,
+      "procent_2017": 64.72,
+      "procent_2018": 71.9,
+      "procent_2019": 71.4,
+      "procent_2020": 76.48,
+      "procent_2021": 81.46,
+      "procent_2022": 84.88,
+      "procent_2023": 87.9,
+      "procent_2024": 90.68,
+      "procent_2025": 92.17
+    },
+    {
+      "cod_nuts": "RO31",
+      "denumire": "Sud-Muntenia",
+      "nivel": "regiune de dezvoltare",
+      "procent_2015": 47.33,
+      "procent_2016": 48.47,
+      "procent_2017": 56.51,
+      "procent_2018": 64.22,
+      "procent_2019": 68.54,
+      "procent_2020": 73.35,
+      "procent_2021": 79.3,
+      "procent_2022": 79.99,
+      "procent_2023": 83.45,
+      "procent_2024": 89.99,
+      "procent_2025": 90.91
+    },
+    {
+      "cod_nuts": "RO32",
+      "denumire": "București-Ilfov",
+      "nivel": "regiune de dezvoltare",
+      "procent_2015": 70.53,
+      "procent_2016": 74.55,
+      "procent_2017": 75.08,
+      "procent_2018": 80.84,
+      "procent_2019": 74.92,
+      "procent_2020": 80.05,
+      "procent_2021": 84.07,
+      "procent_2022": 90.16,
+      "procent_2023": 93.35,
+      "procent_2024": 91.5,
+      "procent_2025": 93.69
+    },
+    {
+      "cod_nuts": "RO4",
+      "denumire": "Macroregiunea Patru",
+      "nivel": "macroregiune",
+      "procent_2015": 50.81,
+      "procent_2016": 56.16,
+      "procent_2017": 62.57,
+      "procent_2018": 69.14,
+      "procent_2019": 72.61,
+      "procent_2020": 77.91,
+      "procent_2021": 80.86,
+      "procent_2022": 83.09,
+      "procent_2023": 88.81,
+      "procent_2024": 89.32,
+      "procent_2025": 92.41
+    },
+    {
+      "cod_nuts": "RO41",
+      "denumire": "Sud-Vest Oltenia",
+      "nivel": "regiune de dezvoltare",
+      "procent_2015": 45.64,
+      "procent_2016": 54.62,
+      "procent_2017": 57.62,
+      "procent_2018": 65.67,
+      "procent_2019": 69.4,
+      "procent_2020": 73.52,
+      "procent_2021": 77.31,
+      "procent_2022": 82.52,
+      "procent_2023": 86.72,
+      "procent_2024": 85.35,
+      "procent_2025": 92.04
+    },
+    {
+      "cod_nuts": "RO42",
+      "denumire": "Vest",
+      "nivel": "regiune de dezvoltare",
+      "procent_2015": 56.45,
+      "procent_2016": 57.84,
+      "procent_2017": 67.94,
+      "procent_2018": 72.87,
+      "procent_2019": 76.03,
+      "procent_2020": 82.05,
+      "procent_2021": 84.64,
+      "procent_2022": 83.68,
+      "procent_2023": 91.13,
+      "procent_2024": 93.53,
+      "procent_2025": 92.83
+    }
+  ],
+  "meta": {
+    "title": "Utilizarea internetului pe regiuni de dezvoltare (2015–2025) - Free Download",
+    "description": "Procentul persoanelor (16–74 de ani) care au utilizat internetul în ultimele 3 luni, în România, pe macroregiuni și regiuni de dezvoltare, 2015–2025. Sursa: Eurostat (isoc_r_iuse_i). Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Utilizarea internetului pe regiuni de dezvoltare (2015–2025) | ListBase",
+    "seo_description": "Download Utilizarea internetului pe regiuni de dezvoltare (2015–2025) — 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records / 14 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/isoc_r_iuse_i/default/table"
+    ]
+  }
+}

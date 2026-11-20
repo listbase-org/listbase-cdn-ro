@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-20T02:24:47.499Z",
-  "total_datasets": 531,
-  "total_records": 170613,
+  "generated": "2026-11-20T02:25:00.248Z",
+  "total_datasets": 532,
+  "total_records": 170626,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "time",
@@ -14472,6 +14472,41 @@
         "xlsx": {
           "name": "ro-prefixe-telefonice-judete_RO.xlsx",
           "size": 7862
+        }
+      }
+    },
+    {
+      "id": "ro-utilizarea-internetului-pe-regiuni",
+      "name": "Utilizarea internetului pe regiuni de dezvoltare (2015–2025)",
+      "category": "tech",
+      "record_count": 13,
+      "columns": [
+        "cod_nuts",
+        "denumire",
+        "nivel",
+        "procent_2015",
+        "procent_2016",
+        "procent_2017",
+        "procent_2018",
+        "procent_2019",
+        "procent_2020",
+        "procent_2021",
+        "procent_2022",
+        "procent_2023",
+        "procent_2024",
+        "procent_2025"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/isoc_r_iuse_i/default/table",
+      "updated": "2026-11",
+      "size": 8418,
+      "files": {
+        "csv": {
+          "name": "ro-utilizarea-internetului-pe-regiuni_RO.csv",
+          "size": 1869
+        },
+        "xlsx": {
+          "name": "ro-utilizarea-internetului-pe-regiuni_RO.xlsx",
+          "size": 8081
         }
       }
     },
