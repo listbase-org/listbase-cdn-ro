@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-20T02:25:10.944Z",
-  "total_datasets": 533,
-  "total_records": 170681,
+  "generated": "2026-11-23T02:28:23.750Z",
+  "total_datasets": 534,
+  "total_records": 170824,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "transport",
@@ -14743,6 +14743,33 @@
         "xlsx": {
           "name": "ro-atractii-turistice_RO.xlsx",
           "size": 43160
+        }
+      }
+    },
+    {
+      "id": "ro-capacitate-cazare-turistica-pe-regiuni",
+      "name": "Capacitatea de cazare turistică pe regiuni ale României (2015–2025)",
+      "category": "tourism",
+      "record_count": 143,
+      "columns": [
+        "cod_nuts",
+        "regiune",
+        "nivel",
+        "an",
+        "structuri_de_cazare",
+        "locuri_de_cazare"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/tour_cap_nuts2/default/table",
+      "updated": "2026-11",
+      "size": 29806,
+      "files": {
+        "csv": {
+          "name": "ro-capacitate-cazare-turistica-pe-regiuni_RO.csv",
+          "size": 9177
+        },
+        "xlsx": {
+          "name": "ro-capacitate-cazare-turistica-pe-regiuni_RO.xlsx",
+          "size": 11120
         }
       }
     },

@@ -1,0 +1,1200 @@
+{
+  "id": "ro-capacitate-cazare-turistica-pe-regiuni",
+  "name": "Capacitatea de cazare turistică pe regiuni ale României (2015–2025)",
+  "title": "Capacitatea de cazare turistică pe regiuni ale României (2015–2025)",
+  "description": "Numărul structurilor de primire turistică (hoteluri, pensiuni, cazare de vacanță, campinguri) și numărul de locuri de cazare în România, pe macroregiuni și regiuni de dezvoltare, 2015–2025. Date Eurostat (tour_cap_nuts2).",
+  "category": "tourism",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/tour_cap_nuts2/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/tour_cap_nuts2/default/table",
+  "updated": "2026-11",
+  "record_count": 143,
+  "columns": [
+    {
+      "key": "cod_nuts",
+      "label": "Cod Nuts",
+      "type": "string"
+    },
+    {
+      "key": "regiune",
+      "label": "Regiune",
+      "type": "string"
+    },
+    {
+      "key": "nivel",
+      "label": "Nivel",
+      "type": "string"
+    },
+    {
+      "key": "an",
+      "label": "An",
+      "type": "number"
+    },
+    {
+      "key": "structuri_de_cazare",
+      "label": "Structuri De Cazare",
+      "type": "number"
+    },
+    {
+      "key": "locuri_de_cazare",
+      "label": "Locuri De Cazare",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "cod_nuts": "RO",
+      "regiune": "România",
+      "nivel": "țară",
+      "an": 2015,
+      "structuri_de_cazare": 6949,
+      "locuri_de_cazare": 325841
+    },
+    {
+      "cod_nuts": "RO",
+      "regiune": "România",
+      "nivel": "țară",
+      "an": 2016,
+      "structuri_de_cazare": 7028,
+      "locuri_de_cazare": 326098
+    },
+    {
+      "cod_nuts": "RO",
+      "regiune": "România",
+      "nivel": "țară",
+      "an": 2017,
+      "structuri_de_cazare": 7762,
+      "locuri_de_cazare": 338791
+    },
+    {
+      "cod_nuts": "RO",
+      "regiune": "România",
+      "nivel": "țară",
+      "an": 2018,
+      "structuri_de_cazare": 7720,
+      "locuri_de_cazare": 348592
+    },
+    {
+      "cod_nuts": "RO",
+      "regiune": "România",
+      "nivel": "țară",
+      "an": 2019,
+      "structuri_de_cazare": 8202,
+      "locuri_de_cazare": 351161
+    },
+    {
+      "cod_nuts": "RO",
+      "regiune": "România",
+      "nivel": "țară",
+      "an": 2020,
+      "structuri_de_cazare": 8362,
+      "locuri_de_cazare": 352484
+    },
+    {
+      "cod_nuts": "RO",
+      "regiune": "România",
+      "nivel": "țară",
+      "an": 2021,
+      "structuri_de_cazare": 10767,
+      "locuri_de_cazare": 399186
+    },
+    {
+      "cod_nuts": "RO",
+      "regiune": "România",
+      "nivel": "țară",
+      "an": 2022,
+      "structuri_de_cazare": 11053,
+      "locuri_de_cazare": 409688
+    },
+    {
+      "cod_nuts": "RO",
+      "regiune": "România",
+      "nivel": "țară",
+      "an": 2023,
+      "structuri_de_cazare": 11547,
+      "locuri_de_cazare": 419921
+    },
+    {
+      "cod_nuts": "RO",
+      "regiune": "România",
+      "nivel": "țară",
+      "an": 2024,
+      "structuri_de_cazare": 12223,
+      "locuri_de_cazare": 434333
+    },
+    {
+      "cod_nuts": "RO",
+      "regiune": "România",
+      "nivel": "țară",
+      "an": 2025,
+      "structuri_de_cazare": 12841,
+      "locuri_de_cazare": 447361
+    },
+    {
+      "cod_nuts": "RO1",
+      "regiune": "Macroregiunea Unu",
+      "nivel": "macroregiune",
+      "an": 2015,
+      "structuri_de_cazare": 3047,
+      "locuri_de_cazare": 99810
+    },
+    {
+      "cod_nuts": "RO1",
+      "regiune": "Macroregiunea Unu",
+      "nivel": "macroregiune",
+      "an": 2016,
+      "structuri_de_cazare": 3082,
+      "locuri_de_cazare": 99931
+    },
+    {
+      "cod_nuts": "RO1",
+      "regiune": "Macroregiunea Unu",
+      "nivel": "macroregiune",
+      "an": 2017,
+      "structuri_de_cazare": 3405,
+      "locuri_de_cazare": 106229
+    },
+    {
+      "cod_nuts": "RO1",
+      "regiune": "Macroregiunea Unu",
+      "nivel": "macroregiune",
+      "an": 2018,
+      "structuri_de_cazare": 3125,
+      "locuri_de_cazare": 109057
+    },
+    {
+      "cod_nuts": "RO1",
+      "regiune": "Macroregiunea Unu",
+      "nivel": "macroregiune",
+      "an": 2019,
+      "structuri_de_cazare": 3289,
+      "locuri_de_cazare": 106796
+    },
+    {
+      "cod_nuts": "RO1",
+      "regiune": "Macroregiunea Unu",
+      "nivel": "macroregiune",
+      "an": 2020,
+      "structuri_de_cazare": 3417,
+      "locuri_de_cazare": 109947
+    },
+    {
+      "cod_nuts": "RO1",
+      "regiune": "Macroregiunea Unu",
+      "nivel": "macroregiune",
+      "an": 2021,
+      "structuri_de_cazare": 4256,
+      "locuri_de_cazare": 125041
+    },
+    {
+      "cod_nuts": "RO1",
+      "regiune": "Macroregiunea Unu",
+      "nivel": "macroregiune",
+      "an": 2022,
+      "structuri_de_cazare": 4430,
+      "locuri_de_cazare": 127753
+    },
+    {
+      "cod_nuts": "RO1",
+      "regiune": "Macroregiunea Unu",
+      "nivel": "macroregiune",
+      "an": 2023,
+      "structuri_de_cazare": 4691,
+      "locuri_de_cazare": 131391
+    },
+    {
+      "cod_nuts": "RO1",
+      "regiune": "Macroregiunea Unu",
+      "nivel": "macroregiune",
+      "an": 2024,
+      "structuri_de_cazare": 4948,
+      "locuri_de_cazare": 136541
+    },
+    {
+      "cod_nuts": "RO1",
+      "regiune": "Macroregiunea Unu",
+      "nivel": "macroregiune",
+      "an": 2025,
+      "structuri_de_cazare": 5192,
+      "locuri_de_cazare": 141115
+    },
+    {
+      "cod_nuts": "RO11",
+      "regiune": "Nord-Vest",
+      "nivel": "regiune de dezvoltare",
+      "an": 2015,
+      "structuri_de_cazare": 742,
+      "locuri_de_cazare": 31938
+    },
+    {
+      "cod_nuts": "RO11",
+      "regiune": "Nord-Vest",
+      "nivel": "regiune de dezvoltare",
+      "an": 2016,
+      "structuri_de_cazare": 800,
+      "locuri_de_cazare": 33551
+    },
+    {
+      "cod_nuts": "RO11",
+      "regiune": "Nord-Vest",
+      "nivel": "regiune de dezvoltare",
+      "an": 2017,
+      "structuri_de_cazare": 934,
+      "locuri_de_cazare": 37080
+    },
+    {
+      "cod_nuts": "RO11",
+      "regiune": "Nord-Vest",
+      "nivel": "regiune de dezvoltare",
+      "an": 2018,
+      "structuri_de_cazare": 1028,
+      "locuri_de_cazare": 40174
+    },
+    {
+      "cod_nuts": "RO11",
+      "regiune": "Nord-Vest",
+      "nivel": "regiune de dezvoltare",
+      "an": 2019,
+      "structuri_de_cazare": 1045,
+      "locuri_de_cazare": 39418
+    },
+    {
+      "cod_nuts": "RO11",
+      "regiune": "Nord-Vest",
+      "nivel": "regiune de dezvoltare",
+      "an": 2020,
+      "structuri_de_cazare": 1137,
+      "locuri_de_cazare": 41614
+    },
+    {
+      "cod_nuts": "RO11",
+      "regiune": "Nord-Vest",
+      "nivel": "regiune de dezvoltare",
+      "an": 2021,
+      "structuri_de_cazare": 1528,
+      "locuri_de_cazare": 47287
+    },
+    {
+      "cod_nuts": "RO11",
+      "regiune": "Nord-Vest",
+      "nivel": "regiune de dezvoltare",
+      "an": 2022,
+      "structuri_de_cazare": 1650,
+      "locuri_de_cazare": 49500
+    },
+    {
+      "cod_nuts": "RO11",
+      "regiune": "Nord-Vest",
+      "nivel": "regiune de dezvoltare",
+      "an": 2023,
+      "structuri_de_cazare": 1743,
+      "locuri_de_cazare": 52061
+    },
+    {
+      "cod_nuts": "RO11",
+      "regiune": "Nord-Vest",
+      "nivel": "regiune de dezvoltare",
+      "an": 2024,
+      "structuri_de_cazare": 1869,
+      "locuri_de_cazare": 53602
+    },
+    {
+      "cod_nuts": "RO11",
+      "regiune": "Nord-Vest",
+      "nivel": "regiune de dezvoltare",
+      "an": 2025,
+      "structuri_de_cazare": 1955,
+      "locuri_de_cazare": 54998
+    },
+    {
+      "cod_nuts": "RO12",
+      "regiune": "Centru",
+      "nivel": "regiune de dezvoltare",
+      "an": 2015,
+      "structuri_de_cazare": 2305,
+      "locuri_de_cazare": 67872
+    },
+    {
+      "cod_nuts": "RO12",
+      "regiune": "Centru",
+      "nivel": "regiune de dezvoltare",
+      "an": 2016,
+      "structuri_de_cazare": 2282,
+      "locuri_de_cazare": 66380
+    },
+    {
+      "cod_nuts": "RO12",
+      "regiune": "Centru",
+      "nivel": "regiune de dezvoltare",
+      "an": 2017,
+      "structuri_de_cazare": 2471,
+      "locuri_de_cazare": 69149
+    },
+    {
+      "cod_nuts": "RO12",
+      "regiune": "Centru",
+      "nivel": "regiune de dezvoltare",
+      "an": 2018,
+      "structuri_de_cazare": 2097,
+      "locuri_de_cazare": 68883
+    },
+    {
+      "cod_nuts": "RO12",
+      "regiune": "Centru",
+      "nivel": "regiune de dezvoltare",
+      "an": 2019,
+      "structuri_de_cazare": 2244,
+      "locuri_de_cazare": 67378
+    },
+    {
+      "cod_nuts": "RO12",
+      "regiune": "Centru",
+      "nivel": "regiune de dezvoltare",
+      "an": 2020,
+      "structuri_de_cazare": 2280,
+      "locuri_de_cazare": 68333
+    },
+    {
+      "cod_nuts": "RO12",
+      "regiune": "Centru",
+      "nivel": "regiune de dezvoltare",
+      "an": 2021,
+      "structuri_de_cazare": 2728,
+      "locuri_de_cazare": 77754
+    },
+    {
+      "cod_nuts": "RO12",
+      "regiune": "Centru",
+      "nivel": "regiune de dezvoltare",
+      "an": 2022,
+      "structuri_de_cazare": 2780,
+      "locuri_de_cazare": 78253
+    },
+    {
+      "cod_nuts": "RO12",
+      "regiune": "Centru",
+      "nivel": "regiune de dezvoltare",
+      "an": 2023,
+      "structuri_de_cazare": 2948,
+      "locuri_de_cazare": 79330
+    },
+    {
+      "cod_nuts": "RO12",
+      "regiune": "Centru",
+      "nivel": "regiune de dezvoltare",
+      "an": 2024,
+      "structuri_de_cazare": 3079,
+      "locuri_de_cazare": 82939
+    },
+    {
+      "cod_nuts": "RO12",
+      "regiune": "Centru",
+      "nivel": "regiune de dezvoltare",
+      "an": 2025,
+      "structuri_de_cazare": 3237,
+      "locuri_de_cazare": 86117
+    },
+    {
+      "cod_nuts": "RO2",
+      "regiune": "Macroregiunea Doi",
+      "nivel": "macroregiune",
+      "an": 2015,
+      "structuri_de_cazare": 1941,
+      "locuri_de_cazare": 128649
+    },
+    {
+      "cod_nuts": "RO2",
+      "regiune": "Macroregiunea Doi",
+      "nivel": "macroregiune",
+      "an": 2016,
+      "structuri_de_cazare": 1967,
+      "locuri_de_cazare": 126935
+    },
+    {
+      "cod_nuts": "RO2",
+      "regiune": "Macroregiunea Doi",
+      "nivel": "macroregiune",
+      "an": 2017,
+      "structuri_de_cazare": 2112,
+      "locuri_de_cazare": 128107
+    },
+    {
+      "cod_nuts": "RO2",
+      "regiune": "Macroregiunea Doi",
+      "nivel": "macroregiune",
+      "an": 2018,
+      "structuri_de_cazare": 2309,
+      "locuri_de_cazare": 133744
+    },
+    {
+      "cod_nuts": "RO2",
+      "regiune": "Macroregiunea Doi",
+      "nivel": "macroregiune",
+      "an": 2019,
+      "structuri_de_cazare": 2549,
+      "locuri_de_cazare": 138034
+    },
+    {
+      "cod_nuts": "RO2",
+      "regiune": "Macroregiunea Doi",
+      "nivel": "macroregiune",
+      "an": 2020,
+      "structuri_de_cazare": 2623,
+      "locuri_de_cazare": 139288
+    },
+    {
+      "cod_nuts": "RO2",
+      "regiune": "Macroregiunea Doi",
+      "nivel": "macroregiune",
+      "an": 2021,
+      "structuri_de_cazare": 3682,
+      "locuri_de_cazare": 159433
+    },
+    {
+      "cod_nuts": "RO2",
+      "regiune": "Macroregiunea Doi",
+      "nivel": "macroregiune",
+      "an": 2022,
+      "structuri_de_cazare": 3764,
+      "locuri_de_cazare": 165759
+    },
+    {
+      "cod_nuts": "RO2",
+      "regiune": "Macroregiunea Doi",
+      "nivel": "macroregiune",
+      "an": 2023,
+      "structuri_de_cazare": 3897,
+      "locuri_de_cazare": 172188
+    },
+    {
+      "cod_nuts": "RO2",
+      "regiune": "Macroregiunea Doi",
+      "nivel": "macroregiune",
+      "an": 2024,
+      "structuri_de_cazare": 4148,
+      "locuri_de_cazare": 178068
+    },
+    {
+      "cod_nuts": "RO2",
+      "regiune": "Macroregiunea Doi",
+      "nivel": "macroregiune",
+      "an": 2025,
+      "structuri_de_cazare": 4369,
+      "locuri_de_cazare": 183877
+    },
+    {
+      "cod_nuts": "RO21",
+      "regiune": "Nord-Est",
+      "nivel": "regiune de dezvoltare",
+      "an": 2015,
+      "structuri_de_cazare": 806,
+      "locuri_de_cazare": 27908
+    },
+    {
+      "cod_nuts": "RO21",
+      "regiune": "Nord-Est",
+      "nivel": "regiune de dezvoltare",
+      "an": 2016,
+      "structuri_de_cazare": 816,
+      "locuri_de_cazare": 28361
+    },
+    {
+      "cod_nuts": "RO21",
+      "regiune": "Nord-Est",
+      "nivel": "regiune de dezvoltare",
+      "an": 2017,
+      "structuri_de_cazare": 860,
+      "locuri_de_cazare": 30145
+    },
+    {
+      "cod_nuts": "RO21",
+      "regiune": "Nord-Est",
+      "nivel": "regiune de dezvoltare",
+      "an": 2018,
+      "structuri_de_cazare": 913,
+      "locuri_de_cazare": 30272
+    },
+    {
+      "cod_nuts": "RO21",
+      "regiune": "Nord-Est",
+      "nivel": "regiune de dezvoltare",
+      "an": 2019,
+      "structuri_de_cazare": 962,
+      "locuri_de_cazare": 30406
+    },
+    {
+      "cod_nuts": "RO21",
+      "regiune": "Nord-Est",
+      "nivel": "regiune de dezvoltare",
+      "an": 2020,
+      "structuri_de_cazare": 1057,
+      "locuri_de_cazare": 31531
+    },
+    {
+      "cod_nuts": "RO21",
+      "regiune": "Nord-Est",
+      "nivel": "regiune de dezvoltare",
+      "an": 2021,
+      "structuri_de_cazare": 1287,
+      "locuri_de_cazare": 35008
+    },
+    {
+      "cod_nuts": "RO21",
+      "regiune": "Nord-Est",
+      "nivel": "regiune de dezvoltare",
+      "an": 2022,
+      "structuri_de_cazare": 1341,
+      "locuri_de_cazare": 36433
+    },
+    {
+      "cod_nuts": "RO21",
+      "regiune": "Nord-Est",
+      "nivel": "regiune de dezvoltare",
+      "an": 2023,
+      "structuri_de_cazare": 1401,
+      "locuri_de_cazare": 37260
+    },
+    {
+      "cod_nuts": "RO21",
+      "regiune": "Nord-Est",
+      "nivel": "regiune de dezvoltare",
+      "an": 2024,
+      "structuri_de_cazare": 1461,
+      "locuri_de_cazare": 37423
+    },
+    {
+      "cod_nuts": "RO21",
+      "regiune": "Nord-Est",
+      "nivel": "regiune de dezvoltare",
+      "an": 2025,
+      "structuri_de_cazare": 1532,
+      "locuri_de_cazare": 38591
+    },
+    {
+      "cod_nuts": "RO22",
+      "regiune": "Sud-Est",
+      "nivel": "regiune de dezvoltare",
+      "an": 2015,
+      "structuri_de_cazare": 1135,
+      "locuri_de_cazare": 100741
+    },
+    {
+      "cod_nuts": "RO22",
+      "regiune": "Sud-Est",
+      "nivel": "regiune de dezvoltare",
+      "an": 2016,
+      "structuri_de_cazare": 1151,
+      "locuri_de_cazare": 98574
+    },
+    {
+      "cod_nuts": "RO22",
+      "regiune": "Sud-Est",
+      "nivel": "regiune de dezvoltare",
+      "an": 2017,
+      "structuri_de_cazare": 1252,
+      "locuri_de_cazare": 97962
+    },
+    {
+      "cod_nuts": "RO22",
+      "regiune": "Sud-Est",
+      "nivel": "regiune de dezvoltare",
+      "an": 2018,
+      "structuri_de_cazare": 1396,
+      "locuri_de_cazare": 103472
+    },
+    {
+      "cod_nuts": "RO22",
+      "regiune": "Sud-Est",
+      "nivel": "regiune de dezvoltare",
+      "an": 2019,
+      "structuri_de_cazare": 1587,
+      "locuri_de_cazare": 107628
+    },
+    {
+      "cod_nuts": "RO22",
+      "regiune": "Sud-Est",
+      "nivel": "regiune de dezvoltare",
+      "an": 2020,
+      "structuri_de_cazare": 1566,
+      "locuri_de_cazare": 107757
+    },
+    {
+      "cod_nuts": "RO22",
+      "regiune": "Sud-Est",
+      "nivel": "regiune de dezvoltare",
+      "an": 2021,
+      "structuri_de_cazare": 2395,
+      "locuri_de_cazare": 124425
+    },
+    {
+      "cod_nuts": "RO22",
+      "regiune": "Sud-Est",
+      "nivel": "regiune de dezvoltare",
+      "an": 2022,
+      "structuri_de_cazare": 2423,
+      "locuri_de_cazare": 129326
+    },
+    {
+      "cod_nuts": "RO22",
+      "regiune": "Sud-Est",
+      "nivel": "regiune de dezvoltare",
+      "an": 2023,
+      "structuri_de_cazare": 2496,
+      "locuri_de_cazare": 134928
+    },
+    {
+      "cod_nuts": "RO22",
+      "regiune": "Sud-Est",
+      "nivel": "regiune de dezvoltare",
+      "an": 2024,
+      "structuri_de_cazare": 2687,
+      "locuri_de_cazare": 140645
+    },
+    {
+      "cod_nuts": "RO22",
+      "regiune": "Sud-Est",
+      "nivel": "regiune de dezvoltare",
+      "an": 2025,
+      "structuri_de_cazare": 2837,
+      "locuri_de_cazare": 145286
+    },
+    {
+      "cod_nuts": "RO3",
+      "regiune": "Macroregiunea Trei",
+      "nivel": "macroregiune",
+      "an": 2015,
+      "structuri_de_cazare": 924,
+      "locuri_de_cazare": 51179
+    },
+    {
+      "cod_nuts": "RO3",
+      "regiune": "Macroregiunea Trei",
+      "nivel": "macroregiune",
+      "an": 2016,
+      "structuri_de_cazare": 912,
+      "locuri_de_cazare": 52283
+    },
+    {
+      "cod_nuts": "RO3",
+      "regiune": "Macroregiunea Trei",
+      "nivel": "macroregiune",
+      "an": 2017,
+      "structuri_de_cazare": 1022,
+      "locuri_de_cazare": 53989
+    },
+    {
+      "cod_nuts": "RO3",
+      "regiune": "Macroregiunea Trei",
+      "nivel": "macroregiune",
+      "an": 2018,
+      "structuri_de_cazare": 967,
+      "locuri_de_cazare": 53737
+    },
+    {
+      "cod_nuts": "RO3",
+      "regiune": "Macroregiunea Trei",
+      "nivel": "macroregiune",
+      "an": 2019,
+      "structuri_de_cazare": 1001,
+      "locuri_de_cazare": 53988
+    },
+    {
+      "cod_nuts": "RO3",
+      "regiune": "Macroregiunea Trei",
+      "nivel": "macroregiune",
+      "an": 2020,
+      "structuri_de_cazare": 942,
+      "locuri_de_cazare": 51772
+    },
+    {
+      "cod_nuts": "RO3",
+      "regiune": "Macroregiunea Trei",
+      "nivel": "macroregiune",
+      "an": 2021,
+      "structuri_de_cazare": 1254,
+      "locuri_de_cazare": 59417
+    },
+    {
+      "cod_nuts": "RO3",
+      "regiune": "Macroregiunea Trei",
+      "nivel": "macroregiune",
+      "an": 2022,
+      "structuri_de_cazare": 1233,
+      "locuri_de_cazare": 59892
+    },
+    {
+      "cod_nuts": "RO3",
+      "regiune": "Macroregiunea Trei",
+      "nivel": "macroregiune",
+      "an": 2023,
+      "structuri_de_cazare": 1239,
+      "locuri_de_cazare": 58422
+    },
+    {
+      "cod_nuts": "RO3",
+      "regiune": "Macroregiunea Trei",
+      "nivel": "macroregiune",
+      "an": 2024,
+      "structuri_de_cazare": 1330,
+      "locuri_de_cazare": 60007
+    },
+    {
+      "cod_nuts": "RO3",
+      "regiune": "Macroregiunea Trei",
+      "nivel": "macroregiune",
+      "an": 2025,
+      "structuri_de_cazare": 1412,
+      "locuri_de_cazare": 62364
+    },
+    {
+      "cod_nuts": "RO31",
+      "regiune": "Sud-Muntenia",
+      "nivel": "regiune de dezvoltare",
+      "an": 2015,
+      "structuri_de_cazare": 742,
+      "locuri_de_cazare": 29603
+    },
+    {
+      "cod_nuts": "RO31",
+      "regiune": "Sud-Muntenia",
+      "nivel": "regiune de dezvoltare",
+      "an": 2016,
+      "structuri_de_cazare": 727,
+      "locuri_de_cazare": 30041
+    },
+    {
+      "cod_nuts": "RO31",
+      "regiune": "Sud-Muntenia",
+      "nivel": "regiune de dezvoltare",
+      "an": 2017,
+      "structuri_de_cazare": 813,
+      "locuri_de_cazare": 31033
+    },
+    {
+      "cod_nuts": "RO31",
+      "regiune": "Sud-Muntenia",
+      "nivel": "regiune de dezvoltare",
+      "an": 2018,
+      "structuri_de_cazare": 747,
+      "locuri_de_cazare": 29864
+    },
+    {
+      "cod_nuts": "RO31",
+      "regiune": "Sud-Muntenia",
+      "nivel": "regiune de dezvoltare",
+      "an": 2019,
+      "structuri_de_cazare": 791,
+      "locuri_de_cazare": 29694
+    },
+    {
+      "cod_nuts": "RO31",
+      "regiune": "Sud-Muntenia",
+      "nivel": "regiune de dezvoltare",
+      "an": 2020,
+      "structuri_de_cazare": 748,
+      "locuri_de_cazare": 28323
+    },
+    {
+      "cod_nuts": "RO31",
+      "regiune": "Sud-Muntenia",
+      "nivel": "regiune de dezvoltare",
+      "an": 2021,
+      "structuri_de_cazare": 977,
+      "locuri_de_cazare": 31901
+    },
+    {
+      "cod_nuts": "RO31",
+      "regiune": "Sud-Muntenia",
+      "nivel": "regiune de dezvoltare",
+      "an": 2022,
+      "structuri_de_cazare": 945,
+      "locuri_de_cazare": 31515
+    },
+    {
+      "cod_nuts": "RO31",
+      "regiune": "Sud-Muntenia",
+      "nivel": "regiune de dezvoltare",
+      "an": 2023,
+      "structuri_de_cazare": 944,
+      "locuri_de_cazare": 30662
+    },
+    {
+      "cod_nuts": "RO31",
+      "regiune": "Sud-Muntenia",
+      "nivel": "regiune de dezvoltare",
+      "an": 2024,
+      "structuri_de_cazare": 998,
+      "locuri_de_cazare": 31096
+    },
+    {
+      "cod_nuts": "RO31",
+      "regiune": "Sud-Muntenia",
+      "nivel": "regiune de dezvoltare",
+      "an": 2025,
+      "structuri_de_cazare": 1059,
+      "locuri_de_cazare": 31975
+    },
+    {
+      "cod_nuts": "RO32",
+      "regiune": "București-Ilfov",
+      "nivel": "regiune de dezvoltare",
+      "an": 2015,
+      "structuri_de_cazare": 182,
+      "locuri_de_cazare": 21576
+    },
+    {
+      "cod_nuts": "RO32",
+      "regiune": "București-Ilfov",
+      "nivel": "regiune de dezvoltare",
+      "an": 2016,
+      "structuri_de_cazare": 185,
+      "locuri_de_cazare": 22242
+    },
+    {
+      "cod_nuts": "RO32",
+      "regiune": "București-Ilfov",
+      "nivel": "regiune de dezvoltare",
+      "an": 2017,
+      "structuri_de_cazare": 209,
+      "locuri_de_cazare": 22956
+    },
+    {
+      "cod_nuts": "RO32",
+      "regiune": "București-Ilfov",
+      "nivel": "regiune de dezvoltare",
+      "an": 2018,
+      "structuri_de_cazare": 220,
+      "locuri_de_cazare": 23873
+    },
+    {
+      "cod_nuts": "RO32",
+      "regiune": "București-Ilfov",
+      "nivel": "regiune de dezvoltare",
+      "an": 2019,
+      "structuri_de_cazare": 210,
+      "locuri_de_cazare": 24294
+    },
+    {
+      "cod_nuts": "RO32",
+      "regiune": "București-Ilfov",
+      "nivel": "regiune de dezvoltare",
+      "an": 2020,
+      "structuri_de_cazare": 194,
+      "locuri_de_cazare": 23449
+    },
+    {
+      "cod_nuts": "RO32",
+      "regiune": "București-Ilfov",
+      "nivel": "regiune de dezvoltare",
+      "an": 2021,
+      "structuri_de_cazare": 277,
+      "locuri_de_cazare": 27516
+    },
+    {
+      "cod_nuts": "RO32",
+      "regiune": "București-Ilfov",
+      "nivel": "regiune de dezvoltare",
+      "an": 2022,
+      "structuri_de_cazare": 288,
+      "locuri_de_cazare": 28377
+    },
+    {
+      "cod_nuts": "RO32",
+      "regiune": "București-Ilfov",
+      "nivel": "regiune de dezvoltare",
+      "an": 2023,
+      "structuri_de_cazare": 295,
+      "locuri_de_cazare": 27760
+    },
+    {
+      "cod_nuts": "RO32",
+      "regiune": "București-Ilfov",
+      "nivel": "regiune de dezvoltare",
+      "an": 2024,
+      "structuri_de_cazare": 332,
+      "locuri_de_cazare": 28911
+    },
+    {
+      "cod_nuts": "RO32",
+      "regiune": "București-Ilfov",
+      "nivel": "regiune de dezvoltare",
+      "an": 2025,
+      "structuri_de_cazare": 353,
+      "locuri_de_cazare": 30389
+    },
+    {
+      "cod_nuts": "RO4",
+      "regiune": "Macroregiunea Patru",
+      "nivel": "macroregiune",
+      "an": 2015,
+      "structuri_de_cazare": 1037,
+      "locuri_de_cazare": 46203
+    },
+    {
+      "cod_nuts": "RO4",
+      "regiune": "Macroregiunea Patru",
+      "nivel": "macroregiune",
+      "an": 2016,
+      "structuri_de_cazare": 1067,
+      "locuri_de_cazare": 46949
+    },
+    {
+      "cod_nuts": "RO4",
+      "regiune": "Macroregiunea Patru",
+      "nivel": "macroregiune",
+      "an": 2017,
+      "structuri_de_cazare": 1223,
+      "locuri_de_cazare": 50466
+    },
+    {
+      "cod_nuts": "RO4",
+      "regiune": "Macroregiunea Patru",
+      "nivel": "macroregiune",
+      "an": 2018,
+      "structuri_de_cazare": 1319,
+      "locuri_de_cazare": 52054
+    },
+    {
+      "cod_nuts": "RO4",
+      "regiune": "Macroregiunea Patru",
+      "nivel": "macroregiune",
+      "an": 2019,
+      "structuri_de_cazare": 1363,
+      "locuri_de_cazare": 52343
+    },
+    {
+      "cod_nuts": "RO4",
+      "regiune": "Macroregiunea Patru",
+      "nivel": "macroregiune",
+      "an": 2020,
+      "structuri_de_cazare": 1380,
+      "locuri_de_cazare": 51477
+    },
+    {
+      "cod_nuts": "RO4",
+      "regiune": "Macroregiunea Patru",
+      "nivel": "macroregiune",
+      "an": 2021,
+      "structuri_de_cazare": 1575,
+      "locuri_de_cazare": 55295
+    },
+    {
+      "cod_nuts": "RO4",
+      "regiune": "Macroregiunea Patru",
+      "nivel": "macroregiune",
+      "an": 2022,
+      "structuri_de_cazare": 1626,
+      "locuri_de_cazare": 56284
+    },
+    {
+      "cod_nuts": "RO4",
+      "regiune": "Macroregiunea Patru",
+      "nivel": "macroregiune",
+      "an": 2023,
+      "structuri_de_cazare": 1720,
+      "locuri_de_cazare": 57920
+    },
+    {
+      "cod_nuts": "RO4",
+      "regiune": "Macroregiunea Patru",
+      "nivel": "macroregiune",
+      "an": 2024,
+      "structuri_de_cazare": 1797,
+      "locuri_de_cazare": 59717
+    },
+    {
+      "cod_nuts": "RO4",
+      "regiune": "Macroregiunea Patru",
+      "nivel": "macroregiune",
+      "an": 2025,
+      "structuri_de_cazare": 1868,
+      "locuri_de_cazare": 60005
+    },
+    {
+      "cod_nuts": "RO41",
+      "regiune": "Sud-Vest Oltenia",
+      "nivel": "regiune de dezvoltare",
+      "an": 2015,
+      "structuri_de_cazare": 408,
+      "locuri_de_cazare": 18665
+    },
+    {
+      "cod_nuts": "RO41",
+      "regiune": "Sud-Vest Oltenia",
+      "nivel": "regiune de dezvoltare",
+      "an": 2016,
+      "structuri_de_cazare": 427,
+      "locuri_de_cazare": 18992
+    },
+    {
+      "cod_nuts": "RO41",
+      "regiune": "Sud-Vest Oltenia",
+      "nivel": "regiune de dezvoltare",
+      "an": 2017,
+      "structuri_de_cazare": 487,
+      "locuri_de_cazare": 20683
+    },
+    {
+      "cod_nuts": "RO41",
+      "regiune": "Sud-Vest Oltenia",
+      "nivel": "regiune de dezvoltare",
+      "an": 2018,
+      "structuri_de_cazare": 541,
+      "locuri_de_cazare": 21811
+    },
+    {
+      "cod_nuts": "RO41",
+      "regiune": "Sud-Vest Oltenia",
+      "nivel": "regiune de dezvoltare",
+      "an": 2019,
+      "structuri_de_cazare": 569,
+      "locuri_de_cazare": 22384
+    },
+    {
+      "cod_nuts": "RO41",
+      "regiune": "Sud-Vest Oltenia",
+      "nivel": "regiune de dezvoltare",
+      "an": 2020,
+      "structuri_de_cazare": 567,
+      "locuri_de_cazare": 21202
+    },
+    {
+      "cod_nuts": "RO41",
+      "regiune": "Sud-Vest Oltenia",
+      "nivel": "regiune de dezvoltare",
+      "an": 2021,
+      "structuri_de_cazare": 697,
+      "locuri_de_cazare": 24194
+    },
+    {
+      "cod_nuts": "RO41",
+      "regiune": "Sud-Vest Oltenia",
+      "nivel": "regiune de dezvoltare",
+      "an": 2022,
+      "structuri_de_cazare": 719,
+      "locuri_de_cazare": 24525
+    },
+    {
+      "cod_nuts": "RO41",
+      "regiune": "Sud-Vest Oltenia",
+      "nivel": "regiune de dezvoltare",
+      "an": 2023,
+      "structuri_de_cazare": 794,
+      "locuri_de_cazare": 26196
+    },
+    {
+      "cod_nuts": "RO41",
+      "regiune": "Sud-Vest Oltenia",
+      "nivel": "regiune de dezvoltare",
+      "an": 2024,
+      "structuri_de_cazare": 793,
+      "locuri_de_cazare": 25639
+    },
+    {
+      "cod_nuts": "RO41",
+      "regiune": "Sud-Vest Oltenia",
+      "nivel": "regiune de dezvoltare",
+      "an": 2025,
+      "structuri_de_cazare": 836,
+      "locuri_de_cazare": 26570
+    },
+    {
+      "cod_nuts": "RO42",
+      "regiune": "Vest",
+      "nivel": "regiune de dezvoltare",
+      "an": 2015,
+      "structuri_de_cazare": 629,
+      "locuri_de_cazare": 27538
+    },
+    {
+      "cod_nuts": "RO42",
+      "regiune": "Vest",
+      "nivel": "regiune de dezvoltare",
+      "an": 2016,
+      "structuri_de_cazare": 640,
+      "locuri_de_cazare": 27957
+    },
+    {
+      "cod_nuts": "RO42",
+      "regiune": "Vest",
+      "nivel": "regiune de dezvoltare",
+      "an": 2017,
+      "structuri_de_cazare": 736,
+      "locuri_de_cazare": 29783
+    },
+    {
+      "cod_nuts": "RO42",
+      "regiune": "Vest",
+      "nivel": "regiune de dezvoltare",
+      "an": 2018,
+      "structuri_de_cazare": 778,
+      "locuri_de_cazare": 30243
+    },
+    {
+      "cod_nuts": "RO42",
+      "regiune": "Vest",
+      "nivel": "regiune de dezvoltare",
+      "an": 2019,
+      "structuri_de_cazare": 794,
+      "locuri_de_cazare": 29959
+    },
+    {
+      "cod_nuts": "RO42",
+      "regiune": "Vest",
+      "nivel": "regiune de dezvoltare",
+      "an": 2020,
+      "structuri_de_cazare": 813,
+      "locuri_de_cazare": 30275
+    },
+    {
+      "cod_nuts": "RO42",
+      "regiune": "Vest",
+      "nivel": "regiune de dezvoltare",
+      "an": 2021,
+      "structuri_de_cazare": 878,
+      "locuri_de_cazare": 31101
+    },
+    {
+      "cod_nuts": "RO42",
+      "regiune": "Vest",
+      "nivel": "regiune de dezvoltare",
+      "an": 2022,
+      "structuri_de_cazare": 907,
+      "locuri_de_cazare": 31759
+    },
+    {
+      "cod_nuts": "RO42",
+      "regiune": "Vest",
+      "nivel": "regiune de dezvoltare",
+      "an": 2023,
+      "structuri_de_cazare": 926,
+      "locuri_de_cazare": 31724
+    },
+    {
+      "cod_nuts": "RO42",
+      "regiune": "Vest",
+      "nivel": "regiune de dezvoltare",
+      "an": 2024,
+      "structuri_de_cazare": 1004,
+      "locuri_de_cazare": 34078
+    },
+    {
+      "cod_nuts": "RO42",
+      "regiune": "Vest",
+      "nivel": "regiune de dezvoltare",
+      "an": 2025,
+      "structuri_de_cazare": 1032,
+      "locuri_de_cazare": 33435
+    }
+  ],
+  "meta": {
+    "title": "Capacitatea de cazare turistică pe regiuni ale României (2015–2025) - Free Download",
+    "description": "Numărul structurilor de primire turistică (hoteluri, pensiuni, cazare de vacanță, campinguri) și numărul de locuri de cazare în România, pe macroregiuni și regiuni de dezvoltare, 2015–2025. Date Eurostat (tour_cap_nuts2). Contains 143 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Capacitatea de cazare turistică pe regiuni ale României (2015–2025) | ListBase",
+    "seo_description": "Download Capacitatea de cazare turistică pe regiuni ale României (2015–2025) — 143 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 143 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/tour_cap_nuts2/default/table"
+    ]
+  }
+}
