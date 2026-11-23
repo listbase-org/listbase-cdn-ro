@@ -1,0 +1,496 @@
+{
+  "id": "ro-corpuri-ceresti-cu-denumiri-romanesti",
+  "name": "Corpuri cerești cu denumiri românești",
+  "title": "Corpuri cerești cu denumiri românești",
+  "description": "Cratere, formațiuni de relief, asteroizi, comete și stele variabile care poartă nume românești sau nume ale unor personalități române — pe Mercur, Venus, Lună, Marte, în centura de asteroizi și printre stele.",
+  "category": "science",
+  "source": "https://ro.wikipedia.org/wiki/Listă_de_corpuri_cerești_cu_denumiri_românești",
+  "source_url": "https://ro.wikipedia.org/wiki/Listă_de_corpuri_cerești_cu_denumiri_românești",
+  "updated": "2026-11",
+  "record_count": 75,
+  "columns": [
+    {
+      "key": "denumire",
+      "label": "Denumire",
+      "type": "string"
+    },
+    {
+      "key": "tip",
+      "label": "Tip",
+      "type": "string"
+    },
+    {
+      "key": "localizare",
+      "label": "Localizare",
+      "type": "string"
+    },
+    {
+      "key": "detalii",
+      "label": "Detalii",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "denumire": "Eminescu",
+      "tip": "crater",
+      "localizare": "Mercur",
+      "detalii": ""
+    },
+    {
+      "denumire": "Văcărescu",
+      "tip": "crater",
+      "localizare": "Venus",
+      "detalii": "după scriitoarea Elena Văcărescu"
+    },
+    {
+      "denumire": "Irinuca",
+      "tip": "crater",
+      "localizare": "Venus",
+      "detalii": ""
+    },
+    {
+      "denumire": "Natalia",
+      "tip": "crater",
+      "localizare": "Venus",
+      "detalii": ""
+    },
+    {
+      "denumire": "Veta",
+      "tip": "crater",
+      "localizare": "Venus",
+      "detalii": ""
+    },
+    {
+      "denumire": "Zina",
+      "tip": "crater",
+      "localizare": "Venus",
+      "detalii": ""
+    },
+    {
+      "denumire": "Esterica",
+      "tip": "crater",
+      "localizare": "Venus",
+      "detalii": ""
+    },
+    {
+      "denumire": "Darclée",
+      "tip": "patera",
+      "localizare": "Venus",
+      "detalii": "după soprana Hariclea Darclée"
+    },
+    {
+      "denumire": "Haret",
+      "tip": "crater",
+      "localizare": "Luna",
+      "detalii": "după Spiru Haret"
+    },
+    {
+      "denumire": "Montes Carpatus",
+      "tip": "",
+      "localizare": "Luna",
+      "detalii": ""
+    },
+    {
+      "denumire": "Rhabon Valles",
+      "tip": "",
+      "localizare": "Marte",
+      "detalii": "Rhabon - nume dacic al Jiului"
+    },
+    {
+      "denumire": "Iazu",
+      "tip": "crater",
+      "localizare": "Marte",
+      "detalii": ""
+    },
+    {
+      "denumire": "Batoș",
+      "tip": "crater",
+      "localizare": "Marte",
+      "detalii": ""
+    },
+    {
+      "denumire": "Oituz",
+      "tip": "crater",
+      "localizare": "Marte",
+      "detalii": "denumire primită în anul 2018."
+    },
+    {
+      "denumire": "1381 Danubia",
+      "tip": "asteroid",
+      "localizare": "centura de asteroizi",
+      "detalii": ""
+    },
+    {
+      "denumire": "1436 Salonta",
+      "tip": "asteroid",
+      "localizare": "centura de asteroizi",
+      "detalii": ""
+    },
+    {
+      "denumire": "1537 Transylvania",
+      "tip": "asteroid",
+      "localizare": "centura de asteroizi",
+      "detalii": ""
+    },
+    {
+      "denumire": "2331 Parvulesco",
+      "tip": "asteroid",
+      "localizare": "centura de asteroizi",
+      "detalii": ""
+    },
+    {
+      "denumire": "2419 Moldavia",
+      "tip": "asteroid",
+      "localizare": "centura de asteroizi",
+      "detalii": ""
+    },
+    {
+      "denumire": "3359 Purcari",
+      "tip": "asteroid",
+      "localizare": "centura de asteroizi",
+      "detalii": ""
+    },
+    {
+      "denumire": "4268 Grebenikov",
+      "tip": "asteroid",
+      "localizare": "centura de asteroizi",
+      "detalii": ""
+    },
+    {
+      "denumire": "4633 Marinbica",
+      "tip": "asteroid",
+      "localizare": "centura de asteroizi",
+      "detalii": "denumit astfel în amintirea lui Marin Dacian Bica (1970–2013), profesor de fizică și astronomie din Oradea."
+    },
+    {
+      "denumire": "6429 Brâncuși",
+      "tip": "asteroid",
+      "localizare": "centura de asteroizi",
+      "detalii": ""
+    },
+    {
+      "denumire": "7985 Nedelcu",
+      "tip": "asteroid",
+      "localizare": "centura de asteroizi",
+      "detalii": "Dan Alin Nedelcu"
+    },
+    {
+      "denumire": "7986 Romania",
+      "tip": "asteroid",
+      "localizare": "centura de asteroizi",
+      "detalii": ""
+    },
+    {
+      "denumire": "9253 Oberth",
+      "tip": "asteroid",
+      "localizare": "centura de asteroizi",
+      "detalii": ""
+    },
+    {
+      "denumire": "9403 Sanduleak",
+      "tip": "asteroid",
+      "localizare": "centura de asteroizi",
+      "detalii": ""
+    },
+    {
+      "denumire": "9493 Enescu",
+      "tip": "asteroid",
+      "localizare": "centura de asteroizi",
+      "detalii": ""
+    },
+    {
+      "denumire": "9494 Donici",
+      "tip": "asteroid",
+      "localizare": "centura de asteroizi",
+      "detalii": ""
+    },
+    {
+      "denumire": "9495 Eminescu",
+      "tip": "asteroid",
+      "localizare": "centura de asteroizi",
+      "detalii": ""
+    },
+    {
+      "denumire": "10034 Birlan",
+      "tip": "asteroid",
+      "localizare": "centura de asteroizi",
+      "detalii": "Mirel Birlan"
+    },
+    {
+      "denumire": "10466 Marius-Ioan",
+      "tip": "asteroid",
+      "localizare": "centura de asteroizi",
+      "detalii": "denumit pentru a onora activitatea profesională a domnului dr. fiz. Marius-Ioan Piso, fondator al Agenției Spațiale Române și a Institutului de Științe Spațiale"
+    },
+    {
+      "denumire": "10707 Prunariu",
+      "tip": "asteroid",
+      "localizare": "centura de asteroizi",
+      "detalii": "denumit după Dumitru-Dorin Prunariu"
+    },
+    {
+      "denumire": "12498 Dragesco",
+      "tip": "asteroid",
+      "localizare": "centura de asteroizi",
+      "detalii": ""
+    },
+    {
+      "denumire": "26478 Cristianrosu",
+      "tip": "asteroid",
+      "localizare": "centura de asteroizi",
+      "detalii": ""
+    },
+    {
+      "denumire": "28854 Budisteanu",
+      "tip": "asteroid",
+      "localizare": "centura de asteroizi",
+      "detalii": "(cu denumire provizorie: 2000 JP56), după Ionuț Budișteanu"
+    },
+    {
+      "denumire": "31569 Adriansonka",
+      "tip": "asteroid",
+      "localizare": "centura de asteroizi",
+      "detalii": "denumit după astronomul astronom Adrian Bruno Șonka care activează la Observatorul Astronomic „Amiral Vasile Urseanu” si la Institutul Astronomic al Academiei Romane, ambele din București;"
+    },
+    {
+      "denumire": "36340 Vaduvescu",
+      "tip": "asteroid",
+      "localizare": "centura de asteroizi",
+      "detalii": "denumit după astronomul Ovidiu Văduvescu, care activează la Isaac Newton Group of Telescopes (Observatorul Internațional ING) La Palma, Canare, Spania"
+    },
+    {
+      "denumire": "100897 Piatra Neamț",
+      "tip": "asteroid",
+      "localizare": "centura de asteroizi",
+      "detalii": ""
+    },
+    {
+      "denumire": "130072 Ilincaignat",
+      "tip": "asteroid",
+      "localizare": "centura de asteroizi",
+      "detalii": ""
+    },
+    {
+      "denumire": "243458 Bubulina",
+      "tip": "asteroid",
+      "localizare": "centura de asteroizi",
+      "detalii": ""
+    },
+    {
+      "denumire": "257005 Arpadpal",
+      "tip": "asteroid",
+      "localizare": "centura de asteroizi",
+      "detalii": "după Arpad Pal"
+    },
+    {
+      "denumire": "263516 Alexescu",
+      "tip": "asteroid",
+      "localizare": "centura de asteroizi",
+      "detalii": "după Matei Alexescu"
+    },
+    {
+      "denumire": "320790 Anestin",
+      "tip": "asteroid",
+      "localizare": "centura de asteroizi",
+      "detalii": "după Victor Anestin"
+    },
+    {
+      "denumire": "330634 Boico",
+      "tip": "asteroid",
+      "localizare": "centura de asteroizi",
+      "detalii": "după Vladimir Boico"
+    },
+    {
+      "denumire": "346261 Alexandrescu",
+      "tip": "asteroid",
+      "localizare": "centura de asteroizi",
+      "detalii": "după Harald Alexandrescu"
+    },
+    {
+      "denumire": "358894 Demetrescu",
+      "tip": "asteroid",
+      "localizare": "centura de asteroizi",
+      "detalii": "denumit în onoarea astronomului Gheorghe Demetrescu (1885-1969)"
+    },
+    {
+      "denumire": "450931 Coculescu",
+      "tip": "asteroid",
+      "localizare": "centura de asteroizi",
+      "detalii": "denumit în onoarea astronomului Nicolae Coculescu (1866-1952)"
+    },
+    {
+      "denumire": "555152 Oproiu",
+      "tip": "asteroid",
+      "localizare": "centura de asteroizi",
+      "detalii": "denumit după numele astronomului Tiberiu Oproiu (1939-2020), care a activat în cadrul Observatorului de la Cluj-Napoca, în domeniul mecanicii cerești, sateliților artificiali și asteroizilor"
+    },
+    {
+      "denumire": "557045 Nadolschi",
+      "tip": "asteroid",
+      "localizare": "centura de asteroizi",
+      "detalii": "denumit după astronomul Victor Nadolschi (1911-1996), care a activat la Observatorul Astronomic din Iași al Universității ”Alexandru Ioan Cuza”, în domeniul eclipselor și astronomiei practice;"
+    },
+    {
+      "denumire": "572217 Dramba",
+      "tip": "asteroid",
+      "localizare": "centura de asteroizi",
+      "detalii": "denumit după astronomul Constantin Drâmbă (1907-1977), care a activat la Observatorul din București (actual Institut Astronomic al Academiei Române), în domeniul mecanicii cerești"
+    },
+    {
+      "denumire": "646626 Valentingrigore",
+      "tip": "asteroid",
+      "localizare": "centura de asteroizi",
+      "detalii": "descoperit în 2008, denumit în onoarea astronomului Valentin Grigore, președinte-fondator al Societății Astronomice Române de Meteori (SARM)."
+    },
+    {
+      "denumire": "733086 Virgiliupop",
+      "tip": "asteroid",
+      "localizare": "centura de asteroizi",
+      "detalii": "denumit după Virgiliu Pop (n. 1974), jurist și educator român specializat în drept spațial, membru al Academiei Internaționale de Astronautică, cunoscut pentru contribuțiile sale la legislația resurselor spațiale."
+    },
+    {
+      "denumire": "1943c Daimaca",
+      "tip": "cometă",
+      "localizare": "",
+      "detalii": "după astronomul Victor Daimaca, care a descoperit-o la 3 septembrie 1943."
+    },
+    {
+      "denumire": "1943 W1 VanGelt-Peltier-Daimaca",
+      "tip": "cometă",
+      "localizare": "",
+      "detalii": "cometă pe care Victor Daimaca a descoperit-o în data de 16 decembrie 1943, concomitent cu alți doi astronomi, sud-africanul Van Gelt și americanul Peltier."
+    },
+    {
+      "denumire": "C/1898 L1 (Coddington-Pauly)",
+      "tip": "cometă",
+      "localizare": "",
+      "detalii": "(sau Cometa 1898 VII) - numită după Edwin Foster Coddington și Wolfgang Pauly (de), ultimul fiind un cunoscut compozitor de șah (en) germano-român."
+    },
+    {
+      "denumire": "Bârlad V1",
+      "tip": "stea",
+      "localizare": "",
+      "detalii": ""
+    },
+    {
+      "denumire": "Sanduleak -69° 202",
+      "tip": "stea",
+      "localizare": "",
+      "detalii": "steaua din care a apărut supernova SN 1987A"
+    },
+    {
+      "denumire": "Galați V1",
+      "tip": "stea",
+      "localizare": "",
+      "detalii": ""
+    },
+    {
+      "denumire": "Galați V2",
+      "tip": "stea",
+      "localizare": "",
+      "detalii": ""
+    },
+    {
+      "denumire": "Galati V3",
+      "tip": "stea",
+      "localizare": "",
+      "detalii": ""
+    },
+    {
+      "denumire": "Galati V4",
+      "tip": "stea",
+      "localizare": "",
+      "detalii": ""
+    },
+    {
+      "denumire": "Galati V5",
+      "tip": "stea",
+      "localizare": "",
+      "detalii": ""
+    },
+    {
+      "denumire": "Galati V6",
+      "tip": "stea",
+      "localizare": "",
+      "detalii": ""
+    },
+    {
+      "denumire": "Galati V8",
+      "tip": "stea",
+      "localizare": "",
+      "detalii": ""
+    },
+    {
+      "denumire": "Galati V9",
+      "tip": "stea",
+      "localizare": "",
+      "detalii": ""
+    },
+    {
+      "denumire": "Galati V10",
+      "tip": "stea",
+      "localizare": "",
+      "detalii": ""
+    },
+    {
+      "denumire": "Galati V11",
+      "tip": "stea",
+      "localizare": "",
+      "detalii": ""
+    },
+    {
+      "denumire": "Galati V12",
+      "tip": "stea",
+      "localizare": "",
+      "detalii": ""
+    },
+    {
+      "denumire": "Galati V13",
+      "tip": "stea",
+      "localizare": "",
+      "detalii": ""
+    },
+    {
+      "denumire": "Schela V1",
+      "tip": "stea",
+      "localizare": "",
+      "detalii": ""
+    },
+    {
+      "denumire": "Schela V2",
+      "tip": "stea",
+      "localizare": "",
+      "detalii": ""
+    },
+    {
+      "denumire": "Schela V3",
+      "tip": "stea",
+      "localizare": "",
+      "detalii": ""
+    },
+    {
+      "denumire": "Schela V4",
+      "tip": "stea",
+      "localizare": "",
+      "detalii": ""
+    },
+    {
+      "denumire": "Schela V5",
+      "tip": "stea",
+      "localizare": "",
+      "detalii": ""
+    }
+  ],
+  "meta": {
+    "title": "Corpuri cerești cu denumiri românești - Free Download",
+    "description": "Cratere, formațiuni de relief, asteroizi, comete și stele variabile care poartă nume românești sau nume ale unor personalități române — pe Mercur, Venus, Lună, Marte, în centura de asteroizi și printre stele. Contains 75 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Corpuri cerești cu denumiri românești | ListBase",
+    "seo_description": "Download Corpuri cerești cu denumiri românești — 75 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 75 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Listă_de_corpuri_cerești_cu_denumiri_românești"
+    ]
+  }
+}

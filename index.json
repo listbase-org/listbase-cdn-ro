@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-23T02:28:23.750Z",
-  "total_datasets": 534,
-  "total_records": 170824,
+  "generated": "2026-11-23T02:28:34.816Z",
+  "total_datasets": 535,
+  "total_records": 170899,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "society",
@@ -13862,6 +13862,31 @@
         "xlsx": {
           "name": "ro-chimisti-romani_RO.xlsx",
           "size": 7991
+        }
+      }
+    },
+    {
+      "id": "ro-corpuri-ceresti-cu-denumiri-romanesti",
+      "name": "Corpuri cerești cu denumiri românești",
+      "category": "science",
+      "record_count": 75,
+      "columns": [
+        "denumire",
+        "tip",
+        "localizare",
+        "detalii"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Listă_de_corpuri_cerești_cu_denumiri_românești",
+      "updated": "2026-11",
+      "size": 13868,
+      "files": {
+        "csv": {
+          "name": "ro-corpuri-ceresti-cu-denumiri-romanesti_RO.csv",
+          "size": 5720
+        },
+        "xlsx": {
+          "name": "ro-corpuri-ceresti-cu-denumiri-romanesti_RO.xlsx",
+          "size": 10047
         }
       }
     },
