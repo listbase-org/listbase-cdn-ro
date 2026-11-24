@@ -1,0 +1,310 @@
+{
+  "id": "ro-productia-de-lactate",
+  "name": "Producția de lapte și produse lactate în fabricile din România (2010–2025)",
+  "title": "Producția de lapte și produse lactate în fabricile din România (2010–2025)",
+  "description": "Cantitățile anuale de lapte de vacă și de oaie livrate la fabricile de procesare și producția de lapte de consum, smântână, lapte acru și iaurt, unt și brânzeturi (după tipul de lapte) în România, în mii de tone. Date Eurostat (apro_mk_pobta); celulele goale = date nepublicate.",
+  "category": "food",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/apro_mk_pobta/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/apro_mk_pobta/default/table",
+  "updated": "2026-11",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "an",
+      "label": "An",
+      "type": "number"
+    },
+    {
+      "key": "lapte_de_vaca_livrat_la_fabrici",
+      "label": "Lapte De Vaca Livrat La Fabrici",
+      "type": "number"
+    },
+    {
+      "key": "lapte_de_oaie_livrat_la_fabrici",
+      "label": "Lapte De Oaie Livrat La Fabrici",
+      "type": "number"
+    },
+    {
+      "key": "lapte_de_consum",
+      "label": "Lapte De Consum",
+      "type": "number"
+    },
+    {
+      "key": "smantana_de_consum",
+      "label": "Smantana De Consum",
+      "type": "number"
+    },
+    {
+      "key": "lapte_acru_iaurt",
+      "label": "Lapte Acru Iaurt",
+      "type": "number"
+    },
+    {
+      "key": "unt",
+      "label": "Unt",
+      "type": "number"
+    },
+    {
+      "key": "branzeturi_total",
+      "label": "Branzeturi Total",
+      "type": "number"
+    },
+    {
+      "key": "branza_din_lapte_de_vaca",
+      "label": "Branza Din Lapte De Vaca",
+      "type": "number"
+    },
+    {
+      "key": "branza_din_lapte_de_oaie",
+      "label": "Branza Din Lapte De Oaie",
+      "type": "number"
+    },
+    {
+      "key": "branza_din_lapte_de_capra",
+      "label": "Branza Din Lapte De Capra",
+      "type": "number"
+    },
+    {
+      "key": "branza_mixta_sau_bivolita",
+      "label": "Branza Mixta Sau Bivolita",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "an": 2010,
+      "lapte_de_vaca_livrat_la_fabrici": 903.75,
+      "lapte_de_oaie_livrat_la_fabrici": 16.41,
+      "lapte_de_consum": 223.18,
+      "smantana_de_consum": 46.8,
+      "lapte_acru_iaurt": 148.32,
+      "unt": 9.75,
+      "branzeturi_total": 63.96,
+      "branza_din_lapte_de_vaca": 60.39,
+      "branza_din_lapte_de_oaie": 1.53,
+      "branza_din_lapte_de_capra": 0.16,
+      "branza_mixta_sau_bivolita": 1.89
+    },
+    {
+      "an": 2011,
+      "lapte_de_vaca_livrat_la_fabrici": 897.35,
+      "lapte_de_oaie_livrat_la_fabrici": 14.35,
+      "lapte_de_consum": 220.46,
+      "smantana_de_consum": 47.32,
+      "lapte_acru_iaurt": 146.89,
+      "unt": 9.45,
+      "branzeturi_total": 60.58,
+      "branza_din_lapte_de_vaca": 59.08,
+      "branza_din_lapte_de_oaie": 1.32,
+      "branza_din_lapte_de_capra": 0.15,
+      "branza_mixta_sau_bivolita": 0.02
+    },
+    {
+      "an": 2012,
+      "lapte_de_vaca_livrat_la_fabrici": 887.85,
+      "lapte_de_oaie_livrat_la_fabrici": 15.76,
+      "lapte_de_consum": 208.11,
+      "smantana_de_consum": 47.81,
+      "lapte_acru_iaurt": 153.11,
+      "unt": 9.29,
+      "branzeturi_total": 67.1,
+      "branza_din_lapte_de_vaca": 60.23,
+      "branza_din_lapte_de_oaie": "",
+      "branza_din_lapte_de_capra": "",
+      "branza_mixta_sau_bivolita": 4.73
+    },
+    {
+      "an": 2013,
+      "lapte_de_vaca_livrat_la_fabrici": 882.38,
+      "lapte_de_oaie_livrat_la_fabrici": 18.12,
+      "lapte_de_consum": 219.03,
+      "smantana_de_consum": 53.74,
+      "lapte_acru_iaurt": 166.45,
+      "unt": 9.8,
+      "branzeturi_total": 70.48,
+      "branza_din_lapte_de_vaca": 62.76,
+      "branza_din_lapte_de_oaie": 2.71,
+      "branza_din_lapte_de_capra": 0.67,
+      "branza_mixta_sau_bivolita": 4.34
+    },
+    {
+      "an": 2014,
+      "lapte_de_vaca_livrat_la_fabrici": 996.65,
+      "lapte_de_oaie_livrat_la_fabrici": 27.28,
+      "lapte_de_consum": 250.46,
+      "smantana_de_consum": 58.65,
+      "lapte_acru_iaurt": 166,
+      "unt": 10.59,
+      "branzeturi_total": 74.65,
+      "branza_din_lapte_de_vaca": 64.38,
+      "branza_din_lapte_de_oaie": 4.1,
+      "branza_din_lapte_de_capra": 1.31,
+      "branza_mixta_sau_bivolita": 4.86
+    },
+    {
+      "an": 2015,
+      "lapte_de_vaca_livrat_la_fabrici": 919.3,
+      "lapte_de_oaie_livrat_la_fabrici": 29.68,
+      "lapte_de_consum": 259.51,
+      "smantana_de_consum": 67.39,
+      "lapte_acru_iaurt": 190.52,
+      "unt": 11.2,
+      "branzeturi_total": 81.65,
+      "branza_din_lapte_de_vaca": 69.14,
+      "branza_din_lapte_de_oaie": 2.93,
+      "branza_din_lapte_de_capra": 1.18,
+      "branza_mixta_sau_bivolita": 8.41
+    },
+    {
+      "an": 2016,
+      "lapte_de_vaca_livrat_la_fabrici": 951.95,
+      "lapte_de_oaie_livrat_la_fabrici": 32.79,
+      "lapte_de_consum": 278.26,
+      "smantana_de_consum": 70.21,
+      "lapte_acru_iaurt": 198.09,
+      "unt": 11.93,
+      "branzeturi_total": 87.58,
+      "branza_din_lapte_de_vaca": 73.73,
+      "branza_din_lapte_de_oaie": 3.18,
+      "branza_din_lapte_de_capra": 1.21,
+      "branza_mixta_sau_bivolita": 9.46
+    },
+    {
+      "an": 2017,
+      "lapte_de_vaca_livrat_la_fabrici": 1027.83,
+      "lapte_de_oaie_livrat_la_fabrici": 29.82,
+      "lapte_de_consum": 288.97,
+      "smantana_de_consum": 66.47,
+      "lapte_acru_iaurt": 211.66,
+      "unt": 12.11,
+      "branzeturi_total": 91.07,
+      "branza_din_lapte_de_vaca": 77.05,
+      "branza_din_lapte_de_oaie": 5.8,
+      "branza_din_lapte_de_capra": 1.83,
+      "branza_mixta_sau_bivolita": 6.39
+    },
+    {
+      "an": 2018,
+      "lapte_de_vaca_livrat_la_fabrici": 1120.41,
+      "lapte_de_oaie_livrat_la_fabrici": 25.25,
+      "lapte_de_consum": 306.04,
+      "smantana_de_consum": 67.05,
+      "lapte_acru_iaurt": 215.57,
+      "unt": 10.87,
+      "branzeturi_total": 96.24,
+      "branza_din_lapte_de_vaca": 81.56,
+      "branza_din_lapte_de_oaie": 3.37,
+      "branza_din_lapte_de_capra": 1.47,
+      "branza_mixta_sau_bivolita": 9.84
+    },
+    {
+      "an": 2019,
+      "lapte_de_vaca_livrat_la_fabrici": 1125.3,
+      "lapte_de_oaie_livrat_la_fabrici": 21.71,
+      "lapte_de_consum": 329.68,
+      "smantana_de_consum": 66.9,
+      "lapte_acru_iaurt": 225.15,
+      "unt": 2.6,
+      "branzeturi_total": 96.4,
+      "branza_din_lapte_de_vaca": 82.75,
+      "branza_din_lapte_de_oaie": 3.85,
+      "branza_din_lapte_de_capra": 0.84,
+      "branza_mixta_sau_bivolita": 8.96
+    },
+    {
+      "an": 2020,
+      "lapte_de_vaca_livrat_la_fabrici": 1132.01,
+      "lapte_de_oaie_livrat_la_fabrici": 22.6,
+      "lapte_de_consum": 357.31,
+      "smantana_de_consum": 68.31,
+      "lapte_acru_iaurt": 225.73,
+      "unt": 2.89,
+      "branzeturi_total": 97.36,
+      "branza_din_lapte_de_vaca": 85.21,
+      "branza_din_lapte_de_oaie": 5.32,
+      "branza_din_lapte_de_capra": 1.61,
+      "branza_mixta_sau_bivolita": 5.21
+    },
+    {
+      "an": 2021,
+      "lapte_de_vaca_livrat_la_fabrici": 1128.1,
+      "lapte_de_oaie_livrat_la_fabrici": 22.02,
+      "lapte_de_consum": 387.23,
+      "smantana_de_consum": 67.82,
+      "lapte_acru_iaurt": 220.35,
+      "unt": 2.78,
+      "branzeturi_total": 98.82,
+      "branza_din_lapte_de_vaca": 91.43,
+      "branza_din_lapte_de_oaie": 3.63,
+      "branza_din_lapte_de_capra": 1.01,
+      "branza_mixta_sau_bivolita": 2.75
+    },
+    {
+      "an": 2022,
+      "lapte_de_vaca_livrat_la_fabrici": 1135.19,
+      "lapte_de_oaie_livrat_la_fabrici": 15.68,
+      "lapte_de_consum": 367.18,
+      "smantana_de_consum": 65.45,
+      "lapte_acru_iaurt": 212.62,
+      "unt": 1.59,
+      "branzeturi_total": 102.79,
+      "branza_din_lapte_de_vaca": 95.61,
+      "branza_din_lapte_de_oaie": 3.51,
+      "branza_din_lapte_de_capra": 1.01,
+      "branza_mixta_sau_bivolita": 2.66
+    },
+    {
+      "an": 2023,
+      "lapte_de_vaca_livrat_la_fabrici": 1217.03,
+      "lapte_de_oaie_livrat_la_fabrici": 21.48,
+      "lapte_de_consum": 357.03,
+      "smantana_de_consum": 66.47,
+      "lapte_acru_iaurt": 202.95,
+      "unt": 1.58,
+      "branzeturi_total": 102.43,
+      "branza_din_lapte_de_vaca": 94.32,
+      "branza_din_lapte_de_oaie": 3.36,
+      "branza_din_lapte_de_capra": 2,
+      "branza_mixta_sau_bivolita": 2.76
+    },
+    {
+      "an": 2024,
+      "lapte_de_vaca_livrat_la_fabrici": 1261.35,
+      "lapte_de_oaie_livrat_la_fabrici": 17.92,
+      "lapte_de_consum": 375.55,
+      "smantana_de_consum": 70.69,
+      "lapte_acru_iaurt": 218.07,
+      "unt": 2.46,
+      "branzeturi_total": 109.95,
+      "branza_din_lapte_de_vaca": 102.29,
+      "branza_din_lapte_de_oaie": 2.83,
+      "branza_din_lapte_de_capra": 1.79,
+      "branza_mixta_sau_bivolita": 3.05
+    },
+    {
+      "an": 2025,
+      "lapte_de_vaca_livrat_la_fabrici": 1328.83,
+      "lapte_de_oaie_livrat_la_fabrici": 17,
+      "lapte_de_consum": 386.78,
+      "smantana_de_consum": 69.87,
+      "lapte_acru_iaurt": 230.34,
+      "unt": 3.58,
+      "branzeturi_total": 117.44,
+      "branza_din_lapte_de_vaca": 107.91,
+      "branza_din_lapte_de_oaie": 2.9,
+      "branza_din_lapte_de_capra": 2.05,
+      "branza_mixta_sau_bivolita": 4.58
+    }
+  ],
+  "meta": {
+    "title": "Producția de lapte și produse lactate în fabricile din România (2010–2025) - Free Download",
+    "description": "Cantitățile anuale de lapte de vacă și de oaie livrate la fabricile de procesare și producția de lapte de consum, smântână, lapte acru și iaurt, unt și brânzeturi (după tipul de lapte) în România, în mii de tone. Date Eurostat (apro_mk_pobta); celulele goale = date nepublicate. Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Producția de lapte și produse lactate în fabricile din România (2010–2025) | ListBase",
+    "seo_description": "Download Producția de lapte și produse lactate în fabricile din România (2010–2025) — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/apro_mk_pobta/default/table"
+    ]
+  }
+}

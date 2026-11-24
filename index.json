@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-24T02:22:22.709Z",
-  "total_datasets": 536,
-  "total_records": 170966,
+  "generated": "2026-11-24T02:22:34.608Z",
+  "total_datasets": 537,
+  "total_records": 170982,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "geography",
@@ -3034,6 +3034,39 @@
         "xlsx": {
           "name": "ro-mancaruri-romanesti_RO.xlsx",
           "size": 14600
+        }
+      }
+    },
+    {
+      "id": "ro-productia-de-lactate",
+      "name": "Producția de lapte și produse lactate în fabricile din România (2010–2025)",
+      "category": "food",
+      "record_count": 16,
+      "columns": [
+        "an",
+        "lapte_de_vaca_livrat_la_fabrici",
+        "lapte_de_oaie_livrat_la_fabrici",
+        "lapte_de_consum",
+        "smantana_de_consum",
+        "lapte_acru_iaurt",
+        "unt",
+        "branzeturi_total",
+        "branza_din_lapte_de_vaca",
+        "branza_din_lapte_de_oaie",
+        "branza_din_lapte_de_capra",
+        "branza_mixta_sau_bivolita"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/apro_mk_pobta/default/table",
+      "updated": "2026-11",
+      "size": 10276,
+      "files": {
+        "csv": {
+          "name": "ro-productia-de-lactate_RO.csv",
+          "size": 1761
+        },
+        "xlsx": {
+          "name": "ro-productia-de-lactate_RO.xlsx",
+          "size": 8123
         }
       }
     },
