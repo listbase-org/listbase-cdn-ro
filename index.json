@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-23T02:28:34.816Z",
-  "total_datasets": 535,
-  "total_records": 170899,
+  "generated": "2026-11-24T02:22:22.709Z",
+  "total_datasets": 536,
+  "total_records": 170966,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "music",
@@ -6640,6 +6640,31 @@
         "xlsx": {
           "name": "ro-judecatorii-curtii-constitutionale_RO.xlsx",
           "size": 7114
+        }
+      }
+    },
+    {
+      "id": "ro-legislatia-antievreiasca-1940-1944",
+      "name": "Legislația antievreiască din România (1940–1944)",
+      "category": "law",
+      "record_count": 67,
+      "columns": [
+        "data",
+        "nr_decret_lege",
+        "nr_decizie_ministeriala",
+        "continut"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Legi_antievreiești_în_România_(1934-1944)",
+      "updated": "2026-11",
+      "size": 24215,
+      "files": {
+        "csv": {
+          "name": "ro-legislatia-antievreiasca-1940-1944_RO.csv",
+          "size": 15127
+        },
+        "xlsx": {
+          "name": "ro-legislatia-antievreiasca-1940-1944_RO.xlsx",
+          "size": 14316
         }
       }
     },

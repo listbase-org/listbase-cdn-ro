@@ -1,0 +1,448 @@
+{
+  "id": "ro-legislatia-antievreiasca-1940-1944",
+  "name": "Legislația antievreiască din România (1940–1944)",
+  "title": "Legislația antievreiască din România (1940–1944)",
+  "description": "Decretele-lege și deciziile ministeriale antievreiești adoptate în România în perioada 1940–1944: data, numărul decretului-lege sau al deciziei ministeriale și conținutul măsurii (definiția rasială, interdicții profesionale, confiscări de bunuri, restricții în educație etc.).",
+  "category": "law",
+  "source": "https://ro.wikipedia.org/wiki/Legi_antievreiești_în_România_(1934-1944)",
+  "source_url": "https://ro.wikipedia.org/wiki/Legi_antievreiești_în_România_(1934-1944)",
+  "updated": "2026-11",
+  "record_count": 67,
+  "columns": [
+    {
+      "key": "data",
+      "label": "Data",
+      "type": "date"
+    },
+    {
+      "key": "nr_decret_lege",
+      "label": "Nr Decret Lege",
+      "type": "number"
+    },
+    {
+      "key": "nr_decizie_ministeriala",
+      "label": "Nr Decizie Ministeriala",
+      "type": "number"
+    },
+    {
+      "key": "continut",
+      "label": "Continut",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "data": "1940-05-03",
+      "nr_decret_lege": "1220",
+      "nr_decizie_ministeriala": "",
+      "continut": "\"Definiția\" rasială a evreilor"
+    },
+    {
+      "data": "1940-08-08",
+      "nr_decret_lege": "2650",
+      "nr_decizie_ministeriala": "",
+      "continut": "\"Definiția\" rasială a evreilor - Starea juridică a locuitorilor evrei din România — Carol al II-lea — primul ministru Ion Gigurtu și ministrul Justiției Ion V. Gruia. Evreii sunt definiti pe criterii religioase și rasiale și sunt împărțiți în trei categorii. Diferitelor categorii sunt enumarate interdicții de muncă, profesii, funcții publice, aparținerea la asociații sportive naționale, anumite organizații, comitete de conducere, armată, interdictia de a dobândi proprietăți sau întreprinderi rurale. Li se interzice dobândirea numelor româneșt i și tatălui evreu i se pot ridica puterile părintești asupra copilului creștin în anumite condiții. Încălcarea legii se pedepsește cu închisoare și amenzi."
+    },
+    {
+      "data": "1940-08-08",
+      "nr_decret_lege": "2651",
+      "nr_decizie_ministeriala": "",
+      "continut": "Interzicerea căsătoriilor între români de sânge și evrei atât în țară cât și peste hotare. Aceste căsătorii pot fi nulificate oricând. Declarația dinaintea căsătoriei trebuie să arate dacă cei ce vor să se căsătorească sunt sau nu evrei. Ofițerul de stare civilă trebuie să cerceteze religia acestora înainte de căsătorie și să întrebe și martorii referitor la religia mirilor. Nerespectarea legii se pedepseste cu închisoare și amendă."
+    },
+    {
+      "data": "1940-08-29",
+      "nr_decret_lege": "",
+      "nr_decizie_ministeriala": "153377",
+      "continut": "Regimul de educație a evreilor. Elevii evrei dintr-o anumită categorie se pot înscrie la învătământ numai în limita locurilor disponibile după înscrierea tuturor elevilor creștini. Alte categorii de evrei sunt excluse (numerus nullus) sau se pot inscrie numai în învătământul secundar sau superior daca mai rămân locuri. În niciun caz procentul de evrei nu poate fi mai mare de 6% din clasă (numerus clausus). Nu se permite înscrierea evreilor în licee model, liceele de aplicație ale școlilor normale superioare, în scoli speciale sau scoli profesionale. — Decizia Ministerului de Educație Națională"
+    },
+    {
+      "data": "1940-09-08",
+      "nr_decret_lege": "",
+      "nr_decizie_ministeriala": "42181",
+      "continut": "Tot personalul evreiesc al teatrelor și operelor din România, naționale și particulare este concediat. Sunt înființate teatre și trupe de teatru evreiești, care erau autorizate a prezenta piese în limba română, dar nu piese aparținând unor autori români. / Ministerului Cultelor și Artelor.."
+    },
+    {
+      "data": "1940-09-09",
+      "nr_decret_lege": "",
+      "nr_decizie_ministeriala": "42,352",
+      "continut": "Cultul mozaic este exclus din lista cultelor istorice sprijinite și autorizate de statul român. Statul român constată numai existența de fapt a confesiunii mozaice care urmează să se manifeste conform potrivit deciziunilor ministeriale ulterioare./decizie ministerială"
+    },
+    {
+      "data": "1940-09-09",
+      "nr_decret_lege": "",
+      "nr_decizie_ministeriala": "42,354",
+      "continut": "Toate sinagogile pot funcționa numai pe baza unei aprobări speciale a Ministerul Cultelor și Artelor Sinagogile vor trebui să deservească cel puțin 400 de familii evreiești în mediu urban și 200 în mediu rural. Toate celelalte sinagogi se vor închide imediat și vor intra în patrimoniul statului. Toate organizațiile mozaice pe teritoriul cărora nu va mai exista o sinagoga își vor înceta imediat orice activitate. /decizie ministerială."
+    },
+    {
+      "data": "1940-09-19",
+      "nr_decret_lege": "",
+      "nr_decizie_ministeriala": "43,932",
+      "continut": "Suspendarea deciziunii ministeriale nr. 42,354 din 09/09/1940."
+    },
+    {
+      "data": "1940-09-21",
+      "nr_decret_lege": "",
+      "nr_decizie_ministeriala": "44400",
+      "continut": "Deciziunea Ministerială 42181 din 08/09/1940 se referă numai la scenele românești și exclude scenele trupelor particulare evreiești autorizate."
+    },
+    {
+      "data": "1940-10-03",
+      "nr_decret_lege": "3294",
+      "nr_decizie_ministeriala": "1",
+      "continut": "Interzice evreilor dreptul de a concesiona altora farmacii."
+    },
+    {
+      "data": "1940-10-04",
+      "nr_decret_lege": "3361",
+      "nr_decizie_ministeriala": "",
+      "continut": "Înființarea comisarilor de românizare. (doc. 13, pag. 68)"
+    },
+    {
+      "data": "1940-10-05",
+      "nr_decret_lege": "3347",
+      "nr_decizie_ministeriala": "1,3,4,5,6,10",
+      "continut": "Exproprierea rurală a evreilor. Aceștia nu mai pot deține nicio proprietate rurală în România. Se includ toate locuintele, terenurile arabile, fânețele, izlazurile, terenurile neproductive, bălțile, iazurile, viile, conacele, livezile de pomi fructiferi, pepinierele, crescătoriile de animale și păsări, stupăriile, grădinile de zarzavat, grădinile de flori și întreg inventarul viu și mort, precum și stocurile de cereale și nutrețuri aparținând evreilor. Există unele excluderi precum industriile evreiești, terenuri din jurul locuintelor evreiesti de pana la 2000 mp, mobilier etc.."
+    },
+    {
+      "data": "1940-10-11",
+      "nr_decret_lege": "3438",
+      "nr_decizie_ministeriala": "",
+      "continut": "Regimul de educație a evreilor Elevilor și studenților evrei li s-a interzis accesul la învățământul public de toate gradele (numerus nullus), înlocuind decizia ministerială nr. 153.377, din 29 august 1940, conform căreia în condiții speciale până la 6% din studenți și elevi pot fi evrei (numerus clausus). Evreii pot sa-și organizeze propriul sistem de învățământ primar și secundar, care poate fi frecventat numai de elevi evrei. Evreii nu pot lucra în școli românești.."
+    },
+    {
+      "data": "1940-10-16",
+      "nr_decret_lege": "3847",
+      "nr_decizie_ministeriala": "",
+      "continut": "Interdicția practicii, limitarea drepturilor avocaților evrei."
+    },
+    {
+      "data": "1940-11-10",
+      "nr_decret_lege": "3758",
+      "nr_decizie_ministeriala": "",
+      "continut": "Interzice evreilor vânzarea produselor, monopol de stat (sare, chibrituri, tutun)."
+    },
+    {
+      "data": "1940-11-12",
+      "nr_decret_lege": "3810",
+      "nr_decizie_ministeriala": "",
+      "continut": "Exproprierea rurală a evreilor (completări). Include padurile, morile, teascurile, industria forestiera, fabrici de spirt, stocuri de cereale, nutreturi sau orice recolta, inclusiv toate terenurile inconjutatoare, construcțiile, uneltele, mijloacele de transport si tot inventarul viu sau mort.. (doc. 18, p. 81)"
+    },
+    {
+      "data": "1940-11-13",
+      "nr_decret_lege": "3789",
+      "nr_decizie_ministeriala": "7,39,40,43,45,46,53,55,420",
+      "continut": "Colegiul Medicilor îi exclude pe medicii evrei, de religie mozaică sau creștinați... Se instituie asociații profesionale județene ale medicilor evrei, care aveau dreptul de a îngriji numai bolnavi evrei. Medicii evrei nu aveau dreptul de a colabora la revistele științifice de specialitate și nu puteau fi membri ai societăților științifice. Membrii Colegiului Medicilor (creștini) puteau îngriji «numai bolnavi creștini de origine etnică română sau ariană și bolnavi turci, putând în mod excepțional, da îngrijiri bolnavilor evrei numai în caz de urgență»."
+    },
+    {
+      "data": "1940-11-16",
+      "nr_decret_lege": "3825",
+      "nr_decizie_ministeriala": "",
+      "continut": "«Românizarea» personalului din întreprinderi, obligație de concediere a salariaților evrei (inclusiv ucenici și voluntari) în toate întreprinderile civile sau comerciale până la data de 31 decembrie 1941. Cei concediați vor putea fi folosiți pentru lucrări de utilitate publică. Locurile vacante vor fi completate cu români, alții decât evrei. Se va impune întreprinderilor angajarea de personal român pentru specializare pe lângă salariații specialiști evrei sau străini.."
+    },
+    {
+      "data": "1940-11-16",
+      "nr_decret_lege": "",
+      "nr_decizie_ministeriala": "218585",
+      "continut": "Student născut din tată evreu nu poate beneficia de înlesniri la schimb valutar pentru studii în străinătate — Min. Educației Naționale, Cultelor și Artelor."
+    },
+    {
+      "data": "1940-11-16",
+      "nr_decret_lege": "",
+      "nr_decizie_ministeriala": "55.117",
+      "continut": "Eliminarea evreilor din sindicatele artiștilor dramatici lirici, instrumentiști și muzicanți și restricționarea obținerii permisului de lucru. (doc. 21. p. 90)"
+    },
+    {
+      "data": "1940-11-20",
+      "nr_decret_lege": "3850",
+      "nr_decizie_ministeriala": "",
+      "continut": "«Românizarea» caselor de filme, sălilor de cinematograf și birourilor de voiaj și turism."
+    },
+    {
+      "data": "1940-11-22",
+      "nr_decret_lege": "",
+      "nr_decizie_ministeriala": "64504",
+      "continut": "Suspendarea eliberării titlurilor de capacitate profesională meșterilor și lucrătorilor evrei. — Min. Muncii"
+    },
+    {
+      "data": "1940-11-28",
+      "nr_decret_lege": "",
+      "nr_decizie_ministeriala": "64,258",
+      "continut": "Obligă magazinele alimentare aparținând evreilor să țină închis duminica, «având în vedere promovarea comerțului românesc» — Ministerului Muncii."
+    },
+    {
+      "data": "1940-12-04",
+      "nr_decret_lege": "",
+      "nr_decizie_ministeriala": "67794",
+      "continut": "Anularea contractelor ucenicilor evrei. — Min. Muncii"
+    },
+    {
+      "data": "1940-12-04",
+      "nr_decret_lege": "3968",
+      "nr_decizie_ministeriala": "",
+      "continut": "Exproprierea și interdicția evreilor de a avea în proprietate vapoare."
+    },
+    {
+      "data": "1940-12-05",
+      "nr_decret_lege": "3984",
+      "nr_decizie_ministeriala": "",
+      "continut": "Excluderea evreilor de la serviciul militar. Evreii din România sunt obligați „de a presta munci de folos obștesc ”."
+    },
+    {
+      "data": "1941-01-14",
+      "nr_decret_lege": "67",
+      "nr_decizie_ministeriala": "",
+      "continut": "Recensământului general al României din 1941 și recensământ special al populației de origine etnică evreiască. (p. 5 in rezumatul documentelor)."
+    },
+    {
+      "data": "1941-01-18",
+      "nr_decret_lege": "121",
+      "nr_decizie_ministeriala": "",
+      "continut": "Abrogarea decretului-lege din 5 octombrie 1940 privind comisariile de românizare și instituirea controlului Ministerului Economiei Naționale asupra întreprinderilor comerciale șI industriale. (doc. 28, p. 101)"
+    },
+    {
+      "data": "1941-01-20",
+      "nr_decret_lege": "132",
+      "nr_decizie_ministeriala": "",
+      "continut": "Mărirea taxelor militare datorate de fiecare evreu. Erau obligați să plătească aceste taxe și evreii rechiziționați la muncă în diverse întreprinderi, fiind scutiți numai evreii folosiți la munca obligatorie, pe timpul acestei munci."
+    },
+    {
+      "data": "1941-01-27",
+      "nr_decret_lege": "",
+      "nr_decizie_ministeriala": "23325",
+      "continut": "Decizie privind medicii, farmaciști, inginerii și arhitecții evrei folosiți în serviciile armatei."
+    },
+    {
+      "data": "1941-02-06",
+      "nr_decret_lege": "80/236",
+      "nr_decizie_ministeriala": "16",
+      "continut": "Reprimarea faptelor ce pun în primejdie existența și interesele Statului - pedeapsa se va dubla în cazul evreilor sau persoanelor de altă origine etnică decât română, sau a comuniștilor. (doc. 30, p. 110)"
+    },
+    {
+      "data": "1941-03-18",
+      "nr_decret_lege": "711",
+      "nr_decizie_ministeriala": "",
+      "continut": "Evreilor li se interzice trecerea de la un cult la altul prin excluderea lor din art. 44 a regimul general al cultelor din 22 Aprilie 1928. (doc. 33, p. 120)."
+    },
+    {
+      "data": "1941-03-27",
+      "nr_decret_lege": "254/842/853",
+      "nr_decizie_ministeriala": "",
+      "continut": "Expropierea proprietatilor urbane evreiești și trecerea acestora în administrarea statului (prin Centrul National de Românizare). Oprirea evreilor de a dobândi proprietăți imobiliare urbane și revinderea proprietăților evreiești ne-evreilor. Prin aplicarea legii până în decembrie 1943 au fost expropriate 75 385 apartamente. (p. 126)"
+    },
+    {
+      "data": "1941-03-28",
+      "nr_decret_lege": "533",
+      "nr_decizie_ministeriala": "",
+      "continut": "Preemțiune a proprietăților urbane (mai ales imobiliare) a evreilor. (doc. 32, p. 117)"
+    },
+    {
+      "data": "1941-05-02",
+      "nr_decret_lege": "1216-1220",
+      "nr_decizie_ministeriala": "",
+      "continut": "înființarea Centrului National de Românizare. Expropriere brutării, anexele morilor, fabrici de spirt, vin, rafinarii de alcool, fabrici de medicamente, lemnului, precum și toate terenurile inconjuratoare, mijloacele de transport și tot inventarul viu sau mort proprietate a evreilor, — Ministerul Românizării. (doc. 37-38, p. 135)"
+    },
+    {
+      "data": "1941-05-07",
+      "nr_decret_lege": "1253",
+      "nr_decizie_ministeriala": "",
+      "continut": "Interzice evreilor să posede aparate de radio-recepție. (doc. p. 148)"
+    },
+    {
+      "data": "1941-07-14",
+      "nr_decret_lege": "2030",
+      "nr_decizie_ministeriala": "",
+      "continut": "Excluderea din armată, recensământul, plata și munca obligatorie pentru evrei (revizuire)."
+    },
+    {
+      "data": "1941-07-18",
+      "nr_decret_lege": "",
+      "nr_decizie_ministeriala": "4,672",
+      "continut": "Evaluarea proprietăților evreiești — Decizie ministerială (doc. 44, p. 161)"
+    },
+    {
+      "data": "1941-08-22",
+      "nr_decret_lege": "2370",
+      "nr_decizie_ministeriala": "",
+      "continut": "Finanțarea românizarii întreprinderilor comerciale șI industriale evreiești prin \"împrumut de românizare\" către români. (doc. 45, p. 163)"
+    },
+    {
+      "data": "1941-09-03",
+      "nr_decret_lege": "2507",
+      "nr_decizie_ministeriala": "",
+      "continut": "Exproprierea fără somație a bunurilor situate pe teritoriul Basarabiei și Bucovinei de Nord care aparțin evreilor. (doc. 46, p. 164)"
+    },
+    {
+      "data": "1941-10-10",
+      "nr_decret_lege": "2815-2816",
+      "nr_decizie_ministeriala": "",
+      "continut": "Exproprierea titlurilor de rentă / ipoteci, spitale și sanatorii proprietatea evreilor; evacuarea proprietăților evreiești. Preemțiune a proprietăților urbane (mai ales imobiliare) a evreilor — Ministerul de Românizare."
+    },
+    {
+      "data": "1941-10-21",
+      "nr_decret_lege": "936/2903",
+      "nr_decizie_ministeriala": "",
+      "continut": "Evreii sunt obligați, în funcție de venitul anual, să predea Armatei Române o anumită cantitate de îmbrăcăminte și încălțăminte nouă și de bună calitate. (doc. 47, p. 166)"
+    },
+    {
+      "data": "1941-11-05",
+      "nr_decret_lege": "970",
+      "nr_decizie_ministeriala": "",
+      "continut": "Evreii nu pot vota la Adunarea pentru aprobarea sau dezaprobarea guvernării Antonescu. (doc. 40, p. 170)"
+    },
+    {
+      "data": "1941-11-14",
+      "nr_decret_lege": "1003/3205",
+      "nr_decizie_ministeriala": "",
+      "continut": "Înființarea taberelor de munca obligatorie. (doc. 50, p. 171)."
+    },
+    {
+      "data": "1941-11-29",
+      "nr_decret_lege": "1039/3275",
+      "nr_decizie_ministeriala": "",
+      "continut": "Anuleaza evreilor concesiunile farmaciilor, autorizațiile pentru drogherii, depozite de medicamente sau laboratoare de produse medicale. În numele «menținerii, dezvoltării și ameliorării sănătății elementelor etnice românești». (doc. 52. p. 175)"
+    },
+    {
+      "data": "1941-12-17",
+      "nr_decret_lege": "3416",
+      "nr_decizie_ministeriala": "",
+      "continut": "Recensământul locuitorilor având „sânge evreiesc”, sunt socotiți evrei și cei având un singur bunic evreu."
+    },
+    {
+      "data": "1942-01-17",
+      "nr_decret_lege": "",
+      "nr_decizie_ministeriala": "81,677",
+      "continut": "Proprietate evreiească, expropriată de stat, închiriată neevreilor. — Decizie ministerială"
+    },
+    {
+      "data": "1942-01-30",
+      "nr_decret_lege": "315",
+      "nr_decizie_ministeriala": "",
+      "continut": "\"Proprietăți abandonate\""
+    },
+    {
+      "data": "1942-01-31",
+      "nr_decret_lege": "313",
+      "nr_decizie_ministeriala": "",
+      "continut": "Instanțe speciale pentru procese legate de exproprierea proprietăților evreiești de stat."
+    },
+    {
+      "data": "1942-03-09",
+      "nr_decret_lege": "183/732",
+      "nr_decizie_ministeriala": "7",
+      "continut": "Evreii sunt obligați să plătească de patru ori suma impozitului de \"reîntregire\" plătită de români. (doc. 61, p. 194)"
+    },
+    {
+      "data": "1942-03-13",
+      "nr_decret_lege": "196/769",
+      "nr_decizie_ministeriala": "",
+      "continut": "Legea pentru combaterea camuflarii bunurilor, drepturilor șI intereselor evreiești și combaterea \"operei de românizare\". (doc. 62, p. 195)"
+    },
+    {
+      "data": "1942-03-21",
+      "nr_decret_lege": "218",
+      "nr_decizie_ministeriala": "",
+      "continut": "Evreii nu beneficiază de prelungirea contractelor de închiriere ca și ceilalți chiriași. (doc. 64, p. 203)"
+    },
+    {
+      "data": "1942-03-25",
+      "nr_decret_lege": "7881",
+      "nr_decizie_ministeriala": "",
+      "continut": "Interzice țăranilor accesul cu marfă în locuințele evreiești. Evreii aveau voie să se aprovizioneze în piețe și în magazine numai între orele 10 și 12 dimineața — Prefectul militar al județului Botoșani."
+    },
+    {
+      "data": "1942-04-16",
+      "nr_decret_lege": "",
+      "nr_decizie_ministeriala": "283",
+      "continut": "Retragerea tuturor permiselor de conducere eliberate evreilor. (doc. 63, p. 202)"
+    },
+    {
+      "data": "1942-05-26",
+      "nr_decret_lege": "398/1569",
+      "nr_decizie_ministeriala": "",
+      "continut": "Administrarea și lichidarea bunurilor aparținand Centrului Național de Romanizare. (doc. 66, p. 206)"
+    },
+    {
+      "data": "1942-07-10",
+      "nr_decret_lege": "517",
+      "nr_decizie_ministeriala": "",
+      "continut": "Evreii nu se pot angaja ca ucenici sau dobândi cărțile de capacitate profesională.de „calfă\", „meșter\" sau „lucrător industrial\". (doc. 68, p 220)"
+    },
+    {
+      "data": "1942-08-06",
+      "nr_decret_lege": "665",
+      "nr_decizie_ministeriala": "",
+      "continut": "Orașul Panciu și suburbanele lui dărâmate de cutremurul de la 10 noiembrie 1940 se reconstruiesc cu caracter românesc și creștin, cu excluderea oricărui element evreiesc. (doc. 70, p. 222)"
+    },
+    {
+      "data": "1942-09-19",
+      "nr_decret_lege": "698",
+      "nr_decizie_ministeriala": "",
+      "continut": "Instituirea pedepsei cu moartea pentru evreii trimiși in Transnistria care se intorc in țara in mod fraudulos. (doc. 71, p. 223)"
+    },
+    {
+      "data": "1943-01-02",
+      "nr_decret_lege": "",
+      "nr_decizie_ministeriala": "72.685",
+      "continut": "Bunurile evreilor părăsite după deportarea acestora din Câmpulung Moldovenesc, Suceava, Rădăuți și Dorohoi sunt scoase la licitație de CNR. (doc. 73, p. 227)"
+    },
+    {
+      "data": "1943-03-02",
+      "nr_decret_lege": "123",
+      "nr_decizie_ministeriala": "",
+      "continut": "Fixarea unui domiciliu obligatoriu (in realitate deportare peste Bug) sau pierderea cetățeniei și expulzarea unor condamnați evrei. (doc. 74, p. 229)"
+    },
+    {
+      "data": "1943-03-09",
+      "nr_decret_lege": "143",
+      "nr_decizie_ministeriala": "",
+      "continut": "Modificări aduse legilor Centrului Național de Românizare. (doc 75, p. 231)"
+    },
+    {
+      "data": "1943-09-06",
+      "nr_decret_lege": "598",
+      "nr_decizie_ministeriala": "",
+      "continut": "Inființarea subsecretariatului de stat al muncii care va organiza munca obligatorie, va reglementa profesiunile, deplasările, emigrarea și toate problemele economice, sociale și culturale ale evreilor. (doc. 81, p. 250)"
+    },
+    {
+      "data": "1943-11-09",
+      "nr_decret_lege": "2964",
+      "nr_decizie_ministeriala": "",
+      "continut": "Cimitirele evreiești dezafectate vor intra în patrimoniul Centrului Național de Românizare în mod gratuit, pentru a fi folosite în scopuri edilitare. (doc. 82, p. 252)"
+    },
+    {
+      "data": "1944-01-03",
+      "nr_decret_lege": "",
+      "nr_decizie_ministeriala": "100990",
+      "continut": "Evreii, indiferent de vârstă, nu pot activa sub nici o formă în întreprinderi sau firme, dacă nu au carnete pentru exercitarea profesiei. Include și alte restricții. (doc. 84, p. 255)"
+    },
+    {
+      "data": "1944-03-08",
+      "nr_decret_lege": "127",
+      "nr_decizie_ministeriala": "",
+      "continut": "Evreii sunt opriți din a menține în serviciu, a angaja sau a utiliza, sub orice formă, în serviciile casnice alt personal decât cel de religie mozaică. (doc. 87, p, 261)"
+    },
+    {
+      "data": "1944-05-26",
+      "nr_decret_lege": "1069",
+      "nr_decizie_ministeriala": "",
+      "continut": "Se pedepsește cu moartea trecerea frauduloasă a frontierei săvârșită de evrei ce vin din alte țări (în perioada deportărilor evreilor maghiari la Auschwitz de după ocuparea Ungariei de Germania). (doc. 89, p. 278)"
+    },
+    {
+      "data": "1944-07-19",
+      "nr_decret_lege": "390",
+      "nr_decizie_ministeriala": "",
+      "continut": "Evreii sunt exceptați de la înlesniri acordate celorlalți la depunerea de rufărie necesară armatei. *doc. 90, p. 279)"
+    }
+  ],
+  "meta": {
+    "title": "Legislația antievreiască din România (1940–1944) - Free Download",
+    "description": "Decretele-lege și deciziile ministeriale antievreiești adoptate în România în perioada 1940–1944: data, numărul decretului-lege sau al deciziei ministeriale și conținutul măsurii (definiția rasială, interdicții profesionale, confiscări de bunuri, restricții în educație etc.). Contains 67 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Legislația antievreiască din România (1940–1944) | ListBase",
+    "seo_description": "Download Legislația antievreiască din România (1940–1944) — 67 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 67 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Legi_antievreiești_în_România_(1934-1944)"
+    ]
+  }
+}
