@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-25T02:20:47.177Z",
-  "total_datasets": 539,
-  "total_records": 171051,
+  "generated": "2026-11-25T02:20:58.133Z",
+  "total_datasets": 540,
+  "total_records": 171060,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "education",
@@ -652,6 +652,40 @@
         "xlsx": {
           "name": "ro-ministri-finante_RO.xlsx",
           "size": 13348
+        }
+      }
+    },
+    {
+      "id": "ro-rata-somajului-pe-regiuni-de-dezvoltare",
+      "name": "Rata șomajului pe regiuni de dezvoltare ale României (2015–2025)",
+      "category": "economy",
+      "record_count": 9,
+      "columns": [
+        "regiune",
+        "cod_nuts",
+        "rata_somajului_2015",
+        "rata_somajului_2016",
+        "rata_somajului_2017",
+        "rata_somajului_2018",
+        "rata_somajului_2019",
+        "rata_somajului_2020",
+        "rata_somajului_2021",
+        "rata_somajului_2022",
+        "rata_somajului_2023",
+        "rata_somajului_2024",
+        "rata_somajului_2025"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/lfst_r_lfu3rt/default/table",
+      "updated": "2026-11",
+      "size": 7077,
+      "files": {
+        "csv": {
+          "name": "ro-rata-somajului-pe-regiuni-de-dezvoltare_RO.csv",
+          "size": 1028
+        },
+        "xlsx": {
+          "name": "ro-rata-somajului-pe-regiuni-de-dezvoltare_RO.xlsx",
+          "size": 7460
         }
       }
     },
