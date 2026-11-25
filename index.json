@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-25T02:20:34.794Z",
-  "total_datasets": 538,
-  "total_records": 171042,
+  "generated": "2026-11-25T02:20:47.177Z",
+  "total_datasets": 539,
+  "total_records": 171051,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "sports",
@@ -14123,6 +14123,40 @@
         "xlsx": {
           "name": "ro-judete-populatie-recensaminte_RO.xlsx",
           "size": 10085
+        }
+      }
+    },
+    {
+      "id": "ro-rata-riscului-de-saracie-pe-regiuni",
+      "name": "Rata riscului de sărăcie pe regiuni de dezvoltare ale României (2015–2025)",
+      "category": "society",
+      "record_count": 9,
+      "columns": [
+        "regiune",
+        "cod_nuts",
+        "rata_riscului_de_saracie_2015",
+        "rata_riscului_de_saracie_2016",
+        "rata_riscului_de_saracie_2017",
+        "rata_riscului_de_saracie_2018",
+        "rata_riscului_de_saracie_2019",
+        "rata_riscului_de_saracie_2020",
+        "rata_riscului_de_saracie_2021",
+        "rata_riscului_de_saracie_2022",
+        "rata_riscului_de_saracie_2023",
+        "rata_riscului_de_saracie_2024",
+        "rata_riscului_de_saracie_2025"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/ilc_li41/default/table",
+      "updated": "2026-11",
+      "size": 8509,
+      "files": {
+        "csv": {
+          "name": "ro-rata-riscului-de-saracie-pe-regiuni_RO.csv",
+          "size": 1226
+        },
+        "xlsx": {
+          "name": "ro-rata-riscului-de-saracie-pe-regiuni_RO.xlsx",
+          "size": 7507
         }
       }
     },
