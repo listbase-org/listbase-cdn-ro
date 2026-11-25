@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-24T02:22:34.608Z",
-  "total_datasets": 537,
-  "total_records": 170982,
+  "generated": "2026-11-25T02:20:34.794Z",
+  "total_datasets": 538,
+  "total_records": 171042,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "tourism",
@@ -14708,6 +14708,35 @@
         "xlsx": {
           "name": "ro-lunile-anului-nume-populare_RO.xlsx",
           "size": 7139
+        }
+      }
+    },
+    {
+      "id": "ro-ora-de-vara-date-trecere",
+      "name": "Trecerea la ora de vară și la ora de iarnă în România (1932–2030)",
+      "category": "time",
+      "record_count": 60,
+      "columns": [
+        "an",
+        "data_trecerii_la_ora_de_vara",
+        "ziua_trecerii_la_ora_de_vara",
+        "ora_de_vara_schimbare",
+        "data_trecerii_la_ora_de_iarna",
+        "ziua_trecerii_la_ora_de_iarna",
+        "ora_de_iarna_schimbare",
+        "zile_cu_ora_de_vara"
+      ],
+      "source": "https://github.com/eggert/tz/blob/main/europe",
+      "updated": "2026-11",
+      "size": 25255,
+      "files": {
+        "csv": {
+          "name": "ro-ora-de-vara-date-trecere_RO.csv",
+          "size": 6146
+        },
+        "xlsx": {
+          "name": "ro-ora-de-vara-date-trecere_RO.xlsx",
+          "size": 9423
         }
       }
     },
