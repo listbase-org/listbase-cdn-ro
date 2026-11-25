@@ -2,7 +2,7 @@
   "id": "ro-ora-de-vara-date-trecere",
   "name": "Trecerea la ora de vară și la ora de iarnă în România (1932–2030)",
   "title": "Trecerea la ora de vară și la ora de iarnă în România (1932–2030)",
-  "description": "Datele și orele la care România a trecut (sau va trece, conform regulilor actuale ale UE) la ora de vară (EEST, UTC+3) și înapoi la ora de iarnă (EET, UTC+2), în fiecare an în care s-a aplicat ora de vară: 1932–1939 și din 1979 până în 2030, cu ziua săptămânii și numărul de zile cu ora de vară. Sursa: baza de date IANA a fusurilor orare (zona Europe/Bucharest, versiunea 2026f).",
+  "description": "Datele și orele la care România a trecut (sau va trece, conform regulilor actuale ale UE) la ora de vară (EEST, UTC+3) și înapoi la ora de iarnă (EET, UTC+2), în fiecare an în care s-a aplicat ora de vară: 1932–1939 și din 1979 până în 2030, cu ziua săptămânii a trecerii la ora de vară și numărul de zile cu ora de vară. Sursa: baza de date IANA a fusurilor orare (zona Europe/Bucharest, versiunea 2026f).",
   "category": "time",
   "source": "https://github.com/eggert/tz/blob/main/europe",
   "source_url": "https://github.com/eggert/tz/blob/main/europe",
@@ -35,11 +35,6 @@
       "type": "date"
     },
     {
-      "key": "ziua_trecerii_la_ora_de_iarna",
-      "label": "Ziua Trecerii La Ora De Iarna",
-      "type": "string"
-    },
-    {
       "key": "ora_de_iarna_schimbare",
       "label": "Ora De Iarna Schimbare",
       "type": "string"
@@ -57,7 +52,6 @@
       "ziua_trecerii_la_ora_de_vara": "sâmbătă",
       "ora_de_vara_schimbare": "00:00 → 01:00",
       "data_trecerii_la_ora_de_iarna": "1932-10-02",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "01:00 → 00:00",
       "zile_cu_ora_de_vara": 134
     },
@@ -67,7 +61,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "00:00 → 01:00",
       "data_trecerii_la_ora_de_iarna": "1933-10-01",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "01:00 → 00:00",
       "zile_cu_ora_de_vara": 182
     },
@@ -77,7 +70,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "00:00 → 01:00",
       "data_trecerii_la_ora_de_iarna": "1934-10-07",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "01:00 → 00:00",
       "zile_cu_ora_de_vara": 182
     },
@@ -87,7 +79,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "00:00 → 01:00",
       "data_trecerii_la_ora_de_iarna": "1935-10-06",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "01:00 → 00:00",
       "zile_cu_ora_de_vara": 182
     },
@@ -97,7 +88,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "00:00 → 01:00",
       "data_trecerii_la_ora_de_iarna": "1936-10-04",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "01:00 → 00:00",
       "zile_cu_ora_de_vara": 182
     },
@@ -107,7 +97,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "00:00 → 01:00",
       "data_trecerii_la_ora_de_iarna": "1937-10-03",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "01:00 → 00:00",
       "zile_cu_ora_de_vara": 182
     },
@@ -117,7 +106,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "00:00 → 01:00",
       "data_trecerii_la_ora_de_iarna": "1938-10-02",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "01:00 → 00:00",
       "zile_cu_ora_de_vara": 182
     },
@@ -127,7 +115,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "00:00 → 01:00",
       "data_trecerii_la_ora_de_iarna": "1939-10-01",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "01:00 → 00:00",
       "zile_cu_ora_de_vara": 182
     },
@@ -137,7 +124,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "00:00 → 01:00",
       "data_trecerii_la_ora_de_iarna": "1979-09-30",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "00:00 → 23:00",
       "zile_cu_ora_de_vara": 126
     },
@@ -147,7 +133,6 @@
       "ziua_trecerii_la_ora_de_vara": "sâmbătă",
       "ora_de_vara_schimbare": "23:00 → 00:00",
       "data_trecerii_la_ora_de_iarna": "1980-09-28",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "01:00 → 00:00",
       "zile_cu_ora_de_vara": 176
     },
@@ -157,7 +142,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "02:00 → 03:00",
       "data_trecerii_la_ora_de_iarna": "1981-09-27",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "03:00 → 02:00",
       "zile_cu_ora_de_vara": 182
     },
@@ -167,7 +151,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "02:00 → 03:00",
       "data_trecerii_la_ora_de_iarna": "1982-09-26",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "03:00 → 02:00",
       "zile_cu_ora_de_vara": 182
     },
@@ -177,7 +160,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "02:00 → 03:00",
       "data_trecerii_la_ora_de_iarna": "1983-09-25",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "03:00 → 02:00",
       "zile_cu_ora_de_vara": 182
     },
@@ -187,7 +169,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "02:00 → 03:00",
       "data_trecerii_la_ora_de_iarna": "1984-09-30",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "03:00 → 02:00",
       "zile_cu_ora_de_vara": 189
     },
@@ -197,7 +178,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "02:00 → 03:00",
       "data_trecerii_la_ora_de_iarna": "1985-09-29",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "03:00 → 02:00",
       "zile_cu_ora_de_vara": 182
     },
@@ -207,7 +187,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "02:00 → 03:00",
       "data_trecerii_la_ora_de_iarna": "1986-09-28",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "03:00 → 02:00",
       "zile_cu_ora_de_vara": 182
     },
@@ -217,7 +196,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "02:00 → 03:00",
       "data_trecerii_la_ora_de_iarna": "1987-09-27",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "03:00 → 02:00",
       "zile_cu_ora_de_vara": 182
     },
@@ -227,7 +205,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "02:00 → 03:00",
       "data_trecerii_la_ora_de_iarna": "1988-09-25",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "03:00 → 02:00",
       "zile_cu_ora_de_vara": 182
     },
@@ -237,7 +214,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "02:00 → 03:00",
       "data_trecerii_la_ora_de_iarna": "1989-09-24",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "03:00 → 02:00",
       "zile_cu_ora_de_vara": 182
     },
@@ -247,7 +223,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "02:00 → 03:00",
       "data_trecerii_la_ora_de_iarna": "1990-09-30",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "03:00 → 02:00",
       "zile_cu_ora_de_vara": 189
     },
@@ -257,7 +232,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "00:00 → 01:00",
       "data_trecerii_la_ora_de_iarna": "1991-09-29",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "01:00 → 00:00",
       "zile_cu_ora_de_vara": 182
     },
@@ -267,7 +241,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "00:00 → 01:00",
       "data_trecerii_la_ora_de_iarna": "1992-09-27",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "01:00 → 00:00",
       "zile_cu_ora_de_vara": 182
     },
@@ -277,7 +250,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "00:00 → 01:00",
       "data_trecerii_la_ora_de_iarna": "1993-09-26",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "01:00 → 00:00",
       "zile_cu_ora_de_vara": 182
     },
@@ -287,7 +259,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "00:00 → 01:00",
       "data_trecerii_la_ora_de_iarna": "1994-09-25",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "00:00 → 23:00",
       "zile_cu_ora_de_vara": 182
     },
@@ -297,7 +268,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "00:00 → 01:00",
       "data_trecerii_la_ora_de_iarna": "1995-09-24",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "00:00 → 23:00",
       "zile_cu_ora_de_vara": 182
     },
@@ -307,7 +277,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "00:00 → 01:00",
       "data_trecerii_la_ora_de_iarna": "1996-10-27",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "00:00 → 23:00",
       "zile_cu_ora_de_vara": 210
     },
@@ -317,7 +286,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "03:00 → 04:00",
       "data_trecerii_la_ora_de_iarna": "1997-10-26",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "04:00 → 03:00",
       "zile_cu_ora_de_vara": 210
     },
@@ -327,7 +295,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "03:00 → 04:00",
       "data_trecerii_la_ora_de_iarna": "1998-10-25",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "04:00 → 03:00",
       "zile_cu_ora_de_vara": 210
     },
@@ -337,7 +304,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "03:00 → 04:00",
       "data_trecerii_la_ora_de_iarna": "1999-10-31",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "04:00 → 03:00",
       "zile_cu_ora_de_vara": 217
     },
@@ -347,7 +313,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "03:00 → 04:00",
       "data_trecerii_la_ora_de_iarna": "2000-10-29",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "04:00 → 03:00",
       "zile_cu_ora_de_vara": 217
     },
@@ -357,7 +322,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "03:00 → 04:00",
       "data_trecerii_la_ora_de_iarna": "2001-10-28",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "04:00 → 03:00",
       "zile_cu_ora_de_vara": 217
     },
@@ -367,7 +331,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "03:00 → 04:00",
       "data_trecerii_la_ora_de_iarna": "2002-10-27",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "04:00 → 03:00",
       "zile_cu_ora_de_vara": 210
     },
@@ -377,7 +340,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "03:00 → 04:00",
       "data_trecerii_la_ora_de_iarna": "2003-10-26",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "04:00 → 03:00",
       "zile_cu_ora_de_vara": 210
     },
@@ -387,7 +349,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "03:00 → 04:00",
       "data_trecerii_la_ora_de_iarna": "2004-10-31",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "04:00 → 03:00",
       "zile_cu_ora_de_vara": 217
     },
@@ -397,7 +358,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "03:00 → 04:00",
       "data_trecerii_la_ora_de_iarna": "2005-10-30",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "04:00 → 03:00",
       "zile_cu_ora_de_vara": 217
     },
@@ -407,7 +367,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "03:00 → 04:00",
       "data_trecerii_la_ora_de_iarna": "2006-10-29",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "04:00 → 03:00",
       "zile_cu_ora_de_vara": 217
     },
@@ -417,7 +376,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "03:00 → 04:00",
       "data_trecerii_la_ora_de_iarna": "2007-10-28",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "04:00 → 03:00",
       "zile_cu_ora_de_vara": 217
     },
@@ -427,7 +385,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "03:00 → 04:00",
       "data_trecerii_la_ora_de_iarna": "2008-10-26",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "04:00 → 03:00",
       "zile_cu_ora_de_vara": 210
     },
@@ -437,7 +394,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "03:00 → 04:00",
       "data_trecerii_la_ora_de_iarna": "2009-10-25",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "04:00 → 03:00",
       "zile_cu_ora_de_vara": 210
     },
@@ -447,7 +403,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "03:00 → 04:00",
       "data_trecerii_la_ora_de_iarna": "2010-10-31",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "04:00 → 03:00",
       "zile_cu_ora_de_vara": 217
     },
@@ -457,7 +412,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "03:00 → 04:00",
       "data_trecerii_la_ora_de_iarna": "2011-10-30",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "04:00 → 03:00",
       "zile_cu_ora_de_vara": 217
     },
@@ -467,7 +421,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "03:00 → 04:00",
       "data_trecerii_la_ora_de_iarna": "2012-10-28",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "04:00 → 03:00",
       "zile_cu_ora_de_vara": 217
     },
@@ -477,7 +430,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "03:00 → 04:00",
       "data_trecerii_la_ora_de_iarna": "2013-10-27",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "04:00 → 03:00",
       "zile_cu_ora_de_vara": 210
     },
@@ -487,7 +439,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "03:00 → 04:00",
       "data_trecerii_la_ora_de_iarna": "2014-10-26",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "04:00 → 03:00",
       "zile_cu_ora_de_vara": 210
     },
@@ -497,7 +448,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "03:00 → 04:00",
       "data_trecerii_la_ora_de_iarna": "2015-10-25",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "04:00 → 03:00",
       "zile_cu_ora_de_vara": 210
     },
@@ -507,7 +457,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "03:00 → 04:00",
       "data_trecerii_la_ora_de_iarna": "2016-10-30",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "04:00 → 03:00",
       "zile_cu_ora_de_vara": 217
     },
@@ -517,7 +466,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "03:00 → 04:00",
       "data_trecerii_la_ora_de_iarna": "2017-10-29",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "04:00 → 03:00",
       "zile_cu_ora_de_vara": 217
     },
@@ -527,7 +475,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "03:00 → 04:00",
       "data_trecerii_la_ora_de_iarna": "2018-10-28",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "04:00 → 03:00",
       "zile_cu_ora_de_vara": 217
     },
@@ -537,7 +484,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "03:00 → 04:00",
       "data_trecerii_la_ora_de_iarna": "2019-10-27",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "04:00 → 03:00",
       "zile_cu_ora_de_vara": 210
     },
@@ -547,7 +493,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "03:00 → 04:00",
       "data_trecerii_la_ora_de_iarna": "2020-10-25",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "04:00 → 03:00",
       "zile_cu_ora_de_vara": 210
     },
@@ -557,7 +502,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "03:00 → 04:00",
       "data_trecerii_la_ora_de_iarna": "2021-10-31",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "04:00 → 03:00",
       "zile_cu_ora_de_vara": 217
     },
@@ -567,7 +511,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "03:00 → 04:00",
       "data_trecerii_la_ora_de_iarna": "2022-10-30",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "04:00 → 03:00",
       "zile_cu_ora_de_vara": 217
     },
@@ -577,7 +520,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "03:00 → 04:00",
       "data_trecerii_la_ora_de_iarna": "2023-10-29",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "04:00 → 03:00",
       "zile_cu_ora_de_vara": 217
     },
@@ -587,7 +529,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "03:00 → 04:00",
       "data_trecerii_la_ora_de_iarna": "2024-10-27",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "04:00 → 03:00",
       "zile_cu_ora_de_vara": 210
     },
@@ -597,7 +538,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "03:00 → 04:00",
       "data_trecerii_la_ora_de_iarna": "2025-10-26",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "04:00 → 03:00",
       "zile_cu_ora_de_vara": 210
     },
@@ -607,7 +547,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "03:00 → 04:00",
       "data_trecerii_la_ora_de_iarna": "2026-10-25",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "04:00 → 03:00",
       "zile_cu_ora_de_vara": 210
     },
@@ -617,7 +556,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "03:00 → 04:00",
       "data_trecerii_la_ora_de_iarna": "2027-10-31",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "04:00 → 03:00",
       "zile_cu_ora_de_vara": 217
     },
@@ -627,7 +565,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "03:00 → 04:00",
       "data_trecerii_la_ora_de_iarna": "2028-10-29",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "04:00 → 03:00",
       "zile_cu_ora_de_vara": 217
     },
@@ -637,7 +574,6 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "03:00 → 04:00",
       "data_trecerii_la_ora_de_iarna": "2029-10-28",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "04:00 → 03:00",
       "zile_cu_ora_de_vara": 217
     },
@@ -647,18 +583,17 @@
       "ziua_trecerii_la_ora_de_vara": "duminică",
       "ora_de_vara_schimbare": "03:00 → 04:00",
       "data_trecerii_la_ora_de_iarna": "2030-10-27",
-      "ziua_trecerii_la_ora_de_iarna": "duminică",
       "ora_de_iarna_schimbare": "04:00 → 03:00",
       "zile_cu_ora_de_vara": 210
     }
   ],
   "meta": {
     "title": "Trecerea la ora de vară și la ora de iarnă în România (1932–2030) - Free Download",
-    "description": "Datele și orele la care România a trecut (sau va trece, conform regulilor actuale ale UE) la ora de vară (EEST, UTC+3) și înapoi la ora de iarnă (EET, UTC+2), în fiecare an în care s-a aplicat ora de vară: 1932–1939 și din 1979 până în 2030, cu ziua săptămânii și numărul de zile cu ora de vară. Sursa: baza de date IANA a fusurilor orare (zona Europe/Bucharest, versiunea 2026f). Contains 60 records. Download in Excel, CSV, PDF formats.",
+    "description": "Datele și orele la care România a trecut (sau va trece, conform regulilor actuale ale UE) la ora de vară (EEST, UTC+3) și înapoi la ora de iarnă (EET, UTC+2), în fiecare an în care s-a aplicat ora de vară: 1932–1939 și din 1979 până în 2030, cu ziua săptămânii a trecerii la ora de vară și numărul de zile cu ora de vară. Sursa: baza de date IANA a fusurilor orare (zona Europe/Bucharest, versiunea 2026f). Contains 60 records. Download in Excel, CSV, PDF formats.",
     "seo_title": "Trecerea la ora de vară și la ora de iarnă în România (1932–2030) | ListBase",
     "seo_description": "Download Trecerea la ora de vară și la ora de iarnă în România (1932–2030) — 60 records. Available in Excel, CSV, PDF formats.",
     "key_takeaways": [
-      "Contains 60 records / 8 fields",
+      "Contains 60 records / 7 fields",
       "Available for free download in Excel, CSV, and PDF formats",
       "Data sourced from: https://github.com/eggert/tz/blob/main/europe"
     ]

@@ -1,6 +1,6 @@
 {
   "lang": "ro",
-  "generated": "2026-11-25T02:20:58.133Z",
+  "generated": "2026-11-25T02:21:35.967Z",
   "total_datasets": 540,
   "total_records": 171060,
   "categories": [
@@ -14790,21 +14790,20 @@
         "ziua_trecerii_la_ora_de_vara",
         "ora_de_vara_schimbare",
         "data_trecerii_la_ora_de_iarna",
-        "ziua_trecerii_la_ora_de_iarna",
         "ora_de_iarna_schimbare",
         "zile_cu_ora_de_vara"
       ],
       "source": "https://github.com/eggert/tz/blob/main/europe",
       "updated": "2026-11",
-      "size": 25255,
+      "size": 22059,
       "files": {
         "csv": {
           "name": "ro-ora-de-vara-date-trecere_RO.csv",
-          "size": 6146
+          "size": 5394
         },
         "xlsx": {
           "name": "ro-ora-de-vara-date-trecere_RO.xlsx",
-          "size": 9423
+          "size": 9244
         }
       }
     },
