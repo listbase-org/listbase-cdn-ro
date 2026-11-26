@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-26T02:15:55.258Z",
-  "total_datasets": 542,
-  "total_records": 171124,
+  "generated": "2026-11-26T02:16:06.080Z",
+  "total_datasets": 543,
+  "total_records": 171133,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "music",
@@ -6708,6 +6708,42 @@
         "xlsx": {
           "name": "ro-curti-de-apel_RO.xlsx",
           "size": 7649
+        }
+      }
+    },
+    {
+      "id": "ro-infractiuni-inregistrate-pe-tipuri",
+      "name": "Infracțiuni înregistrate de poliție în România pe tipuri (2016–2024)",
+      "category": "law",
+      "record_count": 9,
+      "columns": [
+        "year",
+        "intentional_homicide",
+        "attempted_homicide",
+        "serious_assault",
+        "kidnapping",
+        "sexual_violence",
+        "rape",
+        "robbery",
+        "burglary",
+        "theft",
+        "motor_vehicle_theft",
+        "drug_offences",
+        "corruption",
+        "bribery",
+        "money_laundering"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/crim_off_cat/default/table",
+      "updated": "2026-11",
+      "size": 7314,
+      "files": {
+        "csv": {
+          "name": "ro-infractiuni-inregistrate-pe-tipuri_RO.csv",
+          "size": 1130
+        },
+        "xlsx": {
+          "name": "ro-infractiuni-inregistrate-pe-tipuri_RO.xlsx",
+          "size": 7735
         }
       }
     },
