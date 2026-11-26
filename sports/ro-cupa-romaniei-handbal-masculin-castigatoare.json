@@ -1,0 +1,286 @@
+{
+  "id": "ro-cupa-romaniei-handbal-masculin-castigatoare",
+  "name": "Cupa României la handbal masculin — câștigătoare și finaliste",
+  "title": "Cupa României la handbal masculin — câștigătoare și finaliste",
+  "description": "Câștigătoarele, finalistele și echipele clasate pe locul trei în Cupa României la handbal masculin, pe sezoane, de la prima ediție (1977–78) până în prezent.",
+  "category": "sports",
+  "source": "https://ro.wikipedia.org/wiki/Cupa_României_(handbal_masculin)",
+  "source_url": "https://ro.wikipedia.org/wiki/Cupa_României_(handbal_masculin)",
+  "updated": "2026-11",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "season",
+      "label": "Season",
+      "type": "string"
+    },
+    {
+      "key": "winner",
+      "label": "Winner",
+      "type": "string"
+    },
+    {
+      "key": "runner_up",
+      "label": "Runner Up",
+      "type": "string"
+    },
+    {
+      "key": "third_place",
+      "label": "Third Place",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "season": "1977–78",
+      "winner": "Minaur Baia Mare",
+      "runner_up": "Steaua București",
+      "third_place": "Dinamo București"
+    },
+    {
+      "season": "1978–79",
+      "winner": "Dinamo București",
+      "runner_up": "Steaua București",
+      "third_place": "Știința Bacău"
+    },
+    {
+      "season": "1980–81",
+      "winner": "Steaua București",
+      "runner_up": "Dinamo București",
+      "third_place": "Minaur Baia Mare"
+    },
+    {
+      "season": "1981–82",
+      "winner": "Dinamo București",
+      "runner_up": "Steaua București",
+      "third_place": "Minaur Baia Mare"
+    },
+    {
+      "season": "1982–83",
+      "winner": "Minaur Baia Mare",
+      "runner_up": "Politehnica Timișoara",
+      "third_place": "Independența Mârșa"
+    },
+    {
+      "season": "1983–84",
+      "winner": "Minaur Baia Mare",
+      "runner_up": "Dinamo București",
+      "third_place": "Steaua București"
+    },
+    {
+      "season": "1984–85",
+      "winner": "Steaua București",
+      "runner_up": "Minaur Baia Mare",
+      "third_place": "Dinamo București"
+    },
+    {
+      "season": "1985–86",
+      "winner": "Politehnica Timișoara",
+      "runner_up": "Dinamo București",
+      "third_place": "Steaua București"
+    },
+    {
+      "season": "1987–88",
+      "winner": "Dinamo București",
+      "runner_up": "Politehnica Timișoara",
+      "third_place": "Steaua București"
+    },
+    {
+      "season": "1988–89",
+      "winner": "Minaur Baia Mare",
+      "runner_up": "Steaua București",
+      "third_place": "Electromureș Târgu Mureș"
+    },
+    {
+      "season": "1989–90",
+      "winner": "Steaua București",
+      "runner_up": "Dinamo București",
+      "third_place": "Hidrotehnica Constanța"
+    },
+    {
+      "season": "1990–91",
+      "winner": "Universitatea Craiova",
+      "runner_up": "Steaua București",
+      "third_place": "Știința Bacău"
+    },
+    {
+      "season": "1996–97",
+      "winner": "Steaua București",
+      "runner_up": "Dinamo București",
+      "third_place": "Minaur Baia Mare"
+    },
+    {
+      "season": "1998–99",
+      "winner": "Minaur Baia Mare",
+      "runner_up": "Steaua București",
+      "third_place": "Universitatea CUG Cluj"
+    },
+    {
+      "season": "1999–00",
+      "winner": "Steaua București",
+      "runner_up": "Fibrexnylon Săvinești",
+      "third_place": ""
+    },
+    {
+      "season": "2000–01",
+      "winner": "Steaua București",
+      "runner_up": "Fibrexnylon Săvinești",
+      "third_place": "Dinamo UTI București"
+    },
+    {
+      "season": "2001–02",
+      "winner": "Fibrexnylon Săvinești",
+      "runner_up": "HCM Constanța",
+      "third_place": "Dinamo UTI București"
+    },
+    {
+      "season": "2002–03",
+      "winner": "Fibrexnylon Săvinești",
+      "runner_up": "Steaua București",
+      "third_place": ""
+    },
+    {
+      "season": "2003–04",
+      "winner": "Fibrexnylon Săvinești",
+      "runner_up": "Dinamo București",
+      "third_place": ""
+    },
+    {
+      "season": "2005–06",
+      "winner": "HCM Constanța",
+      "runner_up": "Dinamo București",
+      "third_place": ""
+    },
+    {
+      "season": "2006–07",
+      "winner": "Steaua MFA București",
+      "runner_up": "HCM Constanța",
+      "third_place": "Dinamo Baumit București"
+    },
+    {
+      "season": "2007–08",
+      "winner": "Steaua MFA București",
+      "runner_up": "HCM Constanța",
+      "third_place": "Știința Municipal Dedeman Bacău"
+    },
+    {
+      "season": "2008–09",
+      "winner": "Steaua MFA București",
+      "runner_up": "UCM Reșița",
+      "third_place": "HCM Constanța"
+    },
+    {
+      "season": "2009–10",
+      "winner": "UCM Reșița",
+      "runner_up": "HCM Constanța",
+      "third_place": "Universitatea Bucovina Suceava"
+    },
+    {
+      "season": "2010–11",
+      "winner": "HCM Constanța",
+      "runner_up": "Energia Pandurii Târgu Jiu",
+      "third_place": "CSU Universitatea Transilvania Cluj"
+    },
+    {
+      "season": "2011–12",
+      "winner": "HCM Constanța",
+      "runner_up": "Știința Municipal Dedeman Bacău",
+      "third_place": "Universitatea Bucovina Suceava"
+    },
+    {
+      "season": "2012–13",
+      "winner": "HCM Constanța",
+      "runner_up": "Știința Municipal Dedeman Bacău",
+      "third_place": "Potaissa Turda"
+    },
+    {
+      "season": "2013–14",
+      "winner": "HCM Constanța",
+      "runner_up": "Știința Municipal Dedeman Bacău",
+      "third_place": "CSM București"
+    },
+    {
+      "season": "2014–15",
+      "winner": "Minaur Baia Mare",
+      "runner_up": "Energia Pandurii Târgu Jiu",
+      "third_place": "HC Odorhei"
+    },
+    {
+      "season": "2015–16",
+      "winner": "CSM București",
+      "runner_up": "Steaua București",
+      "third_place": "HC Dobrogea Sud Constanța"
+    },
+    {
+      "season": "2016–17",
+      "winner": "Dinamo București",
+      "runner_up": "HC Dobrogea Sud Constanța",
+      "third_place": "CSM București"
+    },
+    {
+      "season": "2017–18",
+      "winner": "HC Dobrogea Sud Constanța",
+      "runner_up": "Politehnica Timișoara",
+      "third_place": "Minaur Baia Mare"
+    },
+    {
+      "season": "2018–19",
+      "winner": "Politehnica Timișoara",
+      "runner_up": "Steaua București",
+      "third_place": "Dinamo București"
+    },
+    {
+      "season": "2019–20",
+      "winner": "Dinamo București",
+      "runner_up": "HC Dobrogea Sud Constanța",
+      "third_place": "Politehnica Timișoara"
+    },
+    {
+      "season": "2020–21",
+      "winner": "Dinamo București",
+      "runner_up": "HC Dobrogea Sud Constanța",
+      "third_place": "Steaua București"
+    },
+    {
+      "season": "2021–22",
+      "winner": "Dinamo București",
+      "runner_up": "Steaua București",
+      "third_place": "HC Dobrogea Sud Constanța"
+    },
+    {
+      "season": "2022–23",
+      "winner": "CSM Constanța",
+      "runner_up": "Minaur Baia Mare",
+      "third_place": "CSU Suceava"
+    },
+    {
+      "season": "2023–24",
+      "winner": "Dinamo București",
+      "runner_up": "CSM Constanța",
+      "third_place": "CSM București"
+    },
+    {
+      "season": "2024–25",
+      "winner": "Dinamo București",
+      "runner_up": "Potaissa Turda",
+      "third_place": "Minaur Baia Mare"
+    },
+    {
+      "season": "2025–26",
+      "winner": "Dinamo București",
+      "runner_up": "Politehnica Timișoara",
+      "third_place": "Minaur Baia Mare"
+    }
+  ],
+  "meta": {
+    "title": "Cupa României la handbal masculin — câștigătoare și finaliste - Free Download",
+    "description": "Câștigătoarele, finalistele și echipele clasate pe locul trei în Cupa României la handbal masculin, pe sezoane, de la prima ediție (1977–78) până în prezent. Contains 40 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Cupa României la handbal masculin — câștigătoare și finaliste | ListBase",
+    "seo_description": "Download Cupa României la handbal masculin — câștigătoare și finaliste — 40 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 40 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Cupa_României_(handbal_masculin)"
+    ]
+  }
+}

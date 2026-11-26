@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-25T02:21:35.967Z",
-  "total_datasets": 540,
-  "total_records": 171060,
+  "generated": "2026-11-26T02:15:43.894Z",
+  "total_datasets": 541,
+  "total_records": 171100,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "tech",
@@ -14419,6 +14419,31 @@
         "xlsx": {
           "name": "ro-cupa-romaniei-fotbal-feminin-finale_RO.xlsx",
           "size": 7498
+        }
+      }
+    },
+    {
+      "id": "ro-cupa-romaniei-handbal-masculin-castigatoare",
+      "name": "Cupa României la handbal masculin — câștigătoare și finaliste",
+      "category": "sports",
+      "record_count": 40,
+      "columns": [
+        "season",
+        "winner",
+        "runner_up",
+        "third_place"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Cupa_României_(handbal_masculin)",
+      "updated": "2026-11",
+      "size": 8434,
+      "files": {
+        "csv": {
+          "name": "ro-cupa-romaniei-handbal-masculin-castigatoare_RO.csv",
+          "size": 3072
+        },
+        "xlsx": {
+          "name": "ro-cupa-romaniei-handbal-masculin-castigatoare_RO.xlsx",
+          "size": 8097
         }
       }
     },
