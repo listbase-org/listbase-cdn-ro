@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-26T02:15:43.894Z",
-  "total_datasets": 541,
-  "total_records": 171100,
+  "generated": "2026-11-26T02:15:55.258Z",
+  "total_datasets": 542,
+  "total_records": 171124,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "finance",
@@ -2442,6 +2442,33 @@
         "xlsx": {
           "name": "ro-cutremure_RO.xlsx",
           "size": 13245
+        }
+      }
+    },
+    {
+      "id": "ro-deseuri-municipale-pe-locuitor",
+      "name": "Deșeuri municipale generate și tratate în România pe locuitor (2000–2023)",
+      "category": "environment",
+      "record_count": 24,
+      "columns": [
+        "year",
+        "generated_kg_per_capita",
+        "treated_kg_per_capita",
+        "material_recycling_kg_per_capita",
+        "composting_digestion_kg_per_capita",
+        "energy_recovery_incineration_kg_per_capita"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/env_wasmun/default/table",
+      "updated": "2026-11",
+      "size": 8691,
+      "files": {
+        "csv": {
+          "name": "ro-deseuri-municipale-pe-locuitor_RO.csv",
+          "size": 952
+        },
+        "xlsx": {
+          "name": "ro-deseuri-municipale-pe-locuitor_RO.xlsx",
+          "size": 7518
         }
       }
     },
