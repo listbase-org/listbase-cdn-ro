@@ -2,7 +2,7 @@
   "id": "ro-deseuri-municipale-pe-locuitor",
   "name": "Deșeuri municipale generate și tratate în România pe locuitor (2000–2023)",
   "title": "Deșeuri municipale generate și tratate în România pe locuitor (2000–2023)",
-  "description": "Cantitatea anuală de deșeuri municipale generate și tratate în România, în kg pe locuitor, pe metode de tratare: reciclare materială, compostare și digestie anaerobă, valorificare energetică/incinerare, depozitare și alte eliminări, 2000–2023. Sursa: Eurostat (env_wasmun).",
+  "description": "Cantitatea anuală de deșeuri municipale generate și tratate în România, în kg pe locuitor, pe metode de tratare: reciclare materială, compostare și digestie anaerobă, valorificare energetică/incinerare, depozitare la groapă și alte eliminări, 2000–2023. Sursa: Eurostat (env_wasmun).",
   "category": "environment",
   "source": "https://ec.europa.eu/eurostat/databrowser/view/env_wasmun/default/table",
   "source_url": "https://ec.europa.eu/eurostat/databrowser/view/env_wasmun/default/table",
@@ -38,6 +38,11 @@
       "key": "energy_recovery_incineration_kg_per_capita",
       "label": "Energy Recovery Incineration Kg Per Capita",
       "type": "number"
+    },
+    {
+      "key": "landfill_other_disposal_kg_per_capita",
+      "label": "Landfill Other Disposal Kg Per Capita",
+      "type": "number"
     }
   ],
   "rows": [
@@ -47,7 +52,8 @@
       "treated_kg_per_capita": 295,
       "material_recycling_kg_per_capita": 0,
       "composting_digestion_kg_per_capita": 0,
-      "energy_recovery_incineration_kg_per_capita": 0
+      "energy_recovery_incineration_kg_per_capita": 0,
+      "landfill_other_disposal_kg_per_capita": 295
     },
     {
       "year": 2001,
@@ -55,7 +61,8 @@
       "treated_kg_per_capita": 275,
       "material_recycling_kg_per_capita": 6,
       "composting_digestion_kg_per_capita": 0,
-      "energy_recovery_incineration_kg_per_capita": 0
+      "energy_recovery_incineration_kg_per_capita": 0,
+      "landfill_other_disposal_kg_per_capita": 269
     },
     {
       "year": 2002,
@@ -63,7 +70,8 @@
       "treated_kg_per_capita": 316,
       "material_recycling_kg_per_capita": 8,
       "composting_digestion_kg_per_capita": 0,
-      "energy_recovery_incineration_kg_per_capita": 0
+      "energy_recovery_incineration_kg_per_capita": 0,
+      "landfill_other_disposal_kg_per_capita": 308
     },
     {
       "year": 2003,
@@ -71,7 +79,8 @@
       "treated_kg_per_capita": 280,
       "material_recycling_kg_per_capita": 1,
       "composting_digestion_kg_per_capita": 0,
-      "energy_recovery_incineration_kg_per_capita": 0
+      "energy_recovery_incineration_kg_per_capita": 0,
+      "landfill_other_disposal_kg_per_capita": 279
     },
     {
       "year": 2004,
@@ -79,7 +88,8 @@
       "treated_kg_per_capita": 280,
       "material_recycling_kg_per_capita": 4,
       "composting_digestion_kg_per_capita": 0,
-      "energy_recovery_incineration_kg_per_capita": 0
+      "energy_recovery_incineration_kg_per_capita": 0,
+      "landfill_other_disposal_kg_per_capita": 276
     },
     {
       "year": 2005,
@@ -87,7 +97,8 @@
       "treated_kg_per_capita": 308,
       "material_recycling_kg_per_capita": 7,
       "composting_digestion_kg_per_capita": 0,
-      "energy_recovery_incineration_kg_per_capita": 0
+      "energy_recovery_incineration_kg_per_capita": 0,
+      "landfill_other_disposal_kg_per_capita": 301
     },
     {
       "year": 2006,
@@ -95,7 +106,8 @@
       "treated_kg_per_capita": 299,
       "material_recycling_kg_per_capita": 2,
       "composting_digestion_kg_per_capita": 0,
-      "energy_recovery_incineration_kg_per_capita": 0
+      "energy_recovery_incineration_kg_per_capita": 0,
+      "landfill_other_disposal_kg_per_capita": 297
     },
     {
       "year": 2007,
@@ -103,7 +115,8 @@
       "treated_kg_per_capita": 295,
       "material_recycling_kg_per_capita": 2,
       "composting_digestion_kg_per_capita": 0,
-      "energy_recovery_incineration_kg_per_capita": 0
+      "energy_recovery_incineration_kg_per_capita": 0,
+      "landfill_other_disposal_kg_per_capita": 293
     },
     {
       "year": 2008,
@@ -111,7 +124,8 @@
       "treated_kg_per_capita": 319,
       "material_recycling_kg_per_capita": 4,
       "composting_digestion_kg_per_capita": 0,
-      "energy_recovery_incineration_kg_per_capita": 0
+      "energy_recovery_incineration_kg_per_capita": 0,
+      "landfill_other_disposal_kg_per_capita": 316
     },
     {
       "year": 2009,
@@ -119,7 +133,8 @@
       "treated_kg_per_capita": 307,
       "material_recycling_kg_per_capita": 4,
       "composting_digestion_kg_per_capita": 0,
-      "energy_recovery_incineration_kg_per_capita": 0
+      "energy_recovery_incineration_kg_per_capita": 0,
+      "landfill_other_disposal_kg_per_capita": 303
     },
     {
       "year": 2010,
@@ -127,7 +142,8 @@
       "treated_kg_per_capita": 279,
       "material_recycling_kg_per_capita": 8,
       "composting_digestion_kg_per_capita": 32,
-      "energy_recovery_incineration_kg_per_capita": 1
+      "energy_recovery_incineration_kg_per_capita": 1,
+      "landfill_other_disposal_kg_per_capita": 238
     },
     {
       "year": 2011,
@@ -135,7 +151,8 @@
       "treated_kg_per_capita": 234,
       "material_recycling_kg_per_capita": 9,
       "composting_digestion_kg_per_capita": 22,
-      "energy_recovery_incineration_kg_per_capita": 2
+      "energy_recovery_incineration_kg_per_capita": 2,
+      "landfill_other_disposal_kg_per_capita": 201
     },
     {
       "year": 2012,
@@ -143,7 +160,8 @@
       "treated_kg_per_capita": 212,
       "material_recycling_kg_per_capita": 8,
       "composting_digestion_kg_per_capita": 29,
-      "energy_recovery_incineration_kg_per_capita": 4
+      "energy_recovery_incineration_kg_per_capita": 4,
+      "landfill_other_disposal_kg_per_capita": 171
     },
     {
       "year": 2013,
@@ -151,7 +169,8 @@
       "treated_kg_per_capita": 214,
       "material_recycling_kg_per_capita": 11,
       "composting_digestion_kg_per_capita": 23,
-      "energy_recovery_incineration_kg_per_capita": 5
+      "energy_recovery_incineration_kg_per_capita": 5,
+      "landfill_other_disposal_kg_per_capita": 175
     },
     {
       "year": 2014,
@@ -159,7 +178,8 @@
       "treated_kg_per_capita": 218,
       "material_recycling_kg_per_capita": 13,
       "composting_digestion_kg_per_capita": 20,
-      "energy_recovery_incineration_kg_per_capita": 7
+      "energy_recovery_incineration_kg_per_capita": 7,
+      "landfill_other_disposal_kg_per_capita": 179
     },
     {
       "year": 2015,
@@ -167,7 +187,8 @@
       "treated_kg_per_capita": 216,
       "material_recycling_kg_per_capita": 14,
       "composting_digestion_kg_per_capita": 18,
-      "energy_recovery_incineration_kg_per_capita": 6
+      "energy_recovery_incineration_kg_per_capita": 6,
+      "landfill_other_disposal_kg_per_capita": 178
     },
     {
       "year": 2016,
@@ -175,7 +196,8 @@
       "treated_kg_per_capita": 242,
       "material_recycling_kg_per_capita": 17,
       "composting_digestion_kg_per_capita": 18,
-      "energy_recovery_incineration_kg_per_capita": 11
+      "energy_recovery_incineration_kg_per_capita": 11,
+      "landfill_other_disposal_kg_per_capita": 190
     },
     {
       "year": 2017,
@@ -183,7 +205,8 @@
       "treated_kg_per_capita": 259,
       "material_recycling_kg_per_capita": 20,
       "composting_digestion_kg_per_capita": 18,
-      "energy_recovery_incineration_kg_per_capita": 12
+      "energy_recovery_incineration_kg_per_capita": 12,
+      "landfill_other_disposal_kg_per_capita": 207
     },
     {
       "year": 2018,
@@ -191,7 +214,8 @@
       "treated_kg_per_capita": 255,
       "material_recycling_kg_per_capita": 21,
       "composting_digestion_kg_per_capita": 9,
-      "energy_recovery_incineration_kg_per_capita": 12
+      "energy_recovery_incineration_kg_per_capita": 12,
+      "landfill_other_disposal_kg_per_capita": 210
     },
     {
       "year": 2019,
@@ -199,7 +223,8 @@
       "treated_kg_per_capita": 258,
       "material_recycling_kg_per_capita": 20,
       "composting_digestion_kg_per_capita": 12,
-      "energy_recovery_incineration_kg_per_capita": 13
+      "energy_recovery_incineration_kg_per_capita": 13,
+      "landfill_other_disposal_kg_per_capita": 213
     },
     {
       "year": 2020,
@@ -207,7 +232,8 @@
       "treated_kg_per_capita": 265,
       "material_recycling_kg_per_capita": 17,
       "composting_digestion_kg_per_capita": 18,
-      "energy_recovery_incineration_kg_per_capita": 15
+      "energy_recovery_incineration_kg_per_capita": 15,
+      "landfill_other_disposal_kg_per_capita": 214
     },
     {
       "year": 2021,
@@ -215,7 +241,8 @@
       "treated_kg_per_capita": 280,
       "material_recycling_kg_per_capita": 22,
       "composting_digestion_kg_per_capita": 15,
-      "energy_recovery_incineration_kg_per_capita": 17
+      "energy_recovery_incineration_kg_per_capita": 17,
+      "landfill_other_disposal_kg_per_capita": 223
     },
     {
       "year": 2022,
@@ -223,7 +250,8 @@
       "treated_kg_per_capita": 284,
       "material_recycling_kg_per_capita": 22,
       "composting_digestion_kg_per_capita": 15,
-      "energy_recovery_incineration_kg_per_capita": 20
+      "energy_recovery_incineration_kg_per_capita": 20,
+      "landfill_other_disposal_kg_per_capita": 223
     },
     {
       "year": 2023,
@@ -231,16 +259,17 @@
       "treated_kg_per_capita": 288,
       "material_recycling_kg_per_capita": 24,
       "composting_digestion_kg_per_capita": 14,
-      "energy_recovery_incineration_kg_per_capita": 16
+      "energy_recovery_incineration_kg_per_capita": 16,
+      "landfill_other_disposal_kg_per_capita": 231
     }
   ],
   "meta": {
     "title": "Deșeuri municipale generate și tratate în România pe locuitor (2000–2023) - Free Download",
-    "description": "Cantitatea anuală de deșeuri municipale generate și tratate în România, în kg pe locuitor, pe metode de tratare: reciclare materială, compostare și digestie anaerobă, valorificare energetică/incinerare, depozitare și alte eliminări, 2000–2023. Sursa: Eurostat (env_wasmun). Contains 24 records. Download in Excel, CSV, PDF formats.",
+    "description": "Cantitatea anuală de deșeuri municipale generate și tratate în România, în kg pe locuitor, pe metode de tratare: reciclare materială, compostare și digestie anaerobă, valorificare energetică/incinerare, depozitare la groapă și alte eliminări, 2000–2023. Sursa: Eurostat (env_wasmun). Contains 24 records. Download in Excel, CSV, PDF formats.",
     "seo_title": "Deșeuri municipale generate și tratate în România pe locuitor (2000–2023) | ListBase",
     "seo_description": "Download Deșeuri municipale generate și tratate în România pe locuitor (2000–2023) — 24 records. Available in Excel, CSV, PDF formats.",
     "key_takeaways": [
-      "Contains 24 records / 6 fields",
+      "Contains 24 records / 7 fields",
       "Available for free download in Excel, CSV, and PDF formats",
       "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/env_wasmun/default/table"
     ]
