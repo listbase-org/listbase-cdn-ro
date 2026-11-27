@@ -1,0 +1,296 @@
+{
+  "id": "ro-reptile-din-romania",
+  "name": "Reptile din România",
+  "title": "Reptile din România",
+  "description": "Lista speciilor și subspeciilor de reptile (țestoase, șopârle și șerpi) întâlnite în România, cu denumirea științifică, denumirile populare, grupa și observații.",
+  "category": "science",
+  "source": "https://ro.wikipedia.org/wiki/Listă_de_reptile_din_România",
+  "source_url": "https://ro.wikipedia.org/wiki/Listă_de_reptile_din_România",
+  "updated": "2026-11",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "scientific_name",
+      "label": "Scientific Name",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "other_names",
+      "label": "Other Names",
+      "type": "string"
+    },
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "scientific_name": "Emys orbicularis",
+      "name": "Țestoasa de apă",
+      "other_names": "",
+      "group": "Țestoase",
+      "note": ""
+    },
+    {
+      "scientific_name": "Trachemys scripta scripta",
+      "name": "Țestoasă de Florida cu tâmple galbene",
+      "other_names": "",
+      "group": "Țestoase",
+      "note": "Subspecie introdusă în România din America."
+    },
+    {
+      "scientific_name": "Trachemys scripta elegans",
+      "name": "Țestoasă de Florida cu tâmple roșii",
+      "other_names": "",
+      "group": "Țestoase",
+      "note": "Subspecie introdusă în România din America."
+    },
+    {
+      "scientific_name": "Testudo graeca ibera",
+      "name": "Țestoasa de uscat dobrogeană",
+      "other_names": "Țestoasă de uscat",
+      "group": "Țestoase",
+      "note": ""
+    },
+    {
+      "scientific_name": "Testudo hermanni boettgeri",
+      "name": "Țestoasa de uscat bănățeană",
+      "other_names": "Țestoasă de uscat",
+      "group": "Țestoase",
+      "note": "În România se întâlnește subspecia Testudo hermanni boettgeri, deși în literatura de specialitate se mai păstrează denumirea de Testudo hermanni hermanni Gmelin 1789 (care de fapt se întâlnește vestul Europei)."
+    },
+    {
+      "scientific_name": "Caretta caretta caretta",
+      "name": "Țestoasa de mare",
+      "other_names": "",
+      "group": "Țestoase",
+      "note": "În Marea Neagră a fost găsit un singur exemplar, aruncat de valurile mării la 29.III.1937 în dreptul Capului Caliacra."
+    },
+    {
+      "scientific_name": "Ablepharus kitaibelii stepaneki",
+      "name": "Șopârlița de frunzar",
+      "other_names": "",
+      "group": "Șopârle",
+      "note": "Descrisă de Fuhn și Vancea ca Ablepharus kitaibelii fitzingeri. De fapt Ablepharus kitaibelii fitzingeri este răspândită în Slovacia și Ungaria, iar Ablepharus kitaibelii stepaneki în România și Bulgaria"
+    },
+    {
+      "scientific_name": "Lacerta agilis agilis",
+      "name": "Șopârla de câmp",
+      "other_names": "",
+      "group": "Șopârle",
+      "note": ""
+    },
+    {
+      "scientific_name": "Lacerta agilis euxinica",
+      "name": "Șopârlă de grind",
+      "other_names": "",
+      "group": "Șopârle",
+      "note": "Validitatea taxonului este contestată, Lacerta agilis euxinica fiind considerată de unii autori ca o denumire sinonimă a subspeciei Lacerta agilis chersonensis"
+    },
+    {
+      "scientific_name": "Lacerta agilis chersonensis",
+      "name": "Șopârlă de stepă",
+      "other_names": "Șopârla de câmp",
+      "group": "Șopârle",
+      "note": ""
+    },
+    {
+      "scientific_name": "Lacerta diplochondrodes dobrogica",
+      "name": "Gușterul vărgat",
+      "other_names": "",
+      "group": "Șopârle",
+      "note": ""
+    },
+    {
+      "scientific_name": "Lacerta viridis viridis",
+      "name": "Gușterul",
+      "other_names": "",
+      "group": "Șopârle",
+      "note": ""
+    },
+    {
+      "scientific_name": "Lacerta viridis meridionalis",
+      "name": "Gușterul sudic",
+      "other_names": "",
+      "group": "Șopârle",
+      "note": ""
+    },
+    {
+      "scientific_name": "Podarcis muralis muralis",
+      "name": "Șopârla de ziduri",
+      "other_names": "",
+      "group": "Șopârle",
+      "note": ""
+    },
+    {
+      "scientific_name": "Podarcis muralis maculiventris",
+      "name": "Șopârla de ziduri",
+      "other_names": "",
+      "group": "Șopârle",
+      "note": ""
+    },
+    {
+      "scientific_name": "Podarcis tauricus tauricus",
+      "name": "Șopârlă de iarbă",
+      "other_names": "Șopârlă dobrogeană, Șopârlă dobrogeană de stepă, Șopârla taurică, Șopârla verde de stepă, Șopârla de stepă",
+      "group": "Șopârle",
+      "note": ""
+    },
+    {
+      "scientific_name": "Zootoca vivipara",
+      "name": "Șopârla de munte",
+      "other_names": "",
+      "group": "Șopârle",
+      "note": ""
+    },
+    {
+      "scientific_name": "Darevskia pontica",
+      "name": "Șopârla de pădure",
+      "other_names": "Șopârla de luncă",
+      "group": "Șopârle",
+      "note": ""
+    },
+    {
+      "scientific_name": "Eremias arguta deserti",
+      "name": "Șopârla de nisip",
+      "other_names": "",
+      "group": "Șopârle",
+      "note": ""
+    },
+    {
+      "scientific_name": "Anguis colchica",
+      "name": "Năpârca",
+      "other_names": "Șarpe de rouă",
+      "group": "Șopârle",
+      "note": ""
+    },
+    {
+      "scientific_name": "Eryx jaculus turcicus",
+      "name": "Șarpe de nisip",
+      "other_names": "Boa de nisip",
+      "group": "Șerpi",
+      "note": ""
+    },
+    {
+      "scientific_name": "Natrix natrix natrix",
+      "name": "Șarpele de casă",
+      "other_names": "",
+      "group": "Șerpi",
+      "note": ""
+    },
+    {
+      "scientific_name": "Natrix tessellata",
+      "name": "Șarpele de apă",
+      "other_names": "",
+      "group": "Șerpi",
+      "note": ""
+    },
+    {
+      "scientific_name": "Dolichophis caspius",
+      "name": "Șarpele rău",
+      "other_names": "Șarpele cu abdomenul galben",
+      "group": "Șerpi",
+      "note": ""
+    },
+    {
+      "scientific_name": "Elaphe sauromates",
+      "name": "Balaur",
+      "other_names": "Balaur dobrogean, Șarpele cu patru dungi răsăritean",
+      "group": "Șerpi",
+      "note": ""
+    },
+    {
+      "scientific_name": "Zamenis longissimus",
+      "name": "Șarpele lui Esculap",
+      "other_names": "",
+      "group": "Șerpi",
+      "note": ""
+    },
+    {
+      "scientific_name": "Coronella austriaca austriaca",
+      "name": "Șarpele de alun",
+      "other_names": "",
+      "group": "Șerpi",
+      "note": ""
+    },
+    {
+      "scientific_name": "Vipera ammodytes ammodytes",
+      "name": "Vipera cu corn",
+      "other_names": "Vipera cu corn bănățeană",
+      "group": "Șerpi",
+      "note": ""
+    },
+    {
+      "scientific_name": "Vipera ammodytes montandoni",
+      "name": "Vipera cu corn dobrogeană",
+      "other_names": "",
+      "group": "Șerpi",
+      "note": ""
+    },
+    {
+      "scientific_name": "Vipera berus berus",
+      "name": "Vipera",
+      "other_names": "Vipera comună",
+      "group": "Șerpi",
+      "note": ""
+    },
+    {
+      "scientific_name": "Vipera berus bosniensis",
+      "name": "Viperă bosniacă",
+      "other_names": "",
+      "group": "Șerpi",
+      "note": "prezența în România discutabilă"
+    },
+    {
+      "scientific_name": "Vipera nikolskii",
+      "name": "Vipera lui Nikolsky",
+      "other_names": "",
+      "group": "Șerpi",
+      "note": ""
+    },
+    {
+      "scientific_name": "Vipera renardi renardi",
+      "name": "Vipera de stepă Renard",
+      "other_names": "",
+      "group": "Șerpi",
+      "note": "prezența în România discutabilă, unii autori consideră populațiile din România ca aparținând subspeciei Vipera ursinii moldavica"
+    },
+    {
+      "scientific_name": "Vipera ursinii rakosiensis",
+      "name": "Vipera de fâneață",
+      "other_names": "",
+      "group": "Șerpi",
+      "note": ""
+    },
+    {
+      "scientific_name": "Vipera ursinii moldavica",
+      "name": "Vipera de stepă moldavă",
+      "other_names": "",
+      "group": "Șerpi",
+      "note": "A fost inițial considerată de Ion E. Fuhn ca fiind un hibrid între Vipera ursinii renardi și Vipera ursinii rakosiensis (Vipera ursinii rákosiensis ↔ Vipera ursinii renardi)"
+    }
+  ],
+  "meta": {
+    "title": "Reptile din România - Free Download",
+    "description": "Lista speciilor și subspeciilor de reptile (țestoase, șopârle și șerpi) întâlnite în România, cu denumirea științifică, denumirile populare, grupa și observații. Contains 35 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Reptile din România | ListBase",
+    "seo_description": "Download Reptile din România — 35 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 35 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Listă_de_reptile_din_România"
+    ]
+  }
+}

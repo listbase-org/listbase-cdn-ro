@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-27T02:17:12.287Z",
-  "total_datasets": 544,
-  "total_records": 171155,
+  "generated": "2026-11-27T02:17:23.213Z",
+  "total_datasets": 545,
+  "total_records": 171190,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "society",
@@ -14166,6 +14166,32 @@
         "xlsx": {
           "name": "ro-membrii-academiei-romane_RO.xlsx",
           "size": 51362
+        }
+      }
+    },
+    {
+      "id": "ro-reptile-din-romania",
+      "name": "Reptile din România",
+      "category": "science",
+      "record_count": 35,
+      "columns": [
+        "scientific_name",
+        "name",
+        "other_names",
+        "group",
+        "note"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Listă_de_reptile_din_România",
+      "updated": "2026-11",
+      "size": 9202,
+      "files": {
+        "csv": {
+          "name": "ro-reptile-din-romania_RO.csv",
+          "size": 3832
+        },
+        "xlsx": {
+          "name": "ro-reptile-din-romania_RO.xlsx",
+          "size": 8820
         }
       }
     },
