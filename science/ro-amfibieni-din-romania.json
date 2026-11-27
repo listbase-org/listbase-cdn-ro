@@ -1,0 +1,205 @@
+{
+  "id": "ro-amfibieni-din-romania",
+  "name": "Amfibieni din România",
+  "title": "Amfibieni din România",
+  "description": "Lista speciilor și subspeciilor de amfibieni (tritoni, salamandre, broaște) din România, cu denumirea științifică și populară, statutul IUCN și statutul din Cartea Roșie a Vertebratelor din România.",
+  "category": "science",
+  "source": "https://ro.wikipedia.org/wiki/Listă_de_amfibieni_din_România",
+  "source_url": "https://ro.wikipedia.org/wiki/Listă_de_amfibieni_din_România",
+  "updated": "2026-11",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "scientific_name",
+      "label": "Scientific Name",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "other_names",
+      "label": "Other Names",
+      "type": "string"
+    },
+    {
+      "key": "iucn_status",
+      "label": "Iucn Status",
+      "type": "string"
+    },
+    {
+      "key": "romania_red_book_status",
+      "label": "Romania Red Book Status",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "scientific_name": "Salamandra salamandra salamandra",
+      "name": "Salamandra",
+      "other_names": "Sălămâzdră de uscat",
+      "iucn_status": "LC",
+      "romania_red_book_status": "VU"
+    },
+    {
+      "scientific_name": "Ichthyosaura alpestris alpestris",
+      "name": "Triton de munte",
+      "other_names": "Sălămâzdră de munte",
+      "iucn_status": "LC",
+      "romania_red_book_status": "VU"
+    },
+    {
+      "scientific_name": "Lissotriton montandoni",
+      "name": "Triton carpatic",
+      "other_names": "Sălămâzdră carpatică",
+      "iucn_status": "LC",
+      "romania_red_book_status": "VU"
+    },
+    {
+      "scientific_name": "Triturus cristatus cristatus",
+      "name": "Triton cu creastă",
+      "other_names": "Sălămâzdră cu creastă",
+      "iucn_status": "LC",
+      "romania_red_book_status": "VU"
+    },
+    {
+      "scientific_name": "Triturus dobrogicus dobrogicus",
+      "name": "Triton cu creastă dobrogean",
+      "other_names": "Sălămâzdră dobrogeană",
+      "iucn_status": "NT",
+      "romania_red_book_status": "EN"
+    },
+    {
+      "scientific_name": "Triturus dobrogicus macrosoma",
+      "name": "Tritonul cu creastă dunărean",
+      "other_names": "",
+      "iucn_status": "",
+      "romania_red_book_status": ""
+    },
+    {
+      "scientific_name": "Lissotriton vulgaris vulgaris",
+      "name": "Triton comun",
+      "other_names": "Sălămâzdră comună",
+      "iucn_status": "LC",
+      "romania_red_book_status": "NT"
+    },
+    {
+      "scientific_name": "Lissotriton vulgaris ampelensis",
+      "name": "Tritonul românesc",
+      "other_names": "Triton comun transilvănean, Sălămâzdră de apă mică transilvană",
+      "iucn_status": "LC",
+      "romania_red_book_status": "VU"
+    },
+    {
+      "scientific_name": "Bombina bombina",
+      "name": "Buhai de baltă cu burta roșie",
+      "other_names": "Izvorașul cu burtă roșie",
+      "iucn_status": "LC",
+      "romania_red_book_status": "NT"
+    },
+    {
+      "scientific_name": "Bombina variegata variegata",
+      "name": "Buhai de baltă cu burtă galbenă",
+      "other_names": "Izvorașul cu burtă galbenă",
+      "iucn_status": "LC",
+      "romania_red_book_status": "NT"
+    },
+    {
+      "scientific_name": "Pelobates fuscus fuscus",
+      "name": "Broasca de pământ brună",
+      "other_names": "",
+      "iucn_status": "LC",
+      "romania_red_book_status": "VU"
+    },
+    {
+      "scientific_name": "Pelobates syriacus balcanicus",
+      "name": "Broasca de pământ siriacă",
+      "other_names": "",
+      "iucn_status": "LC",
+      "romania_red_book_status": "EN"
+    },
+    {
+      "scientific_name": "Bufo bufo bufo",
+      "name": "Broasca râioasă brună",
+      "other_names": "",
+      "iucn_status": "LC",
+      "romania_red_book_status": "NT"
+    },
+    {
+      "scientific_name": "Bufo viridis viridis",
+      "name": "Broasca râioasă verde",
+      "other_names": "",
+      "iucn_status": "LC",
+      "romania_red_book_status": "NT"
+    },
+    {
+      "scientific_name": "Hyla arborea arborea",
+      "name": "Brotăcel",
+      "other_names": "",
+      "iucn_status": "LC",
+      "romania_red_book_status": "VU"
+    },
+    {
+      "scientific_name": "Pelophylax ridibundus ridibundus",
+      "name": "Broasca mare de lac",
+      "other_names": "",
+      "iucn_status": "LC",
+      "romania_red_book_status": "NE"
+    },
+    {
+      "scientific_name": "Pelophylax kl. esculentus",
+      "name": "Broasca mică de lac",
+      "other_names": "",
+      "iucn_status": "LC",
+      "romania_red_book_status": "NE"
+    },
+    {
+      "scientific_name": "Pelophylax lessonae",
+      "name": "Broasca mică verde",
+      "other_names": "Broasca lui Lessona",
+      "iucn_status": "LC",
+      "romania_red_book_status": "NE"
+    },
+    {
+      "scientific_name": "Rana dalmatina",
+      "name": "Broasca roșie de pădure",
+      "other_names": "",
+      "iucn_status": "LC",
+      "romania_red_book_status": "VU"
+    },
+    {
+      "scientific_name": "Rana temporaria temporaria",
+      "name": "Broasca roșie de munte",
+      "other_names": "",
+      "iucn_status": "LC",
+      "romania_red_book_status": "VU"
+    },
+    {
+      "scientific_name": "Rana arvalis arvalis",
+      "name": "Broasca de mlaștină",
+      "other_names": "",
+      "iucn_status": "LC",
+      "romania_red_book_status": "EN"
+    },
+    {
+      "scientific_name": "Rana arvalis wolterstorffi",
+      "name": "Broască de mlaștină Wolterstorffi",
+      "other_names": "",
+      "iucn_status": "",
+      "romania_red_book_status": ""
+    }
+  ],
+  "meta": {
+    "title": "Amfibieni din România - Free Download",
+    "description": "Lista speciilor și subspeciilor de amfibieni (tritoni, salamandre, broaște) din România, cu denumirea științifică și populară, statutul IUCN și statutul din Cartea Roșie a Vertebratelor din România. Contains 22 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Amfibieni din România | ListBase",
+    "seo_description": "Download Amfibieni din România — 22 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 22 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ro.wikipedia.org/wiki/Listă_de_amfibieni_din_România"
+    ]
+  }
+}

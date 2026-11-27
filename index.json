@@ -1,8 +1,8 @@
 {
   "lang": "ro",
-  "generated": "2026-11-26T02:16:39.383Z",
-  "total_datasets": 543,
-  "total_records": 171133,
+  "generated": "2026-11-27T02:17:12.287Z",
+  "total_datasets": 544,
+  "total_records": 171155,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "society",
@@ -13964,6 +13964,32 @@
         "xlsx": {
           "name": "ro-vrancea-municipii_RO.xlsx",
           "size": 7105
+        }
+      }
+    },
+    {
+      "id": "ro-amfibieni-din-romania",
+      "name": "Amfibieni din România",
+      "category": "science",
+      "record_count": 22,
+      "columns": [
+        "scientific_name",
+        "name",
+        "other_names",
+        "iucn_status",
+        "romania_red_book_status"
+      ],
+      "source": "https://ro.wikipedia.org/wiki/Listă_de_amfibieni_din_România",
+      "updated": "2026-11",
+      "size": 6459,
+      "files": {
+        "csv": {
+          "name": "ro-amfibieni-din-romania_RO.csv",
+          "size": 1808
+        },
+        "xlsx": {
+          "name": "ro-amfibieni-din-romania_RO.xlsx",
+          "size": 7843
         }
       }
     },
